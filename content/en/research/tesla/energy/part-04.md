@@ -21,21 +21,28 @@ Iron is by far the most important factor in modern progress.
 
 But it does not add to the force urging man onward nearly as much as it might. 
 
-First of all, its manufacture as now carried on is connected with an appalling waste of energy.
-
-Then, again, only a part of all the iron produced is applied for useful purposes. 
-
-A good part of it goes to create frictional resistances, while still another large part is the means of developing negative forces greatly retarding human movement.
+First of all, its current manufacture incurs an appalling waste of energy. Moreover, only a part of all the iron produced is applied for useful purposes. 
+- A good part of it goes to create frictional resistances
+- Another large part is used in negative uses, such as for war, by negative forces that greatly retards human movement.
 
 Thus, the negative force of war is almost wholly represented in iron.
+- It is impossible to accurately estimate the magnitude of this force of war. 
+- But it is certainly very considerable. 
 
-It is impossible to estimate with any degree of accuracy the magnitude of this greatest of all retarding forces. But it is certainly very considerable. 
+ <!-- greatest of all retarding forces.  -->
 
-If the present positive impelling force due to all useful applications of iron be represented by ten, for instance, I should not think it exaggeration to estimate the negative force of war, with due consideration of all its retarding influences and results, at, say, six.
+Let us suppose that:
+- all the possible present positive impelling force due to all useful applications of iron be represented by ten
+
+the negative force of war, with due consideration of all its retarding influences and results, at, say, 6.
 
 On the basis of this estimate, the effective impelling force of iron in the positive direction would be measured by the difference of these two numbers, which is 4.
 
-But if, through the establishment of universal peace, the manufacture of war machinery should cease, and all struggle for supremacy between nations should be turned into healthful, ever active and productive commercial competition, then the positive impelling force due to iron would be measured by the sum of those two, numbers, which is 16. This force would have 4 times its present value.
+But if, through the establishment of universal peace, the manufacture of war machinery should cease
+
+ and all struggle for supremacy between nations should be turned into healthful, ever active and productive commercial competition, then the positive impelling force due to iron would be measured by the sum of those two, numbers, which is 16. 
+
+ This force would have 4 times its present value.
 
 This example is, of course, merely intended to give an idea of the immense increase in the useful performance of mankind which would result from a radical reform of the iron industries supplying the implements of warfare. 
 

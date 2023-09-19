@@ -4,7 +4,7 @@ heading:  "Chapter 5b"
 weight: 40
 contributors: ['Whittaker']
 image:  "/covers/history.jpg"
-description: "The case of a vibration performed in the plane of incidence he discussed in the same way. It was found that Fresnel's tangent-law could be obtained by assuming that ex and the normal pressure across the interface have equal values in the two contiguous media."
+description: "It was a simple matter to discuss the reflexion and refraction of an incident wave by the procedure of Fresnel and Cauchy."
 ---
 
 

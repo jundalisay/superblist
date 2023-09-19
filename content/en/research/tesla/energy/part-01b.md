@@ -89,4 +89,6 @@ In this manner, many compounds of nitrogen may be manufactured all over the worl
 
 Through these compounds the soil can be fertilized and its productiveness indefinitely increased. 
 
-An abundance of cheap and healthful food, not artificial, but such as we are accustomed to, may thus be obtained. This new and inexhaustible source of food-supply will be of incalculable benefit to mankind, for it will enormously contribute to the increase of the human mass, and thus add immensely to human energy. Soon, I hope, the world will see the beginning of an industry which, in time to come, will, I believe, be in importance next to that if iron. 
+An abundance of cheap and healthful food, not artificial, but such as we are accustomed to, may thus be obtained. This new and inexhaustible source of food-supply will be of incalculable benefit to mankind, for it will enormously contribute to the increase of the human mass, and thus add immensely to human energy. 
+
+Soon, I hope, the world will see the beginning of an industry which, in time to come, will, I believe, be in importance next to that if iron. 

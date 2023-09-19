@@ -10,17 +10,20 @@ description: ""
 
 <!-- The theory of electrons in metals has received support from the study of another phenomenon.  -->
 
-The 18th century philosophers knew that the air near an incandescent metal acquires the power of conducting electricity. 
+The 18th century philosophers knew that the air near an incandescent metal acquires the power of conducting electricity.
 
-Canton [118 wrote: "Bring the end of a poker when red-hot for a moment within 3-4 inches of a small electrified body. Its electrical power will be almost, if not entirely, destroyed."
+{{< q a="Canton" >}}
+Bring the end of a poker when red-hot for a moment within 3-4 inches of a small electrified body. Its electrical power will be almost, if not entirely, destroyed.
+{{< /q >}}
 
-The subject continued to attract attention at intervals[119]. 
+
+The subject continued to attract attention at intervals. 
 
 The process of conduction in gases came to be better understood, the conductivity produced in the neighbourhood of incandescent metals was attributed to the emission of electrically charged particles by the metals. 
 
-But it was not until the develop- mout of J.J. Thomson's theory of ionization in gages that notable advances were made. 
+But it was not until the development of J.J. Thomson's theory of ionization in gages that notable advances were made. 
 
-In 1899, Thomson[120] determined the ratio of the charge to the mass of the resinously charged ions emitted by a hot filament of carbon in rarefied hydrogen, by observing their deflexion in a magnetic field. 
+In 1899, Thomson determined the ratio of the charge to the mass of the resinously charged ions emitted by a hot filament of carbon in rarefied hydrogen, by observing their deflexion in a magnetic field. 
 
 The value obtained for the ratio was nearly the same as that which he had found for the corpuscles of cathode rays; whence he concluded that the negative ions emitted by the hot carbon were negative electrons.
 

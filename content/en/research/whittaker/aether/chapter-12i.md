@@ -26,7 +26,9 @@ f(u, v, w, x) dx du dv dw.
 
 One of these electrons, supposing it to escape collision, will in the interval of time dt travel from (x, y, z) to (x + u dt, y + vdt, z + wdt): and its x-component of velocity will at the end of the interval be increased by an amount eEdt/m, if m and e denote its mass and charge, and E denotes the electric force. Suppose that the number of electrons lost to this group by collisions in the interval dt is a dx du dv dw dt, and that the ​number added to the group by collisions in the same interval is b dx du dv dw dt. Then we have
 
+```
 f (u, v, w, x) + (b - a)dt = f(u + eEdt/m, v, w, x + udt),
+```
 
 and therefore
 
@@ -35,7 +37,9 @@ The law of distribution of velocities which Maxwell postulated for the molecules
 
 where N denotes the number of moving corpuscles in unit volume, r denotes the resultant velocity of a corpuscle (so that r2 = u2 + v2 + w2), and a denotes a constant which specifies the average intensity of agitation, and consequently the temperature. It is assumed that the law of distribution of velocities among the electrons in a metal is nearly of this form; but a term must be added in order to represent the general drifting of the electrons parallel to the axis of x. The simplest assumption that can be made regarding this term is that it is of the form
 
+
 u × a function of r only;
+
 we shall, therefore, write
 
 The value of χ(r) may now be determined from the equation
@@ -99,4 +103,3 @@ Each electron was now supposed to be free only for a very short time, from the m
 Under the influence of an external electric field the doublets orient themselves parallel to the electric force, and the electrons which are ejected from their negative poles give rise to a current predominantly in this direction. The electric conductivity of the metal may thus be calculated. 
 
 In order to comprise the conduction of heat in his theory, Thomson assumed that the kinetic energy with which an electron leaves an atom is proportional to the absolute temperature; so that if one part of the metal is hotter than another, the temperature will be equalized by the interchange of corpuscles. This theory, like the other, leads to a rational explanation of the law of Wiedemann and Franz.
-

@@ -29,9 +29,21 @@ Where does life come from? What is it? Whither does it tend?
 
 <!-- From an incandescent mass we have originated, and into a frozen mass we shall turn. Merciless is the law of nature, and rapidly and irresistibly we are drawn to our doom.  -->
 
-<!-- Lord Kelvin, in his profound meditations, allows us only a short span of life, something like six million years, after which time the suns bright light will have ceased to shine, and its life giving heat will have ebbed away, and our own earth will be a lump of ice, hurrying on through the eternal night. 
+<!-- 
 
-But do not let us despair. There will still be left upon it a glimmering spark of life, and there will be a chance to kindle a new fire on some distant star. This wonderful possibility seems, indeed, to exist, judging from Professor Dewar's beautiful experiments with liquid air, which show that germs of organic life are not destroyed by cold, no matter how intense; consequently they may be transmitted through the interstellar space. Meanwhile the cheering lights of science and art, ever increasing in intensity, illuminate our path, and marvels they disclose, and the enjoyments they offer, make us measurably forgetful of the gloomy future.  -->
+But do not let us despair. There will still be left upon it a glimmering spark of life, and there will be a chance to kindle a new fire on some distant star. 
+
+This wonderful possibility seems, indeed, to exist, judging from 
+
+Meanwhile the cheering lights of science and art, ever increasing in intensity, illuminate our path, and marvels they disclose, and the enjoyments they offer, make us measurably forgetful of the gloomy future.  -->
+
+Lord Kelvin, in his profound meditations, showed that life will last only around 6 million years, after which the sun's bright light will have ceased to shine along with its life-giving heat.
+
+ <!-- will have ebbed away, and our own earth will be a lump of ice, hurrying on through the eternal night. -->
+
+However, Professor Dewar did beautiful experiments with liquid air. It showed that the germs of organic life are not destroyed by cold, no matter how intense.
+
+It means that they may be transmitted through the interstellar space. 
 
 We might never be able to comprehend human life. But we know certainly that it is a movement. 
 

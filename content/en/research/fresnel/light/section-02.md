@@ -34,7 +34,10 @@ No interdependence of motion is here admissible, for such an assumption would be
 
 goes condensation, for instance, it tends to expand in all direc-tions ; and if throughout the entire wave the particles are dis-placed only along the normal, the result would be that all points of the wave lying upon the same spherical surface wouldsimultaneously suffer the same condensation or expansion, thusleaving the transverse pressures in equilibrium ; but whenaportion of the wave-front is intercepted or retarded in its pathby interposing an opaque or transparent screen, it is easily seenthat this transverse equilibrium is destroyed and that variouspoints of the wave may now send out rays along new directions.
 
-To follow by analytical mechanics all the various changeswhich a wave-front undergoes from the instant at which a partof it is intercepted by a screen would be an exceedingly diffi- cult task, and we do not propose to derive the laws of diffrac-tion in this manner, nor do we propose to inquire what happens in the immediate neighborhood of the opaque body, wherethe laws are doubtless very complicated and where the formof the edge of the screen must have a perceptible effect uponthe position and the intensity of the fringes. We proposerather to compute the relative intensities at different pointsof the wave-front only after it has gone a large number of wavelengths beyond the screen. Thus the positions at which westudy the waves are always to be regarded as separated fromthe screen by a distance which is very considerable comparedwith the length of a light-wave.
+To follow by analytical mechanics all the various changeswhich a wave-front undergoes from the instant at which a partof it is intercepted by a screen would be an exceedingly difficult task, and we do not propose to derive the laws of diffraction in this manner, nor do we propose to inquire what happens in the immediate neighborhood of the opaque body, wherethe laws are doubtless very complicated and where the formof the edge of the screen must have a perceptible effect uponthe position and the intensity of the fringes.
+
+We propose rather to compute the relative intensities at different pointsof the wave-front only after it has gone a large number of wavelengths beyond the screen. Thus the positions at which westudy the waves are always to be regarded as separated fromthe screen by a distance which is very considerable comparedwith the length of a light-wave.
+
 
 34. We shall not take up the problem of vibrations in anelastic fluid from the point of view which the mathematicians have ordinarily employed that is, considering only a single disturbance. 
 
@@ -118,14 +121,10 @@ U=A sin shows that the linear displacement of this wave with respecti\ to the fi
 makes with the resultant A, because A cos i a. Thus wehave complete analogy between the resultant of two mutuallyrectangular forces and the resultant of two trains of waves dif fering in phase by a quarter of a wave-length.
 
 39. The solution of this particular case for waves differing by a quarter of a wave-length suffices to solve all other cases. In fact, whatever be the number of the trains of waves, andwhatever be the intervals which separate them, we can alwayssubstitute for each of them its components referred to two ref- erence points which are common to each train of waves and whichare distant from each other by a quarter of a wave-length;then adding or subtracting, according to sign, the intensities of the components referred to the same point, we may reduce the
-whole motion to that of two trains of waves separated by the
-distance of a quarter of a wave-length; and the square root
-of the sum of the squares of their intensities will be the intensity of their resultant; but this is exactly the method employed in statics to ftrid the resultant of any number of forces ; here the wave-length corresponds to one circumference in the
-statical problem, and the interval of a quarter of a wavelength between the trains of waves to an angular displacementof 90 between the components.
+whole motion to that of two trains of waves separated by the distance of a quarter of a wave-length; and the square root of the sum of the squares of their intensities will be the intensity of their resultant; but this is exactly the method employed in statics to ftrid the resultant of any number of forces ; here the wave-length corresponds to one circumference in the statical problem, and the interval of a quarter of a wavelength between the trains of waves to an angular displacementof 90 between the components.
 
 40. It very often happens in optics that the intensities of
-light or the particular tint which one wishes to compute is produced by the meeting of only two trains of waves, as in the
-case of [Newton's] colored rings and the ordinary phenomena of color presented by crystalline plates. It is, therefore, well to know the general expression for the resultant of two trains of waves differing in phase by any amount whatever. The result
+light or the particular tint which one wishes to compute is produced by the meeting of only two trains of waves, as in the case of [Newton's] colored rings and the ordinary phenomena of color presented by crystalline plates. It is, therefore, well to know the general expression for the resultant of two trains of waves differing in phase by any amount whatever. The result
 is easily predicted from the general method which I haveexplained, but I think it will be wise to emphasize somewhatthe theory of vibrations, and to show directly that the waveresulting from two others, separated by any interval whatever,
 corresponds exactly in intensity and position to the resultant
 of two forces whose intensities are equal to those of the twopencils of light, making an angle with each other which bears
@@ -133,7 +132,7 @@ to one complete circumference the same ratio that the in- terval between the two
 
 Let x be the distance from the origin of the first train of waves to the light particle under consideration, and t the instant for which we wish to compute its velocity. The speedimpressed by the first train of waves will be a sin [fc (<-)], where a represents the intensity of this ray of light. 
 
-Let us call a' the intensity of the second pencil, and let usdenote by c the distance between corresponding points on thetwo trains of waves; the [oscillatory] velocity due to the secondtrain will then be
+<!-- Let us call a' the intensity of the second pencil, and let usdenote by c the distance between corresponding points on thetwo trains of waves; the [oscillatory] velocity due to the secondtrain will then be
 a' sin %TT ft -
 j
 , and hence the total velocity impressed upon the particle will bea sin 2nl t \ \-\-a' sin 2*1 1
@@ -158,3 +157,4 @@ J
 . But this is precisely t*he value of the resultant of two forces,a and a', inclined to each other at an angle %*.
 A
 
+ -->

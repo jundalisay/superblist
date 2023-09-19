@@ -2,6 +2,9 @@
 title: "HOW TO SIGNAL TO MARS"
 description: "Wireless the Only Way Now, Says Nicola Tesla—Mirror Plan Not Practicable"
 image: "/covers/tesla.jpg"
+writer:
+  name: Nikola Tesla
+  url: https://en.wikipedia.org/wiki/Nikola_Tesla
 weight: 110
 ---
 

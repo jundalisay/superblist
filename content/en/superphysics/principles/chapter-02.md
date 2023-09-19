@@ -67,10 +67,16 @@ Thus:
 
 For example, before a novel about a cat is written in a physical form, the idea for the novel must exist first. 
 
-All philosophical debates on ultimate causes can thus be categorized as 'chicken-versus-egg' as:
+Therefore, the metaphysical aethereal idea is superior and prior to its physical material form.  
+- The material form is easy and obvious.
+- The aethereal idea is abstract and hard to grasp.  
+
+To dull and unthinking minds, this makes the material version of the idea as seemingly superior, even if it is actually just the effect.
+
+The dull and the sharp-minded people then argue on which came first or which is superior. All philosophical debates on ultimate causes can thus be categorized as 'chicken-versus-egg' as:
 - pro-metaphysicality as ideas, spirit, and Plato's forms (this is the chicken)
   - In Hindu philosophy this manifests as Vedanta and Buddhism
-  - In Chinese philosophy, this manifests as Taoism 
+  - In Chinese philosophy, this manifests as Taoism and the paradoxical Tao
   - In Islamic philosophy, this manifests as Sufism
 - pro-physicality as matter, evidence, and Aristotle's material substance (this is the egg)
   - In Hindu philosophy, this manifests as sects of Shaivism and Kali (idol-worship)
@@ -135,11 +141,10 @@ We can then make an analogy that the Creator of the universe began writing Its i
 
 Unlike Physics that only has physical time, Superphysics has both physical and metaphysical time:
 
-{{< q >}}
+{{< q c="Timaeus by Plato Simplified, Chapter 4" >}}
 The Creator rejoiced when He saw his creation moving and living..The nature of the creation's Idea-being was everlasting. But it is impossible to make creation everlasting. So He resolved to have a moving image of eternity. When He set the order of the heaven, He made this image eternal but moving according to number, while eternity itself rests in unity. 
-<br><br>
+
 This image is what we call time.
-<cite>Timaeus Simplified, Chapter 4</cite>
 {{< /q >}}
 
 
