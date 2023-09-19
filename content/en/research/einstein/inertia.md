@@ -80,26 +80,30 @@ p
 ```
 
 By subtraction we obtain from these equations H0 − E0 − (H1 − E1) = L (1 p
+
+```
 1 − v
 2/c2
 − 1
 )
 ```
 
-The two differences of the form H − E occurring in this expression have simple physical significations. 
 
-H and E are energy values of the same body referred to two systems of co-ordinates which are in motion relatively to each other,
-the body being at rest in one of the two systems (system (x, y, z)). 
+The two differences of the form `H − E` occurring in this expression have simple physical significations. 
 
-Thus it is clear that the difference H − E can differ from the kinetic energy K of the body, with respect to the other system (ξ, η, ζ), only by an additive constant C, which
-depends on the choice of the arbitrary additive constants of the energies H and E. 
+`H` and `E` are energy values of the same body referred to two systems of co-ordinates which are in motion relatively to each other, the body being at rest in one of the two systems (system (`x, y, z`)). 
 
-Thus we may place
+Thus, the difference `H − E` can differ from the kinetic energy K of the body, with respect to the other system (`ξ, η, ζ`), only by an additive constant `C`, which depends on the choice of the arbitrary additive constants of the energies `H` and `E`. 
 
+Thus we may place:
+
+```
 H0 − E0 = K0 + C,
 H1 − E1 = K1 + C,
+```
 
 since C does not change during the emission of light. So we have
+
 
 ```
 K0 − K1 = L (
@@ -111,9 +115,11 @@ p
 )
 ```
 
-The kinetic energy of the body with respect to (ξ, η, ζ) diminishes as a result of the emission of light, and the amount of diminution is independent of the
-properties of the body. Moreover, the difference K0 −K1, like the kinetic energy of the electron (§ 10), depends on the velocity.
-Neglecting magnitudes of fourth and higher orders we may place 
+The kinetic energy of the body with respect to (`ξ, η, ζ`) diminishes as a result of the emission of light. The amount of diminution is independent of the properties of the body. 
+
+Moreover, the difference `K0 − K1`, like the kinetic energy of the electron (§ 10), depends on the velocity.
+
+Neglecting magnitudes of fourth and higher orders, we may place:
 
 ```
 K0 − K1 =
@@ -126,33 +132,31 @@ v
 2
 ```
 
-From this equation it directly follows that:
+From this equation, it directly follows that:
 
-If a body gives off the energy L in the form of radiation, its mass diminishes by L/c2
+If a body gives off the energy `L` in the form of radiation, its mass diminishes by `L/c2`.
 
-The fact that the energy withdrawn from the body becomes energy of radiation evidently makes no difference, so that we are led to the more general
-conclusion that The mass of a body is a measure of its energy-content.
+The fact that the energy withdrawn from the body becomes energy of radiation evidently makes no difference, so that we are led to the more general conclusion that The mass of a body is a measure of its energy-content.
 
-If the energy changes by L, the mass changes in the same sense by L/9 × 1020, the energy being
-measured in ergs, and the mass in grammes.
+If the energy changes by `L`, the mass changes in the same sense by `L/9 × 1020`, the energy being measured in ergs, and the mass in grammes.
 
-It is not impossible that with bodies whose energy-content is variable to a high degree (e.g. with radium salts) the theory may be successfully put to the
-test.
+It is not impossible that with bodies whose energy-content is variable to a high degree (e.g. with radium salts) the theory may be successfully put to the test.
 
 If the theory corresponds to the facts, radiation conveys inertia between the emitting and absorbing bodies.
 
 
+{{< box >}}
+### 1923 Note
 
-### About this Document
+This edition is based on the English translation of his original 1905 German paper which appeared in the book The Principle of Relativity, published in 1923 by Methuen and Company, Ltd. of London. 
 
-This edition of Einstein’s Does the Inertia of a Body Depend upon its Energy-Content is based on the English translation of his original 1905 Germanlanguage paper (published as Ist die Tr¨agheit eines K¨orpers von seinem Energiegehalt abh¨angig?, in Annalen der Physik. 18:639, 1905) which appeared
-in the book The Principle of Relativity, published in 1923 by Methuen and Company, Ltd. of London. Most of the papers in that collection are English
-translations by W. Perrett and G.B. Jeffery from the German Das Relativatsprinzip, 4th ed., published by in 1922 by Tuebner. All of these sources are
-now in the public domain; this document, derived from them, remains in the public domain and may be reproduced in any manner or medium without
-permission, restriction, attribution, or compensation. 
+ <!-- (published as Ist die Tr¨agheit eines K¨orpers von seinem Energiegehalt abh¨angig?, in Annalen der Physik. 18:639, 1905)  -->
 
-The footnote is as it appeared in the 1923 edition. The 1923 English translation modified the notation used in Einstein’s 1905 paper to conform
-to that in use by the 1920’s; for example, c denotes the speed of light, as opposed the V used by Einstein in 1905. In this paper Einstein uses L to
-denote energy; the italicised sentence in the conclusion may be written as the equation “m = L/c2
-” which, using the more modern E instead of L to denote energy, may be trivially rewritten as “E = mc2
-”
+<!--  Most of the papers in that collection are English translations by W. Perrett and G.B. Jeffery from the German Das Relativatsprinzip, 4th ed., published by in 1922 by Tuebner. 
+
+All of these sources are now in the public domain. This document, derived from them, remains in the public domain and may be reproduced in any manner or medium without permission, restriction, attribution, or compensation.  -->
+
+This translation modified the notation used in Einstein’s 1905 paper to conform to what is used by the 1920’s. For example, `c` is the speed of light, as opposed the `V` used by Einstein in 1905. 
+
+In that paper, Einstein uses `L` to denote energy. The italicised sentence in the conclusion may be written as the equation “m = L/c2 ” which, using the more modern E instead of L to denote energy, may be trivially rewritten as “E = mc2”
+{{< /box >}}

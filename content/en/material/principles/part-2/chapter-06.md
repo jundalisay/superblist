@@ -12,7 +12,11 @@ icon: /icons/spmat.png
 ---
 
 
-The practical use of qosts is to enable levitation and teleportation technologies that do not rely on lower layers such as radiant electromagnetism (EM) or material combustion. This will lead to cheaper and faster spacetravel that is impossible with the current combustion-based technology which is based on the material and transformative layers.
+Spacetime technologies are those that use the Spacetime Layer as its main mechanism. That mechanism uses invisible spacetime particles caled Qosts or Quanta of Space-Time.
+
+The practical use of qosts is to enable levitation and teleportation technologies that do not rely on lower layers such as the Radiant layer as electromagnetism (EM) or the Materal Layer as material combustion. This will lead to cheaper and faster spacetravel that is impossible with the current combustion-based technology as used by SpaceX and the Atlas rocket.
+
+ <!-- which is based on the material and transformative layers. -->
 
 ![Caveman technology](https://sorasystem.sirv.com/graphics/caveman.jpg)
 
@@ -61,6 +65,3 @@ The common reaction of disbelievers is to reject such evidence. But without such
 It would be like cavemen preferring that all humans stay as cavemen instead of upgrading themselves into modern humans who enjoy modern conveniences like the internet, healthcare, and manufacturing. This would happen if such caveman preferred easy skills such as hunting, gathering, and idol worship over advanced skills acquired many years from from preschool to university. 
 
 The skillset for qost and aetherial technologies require much more education than what is currently available -- it would require everyone to learn both Western and Eastern philosophy (subjective aspects of reality), on top of data science and all the fields of maths (objective aspects).
-
-
-
