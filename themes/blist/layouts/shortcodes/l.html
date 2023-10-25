@@ -1,0 +1,6 @@
+{{ $ava := .Get "ava" | default "" }}
+{{ $a := .Get "a" | default "" }}
+
+<div class="left {{ $ava }} {{ $a }}" data-sal="slide-right"><small class="h" style="">{{ $ava }} {{ $a }}</small>
+  {{ .Inner |  markdownify }}
+</div>

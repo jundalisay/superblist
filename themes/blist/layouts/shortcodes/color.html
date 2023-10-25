@@ -1,0 +1,5 @@
+{{ $shortcode := . }}
+{{ $color := $shortcode.Get "color" | default "lightseagreen" }}
+{{ $val := $shortcode.Get "val" | default }}
+
+<span class="" style="color: {{ $color }}">{{ $val }}</span>

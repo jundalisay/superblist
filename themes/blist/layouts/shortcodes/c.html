@@ -1,0 +1,7 @@
+{{ $shortcode := . }}
+{{ $color := $shortcode.Get "v" | default "lightseagreen" }}
+
+<!--  -->
+<span class="" style="color: {{ $color }}">
+{{ .Inner | markdownify }}
+</span>

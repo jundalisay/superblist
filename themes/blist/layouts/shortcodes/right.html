@@ -1,0 +1,9 @@
+{{ $shortcode := . }}
+{{ $ava := $shortcode.Get "ava" | default "" }}
+{{ $ava := $shortcode.Get "a" | default "" }}
+
+<div class="right {{ $ava }}" data-sal="slide-right"><small class="h" style="">{{ $ava }}</small>
+  {{ $shortcode.Inner |  safeHTML }}
+</div>
+
+

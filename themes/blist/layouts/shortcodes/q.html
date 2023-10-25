@@ -1,0 +1,5 @@
+{{ $a := .Get "a" | default "" }}
+
+<div class="squote {{ $a }}" data-sal="slide-right">
+  {{ .Inner | safeHTML }}
+</div>
