@@ -1,94 +1,233 @@
-baseurl = "https://blist.vercel.app"
-metaDataFormat = "yaml"
-title = "Blist Multilingual Theme"
+baseurl = "https://superphysics.org"
+# metaDataFormat = "yaml"
+title = "Superphysics"
 theme = "blist"
+logo = "/icons/sp.png"
 
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
+
+paginate = 12
+
+
 [languages]
   [languages.en]
     contentDir = "content/en" #English
     weight = 1
     languageName = "English"
-    [languages.en.params]
-      introTitle = "Hey! I'm Katheryn Fox"
-      introSubtitle = "26 y/o junior developer who enjoys social card games, blogging and painting"
-      introPhoto = "/picture.jpg"
-      logo = "/blist-logo.png"
     [[languages.en.menu.main]]
-        name = "Blog"
-        url = "blog"
+        name = "Research"
+        url = "research"
         weight = 1
-
     [[languages.en.menu.main]]
-        name = "About"
-        url = "page/about/"
+        name = "Superphysics"
+        url = "superphysics"
         weight = 2
-
     [[languages.en.menu.main]]
-        name = "Tags"
-        url = "tags"
+        name = "Material"
+        url = "material/"
         weight = 3
-
-    [[languages.en.menu.main]]
-        name = "Top Post"
-        url = "/en/blog/emoji-support/"
+    # [[languages.en.menu.main]]
+    #     name = "Tags"
+    #     url = "tags"
+    #     weight = 3
+    [[languages.de.menu.main]]
+        name = "Bio"
+        url = "bio"
         weight = 4
+    [[languages.de.menu.main]]
+        name = "Supersociology"
+        url = "social/supersociology"
+        weight = 5
+    [[languages.de.menu.main]]
+        name = "Supereconomics"
+        url = "social/supereconomics"
+        weight = 6
+    [[languages.de.menu.main]]
+        name = "Social Cycles"
+        url = "social/cycles"
+        weight = 7
 
   [languages.de]
-    contentDir = "content/de" # Deutsch
+    contentDir = "content/de"
     weight = 2
     languageName = "Deutsch"
-    title = "Blist (mehrsprachig)"
-    description = "Modernes Blog-Theme für Ihre Hugo-Site."
-    [languages.de.params]
-      introTitle = "Hallo, ich bin Katheryn Fox"
-      introSubtitle = "26-jährige Junior-Entwicklerin, die Spaß an sozialen Kartenspielen, Bloggen und Malen hat"
-      introPhoto = "/picture.jpg"
-      logo = "/blist-logo-de.png"
     [[languages.de.menu.main]]
-        name = "Blog"
-        url = "blog"
+        name = "Research"
+        url = "research"
         weight = 1
-
     [[languages.de.menu.main]]
-        name = "Über mich"
-        url = "page/about/"
+        name = "Superphysics"
+        url = "superphysics"
         weight = 2
-
     [[languages.de.menu.main]]
-        name = "Tags"
-        url = "tags"
+        name = "Material"
+        url = "material"
         weight = 3
-        
+    [[languages.de.menu.main]]
+        name = "Bio"
+        url = "bio"
+        weight = 4
+    [[languages.de.menu.main]]
+        name = "Supersociology"
+        url = "social/supersociology"
+        weight = 5
+    [[languages.de.menu.main]]
+        name = "Supereconomics"
+        url = "social/supereconomics"
+        weight = 6
+    [[languages.de.menu.main]]
+        name = "Social Cycles"
+        url = "social/cycles"
+        weight = 7
+
   [languages.fr]
-    contentDir = "content/fr" #French
+    contentDir = "content/fr"
     weight = 1
     languageName = "Français"
-    [languages.fr.params]
-      introTitle = "Salut! Je suis Katheryn Fox"
-      introSubtitle = "Développeuse junior de 26 ans qui adore les jeux de société, le blogging et la peinture"
-      introPhoto = "/picture.jpg"
-      logo = "/blist-logo.png"
     [[languages.fr.menu.main]]
-        name = "Blog"
-        url = "blog"
+        name = "Research"
+        url = "research"
         weight = 1
-
     [[languages.fr.menu.main]]
-        name = "À propos"
-        url = "page/about/"
+        name = "Superphysics"
+        url = "superphysics"
         weight = 2
-
     [[languages.fr.menu.main]]
-        name = "Tags"
-        url = "tags"
+        name = "Material"
+        url = "material/"
         weight = 3
-        
-  [languages.dy]
-    contentDir = "content/dy" #Example language
-    weight = 3
-    languageName = "Test Language"
+
+[ar]
+    weight          = 2
+    languageCode    = "ar"
+    languageName    = "Arabic"
+    contentDir      = "content/ar"
+    copyright       = "&copy; 2023 Pantrypoints Technologies"
+    title           = "الفيزياء الفائقة"
+    [ar.params]
+        author = "Pantrypoints Technologies"
+        description = "نموذج علمي يعتمد على الموجات"
+
+
+[zh]
+    weight          = 3
+    languageCode    = "zh"
+    languageName    = "Chinese"
+    contentDir      = "content/zh"
+    copyright       = "&copy; 2023 Pantrypoints Technologies"
+    title           = "Superphysics"
+    [zh.params]
+        author = "Pantrypoints Technologies"
+        description = "超物理学：基于波动的科学范式"
+
+
+[fr]
+    weight          = 10
+    languageCode    = "fr"
+    languageName    = "French"
+    contentDir      = "content/fr"
+    copyright       = "&copy; 2023 Pantrypoints Technologies"
+    title           = "Superphysique"
+    [fr.params]
+        author = "Pantrypoints Technologies"
+        description = "Une Nouvelle Science Basée sur la Métaphysique et la Dialectique Socratique"
+
+
+
+[de]
+    weight          = 20
+    languageCode    = "de"
+    languageName    = "German"
+    contentDir      = "content/de"
+    copyright       = "&copy; 2023 Pantrypoints Technologies"
+    title           = "SUPERPHYSIK"
+    [de.params]
+        author = "Pantrypoints Technologies"
+        description = "Basierend auf der Dynamik der empfindungsfähigen Energie"
+
+
+[id]
+    weight          = 30
+    languageCode    = "id"
+    languageName    = "Indonesian"
+    contentDir      = "content/id"
+    copyright       = "&copy; 2023 Pantrypoints Technologies"
+    title           = "Superfisika"
+    [id.params]
+        author = "Pantrypoints Technologies"
+        description = "Ilmu Baru Berdasarkan Metafisika dan Dialektika Sokratik"
+
+
+
+[jp]
+    weight          = 40
+    languageCode    = "jp"
+    languageName    = "Japanese"
+    contentDir      = "content/jp"
+    copyright       = "&copy; 2023 Pantrypoints Technologies"
+    title           = "超物理学"
+    [jp.params]
+        author = "Pantrypoints Technologies"
+        description = "超物理学 -- 波動に基づく科学的パラダイム"
+
+[kr]
+    weight          = 45
+    languageCode    = "kr"
+    languageName    = "Korean"
+    contentDir      = "content/kr"
+    copyright       = "&copy; 2023 Pantrypoints Technologies"
+    title           = "슈퍼물리학"
+    [kr.params]
+        author = "Pantrypoints Technologies"
+        description = "슈퍼물리학 - 파동기반 과학 패러다임"
+
+
+[pt]
+    weight          = 47
+    languageCode    = "pt"
+    languageName    = "Portuguese"
+    contentDir      = "content/pt"
+    copyright       = "&copy; 2023 Pantrypoints Technologies"
+    title           = "Superfísica"
+    [pt.params]
+        author = "Pantrypoints Technologies"
+        description = "Paradigma Científico Baseado em Ondas"
+
+
+[es]
+    weight          = 50
+    languageCode    = "es"
+    languageName    = "Spanish"
+    contentDir      = "content/es"
+    copyright       = "&copy; 2023 Pantrypoints Technologies"
+    title           = "Superfísica"
+    [es.params]
+        author = "Pantrypoints Technologies"
+        description = "Paradigma científico basado en ondas"
+
+[tl]
+    weight          = 80
+    languageCode    = "tl"
+    languageName    = "Tagalog"
+    contentDir      = "content/tl"
+    copyright       = "&copy; 2023 Pantrypoints Technologies"
+    title           = "Superphysics"
+    [tl.params]
+        author = "Pantrypoints Technologies"
+        description = "Ang Superphysics ay bagong siyensya na base sa Metaphysics at Socratic Dialectics."
+
+[vi]
+    weight          = 90
+    languageCode    = "vi"
+    languageName    = "Vietnamese"
+    contentDir      = "content/vi"
+    copyright       = "&copy; 2023 Pantrypoints Technologies"
+    title           = "Superphysics"
+    [vi.params]
+        author = "Pantrypoints Technologies"
+        description = "Mô hình khoa học dựa trên sóng"
+
 
 [params]
   # Enable the darkmode toggle in header
@@ -112,12 +251,9 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2021 - Katheryn Fox · All rights reserved"
-  favicon = "/favicon.svg"
+  copyright = "Copyright © 2023 | Pantrypoints Technologies"
+  favicon = "/icons/sp30.png"
 
-  # Color for the intro details and social links block, not applicable for dark mode
-  # Supported values: Any color from TailwindCSS default colors
-  # Reference: https://tailwindcss.com/docs/customizing-colors
   ascentColor = "bg-blue-100"
 
   # The page bundle that is shown on the front page
@@ -135,28 +271,25 @@ DefaultContentLanguageInSubdir = true
   # Can be added to a page level also in markdown frontmatter
   toc = true
 
-  # Hides the thumbnail in post view
-  # Thumbnails in home and blog pages will still be shown
-  # This setting can also be in page's markdown file
+
   hidePageThumbnail = false
 
 # Comments system
 [params.comments]
-  # Supports disqus, giscus and utterances
-  # Check hugo docs for setting up disqus
   system = "giscus"
 
-  # Options for giscus, exclude hyphens
-  repo = ""
-  repoid = ""
-  category = ""
-  categoryid = ""
-  mapping = ""
-  strict = ""
-  reactionsenabled = ""
-  emitmetadata = ""
-  inputposition = ""
-  theme = ""
+  repo="jundalisay/superblist"
+  repo-id="R_kgDOKk--Tw"
+  category="General"
+  category-id="DIC_kwDOKk--T84CacDf"
+  mapping="pathname"
+  strict="0"
+  reactions-enabled="1"
+  emit-metadata="0"
+  input-position="bottom"
+  theme="preferred_color_scheme"
+  lang="en"
+  crossorigin="anonymous"
 
   # Options for utterances, exclude hyphens
   # repo = ""
@@ -165,67 +298,67 @@ DefaultContentLanguageInSubdir = true
 
 [params.homepage.social]
   # Global params common for both languages
-  title = "Follow me"
-  description = "I work on everything coding and tweet developer memes"
+  title = "Follow us!"
+  description = "We're building a new science and new systems for a better reality"
 
   [[params.homepage.social.icons]]
     website = "twitter"
-    url = "https://twitter.com/"
-  [[params.homepage.social.icons]]
-    website = "linkedin"
-    url = "https://linkedin.com/in/"
-  [[params.homepage.social.icons]]
-    website = "xing"
-    url = "https://www.xing.com/profile/"
-  [[params.homepage.social.icons]]
-    website = "telegram"
-    url = "https://t.me/"
-  [[params.homepage.social.icons]]
-    website = "github"
-    url = "https://github.com/"
-  [[params.homepage.social.icons]]
-    website = "buymeacoffee"
-    url = "https://www.buymeacoffee.com/"
-  [[params.homepage.social.icons]]
-    website = "medium"
-    url = "https://medium.com/"
-  [[params.homepage.social.icons]]
-    website = "reddit"
-    url = "https://reddit.com/"
-  [[params.homepage.social.icons]]
-    website = "dribbble"
-    url = "https://dribbble.com/"
-  [[params.homepage.social.icons]]
-    website = "stackoverflow"
-    url = "https://stackoverflow.com/"
-  [[params.homepage.social.icons]]
-    website = "xda"
-    url = "https://forum.xda-developers.com/"
-  [[params.homepage.social.icons]]
-    website = "tiktok"
-    url = "https://tiktok.com"
-  [[params.homepage.social.icons]]
-    website = "googlescholar"
-    url = "https://scholar.google.com/"
-  [[params.homepage.social.icons]]
-    website = "mastodon"
-    url = "https://joinmastodon.org"
+    url = "https://twitter.com/superphysicsorg"
+  # [[params.homepage.social.icons]]
+  #   website = "linkedin"
+  #   url = "https://linkedin.com/in/"
+  # [[params.homepage.social.icons]]
+  #   website = "xing"
+  #   url = "https://www.xing.com/profile/"
+  # [[params.homepage.social.icons]]
+  #   website = "telegram"
+  #   url = "https://t.me/"
+  # [[params.homepage.social.icons]]
+  #   website = "github"
+  #   url = "https://github.com/"
+  # [[params.homepage.social.icons]]
+  #   website = "buymeacoffee"
+  #   url = "https://www.buymeacoffee.com/"
+  # [[params.homepage.social.icons]]
+  #   website = "medium"
+  #   url = "https://medium.com/"
+  # [[params.homepage.social.icons]]
+  #   website = "reddit"
+  #   url = "https://reddit.com/"
+  # [[params.homepage.social.icons]]
+  #   website = "dribbble"
+  #   url = "https://dribbble.com/"
+  # [[params.homepage.social.icons]]
+  #   website = "stackoverflow"
+  #   url = "https://stackoverflow.com/"
+  # [[params.homepage.social.icons]]
+  #   website = "xda"
+  #   url = "https://forum.xda-developers.com/"
+  # [[params.homepage.social.icons]]
+  #   website = "tiktok"
+  #   url = "https://tiktok.com"
+  # [[params.homepage.social.icons]]
+  #   website = "googlescholar"
+  #   url = "https://scholar.google.com/"
+  # [[params.homepage.social.icons]]
+  #   website = "mastodon"
+  #   url = "https://joinmastodon.org"
   [[params.homepage.social.icons]]
     website = "youtube"
-    url = "https://youtube.com"
-  [[params.homepage.social.icons]]
-    website = "instagram"
-    url = "https://instagram.com"
+    url = "https://www.youtube.com/@superphysicsorg"
+  # [[params.homepage.social.icons]]
+  #   website = "instagram"
+  #   url = "https://instagram.com"
   [[params.homepage.social.icons]]
     website = "facebook"
-    url = "https://facebook.com"
-  [[params.homepage.social.icons]]
-    website = "behance"
-    url = "https://behance.net"
+    url = "https://www.facebook.com/superphysicsorg"
+  # [[params.homepage.social.icons]]
+  #   website = "behance"
+  #   url = "https://behance.net"
 
-[[menu.main]]
-  name = "About"
-  url = "/about"
+# [[menu.main]]
+#   name = "About"
+#   url = "/about"
 
 [build]
   writeStats = true

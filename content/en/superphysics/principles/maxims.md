@@ -2,7 +2,7 @@
 title: "Maxims"
 
 date: 2019-01-01
-img: /photos/tech/mac.jpg
+image: /photos/tech/mac.jpg
 # description: "All that we perceive is in the universe which is a matrix of the ideas of the Creator of existence"
 weight: 54
 contributors: ['Juan']

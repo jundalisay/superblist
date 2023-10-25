@@ -9,10 +9,6 @@ image: "/flags/ru.png"
 description: "The social cycles of Russia last 15 years"
 contributors: ['Juan']
 icon: "/flags/ru.png"
-comments:
-  - img: "/avatars/huong.jpg"
-    content: "When will the war end?"
-    commentdate: 2022-05-01
 ---
 
 
@@ -226,4 +222,3 @@ Had Ukraine surrendered:
 Russia would change its cycle in 15 years anyway, allowing a relaxation of its nonliberal policies towards Ukraine. By that time, its union with Ukraine could even spur democracy in Russia itself, in a natural, painless way. 
 
 This is similar to how North Vietnam should've surrendered to South Vietnam and gotten freedom anyway without going through the horrors of war. 
-

@@ -1,8 +1,7 @@
 ---
 title: "Qualimath and Cartesian Physics"
-# heading: "Impartial Spectator Automated Intelligence Aggregation Host"
 date: 2023-08-24
-img: /graphics/physics/qualimath.jpg
+image: /graphics/physics/qualimath.jpg
 description: "Our proposed revival of Descartes' Physics has its own math called Qualimath which focuses on state-change instead of the linear processing of discrete quantities"
 # AI also administers the Clearing Funds which are the proposed investment system that complements bonds.
 contributors: ['Juan']

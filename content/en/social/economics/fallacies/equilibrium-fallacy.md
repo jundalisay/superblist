@@ -1,7 +1,7 @@
 ---
 title: "The Market Equilibrium Fallacy Part 1"
 linkTitle: Equilibrium Fallacy 1
-description: Did you know equlibrium is a mercantilist fallacy that was denounced by philosophers in the 18th century? Yet it was established in the 19th century by the Marginal Revolution. This then caused so many Panics, which led to World War I, and Recessions, the most famous of which was the Great Depression which led to World War 2
+description: Did you know equlibrium is a mercantilist fallacy that was denounced by philosophers in the 18th century?
 # date: 2015-08-21
 # date: 2021-10-14
 date: 2022-01-06
@@ -10,14 +10,6 @@ image: "/photos/grains.jpg"
 heading: "How Economics Leads to Crises"
 contributors: ['Juan']
 icon: /icons/pantry.png
-prev: /social/economics/fallacies
-next: /social/economics/fallacies/interest
-comments:
-  - img: "/avatars/blank.png"
-    name: Andrew
-    content: "In neoclassical economics, established way before Samuelson, the short supply curves slopes upward because of diminishing marginal returns, only the long-run supply is based on AC and that is not necessarily upward sloping."
-    commentdate: 2022-05-01
-
 ---
 
 
@@ -162,9 +154,8 @@ Smith's supply curve is in the left side sloping downwards, representing efficie
 
 All Economics books that discuss the upward sloping supply curve **have no choice but to admit that it is caused by inefficiency**:
 
-{{< q >}}
+{{< q c="Case & Fair, P. 62" >}}
 Often an individual firm’s ability to respond to an increase in price is constrained by its existing scale of operations, or capacity, in the short run. For example, Brown’s ability to produce more soybeans depends on the size of his farm, the fertility of his soil, and the types of equipment he has. The fact that output stays constant at 45,000 bushels per year suggests thathe is running up against the limitsimposed by the size of his farm, the quality of his soil, and his existing technology.
-<cite>Case & Fair, P. 62</cite>
 {{< /q >}}
 
 

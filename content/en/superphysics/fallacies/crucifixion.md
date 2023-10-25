@@ -1,7 +1,7 @@
 ---
 title: "The Crucifixion of Jesus"
 date: 2023-04-03
-img: "/covers/jesus.jpg"
+image: "/covers/jesus.jpg"
 description: ""
 contributors: ['Juan']
 icon: /icons/sp.png

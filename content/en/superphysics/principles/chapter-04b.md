@@ -4,15 +4,11 @@ title: "Qualimath: The Math for Superphysics"
 # Math for Qualities and Ratios" more than Quantities and Equalities"
 date: 2020-12-27
 weight: 12
-img: "/graphics/physics/math.jpg"
+image: "/graphics/physics/math.jpg"
 description: "Qualimath is Math for operating on Qualities instead of Quantities"
 contributors: ['Juan']
 icon: /icons/sp.png
 math: true
-comments:
-  - img: "/avatars/lam.jpg"
-    content: "Can I use it to solve my math homework?"
-    commentdate: 2022-05-01
 ---
 
 
@@ -109,9 +105,8 @@ Here, the smaller number is put before the larger. In case of multiple multiplie
 This use of states, foci, and arrangements greatly simplifies math instead of making it boring and burdensome.  
 
 
-{{< q a="descartes" >}}
+{{< q a="Descartes" c="Method of Reasoning and seeking Truth in the Sciences Simplified, Part 2" >}}
 Modern algebra has so many certain rules and formulas that it is full of confusion and obscurity that embarrasses instead of cultivating the mind.
-<cite>Descartes, Method of Reasoning and seeking Truth in the Sciences Simplified, Part 2</cite>
 {{< /q >}}
 
 
@@ -274,9 +269,8 @@ An AI-driven* ship in our universe that teleports into another universe with dif
 
 A qualitative definition in one’s mind retains itself even if its mind moves into another universe. *This is because that defintion is always anchored in the ego (feeling of the self) of that mind.* This was implied by Adam Smith:
 
-{{< q a="smith" >}}
+{{< q a="Smith" c="Theory of Moral Sentiments" >}}
 I can only fairly compare those big objects and the small objects near me by transporting myself in fancy, to a place from where I can survey both at equal distances, and judge their real proportions.
-<cite>Theory of Moral Sentiments</cite>
 {{< /q >}}
 
 

@@ -4,8 +4,7 @@ title: "Critical Feelings"
 date: 2020-12-12
 # date: 2020-05-26
 weight: 21
-img: "/photos/psych/heart.jpg"
-
+image: "/photos/psych/heart.jpg"
 description: "Critical feeling is done by the heart as a sixth or intuitional sense to catch the ego (the feeling of the self)"
 contributors: ['Juan']
 icon: /icons/sp.png

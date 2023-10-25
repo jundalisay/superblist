@@ -2,7 +2,7 @@
 title: "Entity Rights"
 heading: "An alternative to human rights and animal rights"
 date: "2022-05-13"
-img: /photos/physics/ai.jpg
+image: /photos/physics/ai.jpg
 description: ""
 weight: 50
 contributors: ['Juan']

@@ -1,5 +1,16 @@
-{{ $a := .Get "a" | default "" }}
+{{ $a := .Get "a" | default "No-photo" }}
+{{ $c := .Get "c" | default "" }}
 
-<div class="squote {{ $a }}" data-sal="slide-right">
-  {{ .Inner | safeHTML }}
+<div class="squote bg-gray-100 dark:bg-gray-700 border border-lg rounded-lg shadow p-3" data-sal="slide-right">
+  <div class="{{ $a }}" style="border-radius: 999px; height: 50px; width: 50px; background-size: cover; background-repeat: no-repeat;"></div>  
+  <small style="font-size: 11px; letter-spacing: 1px; text-transform: uppercase;">{{ $a }}</small>
+  <br>
+  <svg fill='gray' style='float: left' height='20px'  viewBox='0 0 512 512'><path d='M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z'/></svg>  
+  <div class="px-5">
+    {{ .Inner |  markdownify }}
+  </div>  
+  <svg fill='gray' height='20px' style='float: right;  right: 10px' viewBox='0 0 512 512'><path d='M464 32H336c-26.5 0-48 21.5-48 48v128c0 26.5 21.5 48 48 48h80v64c0 35.3-28.7 64-64 64h-8c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24h8c88.4 0 160-71.6 160-160V80c0-26.5-21.5-48-48-48zm-288 0H48C21.5 32 0 53.5 0 80v128c0 26.5 21.5 48 48 48h80v64c0 35.3-28.7 64-64 64h-8c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24h8c88.4 0 160-71.6 160-160V80c0-26.5-21.5-48-48-48z'/></svg>
+  <cite>
+    {{ $c }}
+  </cite>
 </div>

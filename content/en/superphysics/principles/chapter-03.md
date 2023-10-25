@@ -3,7 +3,7 @@ heading: "Chapter 3"
 title: "The Law of Conservation of Idea and the Theory of Dynamism"
 date: 2020-12-29
 weight: 8
-img: "/photos/objects/apples.jpg"
+image: "/photos/objects/apples.jpg"
 description: "Why you only have 1 idea at a time"
 contributors: ['Juan']
 icon: /icons/sp.png

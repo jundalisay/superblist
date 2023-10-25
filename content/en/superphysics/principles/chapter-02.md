@@ -1,20 +1,15 @@
-
 ---
 title: "Everything is an Idea"
 #, Propelled by Feelings
 heading: "Chapter 2"
 date: 2020-01-02
 weight: 6
-img: /photos/idea.jpg
+image: /photos/idea.jpg
 description: "Everything is an idea of the Creator of that existence"
 contributors: ['Juan']
 icon: /icons/sp.png
 tags: ['Lao Tzu', 'Yin Yang']
 toc: false
-comments:
-  - img: "/avatars/huong.jpg"
-    content: "Why can't they end Covid-19?"
-    commentdate: 2022-04-01   
 ---
 
 

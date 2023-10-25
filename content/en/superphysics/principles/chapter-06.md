@@ -3,7 +3,7 @@ heading: "Chapter 6"
 title: "The Nature of Feelings"
 date: 2020-12-15
 weight: 20
-img: /photos/psych/freedom.jpg
+image: /photos/psych/freedom.jpg
 description: "Active sensing is the foundation of critical thinking (as intellect), as well as critical feeling (as kindness and fellow-feeling)"
 contributors: ['Juan']
 icon: /icons/sp.png
@@ -40,8 +40,6 @@ The intellect is just the connection of ideas. But it is the feelings that power
 
 
 ## Superphysics Closes the Gap Between Intellect and Feelings
-
-<!-- Augmenting Human Hearts -->
 
 Our hearts leads us to errors because the Western educational system has focused on brain development and not on heart development.  This leads to:
 - physicists using their intellect to create nuclear weapons
@@ -90,11 +88,10 @@ The mere visualization or even 'audification' of feelings will not be enough to 
 
 These unify the feelings of each person so that each one will discover his role in the greater plan of the universe, and appreciate the hidden value in the existence of each. 
 
-{{< q a="descartes" >}}
+{{< q a="Descartes" c="Meditations Simplified, Part 4" >}}
 A skilled craftsman makes a perfect creation as a whole, even if its parts taken individually seem imperfect.
-<cite>Descartes, Meditations Simplified, Part 4</cite>
 {{< /q >}}
 
 Is the plan of the universe in line with what we feel? 
 
-The next chapter explain the 
+<!-- The next chapter explain the  -->

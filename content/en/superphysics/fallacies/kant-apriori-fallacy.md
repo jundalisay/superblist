@@ -2,11 +2,11 @@
 title: "The A Priori Fallacy of Kant"
 heading: It's a German Thing
 date: 2019-06-10
-img: /covers/kant.jpg
+image: /covers/kant.jpg
 description: "Kant's A Priori is a Fallacy caused by his arbitrary definition of it"
 contributors: ['Juan']
 icon: /icons/sp.png
-toc: false
+toc: true
 ---
 
 
@@ -74,7 +74,7 @@ So Kant's "a priori knowledge" is really "a-posteriori-knowledge-from-others".
 
 It would be calling a man who has decided to become a female as a 'woman' just because that's how he wants to be seen. But the word 'woman' does not really match the man's nature and is false or a sophistry.
 
-![Shemale](https://sorasystem.sirv.com/photos/shemale.jpg)
+{{< img src="https://sorasystem.sirv.com/photos/shemale.jpg" alt="Shemale person" cap="Weird.">}}
 
 
 Fallacies and lies do not support themselves and need to be supported by other fallacies in a chain. Kant supports the a priori fallacy by adding the idea of pure and impure a priori.

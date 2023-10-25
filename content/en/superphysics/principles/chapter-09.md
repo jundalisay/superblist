@@ -5,7 +5,7 @@ title: "'God' and Morality"
 date: 2020-11-30
 # 2020-01-04
 weight: 32
-img: /photos/hand.jpg
+image: /photos/hand.jpg
 description: Omnitheism is the knowledge of how different types of people view the Creator of Existence. Its goal is to bring harmony to the different religions
 contributors: ['Juan']
 icon: /icons/sp.png
@@ -42,14 +42,11 @@ Buddhists | Sunya | Brahma
 Taoism | Tao | tao 
 
 
-<!-- - all our minds are inside a larger mind which we call the Matrix and is roughly equivalent to the Brahma by the Hindus, the Tao by the Taoists, Sunya by the Buddhists, and the Whole by Parmenides -->
-
 Notice how our classification is existence-based, being divided into:
 
 1. The Probability of Existence
 2. Actual Existence 
 
-<!--  and  the Matrix, Brahma, Tao, and the Whole are impersonal.  -->
 
 This is very different from the Judeo-Christian God, Yahweh, Allah, and even the Polythesist Tara, Quan Yin, Kali, Ganesh, etc who are classified according to the feelings of the people who invented them:
 
@@ -126,17 +123,10 @@ Superphysics focuses on the Positive, while using the Negative force, in order t
 The key thing that separates a reality of suffering and a reality of joy, is then knowing how feelings lead to mentality and how mentality creates reality. To understand this latter part, we need to define consciousness. This would help us break out of the limitations created by science which is based primarily on the five senses, ignoring the sixth sense of feelings and intuition.
  -->
 
-
-
 <!-- One just has to look at the night sky to imagine the chaos that exists, as moon getting hit by countless meteorites, and the sun burning planets  -->
 
-
-
-
 <!-- From realizing Its true form as The One, we can then work downwards into The Supreme Entity and explain how Existence is generated.  
-
 Our best analogy for Existence is the internet which creates an online reality.  -->
-
 
 <!-- 
 all possess human-like qualities as to be angry, benevolent, merciful, etc. 

@@ -3,7 +3,7 @@ title: "Artificial Intelligence as Autonomous Intelligence"
 # I is Autonomous Intelligence, Not Artificial
 # date: 2020-05-26
 date: 2020-11-05
-img: /photos/tech/ai.jpg
+image: /photos/tech/ai.jpg
 description: "AI is autonomous and not artificial because it is derived from natural intelligence"
 contributors: ['Juan']
 weight: 48

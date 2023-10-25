@@ -4,11 +4,9 @@
 {{ $cap := .Get "cap" | default "" }}
 
 
-<div class="has-text-centered">
-	<figure class="is-inline-block">
-	  <img src="{{ $src }}" alt="{{ $alt }}" class="image {{ $size }}" loading="lazy">
-	  {{ if $cap }}
-	  	<figcaption>{{ $cap | markdownify }}</figcaption>
-	  {{ end }}
-	</div>
+<figure class="text-center">
+	<img src="{{ $src }}" alt="{{ $alt }}" class="rounded-lg shadow mx-auto {{ $size }}" loading="lazy">
+	{{ if $cap }}
+		<figcaption>{{ $cap | markdownify }}</figcaption>
+	{{ end }}
 </figure>

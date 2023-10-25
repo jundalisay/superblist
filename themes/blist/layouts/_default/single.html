@@ -1,9 +1,37 @@
 {{ define "main" }}
   {{ $lastmodstr := (partial "date.html" (dict "date" .Lastmod "language" $.Page.Language "format" "long")) }}
 
-  <article class="prose lg:prose-lg mx-auto my-8 dark:prose-dark px-4">
+  <article class="prose lg:prose-2xl mx-auto my-8 dark:prose-dark px-4">
 
-    <h1 class="text-2xl font-bold mb-2">{{ .Title }}</h1>
+    <div id="breadcrumbs" class="text-gray-700 mb-4" style="text-decoration: none;">
+      <small>
+          {{- range .Ancestors.Reverse }}
+            {{ if .Params.linkTitle }}
+              <a href="{{ .RelPermalink }}">{{ .Params.linkTitle }}</a> /
+            {{- else }}
+              <a href="{{ .RelPermalink }}">{{ .Params.title }}</a> /          
+            {{- end }}
+          {{- end }}
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </small>
+    </div>
+
+
+    <h1 class="text-2xl font-bold">{{ .Title }}</h1>
+
+      <div class="">
+          {{ with .Params.contributors }}          
+            {{- range . }}
+              by {{ . }}
+            {{- end }}
+          {{- end }}
+          {{ with .Params.icon }}
+            <img src="{{ . }}" loading="lazy" style="float: right; height: 30px" alt="Icon">
+          {{ end }}
+      </div>
+
+        
+
     {{ if not (or (or .Site.Params.hideMeta .Params.hideMeta) false) }}
     <h5 class="text-sm flex items-center flex-wrap">
       <svg xmlns="http://www.w3.org/2000/svg" class="mr-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -44,13 +72,15 @@
     {{ end }}
 
     {{ if (or .Site.Params.toc .Params.toc) }}
-    {{- partial "toc.html" . -}}
+      {{- partial "toc.html" . -}}
     {{ end }}
 
     {{ .Content }}
   </article>
 
-  {{- partial "comments.html" . -}}
+  <div class="container">
+    {{- partial "comments.html" . -}}
+  </div>
 
   {{- partial "social.html" . -}}
 {{ end }}

@@ -1,11 +1,10 @@
 ---
 heading: "Chapter 7"
 title: "The Nature of Mind"
-
 # date: 2020-01-01
 date: 2020-12-10
 weight: 24
-img: /photos/physics/ai.jpg
+image: /photos/physics/ai.jpg
 description: "Everything in existence is an idea of the Creator of that existence"
 contributors: ['Juan']
 icon: /icons/sp.png
@@ -49,8 +48,6 @@ Thus, an experiencer has 2 parts:
 - mind as the container for experiences
 - consciousness as the perceiver of that container
 
-<!-- Instead of using conscio -->
-
 ![Audience](https://sorasystem.sirv.com/photos/audience.jpg)
 
 
@@ -84,7 +81,9 @@ In terms of activity, physical minds are then classified into two:
 {{< img src="/graphics/meta/mind.png" alt="Living and non-living mind" cap="A living thing has a mind that can accept external feelings and ideas and likewise express them. A non-living thing cannot, due to the confinement by the Negative Force" >}}
 
 
-'Life' therefore is an expressive mind that inhabits a physical body. <!-- A 'soul', then, is such a mind that exists independent of a body.  -->
+'Life' therefore is an expressive mind that inhabits a physical body. 
+
+<!-- A 'soul', then, is such a mind that exists independent of a body.  -->
 
 A 'virus' is in-between a non-living idea and a living or expressive mind, that manifests as DNA or RNA. It has to use living things to spread itself as its means of expression or action.
 
