@@ -8,19 +8,17 @@ date: 2020-01-25
 weight: 8
 image: "/photos/consult.jpg"
 author: "Juan"
-# categories: ["Bio Superphysics"]
 tags: ["Western Medicine", "Chinese Medicine", "Ayurveda", "Naturopathy", "Homeopathy"]
 icon: "/icons/spmed.png"
 comments:
-  - img: "/avatars/huong.jpg"
+  - image: "/avatars/huong.jpg"
     content: "Can you suggest a good TCM or Ayurveda practitioner?"
     commentdate: 2022-04-01
 ---
 
 
-{{< q a="Sarkar" >}}
-A quinquelemental science should be applied to cure certain ailments associated with the physical body
-<cite>P R Sarkar, The Rule of Rationality</cite>
+{{< q a="Sarkar" c="The Rule of Rationality" >}}
+A quinquelemental science should be applied to cure certain ailments associated with the physical body.
 {{< /q >}}
 
 
@@ -161,10 +159,3 @@ The main goal of treatments is to break the link* between the patient's mind and
 - the connection of diabetes to a patient might be excessive greed and laziness
 
 > *In Material Superphysics, this link manifests as the gravitational relationship between two bodies, such as Newton's apple and the Earth, or the Earth to the Sun.
-
-
----
-
-
-
-<!-- If prevention fails and sickness begins, then the advantages of all medical religions, such as Western Medicine, Ayurveda, and Chinese Medicine, can be combined through dialectics to come up with the best cure for the paying capacity, culture, and mentality of the patient. Thus, curing is breaking the match between soul and disease by striking at the main connection point. These methods convert doctors intosuperdoctors. -->

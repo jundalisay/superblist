@@ -1,19 +1,13 @@
 ---
 title: "The Two Domains"
-# title: "The Matrix of Existence"
 # title: "We're in a Matrix!"
 heading: "Chapter 1"
 date: 2019-01-01
 weight: 4
-img: /photos/tech/mac.jpg
+image: /photos/tech/mac.jpg
 description: "All that we perceive is in the universe which is a matrix of the ideas of the Creator of existence"
 contributors: ['Juan']
 icon: /icons/sp.png
-comments:
-  - img: "/avatars/huong.jpg"
-    content: "Is metaphysical the same as abstract, and physical the same as concrete?"
-    # content: "What's the real solution to Covid?"
-    commentdate: 2022-04-01
 ---
 
 
@@ -38,15 +32,12 @@ This means that the mug exists in two domains of reality:
   - Unlike the physical mug which we can see and touch, this aethereal mug-idea can only be perceived by our abstract minds.
 
 
-{{< q a="Bacon" >}}
+{{< q a="Bacon" c="Nova Organum, Book 2" >}}
 Let the investigation of forms, which are eternal and immutable, constitute metaphysics. 
 
-Let the investigation of the efficient cause of matter, constitute physics. 
-<cite>Francis Bacon, Nova Organum, Book 2</cite>
+Let the investigation of the efficient cause of matter, constitute physics.
 {{< /q >}}
 
-
-<!-- Parallel to these, let there be 2 practical divisions; to physics that of mechanics, and to metaphysics that of magic, in the purest sense of the term, as applied to its ample means, and its command over nature. -->
 
 
 
@@ -96,20 +87,17 @@ At that moment, our minds feel a relief since its effort can end.
 
 
 
-{{< q a="aris" >}}
+{{< q a="Aristotle" c="The Metaphysics by Aristotle Simplifed, Book 1, Chapter 1" >}}
 Aĺl men by nature desire to know. An indication of this is the delight we take in our senses which are useful and loved for themselves. The most important is the sense of sight. We prefer seeing over the other senses.  
-<cite>The Metaphysics by Aristotle Simplifed, Book 1, Chapter 1</cite>
 {{< /q >}}
 
 
 The metaphysical domain exists inside our abstract minds and is infinitely larger and richer than physical domain of our senses. 
 
-<!-- This matches the common opinion that the physical universe is much larger than what we can currently perceive. We can say that the unknown parts are part of the metaphysical domain until they are actually perceived physically.  -->
 
-{{< q a="Socrates" >}}
+{{< q a="Socrates" c="The Republic by Plato Simplifed, Book 9, Chapter 3" >}}
 If Person A were to go from the lower to the middle region, he would imagine that he is going up. Person B is in the middle region but has never seen the true upper world. He sees Person A coming and imagines that he has arrived in the upper region. 
 If Person A goes back down, Person B would imagine that he was descending. This would arise out of his ignorance of the true upper, middle, and lower regions.
-<cite>The Republic by Plato Simplifed, Book 9, Chapter 3</cite>
 {{< /q >}}
 
 We call this domain "aethereal" or made of aether or *akasha* in Hinduism. This will be explained later when we explain our Five Layer Model. 

@@ -2,12 +2,8 @@
 title: "The Fallacy of 'Microvita Jumps' by Time Travel"
 heading: "Caused by Dogma on Sarkar quotes"
 date: 2022-01-20
-img: "/photos/med/covid.jpg"
+image: "/photos/med/covid.jpg"
 description: "Rudolph and Vimalananda interpret Sarkar literally"
-linkb: "/superphysics/fallacies/kant-apriori-fallacy"
-linkbtext: "kant-apriori-fallacy"
-linkf: "/social/supersociology"
-linkftext: "What is Supersociology?"
 icon: /icons/sp.png
 draft: true
 ---
@@ -60,15 +56,3 @@ The origin of Covid or Negative Microvita is then the star (which we call [the C
 ![Covid Star](/graphics/covidstar.jpg)
 
 Ideally, the forces of Positive Microvita should have been building up from March 1990 to counteract the current wave of Negative Covid Microvita. Unforunately, the positive force got dogmatized and static. And so there is nothing to stop the Negative force from ravaging the planet. Rudolph and Vimalananda got seduced by the false intellect of Aristotle and Einstein and so were rendered useless by the same Negative force that powers Covid. 
-
-<!-- Microvita is supposed to solve Covid. 
-
-It is unable to do so, simply because the people who were supposed to do it () reverted to materialist Aristotlean limitation. 
-
-Enzymes as microvita control the present in order to convert an organism into a different future-organism (impose a change). They then connect that idea of change into the galloping changes in society, mentioned in the quote of PR Sarkar. Thus, their logic goes:
-
-1. Enzymes cause changes
-Microvita are enzymes
-Changes can gallop
-Microvita causes the galloping 
- -->

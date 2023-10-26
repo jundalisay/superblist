@@ -1,0 +1,32 @@
+    <section class="my-6 p-6">
+      <div class="px-4 mx-auto text-center lg:pt-16 lg:px-12" data-sal="fade">
+        <a href="{{ .Link }}">
+          <img src="{{ .Icon }}" width="100px" height="100px" class="mx-auto zoom">
+        </a>
+        <small style="text-transform: uppercase;">{{ .Heading }}</small>    
+        <h2 class="text-4xl font-bold">{{ .Title }}</h2>
+        <p class="text-lg mb-6">{{ .Sub }}</small>      
+        {{ with .Youtube }}
+          <div class="aspect-w-16 aspect-h-9">
+            <iframe class="mx-auto" width="640" height="360" frameborder="0" src="https://www.youtube.com/embed/{{ . }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture fullscreen" allowfullscreen></iframe>
+          </div>
+        {{ end }}
+      </div>
+
+      <br>
+
+       <div class="py-6 flex justify-between ml-4">
+        {{ range .items }}
+          <div class="border rounded-xl shadow-xl dark:text-white mx-4 zoom" >
+            <a href="{{ .url }}"> 
+            <img class="rounded-xl" src="{{ .img }}" alt="" />
+            <div class="text-center p-4">
+              <h5 class="mb-2 text-xl font-bold leading-none">{{ .title }}</h5>
+              <p class="mb-3 font-normal leading-none">{{ .sub }}</p>
+            </div>      
+            </a>
+          </div>
+        {{ end }}
+      </div>
+
+    </section>

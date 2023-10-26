@@ -4,7 +4,7 @@ title: "The Eagle: Our Equation for Everything"
 date: 2020-12-26
 weight: 14
 # date: 2021-06-23
-img: "/graphics/econ/eagle.jpg"
+image: "/graphics/econ/eagle.jpg"
 description: "The Eagle is our Equation for the movement of Everything in the physical dimension"
 contributors: ['Juan']
 icon: /icons/pantry.png
@@ -31,9 +31,9 @@ By fixing Einstein's error, the speed of light no longer becomes a constant. Wit
 At this minute, you might feel happy. But in the next minute, you might remember something that would suddenly make you sad, or teleport your mind nonlinearly into a state of sadness.  -->
 
 
-<!-- ## Based on G
+<!-- This potential linear or nonlinear movement is responsible for the shifting of public opinion, market prices, policy changes, health and disease, the rise and fall of civilizations, etc. and can be simplified as --> 
 
-This potential linear or nonlinear movement is responsible for the shifting of public opinion, market prices, policy changes, health and disease, the rise and fall of civilizations, etc. and can be simplified as --> We notate this as E = G{{< sub v="l" >}}.
+We notate this as E = G{{< sub v="l" >}}.
 
 
 {{< img src="/graphics/eglrest.png" alt="E = Gl" >}}

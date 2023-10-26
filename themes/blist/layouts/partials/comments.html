@@ -1,5 +1,5 @@
 {{ if .Site.Params.comments.system }}
-<div class="px-2 mb-2">
+<div class="px-4 mb-2">
   {{ if eq .Site.Params.comments.system "disqus" }}
   {{ template "_internal/disqus.html" . }}
   {{ else if eq .Site.Params.comments.system "giscus" }}

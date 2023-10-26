@@ -1,11 +1,9 @@
 ---
 title: "What is ISAIAH?"
 heading: "Impartial Spectator Automated Intelligence Aggregation Host"
-#"The machine learning system of Superphysics"
 date: 2015-09-09
-img: https://sorasystem.sirv.com/AI.jpg
+image: https://sorasystem.sirv.com/AI.jpg
 description: "The money and moneyless transactions are visualized by artificial intelligence (AI) in order to guide policymakers and the public on the real-price trends."
-# AI also administers the Clearing Funds which are the proposed investment system that complements bonds.
 contributors: ['Juan']
 icon: /icons/pantry.png
 ---

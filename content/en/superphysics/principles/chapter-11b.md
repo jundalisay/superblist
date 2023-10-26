@@ -1,9 +1,7 @@
-
-
 ---
 title: "Enlightenment"
 date: 2015-08-17
-img: "https://sorasystem.sirv.com/photos/grav.jpg"
+image: "https://sorasystem.sirv.com/photos/grav.jpg"
 description: "Everything is a Mind"
 contributors: ['Juan']
 weight: 42

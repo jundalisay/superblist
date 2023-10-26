@@ -3,17 +3,12 @@ title: "Morality"
 heading: "Chapter 5c"
 date: 2020-01-02
 weight: 18
-img: /photos/meta/yinyang.jpg
+image: /photos/meta/yinyang.jpg
 description: "Everything in existence is created by the two forces"
 contributors: ['Juan']
 icon: /icons/sp.png
 draft: true
 tags: ['Lao Tzu', 'Yin Yang']
-# categories: ['Superphysics']
-comments:
-  - img: "/avatars/huong.jpg"
-    content: "How can we control our desires?"
-    commentdate: 2022-04-01
 ---
 
 

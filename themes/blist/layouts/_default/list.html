@@ -2,7 +2,7 @@
 
   <h1 class="container px-6 pt-6 mx-auto text-3xl font-bold">{{ .Title }}</h1>
 
-  {{ $paginator := .Paginate .Pages.ByDate.Reverse 6 }}
+  {{ $paginator := .Paginate .Pages.ByWeight }}
   <div class="container p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-8">
     {{ range $paginator.Pages }}
 
@@ -10,9 +10,9 @@
         <img class="w-full" src="{{ .Params.image }}" alt="{{ .Params.title }}">
         <div class="px-6 py-4">
           <div class="font-bold text-xl mb-2">{{ .Params.title }} &rarr;</div>
-          <p class="text-gray-700 text-base">
+          <small class="">
             {{ .Params.description }}
-          </p>
+          </small>
         </div>
       </a>
 

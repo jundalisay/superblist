@@ -5,7 +5,7 @@ title: "The Five Layers of Existence and Mind"
 date: 2020-12-03
 # 2020-01-04
 weight: 30
-img: /graphics/super/5layers.png
+image: /graphics/super/5layers.png
 description: "We are inside the Mind of the Supreme Entity, as its thoughts in Existence"
 contributors: ['Juan']
 icon: /icons/sp.png
@@ -36,7 +36,3 @@ The nature of this Mind then forms the subdivisions of Superphysics:
 3. Social Superphysics - this studies the nature of the Mind of society
 
 ![](/graphics/super/5layers.png)
-
-
-
-<!-- The five layers solve the mysteries of gravitation and the Higgs field by expanding the scope of knowledge into the aether.   -->

@@ -1,10 +1,7 @@
-
-
-
 ---
 title: "The Ideology Matrix"
 date: 2019-02-21
-img: https://sorasystem.sirv.com/charts/matrix2.png
+image: https://sorasystem.sirv.com/charts/matrix2.png
 keywords: ["Marxism", "Social Cycles", "David Hume", "Socrates", "Varnas"]
 description: "Supersociology classifies all beliefs and ideologies into a matrix that can help policymakers and the general public compare them with each other"
 heading: A Tool to Classify Human Ideologies

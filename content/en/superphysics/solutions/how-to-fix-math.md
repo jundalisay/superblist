@@ -2,8 +2,8 @@
 title: "How to Fix Math"
 subtitle: "Decon Notation to Make Math Fun Again"
 date: 2020-09-21
-img: /photos/psych/bore.jpg
-# img: "https://sorasystem.sirv.com/graphics/equation.jpg"
+image: /photos/psych/bore.jpg
+# image: "https://sorasystem.sirv.com/graphics/equation.jpg"
 description : "We propose Decon Notation to make math easier to understand"
 contributors: ['Juan']
 icon: /icons/sp.png

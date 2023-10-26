@@ -1,7 +1,7 @@
 ---
 title: "The Meaning of Red Herring, Ad hominem, etc"
 date: 2020-09-29
-img: /photos/wtf.jpg
+image: /photos/wtf.jpg
 description: "We explain the meaning of common fallacies by removing the jargon"
 heading: Chapter 11b
 contributors: ['Juan']
@@ -141,7 +141,6 @@ So if you’re arguing with someone endlessly without any compromise, it simply 
 But if that person is your boss or the president of your country, then without any system of dialectics, the only choices are to stay and accept the problem or leave to find a new boss or country. Therefore,it would make sense for stability-loving people (if they really knew their interest) to advocate dialectics as early as possible. Socrates suggests it be taught to people 30 years old and above:
 
 
-{{< q a="Socrates" >}}
+{{< q a="Socrates" c="Republic Book 7" >}}
 Therefore, that your feelings may not be moved to pity about our citizens who are now thirty years of age, every care must be taken in introducing them to dialectic. 
-<cite>Republic Book 7</cite>
 {{< /q >}}

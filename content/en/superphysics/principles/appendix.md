@@ -1,7 +1,7 @@
 ---
 title: "Superphysics Defintions"
 date: 2021-12-13
-img: "/covers/hume.jpg"
+image: "/covers/hume.jpg"
 description : "Superphysics relies on precise defintions which can be eventually followed by future artificially-intelligent systems"
 contributors: ['Juan']
 weight: 100

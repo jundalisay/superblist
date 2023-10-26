@@ -3,7 +3,7 @@ heading: "Chapter 4"
 title: "Karma, Samskara, and the Loop of Cause and Effect"
 date: 2020-04-12
 weight: 10
-img: /photos/meta/buddhism.jpg
+image: /photos/meta/buddhism.jpg
 description: The Sanskrit word karma implies a complete loop from cause and effect
 # description: "Moral Consequentialism is the effect of actions that are made obscure by fleeting human memory because of the passage of time"
 contributors: ['Juan']

@@ -5,7 +5,7 @@ title: "The DSCFD Model for Goal-Setting"
 date: 2023-03-19
 # 2020-01-04
 weight: 32
-img: /graphics/meta/dscfd.png
+image: /graphics/meta/dscfd.png
 description: "SMART also does not allow tweaking of the goal itself to match the changing reality"
 contributors: ['Juan']
 icon: /icons/sp.png

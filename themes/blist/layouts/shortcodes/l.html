@@ -1,6 +1,9 @@
 {{ $ava := .Get "ava" | default "" }}
 {{ $a := .Get "a" | default "" }}
 
-<div class="left {{ $ava }} {{ $a }}" data-sal="slide-right"><small class="h" style="">{{ $ava }} {{ $a }}</small>
+<div class="left" data-sal="slide-right">
+  <div class="{{ $ava }} {{ $a }}" style="border-radius: 999px; height: 50px; width: 50px; background-size: cover; background-repeat: no-repeat;"></div>  
+  <small style="font-size: 11px; letter-spacing: 1px; text-transform: uppercase;">{{ $ava }} {{ $a }}</small>
+  <br>
   {{ .Inner |  markdownify }}
 </div>

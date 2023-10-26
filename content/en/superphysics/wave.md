@@ -1,7 +1,7 @@
 ---
 title: "Superphysics and Waves"
 date: 2020-08-31
-img: "/graphics/physics/wave.jpg"
+image: "/graphics/physics/wave.jpg"
 description: "Superphysics is the paradigm that sees the universe as being made up of waves. This is derived from David Hume"
 contributors: ['Juan']
 icon: /icons/sp.png
@@ -44,4 +44,3 @@ Superphysics then is the paradigm that exlains how these 2 forces create both ph
 We now have a framework for solving prpblems in physics, society, and health by using it to anaylze cause and effect.
 
 This is why Hume says that this system will be superior to science in terms of usefullness.
-

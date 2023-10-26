@@ -1,7 +1,6 @@
 ---
 title: Superphysics Solutions
-heading: Confused by Physics and Epistemology?
-img: "/covers/solutions.png"
+image: "/covers/solutions.png"
 linkTitle: "Solutions"
 date: 2020-01-31
 type: "featured"

@@ -4,7 +4,7 @@ heading: "Chapter 7b"
 # date: "2019-07-21"
 date: 2020-12-08
 weight: 26
-img: /photos/city.jpg
+image: /photos/city.jpg
 description: "Consciousness is the perception of ideas and feelings"
 contributors: ['Juan']
 icon: /icons/sp.png

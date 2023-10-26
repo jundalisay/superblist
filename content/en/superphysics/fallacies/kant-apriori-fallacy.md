@@ -280,8 +280,6 @@ The Germans are the only people who at present use this word to indicate what ot
 
 ## The Useless Theory of General Relativity
 
-<!--  Disastrous Einstein Connection -->
-
 The most disastrous product of this strange German mentality is Albert Einstein who used Kant-style thinking to create the Theory of Relativity, which is totally arbitrary. 
 
 {{< q a="einblah" >}}
@@ -304,8 +302,6 @@ Like Kant, Einstein used his own mind to assign reality to spacetime by turning 
 - Godel created <!-- Kurt --> a Godel universe
 - Taub led to a universe with Taub-NUT spacetime 
 - Pensrose created a cyclical universe as Conformal Cyclic Cosmology 
-
-<!-- - Miknowski created a Miknowski spacetime -->
 
 
 ### Useless Kant, Useless Einstein, Useless Physics
@@ -330,7 +326,3 @@ We pity the physicists wasting their time trying to solve General Relativity and
 {{< img src="/graphics/tokamak.jpg" alt="Tokamak" cap="According to our Theory of Universal Relativity, artificial gravity is essential for fusion. But this is not achieved because physicists have adopted Einstein's Relativity which is useless in creating artificial gravity. As a result, the proper alternative to fossil fuels does not exist. This then leads to global warming and real death and destruction." >}}
 
 In a free society, it is alright to allow sophistical theories. But it is totally wrong to decree that such wrong theories are correct, and that the wrong way is the right way. Doing so would be like to guiding people onto a cliff, as is happening to the current world which has no solution to global warming, overpopulation, stagflation, war, or mass extinction. 
-
-
-<!-- This is why Kant (and epistemology in general) should be avoided. 
- -->

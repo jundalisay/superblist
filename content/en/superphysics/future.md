@@ -1,7 +1,7 @@
 ---
 title: "The Superphysics Future"
 date: 2022-01-22
-img: "/photos/psych/binoculars.jpg"
+image: "/photos/psych/binoculars.jpg"
 description: "Superphysics opens up a new course for the future that is impossible with the current science"
 contributors: ['Juan']
 draft: true

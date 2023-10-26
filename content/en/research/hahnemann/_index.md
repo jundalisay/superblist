@@ -4,6 +4,7 @@ title: "Samuel Hahnemann"
 heading: Enlightened
 description: "Samuel Hahnemann"
 weight: 35
+draft: true
 image: /covers/hahnemann.jpg
 ---
 

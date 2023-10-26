@@ -2,7 +2,7 @@
 title: "Bullet-style Writing"
 subtitle: "Short and concise for the Internet"
 date: 2020-09-21
-img: /photos/econ/writer.jpg
+image: /photos/econ/writer.jpg
 description : "We propose Bullet-style Writing style for writing content that is better for the internet and SEO"
 contributors: ['Juan']
 icon: /icons/sp.png

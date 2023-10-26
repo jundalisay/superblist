@@ -4,16 +4,10 @@ title: "What is Superphysics?"
 # date: 2021-07-19
 date: 2020-11-20
 weight: 36
-img: /graphics/super/5layers4.jpg
-# img: /covers/spblack.jpg
+image: /graphics/super/5layers4.jpg
 description: "Superphysics unifies Physics and Metaphysics to solve the problems unsolved by science"
 contributors: ['Juan']
 icon: /icons/sp.png
-comments:
-  - img: "/avatars/lam.jpg"
-    name: "Lam"
-    content: "Are we in the dark ages?"
-    commentdate: 2022-05-02
 ---
 
 
@@ -192,11 +186,7 @@ Modern physics is limited to the physical world which are sensed by humans throu
 
 The propulsion systems of NASA and SpaceX are ultimately based on a caveman technology called combustion, under the paradigm of Newtonian Physics. They spend a lot of effort and money in improving a backward technology, which naturally leads to very little results.
 
-![Caveman](/graphics/caveman.jpg)
-
 To solve this, we add proper metaphysics, defined by David Hume and already known in the Vedas and Bhagavad Gita in the East, to breach the limitation of modern Physics by tapping in directly to the nature or universals of space-time.
-
-![Gravity](/graphics/grav.jpg)
 
 The Eastern concept of Sunya, or Hume’s concept of vacuum, is the foundation of the faster-then-light travel and anti-gravitation of Superphysics. Without it, such teleportation technology would be unthinkable.
 
@@ -225,4 +215,3 @@ May 2021: This has been proven by the Delta variant
 
 December 2021: This has been proven by the Omicron variant
 {{< /mess >}}
-

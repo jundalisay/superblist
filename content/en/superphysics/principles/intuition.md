@@ -3,7 +3,7 @@ title: "Using Intuition, Passion Plotting a Course"
 heading: "Consciousness is Binary as the Other Side of Existence"
 date: "2019-07-21"
 weight: 52
-img: /photos/physics/ai.jpg
+image: /photos/physics/ai.jpg
 description: "Consciousness is the perception of ideas and feelings"
 contributors: ['Juan']
 draft: true

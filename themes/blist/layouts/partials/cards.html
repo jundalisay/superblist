@@ -1,0 +1,13 @@
+<div class="grid grid-cols-1 gap-4 lg:grid-cols-3">
+  {{ range .items }}
+    <div class="border rounded-lg shadow-lg p-4 flex justify-center items-center" data-sal="slide-down">
+      <!-- style="--sal-duration: 4s; --sal-delay: 1s;" -->
+      <img class="rounded-lg px-4" src="{{ .icon }}" height="50px" alt="" />
+      <div class="p-5">
+        <h5 class="mb-2 text-2xl font-bold tracking-tight">{{ .title }}</h5>
+        <p class="mb-3 font-normal">{{ .sub }}</p>
+      </div>      
+    </div>
+  {{ end }}
+</div>
+

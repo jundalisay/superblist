@@ -1,19 +1,17 @@
 ---
 title: "Desire and the Two Forces"
-# title: "Everything is an Idea"
 #, Propelled by Feelings
 heading: "Chapter 5"
-
 date: 2020-01-02
 weight: 16
-img: /photos/meta/yinyang.jpg
+image: /photos/meta/yinyang.jpg
 description: "Everything in existence is created by the two forces"
 contributors: ['Juan']
 icon: /icons/sp.png
 tags: ['Lao Tzu', 'Yin Yang']
 # categories: ['Superphysics']
 comments:
-  - img: "/avatars/huong.jpg"
+  - image: "/avatars/huong.jpg"
     content: "How can we control our desires?"
     commentdate: 2022-04-01
 ---
@@ -167,8 +165,6 @@ This alignment is done by the reader by choosing the right cat-novel to read. Th
 The quality of learning experiences would be higher if the scope of learning were expanded. A reader can find a better cat-novel if he searched at a bigger library or bookstore. Superphysics expands the library of science by adding to it the library of metapyhsics. 
 
 The next chapter will deal with the attraction and repulsion that is created by the Two Forces, as our Elastic Theory of Gravity. 
-
-<!-- Since desire is a feeling, we should know the nature of feelings just as we should know the nature of ideas. The nature of feelings is explained next.   -->
 
 <!-- Nowadays, the advancement science has led to economic growth, but has also opened up new problems:
 

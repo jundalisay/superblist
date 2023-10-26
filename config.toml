@@ -2,10 +2,9 @@ baseurl = "https://superphysics.org"
 # metaDataFormat = "yaml"
 title = "Superphysics"
 theme = "blist"
-logo = "/icons/sp.png"
 
 DefaultContentLanguage = "en"
-DefaultContentLanguageInSubdir = true
+DefaultContentLanguageInSubdir = false
 
 paginate = 12
 
@@ -16,37 +15,171 @@ paginate = 12
     weight = 1
     languageName = "English"
     [[languages.en.menu.main]]
-        name = "Research"
+        name = "/icons/book.png"
         url = "research"
         weight = 1
     [[languages.en.menu.main]]
-        name = "Superphysics"
+        identifier = "sp"
+        name = "/icons/sp.png"
         url = "superphysics"
         weight = 2
     [[languages.en.menu.main]]
-        name = "Material"
+        name = "/icons/spmat.png"
         url = "material/"
         weight = 3
     # [[languages.en.menu.main]]
     #     name = "Tags"
     #     url = "tags"
     #     weight = 3
-    [[languages.de.menu.main]]
-        name = "Bio"
+    [[languages.en.menu.main]]
+        name = "/icons/spmed.png"
         url = "bio"
         weight = 4
-    [[languages.de.menu.main]]
-        name = "Supersociology"
+    [[languages.en.menu.main]]
+        name = "/icons/spsoc.png"
         url = "social/supersociology"
         weight = 5
-    [[languages.de.menu.main]]
-        name = "Supereconomics"
-        url = "social/supereconomics"
+    [[languages.en.menu.main]]
+        name = "/icons/specon.png"
+        url = "social/economics"
         weight = 6
-    [[languages.de.menu.main]]
-        name = "Social Cycles"
+    [[languages.en.menu.main]]
+        name = "/icons/cycles.png"
         url = "social/cycles"
         weight = 7
+    [[languages.en.menu.main]]
+        name = "/icons/question.png"
+        url = "faq"
+        weight = 8
+    [[languages.en.menu.main]]
+        name = "/icons/about.png"
+        url = "about"
+        weight = 9
+    [languages.en.params]
+      heading = "A New Science Based on Metaphysics and Socratic Dialectics"
+      intro = "Superphysics: Wave-based Scientific Paradigm"
+      sub = "All Knowledge Can Be Grouped Into Three"
+      banner = "/photos/physics/galaxy.jpg"
+      youtube = "8bnws4po7ew"
+    [languages.en.params.cards.a]
+      icon = "/icons/tao.png"
+      title = "Metaphysics"
+      sub = "0-50% Replicable: Paradoxical"
+    [languages.en.params.cards.b]
+      icon = "/icons/sp.png"
+      title = "Superphysics"
+      sub = "51-99% Replicable: Subjective"
+    [languages.en.params.cards.c]
+      icon = "/icons/atom.png"
+      title = "Physics"
+      sub = "100% Replicable: Objective"
+    [languages.en.params.tricon1]
+      heading = "The Nature of the Soul"
+      title = "Everything is a wave that manifests as a particle"
+      sub = "The analog universe streams in real-definition to create reality"
+      youtube = "dc4VNkfqs1s"
+      icon = "/icons/sp.png"
+      link= "/superphysics/principles"
+    [languages.en.params.tricon1.items.a]
+      url = "/superphysics/principles/chapter-01/"
+      img= "/photos/physics/ai.jpg"
+      title = "We're in a Matrix!"
+      sub = "See how we can exist well in it"
+    [languages.en.params.tricon1.items.b]
+      url = "/superphysics/principles/chapter-02"
+      img = "/photos/idea.jpg"
+      title = "Everything is an Idea"
+      sub = "Inside the Mind or Matrix"
+    [languages.en.params.tricon1.items.c]
+      url = "/superphysics/principles/chapter-04b"
+      img = "/graphics/physics/math.jpg"
+      title = "A New Math for a New Science"
+      sub = "Has relativity baked in"
+    [languages.en.params.tricon1.items.d]
+      url = "/superphysics/principles/chapter-11"
+      img = "/avatars/socrates.jpg"
+      title = "Socratic Dialectics for Solving Problems"
+      sub = "Do you have a problem? The solution already exists!"
+    [languages.en.params.tricon2]
+      heading = "The Soul of the Physical Universe"
+      title = "Material Superphysics"
+      sub = "Based on Descartes and the five layers of the ancient Greek, Hindus, and Chinese"
+      youtube = "3l9J6tH4iD0"
+      icon = "/icons/spmat.png"
+      link= "/material/principles"
+    [languages.en.params.tricon2.items.a]
+      url = "/material/principles/intro/chapter-01"
+      img= "/graphics/physics/aetherdrag.jpg"
+      title = "The Five Layers of Superphysics"
+      sub = "The Material, Radioactive, Radiant, Spatial, and Aethereal"
+    [languages.en.params.tricon2.items.b]
+      url = "/material/fallacies/general-relativity/"
+      img= "/graphics/physics/general.jpg"
+      title = "The Alternative to General Relativity"
+      sub = "The Metaphysics of Spacetime"
+    [languages.en.params.tricon2.items.c]
+      url= "/material/principles/part-2/chapter-02/"
+      img = "/photos/physics/quasar.jpg"
+      title = "Aethereal Propulsion"
+      sub = "We bring back the theory of gravity from Kepler and Descartes"
+    [languages.en.params.tricon2.items.d]
+      url = "/material/principles/part-3/chapter-02/"
+      img= "/photos/physics/elec.jpg"
+      title = "Electrons are Positive, Protons are Negative"
+      sub= "We use male-female to avoid confusion"
+    [languages.en.params.tricon3]
+      heading = "The Soul of Living Entities"
+      title = "Bio Superphysics"
+      sub = "Based on the dynamics of the sentient energy"
+      youtube= "Y6YKmtqJak4"
+      icon = "/icons/spmed.png"
+      link= "/bio/principles"
+    [languages.en.params.tricon3.items.a]
+      url = "/bio/principles/part-04/chapter-03/"
+      img= "/photos/med/cancer2.jpg"
+      title = "Cancers and Diseases Have Been Cured by Non-Western Medicine"
+      sub = "See the wave-based alternatives to particle-based Western Medicine"
+    [languages.en.params.tricon3.items.b]
+      url = "/bio/principles/intro/chapter-01/"
+      img= "/photos/psych/schizo.jpg"
+      title = "You Have 3 Billion Selves"
+      sub = "'You' are made up of a changing wave of 'yous'"
+    [languages.en.params.tricon3.items.c]
+      url = "/bio/smith-veg/"
+      img= "/avatars/smithstatue.jpg"
+      title = "Adam Smith the Vegetarian"
+      sub = "He preferred vegetables, specifically potatoes, over meat"
+    [languages.en.params.tricon3.items.d]
+      url = "/bio/solutions/covid/"
+      img= "/photos/med/covid.jpg"
+      title = "How to Stop Covid"
+      sub = "See how NATO could have stopped Covid back in 2020"
+    [languages.en.params.tricon4]
+      heading = "The Soul of Society"
+      title = "Social Superphysics"
+      sub = "Fellow-Feeling Instead of Selfish-Interest"
+      youtube = "AfByl9Mywi4"
+      icon = "/icons/spsoc.png"
+    [languages.en.params.tricon4.items.a]
+      url = "/social/supersociology/principles/part-1/chapter-01"
+      img = "/photos/vanity.jpg"
+      title = "The Ego is the Cause of Problems in Society"
+      sub = "See how supersociology aims to fix it"
+    [languages.en.params.tricon4.items.b]
+      url = "/social/economics/principles/intro/chapter-03"
+      img = "/photos/grains.jpg"
+      title = "The Metaphysics of Value and the Four Laws of Value"
+      sub = "Supereconomics deals with resource allocation and socio-economic issues"
+    [languages.en.params.tricon4.items.c]
+      url = "/social/supersociology/principles/part-1/chapter-05"
+      img = "/photos/medieval/hitler.jpg"
+      title = "The Socratic Law of Social Cycles"
+      sub = "See how we use it to predict events like presidential elections and recessions"
+    [languages.en.params.tricon4.items.d]
+      url = "/social/cycles/"
+      img= "/photos/ukraine.jpg"
+      title = "Social Cycles Predictions"
+      sub = "See our model's predictions for various countries"
 
   [languages.de]
     contentDir = "content/de"
@@ -230,6 +363,8 @@ paginate = 12
 
 
 [params]
+  logo = "/icons/sp.png"
+  
   # Enable the darkmode toggle in header
   darkModeToggle = true
   
