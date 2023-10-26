@@ -1,5 +1,5 @@
     <section class="my-6 p-6">
-      <div class="px-4 mx-auto text-center lg:pt-16 lg:px-12" data-sal="fade">
+      <div class="px-4 mx-auto text-center lg:pt-16 lg:px-12">
         <a href="{{ .Link }}">
           <img src="{{ .Icon }}" width="100px" height="100px" class="mx-auto zoom">
         </a>
@@ -15,9 +15,9 @@
 
       <br>
 
-       <div class="py-6 flex justify-between ml-4">
+       <div class="py-6 mx-auto p-6 grid lg:grid-cols-4 grid-cols-2 gap-4">
         {{ range .items }}
-          <div class="border rounded-xl shadow-xl dark:text-white mx-4 zoom" >
+          <div class="col-span-1 flex flex-col border rounded-xl shadow-xl dark:text-white mx-4 zoom" data-sal="slide-down">
             <a href="{{ .url }}"> 
             <img class="rounded-xl" src="{{ .img }}" alt="" />
             <div class="text-center p-4">

@@ -183,16 +183,18 @@ After death, there is nothing. So I say maximize pleasure while alive and don't 
 So what if there's global warming? In the long-run, we're all dead! At least I've experienced a 5-star lifestyle. Heaven can be on earth, bought by money money money in a rich man's world. 
 {{< /r >}}
 
+
+<!-- Go ahead and exhaust your brain theorizing wormholes and dark matter that will never exist, or quantitative easing that either bloats the debt and shuts down governments or causes stagflation. -->
+
+
 {{< l a="Superphysics" >}}
 Ok boomer, so Superphysics isn't for you.
 
-That's actually one of the attractions of Superphysics -- it rejects selfishness, vice, and the lack of virtue. You should stay in Quantum Physics, Economics, or some dogmatic religion that sees itself superior than others, or is limited to the 5 senses. Go ahead and exhaust your brain theorizing wormholes and dark matter that will never exist, or quantitative easing that either bloats the debt and shuts down governments or causes stagflation.
+That's actually one of the attractions of Superphysics -- it rejects selfishness, vice, and the lack of virtue. You should stay in some dogmatic religion that sees itself superior than others, or in Modern Physics and Economics that is limited to the 5 senses. 
 
-People who ascribe to Superphysics are open-minded and lovers of philosophy, nature, and the Supreme Entity, as explained by Socrates. These allow and develop the 6th sense of intuition and fellow-feeling, on top of the usual math and 5-sense cognitive abilities usually in IQ tests. 
+People who ascribe to Superphysics are open-minded and lovers of philosophy, nature, and the Supreme Entity, as explained by Socrates. These allow and develop the 6th sense of intuition and fellow-feeling, on top of the usual math and 5-sense cognitive abilities usually in IQ tests.
 
-We are targetting young people for this because they are the ones stuck with warmed-world destroyed by the previous generation. Notice how we use graphics and the chat format to appeal to young people.  <!-- , who took all the land, wealth, and capital and left none for the next generation. -->
-
-The important thing is for the Boomer mentality to die with the Boomer generation and not cross over to Gen Z. 
+We are targetting young people for this because they are the ones stuck with warmed-world destroyed by the previous generation. Notice how we use graphics and the chat format to appeal to young people. The important thing is for the Boomer mentality to die with the Boomer generation and not cross over to Gen Z. 
 {{< /l >}}
 
 {{< r a="Boomer" >}}
@@ -241,12 +243,18 @@ We need to prove that our principles are solid by demonstrating it in the real w
 We've already proven Social Superphysics through our correct predictions both in [politics](/social/cycles/predictions) and [economics](/social/supersociology/precrisis-years). We are already testing our points-based economic system to solve the current stagflation, something that Economics has no solution for. So no worries with those. 
 
 But we still need to prove that Bio Superphysics and Material Superphysics also work by using the aether to  increase crop yield (as 'Maximized Farming'), cure diseases, realize fusion, levitation, and teleportation (actions at a distance).
+{{< /l >}}
+
+{{< r a="Asker" >}}
+I guess you encounter a lot of opposition from humans who think that the limited 5-sense science is perfect and superior to 6-sense science which to them is invalid pseudo-science.  
+{{< /r >}}
+
+{{< l a="Superphysics" >}}
+Yes. 
 
 Medicine is highly regulated. Material experiments are expensive. We aim to surmount both impediments through our economic system.
 
 This is why, until 2030, most of our work is on Social Superphysics as economics and policies. The work on Bio and Material Superphysics will mostly be theoretical for now, though we've done [rudimentary experiments on levitation](/material/levitation) and preventing cancers from getting worse via alternative medicine.
-
-<!-- In the past, Material Superphysics was proven by miracles such as Jesus walking on water or Buddhist monks levitating. But this was not replicable. So we use Tesla's spacetime priniples which are opposite those of Einstein's General Relativity.  -->
 {{< /l >}}
 
 

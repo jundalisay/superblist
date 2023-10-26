@@ -12,7 +12,7 @@
 
 
 <div class='banner w-full flex'>
-  <section class="mx-auto" data-sal="fade">
+  <section class="mx-auto">
     <br>
     <div class="px-4 mx-auto text-center lg:pt-16 lg:px-12" >
       <h1 class="text-4xl mb-4 text-white font-extrabold tracking-tight leading-none">{{ .Site.Params.intro }}</h1>
@@ -35,7 +35,7 @@
     <div class="flex justify-center">
 
       {{ range .Site.Params.cards }}
-        <div class="border rounded-lg shadow-lg p-4 mx-auto text-center" data-sal="slide-down">
+        <div class="border rounded-lg shadow-lg p-4 mx-auto text-center" data-sal="slide-down" style="--sal-delay: 5ms">
           <img class="mx-auto px-4" src="{{ .icon }}" height="100px" width="100px" alt="Icon" />
           <div class="p-5">
             <h5 class="mb-2 text-2xl font-bold tracking-tight">{{ .title }}</h5>

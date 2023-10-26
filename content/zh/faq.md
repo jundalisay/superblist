@@ -1,7 +1,7 @@
 ---
 title: "Socratic FAQ"
 description: "FAQs about Superphysics, Socrates-style"
-image: /covers/spblack.jpg
+image: /covers/socrates.jpg
 toc: false
 ---
 
