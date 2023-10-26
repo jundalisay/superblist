@@ -30,19 +30,15 @@ In fact, vegetarians should eat dairy to get their Vitamin B12 and D. The effect
 
 Some people think that vegetarian diets are a relativelynew trend. In reality, vegetarian diets have existed for a long time. India has had it for thousands of years and England has already known it since the 18th century, as proven by Adam Smith, the founder of economics:
 
-{{< q a="smith" >}}
+{{< q a="smith" c="The Wealth Of Nations Simplified, Book 5, Chapter 2" >}}
 Meat is not a necessary of life. It is known from experience that grain and vegetables with the help of milk, cheese, butter or oil (where there is no butter) can afford the most plentiful, wholesome, nourishing, and invigorating diet without any meat. Decency does not require any man to eat meat as requires wearing a linen shirt.
-
-<cite>The Simple Wealth Of Nations, Book 5, Chapter 2</cite>
 {{< /q >}}
 
 Smith's biographer Rae even writes that Dr. Joseph Black  the scientist who first documented the properties of CO2, was a vegetarian:
 
 
-{{< q >}}
+{{< q c="Simple Life Of Adam Smith" >}}
 Black was a vegetarian. His usual fare was “some bread, a few prunes, and a measured quantity of milk diluted with water.” Adam Smith’s only weakness was for lump sugar. 
-
-<cite>Simple Life Of Adam Smith</cite> 
 {{< /q >}}
 
 I hope that with scientific and historical evidence supporting vegetarian diets, those who want a more survivable planet can have all the reasons needed to either be a vegetarian or simply eat less meat.
@@ -53,10 +49,10 @@ I hope that with scientific and historical evidence supporting vegetarian diets,
 In The Wealth of Nations, Smith talks about the qualities of each major crop, favoring potatoes over oatmeal:
 
 
-{{< img src="https://sorasystem.sirv.com/cards/potato.jpg" alt="Potatoes" >}}
+{{< img src="/photos/objects/potatoes.jpg" alt="Potatoes" >}}
 
 
-{{< q a="smith" >}}
+{{< q a="Smith" >}}
 But potatoes are different. The chairmen, porters, prostitutes and coal-heavers in London are the strongest men and the most beautiful women in Britain. 
 
 They come from the poorest people in Ireland who eat potatoes. This proves the nourishing quality of potatoes. So we can say that, of all the basic plant-based foods, Smith advocated potatoes and wheat the most.

@@ -10,9 +10,13 @@ weight: 100
 
 Superphysics arose from Juan's personal research on the 2008 Financial Crisis which led to the 2008 Food Crisis, 2011 Arab Spring, and the Eurozone crisis.
 
-The 2008 Financial Crisis arose from Allan Greenspan not doing his job of regulating the banking industry, citing Adam Smith who advocated non-regulation. So Adam Smith should be such an evil guy for causing so much trouble, right?
+The 2008 Financial Crisis happened because Allan Greenspan did not do his job of regulating the banking industry, citing Adam Smith who advocated non-regulation. 
 
-By going through Adam Smith's works, we saw that he actually advocated the strict regulation of banking, comparing it to the building of firewalls to prevent the spread of fire. Greenspan was really citing Samuelson and neoliberal writers who preferred selfish-interest instead of social interest.
+So Adam Smith is such an evil guy for causing so much trouble, right?
+
+By reading Adam Smith's works, we saw that he actually advocated the strict regulation of banking, comparing it to the building of firewalls in order to prevent the spread of fire. 
+
+Greenspan was really citing Samuelson and neoliberal writers who preferred selfish-interest over social interest.
 
 After concluding that Greenspan and Samuelson were the bad guys, Smith logically became the good guy to us. 
 - Smith cited David Hume heavily in his works
@@ -27,10 +31,11 @@ Socrates thus became the essential link between Western and Eastern philosophy, 
 
 [Superphysics](/superphysics/what-is-superphysics) is thus Science unified with Philosophy, or Physics unified with Metaphysics. 
 
-Its base or core is Asian philosophy since the Hindus, Buddhists, Taoists already explain how the Supreme Entity works as the `Cause` of everything. Its external implementation is Western science and philosophy since the West already knows how physical things work as the `effects`. This mastery of cause and effect, East and West, makes it a tool for solving anything.  
+Its base or core is Asian philosophy since the Hindus, Buddhists, Taoists already explained how the Supreme Entity works as the `Cause` of everything. 
+
+Its external implementation is Western science since the West already knows how physical things work as the `effects`. This mastery of cause and effect, East and West, makes it a tool for solving anything.  
 
 It is divided into three:
-
 
 _ | [Material Superphysics](/material) | [Bio Superphysics](/medical) | [Social Superphysics](/social)
 --- | --- | --- | ---
@@ -60,10 +65,11 @@ The crisis years came via Covid. It turned out that the medical system was the f
 
 
 {{< me d="July 2022" >}}
-The invasion by Russia on Ukraine proves the collapse of international law, while the collapse of Sri Lanka, and soon Pakistan, proves the failure of economic systems. This will be the pattern unless people drop Neoclassical Economics (selfish-interest, marginal utility, profit maximization, equity investments, and liquidity preference) and national interest, and switch to Classical Economics (common interest, life purpose, dharma, social lending, and goal preference).
+The invasion by Russia on Ukraine proves the collapse of international law, while the collapse of Sri Lanka, and soon Pakistan, proves the failure of economic systems.
 {{< /me >}}
 
+<!-- This will be the pattern unless people drop Neoclassical Economics (selfish-interest, marginal utility, profit maximization, equity investments, and liquidity preference) and national interest, and switch to Classical Economics (common interest, life purpose, dharma, social lending, and goal preference). -->
 
 We are looking for universities that would be interested in our theories, publishers interested in our books, and companies and angels that would like to invest in a resilient economic system that will preserve their businesses and capital during such a prolonged crisis. 
 
-Feel free to contact us via email at superphysicsorg@gmail.com. We also accept donations in cash, kind, or labor (such as translating the posts or apps into your local language, or sharing our posts, apps, and pages). 
+Feel free to contact us via email at superphysicsorg@gmail.com. 

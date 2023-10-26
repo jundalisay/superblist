@@ -1042,7 +1042,7 @@ paginate = 12
 
 [params.homepage.social]
   # Global params common for both languages
-  title = "Follow us!"
+  title = "Follow or Support Us!"
   description = "We're building a new science and new systems for a better reality"
 
   [[params.homepage.social.icons]]

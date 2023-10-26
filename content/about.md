@@ -1,26 +1,47 @@
 ---
-author: Katheryn Fox
-title: About Me
-date: 2021-07-15
-description:
-keywords: ["about-us", "about-hugo", "contact"]
-type: about
+author: Juan
+title: 它始于金融危机
+date: 2023-10-25
+description: 超物理学起源于胡安对2008年金融危机的个人研究，该危机导致了2008年粮食危机、2011年阿拉伯之春和欧元区危机。
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## 它始于金融危机
 
-Hugo makes use of a variety of open source projects including:
+超物理学起源于胡安对2008年金融危机的个人研究，该危机导致了2008年粮食危机、2011年阿拉伯之春和欧元区危机。
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+2008年金融危机发生是因为艾伦·格林斯潘没有履行监管银行业的职责，他引用了亚当·斯密提倡非监管的观点。
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+那么亚当·斯密是一个造成如此多麻烦的邪恶人物，对吗？
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+通过阅读亚当·斯密的著作，我们发现他实际上主张严格监管银行业，将其比作建造防火墙以防止火灾蔓延。
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+格林斯潘实际上是在引用塞缪尔森和新自由主义作家，他们更喜欢自私利益而不是社会利益。
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+在得出格林斯潘和塞缪尔森是坏人的结论之后，斯密在我们看来合乎逻辑地成为了好人。
+
+斯密在他的著作中大量引用了大卫·休谟
+休谟引用了柏拉图
+柏拉图写过苏格拉底
+苏格拉底谈到了转世和脉轮
+因此，苏格拉底成为了西方和东方哲学之间的关键联系，我们将其合并到超物理学中，作为一种辩证系统来解决所有问题，就像您使用科学方法来解决科学问题，使用数学公式来解决数学问题一样。
+
+
+## 统一人类知识
+
+超物理学因此是科学与哲学的统一，或者是物理学与形而上学的统一。
+
+它的基础或核心是亚洲哲学，因为印度教徒、佛教徒和道教徒已经解释了至高无上的实体如何作为一切的“原因”。
+
+它的外在实施是西方科学，因为西方已经知道物理事物如何作为“效果”运作。这种对因果关系的掌握，东西方结合起来，使它成为解决任何问题的工具。
+
+
+## 危机年代的巨大机遇
+
+斯密的有关白银的边注谈到了一个500年的价格模式，我们将其延伸到了现代。我们发现20世纪所有重大危机都遵循了这一延伸模式。
+
+它指出了从2019年到2030年的一系列危机，我们称之为大滞胀，届时价格将失控。
+
+我们的目标是在那些危机年代实施斯密的替代经济体系作为“全面改组”，因为当前体系在那些时期将崩溃。
+
+危机年代是通过新冠疫情到来的。结果发现医疗系统是首先崩溃的。这促使我们创建了[Pantrypoints Health]作为生物超物理学的实施。我们的模型预测金融系统将在X年崩溃，这促使我们创建了积分银行。经济和政治体系将在更晚的时候承受压力。
+

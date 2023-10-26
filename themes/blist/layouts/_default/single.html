@@ -74,7 +74,7 @@
     {{ if (or .Site.Params.toc .Params.toc) }}
       {{- partial "toc.html" . -}}
     {{ end }}
-    <div class="dark:text-white">
+    <div class="dark:text-white" style="font-color: black;">
       {{ .Content }}      
     </div>
 
