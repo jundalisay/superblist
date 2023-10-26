@@ -44,12 +44,13 @@ Those four are equivalent to the classification of Socrates:
 
 Rent is a regular revenue from the lack of land while taxes are also a regular revenue from the lack of power by the other person. Rent-seeking is someone who can gain revenue because he can do so, without necessarily creating value in return.
 
-{{< q a="smith" >}}
+{{< q a="Smith" c="Wealth Of Nations Book 1, Chapter 11" >}}
 The rent of land is naturally a monopoly price.
-<cite>Wealth Of Nations Book 1, Chapter 11</cite>
 {{< /q >}}
 
-A landlord can charge rent for his land because he or his forefathers were able to own or conquer that land. You have no choice but to pay rent if you want to use his land. This lack of choice is in turn caused by the fact that humans have no choice but tolive on landinstead of the water or air. The same idea is true withtaxes -- the government or ruling party can charge taxes because they were able to gain power in the country -- you have no choice but to pay taxes, because you must live under some form of civilized society. In Eastern metaphysics, we can say that rent is usually the revenue of the warrior class or ksatriyas.
+A landlord can charge rent for his land because he or his forefathers were able to own or conquer that land. You have no choice but to pay rent if you want to use his land. 
+
+This lack of choice is in turn caused by the fact that humans have no choice but tolive on landinstead of the water or air. The same idea is true withtaxes -- the government or ruling party can charge taxes because they were able to gain power in the country -- you have no choice but to pay taxes, because you must live under some form of civilized society. In Eastern metaphysics, we can say that rent is usually the revenue of the warrior class or ksatriyas.
 
 
 
@@ -57,9 +58,8 @@ A landlord can charge rent for his land because he or his forefathers were able 
 
 Wages are therevenue needed to maintain oneself and whatever else is important to one's life (such as one's family). Having high wages therefore means having more ability to live life, as compared to a low wage person who is limited in life. Labor or work is the main activity required to live. You need to work to find something to eat which in turn is needed to stay alive.
 
-{{< q a="smith" >}} 
+{{< q a="Smith" c="Wealth Of Nations Book 1, Chapter 8" >}} 
 According to Cantillon, the lowest labourer must earn at least double his own maintenance so that he can bring up two children with the help of his wife.
-<cite>Wealth Of Nations Book 1, Chapter 8</cite>
 {{< /q >}}
 
 A slave does not earn wages becausehis life does not belong to himself. Instead, his ability to live is determined by his master, just like a machine. We do not say that a machine's gasoline is part of its revenue. In Eastern metaphysics, we can say that wages are usually the revenue of the masses as the worker class or shudras.
@@ -80,9 +80,8 @@ If a con-man sold you an ordinary rock for $1,000 saying it came from Mars, and 
 
 Profits can be confounded with wages in other ways. For example, a salesman might earn a fixed wage plus a 5% commission for anything he sells. In his case, his commission is a profit. But since he lives off of his wages more, then we can say that he lives by wages.
 
-{{< q a="smith" >}} 
+{{< q a="Smith" c="Wealth Of Nations, Book 1, Chapter 4" >}}
 Workers generally overwork themselves when liberally paid by the piece and ruin their health in a few years.. The same thing happens in other trades where the workers are paid by the piece wherever wages are higher than ordinary.
-<cite>Wealth Of Nations, Book 1, Chapter 4</cite>
 {{< /q >}}
 
 
@@ -107,15 +106,13 @@ In contrast, Westerners are oppressed by their businessmen who turn them into mi
 > *This is similar how Socrates warned against excessive wealth in The Republic.
 
 
-{{< q >}}
+{{< q c="Quran, Surah 2: 275" >}}
 Allah has permitted trading and forbidden Riba (usury)
-<cite>Quran, Surah 2: 275</cite>
 {{< /q >}}
 
 
-{{< q a="Socrates" >}}
+{{< q a="Socrates" c="The Simple Republic By Plato, Book 4, Chapter 1" >}}
 But there are two causes of the deterioration of the arts: Wealth and Poverty. When a potter becomes rich he will not think of you as much as before and grow more and more indolent and careless.. Here, then, is a discovery of new evils of wealth and poverty, against which the guardians will have to watch, or they will creep into the city unobserved.
-<cite>The Simple Republic By Plato, Book 4, Chapter 1</cite>
 {{< /q >}}
 
 
@@ -130,9 +127,8 @@ Donations are revenue similar to profits but are caused by anabundance instead o
 Thus in Eastern metaphysics, we can say that donations are usually the revenue of the intellectual class or brahmin (the head of the body).
 
 
-{{< q a="smith" >}}
+{{< q a="Smith" c="Wealth Of Nations, Book 5, Chapter 1" >}}
 The fee or honorary which the scholar pays the teacher is naturally a revenue of this kind.
-<cite>Wealth Of Nations, Book 5, Chapter 1</cite>
 {{< /q >}}
 
 
@@ -150,7 +146,7 @@ This pre-classification of revenue into four qualities is an example of Socrates
 > *The Dialectics of Socrates is different from that of Hegel or Engels. The former is totally based on metaphysical truths, such as the existence of a Deity which sets the principles for everything in existence, while the latter is based on the movement of the mind from idea to idea. The aim of Socratic Dialectics is to move the mind from lower ideas and perceptions onto higher ones by disregarding hypotheses and replacing them with ultimate principles.
 
 
-This method then gives us a new model or tool for creating better economic policies and systems. It is essential in [Points-based Taxation](/solutions/pantrynomics/pointtax) which will be more intuitive and fair than the current taxation system from Economics (which is merely based on the money-value of revenue). It will also help predict crises by warning policymakers if a class is becoming too strong in society as to render the other classes impotent or useless.
+This method then gives us a new model or tool for creating better economic policies and systems. It is essential in [Points-based Taxation](https://pantrypoints.com/services/tax) which will be more intuitive and fair than the current taxation system from Economics (which is merely based on the money-value of revenue). It will also help predict crises by warning policymakers if a class is becoming too strong in society as to render the other classes impotent or useless.
 
 {{< q a="smith" >}}
 <p>In her present condition, Great Britain resembles an unwholesome body with some overgrown vital parts. Her body is liable to many dangerous disorders which affect unproportioned bodies. Her blood vessel was artificially swelled beyond natural by the industry and commerce forced to circulate in it. A small stop in that great blood-vessel will very likely bring the most dangerous disorders on the whole political body.</p>

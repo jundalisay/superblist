@@ -34,9 +34,6 @@ Our prediction for the coming economic crisis in 2019 as a global stagflation* i
 
 This wave then has highs and lows. The coming 'deep-low' is our prediction of an economic crisis which we arrived at by observing how prices fluctuated from the 13th century up to recent times.  
 
-<!-- |  in order to explain how we came up with the prediction of a crisis either as a global stagflation or global depression, which is ultimately based on the metaphysical notion that history repeats itself or that everything in the universe has a cyclical nature, since the whole universe is made up of waves which pulsate, or have highs and lows.
- -->
-
 
 ## Everything is a wave and a particle is merely a slice of a wave from a different viewpoint
 
@@ -50,7 +47,7 @@ But in the quantum level, when nature of the particle is thoroughly analyzed, th
 
 Hume explains that this defect is due to the limitations of the human mind:
 
-{{< q a="hume" >}}
+{{< q a="Hume" >}}
 <p>The capacity of the mind is limited and can never attain a full and adequate conception of infinity.. In rejecting the mind’s infinite capacity, we suppose it may arrive at an end in the division of its ideas.. Therefore, the imagination may reach a minimum idea which it cannot further subdivide or reduce without annihilating it.. The same is true for the impressions of the senses and the imagination.. The minute parts of distant bodies do not convey any sensible impression.. because.. their impressions were reduced to a minimum.</p>
 {{< /q >}}
 

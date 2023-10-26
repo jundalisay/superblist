@@ -5,8 +5,7 @@ description: "We list the principles of Supereconomics that will lead to solutio
 image: "/covers/principles.png"	
 type: "featured"
 youtube: "rVP73TV2X0s"
-weight: 2
+weight: 1
 # date: 2022-08-06
-# draft: true
 ---
 

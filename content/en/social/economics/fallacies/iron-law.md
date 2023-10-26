@@ -9,7 +9,19 @@ icon: /icons/pantry.png
 ---
 
 
-**Adam Smith** said that the differences in wages are due to [five factors](/social/economics/principles/five-factors-affecting-wages-profits) (agreeableness, trust, constancy, risk, cost of learning) and 3 states (backward, stationary, advancing).
+**Adam Smith** said that the differences in wages are due to [five factors](/reearch/smith/wealth-of-nations/book-1/chapter-10/part-1a):
+
+1. Agreeableness
+2. Trust
+3. Constancy
+4. Risk
+5. Cost of learning
+
+And 3 states of economic growth:
+
+1. backward
+2. stationary
+3. advancing
 
 In contrast, **David Ricardo** simplistically said that wages are based on [the supply and demand of workers and the cost of goods and services which wages are spent on](https://www.econlib.org/library/Ricardo/ricP.html?chapter_num=6). Because of this simplicity, Ricardo concluded that wages must fall ([Iron Law of Wages](https://en.wikipedia.org/wiki/Iron_law_of_wages#Ricardo)). This is similar to that or Marx, who was also very simplistic. 
 
@@ -31,11 +43,9 @@ After that, they reversed and went Malthusian again with the **EU Common Agricul
 
 Eventually, the farmers got tired again and opted for Ricardo’s laissez faire by going for **Brexit**.
 
-All the while, no one consulted Smith who would’ve gone on the **middle path** — there would be government agricultural investment to prevent society from going hungry, <!--   backwards by funding education and reducing risk, --> but there still would be freedom to import certain produce from overseas. For example, the British government might have protectionist policies for wheat, but have free trade for rice and corn. In this way:
+All the while, no one consulted Smith who would’ve gone on the **middle path** — there would be government agricultural investment to prevent society from going hungry, <!--   backwards by funding education and reducing risk, --> but there still would be freedom to import certain produce from overseas. 
+
+For example, the British government might have protectionist policies for wheat, but have free trade for rice and corn. In this way:
 - a collapse of British wheat can be solved by imports of rice and corn
 - a collapse of foreign rice and corn will not affect British food supply so much
 
-<!-- in enterprise. -->
-
-
-<!-- This is actually somewhat implemented as the Nordic model and in Keynesian economics. -->

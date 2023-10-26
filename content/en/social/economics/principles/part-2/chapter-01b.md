@@ -11,10 +11,6 @@ toc: false
 ---
 
 
-
-<!-- > Summary: The effort theory of value is the foundation of Superphysics. It is derived entirely from Adam Smith's wheat-based valuation in <a href="/research/smith/wealth-of-nations/book-1/chapter-5a">the Wealth of Nations Book 1 Chapter 5</a>. Instead of pegging value to metal coins, it pegs it to the abstract difficulty, stress, or hardship of a task to produce a product or service. This is then relativistically pegged to food through a points-ledger which the Physiocrats referred to as "The Economic Table" -->
-
-
 While building Adam Smith's resource allocation system, I've often been asked:"What measure of value does it use?"
 
 Unlike the current economic system which uses money (because it was directly descended from the Mercantile system and merchants only care about money), Smith's system uses real value as a measure of value. He suggests grains as a long term measure of value (since everyone needs to eat), and precious metals as a measure of short term value (since metals are useful to all). 
@@ -98,9 +94,8 @@ Society would therefore have more value, quality, and abundance if its carpenter
 This value and abundance are then spread through exchange, such as through money, barter, credit, or donations, onto places where there is lack*:
 
 
-{{< q a="lao" >}}
+{{< q a="Lao-tzu" c="Tao Te Ching, Chapter 77" >}}
 The Way (or Tao) of Heaven can be compared to the bending a bow. The part of the bow which was high is lowered. The part which was low is raised up. Likewise, Heaven reduces where there is superabundance, and supplements where there is deficiency.. Who can take his own superabundance and use it to serve all under heaven? Only he who is in possession of the Tao!
-<cite>Tao Te Ching, Chapter 77</cite>
 {{< /q >}}
 
 
@@ -112,16 +107,12 @@ The Way (or Tao) of Heaven can be compared to the bending a bow. The part of the
 
 The matching of interest and action or occupation is the key to wealth. This is why Socrates put it as the core requirement of his ideal city-state and even for life itself:
 
-{{< q a="Socrates" >}}
+{{< q a="Socrates" c="The Simple Republic, Book 2, Chapter 2" >}}
 A person works better when he has only one occupation instead of many. A work is spoilt when not done at the right time. Business does not wait for the businessman to be at leisure. Instead, the businessman must follow up what he is doing and make his business his first object. All things are produced more plentifully, easily, and with a better quality when one man does one thing which is natural to him at the right time, and leaves other things.
-
-<cite>The Simple Republic, Book 2, Chapter 2</cite>
 {{< /q >}}
 
-{{< q a="Socrates" >}}
+{{< q a="Socrates" c="The Simple Republic, Book 10, Chapter 3" >}}
 Here, my dear Glaucon, is the supreme peril of our human state. Therefore, the utmost care should be taken. <i>Let each of us leave every other kind of knowledge and seek and follow one thing only.</i> This will help us learn and discern between good and evil. In this way, we can always and everywhere choose the better life.
-
-<cite>The Simple Republic, Book 10, Chapter 3</cite>
 {{< /q >}}
 
 
@@ -140,7 +131,7 @@ Since our valuation is based on effort which is subjective until it the buyers h
 
 We find that this is exactly what Smith had in mind when he mentioned corn, which is shorthand for grains which represents food. You might not be able to print your own money or mine your own gold. But you can certainly grow your own food:
 
-{{< q a="smith" >}}
+{{< q a="Smith" >}}
 At distant times, equal amounts of labour will be bought more nearly with equal amounts of corn, the worker’s subsistence, than with perhaps any other commodity. At distant times, equal amounts of corn will enable its possessor to buy or command nearly the same amount of the labour of other people. Although equal amounts of corn will not do it exactly.
 {{< /q >}}
 
@@ -150,7 +141,7 @@ An Egyptian man in 3000 BC would need a similar amount of food that a modern man
 {{< img src="/graphics/econ/econ.jpg" alt="Effort Theory of Value" cap="Economics and the Commercial system measures everything in currency which is controlled by government which could be authoritarian like Zimbabwe and Venezuela, or could be bought by vested interests like in the US and most countries. Our system measures everything both in gold and grains. The gold standard is used for fast transactions while grain valuation is based on slow trasactions and as a backup or safety in case of financial crisis when the value of money-gold disappears." >}}
 
 
-From a Superphysics perspective (the paradigm that sees everything as waves instead of particles or objects), the effort theory of value bases value on [natural waves of interests and desires](/articles/social/collective-wave-of-desire). This is different from modern economic systems which base value on physical particles such as money.
+From a Superphysics perspective (the paradigm that sees everything as waves instead of particles or objects), the effort theory of value bases value on [natural waves of interests and desires](/social/principles/intro/chapter-01). This is different from modern economic systems which base value on physical particles such as money.
 
 With that, we can safely translate Smith's 18th-century words into modern English without corrupting its deeper meaning and intention:
 

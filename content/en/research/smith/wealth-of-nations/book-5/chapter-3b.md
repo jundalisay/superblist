@@ -24,57 +24,51 @@ The state constantly borrows from its own agents.
 - It is like an improvident spendthrift whose immediate needs do not allow him to wait for his regular revenue.
 
 
-{{< s v="14" >}} In the reign of King William and Queen Anne perpetual funding was not yet familiar.
+{{< s v="14" >}} In the reign of King William and Queen Anne, perpetual funding was not yet familiar.
 
-Most of the new taxes were imposed for a short time, from four to seven years only.
-Most of the yearly grants consisted in loans anticipating the proceeds of those taxes.
+- Most of the new taxes were imposed for a short time, from 4-7 years only.
+- Most of the yearly grants consisted in loans anticipating the proceeds of those taxes.
+  - The proceeds were frequently insufficient to pay:
+    - the principal and
+    - the interest
 
-The proceeds were frequently insufficient for paying the principal and the interest of the money borrowed. It became necessary to prolong the term.
-
-
-{{< s v="15" >}} In 1697, by the 8th of William III., c. 20, the deficiencies of several taxes were charged on the first general mortgage or fund. [first anticipation]
-
-It consisted of a prolongation of several taxes to August 1, 1706.
-- Their proceeds was accumulated into one general fund.
-- The deficiencies charged on this prolonged term was £5,160,459.
+It became necessary to prolong the term.
 
 
-{{< s v="16" >}} In 1701, those duties with some others, were further prolonged until August 1, 1710 for the same purposes.
+## The Start of the Funds 
 
-This was called the second general mortgage or fund.
-Its deficiencies were £2,055,999.
+{{< s v="15" >}} The deficiencies of several taxes were charged to one general  fund.
 
+<!-- The first fund consisted of a prolongation of several taxes to .
+- Their proceeds was accumulated into fund. -->
 
-{{< s v="17" >}} In 1707, those duties were further prolonged as a fund for new loans to August 1, 1712.
+Paragraph | Fund | Start Date | Filled by Taxes Until |  Amount Borrowed
+--- | --- | --- | --- | ---
+{{< s v="15" >}} | First General Mortgage or Fund | 1697, by the 8th of William III., c. 20 | August 1, 1706 | £5,160,459
+{{< s v="16" >}} | Second General Mortgage | 1701 | August 1, 1710 | £2,055,999
+{{< s v="17" >}} | Third General Mortgage | 1707 | August 1, 1712 | £983,254
+{{< s v="18" >}} | Fourth General Mortgage | 1708 | August 1, 1714 | £925,176
+{{< s v="19" >}} | Fifth General mortgage | 1709 | August 1, 1716 | £922,029
+{{< s v="20" >}} | Sixth General mortgage | 1710 | August 1, 1720 | £1,296,552
+{{< s v="21" >}} | South Sea Fund | 1711 | August 1, 1720 | £9,177,967
+{{< s v="23" >}} | Aggregate Fund | 1715 by the 1st of George 1, chapter 12 | August 1, 1720 | £9,177,967
 
-It was called the third general mortgage or fund. [second anticipation]
-The sum borrowed on it was £983,254.
+<!-- First Anticipation -->
 
-{{< s v="18" >}} In 1708, those duties were all further continued as a fund for new loans to August 1, 1714 except for= 
+<!-- [second anticipation] -->
+
+The Fourth Fund continued all the taxes except for: 
 - the Old Subsidy of Tonnage and the Poundage
   - only one part made it into this fund
 - an import duty on Scotch linen which was removed by the Articles of Union
 
-It was called the fourth general mortgage or fund. [third anticipation]
+<!-- [third anticipation] -->
 
-The sum borrowed on it was £925,176.
+The Fifth Fund continued all the taxes except for:  
+- the Old Subsidy of Tonnage and Poundage which was now all left out of this fund.
 
-
-{{< s v="19" >}} In 1709, those duties were all continued to August 1, 1716 except for the Old Subsidy of Tonnage and Poundage which was now all left out of this fund.
-
-It was called the 5th general mortgage or fund.
-- The sum borrowed on it was £922,029.
-
-
-{{< s v="20" >}} In 1710, those duties were again prolonged to August 1, 1720.
-
-It was called the 6th general mortgage or fund.
-- The sum borrowed on it was £1,296,552.
-
-
-{{< s v="21" >}} In 1711, the same duties, with several others, were continued forever.
-
-By then, those duties were thus subject to four anticipations.
+In 1711, the same duties, with several others, were continued forever.
+- By then, those duties were thus subject to 4 anticipations.
 
 It made a fund which paid the interest of the South Sea Company's capital. [fourth anticipation]
 - In 1711, that Company loaned £9,177,967 to government.
@@ -117,17 +111,17 @@ It would not need any other government attention besides that of:
 - not charging it with more debt than it could pay within the limited term,
 - not anticipating a second time before the expiration of the first anticipation.
 
-But most European governments have been incapable of those attentions= 
-    They have frequently overloaded the fund on the first anticipation, or
-    They have generally taken care to overload it by anticipating a second and a third time before the expiration of the first anticipation.
+But most European governments have been incapable of those attentions.
+- They have frequently overloaded the fund on the first anticipation, or
+- They have generally taken care to overload it by anticipating a second and a third time before the expiration of the first anticipation.
+
 In this way, the fund becomes insufficient to pay the principal and the interest.
-    It became necessary to charge it with only= 
-        the interest, or
-        a perpetual annuity equal to the interest.
+- It became necessary to charge it with only:
+  - the interest, or
+  - a perpetual annuity equal to the interest.
 
-Such improvident anticipations gave birth to the more ruinous practice of perpetual funding.
-
-This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come.
+**Such improvident anticipations gave birth to the more ruinous practice of perpetual funding.**
+- This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come.
 
 However, it raises more money than the old practice of anticipation.
 
@@ -149,4 +143,3 @@ This saving left a big surplus in the proceeds of the taxes accumulated into tho
 - In 1717, it was £323,434.
 - In 1727, the interest of most of the public debts was reduced to 4%.
 - In 1753 and 1757, it was reduced to 3.5-3%. It further increased the sinking fund.
-

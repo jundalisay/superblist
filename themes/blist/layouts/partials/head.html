@@ -5,7 +5,9 @@
   <title>
   {{ if not .IsHome }}{{ .Title }} - {{ end }}{{ site.Title }}
   </title>
-  
+
+  <link rel="icon" type="image/x-icon" href="{{ .Site.Params.favicon }}">
+
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}" />
   
   {{- if .Params.Author }}

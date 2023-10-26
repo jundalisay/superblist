@@ -1,7 +1,7 @@
 ---
 title: "About Superphysics"
 description: "Superphysics is a unification of Science and Philosophy, Physics with Metaphysics, Matter with the Aether."
-image: /covers/spblack.jpg
+image: /covers/2023.png
 toc: false
 weight: 100
 ---

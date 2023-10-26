@@ -1,5 +1,5 @@
 ---
-title: "French Annuities"
+title: "French Annuities; British Debt"
 heading: "Chapter 3d"
 weight: 12
 image: "/covers/wn.jpg"
@@ -55,18 +55,20 @@ In great empires, the people who live far from the action feel no inconvenience 
 
 These taxes are mortgaged for the interest of the debt contracted for the war.
 If the new taxes produce some surplus after paying the debt's interest, this revenue might be converted into a sinking fund for paying off the debt.
-    This often fails because= 
-        This sinking fund is altogether inadequate for paying the whole war debt within a reasonable time.
-        This fund is almost always applied to other purposes.
+
+This often fails because:
+- This sinking fund is altogether inadequate for paying the whole war debt within a reasonable time.
+- This fund is almost always applied to other purposes.
 
 
 {{< s v="39" >}} The new taxes were imposed only to pay the interest.
 
 They are not intended nor expected to produce more.
-    Any surplus would seldom be very considerable.
+- Any surplus would seldom be very considerable.
+
 Sinking funds generally arose more from a reduction of interest than from any surplus of taxes.
-    Holland's sinking fund in 1655 and that of the ecclesiastical state in 1685 were formed this way.
-    Hence the usual insufficiency of such funds.
+- Holland's sinking fund in 1655 and that of the ecclesiastical state in 1685 were formed this way.
+- Hence the usual insufficiency of such funds.
 
 
 {{< s v="40" >}} During peacetime, various events require an extraordinary expence.
@@ -97,26 +99,38 @@ When a nation is already overburdened with taxes, only the need of a new war, fu
 Great Britain's present enormous debt was first laid by the Nine Years' War of 1688 which was ended by the Treaty of Ryswick in 1697.
 
 
-{{< s v="42" >}} On December 31 1697, Great Britain's public debts, funded and unfunded, was £21,515,742.
+Paragraph | Date | British Debt funded and unfunded | 
+--- | --- | ---
+{{< s v="42" >}} | December 31 1697 | £21,515,742
+. | Before December 31, 1701 | £16,394,701
+{{< s v="43" >}} | December 31, 1714 | £53,681,076
+. | December 31, 1722 | £55,282,978
+. | December 31, 1739 | £46,954,623
+{{< s v="44" >}} | December 31, 1714 | £53,681,076
+. | December 31, 1748 | £78,293,313
 
 Most of those debts were contracted on short anticipations.
 - Some part was on annuities for lives.
 
-Before December 31, 1701, in less than four years, it was reduced by £5,121,041.
-    This was a greater reduction of public debt than ever before, for so short a time.
-    The remaining debt was only £16,394,701.
+<!-- , in less than four years, it was reduced by £5,121,041. -->
+
+1701 was a greater reduction of public debt than ever before, for so short a time.
 
 
-{{< s v="43" >}} In the War of the Spanish Succession of 1709, concluded by the Treaty of Utrecht, the public debts further increased.
+{{< s v="43" >}} The public debts were increased by the War of the Spanish Succession of 1709, concluded by the Treaty of Utrecht.
 
-On December 31, 1714, they amounted to £53,681,076.
-The subscription into the South Sea fund of the short and long annuities increased the capital of the public debts.
-    On December 31, 1722 it amounted to £55,282,978.
+The subscription into the South Sea fund of the short and long annuities increased the capital of the public debts to £55,282,978.
+
 The reduction of the debt began in 1723.
-    It went on so slowly that, by December 31, 1739 after 17 years of profound peace, the whole sum paid off was no more than £8,328,354.
-    The capital of the public debt at that time was £46,954,623.
+- It went on so slowly
+- By December 31, 1739 after 17 years of profound peace, the whole sum paid off was no more than £8,328,354
 
 
-{{< s v="44" >}} The debt increased because of the War of Jenkins' Ear, which began in 1739, and the War of the Austrian Succession which soon followed it.
+{{< s v="44" >}} The debt increased because of:
+- the War of Jenkins' Ear from  1739 and
+- the War of the Austrian Succession which soon followed it.
+  - By the end of 1748, the debt was at £78,293,313 after the war was concluded by the Treaty of Aix-la-Chapelle. 
 
-On December 31, 1748, the debt was at £78,293,313 after the war was concluded by the Treaty of Aix-la-Chapelle. The most profound peace of 17 years reduced the debt by only £8,328,354. A war of less than nine years added £31,338,689 to the debt.
+The most profound peace of 17 years reduced the debt by only £8,328,354. 
+
+A war of less than 9 years added £31,338,689 to the debt.

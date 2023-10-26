@@ -101,6 +101,7 @@ This is not always advantageous to the master.
 But it is always disadvantageous to the apprentice because of their idleness.
 
 In country labour, on the contrary, the labourer can maintain himself while he is employed and learning.
+
 It is reasonable, therefore, that the wages of mechanics, artificers, and manufacturers should be higher than those of common labourers.
 This makes them considered as a superior rank.
 This superiority, however, is very small

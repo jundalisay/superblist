@@ -6,5 +6,6 @@ description: "We group the fallacies and sophistries by shallow economists or pe
 image: "/covers/fallacies.png"
 type: "featured"
 youtube: "rVP73TV2X0s"
+weight: 2
 ---
 

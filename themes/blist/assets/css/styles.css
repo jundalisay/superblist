@@ -186,50 +186,26 @@
   margin-top: 100px;
 }*/
 
-.boni, .Bonifacio {
-  background-image: url(/avatars/boni.png) !important;
-}
+.boni, .Bonifacio {background-image: url(/avatars/boni.png) !important;}
 
-.marx, .Marx {
-  background-image: url(/avatars/marx.png);
-}
+.marx, .Marx {background-image: url(/avatars/marx.png);}
 
-.mill, .Mill {
-  background-image: url(/avatars/mill.png);
-}
+.mill, .Mill {background-image: url(/avatars/mill.png);}
 
-.Pythagoras {
-  background-image: url(/avatars/py.png);
-}
+.Pythagoras {background-image: url(/avatars/py.png);}
 
-.Jesus {
-  background-image: url(/avatars/jesus.png);    
-}
+.Jesus {background-image: url(/avatars/jesus.png);}
 
 
-.Someone, .No-photo, .m, .Mohammad, .Mun {
-  background-color: lightgray;  
-  background-image: url(/icons/blank.png);  
-}
+.Someone, .No-photo, .m, .Mohammad, .Mun {background-image: url(/icons/blank.png);}
 
-.kin, .Tsz-Kin, .Lin-Fang, .Iamblichus, .Simon-Peter, .M {
-  background-color: lightgray;  
-  background-image: url(/icons/g01.png);  
-}
+.kin, .Tsz-Kin, .Lin-Fang, .Iamblichus, .Simon-Peter, .M {background-image: url(/icons/g01.png);}
 
-.ade, .Adeimantus, .Tsz-Hi, .Disciples {
-  background-color: #d9fefd;  
-  background-image: url(/icons/g02.png);  
-}
+.ade, .Adeimantus, .Tsz-Hi, .Disciples {background-image: url(/icons/g02.png);}
 
-.asker, .Asker, .Thomas {
-  background-image: url(/icons/g09.png) !important;
-}
+.asker, .Asker, .Thomas {background-image: url(/icons/g09.png) !important;}
 
-.Wang-Sun-Ki, .Judas, .Tsz-Lu {
-  background-color: gainsboro;
-  background-image: url(/icons/g07.png) !important;
-}
+.Wang-Sun-Ki, .Judas, .Tsz-Lu {background-image: url(/icons/g07.png) !important;}
 
 .cle, .Cleitophon, .Simmias, .Duke-Ngai, .Abraham {
   background-image: url(/icons/g09.png);  

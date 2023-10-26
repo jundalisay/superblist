@@ -10,16 +10,12 @@ icon: "/icons/einbla.png"
 
 
 
-<!-- PART II THE GENERAL THEORY OF RELATIVITY -->
-
-Special Relativity is the principle of the physical relativity of all **uniform motion**. <!-- From the point of view of the idea it conveys to us, --> Every motion must only be considered as a relative motion. In our earler train example: 
-
-<!-- Returning to the illustration we have frequently used of the embankment and the railway carriage, we can express the fact of the motion here taking place in the following two forms, both of which are equally justifiable=   -->
+Special Relativity is the principle of the physical relativity of all **uniform motion**. Every motion must only be considered as a relative motion. In our earler train example: 
 
 1. The train is in motion relative to the embankment. Our <!-- reference-body --> viewpoint in this case is the embankment
 2. The embankment is in motion relative to the carriage. Our viewpoint in this case is the train
 
-For *theoretical* descriptions of motion, we do not care which viewpoint <!-- reference-body --> we take.
+For *theoretical* descriptions of motion, we do not care which viewpoint we take.
 
 This is true for Special Relativity, but not for General Relativity. 
 
@@ -28,8 +24,6 @@ But for *real* descriptions of motion, the laws of physics have the exactly the 
 1. The embankment is our viewpoint
 2. The train is our viewpoint
 
-
-<!-- Both the embankment and the train carriage is the viewpoint  body of reference in our statement of relative motion.  -->
 
 <!--  taking place. If it is simply a question of detecting or of describing the motion involved, it is in principle immaterial to what reference-body we refer the motion. 
 
@@ -57,20 +51,16 @@ All these bodies of reference are to be regarded as Galileian viewpoints. <!-- r
 
 In contrast to this is General Relativity=  **All bodies of reference `K`, `K'`, etc., are equivalent for the <!-- description of natural phenomena ( -->formulation of the general laws of nature, whatever their state of motion.**
 
-General Relativity is more abstract than Special Relativity. <!-- This formulation must be replaced later by a more abstract one, for reasons which will become evident later. --> People will be more curious about General Relativity. 
+General Relativity is more abstract than Special Relativity. People will be more curious about General Relativity. 
 
-<!-- Since Special Relativity has been justified, every intellect which strives after generalisation must feel the temptation to venture the step towards General Relativity.  -->
 
-<!-- But a simple and apparently quite reliable consideration seems to suggest that, for the present at any rate, there is
-little hope of success in such an attempt. --> 
-
-A train travels at a uniform rate. Its occupant is not sensible of its motion. This is why he can say that the train is at rest, but the embankment is in motion. This is acceptable to Special Relativity.  <!-- Moreover, according to the special principle of relativity, this interpretation is quite justified also from a physical point of view. -->
+A train travels at a uniform rate. Its occupant is not sensible of its motion. This is why he can say that the train is at rest, but the embankment is in motion. This is acceptable to Special Relativity.
 
 If the train's motion becomes erratic, such as if it hits the brakes, <!--  of the carriage is now changed into a non-uniform motion, as for instance by a powerful application of the brakes --> then its occupant jerks forward. This leads to mechanical behaviour of objects relative to him inside the train. 
 
-<!--  experiences correspondingly erratic mechanical movements --><!--  powerful jerk forwards --> <!-- The retarded motion is manifested in the mechanical behaviour of bodies relative to the person in the railway carriage.  -->This mechanical behaviour is different from the behavior of those objects before the brakes were applied. <!--  of the previous case. --> This is why <!--  previously considered, and for this reason --> it is impossible that the same mechanical laws hold relatively to the erratically-moving train, as when it is at <!--  hold with reference to the carriage when at --> rest or in uniform motion.
+This mechanical behaviour is different from the behavior of those objects before the brakes were applied. <!--  of the previous case. --> This is why <!--  previously considered, and for this reason --> it is impossible that the same mechanical laws hold relatively to the erratically-moving train, as when it is at <!--  hold with reference to the carriage when at --> rest or in uniform motion.
 
 
 The Galileian law does not hold with respect to the erratically-moving train. This is why we feel compelled to grant an absolute physical reality* to erratic motion in Newtonian Physics, which is different from General Relativity. <!-- But in what follows we shall soon see that this conclusion cannot be maintained. -->
 
-> *Superphysics Note: This absolute reality is given by Newton as his concept of "Lord God" in [Book 3 of Principia](/research/newton/principia/book-3/vortices)
+> *Superphysics Note: This absolute reality is given by Newton as his concept of "Lord God" in Book 3 of Principia

@@ -1,22 +1,22 @@
 ---
-title: "Basic Universal Revenue"
+title: "Basic Points Revenue"
 heading: "Chapter 3b"
-linkTitle: Chapter 3b
+# Alternative to Universal Basic Income"
+# BPR is our New Store of Value and a
 weight: 18
 date: 2020-08-20
 # date: 2017-04-26
 image: /photos/econ/bake.jpg
 description: "The points-based system is implemented as a points-for-food system that creates wealth by tapping the unemployed. This leads to full employment even during a financial or economic crisis"
 # type: "featured"
-contributors: ['Juan']
+author: "Juan"
 icon: "/icons/pantry.png"
-toc: false 
 ---
 
 
 Universal Basic Income (UBI) became popular in 2016 after it was adopted by a few Western countries. 
 
-In UBI, money is given to poor people without any strings attached. This makes it a bit different from Conditional Cash Transfers (CCT) which imposes conditions that the poor must meet. 
+In UBI, money is given to poor people without any strings attached. This makes it a bit different from Conditional Cash Transfers (CCT) which imposes conditions that the poor must meet.
 
 
 ## What's Wrong with Universal Basic Income? 
@@ -28,30 +28,23 @@ In general, studies have found 2 flaws in UBI:
 
 Adam Smith, the founder of Economics, would be against UBI because:
 - It can only be measured in nominal value
-- It acts as an expense instead of as a capital (there is no guarantee that the recipient will use it for education to build up his knowledge, or for healthy food to build up his body)
+- It acts as an expense instead of as a capital -- there is no guarantee that the recipient will use it for education to build up his knowledge, or to buy healthy food to build up his body
 
 
-
-{{< q a="smith" >}}
-<p>In towns principally supported by the residence of a court, the poor are chiefly maintained by the spending of revenue. The inferior ranks are generally idle, dissolute, and poor as in Rome, Versailles, Compiegne, and Fontainebleu..
-
-<br><br> In mercantile and manufacturing towns, the inferior ranks of people are chiefly maintained by the employment of capital. The inferior ranks are generally industrious, sober, and thriving.. It is better, says the proverb, to play for nothing than to work for nothing.</p>
-<cite>The Wealth of Nations Simplified, Book 3</cite>
+{{< q a="Smith" c="The Wealth of Nations Simplified, Book 3" >}}
+In towns principally supported by the residence of a court, the poor are chiefly maintained by the spending of revenue. The inferior ranks are generally idle, dissolute, and poor..
+<br>In mercantile and manufacturing towns, the poor are chiefly maintained by the employment of capital. They are generally industrious, sober, and thriving.. It is better, says the proverb, to play for nothing than to work for nothing.
 {{< /q >}}
 
 <!-- 
-Neoliberals want UBI because it will give money to the poor who will then use it to buy goods and services of businesses. It increases sales and therefore profits, even if there is no assurance whether those poor people will spend it wisely. More importantly, it is guaranteed revenue for 
+Neoliberals want UBI because it will give money to the poor who will then use it to buy goods and services of businesses. It increases sales and therefore profits, even if there is no assurance whether those poor people will spend it wisely. 
  -->
 
-Development banks want UBI for them to find use for their idle money which is of no value when not circulating. 
-
-**Therefore, UBI is an easy sign that the profits in lending are very low, that banks have to find radically new business models.** 
+Development banks want UBI for them to find use for their idle money which is of no value when not circulating. **Therefore, UBI is an easy sign that the profits in lending are very low, that banks have to find radically new business models.**
 
 Governments of democratic countries like Brazil and the Philippines want it because it lets them placate the poor and prevent public disobedience or the rise of Communism or terrorism. Unofficially, it helps politicians buy votes*. The abandonment of UBI in Finland and Bolsa Familia in Brazil are proofs that UBI is not sustainable.
 
-
 > *This is proven by presidential candidates using dole outs during their election campaigns
-
 
 <!-- Canada and Finland, which are experimenting with UBI, are coincidentally the 4th and 5th largest gambling nations according to CNBC. Ontario, where UBI will be tested in Canada, also has the largest 2008 gambling revenue  of all the Canadian provinces. -->
 
@@ -78,7 +71,7 @@ This solution would not work if there are many regulations against self-made goo
 
 ### Pros and Cons
 
-Microfinance, UBI, CCT also have pros and cons:
+Microfinance, UBI, CCT thus have pros and cons:
 
 _ | UBI | CCT | Microfinance
 --- | --- | --- | ---
@@ -90,19 +83,18 @@ Cons | It has no control to prevent this moblization from being unproductive | I
 
 Supereconomics introduces the concept of pointization or the conversion of economic value into points which are pegged to grains. These points are created whenever there is an agreement by two parties.
 
-For example, John can give his harvest of 1 kilogram of potatoes to Martha in exchange for 2 points if 1 kilogram of potatoes is worth 2 kilograms of wheat.
+For example, John can give his harvest of 1 kilogram of potatoes to Martha in exchange for 2 points (assuming that 1 kilogram of potatoes is worth 2 kilograms of wheat).
 - John will then have a right to claim those 2 points as whatever Martha is producing. 
-- If she is a baker, then John can claim a cake from her, worth those 2 points, in the future. 
+- If she is a baker, then John can claim bread worth 2 points from her in the future. 
 
 Thus, **the points are not created by any bank, but by the people themselves judging the value of the goods and services of others relative to themselves and others.** 
 
-The points can only be created and destroyed as deposits and claims, similar to tags in a baggage counter. As such, the points are not exchangeable and are not legal tender.   
+The points can only be created and destroyed as deposits and claims, similar to tags in a baggage counter. As such, the points are not exchangeable and are not legal tender.
 
 So far, only the ["take tags"](https://moneylesssociety.com/)* of the Resource Based Economy (RBE) has a similar yet rudimentary idea of this.   
 
-> *These are different from a gift economy and a time-banking system.The flaw in RBE is that [they have no background on metaphysics](/social/economics/fallacies/resource-based-economy). This makes them focus on physical resources, different from Superphysics which is based on fellow-feeling
+> *These are different from a gift economy and a time-banking system.The flaw in RBE is that [they have no background on metaphysics](/social/economics/fallacies/resource-based-economy). This makes them focus on physical resources, different from Supereconomics which is based on fellow-feeling
 
-<!--  exchanged between . These points are then stored and exchanged through a points-based banking system. This is similar to how the Bank of Amsterdam, according to the Wealth of Nations, standardized, stored, and exchanged the various coins circulating in Europe.  -->
 
 This service provides the following advantages:
 
@@ -125,7 +117,12 @@ For example, a soon-to-be bankrupt airline can stay afloat by getting a deposit 
 - In return, it gives flier miles to its creditors for the value of those resources.
 - Instead of an interest rate, a direct markup is assigned.  
 
-When viewed on a macro level, the points-deposits represent an estimate of future productivity. This is different from money-deposits which represent actual productivity.
+When viewed on a macro level, the points-deposits represent an estimate of future productivity. 
+
+This is different from money-deposits which represent actual productivity. Money-deposits are governed by interest rates as the 'time value of money', but points-deposits are governed by the moral sentiments* of the exchangers. 
+
+> *This is why The Theory of Moral Sentiments is needed before The Wealth of Nations
+
 - 'Monetization' speeds up an economy by converting goods and services into money through sales
 - 'Pointization' is the opposite conversion of money into a promise of future resources. 
 
@@ -136,15 +133,13 @@ Pointization thus saves companies and societies from a monetary crash, by facili
 
 
 
-### Basic Universal Revenue
+### Basic Points Revenue
 
-On a personal level, the point-debts are called <!-- implemented through --> 'Basic Universal Revenue' or BUR. It will convert anyone's productivity into points which can be exchanged for food or other basic needs.
+The points are very useful during crises. During personal crises, the points manifest as 'Basic Points Revenue' or BPR. It will convert anyone's productivity into points which can be exchanged for food or other basic needs to get through a crisis.
 
 This is similar to how the Inca established a nonmonetary economy using strings called *quipu* that represented an amount of food in the granary.
 
 {{< img src="https://sorasystem.sirv.com/photos/quipu.jpg" cap="Adam Smith cited the Inca and Mongol civilizations as proof that large economies do not need currency to survive. The Inca used strings to represent food assets stored in community-granaries which were then traded for military service. Instead of strings, we use points. Instead of granaries, we use community hubs" alt="Quipu strings" >}}
-
-
 
 A donor can jumpstart the economy by giving food to the poor in exchange for points which the donor can claim through the labor or produce of the poor. For example, if the donor is the government, then:
 - it can provide food for the relief of the poor
@@ -152,9 +147,8 @@ A donor can jumpstart the economy by giving food to the poor in exchange for poi
 
 {{< youtube Yh5uY0gJWus >}}
 
-# 
 
-In this way, BUR creates full employment witout being a debt-trap like microfinance nor encouraging gambling as what happens with UBI. It would also be cheaper to administer if it were done online.
+In this way, BPR can create full employment witout being a debt-trap like microfinance, nor encourage idleness as what happens with UBI. It can also be administered fully online, making it cheaper to run.
 
 <!-- It might not make sense to make food as the foundation of an economic system, now that food is plentiful. But it will make more sense when global warming and overpopulation starts making food less easy to come by. It will make the most sense in future human colonies in other planets where food is not guaranteed. -->
 <!-- 
@@ -172,29 +166,25 @@ However, this would merely allow the hoarding of that currency just as fiat is h
 - one for the store of value
 - another for the tool of trade 
 
-The points system becomes the store of value, while the apps become the tools of trade. Unlike currency or crypto, **the points are not tradeable to everyone**. This means that they are not legal tender.   
-
 Instead of exchange, the general actions are either deposit or withdraw. This makes the system more like a rationing system instead of a trading one.  -->
 
 
-<!-- The store of value will be implemented as a resource credit system for deposting the value of work, while the tool of trade will be implemented as the claiming system that will convert the points into real goods or services. The resource credits then manifest as points that represent food. -->
-
-<!-- In both depositing and claiming, the place of transaction, called a hub, will determine the point-value of the goods or services rendered. The competition between hubs ensures that the points will not be unfair, while the non-transferability of the points ensures that they cannot be amassed by any single person. Thus this points system, that is ultimately represented by grains, cannot be called a money or currency. Instead, we call this **Basic Universal Revenue** or BUR. -->
+<!-- In both depositing and claiming, the place of transaction, called a hub, will determine the point-value of the goods or services rendered. The competition between hubs ensures that the points will not be unfair, while the non-transferability of the points ensures that they cannot be amassed by any single person. Thus this points system, that is ultimately represented by grains, cannot be called a money or currency. Instead, we call this **Basic Universal Revenue** or BPR. -->
 
 
-Type | Universal Basic Income (UBI) | Basic Universal Revenue (BUR)
+Type | Universal Basic Income (UBI) | Basic Universal Revenue (BPR)
 --- | --- | ---
 Source | Free Money | Goods Deposited by People
 Inflation Risk | Inflationary | No Risk of Inflation
 Real Purpose | Give money to poor people so they can get the economy going (effect) | Give rewards to productive labor so they can increase<br> the productivity of society (cause)
 
 
-<!-- You can think of a baggage counter in a shopping center as an analogy to BUR. The counter lets anyone deposit their productivity in exchange for a tag that entitles them to claim the same productivity in the future, regardless of the changing value of fiat.
+<!-- You can think of a baggage counter in a shopping center as an analogy to BPR. The counter lets anyone deposit their productivity in exchange for a tag that entitles them to claim the same productivity in the future, regardless of the changing value of fiat.
 
 - Because it is unaffected by inflation, this makes it ideal for life insurance -- the person will keep on depositing productivity in the counter and expect to get back the whole productivity undiluted by inflation.
-- Because the tags are not currency, the counter is not a banking system (yet). This makes bank-runs, financial crises, andtransaction mistakes  non-existent because unlike a bank that always must have money in reserve, a BUR hub is allowed to not have goods for certain time periods (such as during the time before harvest).
-- Unlike the banking system that increases wealth by multiplying the money that drives productivity, BUR increases wealth by tapping all of the untapped productivity in society, including even the animals that do productive labor, such as working cattle and dogs*.
-- Unlike the rationing system in Communist coutries, BUR can work without government, since it runs on the common interest of society**. People are free to choose other hubs if their current one gives an unfair valuation of their deposits.
+- Because the tags are not currency, the counter is not a banking system (yet). This makes bank-runs, financial crises, andtransaction mistakes  non-existent because unlike a bank that always must have money in reserve, a BPR hub is allowed to not have goods for certain time periods (such as during the time before harvest).
+- Unlike the banking system that increases wealth by multiplying the money that drives productivity, BPR increases wealth by tapping all of the untapped productivity in society, including even the animals that do productive labor, such as working cattle and dogs*.
+- Unlike the rationing system in Communist coutries, BPR can work without government, since it runs on the common interest of society**. People are free to choose other hubs if their current one gives an unfair valuation of their deposits.
 
 
 > *Adam Smith mentioned that laboring cattle do productive work for humans and so should be entitled to wages
@@ -232,7 +222,7 @@ A community pantry accepts plastic waste or compost collected by poor citizens i
 
 But what happens when a human moves from `Country A` to `Country B`? What happens to all his points left in his country? Can these be moved with him?
 
-**BUR prevents arbitrary productivity-transfer in order to not let productivity get sucked away or be amassed by other people.** This prevents inequality and would have prevented:
+**BPR prevents arbitrary productivity-transfer in order to not let productivity get sucked away or be amassed by other people.** This prevents inequality and would have prevented:
 - the Asian Financial Crisis
 - 2008 Financial Crisis
 - the speculative attacks by George Soros
@@ -243,16 +233,16 @@ But what happens when a human moves from `Country A` to `Country B`? What happen
 
 But does this mean that foreign investments can never be made?
 
-To answer this, we need to remember that BUR is only for basic needs such as food and healthcare (and possibly utilities). Its goal is to render as many people (and animals) productive so that they can eventually produce goods and services that go beyond the basics. 
+To answer this, we need to remember that BPR is only for basic needs such as food and healthcare (and possibly utilities). Its goal is to render as many people (and animals) productive so that they can eventually produce goods and services that go beyond the basics. 
 
-As the people gain more productivity, they will naturally go outside of BUR and back into currency to buy more sophisticated goods and services.
+As the people gain more productivity, they will naturally go outside of BPR and back into currency to buy more sophisticated goods and services.
 
-If a person with a huge amount of BUR points in `Poor Country P` moves to a `Rich Country R`, then his points will have to be converted by an intra-national clearing system that converts the points to their proper productivity values. 
+If a person with a huge amount of BPR points in `Poor Country P` moves to a `Rich Country R`, then his points will have to be converted by an intra-national clearing system that converts the points to their proper productivity values. 
 
-Such a system, called ["Pool Clearing"](/research/schumacher/pool-clearing/part-1)*, will connect certain hubs in `Poor Country P` to certain hubs in `Rich Country R`. Only those hubs that are connected can transfer the points. To offset the cost of converting the points, those hubs, which we shall call "International Point Banks", will offer a worse price than standalone hubs. 
+Such a system, called [Pool Clearing](/research/schumacher/pool-clearing/part-1)*, will connect certain hubs in `Poor Country P` to certain hubs in `Rich Country R`. Only those hubs that are connected can transfer the points. To offset the cost of converting the points, those hubs, which we shall call "International Point Banks", will offer a worse price than standalone hubs. 
 
 
-> *The idea for a clearing system that connects the resource banks is derived from the pool clearing proposal by EF Schumacher in 1943. The difference is that his system is 'top-down' and uses local currencies, whereas BUR is 'bottom-up'. In addition, our BUR-Pool system directly implements Adam Smith's free trade system that can work with or without money, which it replaces with points. This makes it even more resilient than the version proposed by EF Schumacher.
+> *The idea for a clearing system that connects the resource banks is derived from the pool clearing proposal by EF Schumacher in 1943. The difference is that his system is 'top-down' and uses local currencies, whereas BPR is 'bottom-up'. In addition, our BPR-Pool system directly implements Adam Smith's free trade system that can work with or without money, which it replaces with points. This makes it even more resilient than the version proposed by EF Schumacher.
 
 
 For example, the bakery owner closes his business in `P` to move to `R`.
@@ -263,13 +253,13 @@ For example, the bakery owner closes his business in `P` to move to `R`.
 {{< img src="https://sorasystem.sirv.com/graphics/burpool.png" alt="Pool CLearing" cap="Basic Universal Revenue, Resource Banks, and Pool Clearing unify the productivity of all countries via common interest, which is the opposite of the competition in the commercial system derived from selfish interest" >}}
 
 
-<!-- In 2015, my model predicted a 10+ year crisis period sparking in 2019, divided into three waves. The first wave turned out to be Covid. The second wave is supposed to be a global money crisis, and the third one will be some kind of conflict. While BUR is designed forthe current Covid recession, Pool is designed for that future money crisis. Had BUR been in place in 2019, then the Covid pandemic wouldn't have caused huge budget deficits as points could've been given out instead of cash. But in hindsight, had there been no Covid relief bill in many countries, then there would be no future monetary crisis. Without that second crisis, there would be no way to prove that a Pool clearing system would be more beneficial than the current commercial system. -->
+<!-- In 2015, my model predicted a 10+ year crisis period sparking in 2019, divided into three waves. The first wave turned out to be Covid. The second wave is supposed to be a global money crisis, and the third one will be some kind of conflict. While BPR is designed forthe current Covid recession, Pool is designed for that future money crisis. Had BPR been in place in 2019, then the Covid pandemic wouldn't have caused huge budget deficits as points could've been given out instead of cash. But in hindsight, had there been no Covid relief bill in many countries, then there would be no future monetary crisis. Without that second crisis, there would be no way to prove that a Pool clearing system would be more beneficial than the current commercial system. -->
 
 <!-- 1. The first tool is money-payment which stores the value in fiat
 2. The second tool is barter contracts which will usually manifest as job contracts, storing value as skill or labor 
-3. The third tool is points-based as BUR, storing value as grains 
+3. The third tool is points-based as BPR, storing value as grains 
 
 The best thing about it is that it can be extended with Pool Clearing to unify the national economies of countries so that they can provide for each other, such as by paying for the national debt of the other through their imports. 
  -->
 
-Pool Clearing thus allows BUR to spread globally so that poverty, inequality, recessions and economic crises can likewise be prevented globally.
+Pool Clearing thus allows BPR to spread globally so that poverty, inequality, recessions and economic crises can likewise be prevented globally.

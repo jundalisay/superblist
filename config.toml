@@ -6,6 +6,7 @@ theme = "blist"
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = false
 
+enableEmoji = true
 paginate = 12
     # [[languages.zh.menu.main]]
     #     name = "Tags"

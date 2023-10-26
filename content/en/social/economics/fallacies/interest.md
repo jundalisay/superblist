@@ -9,19 +9,17 @@ icon: /icons/pantry.png
 ---
 
 
-The failure of quantitative easing, both in the US under Obama and in Japan as [Abenomics](/social/cycles/how-to-fix-japan), is proof that the operations of banking cannot directly and immediately lead to economic growth, as explained by Adam Smith:  
+The failure of quantitative easing, both in the US under Obama and in Japan as [Abenomics](/social/cycles/japan), is proof that the operations of banking cannot directly and immediately lead to economic growth, as explained by Adam Smith:  
 
-{{< q a="smith" >}}
+{{< q a="Smith" c="The Simple Wealth of Nations Book 2, Chapter 2" >}}
 The judicious operations of banking can increase a country’s industry, not by augmenting the country’s capital, but by rendering most of that capital productive.
-<cite>The Simple Wealth of Nations Book 2, Chapter 2</cite>
 {{< /q >}}
 
 This is opposite the notion of Keynes that interest rates, set by banks, are the key to growing an economy:
 
 
-{{< q a="keynes" >}}
+{{< q a="Keynes" c="Simplified General Theory, Chapter 14 Appendix" >}}
 The interest rate policy of the central bank can alter the money supply. This makes it a real determinant of the economic scheme.
-<cite>Simplified General Theory, Chapter 14 Appendix</cite>
 {{< /q >}}
 
 
@@ -65,23 +63,20 @@ From here, we can explain the affinities and oppositions of different beliefs an
 
 From the era of Classical Economics of Xenophon and the early Marginal Revolution of Marshall up to Arthur Pigou (the 'last' Classical economist) of the 1920s, money, banking, and interest rates were not so critical in Economics as today. <!-- Money, interest rates, and banking were not so important during the Classical Era. --> In fact, Xenophon says that money can be banished and the economy would still work. This is supported by Adam Smith:
 
-{{< q a="smith" >}}
+{{< q a="smith" c="The Simple Wealth of Nations Book 4, Chapter 1" >}}
 Among the Mongols and shepherd nations who are ignorant of the use of money, cattle are the instruments of commerce and the measures of value. Wealth to them consisted in cattle, as to the Spaniards it consisted in gold and silver. <i>Of the two, the Mongol notion was the nearest to the truth.</i>
-<cite>The Simple Wealth of Nations Book 4, Chapter 1</cite>
 {{< /q >}}
 
 This is even supported by Ricardo, which was actually praised by Keynes:
 
-{{< q a="ric" >}}
+{{< q a="Ricardo" c="Principles of Political Economy (p.511)" >}}
 The interest of money is not regulated by the rate at which the Bank will lend, whether it be whatever percent, but by the rate of profit which can be made by the employment of capital. This is totally independent of the quantity or of the value of money.
-<cite>Principles of Political Economy (p.511)</cite>
 {{< /q >}}
 
 This is **directly opposite** the belief of Keynes who established the love of cash as being fundamental to Economics, as liquidity-preference:
 
-{{< q a="keynes" >}}
+{{< q a="Keynes" c="Simplified General Theory" >}}
 The psychological time-preferences of an individual need two sets of decisions.<br>1. The time-preference which I call the "propensity to consume" -- this determines for each individual how much of his income he will consume and save.<br>2. His liquidity preference -- How long does he intend to have his money savings and not spend it?<br>The mistake of previous theories on the rate of interest is that they neglect the liquidity preference. This neglect is what we are repairing.
-<cite>Simplified General Theory</cite>
 {{< /q >}}
 
 Keynes made people believe that money supply and banking were the solutions to the problems of poverty*, inequality, recessions, bubbles, etc. The stagflation of the 1970's and the failure of quantitative easing after 2008 are double proofs that Keynes' understanding was wrong.
@@ -118,18 +113,11 @@ Rather than bash speculation and profit maximization, Keynes overthrows Classica
 
 {{< img src="/graphics/econ/ocost.jpg" alt="Cost" cap="Japan spent a lot for its 2020 Olympics to the satisfaction of its banks and corporations, and the oppression of its people who have to pay for it with higher sales taxes" >}}
 
-<!-- Rather, the important thing was prices, which then led to the revenue as rent, wages, and profits*. 
-
-> *We add donations as the fourth revenue 
-
- -->
 
 ## Overthrowing Keynes' Definitions
 
 To solve stagnation, the correct solution is to break up capital which is amassed in paper assets such as a stock corporations, funds, and debt. The amassed capital is like pooled water that floods a certain sector, while causing a drought in the rest of the economy. 
 
-<!--  is like oil that has coalesced into a sticky blob that stops the circulation of value in society. 
- -->
 This can be done by bringing back the ideas of Classical Economics:
 
 - Removing fiat by letting the central banks agree on a gold standard. Instead of open market operations, the main tool for growing the economy will be allowing many new banks to open, with smaller capital. The money supply will be grown by numerous lending operations using smaller fractional reserves. This is the opposite of the current system where banks merge and conslidate in order to have a bigger pool of fiat cash to lend. In this Classical system, the credit worthiness of the borrower will be the main focus, instead of the interest rates.

@@ -16,39 +16,36 @@ contributors: ['Smith']
 - some of the public debt was paid off. 
 
 
-Date | Funded Debt | Unfunded Debt
---- | --- | ---
-1755 before the recent war | £72,289,673 | 
-January 5, 1763 after peace | £122,603,336 | £13,927,589
+Date | Funded Debt | Unfunded Debt | Notes
+--- | --- | --- | ---
+1755 before the recent war | £72,289,673 |  | 
+January 5, 1763 after peace | £122,603,336 | £13,927,589 | 
+January 5, 1764 | £129,586,789 | £9,975,017 | Increased by a new loan funding a part of the unfunded debt according to the author of the Considerations on the Trade and Finances
 
 The expence created by the war did not end with the peace.
 
-The author of the Considerations on the Trade and Finances of Great Britain made an account:
-
-Date | Funded Debt | Unfunded Debt | Notes
---- | --- | --- | ---
-January 5, 1764 | £129,586,789 | £9,975,017 | Increased by a new loan funding a part of the unfunded debt
-
-
-According to him, Great Britain's total public debt in 1764 was £139,516,807.
-The annuities for lives granted as premiums to the subscribers to the new loans in 1757, estimated at 14 years purchase, were valued at £472,500.
-The long-term annuities granted as premiums likewise in 1761 and 1762, estimated at 27.5 years purchase, were valued at £6,826,875.
+According to the author of the Considerations on the Trade and Finances, Great Britain's public debt in 1764 was £139,516,807.
+- The annuities for lives granted as premiums to the subscribers to the new loans in 1757, estimated at 14 years purchase, were valued at £472,500.
+- The long-term annuities granted as premiums likewise in 1761 and 1762, estimated at 27.5 years purchase, were valued at £6,826,875.
 
 During a seven-year peace, Mr.Pelham's administration was unable to pay off an old debt of £6 million.
 
 During a war of nearly seven years, a new debt of more than £75 million was contracted.
 
 
-{{< s v="46" >}} On January 5, 1775, Great Britain's funded debt was £124,996,086.
 
-Its unfunded debt, exclusive of a large civil list debt, was £4,150,263.
-- Funded and unfunded debt together was £129,146,322.
 
-According to this account, the whole debt paid off during an 11-year peace was only £10,415,474.
-- Even this small debt reduction was not all made from the savings from the ordinary state revenue.
+{{< s v="46" >}} 
 
-Several extraneous sums, all independent of that ordinary revenue, contributed towards it:
-- an additional shilling in the pound land-tax for three years,
+Date | Funded Debt | Unfunded Debt | Total | Notes
+--- | --- | --- | --- | ---
+January 5, 1775 | £124,996,086 | £4,150,263 | £129,146,322 | unfunded debt was exclusive of a large civil list debt
+
+The whole debt paid off during an 11-year peace was only £10,415,474.
+
+
+Even this small debt reduction was from extraneous sums, all independent of that ordinary state revenue
+- an additional shilling in the pound land-tax for 3 years,
 - the £2 million received from the East India Company as indemnification for their territorial acquisitions,
 - the £110,000 received from the bank for the renewal of their charter,
 - several other sums which should be considered as deductions from the recent war expences.
@@ -68,7 +65,7 @@ The principal of these sums are:
 
 Since the peace:
 - the debt paid off, by the savings from the state's ordinary revenue, was less than £500,000 a year,
-- the sinking fund was much increased by= 
+- the sinking fund was much increased by:
   - the debt which has been paid off,
   - the reduction of the redeemable 4-3%,
   - the annuities for lives which have fallen in
@@ -178,6 +175,5 @@ The pernicious system of funding encumbers, in peacetime as it encumbers in wart
 **This apology is all founded in the sophistry of the mercantile system.**
 
 It supposes that the whole public debt is because of the people*, which is not true. The Dutch and other nations have a very big share in our public funds. Even if the whole debt was due to the people, it would not be less pernicious.
-
 
 > *Superphysics note: This is caused by the tendency of the mind to simplify value into money prices 

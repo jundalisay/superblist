@@ -133,11 +133,9 @@ Within society, Adam can get the cake in 2 ways:
 2. By offering something for it in exchange
 
 
-<!-- But Adam normally cannot come up to the baker and simply ask for the cake. --> 
-
 Adam can ask for the cake as a donation by appealing to the baker's benevolence. Donations and grants were more common in the ancient times:
 
-{{< q >}}
+{{< q c="The Analects Simplified, Chapter 2" >}}
 The disciple Yen-Yu applied for some grain on behalf of his mother. 
 
 <p>Confucius: Give her 3 pecks.</p>
@@ -147,7 +145,6 @@ He applied for more.
 <p>Confucius: Give her 8, then.</p>
 
 Yen-Yu gave his mother 50 times that amount.
-<cite>The Analects Simplified, Chapter 2</cite>
 {{< /q >}}
 
 
