@@ -1,4 +1,4 @@
-baseurl = "https://superphysics.org"
+baseurl = "https://www.superphysics.org"
 # metaDataFormat = "yaml"
 title = "Superphysics"
 theme = "blist"

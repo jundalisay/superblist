@@ -19,7 +19,7 @@ Space-time depends totally on perception. Rather than say that it is infinite, i
  -->
 
 
-In Superphysics, physical existence is made when the aether arbitrarily creates **q**uanta **o**f **s**pace**t**ime or [qost](/material/principles/qost)*, which are 1-dimensional points, within itself. Each point is a discrete and unique identity filled with an arbitrary amount of qualities as potentiality. 
+In Superphysics, physical existence is made when the aether arbitrarily creates **q**uanta **o**f **s**pace**t**ime or [qost](/material/principles/part-2/chapter-02)*, which are 1-dimensional points, within itself. Each point is a discrete and unique identity filled with an arbitrary amount of qualities as potentiality. 
 
 
 > *pronounced as 'kost'. This is supposed to be the graviton which will never be found, because it can only be felt since it lies in the spatial layer which is above the visible eletromagnetic layer. Nor can it be detected directly by instruments that use electromagnetism. It can only be detected by spacetime itself (as gravitational waves or vibrations which lie in the same spatial layer) or by minds and feelings (which lie in the aethereal layer above it). 
@@ -62,7 +62,7 @@ According to Descartes, through an eternal revolution from rest to motion and mo
 Creation goes on to make the 5th, 6th, and 7th dimensions*. However, only the four dimensions are visible to our ordinary senses, since the 5th to 7th are metaphysical in essence. 
 
 
-> *The 7 dimensions match the 7 chakras in Hinduism and is essential in Ayurveda, which we classify under [Bio Superphysics](/medical). The sequence of creation is actually in reverse. From the Creator's perspective, it starts from the 7th then goes down to the 1st dimension. But from our perspective as 'createes', it's from the 1st to the 7th.  
+> *The 7 dimensions match the 7 chakras in Hinduism and is essential in Ayurveda, which we classify under [Bio Superphysics](/bio). The sequence of creation is actually in reverse. From the Creator's perspective, it starts from the 7th then goes down to the 1st dimension. But from our perspective as 'createes', it's from the 1st to the 7th.  
 
 
 Thus, spacetime is created by the mere existence or popping-in of the qosts from the aether. This gives the **illusion** of movement by one qost against the other when in fact, none of them are moving. The only real movement is their appearance into reality or actuality coming from nonreality or probability. 
@@ -125,14 +125,12 @@ The cause of spacetime therefore is the cognition of this appearance of qosts wh
 Einstein defined time as the time that it takes for light to travel between two events in spacetime. But this is circular reasoning since the speed of light also has a time component. Moreover, we defined spacetime as the effect of the qosts creating distance between each other, even before light existed. How can something non-existent define something that already exists?  
 
 
-{{< q a="einbla" >}}
+{{< q a="Einstein-sophist" c="Relativity Simplified, Section 8" >}}
 We test simultaniety by putting an observer in the middle M between A and B. He as two mirrors inclined at 90° to let him see both A and B at the same time. If he sees the two flashes of lightning at the same time, then they are simultaneous.
 <br><br>
 You object by saying that they would only be true, that time would be simultaniety, if all light travels at a constant speed. <i><b>But the speed of light would itself be measured by time, so this is reasoning in a circle -- simultaniety has absolutely nothing to do with light.</b></i>
 <br><br>
 I answer that this simultaneity of time is only used for us to make empirical decisions. 
-
-<cite>Relativity by Einstein Simplified, Section 8</cite>
 {{< /q >}}
 
 <!-- Spacetime exists before, and independent of, light and electromagnetism. So how can something like light -- something that is unnecessary to spacetime -- be required to define spacetime? -->

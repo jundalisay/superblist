@@ -1,11 +1,8 @@
-<section class="message is-success mt-6">
-  <div class="message-header">
-    Updates
+<section class="message bg-gray-100 dark:bg-gray-800 rounded-lg mt-6 p-4 shadow">
+  <div class="message-header font-bold text-lg">
+    {{ i18n "updates" }}
   </div>
   <div class="message-body">
     {{ .Inner | markdownify }}
-<!--     <ul>
-      <li></li>
-    </ul> -->
   </div>
 </section>

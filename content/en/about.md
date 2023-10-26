@@ -29,7 +29,7 @@ Socrates thus became the essential link between Western and Eastern philosophy, 
 
 ## Unifying Human Knowledge
 
-[Superphysics](/superphysics/what-is-superphysics) is thus Science unified with Philosophy, or Physics unified with Metaphysics. 
+[Superphysics](/superphysics/principles/chapter-10) is thus Science unified with Philosophy, or Physics unified with Metaphysics. 
 
 Its base or core is Asian philosophy since the Hindus, Buddhists, Taoists already explained how the Supreme Entity works as the `Cause` of everything. 
 
@@ -37,7 +37,7 @@ Its external implementation is Western science since the West already knows how 
 
 It is divided into three:
 
-_ | [Material Superphysics](/material) | [Bio Superphysics](/medical) | [Social Superphysics](/social)
+_ | [Material Superphysics](/material) | [Bio Superphysics](/bio) | [Social Superphysics](/social)
 --- | --- | --- | ---
 Goal | Discover levitation, teleportation, and gravity-based energy, such as fusion, by using gravitational signatures | Solve all diseases, even viruses and mental health issues, create Artificial Sentience for predicting health issues  | Solve social problems, even economics and politics such as financial crisis and war, create Artificial Sentience for preventing crises. Create a global constitution, national constitution template, and organic law as a unified political system
 Example Technologies | Vehicle levitation, Fusion via levitation of plasma | Five medical paradigms known to all, Sound waves for Agriculture, and Agriculture on seawater (Bio Superphysics for plants) | Free Trade system, Confirmation Elections, Constitutional Virtues 
@@ -49,7 +49,7 @@ Notes | This requires a total refutation of Einstein, to be replaced by Lorentz-
 {{< img src="/graphics/egllayers.png" alt="The 5 Elements" cap="Fundamental to Superphysics is the Classical 5 Elements which we rename as aethereal, spatial, radiant, reactive, and material. It is based on the mysterious, invisible-but-everywhere Aether (the spooky Actor from a distance) instead of being stuck with oh-so-obvious-but-limited Matter" >}}
 
 
-Materialists would say that all of this is pseudo-science. We would rather say it's Superphysics or [Dialectics](/superphysics/socratic-dialectics).
+Materialists would say that all of this is pseudo-science. We would rather say it's Superphysics or [Dialectics](/superphysics/principles/chapter-11).
 
 
 ## The Crisis Years as a Huge Opportunity

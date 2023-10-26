@@ -62,15 +62,12 @@
 
 
 .aris, .Aristotle {
-  background-color: #3a0000;
   background-image: url(/avatars/aris.png) !important;
 }
 
 .Aristoteles, .Companion {
-  background-color: azure !important;
   background-image: url(/icons/g09.png) !important;
 }
-
 
 .Arjuna {
   background-image: url(/icons/arjuna.png);
@@ -93,23 +90,19 @@
   background-image: url(/icons/conf.png);
 }
 
-.descartes {
-  background-color: darkslateblue;
+.descartes, .Descartes {
   background-image: url(/icons/descartes.png);  
 }
 
-.ein, .einstein {
-  background-color: #3a0000;
+.ein, .einstein, .Einstein {
   background-image: url(/icons/ein.png);
 }
 
 .einbla, .einblah, .Einstein-sophist {
-  background-color: #3a0000;
   background-image: url(/icons/einbla.png);
 }
 
 .hume, .Hume {
-  background-color: #000f3a;
   background-image: url(/icons/hume.png);
 }
 
@@ -124,140 +117,64 @@
 }
 
 .jev, .Jevons {
-  background-color: #3a0000;
   background-image: url(/icons/jevons.png);
 }
 
-.kant {
-  background-color: #3a0000;
-  background-image: url(/icons/kant.png);
-}
+.kant, .Kant {background-image: url(/icons/kant.png);}
 
-.kepler {
-  background-color: Navy;
-  background-image: url(/avatars/kepler.jpg);
-}
+.kepler, .Kepler {background-image: url(/avatars/kepler.jpg);}
 
-.keynes {
-  background-color: #3a0000;
-  background-image: url(/avatars/keynes.png);
-}
+.keynes, .Keynes {background-image: url(/avatars/keynes.png);}
 
-.lao {
-/*  background-color: #055;*/
-  background-color: black;
-  background-image: url(/avatars/laotzu.png);
-}
+.lao, .Lao-tzu {background-image: url(/avatars/laotzu.png);}
 
-.lor, .lorentz {
-  background-color: darkslateblue;
-  background-image: url(/icons/lor.png);
-}
+.lor, .lorentz, .Lorentz {background-image: url(/icons/lor.png);}
 
-.mac {
-  background-color: black !important;
-  background-image: url(/avatars/macapagal.jpg) !important;
-}
+.mac {background-image: url(/avatars/macapagal.jpg) !important;}
 
-.marshall {
-  background-color: #3a000e;
-  background-image: url(/avatars/marshall.png);
-}
+.marshall {background-image: url(/avatars/marshall.png);}
 
-.mont {
-  background-color: #000f3a;
-  background-image: url(/icons/mont.png);
-}
+.mont, .Montesquieu {background-image: url(/icons/mont.png);}
 
-.newton {
-  background-color: black;
-  background-image: url(/icons/newton.png);
-}
+.newton, .Newton {background-image: url(/icons/newton.png);}
 
-.quesnay {
-  background-color: #000f3a;
-  background-image: url(/avatars/quesnay.png);
-}
+.quesnay, .Quesnay {background-image: url(/avatars/quesnay.png);}
 
-.rama, .Ramakrishna {
-  background-image: url(/avatars/rama.jpg);
-}
+.rama, .Ramakrishna {background-image: url(/avatars/rama.jpg);}
 
-.Ramus {
-  background-color: darkred !important;
-  background-image: url(/icons/ramus.png) !important;
-}
+.Ramus {background-image: url(/icons/ramus.png) !important;}
 
-.ric {
-  background-color: #3a0000;
-  background-image: url(/avatars/ricardo.jpg);
-}
+.ric, .Ricardo {background-image: url(/avatars/ricardo.jpg);}
 
-.riq {
-  background-color: #000f3a;
-  background-image: url(/avatars/riq.png);
-}
+.riq, .Riquetti {background-image: url(/avatars/riq.png);}
 
-.Rizal {
-  background-color: navyblue;
-  background-image: url(/icons/rizal.png);
-}
+.Rizal {background-image: url(/icons/rizal.png);}
 
-.say {
-  background-color: darkred;
-  background-image: url(/icons/say.jpg);
-}
+.say, .Say {background-image: url(/icons/say.jpg);}
 
-.sam, .Samuelson {
-  background-image: url(/icons/sam.png);
-}
+.sam, .Samuelson {background-image: url(/icons/sam.png);}
 
-.Sarkar {
-  background-color: orangered !important;
-  color: white; 
-  background-image: url(/icons/sarkar.png) !important;
-}
+.Sarkar, .PR-Sarkar {background-image: url(/icons/sarkar.png) !important;}
 
-.schu, .EF-Schumacher {
-  background-color: darkcyan !important;
-  background-image: url(/icons/schu.png) !important;
-}
+.schu, .EF-Schumacher {background-image: url(/icons/schu.png) !important;}
 
-.smith, .Smith {
-  background-color: #055 !important;
-  background-image: url(/avatars/smith.png) !important;
-}
+.smith, .Smith {background-image: url(/avatars/smith.png) !important;}
 
-.roger {
-  background-color: #fff2cc !important;
-  background-image: url(/avatars/roger.jpg) !important;
-}
+.roger {background-image: url(/avatars/roger.jpg) !important;}
 
-.Umar {
-  background-color: #055 !important;
-  background-image: url(/icons/arab1.png) !important;
-}
+.Umar {background-image: url(/icons/arab1.png) !important;}
 
-.Sad {
-  background-color: #055 !important;
-  background-image: url(/icons/arab2.png) !important;
-}
+.Sad {background-image: url(/icons/arab2.png) !important;}
 
-.soc, .Socrates, .socrates, .Philo {
-  background-image: url(/icons/socrates.png);
-}
+.soc, .Socrates, .socrates, .Philo {background-image: url(/icons/socrates.png);}
 
-.Hegel {
-  background-image: url(/icons/hegel.png);
-}
+.Hegel {background-image: url(/icons/hegel.png);}
 
 .spmed, .Bio-Superphysics, .Medical-Superphysics {
   background-image: url(/icons/spmed50.png) !important;
 }
 
-.pantry, .tao {
-  background-image: url(/icons/pantry.png) !important;
-}
+.pantry, .tao {background-image: url(/icons/pantry.png) !important;}
 
 .sp, .Superphysics {
   background-image: url(/icons/sp.png) !important;
@@ -295,7 +212,7 @@
   background-image: url(/icons/blank.png);  
 }
 
-.kin, .Tsz-Kin, .Lin-Fang, .Simon-Peter, .M {
+.kin, .Tsz-Kin, .Lin-Fang, .Iamblichus, .Simon-Peter, .M {
   background-color: lightgray;  
   background-image: url(/icons/g01.png);  
 }
@@ -315,7 +232,6 @@
 }
 
 .cle, .Cleitophon, .Simmias, .Duke-Ngai, .Abraham {
-  background-color: #ffd3ac; 
   background-image: url(/icons/g09.png);  
 }
 
@@ -324,68 +240,43 @@
 }
 
 .Allah {
-  background-color: white;
-  color: black;
   background-image: url(/icons/yellow.png);  
 }
 
 .Tsai-Wo, .Matthew {
-  background-color: darkgray;
   background-image: url(/icons/g10.png);  
 }
 
 .Parmenides, .Ischomachus {
-  background-color: royalblue;
   background-image: url(/icons/g04.png);  
 }
 
 .pole, .Polemarchus, .Cebes, .Critias, .Judge, .Man {
-  background-color: #dec7ff;
   background-image: url(/icons/g04.png);
-/*  background-image: url(/avatars/g9.jpg);*/
 }
 
 .Tsz-Yu, .Min-Tsz-Kienm, .Moses, .thra, .Thrasymachus, .Cleanthes {
-  background-color: #dec7ff;
   background-image: url(/icons/moses.png);
-/*  background-image: url(/avatars/g9.jpg);*/
 }
 
 .g, .Glaucon, .Crito, .Critobulus, .Tsz-Chang, .Callias, .Demea {
-  background-color: #ccd6fc;
   background-image: url(/icons/g01.png);    
 }
 
 .ceph, .Cephalus, .Tsz-Kung, .Zechariah, .Hippias-the-Sage {
-  background-color: #b7ffc9;
   background-image: url(/icons/g08.png);  
 }
 
-.Tsz-Lu, .Yuen-Sz, .Chung-Kung {
-  background-color: powderblue;  
-  background-image: url(/icons/g09.png);  
-}
+.Tsz-Lu, .Yuen-Sz, .Chung-Kung {background-image: url(/icons/g09.png);}
 
-.Mary, .Wife {
-  background-color: mistyrose;  
-  background-image: url(/icons/veil.png);  
-}
+.Mary, .Wife {background-image: url(/icons/veil.png);}
 
-.tsang, .Tsang-Sin, .Szma-Niu {
-  background-color: powderblue;  
-  background-image: url(/avatars/ava4.jpg);  
-}
+.tsang, .Tsang-Sin, .Szma-Niu {background-image: url(/avatars/ava4.jpg);}
 
 
-.kung, .Kung-si, .Ki-Kang, .Tsi-Tiau-Kai {
-  background-color: bisque;  
-  background-image: url(/avatars/ava3.jpg);  
-}
+.kung, .Kung-si, .Ki-Kang, .Tsi-Tiau-Kai {background-image: url(/avatars/ava3.jpg);}
 
-.yu, .Yen-Yu, .Yen-Yuen, .Fan-Chi {
-  background-color: lightsteelblue;  
-  background-image: url(/avatars/ava1.jpg);  
-}
+.yu, .Yen-Yu, .Yen-Yuen, .Fan-Chi {background-image: url(/avatars/ava1.jpg);}
 
 .mang, .Mang-i, .Mang-Wu, .Yen-Yung {
   background-color: mistyrose;  

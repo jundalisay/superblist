@@ -157,7 +157,7 @@ dep + dep = rat dep
 
 <!-- In a future post, we will expand this into chemical compounds computation, and in linear algebra to produce general qualitative outcomes instead of exact quantitative answers.  -->
 
-A sample implementation is our use of ["male and female" charges](/material/electrons-are-positive) for particles instead of the "positive and negative" used by Benjamin Franklin. In theory, this would lead to new chemical compounds that are unthinkable in Physics, since it is more intuitive to combine different kinds of males with different kinds of females. 
+A sample implementation is our use of ["male and female" charges](/material/principles/part-3/chapter-02/) for particles instead of the "positive and negative" used by Benjamin Franklin. In theory, this would lead to new chemical compounds that are unthinkable in Physics, since it is more intuitive to combine different kinds of males with different kinds of females. 
 
 This quali-math will make the most sense when you think of a spaceship using quantum teleportation that not only will use 2D space as in a car on Earth or a 3D space like an aircraft, but a space with four or five dimensions as time-multiverses and alternative universes, where normal math breaks down.
 
@@ -171,7 +171,7 @@ To account for this mind-splitting behavior, <!--  make ratios and relativity pe
 {{< img src="/graphics/physics/math.jpg" alt="Mathematics" >}}
 
 
-We can think of the double colon as a rigid equals sign, while the single colon as a flexible ratio. This ratio represents our theory of  "universal relativity*" which is represented in reality by [gravitational relativity](/material/universal-relativity), among others.
+We can think of the double colon as a rigid equals sign, while the single colon as a flexible ratio. This ratio represents our theory of  "universal relativity*" which is represented in reality by [gravitational relativity](/material/principles/intro/chapter-04), among others.
 
 
 > *All philosophers say that everything is connected, even the sophistical pseudo-philosopher John Stuart Mill. The ratio sign signifies this connection. In this way, we can say that the universe is an unending chain of multiple layered ratios, as a matrix, where a change in one part causes a change in the whole universe as a chain-effect. The lower dimensions like ours has more rigid ratios that lead to discrete and 'hardened' identities, while higher dimensions have more flexible ratios that lead to more malleable ones.
@@ -251,7 +251,7 @@ The above decontstructed equation gives us two benefits:
 
 Quali-math is inspired by **Al-Khwarizmi** who invented algebra from his work on "Calculation by Completion and Balancing". 
 
-The practical purpose leads to algorithms, the invention of which has likewise been attributed to Al-Khwarizmi*. This is important because [automated intelligence](/superphysics/ai-is-autonomous) is one of the goals of Superphysics.
+The practical purpose leads to algorithms, the invention of which has likewise been attributed to Al-Khwarizmi*. This is important because [automated intelligence](/superphysics/solutions/isaiah) is one of the goals of Superphysics.
 
 
 {{< img cap="Automated intelligence is best used in space-time-ships, just as it is best applied currently in Tesla's self-driving cars" src="/photos/physics/phoenix.jpg" >}}

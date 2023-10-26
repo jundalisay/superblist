@@ -10,10 +10,6 @@ image: "/photos/consult.jpg"
 author: "Juan"
 tags: ["Western Medicine", "Chinese Medicine", "Ayurveda", "Naturopathy", "Homeopathy"]
 icon: "/icons/spmed.png"
-comments:
-  - image: "/avatars/huong.jpg"
-    content: "Can you suggest a good TCM or Ayurveda practitioner?"
-    commentdate: 2022-04-01
 ---
 
 

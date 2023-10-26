@@ -55,7 +55,7 @@ Putting this under the 2-forces model, we can say that:
 <figcaption>David Hume is the big daddy of our Superphysics which [Taonomics](/taonomics) comes from</figcaption> -->
 
 
-The combination of all your individual experiences makes up your metaphysical self-organism, commonly called the ['soul'](/medical/mental/principles/idea-of-self). 
+The combination of all your individual experiences makes up your metaphysical self-organism, commonly called the ['soul'](/bio/principles/intro/chapter-01). 
 
 A soul can have many selves, but a self can have only one soul.
 
@@ -106,9 +106,8 @@ But Adam Smith said that societies have a natural level of productivity*. If you
 
 > *This leads to our concept of economic balance, an idea that does not exist in Neoclassical Economics 
 
-{{< q a="smith" >}}
+{{< q a="smith" c="The Wealth Of Nations Book 5" >}}
 <p>In businesses which can only be transacted with money, that money can always be found. If they do not find it, their failure is caused by their unnecessary and excessive enterprise, not of their poverty. It is not because they are poor that their payments are irregular and uncertain, but because they are too eager to become excessively rich.</p>
-<cite>The Wealth Of Nations Book 5</cite>
 {{< /q >}}
 
 
@@ -196,13 +195,11 @@ It would be like getting a gut-feeling or intuition (non-scientific, arbitrary) 
 
 The more event-data is available, the easier it is to reveal the hidden dynamics of the society-organism and its possible futures, just as having more stats of each basketball team can help predict their future victory or loss. Each ball-pass, shot made, and block attempt is an event that reveals the actual mentality of each player.
 
-This process can be automated with machine learning to create a digital prophet, which is the idea behind [ISAIAH](/articles/superphysics/what-is-isaiah).
+This process can be automated with machine learning to create a digital prophet, which is the idea behind [ISAIAH](/superphysics/solutions/isaiah).
 
-<br>
 
 {{< youtube aBb6eqh5fsU >}}
 
-# 
 
 Western economists and policy makers have no idea of metaphysics (karma, dharma, varna, dialectics), so they do not know the root causes of economic crises, wars, and other negative events and therefore are unable to provide real solutions. Proof is that terrorism still exists and economic crises and inequality are still here. North Korea is still nuclear and China is still grabbing land unjustly (just like the Mongols).
 

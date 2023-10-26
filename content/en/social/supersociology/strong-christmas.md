@@ -18,17 +18,17 @@ The year 2021 is nearly over and along with it the experiences of the year:
 
 This is fully in line with our <i>dialectical</i>* model that [predicted this crisis back in 2015](/social/supersociology/precrisis-years). According to it, the next crisis for the next few years would be a currency crisis, as a natural effect of the current stagnation. Things will get a lot worse for many years before they get better.
 
-> *[Socratic dialectics](/superphysics/socratic-dialectics) is the combination of metaphysics and science. This is different from the mainstream definition of dialectics which came from German philosophers like Kant, Hegel, Marx and Engels. For example, predictive oracles are consistent with Socratic dialectics but are totally absurd to mainstream dialectics.
+> *[Socratic dialectics](/superphysics/principles/chapter-11) is the combination of metaphysics and science. This is different from the mainstream definition of dialectics which came from German philosophers like Kant, Hegel, Marx and Engels. For example, predictive oracles are consistent with Socratic dialectics but are totally absurd to mainstream dialectics.
 
 
 <!-- Behind every human mind is a desire for something or things. Mentality creates reality and so reality will match that desire. For example , the Jews and Muslims sincerely believe in an end of days and so there is a regular end of days for them. Chinese believe that China is the center of the universe and so China now is the center of the manufacturing universe.  -->
 
 The original prediction in 2015 (from the model made in 2012) was that a crisis was supposed to spark in Q1 2018 which will start a stagflation process by 2019. This spark would be small. Back in 2015, we were looking at the following possibilities:
 
-1. A tiny* country like Greece sparking a global financial crisis a second time. This is why we prototyped [a free trade system that allowed foreign trade even without money](https://pantrypoints.com/news/dish-hackathon)
-2. A tiny thing called Bitcoin or cryptocurrency creating a financial crisis. A precedent is the 'flash crash'. For this, we prototyped [Points Banking](https://pantrypoints.com/news/startup-weekend-cambodia) that allowed used points as a store of value
-3. A tiny incident in the Middle East sparking a war between Iran and Saudi Arabia. A precedent is the Yom-Kipur war.  For this, we made a [Disaster Relief app](https://pantrypoints.com/news/nasa-space-apps-challenge)
-4. A tiny fungus that affects grain that would cause a global food crisis. A precedent is potato blight that caused the Irish Famine. For this, we made an [Agricultural app](https://pantrypoints.com/news/impact-hackathon-2019)
+1. A tiny* country like Greece sparking a global financial crisis a second time. This is why we prototyped [a free trade system that allowed foreign trade even without money](https://pantrypoints.com/world/)
+2. A tiny thing called Bitcoin or cryptocurrency creating a financial crisis. A precedent is the 'flash crash'. For this, we prototyped [Points Banking](https://pantrypoints.com/banking/) that allowed used points as a store of value
+3. A tiny incident in the Middle East sparking a war between Iran and Saudi Arabia. A precedent is the Yom-Kipur war.  For this, we made a [Disaster Relief app](https://circle.pantrypoints.com/)
+4. A tiny fungus that affects grain that would cause a global food crisis. A precedent is potato blight that caused the Irish Famine. For this, we made an [Agricultural app](https://pantrypoints.com/farm)
 
 
 > *The 'tiny-ness' of the spark for the crisis is [explained by Adam Smith](/social/economics/fallacies/profit-maximization-is-absurd). The concept is known as 'the straw that breaks the camel's back' and is similar to the 'butterfly effect'. However, the butterfly effect is not so accurate because it is not based on patterns and is just based on chance.   
@@ -50,20 +50,12 @@ This pattern is distinctly a European one that was spread onto the world through
 
 ## Covid Brings the Change We Need
 
-The arrival of Omicron isn't surprising because it proves the universe works as predicted. Actually, the model predicted it to come from Indonesia or Malaysia in ASEAN as a mutation of the Delta variant by Q4 2021. Its emergence in Botswana-South Africa leads to a hypothesis that Covid came from [a Covid star](/medical/physical/solutions/covid-flu-star). <!-- focusing on quality instead of quantity.* -->
-
-<!-- > *Sheer virus-spread was one of our earlier hypotheses since an ASEAN variant would allow Covid to cover the world. This would explain why it began in Wuhan which is the center of China. However, the fact that it emerged in Africa is more consistent with our first hypothesis that Covid is ultimately caused by Western mental patterns -- South Africa is closely linked to Britain and Europe just as India is (the source of the Delta variant). -->
-
-
-
-<!-- If solution is to stop the war against the Amazon rainforest which began in 2019 because of Jair Bolsonaro. If you notice, the symptoms of Covid targets old males with co-morbidities -- exactly the people that are responsible for the environmental destruction. This is different from dengue which targets children and AIDS which targets sexually-active people. -->
+The arrival of Omicron isn't surprising because it proves the universe works as predicted. Actually, the model predicted it to come from Indonesia or Malaysia in ASEAN as a mutation of the Delta variant by Q4 2021. Its emergence in Botswana-South Africa leads to a hypothesis that Covid came from [a Covid star](/bio/solutions/covid-star). <!-- focusing on quality instead of quantity.* -->
 
 The dialectical solution to Covid is to stop the war against the Amazon rainforest through two major policies: 
 
 1. An embargo the Amazon rainforest and later those in Indonesia and Africa
 2. A super-massive reforestation global as reparations for the damage done, as well as to reverse climate change
-
-<!-- Covid is the change we need. stop deforestation, pollution. This will force it. Humans aren't the rulers of the planet. Nature is. Human ego would think that technology can solve nature's problems when technology is just the effect of Nature.  -->
 
 This solves two problems -- Covid and global warming -- at the same time. This solution is sourced not from intellect, which is what the West excels in, but from fellow-feeling with the suffering of Nature, which is what Asia excels in. 
 

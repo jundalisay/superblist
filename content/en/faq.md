@@ -157,7 +157,7 @@ So you want everyone to switch to alternative medicine?
 {{< /r >}}
 
 {{< l a="Bio-Superphysics" >}}
-No. Each [medical paradigm](/medical/physical/principles/5-paradigms) is a tool dealing with the five layers. You choose the medical paradigm for the right layer of the disease just as you use a hammer for nails and a screwdriver for screws.  It would be very ineffective to use a hammer to drive screws. 
+No. Each [medical paradigm](/bio/principles/part-04/chapter-03) is a tool dealing with the five layers. You choose the medical paradigm for the right layer of the disease just as you use a hammer for nails and a screwdriver for screws.  It would be very ineffective to use a hammer to drive screws. 
 
 But people often use alternative medicine for the wrong purpose and so it unfairly gets a bad reputation. 
 

@@ -1,3 +1,6 @@
+- updates: Updates
+
+
 # Content
 - id: postedOnDate
   translation: "Gepostet am {{ . }}"
@@ -25,6 +28,8 @@
   translation: "Wörter"
 
 # Date
+- id: January
+  translation: "Januar"
 - id: January
   translation: "Januar"
 - id: February

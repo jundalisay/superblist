@@ -23,7 +23,7 @@ In the previous post, we fixed relativity* by adhering to the rules** which Socr
 
 > **This adherence of logic to timeless metaphysical truths is the key aspect of the dialectical method that makes it different from the scientific method which is based on evidence supplied by the limited physical senses.
 
-> ***Actually, our solution-framework comes from Asia as levitating Buddhist monks. The problem is that humans see it as mysticism. So we had to find a known Western framework that matches it, and found it in Pythagoras. But Pythagoras is still pseudoscience to many, and so we use Socrates as a compromise. Anyone who says that Socrates is pseudoscience will have to say that governments and laws are pseudoscience. 
+> ***Our solution-framework comes from Asia as levitating Buddhist monks. The problem is that humans see it as mysticism. So we had to find a known Western framework that matches it, and found it in Pythagoras. But Pythagoras is still pseudoscience to the religion of Scientism, and so we use Socrates as a compromise. Anyone who says that Socrates is pseudoscience will have to say that governments and laws are pseudoscience. 
 
 
 We start by fitting Relativity to the 5-layer model of the Greeks. 
@@ -100,7 +100,7 @@ This `G` then has five versions*, one for each of five layers represented by l.
 
 
 
-In this way, the resulting equation E = Gl called [the Eagle](/social/economics/principles/eagle) serves as a template that holds all the equations of potential motion:
+In this way, the resulting equation E = Gl called [the Eagle](/superphysics/principles/chapter-04c) serves as a template that holds all the equations of potential motion:
 - `w = mg` is `E :: Gl` in the Material layer*
 - Radioactivity or non-radioactivity is `E :: Gl` in the Transformative layer
 - `E = mc^2` is `E :: Gl` in the Radiant layer
@@ -110,7 +110,7 @@ In this way, the resulting equation E = Gl called [the Eagle](/social/economics/
 
 
 
-> *Superphysics uses [qualimath](/superphysics/solutions/qualimath) which converts `=` into `::`
+> *Superphysics uses [qualimath](/superphysics/principles/chapter-04) which converts `=` into `::`
 
 
 <b>A gravitational signature produces attractive or repulsive motion by its affinity or difference with the signatures of other existing objects, entities, and minds within the same layer*. Lower layers are affected by higher layers, but higher layers are unaffected by the lower. Light is affected by gravity, but gravity is not affected by light.</b>
@@ -177,41 +177,33 @@ Everything is in motion because every signature interacts* obviously or non-obvi
 > *We say that all forces are contact forces facilitated by the aether. Action-at-a-distance is illusory because spacetime is illusory (Maya)
 
 
-This inquiry on the gravitational signature of everything is super laborious and is similar to Thomas Edison looking for the perfect filament for the light bulb. His search led to the saying that goes something like success is 1% inspiration and 99% perspiration. This is why, as Socrates advised, we should just keep this idea as a theory until the proper resource allocation system is developed to make the search practical. This is why we started with [fixing Economics* first](/pantrynomics). 
+This inquiry on the gravitational signature of everything is super laborious and is similar to Thomas Edison looking for the perfect filament for the light bulb. His search led to the saying that goes something like success is 1% inspiration and 99% perspiration. This is why, as Socrates advised, we should just keep this idea as a theory until the proper resource allocation system is developed to make the search practical. This is why we started with [fixing Economics* first](/social/economics). 
 
 > *Economic Superphysics works on minds which is the main 'particle' in the aethereal layer, aside from ideas and feelings. By mastering the highest layer, then the lower gravitational and electromagnetic layers will be easier to control <!-- It 
 imposes morals as fellow-feeling, and awards resources to those who have high morals and skill. Such people can then be tapped to develop the new technologies from Material Superphysics, being more confident that they will not use such technology for selfish or evil purposes.  -->
 
 
 
-{{< q a="Socrates" >}}
+{{< q a="Socrates" c="The Republic by Plato Simplified">}}
 <p>Their pursuit will be valuable for our objects if all these studies reach the point of inter-communion and connection with one another and become considered in their mutual affinities. Until then, there is no profit in pursuing them.</p>
-
-<cite>The Simple Republic</cite>
 {{< /q >}}
 
 To avoid the need to laboriously find the cause of `G` in the universe, <!--  in massive bodies and their mutual affinities with other G's --> Newton took the easy path and defined `G` (gravity) as a constant. 
 
 
-{{< q a="newton" >}}
-<p>The quantities of these centripetal forces can be called accelerative, motive, absolute.. I do not bother to know where such an absolute force come from. I just want to give them a mathematical form.</p>  
-<cite>Simplified Principia Mathematica by Newton, Definitions</cite>
+{{< q a="Newton" c="Principia Mathematica by Newton Simplified, Definitions" >}}
+<p>The quantities of these centripetal forces can be called accelerative, motive, absolute.. I do not bother to know where such an absolute force come from. I just want to give them a mathematical form.</p>
 {{< /q >}}
 
 
 Likewise, to avoid having to laboriously find the gravitational field or the dharma of the reference frame that affects everything that is moving, Einstein took the easy path and set `c` (speed of light) as a constant. 
 
-
-
-{{< q a="einbla" >}}
-<p>But we only demand that ‘simultaniety’ supply us with an empirical decision.</p>
-<cite>Einstein, Relativity, Section 8</cite>
+{{< q a="Einstein-sophist" c="Relativity, Section 8" >}}
+But we only demand that ‘simultaniety’ supply us with an empirical decision.
 {{< /q >}}
 
 
 The result is that their theories are not universal and will fall apart once new perceptions about the universe are obtained. It would be like setting minimum wage permanently at $10/hour hoping that it would magically keep up with inflation.
-<!--  It would work for some years, until it would need to be overturned as the mind upgrades its perceptions. -->
-
 
 
 ### Why General Relativity Holds
@@ -242,7 +234,7 @@ From this, we can make another important assertion that General Relativity (GR) 
 - GR only works on gravitational lensing because light is measured
 - Gravitational waves travel at the speed of light because lasers are used to measure it. This means a lot of things move faster than light, but are never visible nor measureable by anything electronic
 
-We replace Einstein's Special Relativity with the original Relativity of Lorentz-Poincare, using Poincare's definition of time as an illusion, instead of Einstein's time as simultaniety based on `c`. General Relativity is replaced by [qosts](/material/principles/qost) with gravitational signatures. 
+We replace Einstein's Special Relativity with the original Relativity of Lorentz-Poincare, using Poincare's definition of time as an illusion, instead of Einstein's time as simultaniety based on `c`. General Relativity is replaced by [qosts](/material/principles/part-2/chapter-02) with gravitational signatures. 
 
 
 ## So What's the Use of Gravitational Signatures?
@@ -327,8 +319,8 @@ Materially, this `G` can be used for:
 Gravitational signatures don't just work for movements in the five physical layers but also for movements in the metaphysical layer. This theory can help:
 
 - move public opinon or feelings towards a policy proposal or political candidate by knowing the current G of society. Is your society headed for a golden age, or is it on a decline? This is the job of [Social Superphysics](/social)
-- attract or retain the right employees or minds for your company and maximize their productivity by finding out their motivational G that might be different from the material particle called money. This is the job of [Economic Superphysics (Pantrynomics)](/social/economics)
-- know how temporally far a person is from a disease by comparing his G with that of the disease, so that he can move away from or prevent the disease. This is the job of [Bio Superphysics](/medical)
+- attract or retain the right employees or minds for your company and maximize their productivity by finding out their motivational G that might be different from the material particle called money. This is the job of [Economic Superphysics or Supereconomics](/social/economics)
+- know how temporally far a person is from a disease by comparing his G with that of the disease, so that he can move away from or prevent the disease. This is the job of [Bio Superphysics](/bio)
 - and so on..
 
 
@@ -338,13 +330,10 @@ Gravitational signatures don't just work for movements in the five physical laye
 
 
 {{< mess >}}
-June 29, 2021: changed movement energy to inherent energy and F = ma to w = mg to make it consistent with E = Gl as the rest or potential state
-
-January 15, 2022: added the active version of universal relativity</li><li>April 4, 2022: added Messier 87
-
+- June 29, 2021: changed movement energy to inherent energy and F = ma to w = mg to make it consistent with E = Gl as the rest or potential state
+- January 15, 2022: added the active version of universal relativity
+- April 4, 2022: added Messier 87
 {{< /mess >}}
-
-<!-- updates: "<ul><li></li><li></li></ul>" -->
 
 
 <!-- - Replacing constant c with variable s representing the changing speed limit of the universe

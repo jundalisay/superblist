@@ -14,7 +14,7 @@ icon: /icons/spmat.png
 
 ## The Five Layers of Superphysics
 
-In a [previous post](/material/principles/part-1/chapter-02), we explained that a universe begins as a "Big Bootup" or "Wakeup" when ideas flow from the metaphysical plane onto the physical plane. These ideas flow down onto the five layers or elements of the Greeks, Hindus, and Chinese in five phases:
+In a previous post, we explained that a universe begins as a "Big Bootup" or "Wakeup" when ideas flow from the metaphysical plane onto the physical plane. These ideas flow down onto the five layers or elements of the Greeks, Hindus, and Chinese in five phases:
 
 
 Phase | Layer | Physics Name | Sequence  
@@ -118,21 +118,13 @@ Galactic qosts emerge arbitrarily onto the aether (or out of the aether) as one-
 Pythagoras called these 1D points as monads:
 
 
-{{< q >}}
+{{< q a="Iamblichus" c="The Life of Pythagoras" >}}
 The monad was the indivisible point and the first cause. The duad was the first line or interval. The triad had more intervals and lines. The tetrad was solid.
-<cite>Iamblichus, The Life of Pythagoras</cite>
 {{< /q >}}
 
 
-<!-- new 2022 -->
 {{< youtube e7rRQEq9C60 >}}
 
-<br>
-
-<!-- (known in Physics as the Higgs field) -->
-<!-- The job or dharma of this gravitational force is to convert dynamic energy into static matter with the help of the three lower layers of radiant, transformative, and material.   -->
-
-#
 
 The spacetime layer thus converts the 1-dimensional galactic qosts into 2-dimensional, and then into 3-dimensional nodes the more qosts emerge. This continues until finally the nodes lead to 4 physically-observable dimensions* through the concept of time. This leads to the 4-dimensional 'Minkowski' spacetime of physics.
 
@@ -258,7 +250,7 @@ The practical use of qosts is to enable levitation and teleportation technologie
 ![Gravity](https://sorasystem.sirv.com/graphics/grav.jpg)
 
 
-In addition, the perpetual creation of qosts leads to their mutual repulsion which can be tapped as a source of reliable energy. The proper control of qosts* will help make [nuclear fusion controllable](/articles/material/fusion).
+In addition, the perpetual creation of qosts leads to their mutual repulsion which can be tapped as a source of reliable energy. The proper control of qosts* will help make [nuclear fusion controllable](/material/principles/part-2/chapter-02).
 
 > *The qosts are subordinate to the aethereal layer and so they can be controlled from that layer.
 
@@ -356,9 +348,9 @@ A galaxy is therefore created in the following steps:
 
 ## Mini FAQ
 
-1. What is the difference between a qost and a [gravitational signature](/solutions/material/how-to-fix-general-relativity)?
+1. What is the difference between a qost and a [gravitational signature](/material/fallacies/general-relativity)?
 
-A G is like a barcode sequence, while a qost is the ink that makes up the barcode. 
+A `G` is like a barcode sequence, while a qost is the ink that makes up the barcode. 
 
 2. Does this mean everything in the universe is a qost or a subqost?
 

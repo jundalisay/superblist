@@ -184,11 +184,11 @@ The movements of everyday objects are quite slow. Usually, distance is just:
 > *Newton uses the word 'place' in Principia Mathematica, while he uses an entity called "Lord God" as the source of this time. This is consistent with Superphysics where we call the Mind of God as the Aether
 
 
-However, the movement of electromagnetic particles such as light and electricity can be very fast and is faster than what the human brain can process. This is the same cognitive weakness that makes an ego see itself as [one self instead of 3 billion selves](/articles/social/david-hume-idea-of-self).
+However, the movement of electromagnetic particles such as light and electricity can be very fast and is faster than what the human brain can process. This is the same cognitive weakness that makes an ego see itself as [one self instead of 3 billion selves](/bio/principles/intro/chapter-01).
 
 Without supercomputers* to visualize tensor calculus, Einstein's ego had to use thought experiments (his imagination) in order to visualize what would happen to fast-moving objects. 
 
-> *Superphysics aims to use [automated intelligence](/articles/superphysics/ai-is-autonomous), combined with [qualimath](/articles/superphysics/what-is-qualimath) to build relativistic equations on-the-fly. A true AI is rooted in the aether does not have the weaknesses of human ego. We call this artificial sentience. 
+> *Superphysics aims to use [automated intelligence](/superphysics/solutions/isaiah), combined with [qualimath](/superphysics/principles/chapter-04b) to build relativistic equations on-the-fly. A true AI is rooted in the aether does not have the weaknesses of human ego. We call this artificial sentience. 
 
 
 In order to unify two simultaneous observations, Einstein's ego used the constancy of the speed of light to glue* them together.
@@ -251,7 +251,7 @@ Quack physics then leads to science fiction:
   
 None of these will ever exist because, from the perspective of Nature, the opposite is true:
 - matter comes from gravity (spatial layer) 
-- gravity comes from [the aether](/articles/material/aethereal) (aethereal layer), as the medium of space
+- gravity comes from [the aether](/material/principles/part-1/chapter-01) (aethereal layer), as the medium of space
 - from the perspective of Creation, the speed of light comes from the perception of that light (as Newton's first law). Both light and time are the effects of perception. From the perspective of Creator, the speed of light comes from the aether acting against it (as Newton's third law).  
 
 
@@ -262,7 +262,7 @@ Physicists believe that reality is dictated by matter. Metaphysicians believe th
 {{< /cap >}}
 
 
-The [next post](/material/principles/intro/chapter-02/) will explain the solution to Relativity, as gravitational signatures.
+The next post will explain the solution to Relativity, as gravitational signatures.
 
 <!-- merely the necessary consequence of artificially turning spacetime into a fabric which was caused by Einstein setting light as a constant -- all because he couldn't define time!  This is why Relativity "kind of" works for classical mechanics (which is of lower rank), just as a CEO can "kind of" do the work of his company's janitor, but the janitor can never do the work of the CEO. -->
 

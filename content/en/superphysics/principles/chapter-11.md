@@ -40,9 +40,8 @@ You cannot see your ideas and feelings. Instead, you can make them 'real' in the
 - writing, etc  
 
 
-{{< q a="Socrates" >}}
-<p>Dialectic alone goes directly to the first principle. It is the only science which does away with hypotheses in order to make her ground secure. By her gentle aid, she lifts up the eye of the soul which is literally buried in an outlandish slough. She uses as handmaids and helpers the sciences in the work of conversion. Custom calls them sciences. But they should have some other name implying greater clearness than opinion and less clearness than science. We called this "understanding".</p>
-<cite>The Simple Republic by Plato Book 7, Chapter 4</cite>
+{{< q a="Socrates" c="The Republic by Plato Simplified, Book 7, Chapter 4" >}}
+Dialectic alone goes directly to the first principle. It is the only science which does away with hypotheses in order to make her ground secure. By her gentle aid, she lifts up the eye of the soul which is literally buried in an outlandish slough. She uses as handmaids and helpers the sciences in the work of conversion. Custom calls them sciences. But they should have some other name implying greater clearness than opinion and less clearness than science. We called this "understanding".
 {{< /q >}}
 
 
@@ -50,10 +49,9 @@ You cannot see your ideas and feelings. Instead, you can make them 'real' in the
 
 Unlike spiritual theories which are often useless, Socratic Dialectics is meant to solve real world problems. This makes it more in line with science and technology than philosophy. 
 
-{{< q a="Socrates" >}}
+{{< q a="Socrates" c="The Republic by Plato Simplified, Book 7, Chapter 4" >}}
 The Pythagoreans who have enquired about harmony as are wrong as the astronomers.
 They investigate the numbers of the harmonies which are heard. But they never apply them to problems. They never reach the natural harmonies of number, or reflect why some numbers are harmonious and others not.. Their pursuit will be valuable for our objects if all these studies reach the point of inter-communion and connection with one another and become considered in their mutual affinities. Until then, there is no profit in pursuing them.
-<cite>The Simple Republic by Plato Book 7, Chapter 4</cite>
 {{< /q >}}
 
 
@@ -63,9 +61,8 @@ They investigate the numbers of the harmonies which are heard. But they never ap
 Current science is totally based on the physical perceptions of things that already exist. This makes it the opposite of metaphysics which is totally based on invisible perceptions as ideas and feelings.  
 
 
-{{< q a="smith" >}}
+{{< q a="Smith" c="Origin of Philosophy Simplified" >}}
 Archyta invented the Categories. He may be regarded as the founder of ancient Dialectics.<br><br>The opinions of Empedocles coincide with those of Aristotle. Empedocles authored the doctrine of the Four Elements. He may be regarded as the founder of [its rival] ancient Physics*.
-<cite>Simplified Origin of Philosophy, Adam Smith</cite>
 {{< /q >}}
 
 
@@ -80,7 +77,7 @@ The problem here is that **all causes are metaphysical in nature, since all caus
 - Supertyphoons are caused by the feelings of heat by the planet <!-- ideas of thermodynamics leading to the compound idea of --> as global warming
 - Covid is caused by the idea of coronaviruses which are felt as symptoms of coughing, fever, loss of taste, etc. Before science, epidemics were thought to be caused by evil spirits of unknown cause. Both science and non-science are ignorant* of the root cause of such viruses and evil spirits. 
 
-> *Superphysics places the root cause of such viruses or spirits as [coming from stars](/articles/medical/covid-flu-star), just like all matter comes from supernovae (star explosion)
+> *Superphysics places the root cause of such viruses or spirits as [coming from stars](/bio/solutions/covidstar), just like all matter comes from supernovae (star explosion)
 
 
 Math, on the other hand, is confined to physical perceptions. The best that math and science can do is to speculate on the causes of problems based on the pattern of effects. It's like a blind man groping in the dark to discover where he is or what's around him. 
@@ -91,10 +88,8 @@ For example, science knows that global warming is caused by greenhouse gas emiss
 {{< img src="/graphics/science.jpg" alt="Science versus Dialectics" cap="Science uses Math to drill down to an answer. Superphysics uses Dialectics first to think out of the box and gather all ideas about the nature of the problem and then uses math and logic, as data science, to drill down to the best answer" >}}
 
 
-
-{{< q a="Socrates" >}}
+{{< q a="Socrates" c="The Republic Book 7" >}}
 Surely the skilled mathematician is not a dialectician.
-<cite>Socrates, The Republic Book 7</cite>
 {{< /q >}}
 
 
@@ -104,7 +99,7 @@ Surely the skilled mathematician is not a dialectician.
 Dialectics is an upgrade of current science as it not only find patterns in physical perceptions and facts, but also in metaphysical perceptions as the feelings, opinions, and interpretation of the facts by other minds*.
 
 
-> *Recall that we [divided reality into the physical and metaphysical domains](/articles/superphysics/we-are-in-a-matrix). Physical things exist in the former, while metaphysical things, such as ideas and feelings, exist in the latter. Metaphysics is the cause, physics is the effect. The soul is the cause, brain activity is the effect. The chakras are the cause, the hormones are the effect.
+> *Recall that we [divided reality into the physical and metaphysical domains](/superphysics/principles/chapter-01). Physical things exist in the former, while metaphysical things, such as ideas and feelings, exist in the latter. Metaphysics is the cause, physics is the effect. The soul is the cause, brain activity is the effect. The chakras are the cause, the hormones are the effect.
 
 
 Science only deals with the interpetation of a dataset. But Dialectics deals with **all possible interpetations** of a dataset. By getting all the data, as well as all the interpretations of the data, then total knowledge is achieved. 
@@ -120,15 +115,13 @@ Socrates does this churning process as the Socratic method wherein a wise mind t
 The natural contradiction between the metaphysical and physical dimensions then manifest as the "contradictions" which Hegel emphasized. 
 
 
-{{< q a="Socrates" >}}
+{{< q a="Socrates" c="The Republic by Plato Simplified" >}}
 <p>A person will find himself at the top of the intellectual world when he tries to discover the absolute by the light of reason only [via intution], without the help of the senses, and perseveres by pure intelligence until perceives the absolute good [dharma or tao]. This is the same as the sight that has seen the visible. This progress is called dialectic.</p>
-<cite>The Simplified Republic by Plato</cite>
 {{< /q >}}
 
 
-{{< q a="parm" >}}
+{{< q a="Parmenides" c="Parmenides by Plato Simplified" >}}
 <p>Yes but I think that you should go a step further, and <i>consider not only the consequences which flow from a given hypothesis, but also the consequences which flow from denying the hypothesis.</i></p>
-<cite>The Simplified Parmenides by Plato</cite>
 {{< /q >}}
 
 
@@ -141,9 +134,8 @@ Nowadays, this manifests as peer reviews where new theories and interpretations 
 Inferior theorists, such as Kant, would likely be filtered out by such minds*. This explains why Kant attacked Dialectics: 
 
 
-{{< q a="kant" >}}
+{{< q a="kant" c="Critique of Pure Reason Simplified, Part 2, Introduction">}}
 <p>Dialectics is a logic of illusion. It is a sophistical art for giving ignorance and intentional sophistries.. it teaches us nothing regarding the content of our cognitions. It merely shows the formal conditions of their accordance with the understanding, which do not relate to and are quite indifferent in respect of objects. Any attempt to employ it as a tool to extend our knowledge must end in mere nonsense since anyone can oppose any assertion.</p>
-<cite>Part 2, Introduction, Simple Critique of Pure Reason</cite>
 {{< /q >}}
 
 
@@ -163,10 +155,6 @@ Examples of real-world evidence are:
 - Social Superphysics: the low cases of mass shootings, conflict, and revolutions in Asia, relative to the Americas and Africa
 - Material Superphysics: the prediction that fusion will not work because artificial gravity has not been discovered yet
 {{< /me >}}
-
-<!-- Socrates, Spinoza, David Hume, Adam Smith, Johanes Kepler, with those of Hinduism, Buddhism, and Taoism produces principles which  -->
-
-<!-- > *Secondary sources include the writings of Pythagoras, Confucius, Quesnay, Montesquieu, Musashi, and PR Sarkar. Pythagoras, for example, is pure metaphysics which is the basis for Socrates' more useful work. Musashi's five rings are an exposition of the five elements in Hinduism and Taoism -->
 
 
 ### The German Corruption of Dialectics 
@@ -200,13 +188,8 @@ If the scientific revolution upgraded the natural philosopher into a scientist, 
 
 This upgrade manifests as the huge amounts of data and information absorbed and processed by the dialectician from all sources anywhere in the world in all of human history which the scientist neglects or refuses. For example, scientists refuse to regard myths and metaphysical works as information. They immediately refuse ideas from Ayurveda, Feng Shui, Reiki, souls, aliens, other dimensions, etc.
 
-<!-- / Dialectics is based on 
-/ b universal principles 
-/ | which we call 
-/ i The Metaphysics of Things. 
-/ You could think of modern science as a lower class of study, limited to the five senses (particularly vision), and Superphysics as a higher class of study that adds the senses of feeling and intuition. The objects are the same, but the paradigm is expanded and new tools are added. -->
   
-Dialectics is unbiased and so it can take this mass of ideas to be churned in order to extract common patterns that can lead to more solid principles. For example, it takes the observations on the levitation of Buddhist monks and the zipping of UFOs to add new possibilities of movement and propulsion to benefit space travel. These observations are then put into the black box of dialectical principles we called The Metaphysics of Things (MoT) in order to [create new ones](/solutions/material/how-to-fix-general-relativity/). 
+Dialectics is unbiased and so it can take this mass of ideas to be churned in order to extract common patterns that can lead to more solid principles. For example, it takes the observations on the levitation of Buddhist monks and the zipping of UFOs to add new possibilities of movement and propulsion to benefit space travel. These observations are then put into the black box of dialectical principles we called The Metaphysics of Things (MoT) in order to [create new ones](/material/fallacies/general-relativity/). 
 
 This system of collecting all possible data and then churning them with MoT in order to come up with solutions is then called **Superphysics**. The trigger for the original dialectics of Socrates was the prevalence of writing and literature among the Greeks. The trigger for Superphysics is the internet and all the content loaded in it. 
 
@@ -242,13 +225,10 @@ We use the Socratic dialectical approach and the scientific approach to solve Co
 |  | 7. Know the principles of each medical paradigm and find patterns to find out which paradigm deals best with Covid 19  |
 
 
-{{< q a="Socrates" >}}
+{{< q a="Socrates" c="The Republic Simplified, Book 7, Chapter 4" >}}
 <p>the science of harmony, is a laborious study and this is why we should learn it. It will tell us whether there are any other applications of these sciences. At the same time, we must not lose sight of our own higher object.</p>
-
-<cite>The Simple Republic, Book 7, Chapter 4</cite>
 {{< /q >}}
 
-<!-- ### Tougher than Aristotlean Dialectics -->
 
 Notice how the Socratic dialectical approach is more laborious and lengthy than the scientific approach. This is evident in Socratic dialogues which are made very long by the dialectician expounding on every minor topic in order to reveal its true nature, which will in turn reveal the true nature of the bigger picture.
 
