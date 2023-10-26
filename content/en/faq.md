@@ -45,9 +45,8 @@ No. We call it a 'smart-phone'.
 Correct. We add the word 'smart.' Similarly, we add 'super' to 'physics' to set it apart. This is supported by Francis Bacon who called 'natural magic' as part of metaphysics.
 {{< /l >}}
 
-{{< q a="Bacon" >}}
+{{< q a="Bacon" c="Book 2 Part 1, The Proficience And Advancement Of Learning Simplified" >}}
 Superstitious narrations of sorceries, witchcrafts, dreams, divinations, and the like, where there is an assurance and clear evidence of the fact, SHOULD NOT be excluded altogether. This is because it is not yet known in what cases and how far effects attributed to superstition do participate of natural causes. Therefore, howsoever the practice of such things is to be condemned, yet from the speculation and consideration of them, light may be taken for the further understanding of Nature.   
-<cite>Book 2 Part 1, The Proficience And Advancement Of Learning Simplified</cite>
 {{< /q >}}
 
 {{< l a="Superphysics" >}}
@@ -142,15 +141,14 @@ By knowing the root cause of the headache. The cause could be diet, stress, cong
 
 Medical science deals with the headache by masking its pain (usually via Paracetamol) and not really dealing with what is causing the pain. This is to process patients faster since the body has its own natural healing mechanism. However, this also means that the headache can come back. Moreover, the doctor can only work with the data that the patient gives. 
 
-Bio Superphysics gets all the data about the patient to find the pattern on which **[layer](/medical/physical/principles/5-paradigms/)** the cause is in. It then routes that patient to the proper specialist whether it be from Western medicine, yoga, Chinese medicine, homeopathy, etc.  
+Bio Superphysics gets all the data about the patient to find the pattern on which **[layer](/bio/principles/part-04/chapter-03/)** the cause is in. It then routes that patient to the proper specialist whether it be from Western medicine, yoga, Chinese medicine, homeopathy, etc.  
+{{< /l >}}
 
 <!-- 
 , on the other hand, gets not only all the data from the person to find out what the cause, but also the patterns from all the data. This is more difficult and time-consuming, but is able to give more lasting solutions.
 Bio Superphysics gives the person to question himself and extract data from his habits and memory so he can find the root cause because
 
 This technique is the original Socratic Dialectics and is actually done by Chinese medicine and Homeopathy. the Socratic-dialectical method is an upgrade of the scientific method which has a limited dataset. --> 
-{{< /l >}}
-
 
 <!-- combines the patient's knowledge of himself with the knowledge of the doctor regarding headaches. This combined knowledge can then point to the proper headache solutions whether it be from -->
 
@@ -250,9 +248,9 @@ I guess you encounter a lot of opposition from humans who think that the limited
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-Yes. 
+Yes. This is now known as 'scientism' propagated by materialists.
 
-Medicine is highly regulated. Material experiments are expensive. We aim to surmount both impediments through our economic system.
+For example, medicine is highly regulated by governments. Material experiments, on the other hand, are expensive. We aim to surmount both impediments through our economic system.
 
 This is why, until 2030, most of our work is on Social Superphysics as economics and policies. The work on Bio and Material Superphysics will mostly be theoretical for now, though we've done [rudimentary experiments on levitation](/material/levitation) and preventing cancers from getting worse via alternative medicine.
 {{< /l >}}
@@ -264,21 +262,7 @@ How can we help?
 
 
 {{< l a="Superphysics" >}}
-You can help by:
-- sharing our posts
-- adding links to our posts or books on your website
-  - [https://pantrypoints.com](https://pantrypoints.com). This is the practical aspect
-  - [https://superphysics.org](https://superphysics.org). This is the theoretical aspect
-- going to [pantrypoints.com](https://pantrypoints.com) and submitting a contact form under 'Join the Change'
-- referring organizations, universities, or volunteers who might be interested. At the moment, we have volunteers in the following cities where we have tested our system:
-  - Hanoi
-  - Ho Chi Minh City
-  - Metro Manila
-  - Kuala Lumpur
-- joining our [Facebook group](https://www.facebook.com/groups/superphysicsorg/)
-- telling us about broken pages, bugs, typos, confusing articles, or factual errors
-- donating cash or in kind
-  - translating content into your language
+You can check out our help page
 {{< /l >}}
 
 <!-- By gettings Its principles. For example, Einstein based his Relativity on Parmenides explanation of how the One is Many and All is relative. We expand this by creating the theory of Universal Relativity for Material Superphysics, as well as the Four Laws of Value for Economic Superphysics (as spnomics)    -->

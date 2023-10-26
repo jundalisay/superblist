@@ -56,7 +56,7 @@ paginate = 12
         weight = 9
     [[languages.en.menu.main]]
         name = "/icons/heart.png"
-        url = "support"
+        url = "help"
         weight = 10
     [[languages.en.menu.main]]
         name = "/icons/clock.png"
@@ -202,7 +202,7 @@ paginate = 12
         weight = 9
     [[languages.ar.menu.main]]
         name = "/icons/heart.png"
-        url = "support"
+        url = "help"
         weight = 10
     [languages.ar.params]
       intro= "الفيزياء الفائقة= نموذج علمي يعتمد على الموجات"
@@ -344,7 +344,7 @@ paginate = 12
         weight = 9
     [[languages.de.menu.main]]
         name = "/icons/heart.png"
-        url = "support"
+        url = "help"
         weight = 10
     [languages.de.params]
       heading = "Eine neue Wissenschaft basierend auf Metaphysik und sokratischer Dialektik"
@@ -486,7 +486,7 @@ paginate = 12
         weight = 9
     [[languages.fr.menu.main]]
         name = "/icons/heart.png"
-        url = "support"
+        url = "help"
         weight = 10
     [languages.fr.params]
       heading = "Une Nouvelle Science Basée sur la Métaphysique et la Dialectique Socratique"
@@ -628,7 +628,7 @@ paginate = 12
         weight = 9
     [[languages.id.menu.main]]
         name = "/icons/heart.png"
-        url = "support"
+        url = "help"
         weight = 10
     [languages.id.params]
       intro = "Superfisika - Paradigma Ilmiah Berbasis Gelombang"
@@ -770,7 +770,7 @@ paginate = 12
         weight = 9
     [[languages.zh.menu.main]]
         name = "/icons/heart.png"
-        url = "support"
+        url = "help"
         weight = 10
     [languages.zh.params]
       heading = "一种基于形而上学和苏格拉底辩证法的新科学"
