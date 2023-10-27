@@ -22,9 +22,8 @@ Time | Cycle | Dominant People | Positive Aspect | Negative Aspect | Description
 4 | Oligarchy | **Traders, speculators, and businessmen** | Material progress | Inequality and environmental destruction | The injustice leads people to want justice, paving the way for democracy
 
 
-{{< q a="Socrates" >}}
+{{< q a="Socrates" c="The Republic by Plato, Book 8" >}}
 How does oligarchy change into democracy? Is it wise or not?.. Democracy grandly tramples on the fine principles which we laid down at the foundation of the city, through her forgiving spirit, and the 'don't care' about trifles. She never makes the pursuits which make a statesman.
-<cite>Socrates, Republic, Book 8</cite>
 {{< /q >}}
 
 
@@ -82,15 +81,14 @@ We use outcomes of changing events* to reveal the soul of the society, just as d
 
 These cycles then reveal the soul of the society, the most important aspects of which are its **age and phases**. Is a society metaphysically young and rising or old and stagnating? Has a country's soul been recently replaced by a new one? 
 
-{{< q a="hume" >}}
+{{< q a="hume" c="Essays by David Hume Simplified, The Populousness Of Ancient Nations">}}
 Society must therefore have its infancy, youth, manhood, and old age, similar to that each individual form which it contains. Man has these variations equally with every animal and plant.
-<cite>Essay 11: On The Populousness Of Ancient Nations, Simplified Essays by David Hume</cite>
 {{< /q >}}
 
 
 ## Universal Relativity 
 
-We plug in this model into our [equation-for-everything](/social/economics/principles/eagle) to come up with something for machine learning to work on:
+We plug in this model into our [equation-for-everything](/superphysics/principles/chapter-04c) to come up with something for machine learning to work on:
 
 ![Universal Relativity](/graphics/social/cycle.png)
 
@@ -136,10 +134,10 @@ The group agrees and after a month, the shelter is finished. “Good, now we mus
 
 Economic Superphysics, the subset of Social Superphysics, explains that the cycles are based on the 4 laws of value which mirror the 4 laws of thermodynamics:
 
-1. The Working or Shudra class comes from [the First law of Value](/social/economics/principles/first-law)
-2. The Thinking or Brahmin class comes from [the Second law of Value](/social/economics/principles/second-law)
-3. The Trading or Vaeshya class comes from the [the Third law of Value](/social/economics/principles/third-law)
-4. The Warrior or Ksattriya class comes from [the Fourth law of Value](/social/economics/principles/fourth-law)
+1. The Working or Shudra class comes from [the First law of Value](/social/economics/principles/part-1/chapter-01)
+2. The Thinking or Brahmin class comes from [the Second law of Value](/social/economics/principles/part-2/chapter-01)
+3. The Trading or Vaeshya class comes from the [the Third law of Value](/social/economics/principles/part-3/chapter-01)
+4. The Warrior or Ksattriya class comes from [the Fourth law of Value](/social/economics/principles/part-4/chapter-01)
 
 The thinking class is the closest to the metaphysical dimension while the worker class is the closest to physical dimenion. 
 
@@ -148,7 +146,7 @@ The thinking class is the closest to the metaphysical dimension while the worker
 
 Prediction!
 
-If you know things happen in a regular cycle, then you can predict what will happen. In fact, this is how we predicted [the crisis years starting in 2019](/social/precrisis-years).
+If you know things happen in a regular cycle, then you can predict what will happen. In fact, this is how we predicted [the crisis years starting in 2019](/social/supersociology/precrisis-years).
 
 We also have a [running list of predictions](/social/cycles/predictions/) to prove that cycles work and that we are inside a Matrix.
 

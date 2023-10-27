@@ -1,4 +1,5 @@
 ---
+heading: Chapter 2
 title: "Justice is Not the Interest of the Stronger"
 weight: 6
 image: "/covers/republic.jpg"

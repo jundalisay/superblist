@@ -1,6 +1,6 @@
 ---
-heading: "Section 2k"
-title: "The Inner World"
+heading: "Section 2j"
+title: "The Law of Force"
 description: The inner world is so far for consciousness a bare and simple beyond, because consciousness does not as yet find itself in it. It is empty, for it is the nothingness of appearance, and positively the naked universal.
 image: /covers/phenom.png
 author: Hegel
@@ -23,8 +23,7 @@ Certainly, there is no knowledge of this inner world.
 But this is not because our reason is too short-sighted, or limited, or whatever.
 - This is simply because in the void there is nothing known.
 - This is because its very characteristic lies in being beyond consciousness.
-<!-- , or, putting it from the point of view of the other side, -->
-<!-- of the nature of the case -- because -->
+
 
 
 ### The Supersensible as an Appearance
@@ -113,6 +112,10 @@ For they rested solely on the above distinctions. Along with both those distinct
 
 There is thus neither force nor inciting and being incited to action, nor the characteristic of being a stable medium and a unity reflected into self, there is neither a particular which is something on its own account, nor are there diverse opposites.
 
-What is found in this flux of thoroughgoing change is merely difference as universal difference, or difference into which the various opposites have been resolved. This difference as universal, consequently is what constitutes the ultimate simple element in that play of forces, and is the resultant truth of that process. It is the Law of Force. (3)
+What is found in this flux of thoroughgoing change is merely difference as universal difference, or difference into which the various opposites have been resolved. 
+
+This difference as universal, consequently is what constitutes the ultimate simple element in that play of forces, and is the resultant truth of that process. 
+
+**It is the Law of Force.**
 
 

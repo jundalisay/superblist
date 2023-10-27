@@ -9,11 +9,11 @@ contributors: ['Ibn Khaldun']
 ---
 
 
-With very few exceptions, no attention has been paid to more than the 5 main works.
+The 5 main works have been the most popular.
 
 Al-Bukhari's Sahih occupies the highest rank among them. 
 
-People have considered it difficult to comment on the Sahih and have found it rather complicated. This is because:
+People found it difficult to comment on the Sahih and have found it rather complicated. This is because:
 - it requires:
   - a knowledge of numerous recensions and personages from the Hijaz, Syria, and the 'Iraq
   - a knowledge of their conditions and of the different opinions of scholars about them. 
@@ -21,13 +21,23 @@ People have considered it difficult to comment on the Sahih and have found it ra
 
 Al-Bukhari would make a chapter heading and mention under it a tradition with a certain chain of transmitters or in a certain recension. 
 
-Then, he would make another subject heading and mention the very same tradition under it, because it (also) deals with the subject of that particular chapter. This applies to every chapter heading, so that the tradition may be repeated in separate 142 chapters according to the various different subjects it deals with. 
+Then, he would make another subject heading and mention the very same tradition under it, because it (also) deals with the subject of that chapter.
 
-A study 143 of the chapter headings should clearly indicate the relation that exists between them and the traditions the chapter contains. However, in many cases, this relation is obscure, and people have lengthily tried to explain it.
+This applies to every chapter heading, so that the tradition may be repeated in separate chapters according to the various different subjects. 
 
-This happened in connection with the chapter heading= "The House will be destroyed by an Abyssinian with two little legs." 144 It occurs in the book on "Disturbances" (fitan). Then, (al-Bukhari) quotes the Qur'an= "And when we made the House a meeting place for the people and a place of safety." 145 
+A study of the chapter headings should clearly indicate the relation that exists between them and the traditions the chapter contains.
 
-Nothing is said of the matter mentioned in the chapter heading, and the relationship between the chapter heading and the chapter has remained obscure to scholars. Some have said that the author wrote all the chapter headings down in his draft and wrote the traditions under each chapter heading later, whenever he had the opportunity. He died before he was able to fill in all the chapter headings, and his work was transmitted in this (incomplete form).
+However, in many cases, this relation is obscure. People have lengthily tried to explain it.
+
+This happened with the chapter heading in the book on "Disturbances" (fitan): "The House will be destroyed by an Abyssinian with two little legs." 
+
+Then, al-Bukhari quotes the Qur'an: "When we made the House a meeting place for the people and a place of safety." 
+
+Nothing is said of the matter mentioned in the chapter heading. 
+
+The relationship between the chapter heading and the chapter has remained obscure to scholars. Some have said that the author wrote all the chapter headings down in his draft and wrote the traditions under each chapter heading later, whenever he had the opportunity. 
+
+He died before he was able to fill in all the chapter headings, and his work was transmitted in this (incomplete form).
 
 However, as I learned from the companions of Judge Ibn Bakkar, 146 the judge of Granada who died in the battle of Tarifa in the year 741 [1340], 147 and who was well versed in the Sahih of al-Bukhari, the chapter heading (quoted) was
 intended by al-Bukhari to interpret the verse of the Qur'an in the sense that it dealt with "something established by law," and not with "something appointed by divine decree." 148 The difficulty results from interpreting "we made" in the sense of "we appointed by divine decree." 
@@ -104,11 +114,14 @@ authority to teach certain traditions (ijizah). One must study the difference in
 Then, there follows the discussion of terms applying to the texts of traditions.
 
 A text may be "unusual" (gharib), or "difficult" (ambiguous, mushkil), or "(affected by some) misspelling (or misreading)," or "(containing) homonyms" (muftariq), or "(containing) homographs" (mukhtalif), or something else of this sort.
+
 This constitutes the largest and preponderant part of the studies of hadith scholars.
 
 The conditions of the transmitters of traditions in early Muslim times, the men around Muhammad and the men of the second generation, were known to the people of their respective countries. There were transmitters in the Hijaz, in the Iraq in al-Basrah and al-Kufah, and in Syria and Egypt. 
 
-All of them were well known and famous in their day. The people of the Hijaz in these (early) times had fewer links in their chains of transmitters than others, and they were sounder (transmitters), because they insisted upon probity and accuracy as (necessary) conditions of transmission. 
+All of them were well known and famous in their day. 
+
+The people of the Hijaz in these (early) times had fewer links in their chains of transmitters than others, and they were sounder (transmitters), because they insisted upon probity and accuracy as (necessary) conditions of transmission. 
 
 They were reluctant to accept (as a reliable transmitter) anyone whose condition in these respects was not known.
 

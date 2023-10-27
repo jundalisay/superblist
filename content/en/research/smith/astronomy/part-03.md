@@ -9,23 +9,7 @@ contributors: ['Smith']
 ---
 
 
-<!-- These, the System of Concentric, and that of Eccentric Spheres, seem to have been the
-two Systems of Astronomy, that had most credit and reputation with that part of the
-ancient world, who applied themselves particularly to the study of the heavens.
-22
-however,  of the Stoical sect who came after -->
-
-
 Cleanthes and the other Stoical philosophers had a system of their own.
-
-<!-- , quite different from either. But, though
-justly renowned for their skill in dialectic, and for the security and sublimity of their
-moral doctrines, those sages seem never to have had any high reputation for their
-23
-ever counted in
-knowledge of the heavens; neither is the name of any one of them
-the catalogue of the great astronomers, and studious observers of the Stars, among the
-ancients.  -->
 
 They:
 - rejected the doctrine of the Solid Spheres
@@ -157,6 +141,13 @@ with complete tranquillity and satisfaction. -->
 
 It maintained its authority, however, without any diminution of reputation, as long as science was at all regarded in the ancient world. 
 
-After the reign of Antoninus, and, indeed, after the age of Hipparchus, who lived almost three hundred years before Antoninus, the great reputation which the earlier philosophers had acquired, so imposed upon the imaginations of mankind, that they seem to have despaired of ever equalling their renown. All human wisdom, they supposed, was comprehended in the writings of those elder sages. 
 
-To abridge, to explain, and to comment upon them, and thus show themselves, at least, capable of understanding some of their sublime mysteries, became now the only probable road to reputation. Proclus and Theon wrote commentaries upon but, to have attempted to invent a new one, would then have the System of Ptolemy; been regarded, not only as presumption, but as impiety to the memory of their so much revered predecessors.
+Hipparchus lived almost 300 years before Antoninus.
+
+After the reign of Antoninus and the age of Hipparchus, the earlier philosophers had great reputation in the imaginations of mankind.
+
+<!-- , that they seem to have despaired of ever equalling their renown. All human wisdom, they supposed, was comprehended in the writings of those elder sages.  -->
+
+To abridge, to explain, and to comment upon them, and thus show themselves, at least, capable of understanding some of their sublime mysteries, became now the only probable road to reputation. 
+
+Proclus and Theon wrote tried to invent a new system of astronomy against the System of Ptolemy. But they were regarded as impious to the memory of their so much revered predecessors.

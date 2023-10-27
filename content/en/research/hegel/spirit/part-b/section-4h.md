@@ -1,5 +1,5 @@
 ---
-heading: "Section 4d"
+heading: "Section 4h"
 title: "Stoicism"
 description: The subject of philosophy is the actual knowledge of what truly is.
 image: /covers/phenom.png
@@ -9,7 +9,6 @@ weight: 20
 
 
 {{< s v='198' >}} This freedom of self-consciousness has been called Stoicism.
-<!-- , in so far as it has appeared as a phenomenon conscious of itself in the course of the history of man's spirit.  -->
 
 Its principle is that:
 - consciousness is essentially that which thinks, is a thinking reality
@@ -30,10 +29,14 @@ Its action, in the case of the master, results in his not simply having his trut
 
 The essence of this consciousness is to be free, on the throne as well as in fetters, throughout all the dependence that attaches to its individual existence, and to maintain that stolid lifeless unconcern which persistently withdraws from the movement of existence, from effective activity as well as from passive endurance, into the simple essentiality of thought. 
 
-Stubbornness is that freedom which makes itself secure in a solid singleness, and keeps within the sphere of bondage. Stoicism, on the other hand, is the freedom which ever comes directly out of that spheres and returns back into the pure universality of thought. It is a freedom which can come on the scene as a general form of the world's spirit only in a time of universal fear and bondage, a time, too, when mental cultivation is universal, and has elevated culture to the level of thought.
+Stubbornness is that freedom which makes itself secure in a solid singleness, and keeps within the sphere of bondage. Stoicism, on the other hand, is the freedom which ever comes directly out of that spheres and returns back into the pure universality of thought. 
+
+It is a freedom which can come on the scene as a general form of the world's spirit only in a time of universal fear and bondage, a time, too, when mental cultivation is universal, and has elevated culture to the level of thought.
 
 
-{{< s v='200' >}} This self-consciousness finds its essential reality to be neither something other than itself, nor the pure abstraction of ego, but ego which has within it otherness-otherness in the sense of a thought-constituted distinction-so that this ego in its otherness is turned back directly into itself; yet this essential nature is, at the same time, only an abstract reality. The freedom of self-consciousness is indifferent towards natural existence, and has, therefore, let this latter go and remain free. 
+{{< s v='200' >}} This self-consciousness finds its essential reality to be neither something other than itself, nor the pure abstraction of ego, but ego which has within it otherness-otherness in the sense of a thought-constituted distinction-so that this ego in its otherness is turned back directly into itself.
+
+Yet this essential nature is, at the same time, only an abstract reality. The freedom of self-consciousness is indifferent towards natural existence, and has, therefore, let this latter go and remain free. 
 
 The reflection is thus duplicated. 
 
@@ -53,4 +56,6 @@ Stoicism, therefore, got embarrassed, when, as the expression went, it was asked
 To the question, what is good and true, it responded by giving again the abstract, contentless thought; the true and good are to consist in reasonableness. But this self-identity of thought is simply once more pure form, in which nothing is determinate. The general terms true and good, wisdom and virtue, with which Stoicism has to stop short, are, therefore, in a general way, doubtless elevating; but seeing that they cannot actually and in fact reach any expanse of content, they soon begin to get wearisome.
 
 
-{{< s v='201' >}}  This thinking consciousness, in the way in which it is thus constituted, as abstract freedom, is therefore only incomplete negation of otherness. Withdrawn from existence solely into itself, it has not there fully vindicated itself as the absolute negation of this existence. It holds the coent is held indeed to be only thought, but in doing so also takes thought as a specific determinate thought, and at the same time the general character of the content.
+{{< s v='201' >}}  This thinking consciousness, in the way in which it is thus constituted, as abstract freedom, is therefore only incomplete negation of otherness. Withdrawn from existence solely into itself, it has not there fully vindicated itself as the absolute negation of this existence. 
+
+It holds the coent is held indeed to be only thought, but in doing so also takes thought as a specific determinate thought, and at the same time the general character of the content.

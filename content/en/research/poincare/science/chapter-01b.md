@@ -57,7 +57,9 @@ Suppose that we have defined the operation: `x + (a − 1)`
 
 the operation x + a will be defined by the equality
 
+```
 (1) x + a = x + (a − 1) + 1
+```
 
 We shall know what `x+a` is when we know what `x+(a−1)` is. 
 
@@ -170,5 +172,4 @@ a = α + 1.
 a × b = b × a
 ```
 
-The theorem has just been proved for b = 1. We can verify analytically that if it be true for b = β it will be
-true for b = β + 1.
+The theorem has just been proved for `b = 1`. We can verify analytically that if it be true for b = β it will be true for `b = β + 1`.

@@ -66,26 +66,49 @@ The school doctrine of each authority became, among his adherents, a scholarly d
 
 A firmly rooted habit was required to enable a person to undertake such analysis and disentanglement and to apply the school doctrine of his particular authority to those (processes) according to the best of his ability. This habit is (what is meant) at this time by the science of jurisprudence.
 
-All Maghribis are adherents of Malik. His pupils were formerly spread over Egypt and the 'Iraq. In the 'Iraq, they were represented by Judge Ismail 210 and his contemporaries, such as Ibn Khuwazmandad,211 Ibn al-Muntab,212 Judge Abu Bakr al-Abhari, 213 Judge Abul-Hasan b. al-Qassar, Judge 'Abd-al-Wahhab, 215 and their successors. In Egypt, there was Ibn al-Qasim, Ashhab, Ibn 'Abd-al-Hakam, al-Harith b. Miskin, and their contemporaries. Yahya b. Yahya alLaythi 216 traveled from Spain (to the East) and met Malik and transmitted the Muwatta' on his authority. He was an important pupil of Malik. Also, 'Abd-al-Malik b. Habib 217 traveled from Spain (to the East) and studied with Ibn alasim and his contemporaries. 
+All Maghribis are adherents of Malik. His pupils were formerly spread over Egypt and the 'Iraq. 
 
-He spread the school of Malik in Spain. He wrote a systematic work on it, in the Kitab al-Wadihah. A pupil of his, al-'Utbi, 218 wrote the 'Utbiyah. Asad b. al-Furat 219 traveled from Ifrigiyah (to the East) and studied first with the followers of Abu Hanifah, but then changed over to the school of Malik.
+In Iraq, they were represented by Judge Ismail and his contemporaries, such as Ibn Khuwazmandad, Ibn al-Muntab,212 Judge Abu Bakr al-Abhari, Judge Abul-Hasan b. al-Qassar, Judge 'Abd-al-Wahhab, and their successors. 
 
-He studied with Ibn al-Qasim all the chapters of jurisprudence and wrote down what he learned. He brought his book back to al-Qayrawan. It was called al-Asadiyah, after Asad b. al-Furat. Sahnun 220 studied it with Asad (himself). He, then, traveled to the East and met Ibn al-Qasim. 
+In Egypt, there was Ibn al-Qasim, Ashhab, Ibn 'Abd-al-Hakam, al-Harith b. Miskin, and their contemporaries. Yahya b. Yahya alLaythi traveled from Spain (to the East) and met Malik and transmitted the Muwatta' on his authority.
 
-He studied with him and confronted him with the problems of the Asadiyah. He reconsidered many of them, and Sahnun wrote down his own 221 problems in a systematic work, and stated which of the problems of the Asadiyah he had reconsidered. Ibn al-Qasim and he together wrote to Asad and asked him to delete from the Asadiyah the problems that had been reconsidered (by Ibn al-Qasim and Sahnun) and to accept the book of Sahnun. Asad, however, refused to do that. As a result, people disregarded Asad's book and followed the Mudawwanah of Sahnun, despite the fact that (in the Mudawwanah) different problems were (confusingly) lumped together in the various chapters. 
+He was an important pupil of Malik. Also, 'Abd-al-Malik b. Habib traveled from Spain (to the East) and studied with Ibn alasim and his contemporaries. 
 
-Therefore, the Mudawwanah was called Mudawwanah-and-Mukhtalitah (the "mixed up, confused one"). The inhabitants of al-Qayrawan concentrated upon the Mudawwanah, whereas the Spaniards concentrated upon the Wadihah and the 'Utbiyah.Ibn Abi Zayd , 222 then, made a compendium of the Mudawwanah-and-Mukhtalitah in a book entitled al-Mukhtasar. 
+He spread the school of Malik in Spain. He wrote a systematic work on it, in the Kitab al-Wadihah. A pupil of his, al-'Utbi, wrote the 'Utbiyah. Asad b. al-Furat traveled from Ifrigiyah (to the East) and studied first with the followers of Abu Hanifah, but then changed over to the school of Malik.
 
-One of the jurists of al-Qayrawan, Abu Sa'id al-Baradhi'i, 223 also made a compendium of it in a book entitled at-
-Tahdhib. The shaykhs of Ifriqiyah used the Tahdhib as their textbook. They accepted it and disregarded all other works. 
+He studied with Ibn al-Qasim all the chapters of jurisprudence and wrote down what he learned. He brought his book back to al-Qayrawan. It was called al-Asadiyah, after Asad b. al-Furat. 
+
+Sahnun studied it with Asad (himself). He, then, traveled to the East and met Ibn al-Qasim. 
+
+He studied with him and confronted him with the problems of the Asadiyah. 
+
+He reconsidered many of them, and Sahnun wrote down his own problems in a systematic work, and stated which of the problems of the Asadiyah he had reconsidered. 
+
+Ibn al-Qasim and he together wrote to Asad and asked him to delete from the Asadiyah the problems that had been reconsidered (by Ibn al-Qasim and Sahnun) and to accept the book of Sahnun. 
+
+Asad, however, refused to do that. 
+
+As a result, people disregarded Asad's book and followed the Mudawwanah of Sahnun, despite the fact that (in the Mudawwanah) different problems were confusingly lumped together in the various chapters. 
+
+Therefore, the Mudawwanah was called Mudawwanah-and-Mukhtalitah or the "mixed up, confused one". 
+
+The inhabitants of al-Qayrawan concentrated upon the Mudawwanah, whereas the Spaniards concentrated upon the Wadihah and the 'Utbiyah.Ibn Abi Zayd, then, made a compendium of the Mudawwanah-and-Mukhtalitah in a book entitled al-Mukhtasar. 
+
+One of the jurists of al-Qayrawan, Abu Sa'id al-Baradhi'i, also made a compendium of it in a book entitled at-Tahdhib. 
+
+The shaykhs of Ifriqiyah used the Tahdhib as their textbook. They accepted it and disregarded all other works. 
 
 In the same way, the Spaniards used the 'Utbiyah as their textbook and kept away from the Wadihah and other works.
+
 Malikite scholars have never ceased writing commentaries, explanations, and synopses of these main works. 
 
-The people of Ifrigiyah wrote a good deal on the Mudawwanah. Scholars such as Ibn Yunus, 224 al-Lakhmi, 225 Ibn Muhriz, 226 at-Tunisi, 227 Ibn Bashir , 228 and others, wrote on it. The Spaniards wrote a good deal
-on the 'Utbiyah. Scholars such as Ibn Rushd 229 and others wrote on it.
+The people of Ifrigiyah wrote a good deal on the Mudawwanah. Scholars such as Ibn Yunus, al-Lakhmi, Ibn Muhriz, at-Tunisi, Ibn Bashir, and others, wrote on it. 
 
-Ibn Abi Zayd collected all the problems, contradictions, and statements from the main works in the Kitab anNawadir. He dealt with all the stated opinions of the school and listed in detail in that book the contents of all the main works. Most of it was taken over by Ibn Yunus into his book on the Mudawwanah.
+The Spaniards wrote a good deal on the 'Utbiyah. Scholars such as Ibn Rushd and others wrote on it.
+
+Ibn Abi Zayd collected all the problems, contradictions, and statements from the main works in the Kitab anNawadir. 
+
+He dealt with all the stated opinions of the school and listed in detail in that book the contents of all the main works. Most of it was taken over by Ibn Yunus into his book on the Mudawwanah.
 
 The Malikite school was very actively cultivated in Spain and northwestern Africa, until the dynasties of Cordoba and al-Qayrawan were destroyed. 
 
@@ -94,7 +117,9 @@ Later on, the Maghribis held on to the (Malikite tradition of the) two (cities).
 There are 3 different schools within the Malikite school:
 
 1. That of the Qayrawanians. Its founder was Sahnun, who studied with Ibn al-Qasim
+
 2. That of the Cordovans. Its founder was Ibn Habib, who studied with Malik, Mutarrif, 231 Ibn al-Mijishim, 232 and Asbagh.
+
 3. That of the 'Iraqis. Its founder was Judge Ismail and his companions.
 
 Eventually, there appeared the book of Abu 'Amr b. alHajib, in which he summarized the various approaches of the Malikite (authorities) to every subject and enumerated their statements on every individual problem. Thus, his work came to be a kind of synopsis of the school.
@@ -102,20 +127,29 @@ Eventually, there appeared the book of Abu 'Amr b. alHajib, in which he summariz
 The Malikite school had been in Egypt since the times of al-Harith b. Miskin, Ibn al-Muyassar, Ibn al-Lahib, Ibn Rashiq, and Ibn Shas. 245 In Alexandria, it was cultivated by the 'Awf and Sanad families, and by Ibn 'Ata'llah. 246 I do not know
 from whom Abu 'Amr b. al-Hajib 247 got his knowledge of the Malikite school, but he lived after the destruction of the 'Ubaydid(-Fatimid) dynasty and the disappearance of 'Alid jurisprudence and after the orthodox Shdf'ite and Malikite jurisprudence had reappeared (in Egypt).
 
-The Egyptian school followed that of the 'Iraqis. Judge 'Abd-al-Wahhab moved from Baghdad to Egypt at the end of the fourth [tenth] century, and the Egyptians studied with him. The Malikite school in Egypt had started with al-Harith
-b. Miskin, Ibn Muyassar, 234 Ibn al-Lahib, 235 and Ibn Rashiq. 236 It had remained under cover because of the appearance of the extremist Shi'ah and 'Alid jurisprudence. 237
+The Egyptian school followed that of the 'Iraqis. Judge 'Abd-al-Wahhab moved from Baghdad to Egypt at the end of the 10th century. The Egyptians studied with him. 
 
-The 'Iraqi school was shunned by the inhabitants of alQayrawan and Spain, because it was far away, its ways of reaching conclusions were obscure, and they knew little about the sources that (the 'Iraqis) used. Scholars are (basically) men of
-independent judgment, even when (their opinion) stands apart (and does not agreewith the general opinion), and they do not blindly believe in tradition, nor do they like to use it as (their) method. Therefore, we find that the Maghribis and Spaniards do not accept the opinion of the 'Iraqis, whenever they cannot find a tradition of the imam Malik or one of his companions to support it. 
+The Malikite school in Egypt had started with al-Harith b. Miskin, Ibn Muyassar,  Ibn al-Lahib, and Ibn Rashiq.
 
-Later on, the various schools merged with each other. In the 12th century, Abu Bakr at-Turtushi 238 traveled from Spain amd settled in Jerusalem. The Egyptians and Alexandrians studied with him and took over from him elements of the Spanish school into their own Egyptian school. 
+It had remained under cover because of the appearance of the extremist Shi'ah and 'Alid jurisprudence.
 
-One of his most important followers was the jurist Sanad, the author of the Tiraz, 239 and his companions. A number of people studied with them. They included the 'Awf family 240 and their followers. Abu 'Amr b. al-Hajib studied with them. He was followed by Shihab-ad-din alQarafi. 241 In this way, there was a continuity (of Maliki teaching) in those times.
+The 'Iraqi school was shunned by the inhabitants of alQayrawan and Spain, because it was far away, its ways of reaching conclusions were obscure, and they knew little about the sources that (the 'Iraqis) used. Scholars are (basically) men of independent judgment, even when (their opinion) stands apart (and does not agreewith the general opinion), and they do not blindly believe in tradition, nor do they like to use it as (their) method. 
+
+Therefore, the Maghribis and Spaniards do not accept the opinion of the 'Iraqis, whenever they cannot find a tradition of the imam Malik or one of his companions to support it. 
+
+Later on, the various schools merged with each other. In the 12th century, Abu Bakr at-Turtushi traveled from Spain amd settled in Jerusalem. The Egyptians and Alexandrians studied with him and took over from him elements of the Spanish school into their own Egyptian school. 
+
+One of his most important followers was the jurist Sanad, the author of the Tiraz, 239 and his companions.
+
+A number of people studied with them. They included the 'Awf family and their followers. Abu 'Amr b. al-Hajib studied with them. He was followed by Shihab-ad-din alQarafi. 241 In this way, there was a continuity (of Maliki teaching) in those times.
+
 The Shafi'ite school had also been destroyed in Egypt at the time of the 'Alid 'Ubaydid(-Fatimid) 242 dynasty. Later on, the work of the Khurasanian Shafi'ite ar-Rafi'i 243 made its appearance with the jurists who renewed the Shafi'ite school. 
 
 In Syria, one of the Shafi'ite champions, Muhyi-ad-din an-Nawawi, made his appearance.
 
-Later on, the western school of Malikites also took over elements of the 'Iraqi school through ash-Shirimsihi. 244 He was outstanding in Alexandria as representative of the Western and Egyptian school. When the 'Abbasid al-Mustansir, the father of al-Musta' im and son of az-Zahir, built his college in Baghdad, he asked the 'Ubaydid(-Fatimid) caliphs, who at that time were in Cairo, to send him ash Baghdad, (al-Mustansir) appointed him professor in the Mustansiriyah College. 
+Later on, the western school of Malikites also took over elements of the 'Iraqi school through ash-Shirimsihi. 244 He was outstanding in Alexandria as representative of the Western and Egyptian school. 
+
+When the 'Abbasid al-Mustansir, the father of al-Musta' im and son of az-Zahir, built his college in Baghdad, he asked the 'Ubaydid(-Fatimid) caliphs, who at that time were in Cairo, to send him ash Baghdad, (al-Mustansir) appointed him professor in the Mustansiriyah College. 
 
 He remained there until Hulagu took possession of Baghdad in 656 [1258]. He escaped the fury of the catastrophe and went free. He remained living there until he died in the days of Hulagu's son, Ahmad Abagha.
 

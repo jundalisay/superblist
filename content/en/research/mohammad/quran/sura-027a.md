@@ -1,7 +1,7 @@
 ---
 title: "THE ANT (an-Naml)"
 heading: "Sura 27"
-weight: 4
+weight: 131
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
@@ -40,104 +40,85 @@ favored us over many of His believing servants.”
 
 18. Until, when they came upon the Valley of Ants, an ant said, “O ants! Go into your nests, lest Solomon and his troops crush you without noticing.”
 
-19. He laughed and said, “My Lord, direct me to be thankful for the blessings you have bestowed on me and upon my parents, and to do good works that please You. And admit me, by Your grace, into the company of Your virtuous
-servants.”
+19. He laughed and said, “My Lord, direct me to be thankful for the blessings you have bestowed on me and upon my parents, and to do good works that please You. And admit me, by Your grace, into the company of Your virtuous servants.”
 
 20. Then he inspected the birds, and said, “Why do I not see the hoopoe? Or is he among the absentees?
 
 21. I will punish him most severely, or slay him, unless he gives me a valid excuse.”
-22. But he did not stay for long. He said, “I have learnt something you did not know. I
-have come to you from Sheba, with reliable information.
 
-23. I found a woman ruling over them, and she was given of everything, and she has a mag-
-nificent throne.
+22. But he did not stay for long. He said, “I have learnt something you did not know. I have come to you from Sheba, with reliable information.
 
-24. I found her and her people worshiping the sun, instead of Allah. Satan made their con-
-duct appear good to them, and diverted them from the path, so they are not guided.
-25. If only they would worship Allah, who brings to light the mysteries of the heavens
-and the earth, and knows what you conceal
-and what you reveal.
+23. I found a woman ruling over them, and she was given of everything, and she has a magnificent throne.
 
-26. Allah—There is no god but He, the Lord of the Sublime Throne.”
-27. He said, “We will see, whether you have
-spoken the truth, or whether you are a liar.
-28. Go with this letter of mine, and deliver it to
-them; then withdraw from them, and see how
-they respond.”
-29. She said, “O Counselors, a gracious letter
-was delivered to me.
-30. It is from Solomon, and it is, ‘In the Name
-of Allah, the Gracious, the Merciful.
-31. Do not defy me, and come to me submis-
-sively.’”
-32. She said, “O counselors, advise me in this
-matter of mine. I never make a decision un-
-less you are present.”
-33. They said, “We are a people of might and
-great courage, but the decision is yours, so
-consider what you wish to command.”
-34. She said, “When kings enter a city, they
-devastate it, and subjugate its dignified people. Thus they always do.
+24. I found her and her people worshiping the sun, instead of Allah. 
 
+Satan made their conduct appear good to them, and diverted them from the path.
+
+25-26. If only they would worship Allah.
+
+27. He said, “We will see, whether you have spoken the truth, or whether you are a liar.
+
+28. Go with this letter of mine, and deliver it to them; then withdraw from them, and see how they respond.”
+
+29. She said, “O Counselors, a gracious letter was delivered to me.
+
+30. It is from Solomon, and it is, ‘In the Name of Allah, the Gracious, the Merciful. 
+
+31. Do not defy me, and come to me submissively.’”
+
+32. She said, “O counselors, advise me in this matter of mine. I never make a decision unless you are present.”
+
+33. They said, “We are a people of might and great courage, but the decision is yours, so consider what you wish to command.”
+
+34. She said, “When kings enter a city, they devastate it, and subjugate its dignified people. Thus they always do.
 
 35. I am sending them a gift, and will see what the envoys bring back.”
 
-36. When he came to Solomon, he said, “Are you supplying me with money? What Allah
-has given me is better than what He has given you. It is you who delight in your gift.
-37. Go back to them. We will come upon them with troops they cannot resist; and we will ex-
-pel them from there, disgraced and humiliated.”
+36. When he came to Solomon, he said, “Are you supplying me with money? What Allah has given me is better than what He has given you. It is you who delight in your gift.
 
-38. He said, “O notables, which one of you will bring me her throne before they come to me
-in submission?”
+37. Go back to them. We will come upon them with troops they cannot resist; and we will expel them from there, disgraced and humiliated.”
 
-39. An imp of the sprites said, “I will bring it to you before you rise from your seat. I am
-strong and reliable enough to do it.”
+38. He said, “O notables, which one of you will bring me her throne before they come to me in submission?”
 
-40. He who had knowledge from the Book said, “I will bring it to you before your glance
-returns to you.” And when he saw it settled before him, he said, “This is from the grace of
-my Lord, to test me, whether I am grateful or ungrateful. He who is grateful, his gratitude
-is to his own credit; but he who is ungrateful—my Lord is Independent and Generous.”
-41. He said, “Disguise her throne for her, and we shall see whether she will be guided, or re-
-mains one of the misguided.”
+39. An imp of the sprites said, “I will bring it to you before you rise from your seat. I am strong and reliable enough to do it.”
+
+40. He who had knowledge from the Book said, “I will bring it to you before your glance returns to you.” And when he saw it settled before him, he said, “This is from the grace of my Lord, to test me, whether I am grateful or ungrateful. He who is grateful, his gratitude is to his own credit; but he who is ungrateful—my Lord is Independent and Generous.”
+
+41. He said, “Disguise her throne for her, and we shall see whether she will be guided, or remains one of the misguided.”
 
 42. When she arrived, it was said, “Is your throne like this?” She said, “As if this is it.”
+
 “We were given knowledge before her, and we were submissive.”
 
 43. But she was prevented by what she worshiped besides Allah; she belonged to a disbelieving people.
 
 44. It was said to her, “Go inside the palace.”
  
-And when she saw it, she thought it was a deep pond, and she bared her legs. He said,
-“It is a palace paved with glass.” She said, “My  Lord, I have done wrong to myself, and I have submitted with Solomon, to Allah.”
+When she saw it, she thought it was a deep pond, and she bared her legs. He said, “It is a palace paved with glass.” She said, “My  Lord, I have done wrong to myself, and I have submitted with Solomon, to Allah.”
 
-45. And We sent to Thamood their brother Saleh: “Worship Allah.” But they became two
-disputing factions.
+45. And We sent to Thamood their brother Saleh: “Worship Allah.” But they became 2 disputing factions.
 
 46. He said, “O my people, why are you quick to do evil rather than good? If only you would seek Allah’s forgiveness, so that you may be shown mercy.”
 
-47. They said, “We consider you an ill omen, and those with you.” He said, “Your omen is
-with Allah. In fact, you are a people being tested.”
+47. They said, “We consider you an ill omen, and those with you.” He said, “Your omen is with Allah. In fact, you are a people being tested.”
 
 48. In the city was a gang of nine who made mischief in the land and did no good.
 
-49. They said, “Swear by Allah to one another that we will attack him and his family by
-night, and then tell his guardian, 'We did not witness the murder of his family, and we are
-being truthful.'“
+49. They said, “Swear by Allah to one another that we will attack him and his family by night, and then tell his guardian, 'We did not witness the murder of his family, and we are being truthful.'“
 
 50. They planned a plan, and We planned a plan, but they did not notice.
 
 51. So note the outcome of their planning; We destroyed them and their people, altogether.
-52. Here are their homes, in ruins, on account of their iniquities. Surely in this is a sign for
-people who know. 
 
-53. And We saved those who believed and were pious.
+52. Here are their homes, in ruins, on account of their iniquities. Surely in this is a sign for people who know. 
 
-54. And Lot, when he said to his people, “Do you commit lewdness with open eyes?
+53. We saved those who believed and were pious.
+
+54. Lot, when he said to his people, “Do you commit lewdness with open eyes?
 
 55. Do you lust after men instead of women? You are truly ignorant people.”
 
-56. But the only response of his people was to say, “Expel the family of Lot from your town.
-They are purist people.”
+56. But the only response of his people was to say, “Expel the family of Lot from your town. They are purist people.”
 
 57-58. So We saved him and his family, except for his wife, whom We destined to be among the laggards.
 

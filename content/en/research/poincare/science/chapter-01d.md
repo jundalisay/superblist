@@ -10,8 +10,6 @@ icon: /avatars/poincare.png
 
 <!-- VI. -->
 
-<!-- The views upon which reasoning by recurrence is based may be exhibited in other forms; we may say, for instance, that -->
-
 In any finite collection of different integers, one is always smaller. 
 - This gives us the illusion of having proved that reasoning by recurrence is legitimate. 
 

@@ -1,5 +1,5 @@
 ---
-heading: ""
+heading: "Section 2n"
 title: "The Law of Pure Distinction"
 description: This second supersensible world is in this way the inverted world (verkehrte Welt), and, moreover, since one aspect is already present in the first supersensible world, the inverted form of this first.
 image: /covers/phenom.png

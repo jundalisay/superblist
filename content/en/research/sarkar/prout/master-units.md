@@ -9,6 +9,8 @@ icon: "/icons/sarkar.png"
 ---
 
 
+{{< img src="/photos/tech/rbe.jpg" alt="Master Unit" >}}
+
 Through Master Units and PROUT, we will elevate the standard of the people in a few months or a few years. We should also serve the people immediately by all-round service. 
 
 PROUT and all-round service may render temporary service – they move along the flow of life – but our spiritual philosophy is above the flow of life. Hence, with spiritual philosophy as the hub, we are to start as many Master Units as possible. 
@@ -82,4 +84,3 @@ This means that there must be a dairy farm. Water hyacinths are also good for pr
 On all our Master Units, only bio-fertilizers like compost, cow dung, neem paste, neem spray, etc. should be used. 
 
 Chemical fertilizers must be avoided. Our Master Unit program is a combination of oriental sublimity and western dynamicity.
-

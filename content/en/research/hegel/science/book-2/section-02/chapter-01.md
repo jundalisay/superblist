@@ -28,9 +28,9 @@ The thing-in-itself is nothing else but the empty abstraction from all determina
 The thing-in-itself is thus the indeterminate. All determination falls outside it into an alien reflection to which it is indifferent.
 
 
-{{< s v='1061' >}}
+{{< s v='1061' >}} For transcendental idealism this external reflection is consciousness. 
 
-For transcendental idealism this external reflection is consciousness. Since this philosophical system places every determinateness of things both as regards form and content, in consciousness, the fact that I see the leaves. of a tree not as black but as green, the sun as round and not square, and taste sugar as sweet and not bitter, that I determine the first and second strokes of a clock as successive and not as one beside the other, nor determine the first as cause and the second as effect, and so on, all this is something which, from this standpoint, falls in me, the subject.
+Since this philosophical system places every determinateness of things both as regards form and content, in consciousness, the fact that I see the leaves of a tree not as black but as green, the sun as round and not square, and taste sugar as sweet and not bitter, that I determine the first and second strokes of a clock as successive and not as one beside the other, nor determine the first as cause and the second as effect, and so on, all this is something which, from this standpoint, falls in me, the subject.
 
 
 {{< s v="1062" >}}
@@ -158,11 +158,17 @@ Immediately, therefore God is only nature. Or, nature is only the Inner God, not
 Transition to Actuality
 
 Section Three: Actuality
+
 § 1158
 
 Actuality is the unity of essence and Existence; in it, formless essence and unstable Appearance, or mere subsistence devoid of all determination and unstable manifoldness, have their truth.
 
-Existence is, indeed, the immediacy which has proceeded from ground, but form is not as yet posited in it. In determining and forming itself it is Appearance; and when this subsistence which is determined only as reflection-into-an-other is developed further into reflection-into-self, it becomes two worlds, two totalities of the content, one of which is determined as reflected into itself, the other as reflected into an other. But the essential relation exhibits their form relation, the consummation of which is the relation of inner and outer in which the content of both is only one identical substrate and equally only one identity of form. By virtue of the fact that this identity is now also identity of form, the form determination of their difference is sublated, and it is posited that they are one absolute totality.
+Existence is the immediacy which has proceeded from ground, but form is not as yet posited in it.
+
+In determining and forming itself it is Appearance; and when this subsistence which is determined only as reflection-into-an-other is developed further into reflection-into-self, it becomes two worlds, two totalities of the content, one of which is determined as reflected into itself, the other as reflected into an other. 
+
+But the essential relation exhibits their form relation, the consummation of which is the relation of inner and outer in which the content of both is only one identical substrate and equally only one identity of form. By virtue of the fact that this identity is now also identity of form, the form determination of their difference is sublated, and it is posited that they are one absolute totality.
+
 
 § 1159
 
@@ -178,10 +184,10 @@ Secondly, we have actuality proper. Actuality, possibility and necessity constit
 
 Thirdly, the unity of the absolute and its reflection is the absolute relation, or rather the absolute as relation to itself — substance.
 
-Chapter 1 The Absolute
+<!-- Chapter 1 The Absolute
 A The Exposition of the Absolute
 B The Absolute Attribute
 C The Mode of the Absolute
+
 Remark: The Philosophy of Spinoza and Leibniz
-
-
+ -->

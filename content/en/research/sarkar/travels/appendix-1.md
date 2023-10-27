@@ -3,7 +3,7 @@ heading: Appendix 1
 title: "Technical Talks by Baba"
 description: ""
 image: "/covers/mystic.jpg"
-weight: 88
+weight: 70
 ---
 
 

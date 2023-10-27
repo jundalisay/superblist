@@ -1,5 +1,5 @@
 ---
-heading: "Section 2F"
+heading: "Section 2f"
 title: "Force and the Understanding: The World of Appearance and the Supersensible World"
 description: The subject of philosophy is the actual knowledge of what truly is.
 image: /covers/phenom.png
@@ -24,9 +24,18 @@ Whereas this universal has proved to be one which has passed out of such conditi
 
 This unconditioned universal, which henceforward is the true object of consciousness, is still object of consciousness.
 
-Consciousness has not yet grasped its principle, or notion, qua notion. There is an essential distinction between the two which must be drawn. On the one hand, consciousness is aware that the object has passed from its relation to an other back into itself, and thereby become inherently and implicitly (an sich) notion; but, on the other hand, consciousness is not yet the notion explicitly or for itself, and consequently it does not know itself in that reflected object. 
+Consciousness has not yet grasped its principle, or notion, qua notion.
 
-We (who are analysing experience) found this object arise through the process of consciousness in such a way that consciousness is implicated and involved in the development of the object, and the reflection is the same on both sides, i.e. there is only one reflection. But because in this movement consciousness had as its content merely the objective entity, and not consciousness as such, the result has to be given an objective significance for consciousness; consciousness, however, still withdrawing from what has arisen, so that the latter in objective form is the essential reality to consciousness.
+There is an essential distinction between these two. 
+
+- On one hand, consciousness is aware that the object has passed from its relation to an other back into itself, and thereby become inherently and implicitly (an sich) notion
+- But, on the other hand, consciousness is not yet the notion explicitly or for itself, and consequently it does not know itself in that reflected object. 
+
+We (who are analysing experience) found this object arise through the process of consciousness in such a way that consciousness is implicated and involved in the development of the object. 
+
+The reflection is the same on both sides, i.e. there is only one reflection. 
+
+But because in this movement consciousness had as its content merely the objective entity, and not consciousness as such, the result has to be given an objective significance for consciousness; consciousness, however, still withdrawing from what has arisen, so that the latter in objective form is the essential reality to consciousness.
 
 
 ## The Inherent Truth

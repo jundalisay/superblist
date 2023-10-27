@@ -16,6 +16,10 @@
       </small>
     </div>
 
+    {{ with .Params.heading }}          
+      <small class="py-2" style="text-transform: uppercase">{{ . }}</small>
+    {{- end }}
+
 
     <h1 class="text-2xl font-bold">{{ .Title }}</h1>
 

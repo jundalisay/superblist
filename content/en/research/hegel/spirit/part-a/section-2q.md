@@ -1,5 +1,5 @@
 ---
-heading: ""
+heading: "Section 2q"
 title: "Infinity"
 description: This second supersensible world is in this way the inverted world (verkehrte Welt), and, moreover, since one aspect is already present in the first supersensible world, the inverted form of this first.
 image: /covers/phenom.png
@@ -46,9 +46,17 @@ But once more, understanding fails to do justice to infinity as such. This is be
 
 To understanding the process, as it is found in experience, is here an event that happens, and the selfsame and the unlike are predicates, whose reality is an underlying substratum. What is for understanding an object in a covering veil of sense, now comes before us in its essential form as a pure notion. 
 
-This apprehension of distinction as it truly is, the apprehension of infinitude as such, is something for us [observing the course of the process], or is implicit, immanent. The exposition of its notion belongs to science. Consciousness, however, in the way it immediately has this notion, again appears as a peculiar form or new attitude of consciousness, which does not recognize its own essential nature in what has gone before, but looks upon it as something quite different.
+This apprehension of distinction as it truly is, the apprehension of infinitude as such, is something for us [observing the course of the process], or is implicit, immanent. The exposition of its notion belongs to science. 
 
-In that this notion of infinitude is its object, it is thus a consciousness of the distinction as one which at the same time is at once cancelled. Consciousness is for itself and on its own account, it is a distinguishing of what is undistinguished, it is Self-consciousness. I distinguish myself from myself; and therein I am immediately aware that this factor distinguished from me is not distinguished. I, the selfsame being, thrust myself away from myself; but this which is distinguished, which is set up as unlike me, is immediately on its being distinguished no distinction for me. 
+Consciousness, however, in the way it immediately has this notion, again appears as a peculiar form or new attitude of consciousness, which does not recognize its own essential nature in what has gone before, but looks upon it as something quite different.
+
+In that this notion of infinitude is its object, it is thus a consciousness of the distinction as one which at the same time is at once cancelled. Consciousness is for itself and on its own account, it is a distinguishing of what is undistinguished, it is Self-consciousness. 
+
+I distinguish myself from myself.
+
+Therein I am immediately aware that this factor distinguished from me is not distinguished. 
+
+I, the selfsame being, thrust myself away from myself; but this which is distinguished, which is set up as unlike me, is immediately on its being distinguished no distinction for me. 
 
 Consciousness of an other, of an object in general, is indeed itself necessarily self-consciousness, reflectedness into self, consciousness of self in its otherness.
 
@@ -73,8 +81,6 @@ This curtain [of appearance], therefore, hanging before the inner world is withd
 
 The so-called curtain hides the inner world. Behind that curtain, there is nothing to be seen unless we ourselves go behind there.
 
-<!-- , as much in order that we may thereby see, as that there may be something behind there which can be seen. But it is clear  -->
-
 But we cannot go straightway behind there. 
 
 For this knowledge of what is the truth of the idea of the realm of appearance and of its inner being, is itself only a result arrived at after a long and devious process.
@@ -83,14 +89,3 @@ It happens in the course of which the modes of consciousness, “meaning”, “
 
 To get acquainted with what consciousness knows when it is knowing itself, requires us to fetch a still wider compass, What follows will set this forth at length.
 
-
-<!-- The Truth which Conscious Certainty of Self Realises
-
-1. Cp. Wissenschaft der Logik, Buch 2, Absch. 2, Kap. 3.
-
-2. Cp. Goethe, “Im innern der Natur”, etc.
-
-3. Cp. Helmholtz, “It is precisely in the purest form of the expression of force-viz. In mechanical force which acts on a mass-point-that we find most clearly brought out that a force is merely the objectified law of action."-Lectures and Addresses, v., Eng., trans., Vol. I., p. 326.
-
-4. The primitive procedure of individual vengeance finds its inner meaning revealed in the ethically justifiable procedure of punishment. But ethical punishment is really self-punishment (cp. Plato's Gorgias). Punishment, however, Hegel goes on to say, has an inner meaning of its own too.
--->

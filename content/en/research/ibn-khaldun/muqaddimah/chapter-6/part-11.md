@@ -10,20 +10,30 @@ contributors: ['Ibn Khaldun']
 
 
 
-There are many and varied hadith. One of them concerns abrogating and abrogated traditions. The permission to
+There are many and varied hadith. 
+
+One of them concerns abrogating and abrogated traditions. The permission to
 abrogate previous statements and the occurrence of abrogation have been established in our religious law. 
 
-It is a favor shown by God to His servants and a kind of relief granted them to help them along in matters affecting their well-being (masalih) for which He is responsible to them. God said: "Whenever We abrogate a verse or consign it to oblivion, We bring one that is better, or as good." <!-- 108 -->
+It is:
+- a favor shown by God to His servants
+- a kind of relief to help their well-being (masalih) 
 
-The <!-- 109 --> knowledge of abrogating and abrogated verses belongs both to the Qur'an and to the traditions. 
+The knowledge of abrogating and abrogated verses belongs both to the Qur'an and to the traditions. 
 
-Everything about (abrogation), as far as it concerns the Qur'an, is included in the Qur'an commentaries. Whatever is restricted to traditions falls under the sciences of tradition.
+Everything about (abrogation), as far as it concerns the Qur'an, is included in the Qur'an commentaries. 
+
+Whatever is restricted to traditions falls under the sciences of tradition.
 
 Two traditions may be mutually exclusive, and it may be difficult to reconcile them with the help of interpretation. If, in such a case, it is known that one is earlier than the other, it is definite that the later (tradition) abrogates (the earlier one).
 
 This is one of the most important and difficult of the sciences of tradition.
 
-Az-Zuhri said; "It has been a baffling and impossible task for the jurists to distinguish traditions of the Messenger of God abrogating others, from those that were abrogated by them." 
+
+{{< q a="Az-Zuhri" >}}
+It has been a baffling and impossible task for the jurists to distinguish traditions of the Messenger of God abrogating others, from those that were abrogated by them.
+{{< /q >}}
+
 
 Ash-Shafi'i was firmly grounded in this subject. 
 
@@ -85,18 +95,35 @@ The hadith experts concerned themselves with knowledge of the recensions of trad
 
 ## Muhammad b. Isma'il al-Bukhari
 
-Muhammad b. Isma'il al-Bukhari was the leading hadith scholar of his time. In his Musnad as-Sahih, he widened the area of tradition and published the orthodox traditions arranged according to subject. He combined all the different ways of the Hijazis, 'Iraqis, and Syrians, accepting the material upon which they all agreed, but excluding the material concerning which there were differences of opinion. 
+Muhammad b. Isma'il al-Bukhari was the leading hadith scholar of his time. 
 
-He repeated a (given) tradition in every chapter upon which the contents of that particular tradition had some bearing. Therefore, his traditions were repeated in several chapters, because a (single) tradition may deal with different subjects, as we have indicated. His work thus comprised 7,200 traditions, 129 of which 3,000 are repeated. 
+In his Musnad as-Sahih, he widened the area of tradition and published the orthodox traditions arranged according to subject. 
+
+He combined all the different ways of the Hijazis, 'Iraqis, and Syrians, accepting the material upon which they all agreed, but excluding the material concerning which there were differences of opinion. 
+
+He repeated a given tradition in every chapter upon which the contents of that particular tradition had some bearing. 
+
+Therefore, his traditions were repeated in several chapters, because a (single) tradition may deal with different subjects, as we have indicated. 
+
+His work thus comprised 7,200 traditions, 129 of which 3,000 are repeated. 
 
 In each chapter, he kept separate the recensions with the different chains of transmitters belonging to them.
-Then came the imam Muslim b. al-Hajjaj al-Qushayri. He composed his Musnad as-Sahih, in which he followed al-Bukhari, in that he transmitted the material that was generally agreed upon, but he omitted the repetitions and did not keep the recensions and chains of transmitters separate. 
+
+Then came the imam Muslim b. al-Hajjaj al-Qushayri. 
+
+He composed his Musnad as-Sahih, in which he followed al-Bukhari, in that he transmitted the material that was generally agreed upon, but he omitted the repetitions and did not keep the recensions and chains of transmitters separate. 
 
 He arranged his work according to juridical categories and the chapter headings of jurisprudence.
 
-Scholars have corrected the two (authors), noting the cases of the sound traditions not (included in their works). 130 They have mentioned the cases where (they) neglected (to include traditions which, according to) the conditions governing the inclusion of traditions in their works, (should have been included).
+Scholars have corrected the 2 authors, noting the cases of the sound traditions not included in their works.
 
-Abu Dawud as-Sijistani, Abu 'Isa at-Tirmidhi, and Abu Abd-ar-Rahman an-Nasa'i 131 wrote sunan works which included more than merely "sound" traditions. Their intention was to include all traditions that amply fulfilled the conditions making them actionable traditions. They were either traditions with few links in the chain of transmitters, which makes them sound (traditions), as is (generally) acknowledged, or they were lesser traditions, such as "good" traditions and others. 
+They have mentioned the cases where (they) neglected (to include traditions which, according to) the conditions governing the inclusion of traditions in their works, (should have been included).
+
+Abu Dawud as-Sijistani, Abu 'Isa at-Tirmidhi, and Abu Abd-ar-Rahman an-Nasa'i  wrote sunan works which included more than merely "sound" traditions. 
+
+The wanted to include all traditions that amply fulfilled the conditions making them actionable traditions. 
+
+They were either traditions with few links in the chain of transmitters, which makes them sound (traditions), as is (generally) acknowledged, or they were lesser traditions, such as "good" traditions and others. 
 
 It was to serve as a guide to orthodox practice. 
 
@@ -104,10 +131,20 @@ These are the collections of traditions that are used as reference works in Isla
 
 According to Ibn as-Salah, their intention was to collect the material transmitted on the authority of the men around Muhammad that cannot be used as argument.
 
-However, it has been transmitted on the authority of the imam Ahmad, that he used to say to his son 'Abdallah concerning his own Musnad, which includes 31,000 traditionsand the same statement by Ahmad is also transmitted (in the same words) on the authority of a number of his companions, who said that he had instructed them in his Musnad-= "This work is a selection from among 750,000 traditions. 
+However, it has been transmitted on the authority of the imam Ahmad.
 
-The Prophetic traditions concerning which the Muslims hold divergent opinions (of their genuineness), and which you do not find in it, cannot be used as arguments." This shows that all the material in his Musnad can properly be used as argument.
+<!-- , that he used to say to his son 'Abdallah concerning his own Musnad, which includes 31,000 traditionsand the same statement by Ahmad is also transmitted (in the same words) on the authority of a number of his companions, who said that he had instructed them in his Musnad-= "This work is a selection from among 750,000 traditions.  -->
 
-This is the opposite of what has been said by Ibn as-Salah. I have quoted (Ahmad's) statement from the Manaqib al-Imam Ahmad by Ibn al-Jawzi. 138 At this time, traditions are no longer published, nor are the (publications of) traditions by former scholars corrected. Common (experience) attests the fact that these numerous religious leaders, close to each other in time, were too capable and too firmly possessed of independent judgment to have neglected or omitted any tradition, so that it is impossible that some later scholar might discover one. 
+The Prophetic traditions concerning which the Muslims hold divergent opinions (of their genuineness), and which you do not find in it, cannot be used as arguments." 
 
-Therefore, at this time, one is concerned with correcting the principal written works, with fixing the accuracy of their transmission, and 141 with establishing continuous chains of transmitters leading back to the authors, chains that are sound throughout. 
+This shows that all the material in his Musnad can properly be used as argument.
+
+This is the opposite of what has been said by Ibn as-Salah. 
+
+I have quoted (Ahmad's) statement from the Manaqib al-Imam Ahmad by Ibn al-Jawzi.
+
+At this time, traditions are no longer published, nor are the (publications of) traditions by former scholars corrected. 
+
+Experience attests the fact that these numerous religious leaders, close to each other in time, were too capable and too firmly possessed of independent judgment to have neglected or omitted any tradition, so that it is impossible that some later scholar might discover one. 
+
+Therefore, at this time, one is concerned with correcting the principal written works, with fixing the accuracy of their transmission, and with establishing continuous chains of transmitters leading back to the authors, chains that are sound throughout. 

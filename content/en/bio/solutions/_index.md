@@ -1,10 +1,9 @@
 ---
 title: "Solutions (Unified Health Paradigm)"
 image: "/covers/solutions.png"
-# image: "/photos/med/alzh.jpg"
-description: "Coming Soon!"
-heading: "Coming Soon!"
+description: "We propose a Unified Health Paradigm"
 type: "featured"
 linkTitle: "Solutions"
+weight: 2
 date: 2020-10-31
 ---

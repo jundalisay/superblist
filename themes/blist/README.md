@@ -1,120 +1,33 @@
-# Blist theme for Hugo
-
-![Latest Release](https://img.shields.io/github/tag/apvarun/blist-hugo-theme.svg)
-![Blist hugo theme](https://img.shields.io/github/license/apvarun/blist-hugo-theme)
-![Hugo generator](https://img.shields.io/badge/generator-hugo-brightgreen)
-
-Blist is a clean and fast blog theme for your Hugo site.
-
-![Blist Icon](https://github.com/apvarun/blist-hugo-theme/raw/main/images/blist-logo.png)
-
-**Features:**
-
-- Responsive content / Mobile-optimized
-- Blog pagination
-- Customizable Text Search
-- Table of contents
-- Social links
-- Code highlighting
-- Color customization
-- Dark mode
-- Fast performance
-- SEO optimized
-- i18n support
-- Support comments systems
-  - Disqus (hugo native)
-  - giscus
-  - utterances
-
-## Preview
-
-![Preview](https://github.com/apvarun/blist-hugo-theme/raw/main/images/screenshot.png)
-
-➡️ [DEMO](https://blist.vercel.app/)
-
-## Get the theme
-
-Minimum Hugo Version: **0.82.1**
-
-Run from the root of your Hugo site:
-
-```sh
-git clone https://github.com/apvarun/blist-hugo-theme.git themes/blist
-```
-
-Alternatively, you can include this repository as a [git submodule](https://git-scm.com/docs/gitsubmodules). This makes it easier to update this theme if you have your Hugo site in git as well:
-
-```sh
-git submodule add https://github.com/apvarun/blist-hugo-theme.git themes/blist
-```
-
-## Preview the theme with example content
-
-Blist theme ships with an fully configured example site. For a quick preview:
-
-Copy the `package.json` file from `themes/blist` folder to your hugo website root folder, and run `npm install`.
-
-```sh
-cd themes/blist/exampleSite/
-hugo serve --themesDir ../..
-```
-
-Then visit `http://localhost:1313/` in your browser to view the example site.
-
-## Configuring theme to a hugo website
-
-1. Copy `package.json` and `package-lock.json` to the root folder of your the website
-2. Run `npm install` to install required packages for theme
-3. Run `npm i -g postcss-cli` to use PostCSS with Hugo build
-4. Set `theme = 'blist'` in config.toml
-5. Run `npm start` to start your local server
-
-Make sure to commit the above changes to your repository.
-
-## Publish your website
-
-When deploying to services like Netlify or Vercel, use the following command for building your site:
-
-```sh
-npm i && HUGO_ENVIRONMENT=production hugo --gc
-```
-The parameter `HUGO_ENVIRONMENT=production` enables the execution of css purging.
-
-## Add content
-
-The following explains how to add content to your Hugo site. You can find sample content in the `exampleSite/` folder.
-
-### Structure:
-
-    .
-    ├── ...
-    ├── blog       # Blog Section
-    │   ├── post1   # Post 1
-    │   ├── post2   # Post 2
-    │   └── _index
-    └── ...
-
-## Configure your site
-
-From `exampleSite/`, copy `config.toml` to the root folder of your Hugo site and change the fields as you like. Helpful comments are provided.
-
-### Menu
-
-Menu in Blist theme is pre-set to have all section names. You can include custom links in header using the `menu.main` option config.toml.
-
-### Logo
-
-`logo` param in the site config will allow to use an image as the logo instead of the website name. It is localizable and so can have different logo for different languages
-
-### Darkmode
-
-`[params.darkModeToggle]` enables the dark mode toggle in header. The preference is then saved so that the mode is automatically chosen for return visits.
-
-### Customize Ascent Color
-
-Use `[params.ascentColor]` to change the default `pink` color to any supported color from the [list of default colors](https://tailwindcss.com/docs/customizing-colors) from Tailwind CSS.
-
-Some example values: bg-blue-200, bg-yellow-300
+Transalte to Nihongo:
+Superphysics: Wave-based Scientific Paradigm. A New Science Based on Metaphysics and Socratic Dialectics
+All Knowledge Can Be Grouped Into Three: 
+Metaphysics 0-50% Replicable: Paradoxical
+Superphysics 51-99% Replicable: Subjective
+Physics 100% Replicable: Objective
+THE NATURE OF THE SOUL
+Everything is a wave that manifests as a particle. The analog universe streams in real-definition to create reality
+We're in a Matrix! See how we can exist well in it
+Everything is an Idea.. Inside the Mind or Matrix
+A New Math for a New Science.. Has relativity baked in
+Socratic Dialectics for Solving Problems. Do you have a problem? The solution already exists!
+THE SOUL OF THE PHYSICAL UNIVERSE
+Material Superphysics. Based on Descartes and the five layers of the ancient Greek, Hindus, and Chinese
+The Five Layers of Superphysics. The Material, Radioactive, Radiant, Spatial, and Aethereal
+The Alternative to General Relativity. The Metaphysics of Spacetime
+Aethereal Propulsion. We bring back the theory of gravity from Kepler and Descartes
+Electrons are Positive, Protons are Negative. We use male-female to avoid confusion
+THE SOUL OF LIVING ENTITIES
+Bio Superphysics. Based on the dynamics of the sentient energy
+Cancers and Diseases Have Been Cured by Non-Western Medicine. Read the wave-based alternatives to particle-based Western Medicine
+You Have 3 Billion Selves. 'You' are made up of a changing wave of 'yous'
+Adam Smith the Vegetarian. He preferred vegetables, specifically potatoes, over meat
+How to Stop Covid. Read how NATO could have stopped Covid back in 2020
+THE SOUL OF SOCIETY
+Social Superphysics. Fellow-Feeling Instead of Selfish-Interest
+The Ego is the Cause of Problems in Society. Read how supersociology can fix it
+The Metaphysics of Value and the Four Laws of Value. Supereconomics deals with resource allocation and socio-economic issues
+The Socratic Law of Social Cycles. How can we use it to predict events like presidential elections and recessions?
+Social Cycles Predictions. Read our model's predictions for various countries
 
 ### Search
 

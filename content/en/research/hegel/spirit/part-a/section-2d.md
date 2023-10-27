@@ -1,6 +1,6 @@
 ---
-heading: "Section 2b"
-title: The Nature of Identity
+heading: "Section 2d"
+title: Being One and the Other
 # title: "The Contradictoriness of the Perception of 'Things'"
 description: I am aware of the 'thing' as a one and have to keep it fixed in this true character as 'one'
 image: /covers/phenom.png
@@ -11,19 +11,24 @@ weight: 20
 
 
 
-{{< s v='123' >}}  Consciousness, then, gets away also from this second form of perceptual procedure, that, namely, which takes the thing as the true selfsame, and itself as the reverse, as the factor that leaves sameness behind and goes back into self.
+{{< s v='123' >}}  This second form of perceptual procedure takes:
+- the thing as the true selfsame, and
+- itself as the reverse, as the factor that leaves sameness behind and goes back into self.
 
-Its object is now the entire process which was previously shared between the object and consciousness.
+Consciousness, then, gets away also from this procedure. 
+- Its object is now the entire process which was previously shared between the object and consciousness.
 
-The thing is a “one”, reflected into self. It is for itself. But it is also for an other. It is an other for itself as it is for another. 
+The thing is a “one”, reflected into self.
+- It is for itself, but it is also for an other. 
+- It is an other for itself as it is for another. 
 
-The thing is, hence, for itself and also for another, a being that has difference of a twofold kind. 
-
-But it is also “one”. 
+The thing is, hence, a being that has difference of a twofold kind. 
+- But it is also “one”. 
 
 Its being “one”, however, contradicts the diversity it has. 
 
-Consciousness would, consequently, have again to make itself answerable for putting the diversity into the “one”. It would have to keep this apart from the thing. 
+Consciousness would, consequently, have again to make itself answerable for putting the diversity into the “one”. 
+- It would have to keep this apart from the thing. 
 
 It would thus be compelled to say that the thing “in-so-far as” it is for itself is not for another. 
 
@@ -76,5 +81,6 @@ But this is a distinction that only exists in words; the nonessential, which has
 
 {{< s v='128' >}}  With this the last qualifying “in-so-far”, which separated self-existence and existence for another, drops away altogether. The object is really in one and the same respect the opposite of itself-for itself “so far as” it is for another, and for another “so far as” it is for itself.
 
-It is for itself, reflected into self, one; but all this is asserted along with its opposite, with its being for another, and for that reason is asserted merely to be superseded. In other words, this existence for itself is as much unessential as that which alone was meant to be unessential, viz. the relation to another.
+It is for itself, reflected into self, one; but all this is asserted along with its opposite, with its being for another, and for that reason is asserted merely to be superseded.
 
+In other words, this existence for itself is as much unessential as that which alone was meant to be unessential, viz. the relation to another.

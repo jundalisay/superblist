@@ -1,5 +1,5 @@
 ---
-heading: "Section 4c"
+heading: "Section 4g"
 title: "The Freedom of Self-Consciousness"
 description: The subject of philosophy is the actual knowledge of what truly is.
 image: /covers/phenom.png

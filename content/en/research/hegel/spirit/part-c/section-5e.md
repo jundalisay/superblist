@@ -1,5 +1,5 @@
 ---
-heading: "Section 5b3"
+heading: "Section 5e"
 title: "Observation of Organic Nature"
 description: The subject of philosophy is the actual knowledge of what truly is.
 image: /covers/phenom.png

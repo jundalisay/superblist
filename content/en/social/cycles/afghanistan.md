@@ -28,9 +28,8 @@ After the Taliban gained ground, the most absurd thing happened -- the Afghan go
 
 In the end, it became obvious that that government was really just a fake institution made of elite Afghans who wanted to reap private gains from American money. This fakeness and non-governance is common in democratically-elected officials who will fool or bribe the people just to get votes. This was already known since the time of the ancient Greeks:
 
-{{< q a="Socrates" >}}
+{{< q a="Socrates" c="The Republic by Plato Simplified, Chapter 8" >}}
 In the Democratic State, you do not need to govern if you don't want to. No law forbids you to hold office. You do not need to go war if others do not want to go to war. Isn't this supremely delightful?
-<cite>The Simple Republic by Plato, Chapter 8</cite>
 {{< /q >}}
 
 
@@ -38,9 +37,7 @@ The Taliban, on the other hand, was not democratic and therefore was not as fake
 
 Though Biden bears some of the blame for such a rapid withdrawal, the entire US policy is more to blame. The Americans complained that the Afghan government was corrupt and that the generals didn't really fund the army with the money given. But they fail to see that the corruption was caused by the Americans themselves in giving lots of money to Afghan leaders who are merely popular but not moral. Morality itself takes time to build, just as you cannot teach morals to a child overnight and expect him to have it for life. 
 
-<!-- They correctly blame the Afghan government for not having a soul, but fail to see that it was the American ignorance of how souls arise that led to their flawed 20-year policy to begin with.  -->
-
-The American ignorance on how to build morals<!--  souls, and the metaphysics that leads to it, --> is easily seen in the belated attempts at nation-building <!-- and troop surge --> by the American military. More importantly, it is seen in their policy of starting up a democratically-elected government at a time when the soul and moral glue of Afghan society had been obliterated by the Soviet war*. 
+The American ignorance on how to build morals is easily seen in the belated attempts at nation-building <!-- and troop surge --> by the American military. More importantly, it is seen in their policy of starting up a democratically-elected government at a time when the soul and moral glue of Afghan society had been obliterated by the Soviet war*. 
 
 > *Our [Supersociology](/social/supersociology) defines a society as a [collection of minds](/social/supersociology/principles/part-1/chapter-01) that are unified or glued together by the morals of common interest. Afghan society therefore is a union of the different tribal society-minds which are made up of individual personal minds. This union is dissociated by internal discord from heightened ego as selfish-interest, or by external pressures, such as war. The Soviet war dissociated the soul of Afghan society, splitting it back to its components: the Pashtun society-soul, Tajik society-soul, Hazara society-soul, Uzbek society-soul, etc. with weak morals. An example of a multi-tribe society that has successfully been glued is Jordan. 
 
@@ -54,15 +51,13 @@ We will apply dialectical analysis according to Supersociology in order to list 
 
 During the Prophet Mohammad's time, many civilizations, specifically the Middle Eastern, Roman, and Persian societies, were pummeled by war. This caused them to become dissociated, unstable, and more corrupt and barbarous. The solution of the Prophet was to reunify them under Islam through the concept of Allah which represents the highest morals and ideals:
 
-{{< q >}}
+{{< q a="Mohammad" c="The Romans 30:42-43, Quran">}}
 Travel..and see what happened of those before you. Most of them were idolaters. So set to the right religion before the Day of Judgment comes.  
-<cite>The Romans 30:42-43, Quran</cite>
-
-
-Allah sends the winds as glad tidings..that you may seek of His Bounty... Allah is He who sends the winds to raise the clouds, spread along the sky, break them into raindrops.
-<cite>The Romans 46, 48, Quran</cite>
 {{< /q >}}
 
+{{< q a="Mohammad" c="The Romans 46, 48, Quran" >}}
+Allah sends the winds as glad tidings..that you may seek of His Bounty... Allah is He who sends the winds to raise the clouds, spread along the sky, break them into raindrops.
+{{< /q >}}
 
 
 Islam includes a moral system that is supposed to bring **peace, prosperity, and justice** -- things that destroyed societies desperately need. Afghanistan was such a society. This is why the Taliban, with its medieval version of Islam, naturally dominated after the grip of the Soviets weakened in the 1990's.
@@ -91,9 +86,7 @@ Year | Event
 
 Five years, or even twenty years, is way too short. The ideal length for a society to form its own consciousness is around 80 years. For example, the period from the American Revolution to the Civil war is around 80 years. Only after this period was the American identity unified. Likewise, it took 78 years from the British War of the Roses to establish British identity as an Anglican society under Henry the 8th.
 
-<!-- Twenty years of American Occupation is thus only 1/4 of the time needed.  -->
-
-How did we come up with 80 years? According to [Socrates' social cycles](/social/law-social-cycles), the soul of all societies goes through four phases:
+How did we come up with 80 years? According to [Socrates' social cycles](/social/supersociology/principles/part-1/chapter-05), the soul of all societies goes through four phases:
 
 1. Aristocratic
 2. Oligarchic
@@ -124,8 +117,7 @@ Thinking leads to philosophies. Of all the philosophies, Islam is the natural on
 
 This is supported by Adam Smith: 
 
-{{< q a="smith" >}} Generally,the situation of a country, and its improvement in agriculture and trade are favourable to the introduction of a republican government. There is little probability that republican governments will ever be introduced into Tartary or Arabia, because their country cannot be improved. 
-<cite>Simple Lectures, Part 1, Chapter 3</cite>
+{{< q a="Smith" c="Lectures on Jurisprudence Simplified, Part 1, Chapter 3" >}} Generally,the situation of a country, and its improvement in agriculture and trade are favourable to the introduction of a republican government. There is little probability that republican governments will ever be introduced into Tartary or Arabia, because their country cannot be improved. 
 {{< /q >}}
 
 
@@ -139,7 +131,7 @@ The goodness of Mother Nature led to the French, Italian, and Americans developi
 <!-- They seem to have forgotten that democracy in Europe took a long time to develop. It did not emerge until the 1800s, after the French revolution, hundreds of years after the fall of the Roman Empire. 
 
 Did the Anglo-Saxons keep the Roman institutions after they Romans went back to Rome? No, it quickly fell apart. The origin of British institutions came much later, from William the Conqueror. -->
-<!-- Did the Gauls accept Roman civilization absorb Caesar's reforms? No -->
+
 
 The biggest mistake of the US is to assume that democracy will work for the Afghans like it did for the Americans and the Europeans. They instituted a complicated system of separation of powers, mercenary lawyers, and commercial transactions. **These are policies for a civilized society** and are very different from simple system of hierarchal leadership, tribal transactions, and Islamic jurisprudence that the Taliban implemented. 
 
@@ -238,7 +230,4 @@ The superiority of this policy is proven in four countries:
 4. The fall of Libya after the death of Qaddafi
 
 Without the US forces, Afghanistan now becomes a fertile breeding ground for terrorist groups and so it's likely that some international intervention will need to be done, whether by US-Europe or Russia-China-Iran. Twenty years of American rule is extremely short compared to the hundreds of years of Islamic rule to divert or significantly change the mentality of the Taliban and the Afghans in general. The urban Afghans might have a modern mentality. But it will be easily swept by the dominant and general Islamic mentality. 
-
-Let's just hope that the next generation will be wiser than the Bush-Obama generation.
-
-## Let's do this again.. this time, properly -->
+-->

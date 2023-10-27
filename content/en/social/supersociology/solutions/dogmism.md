@@ -39,9 +39,8 @@ Shallow thinkers tend to decry even those of solid understanding, abstruse think
 **Thus, those who blame terrorism on Islam is suffering from the same weakness that caused the terrorist to do his attack in the first place.** They do not see that jihad was meant to keep Muslims within Islam and never to terrorize others:
 
 
-{{< q >}}
+{{< q a="Mohammad" >}}
 Jihad is ordained for you though you dislike it. They will turn you back from [Islam]. Whoever turns back from [Islam] will [go to hell]
-<cite>The Prophet Mohammad</cite>
 {{< /q >}}
 
 

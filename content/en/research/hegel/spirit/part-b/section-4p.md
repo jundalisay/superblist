@@ -1,5 +1,5 @@
 ---
-heading: "Section 4e"
+heading: "Section 4p"
 title: "Scepticism"
 description: The subject of philosophy is the actual knowledge of what truly is.
 image: /covers/phenom.png
@@ -55,9 +55,13 @@ Rather consciousness itself is thoroughgoing dialectical restlessness, this mêl
 
 This consciousness, however, as a matter of fact, instead of being a self-same consciousness, is here neither more nor less than an absolutely fortuitous embroglio, the giddy whirl of a perpetually self-creating disorder. This is what it takes itself to be; for itself maintains and produces this self-impelling confusion. 
 
-Hence it even confesses the fact; it owns to being, an entirely fortuitous individual consciousness — a consciousness which is empirical, which is directed upon what admittedly has no reality for it, which obeys what, in its regard, has no essential being, which realizes and does what it knows to have no truth. But while it passes in this manner for an individual, isolated. contingent, in fact animal life, and a lost self-consciousness, it also, on the contrary, again turns itself into universal self-sameness; for it is the negativity of all singleness and all difference. 
+Hence it even confesses the fact; it owns to being, an entirely fortuitous individual consciousness — a consciousness which is empirical, which is directed upon what admittedly has no reality for it, which obeys what, in its regard, has no essential being, which realizes and does what it knows to have no truth.
 
-From this self-identity, or rather within its very self, it falls back once more into that contingency and confusion, for this very self-directed process of negation has to do solely with what is single and individual, and is occupied with what is fortuitous. This form of consciousness is, therefore, the aimless fickleness and instability of going to and fro, hither and thither, from one extreme of self-same self-consciousness, to the other contingent, confused and confusing consciousness. 
+But while it passes in this manner for an individual, isolated. contingent, in fact animal life, and a lost self-consciousness, it also, on the contrary, again turns itself into universal self-sameness; for it is the negativity of all singleness and all difference. 
+
+From this self-identity, or rather within its very self, it falls back once more into that contingency and confusion, for this very self-directed process of negation has to do solely with what is single and individual, and is occupied with what is fortuitous. 
+
+This form of consciousness is, therefore, the aimless fickleness and instability of going to and fro, hither and thither, from one extreme of self-same self-consciousness, to the other contingent, confused and confusing consciousness. 
 
 It does not itself bring these two thoughts of itself together. It finds its freedom, at one time, in the form of elevation above all the whirling complexity and all the contingency of mere existence, and again, at another time, likewise confesses to falling back upon what is unessential, and to being taken up with that. 
 
@@ -67,10 +71,23 @@ It proclaims the nothingness of essential ethical principles, and makes those ve
 
 But it keeps asunder the poles of this contradiction within itself; and bears itself towards the contradiction as it does in its purely negative process in general. 
 
-If sameness is shown to it, it points out unlikeness, non-identity; and when the latter, which it has expressly mentioned the moment before, is held up to it, it passes on to indicate sameness and identity. Its talk, in fact, is like a squabble among self-willed children, one of whom says A when the other says B, and again B, when the other says A, and who, through being in contradiction with themselves, procure the joy of remaining in contradiction with one another.
+If sameness is shown to it, it points out unlikeness, non-identity; and when the latter, which it has expressly mentioned the moment before, is held up to it, it passes on to indicate sameness and identity. 
+
+Its talk, in fact, is like a squabble among self-willed children, one of whom says A when the other says B, and again B, when the other says A, and who, through being in contradiction with themselves, procure the joy of remaining in contradiction with one another.
 
 
-{{< s v='206' >}} In Scepticism consciousness gets, in truth, to know itself as a consciousness containing contradiction within itself. From the experience of this proceeds a new attitude which brings together the two thoughts which Scepticism holds apart. The want of intelligence which Scepticism manifests regarding itself is bound to vanish, because it is in fact one consciousness which possesses these two modes within it. This new attitude consequently is one which is aware of being the double consciousness of itself as self-liberating, unalterable, self-identical, and as utterly self-confounding, self-perverting; and this new attitude is the consciousness of this contradiction within itself.
+{{< s v='206' >}} In Scepticism consciousness gets to know itself as a consciousness containing contradiction within itself. 
 
-In Stoicism, self-consciousness is the bare and simple freedom of itself. In Scepticism, it realizes itself, negates the other side of determinate existence, but, in so doing, really doubles itself, and is itself now a duality. In this way the duplication, which previously was divided between two individuals, the lord and the bondsman, is concentrated into one. Thus we have here that dualizing of self-consciousness within itself, which lies essentially in the notion of mind; but the unity of the two elements is not yet present.
+From the experience of this proceeds a new attitude which brings together the 2 thoughts which Scepticism holds apart. 
+
+The lack of intelligence which Scepticism manifests regarding itself is bound to vanish, because it is in fact one consciousness which possesses these two modes within it. 
+
+This new attitude consequently is one which is aware of being the double consciousness of itself as self-liberating, unalterable, self-identical, and as utterly self-confounding, self-perverting; and this new attitude is the consciousness of this contradiction within itself.
+
+- In Stoicism, self-consciousness is the bare and simple freedom of itself. 
+- In Scepticism, it realizes itself, negates the other side of determinate existence, but, in so doing, really doubles itself, and is itself now a duality. 
+
+In this way the duplication, which previously was divided between 2 individuals, the lord and the bondsman, is concentrated into one. 
+
+Thus we have here that dualizing of self-consciousness within itself, which lies essentially in the notion of mind; but the unity of the two elements is not yet present.
 

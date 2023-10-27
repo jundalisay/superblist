@@ -1,4 +1,5 @@
 ---
+heading: Chapter 1
 title: "What is Justice?"
 weight: 4
 image: "/covers/republic.jpg"

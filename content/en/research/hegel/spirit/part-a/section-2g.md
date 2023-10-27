@@ -1,5 +1,5 @@
 ---
-heading: "Section 2G"
+heading: "Section 2g"
 title: "Force and the Play of Forces"
 description: The subject of philosophy is the actual knowledge of what truly is.
 image: /covers/phenom.png
@@ -134,18 +134,15 @@ It is force itself that is thus reflected into itself, that is the sublation of 
 
 
 This inciting force took the character of an external force [other] in order to express and return into itself.
-<!-- , turns out directly to be itself force. -->
 - This inciting force is also a universal medium that is also one and single.
-<!-- , and shows this in such a way that each of the forms assumed appears at the same time to be merely a vanishing moment.  -->
+
 
 Consequently, the original force has an other inciting force for it. Without that other, the original force is incomplete. 
- <!-- and it is for an other, has as a whole not yet developed its complete meaning.  -->
 
 There are 2 forces present at the same time. The notion of both is the same notion. But it has passed out of its unity into duality. 
 
 Instead of the opposition continuing to be entirely and essentially a mere moment, it escapes from the control of the unity and to have become 2 independent forces because of this diremption. 
 
-<!-- We have now to see more precisely what sort of situation this independence. introduces. -->
 
 The second force stands towards the force incited in the character of inciting force. 
 

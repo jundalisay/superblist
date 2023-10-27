@@ -5,7 +5,7 @@ weight: 36
 contributors: ['Descartes']
 image: "/covers/world.jpg"
 description: "The comets that are not in the same heaven as the sun are unable to send out as many rays toward the earth as the comets in the heaven of the sun"
-author: Rene Descartes
+contributors: ['Rene Descartes']
 icon: "/icons/descartes.png"
 ---
 
@@ -13,7 +13,7 @@ icon: "/icons/descartes.png"
 
 
 
-The comets that are not in the same heaven as the sun are unable to send out as many rays toward the earth as the comets in the heaven of the sun. 
+The comets that are not in the same heliosphere as the sun are unable to send out as many rays toward the earth as the comets in the heaven of the sun. 
 - This is true even for those that are ready to enter it.
 - Consequently, we cannot see them unless perhaps when their size is extraordinary*.
 

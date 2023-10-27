@@ -77,7 +77,7 @@ The problem here is that **all causes are metaphysical in nature, since all caus
 - Supertyphoons are caused by the feelings of heat by the planet <!-- ideas of thermodynamics leading to the compound idea of --> as global warming
 - Covid is caused by the idea of coronaviruses which are felt as symptoms of coughing, fever, loss of taste, etc. Before science, epidemics were thought to be caused by evil spirits of unknown cause. Both science and non-science are ignorant* of the root cause of such viruses and evil spirits. 
 
-> *Superphysics places the root cause of such viruses or spirits as [coming from stars](/bio/solutions/covidstar), just like all matter comes from supernovae (star explosion)
+> *Superphysics places the root cause of such viruses or spirits as [coming from stars](/bio/solutions/covid-star), just like all matter comes from supernovae (star explosion)
 
 
 Math, on the other hand, is confined to physical perceptions. The best that math and science can do is to speculate on the causes of problems based on the pattern of effects. It's like a blind man groping in the dark to discover where he is or what's around him. 

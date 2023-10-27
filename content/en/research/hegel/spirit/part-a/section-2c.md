@@ -1,5 +1,5 @@
 ---
-heading: "Section 2b"
+heading: "Section 2c"
 title: The Nature of Identity
 # title: "The Contradictoriness of the Perception of 'Things'"
 description: I am aware of the 'thing' as a one and have to keep it fixed in this true character as 'one'

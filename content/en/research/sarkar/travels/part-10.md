@@ -1,7 +1,14 @@
-## Graced by disgrace 
+---
+title: "Graced by disgrace "
+heading: "Part 10"
+description: "One of the new Margis asked me if I knew that some of the neighbors were disturbed by our yoga house, and had complained to our real estate agent"
+image: "/covers/mystic.jpg"
+weight: 20
+author: Dada
+---
 
-One of the new Margis asked me if I knew that some of the neighbors were 
-disturbed by our yoga house, and had complained to our real estate agent. 
+
+One of the new Margis asked me if I knew that some of the neighbors were disturbed by our yoga house, and had complained to our real estate agent. 
 
 "No," I said. "What's their grievance?" 
 

@@ -13,8 +13,7 @@ The ruin of Roman Empire produced the entire neglect of the study of Nature.
 
 The empire of the Caliphs established the peace required by the sciences. 
 
-It was under the protection of those generous and magnificent princes, that the ancient philosophy
-and astronomy of the Greeks were restored and established in the East.
+It was under the protection of those generous and magnificent princes, that the ancient philosophy and astronomy of the Greeks were restored and established in the East.
 
 
 <!-- just, and religious government diffused over their vast
@@ -67,10 +66,6 @@ The victorious Saracens carried into Spain the learning and gallantry of the Eas
 - the Arabian translations of Ptolemy and Aristotle
 
 Thus Europe received a second time, from Babylon, the rudiments of Astronomy. 
-
-
-
-
 
 <!-- The writings of Ptolemy were
 and the Peripatetic philosophy was studied in
@@ -215,17 +210,19 @@ The firmament, which has no other sensible motion, might be perfectly at rest.
 
 The Sun, the Moon, and the Five Planets, might have no other movement beside that eastward revolution, which is peculiar to themselves. 
 
-That, by supposing the Earth to revolve with the Planets, around the Sun, in an orbit, which
-comprehended within it the orbits of Venus and Mercury, but was comprehended within those of Mars, Jupiter, and Saturn, he could, without the embarrassment of Epicycles, connect together the apparent annual revolutions of the Sun, and the direct, retrograde, and stationary appearances of the Planets.
+That, by supposing the Earth to revolve with the Planets, around the Sun, in an orbit, which comprehended within it the orbits of Venus and Mercury, but was comprehended within those of Mars, Jupiter, and Saturn, he could, without the embarrassment of Epicycles, connect together the apparent annual revolutions of the Sun, and the direct, retrograde, and stationary appearances of the Planets.
 
 While the Earth really revolved round the Sun on one side of the heavens, the Sun would appear to revolve round the Earth on the other; that while she really advanced in her annual course, he would appear to advance eastward in that movement which is peculiar to himself. 
 
 That, by supposing the axis of the Earth to be always parallel to itself, not to be quite perpendicular, but somewhat inclined to the plane of her orbit, and consequently to present to the Sun, the one pole when on the one side of him, and the other when on the other, he would account for the obliquity of the Ecliptic; the Sun’s seemingly alternate progression from north to south, and from south to north, the consequent change of the seasons, and different lengths of days and nights in the different seasons.
 
-If this new hypothesis thus connected together all these appearances as happily as that of Ptolemy, there were others which it connected together much better. The 3 superior Planets, when nearly in conjunction with the Sun, appear always at the greatest distance from the Earth, are smallest, and least sensible to the eye, and seem to revolve forward in their direct motion with the greatest rapidity. 
+If this new hypothesis thus connected together all these appearances as happily as that of Ptolemy, there were others which it connected together much better. 
 
-On the contrary, when in opposition to the Sun, that is, when in their meridian about midnight, they
-appear nearest the Earth, are largest, and most sensible to the eye, and seem to revolve backwards in their retrograde motion. To explain these appearances, the system of Ptolemy supposed each of the these Planets to be at the upper part of their several Epicycles, in the one case; and at the lower, in the other. 
+The 3 superior Planets, when nearly in conjunction with the Sun, appear always at the greatest distance from the Earth, are smallest, and least sensible to the eye, and seem to revolve forward in their direct motion with the greatest rapidity. 
+
+On the contrary, when in opposition to the Sun, that is, when in their meridian about midnight, they appear nearest the Earth, are largest, and most sensible to the eye, and seem to revolve backwards in their retrograde motion. 
+
+To explain these appearances, the system of Ptolemy supposed each of the these Planets to be at the upper part of their several Epicycles, in the one case; and at the lower, in the other. 
 
 But it afforded no satisfactory principle of connection, which could lead the mind easily to conceive how the Epicycles of those Planets, whose spheres were so distant from the sphere of the Sun, should thus, if one may say so, keep time to his motion. 
 

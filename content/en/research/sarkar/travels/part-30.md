@@ -1,33 +1,31 @@
-## He Sends Out a Clarion Call 
+---
+title: "He Sends Out a Clarion Call"
+heading: "Part 20"
+description: "Baba's personal assistant, Dada Keshavananda, told us about the days leading up to October 21st"
+image: "/covers/mystic.jpg"
+weight: 60
+author: Dada
+---
 
 
-Baba's personal assistant, Dada Keshavananda, told us about the 
-days leading up to October 21st: 
+Baba's personal assistant, Dada Keshavananda, told us about the days leading up to October 21st: 
 
-"Since August, He was clearly in a hurry. He spent very little time alone, 
-instead calling frequent group and individual meetings. Over the last 
-weeks, many times in the wee hours of the morning, say 3:00 or 4:00, 
-He woke me, and instructed me to call certain workers. The first time it 
+Since August, He was clearly in a hurry. He spent very little time alone,  instead calling frequent group and individual meetings. 
+
+Over the last weeks, many times in the wee hours of the morning, say 3:00 or 4:00, He woke me, and instructed me to call certain workers. The first time it 
 happened I told Him that it was 3:00, and that they would surely be 
-sleeping. He became angry, and said, If those workers are not here 
-within ten minutes, I shall never give them the program that's in my 
-mind.' Of course I got them. We all became exhausted with His speed, 
-but instead of slowing down, He accelerated. Sometimes we talked 
-between ourselves, wondering at the cause of His haste. No one, 
-however, came close to imagining that He was busy putting the final 
+sleeping. 
+
+He became angry, and said, If those workers are not here within ten minutes, I shall never give them the program that's in my mind.' Of course I got them. We all became exhausted with His speed, but instead of slowing down, He accelerated. 
+
+Sometimes we talked between ourselves, wondering at the cause of His haste. No one, however, came close to imagining that He was busy putting the final 
 touches on His life's work. 
 
-"Only one week before His departure, Baba gave kapalika initiation 
-to the largest number of workers ever. He requested one hundred 
-candidates. Because He had always been very selective in approving 
-workers for this purpose, we were not prepared, and could only round 
-up seventy-nine. He always rejected more applicants than He approved. 
-But this time, without even asking any questions, He approved all. We 
-were bewildered at His behavior. 
+"Only one week before His departure, Baba gave kapalika initiation to the largest number of workers ever. He requested one hundred candidates. Because He had always been very selective in approving workers for this purpose, we were not prepared, and could only round up seventy-nine. He always rejected more applicants than He approved. 
 
-"Immediately after the initiations, Baba became sick. Well, at least that 
-was normal. After taking on many persons' samskaras, He usually 
-became sick. And this was by far the biggest number. 
+But this time, without even asking any questions, He approved all. We were bewildered at His behavior. 
+
+"Immediately after the initiations, Baba became sick. Well, at least that was normal. After taking on many persons' samskaras, He usually became sick. And this was by far the biggest number. 
 
 "On the last day, October 21st, His health actually improved. It was 
 better than it had been in a long time. The morning was normal. He was 

@@ -9,7 +9,6 @@ contributors: ['Ibn Khaldun']
 ---
 
 
-
 Jurisprudence is the knowledge of the classification of the laws of God, which concern the actions of all responsible Muslims, as obligatory, forbidden, recommendable, disliked, or permissible. 
 
 These laws are derived from:
@@ -102,4 +101,3 @@ the general consensus. This is the most appropriate place for it, because both t
 However, the agreement of general consensus is the result of independent judgment and opinion (reasoning), in view of the (available) evidence. The agreement of the Medinese, on the other hand, affects their practice in as much as it involves reliance upon personal observation of (the practice of) their predecessors. 
 
 It would have been more appropriate if the problem (of the practice of the Medinese) were mentioned in the chapter on the actions of the Prophet, or in connection with (the topic of) evidence concerning which there are differences of opinion - as, for example, (the use as legal evidence) of the law of the religions preceding us (Islam), the (legal) opinions of men around Muhammad, and (the problems of) praesumptio legis (istishab). 178
-

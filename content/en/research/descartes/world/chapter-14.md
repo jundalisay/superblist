@@ -4,12 +4,10 @@ title: "The Properties of Light"
 weight: 30
 image: "/covers/world.jpg"
 description: "Light moves in all directions around luminous bodies is due to the circular motion of their parts"
-author: Rene Descartes
+contributors: ['Rene Descartes']
 icon: "/icons/descartes.png"
 ---
 
-
-<!-- But I want to stop a while at this point to set out the properties of the action by which their eyes can be thus pushed. For they all agree so perfectly with those that we note in light that, when you have considered them, I am sure you will admit, like me, that there is no need to imagine in the stars or in the heavens any other quality but this action that is called by the name of "light." -->
 
 Light pushes on our eyes. The principal properties of light are:
 
@@ -106,11 +104,6 @@ This is done by the diverse dispositions or qualities of the matter that receive
 The force of light is not only more or less great in each place according to the quantity of the rays that come together there, but it can also be increased or diminished by the diverse dispositions of the bodies in the places through which it passes. 
 
 In the same way, the speed of a ball or a stone one is pushing in the air can be increased by winds blowing in the same direction that it is moving and diminished by their contraries.
-
-
-<!-- There are the principal qualities that one observes in light and that all agree with this action. -->
-
-
 
 
 <!-- the inclination to move that is transmitted from one place to another through several bodies that touch one another and that continuously fill all the space follows exactly the same path along which this same action could cause the first of those bodies to move if the others were not in its way.[61]  -->

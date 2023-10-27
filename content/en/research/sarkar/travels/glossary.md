@@ -1,12 +1,9 @@
 ---
 title: "Glossary"
 weight: 54
-image: "/covers/mystic.png"
+image: "/covers/mystic.jpg"
 description: ""
 ---
-
-Glossary 
-
 
 The spelling of some of the Sanskrit words has been adjusted in the 
 text to make them easier to pronounce. In such cases, their proper 

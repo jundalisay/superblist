@@ -56,14 +56,12 @@ The natural and sustainable progress of economies is from agriculture or extract
 
 For example, the Ivory coast, which exports cocoa, should implement policies so that it will eventually make chocolates itself.This would solve child labour for good. However, this goes against the vested interests of chocolate corporations in richer countries which profit from the low cost of raw cocoa. 
 
-Campaigns against African child labour might succeed in small cases, but can never produce any sweeping change, since those campaigns urge African governments to bite the hand of business that feeds them with the taxes that they need.
 
-![](https://socioecons.files.wordpress.com/2015/08/chocolate-child-slavery-ivory-coast.jpg)
+{{< img src="https://socioecons.files.wordpress.com/2015/08/chocolate-child-slavery-ivory-coast.jpg" alt="Cacao workers" cap="Campaigns against African child labour might succeed in small cases, but can never produce any sweeping change, since those campaigns urge African governments to bite the hand of business that feeds them with the taxes that they need." >}}
 
 
-{{< q a="smith" >}}
+{{< q a="Smith" c="Wealth of Nations Book 4, Chapter 2" >}}
 every prudent master of a family never attempts to make at home what it will cost him more to make than to buy. The tailor does not make his own shoes, but buys them of the shoemaker.. By making those cheap foreign commodities at home, the nation’s industry is thus turned into a less advantageous employment. The exchangeable value of its annual produce is reduced by such regulations, opposite of the intention of the lawgiver. By such regulations, a particular manufacture may sometimes be developed sooner.After a certain time, it may be made at home cheaper than in the foreign country.
-<cite>Wealth of Nations Book 4, Chapter 2</cite>
 {{< /q >}}
 
 
@@ -75,12 +73,11 @@ Liberal policies work best in advanced, rich countries while austere policies wo
 
 Also, desolate countries such as those in the Middle East and Western China are naturally not suited for republican governments and liberal policies. Had the Bush administration known this, then it would have thought twice about establishing a democratic system in Iraq and Afghanistan.
 
-![](https://sorasystem.sirv.com/photos/syriawar800.jpg)
+{{< img src="https://sorasystem.sirv.com/photos/syriawar800.jpg" >}}
 
 
-{{< q a="smith" >}}
+{{< q a="Smith" c="Lectures on Jurisprudence, Part 1, Chapter 3" >}}
 Generally,the situation of a country, andits improvement in agriculture and tradeare favourable to the introduction of a republican government. There is little probability that republican governments will ever be introduced into Tartary or Arabia,because their country cannot be improved..The opposite of this are those countries where republican governments have been established, particularly in Greece.
-<cite>Simple Lectures, Part 1, Chapter 3</cite>
 {{< /q >}}
 
 
@@ -99,17 +96,12 @@ Mercantile economists, on the other hand, would say that governments should not 
 ![](https://sorasystem.sirv.com/charts/chinastate.gif)
 
 
-{{< q a="smith" >}}
+{{< q a="smith" c="The Wealth of Nations Simplified, Book 3" >}}
 A merchant is not the citizen of any particular country.He is indifferent on from where he carries on his trade. He will remove his capital and all the industry it supports, from one country to another with very little disgust. No part of it can belong to any particular country, till it has been spread in that country, in buildings or in the improvement of lands.
-<cite>Simple Wealth of Nations, Book 3</cite>
 {{< /q >}}
 
 
-<!-- ## How would Smith Develop a Destroyed Society?  -->
-
 ## The Economic States of Society 
-
-<!-- from the rude or destroyed state? -->
 
 Smith's economic system works in all states of society, from nothing or 'state zero' up to the advanced, prosperous state. 
 
@@ -167,21 +159,15 @@ Adam Smith classified the mentality of societies as either savage, barbaric, or 
 
 He called savage and barbaric ones as rude:
 
-<div class="squote smith" data-sal="slide-right">
-A rude society has more variety in individual occupations. but less variety when all occupations are taken together. Every man does almost everything which any other man does. Every man has a considerable degree of knowledge, ingenuity, and invention, but no one has a great degree of them. What they have is sufficient only for conducting the simple business of society.
-</div>
+> A rude society has more variety in individual occupations. but less variety when all occupations are taken together. Every man does almost everything which any other man does. Every man has a considerable degree of knowledge, ingenuity, and invention, but no one has a great degree of them. What they have is sufficient only for conducting the simple business of society.
 
 He calls an advanced society as civilized:
 
-<div class="squote smith" data-sal="slide-right">
-In a civilized state, on the contrary, there is little variety in individual occupations. But there is an almost infinite variety in all the occupations taken together. A few people are not attached to a particular occupation. They have leisure and inclination to examine the occupations of other people. 
+> In a civilized state, on the contrary, there is little variety in individual occupations. But there is an almost infinite variety in all the occupations taken together. A few people are not attached to a particular occupation. They have leisure and inclination to examine the occupations of other people. These varied occupations lets them think of an almost infinite variety of objects. This thinking then exercises their minds in endless comparisons and combinations. It renders their understandings extraordinarily acute and comprehensive. Unless those few were placed in very particular situations, their great, honourable abilities may contribute very little for their society's happiness. All the nobler parts of the human character may be extinguished in the people.
 
-These varied occupations lets them think of an almost infinite variety of objects. This thinking then exercises their minds in endless comparisons and combinations. It renders their understandings extraordinarily acute and comprehensive. Unless those few were placed in very particular situations, their great, honourable abilities may contribute very little for their society's happiness. All the nobler parts of the human character may be extinguished in the people.
-</div>	
 {{< /box >}}
 
 
 ## From Destroyed to Affluent
 
 The development of the rude state will then depend on the nature of the people, with some cultures being able to develop faster. Regardless of culture, Smith guarantees that by allowing profit-sharing or giving the people the proceeds of their own work, industry and development can be sped up. While profit sharing is the main expedient to speed up development,grain-based valuation  andpool clearing  are the main expedients to prevent the society from sliding backwards during economic crises.
-

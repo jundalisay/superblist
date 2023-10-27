@@ -1,6 +1,6 @@
 ---
 title: "The Tyrannical Man"
-heading: "Chapter 1 of Book 9"
+heading: "Chapter 1"
 weight: 1
 image: "/covers/republic.jpg"
 description: "The Tyrannical Man emerges from the Democratic man"
@@ -100,7 +100,9 @@ If there is no war, they stay at home and do many little pieces of mischief in t
 When they grow numerous and become conscious of their strength, assisted by the infatuation of the people, they choose the most tyrannical among themselves and create their own tyrant. If the people resist him, he beats them. He begins by beating his own father and mother.
 
 He introduces his young retainers as the rulers and masters of his fatherland or motherland. This is the goal of his passions and desires.
+{{< /l >}}
 
+{{< l a="Socrates" >}}
 When such men are only private individuals and before they get power, this is their character. They associate entirely with their own flatterers or ready tools.
 
 If they want anything from anybody, they bow down before them. But when they have gained what they need, they know them no more. They are always either the masters or servants and never the friends of anybody. The tyrant never tastes of true freedom or friendship.

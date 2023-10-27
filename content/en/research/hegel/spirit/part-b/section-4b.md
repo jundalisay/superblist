@@ -44,7 +44,9 @@ At the same time, however, self-consciousness is likewise absolutely for itself,
 
 On account of the independence of the object, therefore, it can only attain satisfaction when this object itself effectually brings about negation within itself. The object must per se effect this negation of itself, for it is inherently (an sich) something negative, and must be for the other what it is. 
 
-Since the object is in its very self negation, and in being so is at the same time independent, it is Consciousness. In the case of life, which is the object of desire, the negation either lies in an other, namely, in desire, or takes the form of determinateness standing in opposition to an other external individuum indifferent to it, or appears as its inorganic general nature. The above general independent nature, however, in the case of which negation takes the form of absolute negation, is the genus as such or as self-consciousness. Self-consciousness attains its satisfaction only in another self-consciousness.
+Since the object is in its very self negation, and in being so is at the same time independent, it is Consciousness. In the case of life, which is the object of desire, the negation either lies in an other, namely, in desire, or takes the form of determinateness standing in opposition to an other external individuum indifferent to it, or appears as its inorganic general nature. 
+
+The above general independent nature, however, in the case of which negation takes the form of absolute negation, is the genus as such or as self-consciousness. Self-consciousness attains its satisfaction only in another self-consciousness.
 
 
 {{< s v="176" >}} It is in these three moments that the notion of self-consciousness first gets completed: 
@@ -55,7 +57,9 @@ Since the object is in its very self negation, and in being so is at the same ti
 
 Consciousness has an object which implicates its own otherness or affirms distinction as a void distinction, and therein is independent. 
 
-The individual form distinguished, which is only a living form, certainly cancels its independence also in the process of life itself; but it ceases along with its distinctive difference to be what it is. The object of self-consciousness, however, is still independent in this negativity of itself; and thus it is for itself genus, universal flux or continuity in the very distinctiveness of its own separate existence; it is a living self-consciousness.
+The individual form distinguished, which is only a living form, certainly cancels its independence also in the process of life itself; but it ceases along with its distinctive difference to be what it is. 
+
+The object of self-consciousness, however, is still independent in this negativity of itself; and thus it is for itself genus, universal flux or continuity in the very distinctiveness of its own separate existence; it is a living self-consciousness.
 
 
 {{< s v="177" >}} Only so and only then is it self-consciousness in actual fact; for here first of all it comes to have the unity of itself in its otherness. 
@@ -67,9 +71,12 @@ The object of desire, however, is only independent, for it is the universal, ine
 
 When a self-consciousness is the object, the object is just as much ego as object.
 
-With this we already have before us the notion of Mind or Spirit. What consciousness has further to become aware of, is the experience of what mind is — this absolute substance, which is the unity of the different self-related and self-existent self-consciousnesses in the perfect freedom and independence of their opposition as component elements of that substance: Ego that is “we”, a plurality of Egos, and “we” that is a single Ego. Consciousness first finds in self-consciousness — the notion of mind — its turning-point, where it leaves the parti-coloured show of the sensuous immediate, passes from the dark void of the transcendent and remote super-sensuous, and steps into the spiritual daylight of the present.
+With this we already have before us the notion of Mind or Spirit. 
 
+What consciousness has further to become aware of, is the experience of what mind is — this absolute substance.
 
-<!-- 1. Cp. Propädeutik, p. 84 ff.
+This absolute is the unity of the different self-related and self-existent self-consciousnesses in the perfect freedom and independence of their opposition as component elements of that substance.
 
-2. Cp. Hegel's Logik, T. II. Absch. 3. Kap. I.-"das Leben.” -->
+Ego is “we”, a plurality of Egos, and “we” that is a single Ego. 
+
+Consciousness first finds in self-consciousness — the notion of mind — its turning-point, where it leaves the parti-coloured show of the sensuous immediate, passes from the dark void of the transcendent and remote super-sensuous, and steps into the spiritual daylight of the present.

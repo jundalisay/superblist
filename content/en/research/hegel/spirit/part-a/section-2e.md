@@ -9,7 +9,6 @@ weight: 20
 ---
 
 
-<!-- Φ 129.  -->
 {{< s v='129' >}} By this process the object in its pure characteristics, in those features which were to constitute its essential nature, is superseded, just as the object in its sensible mode of existence became transcended. 
 
 From being sensible it passed into being a universal; but this universal, because derived from sense, is essentially conditioned by it, and hence is, in general, not a genuine self-identical universality, but one affected with an opposition. 

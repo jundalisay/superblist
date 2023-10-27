@@ -1,12 +1,13 @@
 ---
 heading: "Chapter 1b"
-linkTitle: Chapter 1b
+# linkTitle: Chapter 1b
 title: "The Effort Theory of Value"
 date: 2015-10-30
 weight: 12
 image: "/graphics/jfk.jpg"
 description: "The Effort Theory of Value is our alternative to both marginal pricing of Capitalism and the labor theory of value of Marxism"
 icon: /icons/pantry.png
+contributors: ['Juan']
 toc: false
 ---
 
@@ -61,13 +62,15 @@ So the core idea in Smith's theory is psychological toil and trouble instead of 
 To establish this core idea, we replace 'Labour theory of value' with 'Effort Theory of Value' since the word 'effort' best combines both psychological and emotional toil and trouble with physical work. 'Work Theory of Value' was also a good candidate. However, 'work' tends to mean more of the effect rather than the cause.
 
 
-{{< me date="Dec 2020" >}}
-This way of thinking about another person's love for guitar-playing (cause) instead of thinking about his actual guitar music (effect) is not common. When you buy bread at the grocery, you often check the label and think about its price and nutrients. You never think about the baker who baked that bread and who was the cause of the existence of the bread. His name, skills, looks, personality, doesn't enter your mind. Likewise, we see objects everday and never think about the persons or Creator that made their existence possible.
+{{< box >}}
+This way of thinking about another person's love for guitar-playing (cause) instead of thinking about his actual guitar music (effect) is not common. 
+
+When you buy bread at the grocery, you often check the label and think about its price and nutrients. You never think about the baker who baked that bread and who was the cause of the existence of the bread. His name, skills, looks, personality, doesn't enter your mind. Likewise, we see objects everday and never think about the persons or Creator that made their existence possible.
 
 Eastern philosophy solves this by using a mantra constantly which forces the mind to always think of the causal principles behind every perception. Thanks to this technique, the mind is trained to look at the principles behind every perception, whether it be in economics, politics, healthcare, astrophysics, etc. 
 
 Shallow minds will think that money is the cause of economic activity because that is what their perceptions readily presents to them. From this, they will create utility theories, and then equilibrium and profit maximization theories, not knowing that such ideas naturally create crises after some time because they are based on effect instead of cause.
-{{< /me >}}
+{{< /box >}}
 
 {{< img alt="JFK quote" src="/graphics/jfk.jpg" cap="Effort is not enough" >}}
 
@@ -141,7 +144,7 @@ An Egyptian man in 3000 BC would need a similar amount of food that a modern man
 {{< img src="/graphics/econ/econ.jpg" alt="Effort Theory of Value" cap="Economics and the Commercial system measures everything in currency which is controlled by government which could be authoritarian like Zimbabwe and Venezuela, or could be bought by vested interests like in the US and most countries. Our system measures everything both in gold and grains. The gold standard is used for fast transactions while grain valuation is based on slow trasactions and as a backup or safety in case of financial crisis when the value of money-gold disappears." >}}
 
 
-From a Superphysics perspective (the paradigm that sees everything as waves instead of particles or objects), the effort theory of value bases value on [natural waves of interests and desires](/social/principles/intro/chapter-01). This is different from modern economic systems which base value on physical particles such as money.
+From a Superphysics perspective (the paradigm that sees everything as waves instead of particles or objects), the effort theory of value bases value on [natural waves of interests and desires](/social/economics/principles/intro/chapter-01). This is different from modern economic systems which base value on physical particles such as money.
 
 With that, we can safely translate Smith's 18th-century words into modern English without corrupting its deeper meaning and intention:
 
@@ -149,14 +152,26 @@ With that, we can safely translate Smith's 18th-century words into modern Englis
 **Original**
 
 {{< q a="smith" >}}
-But as a measure of quantity, such as the natural foot, fathom, or handful, which is continually varying in its own quantity, can never be an accurate measure of the quantity of other things; so a commodity which is itself continually varying in its own value, can never be an accurate measure of the value of other commodities. Equal quantities of labour, at all times and places, may be said to be of equal value to the labourer. In his ordinary state of health, strength and spirits; in the ordinary degree of his skill and dexterity, he must always laydown the same portion of his ease, his liberty, and his happiness. The price which he pays must always be the same, whatever may be the quantity of goods which he receives in return for it. Of these, indeed, it may sometimes purchase a greater and sometimes a smaller quantity; but it is their value which varies, not that of the labour which purchases them. At all times and places that is dear which it is difficult to come at, or which it costs much labour to acquire; and that cheap which is to be had easily, or with very little labour. Labour alone, therefore, never varying in its own value, is alone the ultimate and real standard by which the value of all commodities can at all times and places be estimated and compared. It is their real price; money is their nominal price only.
+a measure of quantity, such as the natural foot, continually varies. It can never be an accurate measure of other things; so a commodity which is itself continually varying in its own value, can never accurately measure the value of other commodities. 
+
+Equal quantities of labour, at all times and places, is be of equal value to the labourer.. The labor which he pays must always be the same, whatever the quantity of goods which he receives for it. 
+
+At all times and places, that is dear which it is difficult to come at and costs much labour. 
+
+Labour alone, therefore, never varying in its own value, is alone the ultimate and real standard or price. Money is the nominal price only.
 {{< /q >}}
 
 
 **Translated with 'toil and trouble'**
 
 {{< q a="smith" >}}
-A commodity that always varies in value can never be an accurate measure of the value of other commodities. Just as a natural foot, fathom, or handful can never be an accurate measure.. Always and everywhere, equal quantities of toil and trouble is of equal value to the worker. In his ordinary state, he must always lay down the same portion of his ease, liberty, and happiness. The price which he pays must always be the same, though sometimes it buys varying amounts of commodity. But it is the value of the commodities which varies, not his toil and trouble. Always and everywhere:<ul><li>a thing is expensive if it is difficult or costs much toil and trouble to acquire.</li><li>a thing is cheap if it can be had easily or with very little toil and trouble.</li></ul>Toil and trouble never varies in its own value. Therefore, it alone is the ultimate and real standard by which the value of all commodities can be estimated and compared always and everywhere.“It is their real price; money is their nominal price only.
+A commodity that always varies in value can never be an accurate measure of the value of other commodities. Just as a natural foot can never be an accurate measure.. Always and everywhere, equal quantities of toil and trouble is of equal value to the worker. 
+
+In his ordinary state, he must always lay down the same portion of his ease, liberty, and happiness. The price which he pays must always be the same, though sometimes it buys varying amounts of commodity. 
+
+But it is the value of the commodities which varies, not his toil and trouble. Always and everywhere, a thing is expensive if it is difficult or costs much toil and trouble to acquire. 
+
+Toil and trouble never varies in its own value.  Therefore, it alone is the ultimate and real price. Money is the nominal price only.
 {{< /q >}}
 
 

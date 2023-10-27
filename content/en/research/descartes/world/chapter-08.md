@@ -4,7 +4,7 @@ title: "The Creation of the Universe"
 weight: 18
 image: "/covers/world.jpg"
 description: "God put inequality and confusion among the parts of matter at the beginning"
-author: Rene Descartes
+contributors: ['Rene Descartes']
 icon: "/icons/descartes.png"
 ---
 
@@ -40,7 +40,7 @@ This makes it impossible for all of the aether to move in a straight line.
 <!-- parts of matter  -->
 Instead, they all went into some circular motions since all of them were just about equal and as easily divertible.
 
-God first moved them diversely. This made them turn in many different centers instead of a single one. 
+2. God first moved them diversely. This made them turn in many different centers instead of a single one. 
 
 <!-- , we should not imagine that they all came together to turn about a single center, but about many different ones, which we may imagine to be diversely situated with respect to one another. -->
 

@@ -1,5 +1,5 @@
 ---
-heading: "Section 4d"
+heading: "Section 4r"
 title: "The Unhappy Consciousness"
 description: The subject of philosophy is the actual knowledge of what truly is.
 image: /covers/phenom.png

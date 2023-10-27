@@ -6,13 +6,13 @@
   <div class="container p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-8">
     {{ range $paginator.Pages }}
 
-      <a href="{{ .Permalink }}" title="{{ .Title }}" class="zoom max-w-sm rounded-lg overflow-hidden shadow-lg" data-sal="fade">
+      <a href="{{ .Permalink }}" title="{{ .Title }}" class="zoom max-w-sm rounded-lg overflow-hidden shadow-lg" data-sal="slide-down">
         <img class="w-full" src="{{ .Params.image }}" alt="{{ .Params.title }}">
         <div class="px-6 py-4">
-          <div class="font-bold text-xl mb-2">{{ .Params.title }} &rarr;</div>
-          <small class="">
-            {{ .Params.description }}
+          <small class="leading-none">
+            {{ .Params.heading }}
           </small>
+          <div class="font-bold text-2xl mb-2 leading-none">{{ .Params.title }} &rarr;</div>
         </div>
       </a>
 

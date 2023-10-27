@@ -1,5 +1,5 @@
 ---
-title: "Northern India"
+title: "Northern India: Gujarat and Malwa"
 heading: "Chapter 17"
 weight: 22
 description: "Gujarat's capital has a four-fold wall and rules over 100 cities.Its people are white and clean looking. Both men and women wear double rings hanging down from holes in their ears"
@@ -8,10 +8,9 @@ author: "Chau Ju Kua"
 ---
 
 
-
 Activity | Method 
 --- | ---
-Trade | Barter
+Trade | ?
 
 
 ## Gujarat (Huchala under Chalukya)
@@ -20,29 +19,25 @@ Gujarat's capital has a four-fold wall and rules over 100 cities.
 
 Its people are white and clean looking. Both men and women wear double rings hanging down from holes in their ears. They wear close fitting clothes with a cotton sarong wrapped around them. 
 
-On wear white hoods
-their heads they
-They are forbidden
-leather.
+They wear white hoods and red leather shoes. 
 
-and on their feet shoes of red
-to eat flesh.
-There are 4,000 Buddhist temple buildings, in which
-live over
-twenty thousand dancing-girls (]^) who sing twice daily while offering food
-to the Buddha (i. e., the idols) and while offering flowers. When offering
-flowers they tie
-hundred
-them
-in
-catties every bunches with cotton thread, of which they use three
-day
+They are forbidden to eat meat.
+
+There are 4,000 Buddhist temple buildings, in which 20,000 dancing-girls live and sing twice daily while offering food and flowers to the Buddha (i. e., the idols).
+
+When offering flowers they tie them with cotton thread, which thery use 300 catties everyday.
 
 There are over 400 war-elephants and about 100,000 cavalry horses.
 
-When the king goes about he rides au elephant;
-on his head he wears a cap. His followers ride horseback and carry swords.
-The native products comprise great quantities of indigo, red kino, myrobolans and foreign cotton stuffs of every colour. Every year these goods are transported to the Ta-shi countries for sale.
+When the king goes about he rides an elephant and wears a cap. His followers ride horseback and carry swords.
+
+Their native products are great quantities of:
+- indigo
+- red kino
+- myrobolans
+- foreign cotton stuffs of every colour. 
+
+Every year, these goods are transported to the Arab countries for sale.
 
 
 <!-- Notes.

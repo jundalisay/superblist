@@ -1,4 +1,5 @@
 ---
+heading: Chapter 3
 title: "Justice is the Interest of the Citizens"
 weight: 8
 image: "/covers/republic.jpg"

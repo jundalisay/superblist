@@ -1,5 +1,5 @@
 ---
-heading: "Section 4f"
+heading: "Section 4q"
 title: "The Unhappy Consciousness"
 description: Hence the Unhappy Consciousness (1) the Alienated Soul which is the consciousness of self as a divided nature, a doubled and merely contradictory being.
 image: /covers/phenom.png

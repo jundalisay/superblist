@@ -288,5 +288,5 @@ Qualimath also bridges modern math, which 'prefers' single integers or the small
 - Hindu (Vedic) math grouping and scaling identities via zero 
  -->
 
- > *We extend the Cartesian plane into two: [a physical one and a metaphysical one](/articles/material/cartesian-view)
+ > *We extend the Cartesian plane into two: [a physical one and a metaphysical one](/material/solutions/cartesian-view)
 

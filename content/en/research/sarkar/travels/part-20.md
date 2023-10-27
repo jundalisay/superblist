@@ -1,4 +1,11 @@
-Lord Shiva Never Did It 
+---
+title: "Lord Shiva Never Did It"
+heading: "Part 20"
+description: "The treatment that Baba gave to Keshava from Germany was peculiar."
+image: "/covers/mystic.jpg"
+weight: 40
+author: Dada
+---
 
 
 "You must treat him very well. Give him solace whenever possible, serve 

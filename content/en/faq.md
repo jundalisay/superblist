@@ -196,7 +196,7 @@ We are targetting young people for this because they are the ones stuck with war
 {{< /l >}}
 
 {{< r a="Boomer" >}}
-What makes you so absolutely sure that you know the nature of the universe? What is your qualification? I have a PhD from a top Western unviersity.
+What makes you so absolutely sure that you know the nature of the universe? What is your qualification? I have a PhD from a top Western university.
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
@@ -222,9 +222,7 @@ The blue triangle represents the metapyhsical dimension. The green triangle repr
 
 The yellow center is perception which balances both dimensions. 
 
-Some people get filthy rich but lose their morals, while others are super spiritual but are dirt poor. 
-
-For example, Baby-Boomers mindlessly push for GDP or ROI growth even if Nature is hitting them back with global warming caused by that very GDP and ROI from investments. 
+Some people get filthy rich but lose their morals, while others are super spiritual but are dirt poor. For example, Baby-Boomers mindlessly push for GDP or ROI growth even if Nature is hitting them back with global warming caused by that very GDP and ROI from investments. 
 
 Spiritual people, on the other hand, give donations and service, often unsustainably while creating a culture of dependence and poverty. 
 
@@ -250,9 +248,9 @@ I guess you encounter a lot of opposition from humans who think that the limited
 {{< l a="Superphysics" >}}
 Yes. This is now known as 'scientism' propagated by materialists.
 
-For example, medicine is highly regulated by governments. Material experiments, on the other hand, are expensive. We aim to surmount both impediments through our economic system.
+For example, alternative medicines that don't pass clinical trials are not medicine, but are just supplements even if they cure some people but not all. 
 
-This is why, until 2030, most of our work is on Social Superphysics as economics and policies. The work on Bio and Material Superphysics will mostly be theoretical for now, though we've done [rudimentary experiments on levitation](/material/levitation) and preventing cancers from getting worse via alternative medicine.
+This is why, until 2030, most of our work is on Social Superphysics. The work on Bio and Material Superphysics will mostly be theoretical for now, though we've done [rudimentary experiments on levitation](/material/levitation) and preventing cancers from getting worse via alternative medicine.
 {{< /l >}}
 
 
@@ -262,7 +260,7 @@ How can we help?
 
 
 {{< l a="Superphysics" >}}
-You can check out our help page
+You can check out our [help](/help) page
 {{< /l >}}
 
 <!-- By gettings Its principles. For example, Einstein based his Relativity on Parmenides explanation of how the One is Many and All is relative. We expand this by creating the theory of Universal Relativity for Material Superphysics, as well as the Four Laws of Value for Economic Superphysics (as spnomics)    -->

@@ -30,8 +30,6 @@ In parliamentary systems, the leadership is voted by the majority which creates 
 
 ## The Solution: Confirmation Elections
 
-<!-- I noticed they both suggested a new election system that was very different from the mainstream proposals of their time.  -->
-
 Instead of holding elections every four years, elections for top positions are held annually through 'confirmation elections' in which the people just have to vote 'yes' or 'no' on whether their current leaders should remain in power.  
 
 For example, a country has:

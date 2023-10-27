@@ -15,6 +15,8 @@ Non-halal or unlawful food in Islam are those that are included in the following
 
 ### Specific Animals 
 
+{{< img src="/photos/social/monkey.jpg" alt="Monkey looking at mirror" >}}
+
 - Pigs and boars
 - Dogs, snakes and monkeys
 - Carnivorous animals with claws and fangs such as lions, tigers, bears and other similar animals

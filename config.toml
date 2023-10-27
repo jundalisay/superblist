@@ -191,7 +191,7 @@ paginate = 12
 
   [languages.ar]
     contentDir = "content/ar"
-    weight = 3
+    weight = 2
     languageName = "عربي"
     [[languages.ar.menu.main]]
         name = "/icons/question.png"
@@ -330,6 +330,148 @@ paginate = 12
       img= "/photos/ukraine.jpg"
       title = "السياسة والقانون والعدالة من أجل عالم أفضل"
       sub = "السوبراجتماعية تتعامل مع السياسة والقانون والحكم والقضايا الاجتماعية والسياسية الأخرى"
+
+  [languages.zh]
+    contentDir = "content/zh" #English
+    weight = 3
+    languageName = "中文"
+    [[languages.zh.menu.main]]
+        name = "/icons/question.png"
+        url = "faq"
+        weight = 8
+    [[languages.zh.menu.main]]
+        name = "/icons/about.png"
+        url = "about"
+        weight = 9
+    [[languages.zh.menu.main]]
+        name = "/icons/heart.png"
+        url = "help"
+        weight = 10
+    [languages.zh.params]
+      heading = "一种基于形而上学和苏格拉底辩证法的新科学"
+      intro = "超物理学：基于波动的科学范式"
+      sub = "所有知识可以分为三类"
+      banner = "/photos/physics/galaxy.jpg"
+      youtube = "n-bejVBOZ0k"
+    [languages.zh.params.cards.a]
+        icon = "/icons/tao.png"
+        itle = "形而上学"
+        sub = "0-50% 可复制：悖论的"
+    [languages.zh.params.cards.b]
+      icon = "/icons/sp.png"
+        title = "超物理学"
+        sub = "51-99% 可复制：主观的"
+    [languages.zh.params.cards.c]
+        icon = "/icons/atom.png"
+        title = "物理学 "
+        sub = "100% 可复制：客观的"
+    [languages.zh.params.tricon1]
+      heading = "灵魂的本质"
+      title = "一切都是表现为粒子的波动"
+      sub = "模拟宇宙以实际定义流动以创造现实"
+      youtube = "dc4VNkfqs1s"
+      icon = "/icons/sp.png"
+      link= "/superphysics/principles"
+    [languages.zh.params.tricon1.items.a]
+      url = "/superphysics/principles/chapter-01/"
+      img= "/photos/physics/ai.jpg"
+      title = "我们在一个矩阵中！"
+      sub = "看看我们如何在其中存在良好"
+    [languages.zh.params.tricon1.items.b]
+      url = "/superphysics/principles/chapter-02"
+      img = "/photos/idea.jpg"
+      title = "一切都是一个思想"
+      sub = "存在于头脑或矩阵之内"
+    [languages.zh.params.tricon1.items.c]
+      url = "/superphysics/principles/chapter-04b"
+      img = "/graphics/physics/math.jpg"
+      title = "一种新数学用于一种新科学"
+      sub = "其中包含相对性"
+    [languages.zh.params.tricon1.items.d]
+      url = "/superphysics/principles/chapter-11"
+      img = "/avatars/socrates.jpg"
+      title = "什么是苏格拉底辩证法？"
+      sub = "一种允许物理学和形而上学同时存在的思维范式"
+    [languages.zh.params.tricon2]
+      heading = "物质超物理学"
+      title = "物质宇宙的灵魂"
+      sub = "基于笛卡尔和古希腊、印度教和中国的五个层次"
+      youtube = "3l9J6tH4iD0"
+      icon = "/icons/spmat.png"
+      link= "/material/principles"
+    [languages.zh.params.tricon2.items.a]
+      url = "/material/principles/intro/chapter-01"
+      img= "/graphics/physics/aetherdrag.jpg"
+      title = "# 超物理学的五个层次"
+      sub = "物质、放射性、辐射、空间和以太"
+    [languages.zh.params.tricon2.items.b]
+      url = "/material/fallacies/general-relativity/"
+      img= "/graphics/physics/general.jpg"
+      title = "广义相对论的替代方案"
+      sub = "时空的形而上学"
+    [languages.zh.params.tricon2.items.c]
+      url= "/material/principles/part-2/chapter-02/"
+      img = "/photos/physics/quasar.jpg"
+      title = "引力的弹性理论"
+      sub = "我们从开普勒和笛卡尔重新引入引力理论"
+    [languages.zh.params.tricon2.items.d]
+      url = "/material/principles/part-3/chapter-02/"
+      img= "/photos/physics/elec.jpg"
+      title = "电子是正的，质子是负的"
+      sub = "我们使用男性和女性来避免混淆"
+    [languages.zh.params.tricon3]
+      heading = "生物超物理学"
+      title = "生命体的灵魂"
+      sub = "基于感知能量的动力学"
+      youtube= "Y6YKmtqJak4"
+      icon = "/icons/spmed.png"
+      link= "/bio/principles"
+    [languages.zh.params.tricon3.items.a]
+      url = "/bio/principles/part-04/chapter-03/"
+      img= "/photos/med/cancer2.jpg"
+      title = "癌症和疾病已被非西方医学治愈。"
+      sub = "看看基于波动的替代方案取代基于粒子的西方医学。 "
+    [languages.zh.params.tricon3.items.b]
+      url = "/bio/principles/intro/chapter-01/"
+      img= "/photos/psych/schizo.jpg"
+      title = "你有30亿个自我"
+      sub = "'你'是由不断变化的“你”波动组成的。"
+    [languages.zh.params.tricon3.items.c]
+      url = "/bio/smith-veg/"
+      img= "/avatars/smithstatue.jpg"
+      title = " 亚当·斯密是素食主义者"
+      sub = "经济学创始人更喜欢蔬菜，尤其是土豆，而不是肉类。"
+    [languages.zh.params.tricon3.items.d]
+      url = "/bio/solutions/covid/"
+      img= "/photos/med/covid.jpg"
+      title = "如何阻止Covid"
+      sub = "它还在！被局限在盒子里的科学无法解决它。"
+    [languages.zh.params.tricon4]
+      title = "社会的灵魂"
+      heading = "社会超物理学"
+      sub = "同情而不是自私利益"
+      youtube = "AfByl9Mywi4"
+      icon = "/icons/spsoc.png"
+    [languages.zh.params.tricon4.items.a]
+      url = "/social/supersociology/principles/part-1/chapter-01"
+      img = "/photos/vanity.jpg"
+      title = "一个没有贫困"
+      sub = "不平等和危机的世界——超经济学涉及资源配置和社会经济问题"
+    [languages.zh.params.tricon4.items.b]
+      url = "/social/economics/principles/intro/chapter-03"
+      img = "/photos/grains.jpg"
+      title = "自我是社会问题的原因。看看超社会学是如何修复它的。 "
+      sub = "经济变革源于集体欲望的变化。看看如何修复群体心态"
+    [languages.zh.params.tricon4.items.c]
+      url = "/social/supersociology/principles/part-1/chapter-05"
+      img = "/photos/medieval/hitler.jpg"
+      title = "历史重复是一种波动"
+      sub = "看看我们如何用它来预测总统选举和经济衰退等事件"
+    [languages.zh.params.tricon4.items.d]
+      url = "/social/cycles/"
+      img= "/photos/ukraine.jpg"
+        title = "社会周期预测"
+       sub = "查看我们的模型对各个国家的预测"
 
   [languages.de]
     contentDir = "content/de"
@@ -615,6 +757,148 @@ paginate = 12
       title = "L'Histoire se Répète comme une Onde"
       sub = "Découvrez comment nous l'utilisons pour prédire des événements tels"
 
+  [languages.hi]
+    contentDir = "content/hi"
+    weight = 7
+    languageName = "हिन्दी भाषा"
+    [[languages.hi.menu.main]]
+        name = "/icons/question.png"
+        url = "faq"
+        weight = 8
+    [[languages.hi.menu.main]]
+        name = "/icons/about.png"
+        url = "about"
+        weight = 9
+    [[languages.hi.menu.main]]
+        name = "/icons/heart.png"
+        url = "help"
+        weight = 10
+    [languages.hi.params]
+      intro = "सुपरफिजिक्स: तरंग-आधारित वैज्ञानिक मानदंड"
+      heading = "मेटाफिजिक्स और सोक्रेटिक वाद के आधार पर आधारित एक नया विज्ञान"
+      sub = "सभी ज्ञान को तीन भागों में विभाजित किया जा सकता है:"
+      youtube= "pJDEDX7DI5Y"
+      banner = "/photos/physics/galaxy.jpg"
+    [languages.hi.params.cards.a]
+      icon = "/icons/tao.png"
+      title = "मेटाफिजिक्स"
+      sub = "0-50% पुनरावलोकनीय: विरोधात्मक"
+    [languages.hi.params.cards.b]
+      icon = "/icons/sp.png"
+      title = "सुपरफिजिक्स"
+      sub = "51-99% पुनरावलोकनीय: व्यक्तिगत"
+    [languages.hi.params.cards.c]
+      icon = "/icons/atom.png"
+      title = "भौतिकी "
+      sub = "100% पुनरावलोकनीय: वस्तुगत"
+    [languages.hi.params.tricon1]
+      title = "आत्मा का प्रकृति"
+      heading = "सब कुछ एक तरंग है जो एक कण के रूप में प्रकट होता है। "
+      sub = "अभिगम ब्रह्मांड वास्तव-परिभाषा में स्ट्रीम करता है ताकि वास्तविकता बना सके"
+      youtube = "dc4VNkfqs1s"
+      icon = "/icons/sp.png"
+      link= "/superphysics/principles"
+    [languages.hi.params.tricon1.items.a]
+      url = "/superphysics/principles/chapter-01/"
+      img= "/photos/physics/ai.jpg"
+      title = "हम मैट्रिक्स में हैं!"
+      sub = "देखें कैसे हम उसमें अच्छी तरह से मौजूद हो सकते हैं"
+    [languages.hi.params.tricon1.items.b]
+      url = "/superphysics/principles/chapter-02"
+      img = "/photos/idea.jpg"
+      title = "सब कुछ एक विचार है"
+      sub = "मानसिकता या मैट्रिक्स के अंदर"
+    [languages.hi.params.tricon1.items.c]
+      url = "/superphysics/principles/chapter-04b"
+      img = "/graphics/physics/math.jpg"
+      title = "नए विज्ञान के लिए नगणित"
+      sub = "सापेक्षता से भरपूर"
+    [languages.hi.params.tricon1.items.d]
+      url = "/superphysics/principles/chapter-11"
+      img = "/avatars/socrates.jpg"
+      title = "समस्याओं का समाधान ढूँढने के लिए सोक्रेटिक वाद."
+      sub = "क्या आपकी कोई समस्या है? समाधान पहले से मौजूद है!"
+    [languages.hi.params.tricon2]
+      title = "भौतिक सुपरफिजिक्स।"
+      heading = "भौतिक ब्रह्मांड की आत्मा"
+      sub = "देस्कार्टेस और प्राचीन यूनानियों, हिंदुओं और चीनी लोगों के पांच परतों पर आधारित"
+      youtube = "3l9J6tH4iD0"
+      icon = "/icons/spmat.png"
+      link= "/material/principles"
+    [languages.hi.params.tricon2.items.a]
+      url = "/material/principles/intro/chapter-01"
+      img= "/graphics/physics/aetherdrag.jpg"
+      title = "सुपरफिजिक्स की पांच परतें। "
+      sub = "सामग्रिक, विकर्षणात्मक, प्रकाशमय, स्थानिक और आध्यात्मिक"
+    [languages.hi.params.tricon2.items.b]
+      url = "/material/fallacies/general-relativity/"
+      img= "/graphics/physics/general.jpg"
+      title = "सामान्य संख्यातावाद का विकल्प। "
+      sub = "समय-स्थान की मेटाफिजिक्स"
+    [languages.hi.params.tricon2.items.c]
+      url= "/material/principles/part-2/chapter-02/"
+      img = "/photos/physics/quasar.jpg"
+      title = "आध्यात्मिक प्रेरणा। "
+      sub = "हम केपलर और देस्कार्टेस से भार से गुरुत्वाकर्षण की सिद्धांती वापस लाते हैं"
+    [languages.hi.params.tricon2.items.d]
+      url = "/material/principles/part-3/chapter-02/"
+      img= "/photos/physics/elec.jpg"
+      title = "इलेक्ट्रॉन पॉजिटिव होते हैं, प्रोटॉन नेगेटिव होते हैं। "
+      sub = "हम भ्रांति से बचने के लिए पुरुष-महिला का उपयोग करते हैं"
+    [languages.hi.params.tricon3]
+      title = "जैविक सुपरफिजिक्स।"
+      heading = "जीवन प्राणियों की आत्मा"
+      sub = "ज्ञानी ऊर्जा की गतिविधियों पर आधारित"
+      youtube= "Y6YKmtqJak4"
+      icon = "/icons/spmed.png"
+      link= "/bio/principles"
+    [languages.hi.params.tricon3.items.a]
+      url = "/bio/principles/part-04/chapter-03/"
+      img= "/photos/med/cancer2.jpg"
+      title = "कैंसर और रोगों का उपचार गैर-पश्चिमी चिकित्सा द्वारा किया गया है। "
+      sub = "कण-आधारित पश्चिमी चिकित्सा के विकल्पों को पढ़ें"
+    [languages.hi.params.tricon3.items.b]
+      url = "/bio/principles/intro/chapter-01/"
+      img= "/photos/psych/schizo.jpg"
+      title = "आपके पास 3 अरब आत्मा हैं। "
+      sub = "'आप' एक परिवर्तनशील 'तुम' की तरंग से बने हैं"
+    [languages.hi.params.tricon3.items.c]
+      url = "/bio/smith-veg/"
+      img= "/avatars/smithstatue.jpg"
+      title = "एडम स्मिथ शाकाहारी थे। "
+      sub = "उन्होंने मांस की बजाय सब्जियों, विशेषकर आलू, की पसंद की थी"
+    [languages.hi.params.tricon3.items.d]
+      url = "/bio/solutions/covid/"
+      img= "/photos/med/covid.jpg"
+      title = "कोविद कैसे रोकें। "
+      sub = "पढ़ें कैसे नाटो ने 2020 में कोविड को रोक सकता था"
+    [languages.hi.params.tricon4]
+      title = "सामाजिक सुपरफिजिक्स। "
+      heading = "समाज की आत्मा"
+      sub = "स्वार्थ-उत्साह की बजाय सहकारी-भावना"
+      youtube = "AfByl9Mywi4"
+      icon = "/icons/spsoc.png"
+    [languages.hi.params.tricon4.items.a]
+      url = "/social/supersociology/principles/part-1/chapter-01"
+      img = "/photos/vanity.jpg"
+      title = "आत्मा समाज में समस्याओं का कारण है। "
+      sub = "पढ़ें कैसे सुपरसोसायोलॉजी इसे ठीक कर सकती है"
+    [languages.hi.params.tricon4.items.b]
+      url = "/social/economics/principles/intro/chapter-03"
+      img = "/photos/grains.jpg"
+      title = "मूल्य की मेटाफिजिक्स और मूल्य के चार नियम। "
+      sub = "सुपरीकॉनोमिक्स संसाधन आवंटन और सामाजिक-आर्थिक मुद्दों से निपटती है"
+    [languages.hi.params.tricon4.items.c]
+      url = "/social/supersociology/principles/part-1/chapter-05"
+      img = "/photos/medieval/hitler.jpg"
+      title = "सामाजिक चक्रों का सोक्रेटिक कानून। "
+      sub = "हम इसे चुनाव और मंदी जैसी घटनाओं की पूर्वानुमानित करने के लिए कैसे उपय"
+    [languages.hi.params.tricon4.items.d]
+      url = "/social/cycles/"
+      img= "/photos/ukraine.jpg"
+      title = "Social Cycles"
+      # sub = "Supersosiologi mengatasi politik, hukum, tata pemerintahan, dan masalah sosial-politik lainnya"
+
   [languages.id]
     contentDir = "content/id"
     weight = 8
@@ -757,147 +1041,289 @@ paginate = 12
       title = "Politik, Hukum, dan Keadilan untuk Dunia yang Lebih Baik"
       sub = "Supersosiologi mengatasi politik, hukum, tata pemerintahan, dan masalah sosial-politik lainnya"
 
-  [languages.zh]
-    contentDir = "content/zh" #English
-    weight = 2
-    languageName = "中文"
-    [[languages.zh.menu.main]]
+  [languages.jp]
+    contentDir = "content/jp"
+    weight = 9
+    languageName = "日本語"
+    [[languages.jp.menu.main]]
         name = "/icons/question.png"
         url = "faq"
         weight = 8
-    [[languages.zh.menu.main]]
+    [[languages.jp.menu.main]]
         name = "/icons/about.png"
         url = "about"
         weight = 9
-    [[languages.zh.menu.main]]
+    [[languages.jp.menu.main]]
         name = "/icons/heart.png"
         url = "help"
         weight = 10
-    [languages.zh.params]
-      heading = "一种基于形而上学和苏格拉底辩证法的新科学"
-      intro = "超物理学：基于波动的科学范式"
-      sub = "所有知识可以分为三类"
+    [languages.jp.params]
+      intro = "スーパーフィジックス：波に基づく科学的パラダイム。"
+      heading = "形而上学とソクラテス的弁証法に基づく新しい科学"
+      sub = "すべての知識は3つに分類できます："
+      youtube= "cA1KH1LYxvg"
       banner = "/photos/physics/galaxy.jpg"
-      youtube = "n-bejVBOZ0k"
-    [languages.zh.params.cards.a]
-        icon = "/icons/tao.png"
-        itle = "形而上学"
-        sub = "0-50% 可复制：悖论的"
-    [languages.zh.params.cards.b]
+    [languages.jp.params.cards.a]
+      icon = "/icons/tao.png"
+      title = "形而上学"
+      sub = "0-50％再現可能：パラドックス"
+    [languages.jp.params.cards.b]
       icon = "/icons/sp.png"
-        title = "超物理学"
-        sub = "51-99% 可复制：主观的"
-    [languages.zh.params.cards.c]
-        icon = "/icons/atom.png"
-        title = "物理学 "
-        sub = "100% 可复制：客观的"
-    [languages.zh.params.tricon1]
-      heading = "灵魂的本质"
-      title = "一切都是表现为粒子的波动"
-      sub = "模拟宇宙以实际定义流动以创造现实"
+      title = "スーパーフィジックス"
+      sub = "51-99％再現可能：主観的"
+    [languages.jp.params.cards.c]
+      icon = "/icons/atom.png"
+      title = "物理学"
+      sub = "100％再現可能：客観的"
+    [languages.jp.params.tricon1]
+      title = "魂の本質"
+      heading = "すべては粒子として現れる波です。"
+      sub = "アナログ宇宙は現実を創造するためにリアル定義で流れます"
       youtube = "dc4VNkfqs1s"
       icon = "/icons/sp.png"
       link= "/superphysics/principles"
-    [languages.zh.params.tricon1.items.a]
+    [languages.jp.params.tricon1.items.a]
       url = "/superphysics/principles/chapter-01/"
       img= "/photos/physics/ai.jpg"
-      title = "我们在一个矩阵中！"
-      sub = "看看我们如何在其中存在良好"
-    [languages.zh.params.tricon1.items.b]
+      title = "私たちはマトリックスの中にいます！"
+      sub = "それでうまく存在できる方法を見てみましょう"
+    [languages.jp.params.tricon1.items.b]
       url = "/superphysics/principles/chapter-02"
       img = "/photos/idea.jpg"
-      title = "一切都是一个思想"
-      sub = "存在于头脑或矩阵之内"
-    [languages.zh.params.tricon1.items.c]
+      title = "すべてはアイデアです"
+      sub = "心の中またはマトリックスの中で"
+    [languages.jp.params.tricon1.items.c]
       url = "/superphysics/principles/chapter-04b"
       img = "/graphics/physics/math.jpg"
-      title = "一种新数学用于一种新科学"
-      sub = "其中包含相对性"
-    [languages.zh.params.tricon1.items.d]
+      title = "新しい数学による新しい科学"
+      sub = "相対性が焼きこまれています"
+    [languages.jp.params.tricon1.items.d]
       url = "/superphysics/principles/chapter-11"
       img = "/avatars/socrates.jpg"
-      title = "什么是苏格拉底辩证法？"
-      sub = "一种允许物理学和形而上学同时存在的思维范式"
-    [languages.zh.params.tricon2]
-      heading = "物质超物理学"
-      title = "物质宇宙的灵魂"
-      sub = "基于笛卡尔和古希腊、印度教和中国的五个层次"
+      title = "問題の解決のためのソクラティック弁証法。"
+      sub = "問題がありますか？解決策はすでに存在しています！"
+    [languages.jp.params.tricon2]
+      title = "素材スーパーフィジックス"
+      heading = "物理的宇宙の魂"
+      sub = "デカルトと古代ギリシャ、ヒンドゥー教、中国の5つの層に基づいています"
       youtube = "3l9J6tH4iD0"
       icon = "/icons/spmat.png"
       link= "/material/principles"
-    [languages.zh.params.tricon2.items.a]
+    [languages.jp.params.tricon2.items.a]
       url = "/material/principles/intro/chapter-01"
       img= "/graphics/physics/aetherdrag.jpg"
-      title = "# 超物理学的五个层次"
-      sub = "物质、放射性、辐射、空间和以太"
-    [languages.zh.params.tricon2.items.b]
+      title = "スーパーフィジックスの5つの層。"
+      sub = "素材、放射性、輝く、空間、そしてエーテリアル"
+    [languages.jp.params.tricon2.items.b]
       url = "/material/fallacies/general-relativity/"
       img= "/graphics/physics/general.jpg"
-      title = "广义相对论的替代方案"
-      sub = "时空的形而上学"
-    [languages.zh.params.tricon2.items.c]
+      title = "一般相対性理論の代替。"
+      sub = "時空の形而上学"
+    [languages.jp.params.tricon2.items.c]
       url= "/material/principles/part-2/chapter-02/"
       img = "/photos/physics/quasar.jpg"
-      title = "引力的弹性理论"
-      sub = "我们从开普勒和笛卡尔重新引入引力理论"
-    [languages.zh.params.tricon2.items.d]
+      title = "エーテリアル推進。"
+      sub = "私たちはケプラーとデカルトから重力理論を復活させます"
+    [languages.jp.params.tricon2.items.d]
       url = "/material/principles/part-3/chapter-02/"
       img= "/photos/physics/elec.jpg"
-      title = "电子是正的，质子是负的"
-      sub = "我们使用男性和女性来避免混淆"
-    [languages.zh.params.tricon3]
-      heading = "生物超物理学"
-      title = "生命体的灵魂"
-      sub = "基于感知能量的动力学"
+      title = "電子は陽子です。"
+      sub = "私たちは男性と女性を使って混乱を避けます"
+    [languages.jp.params.tricon3]
+      title = "バイオスーパーフィジックス。"
+      heading = "生きた実体の魂"
+      sub = "感性エネルギーのダイナミクスに基づいています"
       youtube= "Y6YKmtqJak4"
       icon = "/icons/spmed.png"
       link= "/bio/principles"
-    [languages.zh.params.tricon3.items.a]
+    [languages.jp.params.tricon3.items.a]
       url = "/bio/principles/part-04/chapter-03/"
       img= "/photos/med/cancer2.jpg"
-      title = "癌症和疾病已被非西方医学治愈。"
-      sub = "看看基于波动的替代方案取代基于粒子的西方医学。 "
-    [languages.zh.params.tricon3.items.b]
+      title = "がんや病気は西洋医学では治癒されています。"
+      sub = "粒子ベースの西洋医学に代わる波ベースの代替策を読んでください"
+    [languages.jp.params.tricon3.items.b]
       url = "/bio/principles/intro/chapter-01/"
       img= "/photos/psych/schizo.jpg"
-      title = "你有30亿个自我"
-      sub = "'你'是由不断变化的“你”波动组成的。"
-    [languages.zh.params.tricon3.items.c]
+      title = "30億の自己があります。"
+      sub = "'あなた'は 'あなた' の変わる波で構成されています"
+    [languages.jp.params.tricon3.items.c]
       url = "/bio/smith-veg/"
       img= "/avatars/smithstatue.jpg"
-      title = " 亚当·斯密是素食主义者"
-      sub = "经济学创始人更喜欢蔬菜，尤其是土豆，而不是肉类。"
-    [languages.zh.params.tricon3.items.d]
+      title = "ベジタリアンのアダム・スミス。"
+      sub = "彼は肉よりも特にジャガイモを好んだ"
+    [languages.jp.params.tricon3.items.d]
       url = "/bio/solutions/covid/"
       img= "/photos/med/covid.jpg"
-      title = "如何阻止Covid"
-      sub = "它还在！被局限在盒子里的科学无法解决它。"
-    [languages.zh.params.tricon4]
-      title = "社会的灵魂"
-      heading = "社会超物理学"
-      sub = "同情而不是自私利益"
+      title = "Covidを止める方法。"
+      sub = "NATOが2020年にCovidを止める方法を読んでください"
+    [languages.jp.params.tricon4]
+      title = "社会スーパーフィジックス。"
+      heading = "社会の魂"
+      sub = "利己的な利益ではなく共感"
       youtube = "AfByl9Mywi4"
       icon = "/icons/spsoc.png"
-    [languages.zh.params.tricon4.items.a]
+    [languages.jp.params.tricon4.items.a]
       url = "/social/supersociology/principles/part-1/chapter-01"
       img = "/photos/vanity.jpg"
-      title = "一个没有贫困"
-      sub = "不平等和危机的世界——超经济学涉及资源配置和社会经济问题"
-    [languages.zh.params.tricon4.items.b]
+      title = "エゴは社会問題の原因です。"
+      sub = "スーパーソシオロジーがそれを修正する方法を読んでください"
+    [languages.jp.params.tricon4.items.b]
       url = "/social/economics/principles/intro/chapter-03"
       img = "/photos/grains.jpg"
-      title = "自我是社会问题的原因。看看超社会学是如何修复它的。 "
-      sub = "经济变革源于集体欲望的变化。看看如何修复群体心态"
-    [languages.zh.params.tricon4.items.c]
+      title = "価値の形而上学と価値の4つの法則。"
+      sub = "スーパーエコノミクスはリソース配分と社会経済問題に対処します"
+    [languages.jp.params.tricon4.items.c]
       url = "/social/supersociology/principles/part-1/chapter-05"
       img = "/photos/medieval/hitler.jpg"
-      title = "历史重复是一种波动"
-      sub = "看看我们如何用它来预测总统选举和经济衰退等事件"
-    [languages.zh.params.tricon4.items.d]
+      title = "社会サイクルのソクラテスの法則。"
+      sub = "大統領選挙や景気後退などのイベントを予測するためにそれをどのように使用できますか？"
+    [languages.jp.params.tricon4.items.d]
       url = "/social/cycles/"
       img= "/photos/ukraine.jpg"
-        title = "社会周期预测"
-       sub = "查看我们的模型对各个国家的预测"
+      title = "社会サイクルの予測。"
+      sub = "さまざまな国々に関する当社のモデルの予測を読んでください"
+
+  [languages.ru]
+    contentDir = "content/ru"
+    weight = 10
+    languageName = "русский"
+    [[languages.ru.menu.main]]
+        name = "/icons/question.png"
+        url = "faq"
+        weight = 8
+    [[languages.ru.menu.main]]
+        name = "/icons/about.png"
+        url = "about"
+        weight = 9
+    [[languages.ru.menu.main]]
+        name = "/icons/heart.png"
+        url = "help"
+        weight = 10
+    [languages.ru.params]
+      intro = "Суперфизика: Парадигма на основе волнового подхода."
+      heading = "Новая наука, основанная на метафизике и софистической диалектике"
+      sub = "Все знания могут быть разделены на три группы:"
+      youtube= "pJDEDX7DI5Y"
+      banner = "/photos/physics/galaxy.jpg"
+    [languages.ru.params.cards.a]
+      icon = "/icons/tao.png"
+      title = "Метафизика"
+      sub = "0-50% воспроизводимость: парадоксальное"
+    [languages.ru.params.cards.b]
+      icon = "/icons/sp.png"
+      title = "Суперфизика"
+      sub = "51-99% воспроизводимость: субъективное"
+    [languages.ru.params.cards.c]
+      icon = "/icons/atom.png"
+      title = "Физика"
+      sub = "100% воспроизводимость: объективное"
+    [languages.ru.params.tricon1]
+      heading = "ПРИРОДА ДУШИ"
+      title = "Все - это волна, проявляющаяся как частица"
+      sub = "Аналоговая вселенная течет в реальном определении, чтобы создать реальность"
+      youtube = "dc4VNkfqs1s"
+      icon = "/icons/sp.png"
+      link= "/superphysics/principles"
+    [languages.ru.params.tricon1.items.a]
+      url = "/superphysics/principles/chapter-01/"
+      img= "/photos/physics/ai.jpg"
+      title = "Мы в матрице! "
+      sub = "Узнайте, как мы можем хорошо существовать в ней"
+    [languages.ru.params.tricon1.items.b]
+      url = "/superphysics/principles/chapter-02"
+      img = "/photos/idea.jpg"
+      title = "Все - это идея"
+      sub = "Внутри ума или матрицы"
+    [languages.ru.params.tricon1.items.c]
+      url = "/superphysics/principles/chapter-04b"
+      img = "/graphics/physics/math.jpg"
+      title = "Новая математика для новой науки"
+      sub = "С относительностью включенной в нее"
+    [languages.ru.params.tricon1.items.d]
+      url = "/superphysics/principles/chapter-11"
+      img = "/avatars/socrates.jpg"
+      title = "Сократическая диалектика для решения проблем"
+      sub = "У вас есть проблема? Решение уже существует!"
+    [languages.ru.params.tricon2]
+      heading = "ДУША ФИЗИЧЕСКОЙ ВСЕЛЕННОЙ"
+      title = "Материальная суперфизика"
+      sub = "Основано на Декарт и пяти слоях древних греков, индусов и китайцев"
+      youtube = "3l9J6tH4iD0"
+      icon = "/icons/spmat.png"
+      link= "/material/principles"
+    [languages.ru.params.tricon2.items.a]
+      url = "/material/principles/intro/chapter-01"
+      img= "/graphics/physics/aetherdrag.jpg"
+      title = "Пять слоев суперфизики"
+      sub = "Материальный, радиоактивный, светящийся, пространственный и эфирный"
+    [languages.ru.params.tricon2.items.b]
+      url = "/material/fallacies/general-relativity/"
+      img= "/graphics/physics/general.jpg"
+      title = "Альтернатива общей теории относительности"
+      sub = "Метафизика пространства-времени"
+    [languages.ru.params.tricon2.items.c]
+      url= "/material/principles/part-2/chapter-02/"
+      img = "/photos/physics/quasar.jpg"
+      title = "Эфирная тяга"
+      sub = "Мы возвращаем теорию гравитации от Кеплера и Декарта"
+    [languages.ru.params.tricon2.items.d]
+      url = "/material/principles/part-3/chapter-02/"
+      img= "/photos/physics/elec.jpg"
+      title = "Электроны положительные, протоны отрицательные"
+      sub = "Мы используем мужской-женский для избежания путаницы"
+    [languages.ru.params.tricon3]
+      heading = "ДУША ЖИВЫХ СУЩЕСТВ"
+      title = "Био Суперфизика"
+      sub = "Основано на динамике чувствующей энергии"
+      youtube= "Y6YKmtqJak4"
+      icon = "/icons/spmed.png"
+      link= "/bio/principles"
+    [languages.ru.params.tricon3.items.a]
+      url = "/bio/principles/part-04/chapter-03/"
+      img= "/photos/med/cancer2.jpg"
+      title = "Рак и болезни были излечены не-западной медициной"
+      sub = "Читайте волновые альтернативы частицной западной медицине"
+    [languages.ru.params.tricon3.items.b]
+      url = "/bio/principles/intro/chapter-01/"
+      img= "/photos/psych/schizo.jpg"
+      title = "У вас есть 3 миллиарда 'себя'"
+      sub = "'Ты' состоишь из изменяющейся волны 'тебя'"
+    [languages.ru.params.tricon3.items.c]
+      url = "/bio/smith-veg/"
+      img= "/avatars/smithstatue.jpg"
+      title = "Адам Смит вегетарианец"
+      sub = "Он предпочитал овощи, в частности картофель, мясу"
+    [languages.ru.params.tricon3.items.d]
+      url = "/bio/solutions/covid/"
+      img= "/photos/med/covid.jpg"
+      title = "Как остановить Ковид"
+      sub = "Читайте, как НАТО могла бы остановить Ковид еще в 2020 году"
+    [languages.ru.params.tricon4]
+      heading = "ДУША ОБЩЕСТВА"
+      title = "Социальная суперфизика"
+      sub = "Сопереживание вместо эгоистического интереса"
+      youtube = "AfByl9Mywi4"
+      icon = "/icons/spsoc.png"
+    [languages.ru.params.tricon4.items.a]
+      url = "/social/supersociology/principles/part-1/chapter-01"
+      img = "/photos/vanity.jpg"
+      title = "Эго - причина проблем в обществе"
+      sub = "Читайте, как суперсоциология может это исправить"
+    [languages.ru.params.tricon4.items.b]
+      url = "/social/economics/principles/intro/chapter-03"
+      img = "/photos/grains.jpg"
+      title = "Метафизика ценности и четыре закона ценности"
+      sub = "Суперэкономика занимается распределением ресурсов и социально-экономическими вопросами"
+    [languages.ru.params.tricon4.items.c]
+      url = "/social/supersociology/principles/part-1/chapter-05"
+      img = "/photos/medieval/hitler.jpg"
+      title = "Сократический закон социальных циклов"
+      sub = "Как мы можем использовать его для предсказания событий, таких как президентские выборы и рецессии?"
+    [languages.ru.params.tricon4.items.d]
+      url = "/social/cycles/"
+      img= "/photos/ukraine.jpg"
+      title = "Прогнозы социальных циклов"
+      sub = "Читайте прогнозы нашей модели для различных стран"
 
 [jp]
     weight          = 40
@@ -932,18 +1358,6 @@ paginate = 12
     [pt.params]
         author = "Pantrypoints Technologies"
         description = "Paradigma Científico Baseado em Ondas"
-
-
-[es]
-    weight          = 50
-    languageCode    = "es"
-    languageName    = "Spanish"
-    contentDir      = "content/es"
-    copyright       = "&copy; 2023 Pantrypoints Technologies"
-    title           = "Superfísica"
-    [es.params]
-        author = "Pantrypoints Technologies"
-        description = "Paradigma científico basado en ondas"
 
 [tl]
     weight          = 80

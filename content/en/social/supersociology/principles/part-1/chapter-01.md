@@ -78,7 +78,9 @@ We then call this merging of the minds or souls as a society. For example:
 - A company begins when the souls of the incorporators agree to be bound into a business organization
 - A sports team begins when the souls of playes agree to play together
 
-Human society began as families agreeing to work together for mutual benefit, which we call [the common interest](/social/supersociology/principles/common-interest). We can say that the common interest is the conscience of the soul of society, just as a person's own conscience represents his soul's best interest for himself. We refrain from doing a bad thing because our conscience will implant the feeling of guilt in our minds, as a natural warning about the resulting consequence or karma. 
+Human society began as families agreeing to work together for mutual benefit, which we call [the common interest](/social/supersociology/principles/part-1/chapter-03). 
+
+We can say that the common interest is the conscience of the soul of society, just as a person's own conscience represents his soul's best interest for himself. We refrain from doing a bad thing because our conscience will implant the feeling of guilt in our minds, as a natural warning about the resulting consequence or karma. 
 
 Societies then agree and merge with other societies to form nations, which can merge to form confederations, which can finally form a global human society. Social Superphysics aims to form such a unified society by explaining the properties of the soul, as explained by Socrates, David Hume, Hinduism, Buddhism, and Taoism. 
 
@@ -106,24 +108,20 @@ The flexibility of the soul (or malleability of the mind) is the main quality th
 
 This confinement builds ego, which is the feeling for the self. When left unchecked, this ego leads to disagreements, disunity, and eventual conflict. The more democratic the society, the more difficult it is to maintain unity:
 
-{{< q a="smith" >}}
+{{< q a="Smith" c="The Simple Wealth of Nations Book 5, Chapter 3" >}}
 Rancorous and virulent factions which are inseparable from small democracies. Those factions have so frequently divided their people and disturbed the peace of their democratic governments. 
-<cite>The Simple Wealth of Nations Book 5, Chapter 3</cite>
 {{< /q >}}
 
-{{< q a="Socrates" >}}
+{{< q a="Socrates" c="The Simple Republic by Plato, Book 10" >}}
 Are you not aware that the soul of man is immortal and imperishable? ..But reason will not allow us to believe this. It will not let us believe that the soul, in its truest nature, is full of variety, difference, and dissimilarity. 
-<cite>The Simple Republic by Plato, Book 10</cite>
 {{< /q >}}
 
-{{< q a="Socrates" >}}
+{{< q a="Socrates" c="The Simple Republic by Plato, Book 9" >}}
 When the whole soul follows the philosophical principle and there is no division, the several parts are just. 
-<cite>The Simple Republic by Plato, Book 9</cite>
 {{< /q >}}
 
-{{< q a="Socrates" >}}
+{{< q a="Socrates" c="The Republic by Plato Simplified, Book 4">}}
 There is something ridiculous in the expression 'master of himself' because the master is also the servant and the servant is the master since the same person is denoted. It really means that in the human soul there is a better and a worse principle. When the better has the worse under control, then a man the master of himself. When due to evil education or association, the better principle is overwhelmed by the worse principle, then the man is blamed and is called "unprincipled" or the slave of the self. 
-<cite>The Simple Republic by Plato, Book 4</cite>
 {{< /q >}}
 
 
@@ -149,9 +147,8 @@ It would be easier to prevent the growth of ego by pointing out that no one is p
 
 > Here, the common interest spreading useful apps 
 
-{{< q a="Socrates" >}}
-Then in our city, the language of harmony and concord will be more often heard than in any other. <!-- When anyone is well or ill, the universal word will be 'with me it is well' or 'it is ill.' --> They will have their pleasures and pains in common. They will have a common interest in the same thing which they will alike call 'my own'. Having this common interest, they will have a common feeling of pleasure and pain. The is because the guardians will have a community of women and children. We called this unity of feeling as the greatest good.
-<cite>The Simple Republic by Plato, Book 5, Chapter 2</cite>
+{{< q a="Socrates" c="The Republic by Plato Simplified, Book 5, Chapter 2">}}
+Then in our city, the language of harmony and concord will be more often heard than in any other. They will have their pleasures and pains in common. They will have a common interest in the same thing which they will alike call 'my own'. Having this common interest, they will have a common feeling of pleasure and pain. The is because the guardians will have a community of women and children. We called this unity of feeling as the greatest good.
 {{< /q >}}
 
 Thus, the key to common interest is to group everyone according to ideas that would interest them. This would let them gravitate to it and hopefully lower their egos in order to explore that idea further. 
