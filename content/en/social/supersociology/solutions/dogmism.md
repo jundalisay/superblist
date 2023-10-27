@@ -2,7 +2,7 @@
 title: "Dogmism: Breaking the Cycle of Extremism"
 heading: "Separating the idea from the person"
 date: 2021-09-12 
-image: "/countries/af/taliban.jpg"
+image: "/photos/psych/war.jpg"
 description: "We propose dogmism to break the Cycle of Extremism"
 contributors: ['Juan']
 icon: /icons/spss.png
@@ -11,28 +11,39 @@ icon: /icons/spss.png
 
 Islamic terrorism became known worldwide because of the 9/11 attacks, which overshadowed previous attacks from the 1970’s. Since then, terrorism has been unfortunately and unfairly connected to Islam. 
 
-![Taliban](/countries/af/taliban.jpg)
+![War](/photos/psych/war.jpg)
 
 
-This connection is easily brought back up to mind and conversation whenever a terrorist attack occurs, whether it was rooted in Islam or not. Whenever a terrorist attack occurs, the common expectation nowadays is for it to be caused by a disgruntled Muslim. Whenever it is proven to be caused by a Muslim, then anti-Islam sentiments rise and Muslims take a defensive stance. Proper Muslims expectedly denounce the attack and say that it was un-Islamic. But by then, the connection between Islam and terrorism would have really formed in the public’s mind. 
+This connection is easily brought back up to mind and conversation whenever a terrorist attack occurs, whether it was rooted in Islam or not. Whenever a terrorist attack occurs, the common expectation nowadays is for it to be caused by a disgruntled Muslim. 
 
-This in turn causes the public to be anti-Islamic which then creates more disgruntled Muslims who can get easily radicalized, creating more terrorists. The cycle is created and strengthened. We can call this 'the cycle of extremism'.
+Whenever it is proven to be caused by a Muslim, anti-Islam sentiments rise.  Muslims then take a defensive stance. 
+
+Proper Muslims expectedly denounce the attack and say that it was un-Islamic. But by then, the connection between Islam and terrorism would have really formed in the public’s mind. 
+
+This in turn causes the public to be anti-Islamic. This creates more disgruntled Muslims who can get easily radicalized, creating more terrorists. 
+
+The cycle is thus created and strengthened. We can call this 'the cycle of extremism'.
 
 
 
 ## The Cause: Connecting ideas to other ideas, which are just remotely connected
 
-Since it is obvious that terrorist attacks are un-Islamic and anti-society, referring to such terrorists as ‘Islamic’ terrorists is a misnomer. It ultimately would be a fallacy since even terrorist groups are mini-societies themselves. It would be like calling a bacteria that killed other bacteria as an 'anti-bacteria bacteria'. Instead, we call it as an 'antibiotic'. 
+Since it is obvious that terrorist attacks are un-Islamic and anti-society, referring to such terrorists as ‘Islamic’ terrorists is a misnomer. It ultimately would be a fallacy since even terrorist groups are mini-societies themselves. 
 
-Terrorist attacks are based on a blind belief propagated by the founders of those terrorist societies. For example, Osama Bin Laden propounded a wrong and blind belief that terrorist attacks would drive Americans out of the Middle East. But in reality, it caused the Americans to flock into Iraq and Afghanistan as soldiers from 2003. It even caused his own death in 2011 through a US Navy Seal attack. 
+It would be like calling a bacteria that killed other bacteria as an 'anti-bacteria bacteria'. Instead, we call it as an 'antibiotic'. 
 
-In the end, Bin Laden’s belief left everyone — himself, his friends and foes, Muslims and Americans alike — worse off.  Clearly, if Bin Laden knew his own interest and could either look deeply into the root causes of his anger or have foresight of its consequences, then his mind would’ve never created such a belief in the first place. If he could connect his idea of smashing airplanes onto tall buildings with the idea of US revenge that would hurt both himself and Islam, then he would not have done what he did. 
+Terrorist attacks are based on a blind belief propagated by the founders of those terrorist societies. 
+
+For example, Osama Bin Laden propounded a wrong and blind belief that terrorist attacks would drive Americans out of the Middle East. But in reality, it caused the Americans to flock into Iraq and Afghanistan as soldiers from 2003. It even caused his own death in 2011 through a US Navy Seal attack. 
+
+In the end, Bin Laden’s belief left everyone — himself, his friends and foes, Muslims and Americans alike — worse off.  Clearly, if Bin Laden knew his own interest and could either look deeply into the root causes of his anger or have foresight of its consequences, then his mind would’ve never created such a belief in the first place. 
+
+If he could connect his idea of smashing airplanes onto tall buildings with the idea of US revenge that would hurt both himself and Islam, then he would not have done what he did. 
 
 David Hume knew that most humans have a weak ability to connect effect with ultimate causes and causes with their long-term effects.
 
-{{< q a="hume" >}}
+{{< q a="Hume" c="Simplified Essays by David Hume, Commerce" >}}
 Shallow thinkers tend to decry even those of solid understanding, abstruse thinkers, metaphysicians, and refiners. They call anything that is beyond their own weak conceptions as unjust.
-<cite>Essay 2: Commerce, Simplified Essays by David Hume</cite>
 {{< /q >}}
 
 

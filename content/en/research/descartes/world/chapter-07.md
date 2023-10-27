@@ -4,7 +4,7 @@ title: "The Three Rules of Nature of the Aethereal Universe"
 weight: 16
 image: "/covers/world.jpg"
 description: "How could Nature untangle the confusion of the chaos after creation? What are the laws of nature that God has imposed on her?"
-author: Rene Descartes
+contributors: ['Rene Descartes']
 icon: "/icons/descartes.png"
 ---
 
@@ -119,8 +119,6 @@ But, even if all that our senses have ever experienced in the true world seemed 
 
 <!-- But, even if all that our senses have ever experienced in the true world seemed manifestly contrary to what is contained in these two rules, the reasoning that has taught them to me seems to me so strong that I would not cease to believe myself obliged to suppose them in the aethereal world.  -->
 
-<!-- For what more firm and solid foundation could one find to establish a truth (even if one wanted to choose it at will) than to take the very firmity and immutability that is in God?[36] -->
-
 Those two rules follow from this alone= God is immutable, acting always in the same way, always producing the same effect. 
 
 He placed a certain quantity of motions in all matter in general when He first created it. One must either avow that He always conserves as many of them there or not believe that He always acts in the same way. 
@@ -222,5 +220,3 @@ I cannot give evidence of all these assertions. But these open a path for you to
 <!-- Nonetheless, in consequence of this, I do not promise you to set out here exact demonstrations of all the things I will say. It will be enough for me to open to you the path by which you will be able to find them yourselves, whenever you take the trouble to look for them.  -->
 
 Most minds lose interest when one makes things too easy for them. This is why I must employ both shadow and bright colors. 
-<!-- Thus I will be content to pursue the description I have begun, as if having no other design than to tell you a fable. -->
-

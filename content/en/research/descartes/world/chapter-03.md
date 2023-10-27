@@ -5,7 +5,7 @@ weight: 8
 contributors: ['Descartes']
 image: "/covers/world.jpg"
 description: "There is an infinity of diverse motions that endure perpetually in the world"
-author: Rene Descartes
+contributors: ['Rene Descartes']
 icon: "/icons/descartes.png"
 ---
 

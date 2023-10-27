@@ -6,16 +6,12 @@ title: The Aether and Gravitational Lensing
 weight: 32
 image: /graphics/physics/aetherspace.jpg
 description: "Solar systems can be rather unequal in size. But they must always be exactly of the same force."
-author: Rene Descartes
+contributors: ['Rene Descartes']
 icon: "/icons/descartes.png"
 ---
 
 
 How do the inhabitants of the aethereal Earth see their heaven as wholly like we physical Earthlings see our sky? 
-
-<!-- that of ours? -->
-
-<!-- the inhabitants of Earth  -->
 
 First, they see the `sun`  as completely full of light and like our sun, given that it sends rays from all points of its surface toward their eyes. Because it is much closer to them than the stars, it must appear much larger to them. 
 
@@ -153,18 +149,14 @@ The rays of the sun, however, conserve their force with distance.
 
 <!-- The same thing also happens in the real world. I do not believe, however, that it is possible to give a reason for it if one supposes that light is anything in the objects other than an action or disposition such as I have set forth.  -->
 
-<!-- I say an ; for, if you have attended well to what I have just demonstrated, to wit, that,  -->
-
 Light is an action or disposition.
 
 If the space where the sun is were totally void, then the parts of its heaven would continuously tend toward our eyes in the same way as when those parts are pushed by its matter (even with almost as much force).
 
 
- <!-- , you can well judge that --> there is just about no need to have any action in the sun itself nor just about even for it to be anything other than pure space in order to appear as we see it. 
+There is just about no need to have any action in the sun itself nor just about even for it to be anything other than pure space in order to appear as we see it. 
 
 This might seem paradoxical. 
 
 The rotation of the planets makes them twinkle, but much weaker and in another way than the fixed stars do.
 - The moon does not rotate and so it does not twinkle.
-
-
