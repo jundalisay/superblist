@@ -1,255 +1,85 @@
 ---
-heading: "Chapter 8"
-title: "The Economic Table"
-# date: 2022-03-27
-# date: 2021-12-20
-date: 2018-06-03
-weight: 42
-image: /graphics/econ/table.jpg
-description: "Quantitative easing failed because of 2 mistakes of the banking system. Those mistakes are caused by the profit maximization doctrine of Neoclassical economics"
-author: Dalisay
-aliases: 
-  /social/economics/principles/interest
+heading: Chapter 8
+title: "The Modern Economic Table"
+date: 2021-06-26
+image: "/graphics/econ/table.jpg"
+description: "The Modern Economic Table is our main tool to determine the real price of things"
+contributors: ['Juan']
+weight: 41
+icon: /icons/pantry.png
+aliases:
+  /social/economics/solutions/modern-economic-table
 ---
 
-In the earlier chapters, we explained that the flaws in money:
-- it becomes a single point of failure when money stops circulating
-- it only shows quantitative information and has no qualitative information 
 
-We solved the shortcomings of money by introducing points-based points which allow trade or donations in kind without needing immediate bilateral exchange. 
+The Modern Economic Table is a flowchart invented by Francois Quesnay of the Physiocrats in the 18th century. 
 
-<!-- The Modern Economic Table is  -->
+They say that it serves as data-driven proof of how real wealth is generated from agriculture and mining instead of from manufacturing and services which merely add value.
 
+![Economic table](https://ik.imagekit.io/sora/charts/economictable_wNstQSmMc.jpg)
 
-## Interest Rates and the GR Model
+Of course, this is not totally true. It is true that raw materials and agriculture create value from scratch, as coming from Mother Nature. But the value added by manufacturing and services might just be as valuable, or even more valuable than the initial value created from Nature. In Supereconomics, we call it Value-adding Effort. 
 
-Quantitative easing failed because of 2 mistakes of the banking system. Those mistakes are caused by the profit maximization doctrine of Neoclassical economics. 
+An easy proof is Singapore which has zero agriculture and extractive industries, yet is very wealthy because of its commerce and manufacturing. This is also mostly true for Japan and South Korea. 
 
-Here, we explain that such a doctrine also explains why interest rates are currently important, when they were not so important in Classical Economics. This is proven in the reasoning of John Maynard Keynes, one of the pillars of modern economics:
+But since those countries would be nothing without those foreign imports, then we can say that the Physiocrats are correct in a broad, general sense.
 
-1. Life is determined by resources
-2. Resources are determined by work and employment
-3. Employment is determined by investment
-4. {{< c c="red" >}}Investment is determined by the interest rate{{< /c >}}
-5. {{< c c="red" >}}Interest rate is determined by liquidity preference{{< /c >}}
-6. Liquidity preference is determined by transactional motive and speculative motive
-7. These motives are determined by expectation
-8. Government policy on interest and public spending can affect this expectation and make people spend money in order to make an economy rise from the crash
+{{< me date="July 2022" >}}
+The inflation in Singapore from the global food crisis is proof that a zero-agriculture policy is not so sustainable
+{{< /me >}}
 
 
-To support this logic, he created the [marginal efficiency of capital curve](https://www.investopedia.com/terms/i/islmmodel.asp) which is the ratio between an investment's cost and its future revenue. The investment's cost is then determined by the interest rate. 
+## The Physiocrats vs Modern Economics
 
+The Physiocrats' Economic Table advocates the mechanization of agriculture and extraction in order to maximize the raw material output which is the basis for further processing and manufacturing.
 
-{{< img src="https://sorasystem.sirv.com/charts/is.jpg" alt="IS Curve" cap="Keynes treats money as wealth and so investments become objects that follow the demand curve" >}}
-
-In the classical system, however, entrepreneurs and investors won't be too fussy about this and would focus instead on getting that investment up and running ahead of the other guy. 
-
-
-
-_ | Classical Economics | Neoclassical Economics
---- | --- | ---
-Motive | Production | Profit Maximization
-Important people | entrepreneurs and industrialists | banks and financers
-
-
-**The problem with the Neoclassical System is that finance is actually** [unproductive labor](/social/economics/principles/6-efforts)! Banks and financiers do not create goods or commodities, they merely circulate the fund for the use of workers and producers. The former are naturally far less important than the latter. This is opposite of the current system where bankers control the world economy. 
-
-<!-- are useless in producing wealth just as the Roman legions were useless in producing crops that the Romans had to get from Egypt. --> 
-
-
-## The Mistakes of Keynes
-
-The influence of profit and money makes its way in Keynes' definition of interest rate as **the reward for letting go of cash**:
-
-{{< q a="keynes" >}}
-The rate of interest at any time is the reward for parting with liquidity.. It is the “price” which equilibrates the desire to hold wealth as cash..
-<cite>The General Theory of the Rate of Interest</cite>
-{{< /q >}}
-
-This leads to his mistake in asserting that interest rates can never be negative:
-
-{{< q a="keynes" >}}
-But the rate of interest is never negative. 
-<cite>Chapter 13. The General Theory of the Rate of Interest</cite>
+{{< q a="quesnay" >}}
+We do not mean the small-scale cultivation carried on with oxen. This ungrateful cultivation reveals the poverty and ruin of the Nations where it prevails. It has nothing to do with the order of the Table.
 {{< /q >}}
 
 
+- While Economics supports the cause of merchants and money, the Physiocrats supported the cause of farmers and food. 
+- While Economics advocates liberalism so that money can circulate freely, Physiocracy, along with Smith, advocates the regulation of money-arbitrage which we call [secondary arbitrage](/social/economics/principles/part-3/chapter-04).
 
-The existence of negative interest rates is proof that Keynes is wrong and therefore his defintion is wrong. 
+<!-- By using, the social cycles of Socrates, we can classify the modern economists as part of the oligarch class, and the Physiocrats as the democrat class. Adam Smith would be the aristocratic class of philosophers, while Communism would be the tyranny class which started out as the democrat class.
+ -->
 
-According to Adam Smith, **interest is the revenue from lending something to someone**. 
-- If I lend you my pen with half an amount of ink and you return it with zero ink, then I would have lost utility in lending it to you. This would make me stop lending pens 
-- If you give it back with full ink, then I would have gained 100% utility from lending it to you. This would then encourge me to lend you pens in the future
+{{< q a="quesnay" >}}
+Maxim 7 Complete Circulation: Let the sum total of the revenues be annually returned into and along the entire course of circulation; let no money fortunes be accumulated
+Maxim 10 Revenue Expended in the Country: Let none of the revenue pass into the home of the stranger without return either in money or merchandise.
 
-From here, we can create our real-world interest rates:
-
-
-Interest rate | {{< c c="darkcyan" >}}100%{{< /c >}} | 0-10% | {{< c c="red" >}}-100%{{< /c >}}
---- | --- | --- | ---
-Loan Terms | You can borrow my half-ink pen. But return it with full ink | You can borrow it, but must return it with the same 50% ink or a bit more | You can return the pen with no ink
-Effect | No one would borrow the pen. They would instead buy their own | This is normal and fair | This is unfair to the lender, but happens sometimes.
-
-As you can see, the negative interest rates for pens and even negative pen prices are possible. This is matched by the negative interest rates of money and the negative prices of oil -- things that were thought impossible in the past.   
-
-
-![Ink as Interest Rates](https://sorasystem.sirv.com/photos/pen.jpg)
-
-From the lender's perspective, the interest rate is merely the cost of lending. But from society's perspective, the interest indicates three things:
-
-
-Indicator | Explanation
---- | ---
-1 - The demand for pens | The fact that interest rates were formalized means that the pen-lending has become regular
-2 - The credit-worthiness (quality) and use-volume (quantity) of the pen-users | From the lender's perspective, the existence of a lot scammer pen-borrowers will prompt him to charge a high interest on his ink in order to reduce the demand, and let the revenue make up for the ink lost to scammers. In the absence of scammers, a high interest rate means that there is too much demand for pen-borrowing which then shows a lot of pen-activity. The high rate discourages the non-serious demand for pens.
-3 - The availability of pen-lenders | From the borrower's pespective, a high interest rate shows that the pen-owner can charge whatever he wants. In this sense, it is a sign of having too few pen-lenders.
-
-
-We can then substitute money for pens, so that a high interest rate for money could indicate:
-
-
-
-Indicator | Explanation
---- | ---
-A high demand for money | A rapid economy will need more money and therefore increase interest rates.
-Low credit-worthiness (quality) of borrowers | The high demand increases the number of borrowers and decreases their overall quality. This naturally leads to bust.
-Few banks or banks that are too consolidated | Generally, the competition between banks will reduce the interest rate.
-
-
-{{< q a="smith" >}}
-A loan is usually done in money. But this is immediately turned into stock, and thus it is the quantity of stock that enables you to make more loans. <i>The rate of interest is entirely regulated by this circumstance.</i> If there were so many borrowers but only a few lenders then interest would be high. But if the amount of stock on hand were so great as to enable many to lend, then it would fall proportionably.
-<cite>Lectures on Jurisprudence, Part 2, Section 2, Chapter 14</cite>
+Maxim 24 Balance of Money in Trade is Illusory: Let no one be deceived by an apparent advantage in reciprocal commerce with foreign countries, which is simply a balance received in money, without examining and comparing the profits that result from the merchandise one has sold and the merchandise which has been bought.
 {{< /q >}}
 
 
+## Our Modern Economic Table is an Online Ledger
 
-## GR Model: Is Society Credit-worthy or Speculative?
+<!-- Leads to Real Prices and Fair (Non-commercial) Taxation -->
 
-From the nature of lending and interest in society, we can expand Keynes' IS curve below to have an upward slope which we call the GR model where G stands for economic growth and R is the interest rate:
+This regulation is done through the Economic Table which lists the chain of transactions that are involved in turning a raw material into a finished product which then manifests as wealth. The chain shows the increase in the market value and the natural price of a commodity as it is processed subsequently by [human effort](/social/economics/principles/effort-theory-of-value). 
 
+We then implement this transaction system as a ledger of points-transactions.
 
-{{< img src="ttps://sorasystem.sirv.com/charts/gr.png" alt="GR model as GDP-Interest rates curve" cap="According to classical economics, interest is revenue in lending. This means it can rise and fall, different from Keynes' IS curve which only falls at more investments" >}}
-
-- In a poor society, the lender's risk is in the poor borrowers not being able to use the money productively. But if they do and the lending succeeds, then the revenue generated can increase the productivity of the poor society by a lot
-- In a wealthy sociey however, the lender's risk is in having too many rich borrowers trying to use money even if productivity has been maxed out. Their failure to use the money properly thencreates the usual bust after every boom
-
-From this U-shaped curve, we have a bigger perspective which we can base our definition of interest rates on:
-
-{{< q a="tao" >}}
-The interest rate is the revenue in lending that is determined by the demand and credit-worthiness of the borrowers and the availability of the lenders.
-{{< /q >}}
-
-Having clear defintions is important because our goal is to automate the economy to prevent poverty and inequality.
-
-- Demand: Resource-demand of the borrowers
-- Credit-worthiness of the borrowers: the productive use of whatever is lent, as to be able to return it
-- Availability of lenders: the savings or pool of resources
+![Table](/graphics/econ/table.jpg)
 
 
-## The Effect of Keynes' Mistake
+In this way, the ledger can show the **real price** of products, commodities, and services relative to grain. This will then relativistically reveal which companies and industries are generating the most wealth for the least expense. 
 
-Keynes' biggest error is that his definition **does not include credit worthiness**.
+Modern Economics has no concept of real or natural price because it is grounded on money, which wipes out the relativity of real prices in order to create arbitrage and profit maximization. This then explains why economic systems are unstable and have systemic risk.
 
-This causes central banks to pump money into [commercial banks](https://www.thebalance.com/who-owns-the-u-s-national-debt-3306124)* without bothering to know whether there are credit-worthy people to receive that money in the first place. This uncertainty prevents the money from actually going into employment, wages, and inclusive growth. 
+Supereconomics uses the ledger-based comparison of subjective market price (effect) to its objective natural price (cause) to achieve 2 goals:
 
-All it does is to increase government debt as it floods banks with money that finds no use and merely goes around to increase asset prices. It would be like a factory churning out wholesale products that never reach the end consumers. Instead, those products flood the warehouses for the benefit of the warehousing industry. **The factory is the central bank, while the warehousing industry is the financial industry.**
-<!-- The consumers then ask the factory where the products are  -->
+1. A points-based taxation system which can check inflation and inequality at its root. 
 
-The idea of profit maximization then is like a gigantic money-bag that stores all the fiat from monetary easing that cannot find high profits in the real world.  The mergers and acquisitions in the '90s made this finance-bag even bigger. It no longer becomes interested in funding small profit opportunities and instead just goes for financing big deals. This giant finance-bag* then matches the giant crises and the giant debt-bag of governments that really must be paid by the people.
+When done online and with machine learning, this can lead to granular adjustments of tax rates for every kind of commodity. In this way, public revenue is increased without stifling economic activity. 
 
-> *The Nixon Shock created fiat which then gave power to commercial banking and then to development and investment banking, which are merely two sides of the same wealth-coin. This explains why they were very dominant from the '70s to the late '90s until their demise in the 1997 Asian Crisis and 2008 Financial Crisis.
+Taxation can also be used more quickly to respond to sudden events like natural disasters in order to drive donations and rebuild capital faster. It can also be used to stifle harmful activities like deforestation or pollution. 
 
-
-The robustness of our definition makes it applicable even to non-monetary items:
-
-- The interest rate in car-lending is therevenue in lending cars that is determined by the demand and credit-worthiness of the car-borrowers and the availability of the car-lenders. (In this way, the interest of car-lending can be paid for in spare parts, gasoline, upgrades, or the usual cash)
-
-We can then implement the GR model by using GDP as G so that we can determine whether the lenders or the borrowers have more economic power in a society. A downward sloping line would mean more power to the lenders, while an upward sloping one means the borrowers have more power.
-
-![GDP](https://sorasystem.sirv.com/charts/gdp-ints2.jpg)
+This would make taxation much more convenient since it is imposed automatically. There would be no more need for filing income taxes because the tax due is computed automatically with each commercial transaction or barter exchange
 
 
-This chart shows that in the US, Brazil, Philippines, and Zimbabwe, the banks, both public and private, have more power. This is proven by:
-- The 2008 Financial Crisis caused by US banks
-- The huge debt of Brazil and the Philippines caused by [their governments spending to drive growth](http://2040.neda.gov.ph/2017/03/06/yes-fiscal-spending-is-a-key-component-of-economic-growth/)
-- Zimbabwe's hyperinflation caused by the dictator Mugabe
+2. A way to show in real-time which goods and products have overinvestments and which have underinvestments. 
 
-The situation is slightly different for Singapore and China where there is more balance. However, the case of Japan and Thailand shows a dominance of borrowers and is proven by two phenomena:
-- The 1997 Asian Financial Crisis and the prevalence of hot money in Thailand
-- Japan's Lost Decade began with its asset price bubble in 1991, signifying strength in borrowing. This matches our own conclusion that the cause of the failure of Abenomics  is in corporate Japan* [having too much strength over their banks](/social/cycles/japan). 
+This then would allow an Investment Fund to adjust its rate of return in order to pump up underinvestments and reduce overinvestment.
 
-<!-- > *This is why our solution, as EF Schumacher's Pool Clearing, can be established in Japan after the coming financial crisis resulting from Covid debts -->
-
-Thus, **a financial crisis can be caused by either the lenders or the borrowers**. We cannot say that lending should be done by the government or by too-big-to-fail banks, nor can we say that banks should always make borrowers happy by liberalizing lending and flooding them with cheap money. 
-
-
-
-{{< img src="https://sorasystem.sirv.com/charts/fed1920.jpg" alt="Interest rates" cap="Interest rates rise just before a crash because of the high demand for money" >}}
-
-
-Since the GR model uses historical data, we can use it, in theory, to predict what interest rates are needed to create a certain GDP level. In the example below, it predicts that an interest of around 4.2% will lead to a 2% growth. In reality, the rate was 3.25% leading to a growth of 2.5%. Of course, this can be refined with more data.
-
-![GDP US](https://sorasystem.sirv.com/charts/gdp-us.png)
-
-
-## Dialectical Forensic Analysis: The Love of Money Leading to the Dominance of Profit-Earners
-
-Why did Keynes specify cash instead of money in his definition of interest rates? 
-
-This is because the boom of the 1920s was itself caused by the liquidity afforded by paper-based bank notes coming from the establishment of the Federal Reserve. Once a mind has experienced pleasures, it does not want to part with them. 
-
-The pleasurable boom was caused by cash and so it became Keynes' interest to enshrine cash and denounce gold, which is obviously harder to circulate than paper. But this difficulty in circulation is exactly what gives gold its stability.
-
-{{< q a="keynes" >}}
-If we restore the gold standard, are we to return also to the pre-war conceptions of bank-rate.. or allow.. the depletion [of our gold reserves]? In truth, the gold standard is already a barbarous relic.
-<cite>A Tract on Monetary Reform</cite>
-{{< /q >}}
-
-
-{{< img src="https://sorasystem.sirv.com/graphics/paper.jpg" cap="Thomas Mun enshrined the idea that money is wealth in 1664. In 1936, Keynes likewise enshrined the idea that paper is money and therefore cash is wealth" alt="John Maynard Keynes saying Paper is Money" >}}
-
-
-Keynes falls hook, line, and sinker for the mercantilist doctrine that money is wealth: 
-
-{{< q a="smith" >}}
-Money..frequently signifies wealth, and this ambiguity of expression has rendered this popular notion so familiar to us that even they who are convinced of its absurdity are very apt to.. take it for granted as an.. undeniable truth. Some of the best English writers upon commerce set out with observing that the wealth of a country consists, not in its gold and silver only, but in its lands, houses, and consumable goods.. 
-
-In the course of their reasonings, however, the lands, houses, and consumable goods seem to slip out of their memory, and.. their argument frequently supposes that all wealth consists in gold and silver, and that to multiply those metals is the great object of national industry and commerce.
-<cite>Wealth of Nations Book 4, Chapter 1.34</cite>
-{{< /q >}}
-
-
-The love of money causes the marginalists to teach the doctrine of profit maximization to all, eventually leading to the 1929 Crash. They then blame Classical Economics for the problem created by Marginalism, which they propose to solve by pumping even more money to feed the animal spirits of speculators, investors, and businessmen who are already programmed to do profit maximization.
-
-1. Open market operations and negative interest rates (QE) fill the financial industry with money 
-2. "Deficit spending" and "bailouts" by governments fill corporations with money in the hopes for a "multiplier effect"
-
-These two solutions benefit banks and corporations at the cost of public debt which must be paid by income taxes and sales taxes from wage earners. These solve stagnation and recession by energizing the former and dragging the latter to go with them. This is similar to a Roman empire slave master driving growth by driving his slaves to work more. 
-
-![Wage gap](https://sorasystem.sirv.com/charts/wagegap.jpg)
-
-This inequality manifests as: 
-
-1. The gigantic growth of financial assets via wholesale money to enrich the financial industry. This causes:
-
-- huge debts that lead to deficient government services and political instability:  
-  - the Communist revolution in South America in the 60s-70s was caused by the Latin american debt crisis
-  - the Asian Crisis of 1997 caused the instability in Asia
-  - the 2008 Financial Crisis caused the Eurozone Crisis and Arab Spring 
-- price inflation of assets such as stocks and real estate that further fuels inequality
-
-2. The sucking of productivity from the working class through the 2% inflation target to enrich the investors and corporations via retail money. This causes:
-    - the productivity-wage gap
-    - bullshit jobs
-    - the need for two or more jobs to meet inflation
-    - reduced competitiveness of the economy
-
-
-## The Solutions
-
-Because Marginalism created two problems, one for wholesale money and another for retail money, Superphysics as Classical Economics also has two solutions:
-
-1. A modified version of [Pool Clearing from EF Schumacher](/research/schumacher/pool-clearing) which uses Clearing Funds to replace the finance-moneybag. The money in Clearing Funds go directly to manufacturers, producers, and service providers. Its interest rates are determined by the GR model
-
-2. Zero inflation target through a tri-media system of exchange using fiat, barter (as economic social contracts), and points (as basic universal revenue). This includes replacing the profit maximization of Marginalism with the [Effort Theory of Value](/social/economics/principles/effort-theory-of-value)
-
-The original credit-worthiness problem in Classical Economics will be addressed by a prediction system that uses machine learning system called [ISAIAH](/superphysics/solutions/isaiah). This is already done by fintech companies that use AI to predict credit scores. Our innovation will be to extend it to everyone through a points-based system.
+As you can see, Superphysics has a lot of tools to grow an economy while preventing monopoly, inequality, and poverty that is simply unthinkable in Economics. The next post will explain the last tool, which is the DCTI.

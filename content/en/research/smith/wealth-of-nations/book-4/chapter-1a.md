@@ -106,7 +106,7 @@ But when it imported more value than it exported, a contrary balance was due to 
 {{< /q >}}
 
 
-{{< quote >}}
+{{< q >}}
 The export prohibition on goods would only make exportation more dangerous and expensive. A prohibition on gold and silver exports would make the balance still worse.
 
 The merchant who bought a bill on the foreign country obliged to pay the banker who sold it for= 

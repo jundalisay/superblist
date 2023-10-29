@@ -55,9 +55,9 @@ Lewis 13th being desirous to sit in judgement upon the trial of the duke ae la V
 
 The president de Believre was ordered by the king to give their opinion on the warrant for his arrest. He said:
 
-{{< quote >}}
+{{< q >}}
 <p>He found it very strange that a prince should pass sentence on a subject, that kings had reserved to themselves the power of pardoning, and left that of condemning to their officers, that his majesty wanted to see before him at the bar a person, who, by his decision, was to be hurried away into the other world, that the prince’s countenance should inspire with hopes, and not confound with fears= that his presence alone removed ecclesiastic censures= and that subjects ought not to go away dissatisfied from the sovereign.</p>
-{{< /quote >}}
+{{< /q >}}
 
 When sentence was passed, the same magistrate declared, “This is an unprecedented judgement; to see, contrary to the example of past ages, a king of France, in the quality of a judge, condemning a gentleman to death‡.”
 
@@ -65,24 +65,24 @@ Again, sentences passed by the prince would be an inexhaustible source of injust
 
 Tacitus says:
 
-{{< quote >}}
+{{< q >}}
 Claudius, having appropriated to himself the determination of law suits and the function of magistrates, gave occasion to all manner of rapine.” 
-{{< /quote >}}
+{{< /q >}}
 
 Nero succeeded Claudius and tried to conciliate the people by declaring that he would take care not to be judge himself in private causes, that the parties might not be exposed, within the walls of a palace, to the iniquitous influence of a few freedmen.
 
 Zozimus says:
 
-{{< quote >}}
-<p>Under the reign of Arcadius, a swarm of calumniators spread themselves on every side, and infected the court. Upon a person’s decease, it was immediately supposed he had left no children and, in consequence of this, his property was given away by a recript. For, as the prince was surprizingly stupid, and the empress excessively enterprizing, she was a slave to the insatiable avarice of her domestics and confidents; insomuch, that, to an honest man, nothing could be more desirable than death.</p>
-{{< /quote >}}
+{{< q >}}
+Under the reign of Arcadius, a swarm of calumniators spread themselves on every side, and infected the court. Upon a person’s decease, it was immediately supposed he had left no children and, in consequence of this, his property was given away by a recript. For, as the prince was surprizingly stupid, and the empress excessively enterprizing, she was a slave to the insatiable avarice of her domestics and confidents; insomuch, that, to an honest man, nothing could be more desirable than death.
+{{< /q >}}
 
 
 Procopius says:
 
-{{< quote >}}
-<p>There used to be very few people at court; but, in Justinian’s reign, as the judges had no longer the liberty of administering justice, their tribunals were deserted, while the prince’s palace resounded with the litigious clamours of the several parties.</p>
-{{< /quote >}}
+{{< q >}}
+There used to be very few people at court; but, in Justinian’s reign, as the judges had no longer the liberty of administering justice, their tribunals were deserted, while the prince’s palace resounded with the litigious clamours of the several parties.
+{{< /q >}}
 
 Everybody knows what a prostitution there was of public judgements, and even of the very laws themselves, at the emperor’s court.
 

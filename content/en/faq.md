@@ -16,13 +16,12 @@ What is Superphysics?
 Superphysics is the merging of Science and Metaphysics without going into the details of either. This acts as a bridge between ancient metaphysics and modern science, as explained by Francis Bacon.
 {{< /l >}}
 
-{{< q a="Bacon" >}}
+{{< q a="Francis-Bacon" c="The Proficience And Advancement Of Learning Simplified, Book 2 Part 7" >}}
 Natural science or theory is divided into physic and metaphysic.
-<li>Physic should contemplate that which is inherent in matter, and therefore transitory.</li>
-<li>Metaphysic should contemplate that which is abstracted and fixed.</li>
-<li>Physic should handle that which supposeth in nature only a being and moving.</li>
-<li>Metaphysic should handle that which supposeth further in nature a reason, understanding, and platform.</li>
-<cite>Book 2 Part 7, The Proficience And Advancement Of Learning Simplified</cite>
+
+Physic should contemplate that which is inherent in matter, and therefore transitory. Metaphysic should contemplate that which is abstracted and fixed.
+
+Physic should handle that which supposeth in nature only a being and moving. Metaphysic should handle that which supposeth further in nature a reason, understanding, and platform.
 {{< /q >}}
 
 
@@ -45,7 +44,7 @@ No. We call it a 'smart-phone'.
 Correct. We add the word 'smart.' Similarly, we add 'super' to 'physics' to set it apart. This is supported by Francis Bacon who called 'natural magic' as part of metaphysics.
 {{< /l >}}
 
-{{< q a="Bacon" c="Book 2 Part 1, The Proficience And Advancement Of Learning Simplified" >}}
+{{< q a="Francis-Bacon" c="Book 2 Part 1, The Proficience And Advancement Of Learning Simplified" >}}
 Superstitious narrations of sorceries, witchcrafts, dreams, divinations, and the like, where there is an assurance and clear evidence of the fact, SHOULD NOT be excluded altogether. This is because it is not yet known in what cases and how far effects attributed to superstition do participate of natural causes. Therefore, howsoever the practice of such things is to be condemned, yet from the speculation and consideration of them, light may be taken for the further understanding of Nature.   
 {{< /q >}}
 
@@ -178,7 +177,7 @@ The universe was created for us humans, and not us humans created to serve the u
 
 After death, there is nothing. So I say maximize pleasure while alive and don't care about the consequences, even on others! 
 
-So what if there's global warming? In the long-run, we're all dead! At least I've experienced a 5-star lifestyle. Heaven can be on earth, bought by money money money in a rich man's world. 
+So what if there's global warming? In the long-run, we're all dead! At least I've experienced a 5-star lifestyle. Heaven can be on earth, bought by :musical_notes: money money money in a rich man's world :musical_notes:. 
 {{< /r >}}
 
 
@@ -250,7 +249,7 @@ Yes. This is now known as 'scientism' propagated by materialists.
 
 For example, alternative medicines that don't pass clinical trials are not medicine, but are just supplements even if they cure some people but not all. 
 
-This is why, until 2030, most of our work is on Social Superphysics. The work on Bio and Material Superphysics will mostly be theoretical for now, though we've done [rudimentary experiments on levitation](/material/levitation) and preventing cancers from getting worse via alternative medicine.
+This is why, until 2030, most of our work is on Social Superphysics. The work on Bio and Material Superphysics will mostly be theoretical for now, though we've done [rudimentary experiments on pre-levitation](/material/levitation) and preventing cancers from getting worse via alternative medicine.
 {{< /l >}}
 
 

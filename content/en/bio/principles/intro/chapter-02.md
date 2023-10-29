@@ -5,7 +5,7 @@ linkTitle: "Life"
 description: "Life is the Shiva part of the 2 Forces"
 # date: "2020-10-15"
 date: 2020-01-25
-weight: 6
+weight: 4
 image: "/graphics/meta/mind.png"
 author: "Juan"
 icon: "/icons/spmed.png"

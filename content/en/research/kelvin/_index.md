@@ -1,6 +1,6 @@
 ---
-title: "Lord Kelvin" 
+title: "Lord Kelvin (Sir William Thomson)" 
 description: ""
 weight: 48
-# image: "/covers/jesus.jpg"
+image: "/covers/vortex.jpg"
 ---

@@ -11,12 +11,9 @@ icon: /icons/sp.png
 ---
 
 
-The tech world was abuzz with the word artificial intelligence or AI in 2016 after Google released Tensorflow in late 2015.
+<!-- The tech world was abuzz with the word artificial intelligence or AI in 2016 after Google released Tensorflow in late 2015. -->
 
-AI is a big field which includes machine learning and data mining. Many startup companies market themselves as being AI-based. Most of the time, they just use a machine learning algorithm to produce different outputs which might not be useful. 
-
-![Data science](https://sorasystem.sirv.com/graphics/datascience.png)
-
+Artificial Intelligence is a big field which includes machine learning and data mining. Many startup companies market themselves as being AI-based. Most of the time, they just use a machine learning algorithm to produce different outputs which might not be useful.
 
 
 ## What's wrong with artificial?
@@ -83,7 +80,8 @@ This means that the ability to connect ideas is still ultimately a natural abili
 
 Therefore, a computer that becomes fully autonomous or sentient is really acting as an extension of the intelligence of humans, dogs, or lizards. 
 
-![Automated Intelligence](/photos/tech/ai.jpg)
+{{< img src="/photos/tech/ai.jpg" alt="AI" >}}
+
 
 For example:
 - The AI for the game DOTA2 really represents the collective intelligence of the players and programmers whom it learned from. 

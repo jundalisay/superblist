@@ -45,7 +45,7 @@ We notate this as E = G{{< sub v="l" >}}.
 
 We can call this equation as "eagle" as it is written with the letters `E G l`. 
 
-It predicts the movement of anything by knowing its `G` or [dharma or true nature](/social/economics/principles/invisible-hand) relative to other `G`'s within the same layer and/or the immediate layer above it.
+It predicts the movement of anything by knowing its `G` or [dharma or true nature](/social/economics/invisible-hand) relative to other `G`'s within the same layer and/or the immediate layer above it.
 
 
 {{< img src="/graphics/econ/eagle.jpg" alt="The Eagle" >}}
@@ -104,16 +104,14 @@ Socrates said that the discovery of the `G` or true nature of everything is extr
 
 David Hume, who is our other reference, will agree to this as he is also an economist aside from being a metaphysician: 
 
-{{< q a="hume" >}}
+{{< q a="hume" c="Treatise of Human Nature, Advertisement" >}}
 Here, the only expedient for success in our philosophical researches is to.. march up directly to the capital or center of these sciences, to human nature itself. Once we master human nature, we may hope for an easy victory everywhere else. From here, we may extend our conquests over all those sciences.. We may hope to establish… a science which will not be inferior in certainty, and will be much superior in utility. The science of man is the only solid foundation for the other sciences. 
-<cite>Advertisement, Treatise of Human Nature</cite>
 {{< /q >}}
 
 This is supported by Francis Bacon who refers to `G` as the "true form":
 
-{{< q a="Bacon" >}}
+{{< q a="Francis-Bacon" c="Nova Organum" >}}
 Our genuine and perfect rule of practice is that <b>it should be certain, free and preparatory, or having relation to practice</b>. This is the same thing as the discovery of a true form. For the form of any nature is such, that when it is assigned, the particular nature infallibly follows. Form, therefore is always present when that nature is present, universally attests such presence, and, is inherent in the whole of it.
-<cite>Nova Organum</cite>
 {{< /q >}}
 
 
@@ -164,10 +162,11 @@ Our model on the other hand, follows Smith and the Physiocrats, and uses [grain-
 - The rise of bitcoin in 2017
 - The global economic crisis starting in 2019. It actually started in Q1 2020 and this shows that a bottom-up approach would be more accurate 
 
-This bottom-up approach is exactly what Francois Quesnay had in mind when he created [the Economic Table](/social/economics/solutions/modern-economic-table) to list the exchanges of commodities and trace their final total value or contribution to the economy. This system can be backpropagated in order to automate the process so that it can help visualize the map or neural network of the kinetic desire of human society. This then would allow demand to be predicted so that supply can be allocated ahead of time in order to prevent scarcity and the subsequent inequality and poverty that it creates.
+This bottom-up approach is exactly what Francois Quesnay had in mind when he created [the Economic Table](/social/economics/solutions/modern-economic-table) to list the exchanges of commodities and trace their final total value or contribution to the economy. 
+
+This system can be backpropagated in order to automate the process so that it can help visualize the map or neural network of the kinetic desire of human society. This then would allow demand to be predicted so that supply can be allocated ahead of time in order to prevent scarcity and the subsequent inequality and poverty that it creates.
 
 
-{{< q a="riq" >}}
+{{< q a="Riqueti" c="Philosophie Rurale, 1763" >}}
 The third greatest invention of our time is the Economic Table.
-<cite>Riqueti, Philosophie Rurale, 1763</cite>
 {{< /q >}}

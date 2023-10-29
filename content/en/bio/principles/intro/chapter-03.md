@@ -23,7 +23,7 @@ Superphysics | Physics | Greeks (Timaeus) | Hindus | Chinese
 Aethereal | Higgs | Aether | Akasha | 水 still water 
 Spatial | Gravitation | Wind | Vayu |木 moving wood
 Radiant | Electromagnetism | Fire | Tejas | 火 radiant fire
-Radioactive | Weak | Water | Jala | 土 transforming earth
+Transformative | Weak | Water | Jala | 土 transforming earth
 Material | Strong | Earth | Pritvi | 金 solid metal
 
 
@@ -36,7 +36,7 @@ Superphysics | Chakra | Palmistry Mounts
 Aethereal | Throat, Third Eye, Top Chakra | Saturn, Mercury, Luna  
 Spatial | Heart Chakra | Apollo
 Radiant | Navel Chakra | Jupiter
-Radioactive | Sex Chakra | Venus
+Transformative | Sex Chakra | Venus
 Material | Root Chakra | Mars
 
 

@@ -25,12 +25,12 @@ If our minds cannot separate them, then their identity is one. An example is the
 
 If we turn our perception inwards onto ourselves, then we create an identity called the self. 
 
-{{< img src="https://sorasystem.sirv.com/graphics/selftrump2.jpg" alt="Trump" cap="We assign the identity of 'Donald Trump' to the entity that matches our experiences of it" >}}
+{{< img src="/graphics/psych/trump.jpg" alt="Trump" cap="We assign the identity of 'Donald Trump' to the entity that matches our experiences of it" >}}
 
 
 Both 'identity' and 'self' are therefore the results of our mind's ability to unite or separate our perceptions of anything. 
 
-According to Superphysics, spacetime slices our perceptions according to time units. Therefore, it also slices each identity into separate identities. It is then our human mind that stitches those identities together as one identity. 
+According to Superphysics, the Spacetime Layer [slices our perceptions](/superphysics/principles/chapter-02) according to time units. Therefore, it also slices each identity into separate identities. It is then our human mind that stitches those identities together as one identity. 
 
 <!-- Our mind's limitations then cause us to assign a single identity where, in reality, there were many identities.  -->
 
@@ -41,7 +41,7 @@ This matches the observation of David Hume wherein he gives the following exampl
 - An oak seed is a different plant from the oak tree that it grows into. However, the human mind sees it as the same oak.
 - A baby that has grown into a man was a different person from that man. However, the human mind sees it as the same person.
 
-This stitching together of separate identities into one is actually an error arising from our mind's inability to remember each identity. This error comes from the Negative Force of Nature, which results in what the Hindus call [Maya](https://en.wikipedia.org/wiki/Maya_(religion)). 
+**This stitching together of separate identities into one is actually an error arising from our mind's inability to remember each identity.** This error comes from the Negative Force of Nature, which results in what the Hindus call [Maya](https://en.wikipedia.org/wiki/Maya_(religion)). 
 
 This then makes identity illusory, and diversity as permanent, consistent with Hindu philosophy:
 
@@ -138,15 +138,15 @@ In Hinduism, the jivatman is a tiny-soul that loses its identity when it is abso
 
 Conversely, the water in the sea (paramatman) can be turned into billions of new entities or identities (jivas) by taking a billion cups and scooping the water into each, in order to create 1 billion seas-in-a-cup (jivatmans). 
   
-![Cup of water](https://sorasystem.sirv.com/cards/utilities/cupwater.jpg)
+![Cup of water](/photos/objects/water.jpg)
 
   
 Instead of water and seas, Hume gives the example of a citizens and republics, wherein each citizen is a 'drop' or member of the bigger sea of humans.:
 
 
-{{< quote ava="hume" >}}
+{{< q a="Hume" >}}
 I can only compare the soul to a republic with several members united by the reciprocal ties of government and subordination. This gives rise to other persons who propagate the same republic in the incessant changes of its parts. The same republic may change its members, laws, and constitutions.  
-{{< /quote >}}
+{{< /q >}}
 
 In Bio Superphysics, Hume's idea of the self leads to complex personality types, as well as personality disorders, depending on how united or disunited the selves are.  
 
@@ -186,7 +186,7 @@ This is different from the current system where the whole shrub grows unchecked 
 You could say that convicts are those shrubs that were neglected by society so as to grow ugly. They are then imprisoned or chopped down (given the death penalty) in order to prevent them from messing up the beautiful society of shrubs which had *better chances*.
 
 
-{{< img src="https://sorasystem.sirv.com/photos/planter.jpg" alt="Planter checking his plants" cap="A lawmaker must guide his citizens regularly, just as a planter must check his plants daily. This prevents society from being dominated by chance and him from being a rent-seeker, by earning his place at the high levels of society" >}}
+{{< img src="/photos/econ/farmer.jpg" alt="Planter checking his plants" cap="A lawmaker must guide his citizens regularly, just as a planter must check his plants daily. This prevents society from being dominated by chance and him from being a rent-seeker, by earning his place at the high levels of society" >}}
 
 
 This new system is much more sophisticated as it gets data regularly to plot the behavior of each self. It then matches their pattern acccording to the general moral template or general moral principles. 
@@ -200,7 +200,6 @@ This is the idea behind [ISAIAH](https://pantrypoints.com/match) or the Impartia
 - decide whether sanctions against a country should be lifted or not
 <!-- - It changes the direction of a spaceship traversing empty space  -->
 - ..and so on
-
 
 > *Update October 2022: This is part of our proposed Behavioral Prediction System (BPS) which will be one of the 'skills' of ISAIAH
 

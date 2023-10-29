@@ -1,15 +1,11 @@
-+++
-title=  "Population Policy"
-heading=  "Chapter 16-19"
-author=  "Montesquieu"
-description=  "Population policy depends greatly on circumstances. There are countries, in which nature does all"
-image=  "/covers/spirit.jpg"
-date=  2020-03-29
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-23/chapter-7"
-linkbtext=  "Chapter 7"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-23/chapter-20"
-linkftext=  "Chapter 20"
-+++
+---
+title:  "Population Policy"
+heading:  "Chapter 16-19"
+author:  "Montesquieu"
+description:  "Population policy depends greatly on circumstances. There are countries, in which nature does all"
+image:  "/covers/spirit.jpg"
+date:  2020-03-29
+---
 
 
 Population policy depends greatly on circumstances. There are countries, in which nature does all. 
@@ -34,7 +30,7 @@ In every republic, the legislator focused on:
 - the happiness of the citizens at home
 - their power abroad
 
-<!-- These they made not inferior to that of the neighbouring cities.  -->With a small space and great happiness, it was easy for them to become overpopulated. This obliged them incessantly to: 
+With a small space and great happiness, it was easy for them to become overpopulated. This obliged them incessantly to: 
 - send out colonies 
 - go to war, as the Swiss do now
 
@@ -93,7 +89,7 @@ Plutarch says:
 
 Strabo says:
 
-{{< quote >}}
+{{< q >}}
 “I shall not describe Epirus and the adjacent places; because these countries are intirely deserted. This depopulation, which began long ago, still continues; so that the Roman soldiers encamp in the houses they have abandoned.”
 {{< /q >}}
 

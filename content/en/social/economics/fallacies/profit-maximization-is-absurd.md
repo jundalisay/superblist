@@ -23,10 +23,13 @@ So how in the world did it enter and be so fundamental to Economics?
 
 We trace its entry into economic thought through the Marginal Revolution, specifically with William Stanley Jevons who combined John Stuart Mill's flawed utilitarianism philosophy (the pursuit of private pleasure) with Calculus.
 
-{{< q a="jev" >}}
+{{< q a="Jevons" >}}
 PLEASURE and pain are undoubtedly the ultimate objects of the Calculus of Economics. To satisfy our wants to the utmost with the least effort—to procure the greatest amount of what is desirable at the expense of the least that is undesirable—in other words,to maximise pleasure is the problem of Economics. 
-<cite>William Stanley Jevons</cite>
 {{< /q >}}
+
+
+{{< img src="/graphics/econ/profit.jpg" alt="Man wanting money" cap="Modern Economics has the love of pleasure as its moral basis" >}}
+
 
 
 ## Math is for Nonliving Things Which Have No Free Will
@@ -48,7 +51,7 @@ Once a person has tasted pleasures, he wants them more and more, eventually lead
 
 ## Why is Profit Maximization Wrong?
 
-To get more pleasures, people of liberal and loose morals advocate profit maximization, as what was predictably done by Mill. <!-- Waste and excess are dangerous for a person just as it is for a society. -->
+To get more pleasures, people of liberal and loose morals advocate profit maximization, as what was predictably done by Mill.
 
 According to Adam Smith, profit is one of three kinds of revenue in society, the others being rent and wages. 
 
@@ -70,28 +73,21 @@ It would be like a basketball team where all of the salary goes to the star play
 > *Update June 2021: We can thus make an analogy that utilitarianism is a kind of virus that infects the merchant class the most, allowing it to spread naturally around the planet. Neo-liberalism then is the resulting pandemic that has infested the earth, destroying societies and the environment along the way.
 
 
-{{< img src="https://sorasystem.sirv.com/photos/orang.jpg" alt="Orangutan" >}}
-
-
-{{< q a="smith" >}}
-<p>There is a lot of bullion alternately imported and exported for foreign trade in all great commercial countries. This bullion circulates among commercial countries in the same way as the national coin circulates in every country.This bullion is the money of the great mercantile republic.The national coin receives its movement and direction from the commodities circulated within the country. The mercantile republic’s bullion gets its movement from the circulation between countries.</p>
-<cite>The Simple Wealth of Nations, Book 5, Chapter 1</cite>
+{{< q a="Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 1" >}}
+There is a lot of bullion alternately imported and exported for foreign trade in all great commercial countries. This bullion circulates among commercial countries in the same way as the national coin circulates in every country.This bullion is the money of the great mercantile republic. The national coin receives its movement and direction from the commodities circulated within the country. The mercantile republic’s bullion gets its movement from the circulation between countries.
 {{< /q >}}
 
-{{< q a="smith" >}}
+{{< q a="Smith" c="The Wealth of Nations Simplified, Book 4, Chapter 4" >}}
 A merchant is not the citizen of any particular country.He is indifferent on from where he carries on his trade. He will remove his capital and all the industry it supports, from one country to another with very little disgust.
-<cite>The Simple Wealth of Nations, Book 4, Chapter 4</cite>
 {{< /q >}}
 
 
 {{< img src="https://socioecons.files.wordpress.com/2015/07/screen-shot-2017-02-25-at-12-51-16.png" alt="Manufacturers leaving" cap="Manufacturers who live on profits leave easily at the first signs of non-profits" >}}
 
+The merchant class ends up concentrating this revenue within the mercantile republic (tax havens) through investments in overgrown sectors such as technology, oil, and financial services, which are among the only remaining profitable ones. These lead to Dot Com bubbles, Oil crises, and Financial Crises respectively. 
 
-The merchant class ends up concentrating this revenue within the mercantile republic (tax havens) through investments in overgrown sectors such as technology, oil, and financial services, which are among the only remaining profitable ones. These lead to Dot Com bubbles, Oil crises, and Financial Crises respectively. <!-- , places their own capital in aprecarious, imbalanced situation -->.
-
-{{< q a="smith" >}}
-The monopoly of the colony trade broke that natural balance of British industry. British industry was turned to suit one great market instead of many small markets. <!-- Her commerce ran principally in one great channel instead of running in many small channels. Her industry and commerce was made less secure. Her whole political body was made less healthy.--><br> In her present condition, Great Britain resembles an unwholesome body with some overgrown vital parts. <!-- Her body is liable to many dangerous disorders which affect unproportioned bodies. --> Her blood vessel was artificially swelled beyond natural by the industry and commerce forced to circulate in it. A small stop in that great blood-vessel will very likely bring the most dangerous disorders on the whole political body.
-<cite>Simple Wealth of Nations, Book 4, Chapter 7</cite>
+{{< q a="smith" c="The Wealth of Nations Simplified, Book 4, Chapter 7" >}}
+The monopoly of the colony trade broke that natural balance of British industry. British industry was turned to suit one great market instead of many small markets. <!-- Her commerce ran principally in one great channel instead of running in many small channels. Her industry and commerce was made less secure. Her whole political body was made less healthy.--> In her present condition, Great Britain resembles an unwholesome body with some overgrown vital parts. <!-- Her body is liable to many dangerous disorders which affect unproportioned bodies. --> Her blood vessel was artificially swelled beyond natural by the industry and commerce forced to circulate in it. A small stop in that great blood-vessel will very likely bring the most dangerous disorders on the whole political body.
 {{< /q >}}
 
 
@@ -111,47 +107,65 @@ From a philosophical perspective, all these are absurd.
 
 ## How Can We Get Rid of Profit Maximization?
 
-Smith's solution wasthe establishment of perfect economic democracy for all three classes, through the ruling class (thus the name Political Economy) or in the government regulating economics, not to control it, but to ensure that no class dominates the others.
+Smith's solution was to establish perfect economic democracy for all three classes, through the ruling class (thus the name Political Economy). The government would regulate economics, not to control it, but to ensure that no class dominates the others.
 
-{{< q a="smith" >}}
-A moderate and gradual relaxation of the British exclusive trade to the colonies, until it is rendered free, is the only expedient which can deliver her from this danger in the future. <!-- Only this can enable her to withdraw some of her capital from this overgrown employment. --> It can turn her capital towards other employments,though with less profit. By gradually reducing one industry and increasing the rest, this relaxation can restore her industry to that natural and healthy proportion which perfect liberty necessarily establishes. Perfect liberty can alone preserve this natural balance. <!-- Opening the colony trade all at once to all nations might create some temporary inconvenience. It might create a great permanent loss to most of those presently engaged in it. Even the sudden loss of the employment of the ships which import the surplus tobacco might alone be felt very sensibly. -->
-<cite>Simple Wealth of Nations Book 4, Chap. 7</cite>
+{{< q a="smith" c="The Wealth of Nations Simplified, Book 4, Chapter 7" >}}
+A moderate and gradual relaxation of the British exclusive trade to the colonies, until it is rendered free, is the only expedient which can deliver her from this danger in the future. It can turn her capital towards other employments, **though with less profit**. 
+
+By gradually reducing one industry and increasing the rest, this relaxation can restore her industry to that natural and healthy proportion which perfect liberty necessarily establishes. Perfect liberty can alone preserve this natural balance. <!-- Opening the colony trade all at once to all nations might create some temporary inconvenience. It might create a great permanent loss to most of those presently engaged in it. Even the sudden loss of the employment of the ships which import the surplus tobacco might alone be felt very sensibly. -->
 {{< /q >}}
 
 
 This economic democracy would lead to more competition and lower nominal prices, but greater revenue on the whole. Smith advocated lower profits and the regulation of overgrown industries as a solution to Britain's bad situation then. 
 
-In the current context, this equates to breaking up big corporations, banning mergers, increasing competition, and producing lower profits which would naturally force some to move to other industries needed by society. However, all these run counter to Economics and private pleasure.
+In the current context, this equates to:
+- breaking up big corporations
+- banning mergers
+- increasing competition
+- producing lower profits which would naturally force capital to move to other industries needed by society
+- bringing back barter trade in order to compete with money 
+
+However, all these run counter to Economics and private pleasure.
 
 To truly solve current economic problems, an alternative science to Economics must be created. Without it, any 'economic reform' will merely be a workaround that cannot produce real, lasting solutions. 
 
-Superphysics is a complete economic science derived entirely from Smith's Political Economy which is ultimately based on Hume's Metaphysics or Science of Man. Included in this science is the clear definition of perfect liberty* as <b>dharmic or taoic liberty</b> which puts emphasis on society and real happiness or lasting peace, instead of giving too much focus on the self (ego) and its temporary pleasures. 
+Supereconomics is a complete economic science derived entirely from Smith's Political Economy which is ultimately based on Hume's Metaphysics or *Science of Man*. Included in this science is the clear definition of perfect liberty as *dharmic liberty* which puts emphasis on:
+- society instead of the self and
+- real happiness instead of temporary pleasures
 
-This science is then used to create a "supereconomic" system tasked to implement this liberty and prevent the problems of the old one.
+<!-- This science is then used to create a "supereconomic" system tasked to implement this liberty and prevent the problems of the old one. -->
 
 
-> *In the absence of splitting up giant corporations, our bottom-up solution is a points-based system that is NOT based on gifts
+<!-- > *In the absence of splitting up giant corporations, our bottom-up solution is a points-based system that is NOT based on gifts -->
 
 
 Because of the ambiguity of the English language, liberals frequently equate perfect liberty as a free-for-all. This, however, can easily degenerate into a 'survival of the fittest' system as observed in animals which have no respect or 'fellow feeling' for each other. 
 
-Some advocate an 'enlightened' self-interest but do not define what enlightened is. 
+Some writers, like John Stuart Mill, advocate an 'enlightened' self-interest, but do not define what enlightened is. 
 
-To remedy this ambiguity, we create a new term 'dharmic liberty' to imply liberty with regard to the invisible hand of the Tao or human dharma. It is the freedom to act within the common interest, just as svadharma or personal dharmic liberty acts within one's conscience.
+Our concept of 'dharmic liberty' solves this by implying liberty with regard to the invisible hand of human dharma. This liberty is the freedom to act within the common interest, just as svadharma or personal dharmic liberty is to act within one's conscience.
 
-Without dharmic liberty, societies would merely stay exposed to big socioeconomic problems, since global capital is currently very much centralized in investment banks and institutions, whose singular decisions can crash markets arbitrarily. 
+Without dharmic liberty, societies would remain exposed to big socioeconomic problems, since global capital is currently very much centralized in investment banks and institutions, whose singular decisions can crash markets arbitrarily. 
 
-At the moment [2015], such problems can be seen afflicting the Middle East, through the Arab Spring, which began as socio-economic protests, and ended up with the destabilization of their own governments and the suffering of their own people. 
+<!-- At the moment [2015], such problems can be seen afflicting the Middle East, through the Arab Spring, which began as socio-economic protests, and ended up with the destabilization of their own governments and the suffering of their own people.  -->
 
-More generally, this manifests as the rising inequality which will be felt by more and more people very subtly (especially by millenials) as time goes by.
+More generally, this centralization manifests as rising inequality. 
+ <!-- which will be felt by more and more people very subtly (especially by millenials) as time goes by. -->
 
-{{< q a="smith" >}}
+{{< q a="Smith" c="The Wealth of Nations Simplified, Book 4, Chapter 7" >}}
 Such are the unfortunate effects of all the regulations of the mercantile system! They introduce very dangerous disorders into the political body. Those disorders are often difficult to remedy without creating greater short term disorders.
-<cite>Simple Wealth of Nations Book 4, Chapter 7</cite>
 {{< /q >}}
 
+<br>
 
-{{< mess >}}
-2/2017 added reference to Superphysics
-6/2021 replaced social liberty with dharmic or taoic liberty
-{{< /mess >}}
+
+{{< box >}}
+
+## Updates 
+
+Date | Update
+--- | ---
+2/2017 | added reference to Superphysics
+6/2021 | replaced social liberty with dharmic or taoic liberty
+
+{{< /box >}}

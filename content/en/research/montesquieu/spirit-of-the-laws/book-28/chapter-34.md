@@ -12,9 +12,9 @@ icon: /icons/mont.png
 
 DUELS had introduced a public form of proceeding. Beaumanoir says: 
 
-{{< quote >}}
+{{< q >}}
 The witnesses should give their testimony in open court.
-{{< /quote >}}
+{{< /q >}}
 
 
 Boutillier’s commentator says that he had learned of ancient practitioners and from some old manuscript law books that criminal processes were anciently done in public similar to the public judgments of the Romans. 

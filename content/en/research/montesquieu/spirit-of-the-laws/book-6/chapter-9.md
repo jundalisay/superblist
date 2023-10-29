@@ -90,9 +90,9 @@ Lysander reproached Philocles before he was put to death, with having depraved t
 
 Plutarch says:
 
-{{< quote >}}
-<p>The Argives having put fifteen hundred of their citizens to death, the Athenians ordered sacrifices of expiation, that it might please the gods to turn the hearts of the Athenians from so cruel a thought.</p>
-{{< /quote >}}
+{{< q >}}
+The Argives having put fifteen hundred of their citizens to death, the Athenians ordered sacrifices of expiation, that it might please the gods to turn the hearts of the Athenians from so cruel a thought.
+{{< /q >}}
 
 There are two sorts of corruption; one when the people do not observe the laws; the other when they are corrupted by the laws= an incurable evil, because it is in the very remedy itself.
 

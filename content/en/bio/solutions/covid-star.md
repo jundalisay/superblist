@@ -10,9 +10,9 @@ icon: /icons/spmed.png
 
 
 
-{{< message title="Note" >}}
+{{< box >}}
 The influence of stars on behavior is one of the links between Material Superphysics and Medical Superphysics 
-{{< /message >}}
+{{< /box >}}
 
 
 Have you ever wondered why Covid and influenza are prevalent in Europe but not in Africa? 
@@ -21,11 +21,15 @@ Have you ever wondered why Covid and influenza are prevalent in Europe but not i
 
 ## Life (and Viruses) Come from Stars
 
-According to science, all the matter in the universe came from stars via supernovae explosions. We extend this to add that viruses and simple bacteria, as life, also are included in such explosions. Life forms are then influenced by light from the supernova or cluster where they came from. 
+According to science, all the matter in the universe came from stars via supernovae explosions. We extend this and add that viruses and simple bacteria, as life, are also included in such explosions. 
 
-For example, everything we do as humans totally depends on our sun. If the sun vanishes, then we all die out. Similarly, viruses totally depend on their star for everything. 
+Life forms are then influenced by light from the supernova or cluster where they came from. 
 
-We imagine a Covid star shining on Earth to empower Covid which began in China on Dec 24, 2019. We then add the other successful variants as "Covid landings" noting the rotation and revolution of Earth relative to the Covid Star. This creates a "Covid Equator" or "Covid Line" which starts from the UK then goes to China, India, South Africa, and Brazil. 
+For example, everything we do as humans totally depends on our sun. If the sun vanishes, then we all die out. Because of this some early human civilizations have worshipped the sun, which is really the worship of a star. 
+
+Similarly, viruses totally depend on their star for everything. 
+
+We imagine a Covid star shining on Earth to empower the corona virus which began in China on Dec 24, 2019. We then add the other successful variants as "Covid landings" noting the rotation and revolution of Earth relative to the Covid Star. This creates a "Covid Equator" or "Covid Line" which starts from the UK then goes to China, India, South Africa, and Brazil. 
 
 ![The Covid Star](/graphics/covidstar.jpg)
 
@@ -37,12 +41,11 @@ From this, we see that Africa is totally exempt from the flu line and is partial
 
 ![The Covid Line and Flu Line](/graphics/covidline.jpg)
 
-Southern China, on the other hand, is traversed by both the Covid line and the flu line. This explains why 12th centry historian Chau Ju Kua called Southern China a region of pestilence. This caused Chinese medicine to specialize in flu cases which has helped China to currently have lower cases than the West. China was able to take a negative phenomenon and make it positive, in line with Taoist thinking.
+Southern China, on the other hand, is traversed by both the Covid line and the flu line. This explains why 12th centry historian Chau Ju Kua called Southern China a region of pestilence. This caused Chinese medicine to specialize in flu cases which has helped China to currently have lower cases than the West. 
 
+China was able to take a negative phenomenon and make it positive, in line with Taoist thinking.
 
-
-
-This star-based analysis, or out-of-the-box reasoning, is derived from [Johannes Kepler](/research/kepler) who taught people to view phenomena from the perspective of stars and not people.   
+This star-based analysis is a kind of out-of-the-box reasoning which we derived from [Johannes Kepler](/research/kepler) who taught people to view phenomena from the perspective of stars and not humans.   
 
 From here, we can suggest the following policies:
 
@@ -56,7 +59,7 @@ From here, we can suggest the following policies:
 
 
 {{< box >}}
-## The Spanish Flu was the Covid Star
+## The Spanish Flu was from the Covid Star
 
 The Spanish Flu emerged in Kansas in the US on March 4, 1918. It spread to France and then throughout Europe by May and then declined.
 
@@ -69,35 +72,40 @@ The fact that the second wave around Q4 was worse than the first wave of Q1 form
 
 ## How we cracked Covid via Regular Patterns
 
-This pattern emerged thanks to the Omicron variant striking in South Africa near the same month as the Beta variant which struck that country earlier in 2020. This then created a pattern that was different from [our original 'spreading pattern*' prediction of Omicron emerging in Indonesia or Malaysia by Q4 2021](/social/supersociology/strong-christmas). 
+This pattern emerged thanks to the Omicron variant striking in South Africa near the same month as the Beta variant which struck that country earlier in 2020. 
 
-> *This assumes that the causal mechanism for successful variants is merely a high volume of infections or hosts. This volume then increases the chances for such variants. Thus, this assumption is "chance-based"
+This actual pattern was different from [our original 'spreading pattern*' prediction](/social/supersociology/strong-christmas) which assumed that the causal mechanism for the successful variants was merely the high volume of infections or hosts. High populations increase the chances for such variants to succeed. Thus, this assumption is "chance-based" and predicted the Omicron emerging in Indonesia or Malaysia by Q4 2021. 
 
-
-
-Instead, Omicron showed that Covid follows a more-predictable 'cyclical pattern' like influenza which has a known pattern:
+Instead, Omicron showing up in South Africa proved to us that Covid follows a more-predictable 'cyclical pattern' like influenza which has a known pattern:
 - May-July in the Southern Hemisphere
 - December-February in the Northern Hemisphere
 
 But unlike influenza which is active all-year round, Covid is active mosty during the fourth quarter of the year. 
 
-By applying the orbital theories of Johannes Kepler, we guesstimated that the Covid star* was 'underneath' the sun on a far side. This caused the earth to come near it (aphelion) during the fourth quarter of its orbital revolution.
+By applying the orbital theories of Johannes Kepler, we guesstimated that a Covid star* was 'underneath' the sun on a far side. This caused the earth to come near it (aphelion) during the fourth quarter of its orbital revolution.
 
 > *This assumption is based on the dynamics of the Earth relative to the cosmos and is pattern-based or orbit-based 
 
 <!-- Rio. China is the middle area between   -->
-
 
 The Flu star, on the other hand, was either on top or below of the sun. This caused it to affect influenza on Earth evenly throughout the year.  <!-- but nearly perpendicular to the Earth's axis.    --> These stars are then within our own Milky Way since flu has been happening in Southern China for hundreds of years. 
 
 
 ## Solves Monarch Butterflies Too
 
-The idea of stars guiding life on earth is also seen in the migration routes of monarch butterflies. These are born at the end of August in Mexico and fly into into the southern US in the spring, living for 7-8 months. The make their offspring in the US which last only 3-5 weeks. These short-lived versions then fly back to Mexico.
+The idea of stars guiding life on earth is also seen in the migration routes of monarch butterflies. These are born at the end of August in Mexico and fly into into the southern US in the spring, living for 7-8 months. Their offspring are born in the US, living only 3-5 weeks. These short-lived versions then fly back to Mexico.
 
-Science explains that the monarchs have some kind of magnetic guidance system. This is wrong because it does not explain how the latter generations can find their way back to Mexico. Where do the younger butterflies get the memory to fly back from the US to Mexico?
+How could such an offspring generation know to go to Mexico without being taught by their parents?
 
-We explain that the butterflies are guided by starlight from a specific star or group of stars.  This is similar to us being guided to go West or East based on the position of the sun relative to the Earth without any magnetic tool or sense. This also does not require any memory of past locations.  
+Science explains that the monarchs have some kind of magnetic guidance system from the Earth's magnetic field. This is wrong because it establishes the cause as being on the Earth itself. If so, then various other creatures should also go to that spot in Mexico. 
+
+ <!-- does not explain how the latter generations can find their way back to Mexico. Where do the younger butterflies get the memory to fly back from the US to Mexico? -->
+
+We explain that the butterflies are guided by starlight from a specific star or group of stars.  This is similar to us being guided to go West or East based on the position of the sun relative to the Earth without any magnetic tool or sense. This also does not require any memory of past locations. All it needs is an optical system designed by genetics to tap into the wavelength of that star.
+
+Accordingly, Monarch Butterflies are known for having complex eyes compared to other insects. 
+
+Case closed. 
 
 
 

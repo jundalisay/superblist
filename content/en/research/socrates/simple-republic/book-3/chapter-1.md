@@ -20,11 +20,11 @@ We must obliterate many obnoxious passages that tells us how Pluto feared:
 {{< /l >}}
 
 
-{{< quote >}}
+{{< q >}}
 "I would rather be a serf on the land of a poor than rule over all the dead."
 
 "The gods abhor for the grim mansions to be seen by mortals and immortals. O heavens! In the house of Hades, there is a soul and ghostly form with no mind at all!"
-{{< /quote >}}
+{{< /q >}}
 
 
 {{< l a="Socrates" >}}
@@ -32,9 +32,9 @@ We must beg Homer and the other poets not to be angry if we remove passages like
 {{< /l >}}
 
 
-{{< quote >}}
+{{< q >}}
 'The soul flying from the limbs had gone to Hades, lamenting her fate. It passed like smoke beneath the earth with a shrilling cry that held together as they moved.'
-{{< /quote >}}
+{{< /q >}}
 
 
 {{< l a="Socrates" >}}
@@ -72,9 +72,9 @@ Homer says:
 {{< /l >}}
 
 
-{{< quote >}}
+{{< q >}}
 'Inextinguishable laughter arose among the blessed gods, when they saw Hephaestus bustling about the mansion.'
-{{< /quote >}}
+{{< /q >}}
 
 
 {{< l a="Socrates" >}}
@@ -108,25 +108,25 @@ Our youth must be temperate. The chief elements of temperance are generally:
 
 Then we shall approve such language as that of Diomede in Homer. 
 
-{{< quote >}}
+{{< q >}}
 'Friend, sit still and obey my word. The Greeks marched breathing prowess in silent awe of their leaders.'
-{{< /quote >}}
+{{< /q >}}
 
 People should not say to their rulers:
 {{< /l >}}
 
-{{< quote >}}
+{{< q >}}
 'O heavy with wine, who has the eyes of a dog and the heart of a stag.'
-{{< /quote >}}
+{{< /q >}}
 
 
 {{< l a="Socrates" >}}
 These can provide some amusement, but do not conduce to temperance. Therefore, they are likely to harm our young men. It is not conducive to the temperance of a young man to hear that it is most glorious to have:
 {{< /l >}}
 
-{{< quote >}}
+{{< q >}}
 'the tables are full of bread and meat, and the cup-bearer carry round wine which he draws from the bowl and pours into the cups. The saddest of fates is to die from hunger.'
-{{< /quote >}}
+{{< /q >}}
 
 
 {{< l a="Socrates" >}}
@@ -144,9 +144,9 @@ They should see and hear deeds of endurance done by famous men. For example:
 {{< /l >}}
 
 
-{{< quote >}}
+{{< q >}}
 'He smote his breast, and thus reproached his heart, Endure, my heart, far worse hast thou endured!'
-{{< /quote >}}
+{{< /q >}}
 
 
 {{< l a="Socrates" >}}
@@ -230,9 +230,9 @@ The whole passage would have been:
 {{< /l >}}
 
 
-{{< quote >}}
+{{< q >}}
 "The priest came and prayed the gods on behalf of the Greeks that they might capture Troy and return home safely. But he begged that they would give him back his daughter, take the ransom which he brought, and respect the God. Thus, he spoke and the other Greeks revered the priest and assented. But Agamemnon was wroth and told him to leave and not return lest the staff of the God should be of no use to him. He said= 'The daughter of Chryses should not be released. She should grow old with him in Argos.'
-{{< /quote >}}
+{{< /q >}}
 
 
 {{< l a="Socrates" >}}
@@ -245,11 +245,6 @@ Poetry and mythology are, in some cases, wholly imitative. This is proven by tra
 If yes, do they imitate as a whole or in part? If in part, then what parts? Or should all imitation be prohibited? Should tragedy and comedy be admitted into our State? Should our guardians be imitators? Is this answered by our principle that one man can only focus on one thing at a time? If he attempts many things, will he fail to gain reputation in any?
 
 This is equally true of imitation. A man cannot imitate many things as well as he would imitate one thing. When two kinds of imitation are nearly allied, the same persons cannot succeed in both. For example, those who write of both tragedy and comedy.
-<!-- Then the same person will:
-
-- hardly be able to play a serious part in life, and
-- at the same time to be an imitator and imitate many other parts as well.
- -->
 {{< /l >}}
 
 
@@ -290,15 +285,7 @@ Suppose, that a just and good man X comes on some saying or action of another go
 - Max X will be most ready to impersonate Man Y when Man Y is acting wisely and not ill or ruled by love or drink.
 - Max X will not study a character unworthy of him. He feels that the employment of such an art, unless in jest, to be beneath him.
 
-
-<!-- He will disdain such a person and will assume his likeness for a moment only when he is performing some good action.
-At other times, he will be ashamed to play a part which he has never practise.
-He will not like to fashion and frame himself after the baser models.
-His mind revolts at it. -->
-
 Then he will adopt a mode of narration of Homer. His style will be both imitative and narrative, with more narration and very little imitation. 
-
-<!-- That is the model which such a speaker must necessarily take. -->
 
 But the bad character will narrate and imitate anything. He will:
 
@@ -306,11 +293,6 @@ But the bad character will narrate and imitate anything. He will:
 - bark like a dog,
 - bleat like a sheep, or
 - crow like a cock.
-
-
-<!-- The worse he is, the more unscrupulous he will be.
-Nothing will be too bad for him.
-He will be ready to  anything, not as a joke, but in right good earnest, before many people. -->
 
 His entire art will consist in imitation of voice and gesture. There will be very little narration. 
 
@@ -349,7 +331,3 @@ We want to employ, for our souls' health, the rougher and severer poet or story-
 
 That part of music or literary education which relates to the story or myth may be finished, for the matter and manner have both been discussed. Next will follow melody and song.
 {{< /l >}} 
-<!-- 
-{{< r a="Glaucon" >}}
-Glaucon (laughing)= I fear that the word 'everyone' hardly includes me because I cannot say what they should be.
-{{< /l >}} -->

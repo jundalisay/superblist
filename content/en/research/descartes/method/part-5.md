@@ -16,7 +16,6 @@ The whole whole chain of truths which I discovered would have gotten me into tro
 
 I have ever remained firm in my original resolution to suppose no other principle than that of which I have recently availed myself in demonstrating the existence of God and of the soul, and to accept as true nothing that did not appear to me more clear and certain than the demonstrations of the geometers had formerly appeared; 
 
-<!-- and yet I venture to state that not only have I found means to satisfy myself in a short time on all the principal difficulties which are usually treated of in philosophy, but  -->
 
 I have also observed certain laws established in nature by God in such a manner, and of which he has impressed on our minds such notions, that after we have reflected sufficiently upon these, we cannot doubt that they are accurately observed in all that exists or takes place in the world and farther, by considering the concatenation of these laws, it appears to me that I have discovered many truths more useful and more important than all I had before learned, or even had expected to learn.
 
@@ -24,12 +23,14 @@ But because I have essayed to expound the chief of these discoveries in a treati
 
 It was my design to comprise in it all that, before I set myself to write it, I thought I knew of the nature of material objects. 
 
-I am like a painter who is unable to paint all the different faces of a solid body. So I select one of the chief, on which alone they make the light fall, and throwing the rest into the shade. I allow them to appear only in so far as they can be seen while looking at the principal one. 
+I am like a painter who is unable to paint all the parts of a body. 
+
+So I select the main part. I make the light fall only on that part, with the rest in the dark. I then let them appear only while I am looking at that main part. 
 
 
-## Light
+## A Light-first Science
 
-This is why I <!--  so, fearing lest I should not be able to compense in my discourse all that was in my mind, I resolved to expound singly, though at considerable length, my opinions regarding --> focused on light and then add something on:
+This is why I focused on light. I then add something on:
 - the sun and the stars, since light almost wholly proceeds from them
 - the heavens since they transmit it
 - the planets, comets, and earth, since they reflect it
@@ -38,7 +39,9 @@ This is why I <!--  so, fearing lest I should not be able to compense in my disc
 
 <!-- To enable me to cast this variety of subjects somewhat into the shade, and to express my judgment regarding them with greater freedom, without being necessitated to adopt or refute the opinions of the learned, I resolved to leave all the people here to their disputes, and to speak only of what  -->
 
-I then make a new thought experiment on how our world was created by God from chaos. <!-- a new world , if God were now to create somewhere in the imaginary spaces matter sufficient to compose one, and were to agitate variously and confusedly the different parts of this matter, so that there resulted a chaos as disordered as the poets ever feigned, and after that did nothing more than lend his ordinary concurrence to nature, and allow her to act in accordance with the laws which he had established.  -->
+I then make a new thought experiment on how our world was created by God from chaos.
+
+<!-- a new world , if God were now to create somewhere in the imaginary spaces matter sufficient to compose one, and were to agitate variously and confusedly the different parts of this matter, so that there resulted a chaos as disordered as the poets ever feigned, and after that did nothing more than lend his ordinary concurrence to nature, and allow her to act in accordance with the laws which he had established.  -->
 
 <!-- On this supposition, I, in the first place, described this matter, and essayed to represent it in such a manner that to my mind there can be nothing clearer and more intelligible, except what has been recently said regarding God and the soul;
 
@@ -61,14 +64,23 @@ I respected the substance, the situation, the motions, and all the different qua
 
 I explained:
 - why the Earth's matter tended exactly to its centre even if God had given no weight to such matter.
--how with water and air on its surface, the disposition of the heavens and heavenly bodies, more especially of the moon, must cause a flow and ebb, like in all its circumstances to that observed in our seas, as also a certain current both of water and air from east to west, such as is likewise observed between the tropics; 
-- how the mountains, seas, fountains, and rivers might naturally be formed in it, and the metals produced in the mines, and the plants grow in the fields and in general, 
-- how all the bodies which are commonly denominated mixed or composite might be generated and, among other things in the discoveries alluded to inasmuch as besides the stars, I knew nothing except fire which produces light, I spared no pains to set forth all that pertains to its nature, – the manner of its production and support, and to explain how heat is sometimes found without light, and light without heat; to show how it can induce various colours upon different bodies and other diverse qualities; 
-- how it reduces some to a liquid state and hardens others; how it can consume almost all bodies, or convert them into ashes and smoke
-- how from these ashes, by the mere intensity of its action, it forms glass
-  - This transmutation of ashes into glass appeared to me as wonderful as any other in nature, I took a special pleasure in describing it. 
+- how with water and air on its surface, the disposition of the heavens and heavenly bodies, more especially of the moon, causes a flow and ebb as observed in our seas, as also a certain current both of water and air from east to west, such as is likewise observed between the tropics
+- how the mountains, seas, fountains, and rivers might naturally be formed in it, and the metals produced in the mines, and the plants grow 
+- how all the mixed or composite bodies might be generated
 
-I was not, however, disposed, from these circumstances, to conclude that this world had been created in the manner I described; for it is much more likely that God made it at the first such as it was to be. 
+ and, among other things in the discoveries alluded to inasmuch as besides the stars, 
+
+Of the things that produce light, I only know fire. So I explained:
+- its nature
+- how it is produced and supported
+- how heat is sometimes found without light, and light without heat
+- how it can induce various colours and other diverse qualities on different bodies
+- how it reduces some to a liquid state and hardens others
+- how it can consume almost all bodies, or convert them into ashes and smoke
+- how from these ashes, by the mere intensity of its action, it forms glass
+  - This transmutation of ashes into glass was wonderful
+
+<!-- I was not, however, disposed, from these circumstances, to conclude that this world had been created in the manner I described; for it is much more likely that God made it at the first such as it was to be.  -->
 
 <!-- But this is certain, and an opinion commonly received among theologians, that the action by which he now  -->
 
@@ -76,6 +88,8 @@ God sustains the universe in the same way which he originally created it.
 
 Although he had from the beginning given it chaos, he provided laws of nature to end up with the current universe. <!-- , and had lent it his concurrence to enable it to act as it is wont to do, -->
 
- it may be believed, without discredit to the miracle of creation, that, in this way alone, things purely material might, in course of time, have become such as we observe them at present
+ <!-- it may be believed, without discredit to the miracle of creation, that,  -->
 
- Their nature is much more easily conceived when they are beheld coming in this manner gradually into existence, than when they are only considered as produced at once in a finished and perfect state.
+In this way, things purely material might, in course of time, have become such as we observe them at present
+
+<!-- Their nature is much more easily conceived when they are beheld coming in this manner gradually into existence, than when they are only considered as produced at once in a finished and perfect state. -->

@@ -14,16 +14,16 @@ Appeals were challenges to a combat. They must have been made immediately on the
 
 Beaumanoir says: 
 
-{{< quote >}}
+{{< q >}}
 “If the party leaves the court without appealing he loses his appeal, and the judgment stands good.” This continued still in force, even after all the restrictions of judicial combat.
-{{< /quote >}}
+{{< /q >}}
 
 
 THE villain could not bring an appeal of false judgment against the court of his lord. This we learn from Défontaines, and is confirmed moreover by the institutions. Hence Défontaines says: 
 
-{{< quote >}}
+{{< q >}}
 between the lord and his villain there is no other judge but God.”
-{{< /quote >}}
+{{< /q >}}
 
 
 It was the custom of judicial combats that deprived the villains of the privilege of appealing their lord’s court of false judgment. Those villains, who by charter or custom had a right to sight, had also the privilege of appealing their lord’s court of false judgment, even though the peers who tried them were gentlemen. 
@@ -52,9 +52,9 @@ The party who had a judgment in his favour, ought not to have been deprived of i
 
 The appellant, therefore, who had gained the battle, was obliged to fight likewise against the adverse party:  not in order to know whether the judgment was good or bad (for this judgment was out of the case, being reversed by the combat) but to determine whether the demand was just or not; and it was on this new point they fought. From thence proceeds our manner of pronouncing decrees: 
 
-{{< quote >}}
+{{< q >}}
 “The court annuls the appeal; the court annuls the appeal, and the judgment against which the appeal was brought.” 
-{{< /quote >}}
+{{< /q >}}
 
 In effect, when the person who had made the appeal of false judgment, happened to be overcome, the appeal was reversed; when he proved victorious, both the judgment and the appeal were reversed:  then they were obliged to proceed to a new judgment.
 

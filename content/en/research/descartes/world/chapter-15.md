@@ -11,30 +11,34 @@ icon: "/icons/descartes.png"
 ---
 
 
-How do the inhabitants of the aethereal Earth see their heaven as wholly like we physical Earthlings see our sky? 
+How do the inhabitants of the aethereal Earth see their heliosphere as a whole like we physical Earthlings see our sky? 
 
-First, they see the `sun`  as completely full of light and like our sun, given that it sends rays from all points of its surface toward their eyes. Because it is much closer to them than the stars, it must appear much larger to them. 
+First, they see the `sun` as completely full of light and like our sun. It sends rays from all points of its surface toward their eyes. Because it is much closer to them than the stars, it must appear much larger to them. 
 
 
 {{< img src="/graphics/physics/aetherspace.jpg" alt="Aether space" cap="Descartes explains gravitational lensing based on  the gravitational territories of each star instead of through Newtonian mass" >}}
 
-The small heaven `ABCD` turns around the earth. 
-- Its parts offer some resistance to those rays. 
+The small heliosphere `ABCD` turns around the Earth. 
+- Its air-aether offers some resistance* to those rays from the sun. 
+
+> *Superphysics note: This resistance is now the magnetic field of the Earth.
 
 All the parts of the great heaven that are between `sun` and `D` strengthen the rays. 
 - This is why those that are between `D` and `earth`, being comparatively small in number, can take away only very little of their force from them.
 
-Even all the action of the parts of the large heaven `FGGF` is not enough to impede the rays of the many fixed stars from reaching to the earth from the sides not illuminated by the sun.
+Even all the action of the air-aether of the large heliosphere `FGGF` is not enough to impede the rays of the many fixed stars from reaching the Earth.
+ <!-- from the sides not lit by the sun. -->
 
-The 'large heavens' are those with a sun or star at its center.
+The 'large heliospheres' are those with a sun or star at its center.
 - Solar systems can be rather unequal in size. 
-- But they must always be exactly of the same force so that all the matter that is in the line `sun-B` must tend as strongly toward `moon` as that which is in the line `moon-B` tends toward `sun`. 
+- But they must always be exactly of the same force so that all the air-aether in the line `sun-B` must tend as strongly towards the `moon` as that which is in the line `moon-B` tends toward `sun`. 
 <!-- `ε` -->
-- For, if they do not have that equality among them, they will most certainly be destroyed in a short time, or at least they will change until they have acquired it.
+
+If they do not have that equality among them, they will be destroyed in a short time, or at least they will change until they have acquired it.
 
 The whole force* of the ray `sun-B` is just exactly equal to that of the ray `moon-B`. 
 
-> *Superphysics Note: This is now known as Newton's gravitational constant
+<!-- > *Superphysics Note: This is now known as Newton's gravitational constant -->
 
 The force of the ray `earth-B` is less than the force of `sun-B`.
 - It cannot impede the force of the ray `moon-B`* to extend to `earth`. 

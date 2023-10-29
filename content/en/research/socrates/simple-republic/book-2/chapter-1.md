@@ -56,8 +56,7 @@ I will:
 - show that all men who practise justice do so against their will as a natural consequence, and not as a good
 - argue that this makes it reasonable to kill the unjust as being better than killing the just, though I do not think so
 
-<!-- But still I am perplexed about the voices of Thrasymachus in my ears.
-I have never heard of a satisfactory explanation of the superiority of justice to injustice. I want to hear justice praised for itself.  --><!-- Therefore, I will praise the unjust life to the utmost of my power.  -->I want you to praise justice and censure injustice.
+I want you to praise justice and censure injustice.
 {{< /r >}}
 
 
@@ -70,9 +69,6 @@ I shall start with the nature and origin of justice. They say that by nature:
 - doing injustice is good
 - suffering from injustice is evil
 - evil is greater than the good.
-
-
-<!-- After men have both done injustice and suffered injustice, they are unable to avoid injustice and obtain justice. They think that it is better for them to agree to have neither. Hence, there arise  -->
 
 Laws and mutual covenants arise after men get tired of the injustice that they do to each other. They call whatever is ordained by law as lawful and just. They refer to the law as the origin and nature of justice. 
 
@@ -212,9 +208,9 @@ However, the unjust make more pretensions than the just. They:
 This matches with the testimony of Hesiod and Homer. Hesiod says that many blessings are provided for the just. Homer has a very similar strain.
 {{< /r >}}
 
-{{< quote >}}
+{{< q >}}
 "Still grander are the gifts of heaven <!-- which Musaeus and his son give to --> for the just. They take them down into the world below, where they have the saints drunk at a feast, crowned with garlands."
-{{< /quote >}}
+{{< /q >}}
 
 
 
@@ -243,9 +239,9 @@ They cite the poets such as Hesiod as the authorities to smooth the path of vice
 {{< /r >}}
 
 
-{{< quote >}}
+{{< q >}}
 'Vice may be had in abundance without trouble. The way is smooth and her dwelling-place is near. But the gods have set toil on virtue.'
-{{< /quote >}}
+{{< /q >}}
 
 
 
@@ -256,9 +252,9 @@ Hesiod also says:
 {{< /r >}}
 
 
-{{< quote >}}
+{{< q >}}
 'The gods, too, may be turned from their purpose. Men pray to them when they have sinned in order to avert their wrath, through sacrifices and libations .'
-{{< /quote >}}
+{{< /q >}}
 
 
 {{< r a="Adeimantus" >}}
@@ -287,9 +283,9 @@ Probably the youth will say to himself in the words of Pindar:
 {{< /r >}}
 
 
-{{< quote >}}
+{{< q >}}
 'Can I by justice or by deceit ascend a loftier tower which may be my fortress all my days?'
-{{< /quote >}}
+{{< /q >}}
 
 
 {{< r a="Adeimantus" >}}
@@ -362,11 +358,6 @@ Every person would have been his own watchman because every person would be afra
 
 {{< r a="Adeimantus" >}}
 Thrasymachus would seriously reject this. They would use stronger words on justice and injustice to pervert their true nature.
-<!-- I speak vehemently because I want to hear from you the opposite side.
-Please do not include mere appearances of justice and injustice.
-If you use appearances, then we shall think that you:
-are only exhorting us to keep injustice dark, and
-really agree with Thrasymachus in thinking that justice is the interest of the stronger, and injustice is a man's own profit and interest, though injurious to the weaker. -->
 
 You said that justice is one of that highest class of positives which are desired for their results, but in a far greater degree for their own sakes.
 

@@ -33,9 +33,9 @@ Buddhist countries have often stated that they wish to remain faithful to their 
 
 Burma says that:
 
-{{< quote >}}
-<p>the New Burma sees no conflict between religious values and economic progress. Spiritual health and material well-being are not enemies: they are natural allies.<br><br>We can blend successfully the religious and spiritual values of our heritage with the benefits of modern technology.<br><br>We Burmans have a sacred duty to conform both our dreams and our acts to our faith. This we shall ever do.”</p>
-{{< /quote >}}
+{{< q >}}
+the New Burma sees no conflict between religious values and economic progress. Spiritual health and material well-being are not enemies: they are natural allies.<br><br>We can blend successfully the religious and spiritual values of our heritage with the benefits of modern technology.<br><br>We Burmans have a sacred duty to conform both our dreams and our acts to our faith. This we shall ever do.”
+{{< /q >}}
 
 
 Such countries assume that they can model their economic development plans in accordance with modern economics.
@@ -97,9 +97,9 @@ How to tell the one from the other?
 
 Ananda Coomaraswamy says that:
 
-{{< quote >}}
+{{< q >}}
 <p>The craftsman can always draw the delicate distinction between the machine and the tool. The carpet loom is a tool, a contrivance for holding warp threads at a stretch for the pile to be woven round them by the craftsmen’s fingers.     But the power loom is a machine, and its significance as a destroyer of culture lies in the fact that it does the essentially human part of the work.</p>
-{{< /quote >}}
+{{< /q >}}
 
 
 
@@ -111,9 +111,9 @@ Character, at the same time, is formed primarily by a man’s work. Work, proper
 
 The Indian philosopher and economist J. C. Kumarappa sums it up:
 
-{{< quote >}}
+{{< q >}}
 <p>If the nature of the work is properly appreciated and applied, it will stand in the same relation to the higher faculties as food is to the physical body. It nourishes and enlivens the higher man and urges him to produce the best he is capable of. It directs his free will along the proper course and disciplines the animal in him into progressive channels. It furnishes an excellent background for man to display his scale of values and develop his personality.</p>
-{{< /quote >}}
+{{< /q >}}
 
 
 If a man has no chance of obtaining work he is in a desperate position, not simply because he lacks an income but because he lacks this nourishing and enlivening factor of disciplined work which nothing can replace.
@@ -123,9 +123,9 @@ A modern economist may engage in highly sophisticated calculations on whether fu
 His fundamental criterion of success is simply the total quantity of goods produced during a given period of time.
 Professor Galbraith in The Affluent Society says:
 
-{{< quote >}}
+{{< q >}}
 <p>If the marginal urgency of goods is low then so is the urgency of employing the last man or the last million men in the labour force. If ... we can afford some unemployment in the interest of stability—a proposition, incidentally, of impeccably conservative antecedents—then we can afford to give those who are unemployed the goods that enable them to sustain their accustomed standard of living.</p>
-{{< /quote >}}
+{{< /q >}}
 
 
 From a Buddhist point of view, this is standing the truth on its head by considering goods as more important than people and consumption as more important than creative activity.

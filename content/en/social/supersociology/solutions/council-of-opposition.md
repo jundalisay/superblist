@@ -6,13 +6,10 @@ image: "/photos/objects/regicide.jpg"
 description: "The Council of Opposition is David Hume's solution to prevent tyranny in a democratic government"
 contributors: ['Juan']
 icon: /icons/spss.png
-aliases:
-  /solutions/social/the-council-of-opposition
 ---
 
 
-
-In Hume's [essay of the ideal commonwealth](/research/hume/essays/part-2/16-the-ideal-system-of-government), he writes his plan for the ideal government: 
+In the essay [The Idea of a Perfect Commonwealth](/research/hume/essays/part-2/16-the-ideal-system-of-government), David Hume wrote about his plan for  the ideal government: 
 
 - The people are split into 100 counties which are split into 100 districts
 - The people vote for a district representative. This creates 100 district representatives per district and a total of 10,000 district representatives
@@ -39,7 +36,9 @@ The Council of Opposition formalizes the oversight function of democratic legisl
 
 In parliamentary systems, such as in the UK and Australia, the auditing body is put under the parliament, as a counterweight to the Exchequer. This makes it timid in auditing if the ruling party has many seats. 
 
-In parliaments that have no strong party, the auditing body naturally becomes more active. However, it cannot do much with its findings since the parliament is divided in the first place. An example is Lebanon where everyone knows that there are serious problems in government policies and procedures, yet no one is able to do anything. Another more recent example is Afghanistan, where its divided government was unable to check the corruption despite it being obvious. 
+In parliaments that have no strong party, the auditing body naturally becomes more active. However, it cannot do much with its findings since the parliament is divided in the first place. 
+- An example is Lebanon where everyone knows that there are serious problems in government policies and procedures, yet no one is able to do anything. 
+- Another more recent example is Afghanistan, where its divided government was unable to check the corruption despite it being obvious. 
 
 ![Taliban fighters](https://sorasystem.sirv.com/photos/af/taliban.jpg)
 

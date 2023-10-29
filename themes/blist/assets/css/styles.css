@@ -73,7 +73,7 @@
   background-image: url(/icons/arjuna.png);
 }
 
-.Bacon {
+.Bacon, .Francis-Bacon {
   background-image: url(/avatars/bacon.png) !important;
 }
 
@@ -98,29 +98,17 @@
   background-image: url(/icons/ein.png);
 }
 
-.einbla, .einblah, .Einstein-sophist {
-  background-image: url(/icons/einbla.png);
-}
+.einbla, .einblah, .Einstein-sophist {background-image: url(/icons/einbla.png);}
 
-.hume, .Hume {
-  background-image: url(/icons/hume.png);
-}
+.hume, .Hume {background-image: url(/icons/hume.png);}
 
-.ibn, .Ibn-Khaldun {
-  background-color: darkgreen;
-  color: white;
-  background-image: url(/icons/ibn.jpg);
-}
+.ibn, .Ibn-Khaldun {background-image: url(/icons/ibn.jpg);}
 
-.Jews {
-  background-image: url(/icons/il.png);
-}
+.Jews {background-image: url(/icons/il.png);}
 
-.jev, .Jevons {
-  background-image: url(/icons/jevons.png);
-}
+.jev, .Jevons {background-image: url(/avatars/jevons.png);}
 
-.kant, .Kant {background-image: url(/icons/kant.png);}
+.kant, .Kant {background-image: url(/avatars/kant.png);}
 
 .kepler, .Kepler {background-image: url(/avatars/kepler.jpg);}
 
@@ -146,7 +134,7 @@
 
 .ric, .Ricardo {background-image: url(/avatars/ricardo.jpg);}
 
-.riq, .Riquetti {background-image: url(/avatars/riq.png);}
+.riq, .Riqueti {background-image: url(/avatars/riq.png);}
 
 .Rizal {background-image: url(/icons/rizal.png);}
 
@@ -170,9 +158,9 @@
 
 .Hegel {background-image: url(/icons/hegel.png);}
 
-.spmed, .Bio-Superphysics, .Medical-Superphysics {
-  background-image: url(/icons/spmed50.png) !important;
-}
+.Supereconomics {background-image: url(/icons/specon.png) !important;}
+
+.spmed, .Bio-Superphysics, .Medical-Superphysics {background-image: url(/icons/spmed50.png) !important;}
 
 .pantry, .tao {background-image: url(/icons/pantry.png) !important;}
 

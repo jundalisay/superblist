@@ -1,21 +1,17 @@
-+++
-title= "Propositions 1-8"
-image= "/covers/principia.jpg"
-description= "The forces that keeps the planets in their orbits comes from Jupiter's center."
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+title: "Propositions 1-8"
+image: "/covers/principia.jpg"
+description: "The forces that keeps the planets in their orbits comes from Jupiter's center."
+icon: "/icons/newton.png"
+draft: true
+---
 
 
 ### Proposition 1 Theorem 1
 
-{{< quote >}}
+{{< q >}}
 The forces that keeps the planets in their orbits comes from Jupiter's center. 
-</div>
+{{< /q >}}
 
 <!-- Reciprocally, as the squares of the distances of the places of those planets from that center.  -->
 
@@ -27,16 +23,16 @@ to Jupiter s centre
 
 ### Proposition 2 Theorem 2
 
-{{< quote >}}
+{{< q >}}
 The primary planets are retained in their orbits by the sun's force. This force depends on the distance of those planets from the sun 
-</div>
+{{< /q >}}
 
 
 ### Proposition 3 Theorem 3
 
-{{< quote >}}
+{{< q >}}
 The moon is retained in its orbit by the force from the Earth's center
-</div>
+{{< /q >}}
 
 
 <!-- That the forces by which the primary planets are continually drawn off from rectilinear motions, and retained in their proper orbits, tend to ; and are reciprocally as the squares of the distances of the of those planets from the sun s centre.
@@ -395,17 +391,17 @@ weights of those bodies would be to the
 weight of the whole moon in a greater or less proportion; against what
 we have shewed above. -->
 
-#### Corollary 1= Hence the weights of bodies do not depend on their forms and textures. 
+#### Corollary 1: Hence the weights of bodies do not depend on their forms and textures. 
 
 This is because if the weights were changed with the forms, they would change according to the variety of forms while their mass staying the same. This is against experience.
 
-#### Corollary 2= Universally, all bodies around the earth gravitate towards the earth. The weights of all gravitate at equal distances from the earth s centre depending on the quantities of matter in them. 
+#### Corollary 2: Universally, all bodies around the earth gravitate towards the earth. The weights of all gravitate at equal distances from the earth s centre depending on the quantities of matter in them. 
 
 If the aether were void of gravity, or were to gravitate less in proportion to its quantity of matter, then, because (according to Aris totle, Des Carles, and others) there is no difference between that and other bodies but in mere form of matter, by a successive change from form to form, it might be changed at last into a body of the same condition with those which gravitate most in proportion to their quantity of matter.
 
 On the other hand, the heaviest bodies, acquiring the first form of that body, might gradually lose their gravity. Therefore the weights would depend on the shapes of bodies, and with those shapes might be changed. This is contrary to what was proved in Corollary 2.
 
-#### Corollary 3= All spaces are not equally full. 
+#### Corollary 3: All spaces are not equally full. 
 
 If all spaces were equal, then the specific gravity of the fluid which fills the region of the air, on account of the extreme density of the matter, would fall nothing short of the specific gravity of quicksilver, or gold, or any other the most dense body. 
 
@@ -416,12 +412,12 @@ Bodies do not descend in fluids, unless they are specifically heavier than the f
 If the quantity of matter in a given space can, by any rarefaction, be diminished, what should hinder a diminution to infinity ?
 
 
-#### Corollary 4= If all the solid particles of all bodies are of the same density, nor can be rarefied without pores, a void, space, or vacuum must be granted.
+#### Corollary 4: If all the solid particles of all bodies are of the same density, nor can be rarefied without pores, a void, space, or vacuum must be granted.
 
 Bodies of the same density means bodies whose inertia are proportional to their sizes. 
 
 
-#### Corollary 5= The power of gravity is of a different nature from the power of magnetism
+#### Corollary 5: The power of gravity is of a different nature from the power of magnetism
 
 Magnetic attraction does not depend on matter. Some bodies are attracted by magnets, some are not. 
 
@@ -439,7 +435,7 @@ All the planets mutually gravitate one towards another. This gravity is the squa
 
 All the parts of any planet A gravitate towards planet B, just as planet B gravitates towards A. 
 
-Corollary 1= Total attraction in gravity and electromagnetism is made up of all of the partial attractions.  
+Corollary 1: Total attraction in gravity and electromagnetism is made up of all of the partial attractions.  
 
 
 <!-- whole as the matter of the part to the matter of the
@@ -477,7 +473,7 @@ that since the gravitation towards these bodies is to the gravitation towards
 the whole earth as these bodies are to the whole earth, the gravitation to
 wards them must be far less than to fall under the observation of our senses. -->
 
-Corollary 2= The force of gravity towards the several equal particles of any reciprocally as the square of the distance of places from the particles, as appears from Book 1 Cor. 3, Prop. 69
+Corollary 2: The force of gravity towards the several equal particles of any reciprocally as the square of the distance of places from the particles, as appears from Book 1 Cor. 3, Prop. 69
 
 
 
@@ -548,7 +544,7 @@ shewn hereafter.-->
 
 This is also the way to find the quantity of matter [mass] in the planets. This is because the quantities of matter are as the forces of gravity at equal distances from their centres. 
 
-In the sun, Jupiter, Saturn, and the earth respectively are= 1, 1/xxxx, 1/xxxx, and 1/xxxxx
+In the sun, Jupiter, Saturn, and the earth respectively are: 1, 1/xxxx, 1/xxxx, and 1/xxxxx
 
 If the parallax of the sun is taken greater or less than 10" 30" , the quantity of matter in the earth must be augmented or diminished in the triplicate of that proportion.
 

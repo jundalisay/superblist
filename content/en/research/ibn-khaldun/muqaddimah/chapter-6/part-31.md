@@ -33,22 +33,21 @@ Ptolemy and his followers thought that the stars could indicate the future as th
 
 He said; 1046 
 
-{{< quote >}}
+{{< q >}}
 The influence of the sun and the moon on elemental things are so obvious that no one can deny them. The sun causes changes in the seasons, the ripening of fruits and grains, and so on. The moon influences humidity, the water, the ripening (putrefaction) in putrescent substances and cucumbers, etc. We have two approaches to the stars that come after sun and moon. The unsatisfactory approach is to follow the astrological tradition. 
-{{< /quote >}}
+{{< /q >}}
 
-{{< quote >}}
+{{< q >}}
 The other is to rely on conjecture and empirical knowledge from comparing each star to the sun whose nature and influence is clearly known to us. Thus, a given star increases the power and temper of (the sun) at (its) conjunction (with it). We will then know if the nature of that star agrees with the nature of the sun. If, on the other hand, (the star) diminishes (the power and temper of the sun), then its nature is opposite to that of (the sun). 1047 Then, when we know the individual powers of the stars, we (can also) know them in combination. That happens when they look upon each other in the trine, the quartile, or other aspects. The knowledge here is derived from the natures of the signs (of the zodiac), which similarly (are known) through comparison with the sun.
-{{< /quote >}}
+{{< /q >}}
 
-{{< quote >}}
+{{< q >}}
 Thus we learn all the astral powers. They exercise an influence on the air. This is obvious. The resulting temper of the air communicates itself to thecreated things below the air, and shapes sperm and seeds. Thus, (this temper) comes to underlie the body created from (sperm or seed), the soul which attaches itself to the body, pours itself into the body, and acquires its perfection from the body, and all the conditions depending on soul and body. The qualities of sperm and seed are the qualities of the things that are created and produced from (sperm and seed)." 1048
-{{< /quote >}}
+{{< /q >}}
 
-{{< quote >}}
+{{< q c="Quadriiartitum and other works" >}}
 Astrology remains conjectural and is not certain. It does not mean predestination. It is just one of the natural causes common to all existing things, whereas predestination is prior to everything."
-<cite>Quadriiartitum and other works</cite>
-{{< /quote >}}
+{{< /q >}}
 
 
 This is the sum total of the discussion by Ptolemy and his colleagues. (This discussion) is found in the .

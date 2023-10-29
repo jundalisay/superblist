@@ -99,4 +99,6 @@ but it plainly tells us that all our ideas or notions contain in them some truth
 
 Our reasonings are clearer and most complete when we are awake, and not asleep. 
 
- as , although sometimes the acts of our imagination are then as lively and distinct, if not more so than in our waking moments, reason further dictates that, since all our thoughts cannot be true because of our partial imperfection, those possessing truth must infallibly be found in the experience of our waking moments rather than in that of our dreams.
+Sometimes, our imagination is more lively and distinct than our waking moments. 
+
+Reason further dictates that, since all our thoughts cannot be true because of our partial imperfection, those possessing truth must infallibly be found in the experience of our waking moments rather than in that of our dreams.

@@ -11,6 +11,7 @@ icon: /icons/sp.png
 ---
 
 
+
 ## The Enlightenment
 
 From the time of Plato and Aristotle up to Kant, philosophy dominated the study of human knowledge in the West. It included metaphysics and was only countered, or offset, by religion:
@@ -54,7 +55,7 @@ By denying metaphysics, the feelings are ejected. This then leaves only the ego*
 
 ### Intellect Trapped in an Echo Chamber
 
-In addition, science caused natural philosophy to be compartmentalized. Intellectuals were confined to specific domains such as Physics, Biology,  Economics, etc. People could no longer have multiple domain knowledge.
+In addition, science caused natural philosophy to be compartmentalized. Intellectuals became confined to specific domains such as Physics, Biology,  Economics, etc. People could no longer have multiple domain knowledge.
 
 For example, before science was formalized:
 
@@ -95,26 +96,26 @@ However, the weakness of the Asian philosophies is that they are much less devel
 > *The caste system was initally a system of division of labor to handle the economic growth and development of ancient India. Like any long-running system, it slowly degraded into rigidity and oppression -->
 
 
-## Break Through the Dogma in Science and Religion through Superphysics
+## Breaking Through the Dogma in Science and Religion
 
-To create better solutions to the new problems created by global warming, overpopulation, viruses, etc., we bring back metaphysics and natural philosophy as the 6-sense study of dialectics that is not confined into specific domains.
+To create better solutions to the new problems created by global warming, overpopulation, viruses, terrorism, financial crises, etc., we bring back metaphysics and natural philosophy as the 6-sense study of dialectics that is not confined into specific domains.
 
 <!-- > *Its divisions of Material, Medical, and Social Superphysics are not rigid boundaries, but rather general groupings for convenience, like chapters in a book. Dialectics is like the art of cooking, while Superphysics is the resulting dish -- one implies the other and, like cause and effect, can never be separated.  -->
 
 This brings alternative solutions to the table. 
 
 
-Problem | Scientific Solution | Socratic-Dialectical Solution
+Problem | Scientific Solution | Superphysics Solution
 --- | --- | ---
-Political Instability | New elections or Sanctions | Social cycles
-Space travel |  Reusable rockets | Anti-gravity propulsion
-Nuclear Fusion | Confine the plasma magentically | Confine the plasma gravitationally
-Terrorism | Airstrikes | Know the needs of the pre-terrorists before they become terrorists (prevention is better than cure)
-Covid | Vaccines | End the war against the Amazon rainforest
+**Political Instability** | New elections or Sanctions | Social cycles
+**Space Travel** |  Reusable rockets | Anti-gravity propulsion
+**Nuclear Fusion** | Confine the plasma magentically | Confine the plasma gravitationally
+**Terrorism** | Airstrikes | Know the needs of the pre-terrorists before they become terrorists (prevention is better than cure)
+**Covid** | Vaccines | End the war against the Amazon rainforest
 
 
 
-{{< img src="/graphics/super/5layers4.jpg" alt="Superphysics bridges science" cap="Superphysics bridges science and metaphysics to unify all human knowledge and make it useful" >}}
+{{< img src="/graphics/super/5layers4.png" alt="Superphysics bridges science" cap="Superphysics bridges science and metaphysics to unify all human knowledge and make it useful" >}}
 
 
 
@@ -126,11 +127,11 @@ The weakness of science in not knowing how the flow of feelings work is evident 
 
 <!--  Socratic Dialectics and Hume's Science of Man -->
 
-Since science has been around since the 19th century, it would be naive to think that it will upgrade itself to include human feelings immediately. That's why we suggest a transitional science called Superphysics to represent 6-sense Dialectics of Socrates or David Hume's Science of Man, until science lowers its ego and add feelings back onto itself. 
+Since science has been around since the 19th century, it would be naive to think that it will upgrade itself to include human feelings immediately. That's why we suggest Superphysics to be a transitional science to represent 6-sense Dialectics of Socrates or David Hume's Science of Man. This is until science lowers its ego and adds feelings back onto itself. 
 
 <!-- Unlike Science that requires 100% replicability, Superphysics only needs 51+% replicability since every mind and wave-pattern is different.  -->
 
-Because it relies on all six senses, Socrates calls Dialectics more laborious than the sciences. This explains why it was rarely developed. 
+Dialectics relies all six senses. This is why Socrates called it more laborious than the sciences causing it to be rarely developed. 
 
 An alternative cancer cure that works for Mr. X might not work for Mr. Y, making it unacceptable to 'scientific' modern medicine which throws away such useful cures. Superphysics solves this by finding out the pattern of differences between Mr. X and Y so that that the cure can work for all Mr. X-types. It then finds the cures that fit Y-types, Z-types, etc. This method is unthinkable in science because the ego wants to think of itself as unique and does not want itself to be classified or branded 
 
@@ -143,19 +144,18 @@ A common example is how the Japanese believe that human behavior can be categori
 
 ### Data Science as the Main Tool of Superphysics
 
-Data Science* is really good at classification and in finding patterns and so it will be the primary tool of the Superphysicist, Superphysician, and Supersociologist who are upgraded from ordinary physicists, physicians, and sociologists/economists. The discovery of patterns in scientific data makes Superphysics the bridge or missing link between physics and metaphysics, or science and philosophy.
+Data Science* is really good at classification and in finding patterns and so it will be the primary tool of the Superphysicist, Superphysician, and Supersociologist who are upgraded from ordinary physicists, physicians, and sociologists. The discovery of patterns in scientific data makes Superphysics the bridge or missing link between physics and metaphysics, or science and philosophy.
 
 
-{{< q a="Bacon" >}}
-<p>Are we perfecting natural philosophy alone according to our method? Or the other sciences also, such as logic, ethics, politics? <br><b>We certainly intend to comprehend them all.</b></p>
-<cite>Francis Bacon, Nova Organum Simplified, Book 1, Chapter 5</cite>
+{{< q a="Francis-Bacon" c="Nova Organum Simplified, Book 1, Chapter 5" >}}
+Are we perfecting natural philosophy alone according to our method? Or the other sciences also, such as logic, ethics, politics?
+
+**We certainly intend to comprehend them all.**
 {{< /q >}}
 
 
-{{< q a="hume" >}}
-<p>All the sciences have a relation to human nature. No matter how far any science runs away from human nature, it still returns by one way or another. In pretending to explain the principles of human nature, we in effect propose a complete system of the sciences. This system is built on an almost entirely new foundation. This foundation is the only one on which the sciences can be secured. The science of man is the only solid foundation for the other sciences.</p>
-
-<cite>Hume, Simple Treatise, Advertisement</cite>
+{{< q a="hume" c="Treatise of Human Nature Simplified, Advertisement" >}}
+All the sciences have a relation to human nature. No matter how far any science runs away from human nature, it still returns by one way or another. In pretending to explain the principles of human nature, we in effect propose a complete system of the sciences. This system is built on an almost entirely new foundation. This foundation is the only one on which the sciences can be secured. The science of man is the only solid foundation for the other sciences.
 {{< /q >}}
 
 
@@ -176,13 +176,10 @@ Superphysics is then split up into three, based on a perception's relation to th
   - Supersociology is the subset that deals with socio-political principles and is based on Socrates and Ibn Khaldun
   - Supereconomics deals with economic principles and is based on Adam Smith
 
-
-<!-- <br>
-<br>
   
-### What is the difference between Modern Physics and Material Superphysics?
+<!-- ### What is the difference between Modern Physics and Material Superphysics?
 
-Modern physics is limited to the physical world which are sensed by humans through their five senses. An example of a limitation created by modern physics is rocket technology which is expensive and full or problems, keeping humans stuck on one planet when there are billions of planets to explore.
+Modern physics is limited to the physical perceptions through the five senses. An example of a limitation created by modern physics is rocket technology which is expensive and full or problems. 
 
 The propulsion systems of NASA and SpaceX are ultimately based on a caveman technology called combustion, under the paradigm of Newtonian Physics. They spend a lot of effort and money in improving a backward technology, which naturally leads to very little results.
 
@@ -193,7 +190,6 @@ The Eastern concept of Sunya, or Hume’s concept of vacuum, is the foundation o
 The understanding of this metaphysics will be more easily understood in its first implementation as Pantrynomics, which is under Social Superphysics. Unlike Material Superphysics which requires specialized equipment and unlike Bio Superphysics which is highly regulated, Social Superphysics is mostly behavioural and historical. This makes it cheaper to research and implement solutions for.
 
 For example, one of the end goals of Pantrynomics is economic singularity wherein an ego-less artificial intelligence maps the economy to coordinate supply and demand to ensure that everyone has adequate resources to exist and reach their life goals. This is similar to the end goal of Material Superphysics which is a space-time singularity map wherein an artificial intelligence knows all space-time coordinates in advance so that it can coordinate spaceships traveling into each location.
-
  -->
 
 
@@ -201,17 +197,19 @@ For example, one of the end goals of Pantrynomics is economic singularity wherei
 
 With these, we can define Superphysics as a paradigm that merges the known and proven perceptions of the physical and metaphysical dimension in order to find patterns and principles for the sake of solving problems.
 
-Those principles are then gathered as The Metaphysics of Things
+<!-- Those principles are then gathered as The Metaphysics of Things -->
 
-The process for coming up with those principles is called Socratic Dialectics
+The process for coming up with those principles is called Socratic Dialectics.
 
-Those principles are then implemented in the real world through technology and practical techniques
+Those principles are then implemented in the real world through technology and practical techniques.
 
  
-{{< mess >}}
-May 2020: For Covid, the Superphysics solution is to end the war against the Amazon as the virus will merely outmutate the vaccines
+{{< box >}}
+### Updates
 
-May 2021: This has been proven by the Delta variant
-
-December 2021: This has been proven by the Omicron variant
-{{< /mess >}}
+Date | Update
+--- | ---
+May 2020 | For Covid, the Superphysics solution is to end the war against the Amazon as the virus will merely outmutate the vaccines
+May 2021 | This has been proven by the Delta variant
+December 2021 | This has been proven by the Omicron variant
+{{< /box >}}

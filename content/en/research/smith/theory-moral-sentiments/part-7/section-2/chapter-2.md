@@ -164,7 +164,7 @@ By the wise contrivance of the Author of nature, virtue is ordinarily real wisdo
 
 Our success or failure very much depends on the opinions of others. But the best, surest, easiest, and readiest way to obtain favourable judgments is to render ourselves the proper objects of favourable judgements. Socrates said:
 
-{{< q a="soc" >}}
+{{< q a="Socrates" >}}
 Do you want the reputation of a good musician? The only sure way of obtaining it, is to become a good musician. Do you want to be thought capable of serving your country as a general or statesman? The best way too is really to acquire the art and experience of war and government, and to become really fit to be a general or statesman. In the same way, if you want to be seen as someone sober, temperate, just, and equitable, the best way is to become sober, temperate, just, and equitable. If you can really render yourself amiable, respectable, and the proper object of esteem, you will soon acquire the love, respect, and esteem of those you live with.
 {{< /q >}}
 

@@ -17,7 +17,7 @@ We know the existence of thing through our perceptions of it. Each perception ha
 
 For example, when we see a mug, we have both the physical perception of a mug and a metaphysical idea of a mug nearly at the same time. 
 
-{{< img src="/photos/objects/mugecon.jpg" alt="Mug Economics">}}
+{{< img src="/photos/objects/mugecon.jpg" alt="Mug Economics" cap="A physical mug exists in physical reality just as the idea of a mug exists in metaphysical reality">}}
 
 
 ## The Two Domains
@@ -32,7 +32,7 @@ This means that the mug exists in two domains of reality:
   - Unlike the physical mug which we can see and touch, this aethereal mug-idea can only be perceived by our abstract minds.
 
 
-{{< q a="Bacon" c="Nova Organum, Book 2" >}}
+{{< q a="Francis-Bacon" c="Nova Organum, Book 2" >}}
 Let the investigation of forms, which are eternal and immutable, constitute metaphysics. 
 
 Let the investigation of the efficient cause of matter, constitute physics.
@@ -50,11 +50,10 @@ This domain exists only because of our physical senses, most commonly by our sig
   - An example is the air which lets light pass through and offer no resistance to our hands.  
 
 
-{{< q a="Bacon" >}}
+{{< q a="Francis-Bacon" c="Nova Organum" >}}
 Humans should learn the difference between the idols of the human mind and the ideas of the divine mind. The former are mere arbitrary abstractions. The latter are the true marks of the Creator on his creatures, as they are imprinted on, and defined in matter, by true and exquisite touches. 
-<br><br>
+
 Truth and utility, therefore, are here perfectly identical. The effects are more valueable as pledges of truth rather than as practical benefits
-<cite>Francis Bacon, Nova Organum</cite>
 {{< /q >}}
 
 
@@ -103,9 +102,8 @@ If Person A goes back down, Person B would imagine that he was descending. This 
 We call this domain "aethereal" or made of aether or *akasha* in Hinduism. This will be explained later when we explain our Five Layer Model. 
 
 
-{{< q >}}
+{{< q c="Timaeus by Plato Simplifed">}}
 These causes generate an inequality which is always maintained, and is continually creating a perpetual motion of the elements... The brightest part is called the aether. The most turbid sort is mist and darkness.
-<cite>Timaeus Simplifed</cite>
 {{< /q >}}
 
 

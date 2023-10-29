@@ -28,8 +28,6 @@ You said that such a State was good and the man was good who answered to it.<!--
 I asked you the four forms of government or your 'four constitutions'.
 {{< /r >}}
 
-
-
 <!-- There were four false principal ones. Their defects, and the defects of the individuals corresponding to them, were worth examining. We finally agreed as to who was the best and who was the worst.
 We considered whether the best was not also the happiest, and the worst the most miserable. -->
 
@@ -51,14 +49,19 @@ Yes, we hear of many curious forms of government among them.
 
 
 {{< l a="Socrates" >}}
-Governments vary as the dispositions of men vary. There must be as many of the one as there are of the other. States are not made of 'oak and rock.' They are made out of the human natures which are in them. These, in a figure, turn the scale and draw other things after them. If the constitutions of States are five, the dispositions of individual minds will also be five.
+Governments vary as the dispositions of men vary. There must be as many of the one as there are of the other. States are not made of 'oak and rock.' They are made out of the human natures which are in them. These, in a figure, turn the scale and draw other things after them. 
+
+If the constitutions of States are five, the dispositions of individual minds will also be five.
 
 1. The aristocracy is made up of those who are right and good.
 2. The Spartan polity [timocratical] is made up of the contentious and ambitious
 3. The oligarchical
 4. The democratical
 5. The tyrannical
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 Let us place the most just beside the most unjust so that we can compare:
 - the happiness of the person who lives in pure justice, and
 - the unhappiness the person living in pure injustice. 
@@ -84,49 +87,63 @@ First, how does timocracy (the government of honour) arise out of aristocracy (t
 ## The Decline in the Morals and the Rise of Ego of Aristocrats leads to Timocrats
 
 {{< l a="Socrates" >}}
-All political changes originate in divisions of the actual governing power. A government which is united, however small, cannot be moved. How then, will our city be moved? How will the two classes of auxiliaries and rulers disagree among themselves or with one another?
-<!-- Shall we pray the Muses, after the manner of Homer, to tell us 'how discord first arose'?
-How would they address us?
-A city which is thus constituted can hardly be shaken. -->
+All political changes originate in divisions of the actual governing power. A united government, however small, cannot be moved. 
 
+How then will our city be moved? How will the two classes of auxiliaries and rulers disagree among themselves or with one another?
+{{< /l >}}
+
+
+{{< l a="Socrates" >}}
 Everything that has a beginning has also an end. Even a constitution such as yours will not last forever. The fertility and sterility of the soul and body of plants and animals occur when the circumferences of the circles of each are completed.
-
 - Short lives pass over a short space.
 - Long lives pass over a long space.
 {{< /l >}}
 
 
 {{< l a="Socrates" >}}
-But all the wisdom and education of your rulers will not attain the knowledge of human fecundity and sterility. The laws which regulate them will not be discovered by any sense-based intelligence. The rulers will bring children into the world when they should not. 
+But all the wisdom and education of your rulers will not attain the knowledge of human fecundity and sterility. **The laws which regulate them will not be discovered by any sense-based intelligence.** The rulers will bring children into the world when they should not. 
+{{< /l >}}
 
+{{< l a="Socrates" >}}
 Divine birth has a period which is contained in a perfect number. But human birth has a period of 3 intervals and 4 numbers of like or waxing and unlike or waning.
-These make all the terms commensurable and agreeable to one another. The base of these, with a third added, when combined with 5 and raised to the 3rd power creates two harmonies:
 
-- The first is a square which is 100 times as great.
-- The other is a shape having one side equal to the former, but oblong. It consists of 100 numbers squared upon rational diameters of a square, the side of which is five. Each side is less by one or less by two perfect squares of irrational diameters. This number represents a shape which has control over the good and evil of births.
+These make all the terms commensurable and agreeable to one another. The base of these, with a third added, when combined with 5 and raised to the 3rd power creates two harmonies:
+1. The first is a square which is 100 times as great.
+2. The other is a shape having one side equal to the former, but oblong. It consists of 100 numbers squared on rational diameters of a square, the side of which is 5. Each side is less by one or less by two perfect squares of irrational diameters. This number represents a shape which has control over the good and evil of births.
 {{< /l >}}
 
 
 ## Aristocracy is destryoed when the Four Castes become unequal
 
 {{< l a="Socrates" >}}
-When your guardians are ignorant of the law of births, and unite bride and bridegroom out of season, the children will not be goodly or fortunate. Only the best of them will be appointed by their predecessors. But they will be unworthy to hold their fathers' places.
+When your guardians are ignorant of the law of births, they will unite bride and bridegroom out of season. The children will not be goodly or fortunate. 
+<!-- Only the best of them will be appointed by their predecessors. But  --> They will be unworthy to hold their fathers' places.
 
-When they come into power as guardians, they will fail to take care of us and the Muses, first by under-valuing music. This neglect will soon extend to gymnastics. Hence, the young men of your State will be less cultivated. In the succeeding generation, the rulers will be appointed.
+When they come into power as guardians, they will fail to take care of us and the Muses, first by under-valuing music. This neglect will soon extend to gymnastics. This will make the young less cultivated. 
+<!-- In the succeeding generation, the rulers will be appointed. -->
+{{< /l >}}
 
-They would lose the guardian power of testing the metal of your different races, which, like Hesiod's, are of gold and silver and brass and iron. And so, iron will be mingled with silver, and brass with gold. Hence there will arise dissimilarity and inequality and irregularity. These always and everywhere are causes of hatred and war.
-<!-- The Muses will affirm this to be the stock from which discord has sprung. -->
+{{< l a="Socrates" >}}
+The metal of your different races, like Hesiod's, are:
+- gold
+- silver
+- brass
+- iron.
+
+The guardians would lose the guardian power of testing the races.  And so, iron will be mingled with silver, and brass with gold. Hence there will arise dissimilarity and inequality and irregularity. These always and everywhere are causes of hatred and war.
 {{< /l >}}
 
 
 {{< l a="Socrates" >}}
 When discord arose, the two castes were drawn different ways:
-
 - The iron and brass fell to acquiring money, land, houses, gold and silver.
-- But the gold and silver races, do not want money as they have the true riches in their own nature. They inclined towards virtue and the ancient order of things.
+- But the gold and silver* races, do not want money as they have true riches in their own nature. They inclined towards virtue and the ancient order of things.
 
-Previously, the upper caste formerly protected the freemen as their friends and maintainers. But there was a battle between the lower caste and the upper caste. In the end, the upper caste enslaved the freemen by making them servants and then distributing their land and houses. The upper caste went to war against the freemen. 
+Previously, the upper caste formerly protected the freemen as their friends and maintainers. But there was a battle between the lower and the upper caste. In the end, the upper caste enslaved the freemen and then distributing their land and houses. The upper caste went to war against the freemen. 
 {{< /l >}}
+
+> *Superphysics note: The iron became the democrats. The brass became the oligarchs. The silver became the tyrants. The gold became the aristocrats (philosophers). The upper caste therefore becomes an aristocracy, and the lower an oligarchy.
+
 
 
 {{< l a="Socrates" >}}
@@ -150,7 +167,7 @@ This State will resemble the oligarchy in:
 
 
 {{< l a="Socrates" >}}
-Men of this stamp will be covetous of money, like those who live in oligarchies. They will have:
+Men of this stamp will love money, like those who live in oligarchies. They will have:
 - a fierce secret longing after gold and silver
 - magazines and treasuries to hoard such things
 - castles as nests for their eggs
@@ -176,7 +193,7 @@ They have been schooled by force because they:
   <!-- Such is the origin and character of this State. A sketch of it is enough to show the type of the most perfectly just and most perfectly unjust. It would be an interminable work to go through all the States and all the characters of men.  -->
 {{< /l >}}
 
-{{< r a="Glaucon" >}}Adeimantus= I think that in the spirit of contention which characterises him, he is like Glaucon.{{< /l >}}
+{{< r a="Adeimantus" >}}I think that in the spirit of contention which characterises him, he is like Glaucon.{{< /l >}}
 
 {{< l a="Socrates" >}}
 Perhaps, but he is very different in other respects. He should:
@@ -201,11 +218,15 @@ Yes, that is the type of character which answers to timocracy.
 {{< /r >}}
 
 {{< l a="Socrates" >}}
-Such an person will despise riches only when he is young. But as he gets older he will be more and more attracted to them, because he:
-- has a piece of the avaricious nature in him
+Such a person will despise riches only when he is young. But as he gets older, he will be more and more attracted to them, because he:
+- has some of the avaricious nature in him
 - is not single-minded towards virtue, having lost philosophy, tempered with music.
 
-Philosophy was his best guardian. Riches comes and takes up her abode in a man. It is the only saviour of his virtue throughout life. Such is the timocratical youth, and he is like the timocratical State. He often starts as the son of a brave father who dwells in an ill-governed city. His father declines the honours and offices and will not go to law, nor exert himself in any way. But he is ready to waive his rights to may escape trouble. How does the son come into being?
+Philosophy was his best guardian. Riches comes and takes up her abode in a man. It is the only saviour of his virtue throughout life. 
+
+Such is the timocratical youth, and he is like the timocratical State. He often starts as the son of a brave father who lives in an ill-governed city. His father declines the honours and offices and will not go to law, nor exert himself in any way. But he is ready to waive his rights to escape trouble. 
+
+How does the son come into being?
 {{< /l >}}
 
 

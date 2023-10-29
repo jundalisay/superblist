@@ -16,18 +16,16 @@ One might suspect that Hesiod was the first to look for such a thing-or some one
 
 Hesiod says:
 
-{{< quote >}}
+{{< q >}}
 "First of all things was chaos made, and then
 
 "Broad-breasted earth...
 
 "And love, 'mid all the gods pre-eminent, "
-{{< /quote >}}
+{{< /q >}}
 
 
 These imply that there is a cause which will move existing things and bring them together. 
-
-<!-- How these thinkers should be arranged with regard to priority of discovery let us be allowed to decide later; but since --> 
 
 The contraries of the various forms of good were also perceived to be present in nature-not only order and the beautiful, but also disorder and the ugly, and bad things in greater number than good, and ignoble things than beautiful-therefore another thinker introduced friendship and strife, each of the two the cause of one of these two sets of qualities. 
 

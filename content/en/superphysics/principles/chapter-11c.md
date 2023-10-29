@@ -1,12 +1,14 @@
 ---
-title: "The Meaning of Red Herring, Ad hominem, etc"
+heading: Chapter 11b
+title: "The Meaning of Red Herring, Ad Hominem, etc"
 date: 2020-09-29
 image: /photos/wtf.jpg
 description: "We explain the meaning of common fallacies by removing the jargon"
-heading: Chapter 11b
 contributors: ['Juan']
 weight: 44
 icon: /icons/sp.png
+aliases:
+  /superphysics/fallacies/red-herring
 ---
 
 
@@ -20,7 +22,8 @@ Socrates was aware of such useless thinking and so he classified the output of a
 
 ## Truth vs Fallacy
 
-![Truth diagram](/graphics/truth.jpg)
+{{< img src="/graphics/logic/truth.jpg" alt="Fallacy diagram" cap="A fallacy is something that cannot be perceived by anyone in either the physical or metaphysical domains" >}}
+
 <!-- ![](https://sorasystem.sirv.com/graphics/f-truth.jpg) -->
 
 <!-- https://sorasystem.sirv.com/graphics/f-actualmisdirection.jpg
@@ -29,22 +32,27 @@ https://sorasystem.sirv.com/graphics/f-circ.jpg
 https://sorasystem.sirv.com/graphics/f-circr.jpg
 https://sorasystem.sirv.com/graphics/f-cut.jpg -->
 
-A truth is a direct relation and equivalence of a metaphysical idea to a physical reality or manifestation. A fallacy is a non-equivalence. “Unicorns exist” is true if they are perceivable by all and false if not perceivable.
+A truth is a direct relation and equivalence of a metaphysical idea to a physical reality or manifestation. 
 
-![Sophistry diagram](/graphics/logic/sophistry.jpg)
+A fallacy is a non-equivalence. “Unicorns exist” is true if they are perceivable by all and false if not perceivable.
 
-A truthful logic leads to an idea that everyone can perceive or exist in reality. A false logic directly leads to an idea that does not exist or cannot persist (just as some subatomic particles exist only for a few nanoseconds). These are called “formal fallacies”
+A truthful logic leads to an idea that everyone can perceive or exist in reality. 
+
+A false logic directly leads to an idea that does not exist or cannot persist (just as some subatomic particles exist only for a few nanoseconds). These are called “formal fallacies”
+
+{{< img src="/graphics/logic/sophistry.jpg" alt="Sophistry diagram" cap="A sophistry is a logic that is true only to some people from a limited perspective. It is not true universally or all the time even if it is believed to be universal and constant" >}}
+
 
 A sophistry is a train of ideas that leads to a fallacy. An example is: “The economy will grow fastest if capital gains taxes are abolished.” Sophistries are now called “informal fallacies”
 
 Fallacies are easy to detect because there is no long train of ideas to confuse the mind. But sophistries are harder because of the long logic. In order to simplify them, common English words can be used instead of jargon below.
 
-> Solution: Give a real-world example that refutes the fallacy
+<!-- > Solution: Give a real-world example that refutes the fallacy -->
 
 
 ### “Misdirection” instead of “Red Herring”
 
-![Red-herring diagram](/graphics/misdirection.jpg)
+![Red-herring diagram](/graphics/logic/misdirection.jpg)
 
 A misdirection uses the natural relation of two related ideas to misdirect the logic onto a fallacy. An example is: “Children are our future, so we must raise taxes for a better future.”
 
@@ -53,7 +61,9 @@ A misdirection uses the natural relation of two related ideas to misdirect the l
 
 ### “Specific Misdirection” instead of “Straw Man”
 
-![Straw man diagram](https://sorasystem.sirv.com/graphics/f-actualmisdirection.jpg)
+{{< img src="/graphics/logic/sophistry.jpg" alt="Specific Misdirection" >}}
+
+<!-- ![Straw man diagram](/graphics/lgoichttps://sorasystem.sirv.com/graphics/f-actualmisdirection.jpg) -->
 
 A specific misdirection is a misdirection that resolves into a specific idea. Examples are: 
 - Children are our future, so we must raise taxes to fund all children’s programs.
@@ -61,9 +71,9 @@ A specific misdirection is a misdirection that resolves into a specific idea. Ex
 > Solution: Same as above
 
 
-### “Fake dilemma” instead of “False Dichotomy"
+### “Fake Dilemma” instead of “False Dichotomy"
 
-![Fake Dilemma diagram](/graphics/dilemma.jpg)
+{{< img src="/graphics/logic/dilemma.jpg" alt="Fake dilemma”" >}}
 
 A fake dilemma forks away from the truth. Examples are: 
 - "Children are our future. Either we give them everything they need or give them nothing at all." 
@@ -74,20 +84,21 @@ A fake dilemma forks away from the truth. Examples are:
 > Solution: Mention a third option
 
 
-### “Personal attack” instead of “Ad hominem”
+### “Personal Attack” instead of “Ad hominem”
 
-![Personal attack diagram](https://sorasystem.sirv.com/graphics/f-attack.jpg)
+{{< img src="/graphics/logic/attack.jpg" alt="Personal Attack" >}}
 
-A personal attack goes outside of the ideas in the logic and goes to the other party instead, as an idea in itself. An example is: “You’ve never had children so your advocacy against children’s programs is wrong.”
+A personal attack goes outside of the ideas in the logic and goes to the other party instead, as an idea in itself. An example is: 
+- “You’ve never had children so your advocacy against children’s programs is wrong.”
 
 > Solution: Re-divert back to the topic
 
 
-### “Circular answer” instead of “Begging the Question”
+### “Circular Answer” instead of “Begging the Question”
 
-![Circular answer](https://sorasystem.sirv.com/graphics/f-circ.jpg)
+{{< img src="/graphics/logic/circle.jpg" alt="Circular Answer" >}}
 
-A circular answer answers itself. Examples are: 
+A circular answer answers itself. An example is: 
 - “Children are the future because children are the future.” 
 
 The real answer is arbitrary depending on the person’s mind.
@@ -95,18 +106,21 @@ The real answer is arbitrary depending on the person’s mind.
 > Solution: Ask why he feels that way
 
 
-### Circular reasoning
+### Circular Reasoning
 
-![Circular reasoning](https://sorasystem.sirv.com/graphics/f-circr.jpg)
+{{< img src="/graphics/logic/circular.jpg" alt="Circular Reasoning" >}}
 
-A circular reasoning is a circular answer that goes through other ideas before coming back to itself. An example is: “Children are the future because we ourselves were children in the past”
+A circular reasoning is a circular answer that goes through other ideas before coming back to itself. This is similar to how a specific misdirection is a long version of a misdirection. 
+
+An example is:
+- “Children are the future because we ourselves were children in the past”
 
 > Solution: Same as circular answer
 
 
 ### “Cutting to the Chase” instead of “Occam’s Razor”
 
-![Cutting to the Chase](https://sorasystem.sirv.com/graphics/f-cut.jpg)
+{{< img src="/graphics/logic/cut.jpg" alt="Cutting to the Chase" >}}
 
 Cutting to the chase goes direct to the cause and effect by disregarding superfluous ideas. All reasoning is based on feelings and so cutting to the chase goes to the more direct relation of cause and effect by taking into account the feeling of the other person.
 
@@ -115,7 +129,12 @@ Cutting to the chase goes direct to the cause and effect by disregarding superfl
 
 ### “Doesn't Follow" instead of “Non-sequitir”
 
-Something is unconnected to an idea if it doesn't naturally follow it. An example is: "The influx of Mexican immmigrants influenced the mask mandates of the federal government.“ Unlike misdirection, the premise was not built up. Instead an idea is connected immediately to another idea.
+{{< img src="/graphics/logic/follow.png" alt="“Doesn't Follow" >}}
+
+Something is unconnected to an idea if it doesn't naturally follow it. Unlike misdirection, the premise was not built up. Instead an idea is connected immediately to another idea.
+
+An example is:
+- "The influx of Mexican immmigrants influenced the mask mandates of the federal government.“ 
 
 > Solution: Give real-world examples
 
@@ -132,14 +151,15 @@ But if people feel the need for peace and order, then they can create a solution
 
 In the non-dialectic system of debate, people just push their own egos without coming to any synthesis of ideas. But with dialectics, they agree to surrender their egos from the very beginning in order to eventually synhesize their minds and come up with a real solution.
 
-{{< img src="https://sorasystem.sirv.com/graphics/dia.jpg" alt="Debate vs Dialectics" cap="Diffcult disagreements (caused by conflicting aethereal ideas) can be easily resolved by tapping into the spacetime layer (giving it time)" >}}
+{{< img src="/graphics/logic/dialectics.jpg" alt="Debate vs Dialectics" cap="Diffcult disagreements (caused by conflicting aethereal ideas) can be easily resolved by tapping into the spacetime layer (giving it time)" >}}
 
 
 
 So if you’re arguing with someone endlessly without any compromise, it simply means that his ego only feels for himself and his own ideas and has no desire to reduce itself. Normally, this is solved by disconnecting from that person in order to avoid his toxic ego. 
 
-But if that person is your boss or the president of your country, then without any system of dialectics, the only choices are to stay and accept the problem or leave to find a new boss or country. Therefore,it would make sense for stability-loving people (if they really knew their interest) to advocate dialectics as early as possible. Socrates suggests it be taught to people 30 years old and above:
+But if that person is your boss or the president of your country, then without any system of dialectics, the only choices are to stay and accept the problem or leave to find a new boss or country. Therefore, it would make sense for stability-loving people to advocate dialectics as early as possible. 
 
+Socrates suggests it be taught to people 30 years old and above:
 
 {{< q a="Socrates" c="Republic Book 7" >}}
 Therefore, that your feelings may not be moved to pity about our citizens who are now thirty years of age, every care must be taken in introducing them to dialectic. 

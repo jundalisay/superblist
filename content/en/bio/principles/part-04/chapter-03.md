@@ -6,7 +6,7 @@ description: "Bio Superphysics uses 5 medical paradigms which are aligned with t
 # date: "2020-01-01"
 date: 2020-01-25
 weight: 8
-image: "/photos/consult.jpg"
+image: "/photos/med/alzh.jpg"
 author: "Juan"
 tags: ["Western Medicine", "Chinese Medicine", "Ayurveda", "Naturopathy", "Homeopathy"]
 icon: "/icons/spmed.png"
@@ -26,7 +26,7 @@ Superphysics | Physics | Greeks (Timaeus) | Hindus | Chinese
 Aethereal | Higgs | Aether | Akasha | 水 still water 
 Spatial | Gravitation | Wind | Vayu |木 moving wood
 Radiant | Electromagnetism | Fire | Tejas | 火 radiant fire
-Radioactive | Weak | Water | Jala | 土 transforming earth
+Transformative | Weak | Water | Jala | 土 transforming earth
 Material | Strong | Earth | Pritvi | 金 solid metal
 
 
@@ -39,7 +39,7 @@ Layer | Greek Name | Paradigm | Description
 Aethereal | Aether | Homeopathy, Yoga | Knowledge of personality and chakras
 Spatial | Air | Ayurveda (Vata), Yoga, Chi Gong, Traditional Chinese Medicine | Knowledge of Chi or Vayu and external environment
 Radiant | Fire | Ayurveda (Pitta), Traditional Chinese Medicine | Knowledge of energy points and metabolism
-Radioactive | Water | Naturopathy, Ayurveda (Kapha) | Knowledge of Acidic-Alkaline states
+Transformative | Water | Naturopathy, Ayurveda (Kapha) | Knowledge of Acidic-Alkaline states
 Material | Earth | Western Medicine, Ayurveda (Kapha) | Knowledge of material and chemical reactions 
 
 
@@ -53,7 +53,7 @@ This deals with natural herbs and substances to deal with diseases. We assign it
 
 ### 3. Ayurveda 
 
-This uses the principles of the three doshas as Vata, Kapha, and Pitta which represent the Spatial, Radiant, and Radioactive-Material layers respectively. We assign it to Radiant layer as the middle of the five traditions. 
+This uses the principles of the three doshas as Vata, Kapha, and Pitta which represent the Spatial, Radiant, and Transformative-Material layers respectively. We assign it to Radiant layer as the middle of the five traditions. 
 
 ### 2. Chinese Medicine 
 

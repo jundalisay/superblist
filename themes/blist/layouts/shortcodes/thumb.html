@@ -1,0 +1,9 @@
+{{ $src := .Get "a" | default "" }}
+{{ $size := .Get "s" | default "" }}
+{{ $alt := .Get "alt" | default "Image" }}
+{{ $cap := .Get "cap" | default "" }}
+
+<img src="{{ $src }}" alt="{{ $alt }}" class="text-center rounded-lg shadow mx-auto" loading="lazy" height="100px" width="100px">
+{{ if $cap }}
+<figcaption>{{ $cap | markdownify }}</figcaption>
+{{ end }}

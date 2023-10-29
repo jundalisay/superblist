@@ -12,11 +12,11 @@ The orthodox quantum position states that the time-function characterises the in
 
 Niels Bohr is an  “orthodox” quantum theoretician who does justice to the problem.
 
-{{< quote >}}
+{{< q >}}
 If the partial systems A and B form a total system described by its Psi-function Psi/(AB), there is no reason why any mutually independent existence (state of reality) should be ascribed to the partial systems A and B viewed separately, not even if the partial systems are spatially separated from each other at the particular time under consideration. 
 
 The assertion that, in this latter case, the real situation of B could not be (directly) influenced by any measurement taken on A is, therefore, within the framework of quantum theory, unfounded and (as the paradox shows) unacceptable.
-{{< /quote >}}
+{{< /q >}}
 
 
 This view at the matter means that the paradox forces us to relinquish one of the two assertions= 

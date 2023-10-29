@@ -10,6 +10,8 @@ image: "/covers/med.png"
 icon: "/icons/descartes.png"
 ---
 
+
+
 Yesterday’s meditation raised serious doubts which I am unable to resolve. 
 
 I feel like I suddenly dropped into a deep whirlpool that tumbles me around that I canot stand on the bottom nor swim to the top. 

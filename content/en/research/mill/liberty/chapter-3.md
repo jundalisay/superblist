@@ -6,7 +6,6 @@ weight: 14
 contributors: ['John Stuart Mill']
 description: "Those are the reasons why humans should be free to form opinions and express them without reserve"
 icon: "/icons/mill.png"
-# youtube: "UpwdTIAcLVY"
 ---
 
 
@@ -14,13 +13,8 @@ Those are the reasons why humans should be free to:
 - form opinions
 - express their opinions without reserve
 
-<!--  and such the baneful consequences to the intellectual, and through that to the moral nature of man, unless this liberty is either conceded, or asserted in spite of prohibition;  -->
-
 But should humans be also free to act them out? 
 
-<!-- let us next examine whether the same reasons do not require that men should be free to act upon their opinions—to carry these out in their lives, without hindrance, either physical or moral, from their fellow-men, so long as it is at their own risk and peril.  -->
-
-<!-- This last proviso is of course indispensable.  -->
 
 Actions should not be as free as opinions.
 
@@ -51,19 +45,12 @@ Thus, the liberty of the individual must be limited. He must not make himself a 
 
 But this contradicts the rule of letting opinions be free. 
 
-<!-- But if he refrains from molesting others in what concerns them, --> <!-- and merely acts according to his own inclination and judgment in things which concern himself, --> <!-- then same reasons which show that opinion should be free, prove also that he should be allowed, without molestation, to carry his opinions into practice at his own cost.  -->
-
-<!-- That mankind are not infallible; that their truths, for the most part, are only half-truths; that unity of opinion, unless resulting from the fullest and freest comparison of opposite opinions, is not[Pg 105] desirable, and diversity not an evil, but a good, until mankind are much more capable than at present of recognising all sides of the truth, are principles applicable to men's modes of action, not less than to their opinions. --> 
-
-<!-- As it is useful that while --> 
-
 The imperfection of mankind leads to the need for different opinions. This means that there should be different experiments of living. {{< color color="red" val="Free scope should be given to varieties of character, short of injury to others. The worth of different modes of life should be proved practically, when any one thinks fit to try them.*" >}}
 
 
 > *Superphysics Note: Here, Mill encourages inequality
 
 
-<!-- It is desirable, in short, that , --> 
 
 ## Individuality
 
@@ -71,15 +58,7 @@ Individuality should assert itself in things which do not primarily concern othe
 
 This individuality will add happiness when the traditions or customs are insufficient in providing it. This happiness will lead to social progress. 
 
-<!-- Where, not the person's own character, but --> 
-<!-- there is wanting one of the principal ingredients of human happiness, and quite the chief ingredient of individual and social progress. -->
-
-<!-- In maintaining this principle, the greatest difficulty to be encountered does not lie in the appreciation of means towards an acknowledged end, but in  -->
-
 The greatest difficulty with this principle is the indifference of persons to the end itself. 
-
-
-<!-- free development of  is ; that it is not only a co-ordinate element with all that is designated by the terms civilisation, instruction, education, culture, but is itself a necessary part and condition of all those things.  -->
 
 Liberty would not be undervalued if individuality were enshrined as one of the leading essentials of well-being. {{< color color="red" val="It would make the adjustment of the boundaries between individuality and social control easier*." >}}
 
@@ -95,13 +74,11 @@ But the evil is that individual spontaneity is not seen as having any value. <!-
 
 The majority are satisfied with the ways as they now are. <!--  (for it is they who make them what they are). They cannot comprehend why those ways should not be good enough for everybody. --> Spontaneity forms no part of the ideal of the majority of moral and social reformers. It is is rather looked on with jealousy, as a troublesome and rebellious obstruction to what would be best for mankind. 
 
-<!--  to the general acceptance of what these reformers, in their own judgment, think .  -->
-
 Wilhelm von Humboldt of Germany was an eminent as a savant and a politician. He wrote that:
 
-{{< quote >}}
+{{< q >}}
 "the goal of man is to develop his powers to a complete and consistent whole in the highest and most harmonious way. Thus everyone must focus on the individuality of power and development. Freedom and a a variety of situations are needed for this, which will then lead to individual vigour and manifold diversity which combine themselves in "originality"
-{{< /quote >}}11
+{{< /q >}}
 
 
 Few people know Von Humboldt's doctrine. Few put so high a value to individuality. 
@@ -150,7 +127,9 @@ Yet a perfect human being also has desires and impulses just as he has beliefs a
 
 It is not because men's desires are strong that they act bad. Iit is because their consciences are weak. 
 
-{{< color color="red" val="There is no natural connection between strong impulses and a weak conscience.  The natural connection is the other way.*" >}}
+{{< c v="red" >}}
+There is no natural connection between strong impulses and a weak conscience.  The natural connection is the other way.*
+{{< /c >}}
 
 
 > *Superphysics Note: Here, Mill shows his ignorance of the concept of the ego being the effect of the Negative Force.

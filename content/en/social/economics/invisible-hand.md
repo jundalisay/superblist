@@ -13,9 +13,9 @@ toc: false
 
 
 
-The invisible hand concept by Adam Smith is one of the most important ideas in our proposed economic science, making up [the Second Law of Value](/social/economics/principles/second-law). 
+The invisible hand concept by Adam Smith is one of the most important ideas of Supereconomics, making up [the Second Law of Value](/social/economics/principles/second-law). 
 
-This Second Law leads to [the effort theory of value](/social/economics/principles/effort-theory-of-value) which then replaces marginal utility. Without marginal utility, then the arbitrary marginal pricing and profit maximization of Neoclassical Economics cease to be logical as they necessarily violate the [Fourth Law of Value](/social/economics/principles/fourth-law). 
+This Second Law leads to [the effort theory of value](/social/economics/principles/part-2/chapter-01b) which then replaces marginal utility. Without marginal utility, the arbitrary marginal pricing and profit maximization of Neoclassical Economics cease to be logical as they necessarily violate the [Fourth Law of Value](/social/economics/principles/part-4/chapter-01/) which is the concept of **Natural Price**. 
 
 <!-- As it is so fundamental, it has to be thoroughly explained. --> 
 

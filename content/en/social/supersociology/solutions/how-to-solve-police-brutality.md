@@ -32,17 +32,14 @@ The problem with this is that proper morality is not part of the training, and, 
 
 Law enforcement is part of the overall justice system, with the police handling the task of enforcing justice. According to David Hume, justice is an artificial system arising from two factors: the selfishness of humans and the scarcity of resources.
 
-{{< q a="hume" >}}
+{{< q a="Hume" c="The Treatise of Human Nature Simplified, Book 3, Part 2, Section 3" >}}
 Increase the benevolence of men or the bounty of nature, and you render justice unnecessary by replacing it with much nobler virtues and more valuable blessings. 
-<cite>The Simple Treatise of Human Nature, Book 3, Part 2, Section 3</cite>
 {{< /q >}}
 
 
 The general idea of the Left is to divert the funds for justice and instead use it to provide resources for all humans — this is the same idea behind socialism.
 
 {{< youtube UPcsGoURt-s >}}
-<!-- https://www.youtube.com/watch?v=5-aa7rv1CbA -->
-
 
 **The problem is that everyone’s needs are different**. A granular allocation of resources is impossible. This is why rationing is established instead. This is why utopian socialism naturally mutated into Communism. Rationing is also expensive and oppressive. This makes scarcity slowly creep back in with every allocation, leading to the poverty seen in Communist states.
 
@@ -69,12 +66,10 @@ Our solution therefore has three parts:
 
 While the metaphysics behind this is from Hume, the actual solution is rooted in Socrates who proposed that the police or guardians of society be taught moral philosophy aside from martial skills:
 
-{{< q a="Socrates" >}}
+{{< q a="Socrates" c="The Republic by Plato Simplified" >}}
 Afterwards, they must be sent down again into the cave and compelled to hold any military or other office for young men. In this way, they will get their experience of life. They can then be tested whether they will stand firm or flinch when they are drawn in all manner of ways by temptation.
-<cite>The Simple Republic by Plato</cite>
 {{< /q >}}
 
-<!--  and requirements in the job is an implementation of Socrates’ solution of having a special breed of philosopher-rulers tasked with maintaining the State. This is the best solution to any problem in justice, whether in states that are small, big, rich or poor. -->
 
-A system of moral philosophy requires [a definition of morals](/social/supersociology/principles/common-interest) which is the first step towards a solid system of justice which is the foundation of any happy and prosperous nation. Therefore, the first step towards eliminating police brutality is to define what the police are **morally** supposed to do. Without this, any proposed solution would find itself in some problem sooner or later.
+A system of moral philosophy requires [a definition of morals](/social/supersociology/principles/part-1/chapter-03) which is the first step towards a solid system of justice which is the foundation of any happy and prosperous nation. Therefore, the first step towards eliminating police brutality is to define what the police are **morally** supposed to do. Without this, any proposed solution would find itself in some problem sooner or later.
 

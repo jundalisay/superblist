@@ -11,7 +11,7 @@ toc: false
 
 ## The Origin of Laws
 
-According to David Hume, a society is bound together by laws from a justice system. These laws were originally created to make people useful to each other and to maintain peace and order. 
+According to D Hume, a society is bound together by laws from a justice system. These laws were originally created to make people useful to each other and to maintain peace and order. 
 
 Initially, these were dictated arbitrarily by a chieftain or king. In time, as the society progressed, those laws were decided by the people themselves through a parliament or senate. This allowed the laws to suit the people and their changing situation. 
 
@@ -34,9 +34,8 @@ The problem is that only a few people are consulted when making such laws. This 
 
 To solve this, we propose a set of 'Constitutional Virtues' that are decided on by the people. 
 
-{{< q a="Socrates" >}}
+{{< q a="Socrates" c="The Republic by Plato Simplified, Book 8">}}
 Those virtues make their abode in the minds of men who are dear to the gods, and are their best guardians and sentinels. 
-<cite>Socrates, The Simple Republic by Plato, Book 8</cite>
 {{< /q >}}
 
 

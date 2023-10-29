@@ -11,14 +11,14 @@ icon: "/icons/py.png"
 
 <!-- BY THOMAS TAYLOR. -->
 
-{{< quote >}}
+{{< q >}}
 Approach ye genuine philosophic few,
 The Pythagoric Life belongs to you:
 But far, far off ye vulgar herd profane;
 For Wisdom’s voice is heard by you in vain:
 And you, Mind’s lowest link, and darksome end,
 Good Rulers, Customs, Laws, alone can mend.
-{{< /quote >}}
+{{< /q >}}
 
 
 
@@ -30,7 +30,9 @@ Pythagoras was the father of philosophy.
 
 Plato is the most genuine and the best of all his disciples.
 
-Pythagoras' biographer, Iamblichus, is well known to every Platonist that he was seen by them as divine. After the encomium passed on him by the acute Emperor Julian, “that he was posterior indeed in time, but not in genius, to Plato,”[1] all further praise of him would be as vii unnecessary, as the defamation of him by certain modern critics is contemptible and idle. 
+Pythagoras' biographer, Iamblichus, is well known to every Platonist that he was seen by them as divine. 
+
+After the encomium passed on him by the acute Emperor Julian, “that he was posterior indeed in time, but not in genius, to Plato,”[1] all further praise of him would be as vii unnecessary, as the defamation of him by certain modern critics is contemptible and idle. 
 
 For these homonculi looking solely to his deficiency in point of style, and not to the magnitude of his intellect, perceive only his little blemishes, but have not even a glimpse of his surpassing excellence. They minutely notice the motes that are scattered in the sunbeams of his genius, but they feel not its invigorating warmth, they see not its dazzling radiance.
 
@@ -64,7 +66,9 @@ As to the Pythagoric Ethical Fragments, all eulogy of them is superfluous, when 
 
 With respect to the collection of Pythagoric Sentences in this volume, it is almost needless to observe that they are incomparably excellent; and it is deeply to be regretted that the Greek original of the Sentences of Sextus[6] being lost, the fraudulent Latin version of them by the Presbyter Ruffinus alone remains. I call it a fraudulent version, because Ruffinus, wishing to persuade the reader that these Sentences were written by a bishop of the name of Sixtus, has in many places perverted and contaminated the meaning of the original. 
 
-In the selection, however, which I have made from these Sentences, I have endeavoured, and I trust not in vain, to give the genuine xviii sense of Sextus, unmingled with the barbarous and polluted interpolations of Ruffinus. If the English reader has my translation of the Sentences of Demophilus, and Mr. Bridgman’s translation of the Golden Sentences of Democrates, and the Similitudes of Demophilus,[7] he will then be possessed of all the Pythagoric Sentences that are extant, those alone of Sextus excepted, which I have not translated, in consequence of the very impure and spurious state, in which they at present exist.
+In the selection, however, which I have made from these Sentences, I have endeavoured, and I trust not in vain, to give the genuine xviii sense of Sextus, unmingled with the barbarous and polluted interpolations of Ruffinus.
+
+If the English reader has my translation of the Sentences of Demophilus, and Mr. Bridgman’s translation of the Golden Sentences of Democrates, and the Similitudes of Demophilus,[7] he will then be possessed of all the Pythagoric Sentences that are extant, those alone of Sextus excepted, which I have not translated, in consequence of the very impure and spurious state, in which they at present exist.
 
 I deem it also requisite to observe, that the Pythagoric life which is here delineated, is a specimen of the greatest perfection in virtue and wisdom, xix which can be obtained by man in the present state. Hence, it exhibits piety unadulterated with folly, moral virtue uncontaminated with vice, science unmingled with sophistry, dignity of mind and manners unaccompanied with pride, a sublime magnificence in theory, without any degradation in practice, and a vigor of intellect, which elevates its possessor to the vision of divinity, and thus deifies while it exalts.
 

@@ -1467,41 +1467,17 @@ paginate = 12
   #   website = "linkedin"
   #   url = "https://linkedin.com/in/"
   # [[params.homepage.social.icons]]
-  #   website = "xing"
-  #   url = "https://www.xing.com/profile/"
-  # [[params.homepage.social.icons]]
   #   website = "telegram"
   #   url = "https://t.me/"
   # [[params.homepage.social.icons]]
   #   website = "github"
   #   url = "https://github.com/"
   # [[params.homepage.social.icons]]
-  #   website = "buymeacoffee"
-  #   url = "https://www.buymeacoffee.com/"
-  # [[params.homepage.social.icons]]
-  #   website = "medium"
-  #   url = "https://medium.com/"
-  # [[params.homepage.social.icons]]
-  #   website = "reddit"
-  #   url = "https://reddit.com/"
-  # [[params.homepage.social.icons]]
-  #   website = "dribbble"
-  #   url = "https://dribbble.com/"
-  # [[params.homepage.social.icons]]
-  #   website = "stackoverflow"
-  #   url = "https://stackoverflow.com/"
-  # [[params.homepage.social.icons]]
-  #   website = "xda"
-  #   url = "https://forum.xda-developers.com/"
-  # [[params.homepage.social.icons]]
   #   website = "tiktok"
   #   url = "https://tiktok.com"
   # [[params.homepage.social.icons]]
   #   website = "googlescholar"
   #   url = "https://scholar.google.com/"
-  # [[params.homepage.social.icons]]
-  #   website = "mastodon"
-  #   url = "https://joinmastodon.org"
   [[params.homepage.social.icons]]
     website = "youtube"
     url = "https://www.youtube.com/@superphysicsorg"
@@ -1515,9 +1491,6 @@ paginate = 12
   #   website = "behance"
   #   url = "https://behance.net"
 
-# [[menu.main]]
-#   name = "About"
-#   url = "/about"
 
 [build]
   writeStats = true

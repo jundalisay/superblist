@@ -5,36 +5,29 @@ date: 2021-06-26
 weight: 30
 image: "/graphics/econ/dcti.jpg"
 description: "The Demand Capital Trade Industry Tool is for Troubleshooting Economies according to the Fourth Law of Value"
-type: "featured"
-author: Dalisay
+contributors: ['Juan']
 icon: /icons/pantry.png
-aliases:
-  /social/economics/principles/dcti
-  /articles/taonomics/dcti
-  /articles/pantrynomics/the-demand-capital-trade-industry-tool  
-  /posts/taonomics/the-demand-capital-trade-industry-tool
 ---
 
 
-According to Adam Smith, a crisis begins when a country's industry does not match its capital, just as when an inexperienced entrepreneur launches a business out of speculation:
+According to Adam Smith, a crisis begins when a country's industry does not match its capital. This is similar to an inexperienced entrepreneur launching a business out of sheer speculation.
 
 - The 2008 Financial crisis was caused by securitization unnaturally increasing industry on paper 
 - The Asian Financial Crisis was caused by hot money unnaturally increasing industry in Asia. This led to non-performing loans
 - Black Wednesday in 1992 was caused by John Major overvaluing the pound to promote a rosy British industry. This false picture was attacked by George Soros
 - The 1929 Crash was caused by stock traders who overvalued stocks
-- The Mississippi Scheme was caused by John Law overvaluing the industry potential of Louisiana
+- The Mississippi Scheme was caused by John Law overvaluing the economic potential of Louisiana
 
-{{< q a="smith" >}}
-<p>The general industry of society can never exceed what the capital of the society can employ.. the number that can be employed by a society must be proportional to the total capital of that society. It can never exceed that proportion. No commercial regulation can increase the amount of industry in any society beyond what its capital can maintain. It can only divert some of it into a direction which it might not otherwise have gone into. It is uncertain whether this artificial direction will be more advantageous to society than its natural direction.</p>
-<cite>The Simple Wealth of Nations, Book 4</cite>
+{{< q a="Smith" c="The Wealth of Nations Simplified, Book 4" >}}
+The general industry of society can never exceed what the capital of the society can employ.. the number that can be employed by a society must be proportional to the total capital of that society. No commercial regulation can increase industry beyond what its capital can maintain. It can only divert some of it into a direction which it might not otherwise have gone into. It is uncertain whether this artificial direction will be more advantageous than its natural direction.
 {{< /q >}}
 
 
-Superphysics has three tools* to check the health of an economy:
+Supereconomics has three tools* to check the health of an economy:
 
-1. [Purchasing Power or NDP](/social/economics/solutions/gdp) - this checks the First and Second Laws of Value
+1. [Purchasing Power or NDP](/social/economics/principles/part-4/chapter-07b) - this checks the First and Second Laws of Value
 2. [Economic Table](/social/economics/solutions/modern-economic-table) - this checks the Third and Fourth Laws of Value
-3. DCTI - checks the four laws through time
+3. DCTI - this checks the four laws through time
 
 
 > *The Economic Table and DCTI are too time-consuming to do manually, so we just visualize it through an app. NDP, on the other hand, can be done with pen and paper. 
@@ -50,15 +43,38 @@ Quality of Real Value< | `GDP` + `Demand` + `Capital` | Economic Table
 
 ## The DCTI Tool
 
-The DCTI Tool can prevent crises by checking a society's Demand, Capital, Trade, and Industry metrics to see if they match [the Four Laws of Value](/social/economics/principles/four-laws-of-value):
+The DCTI Tool can prevent crises by checking a society's Demand, Capital, Trade, and Industry metrics to see if they match [the Four Laws of Value](/social/economics/principles/intro/chapter-04/):
 
 ![DCTI Tool](/graphics/econ/dcti.jpg)
 <!-- ![](https://sorasystem.sirv.com/charts/dcti/val.png) -->
 
-It will go with Pool Clearing to filter out currency attacks. It can prevent capital flight by establishing a gold standard after the industries of all member countries are known.  Unlike Basic Universal Revenue and the Economic Table which can only be used with Superphysics, the DCTI (as well as the Grain Index and Purchasing Power) can be used by Economics.
+These 4 factors manifest as economic indicators.
 
-It will go with Indicators to check whether the economy is going with [the Eagle](/social/economics/principles/eagle). Is a society growing sustainably as it moves forward, giving revenue to wage-earners, profit-earners, rent-tax-earners, and donation earners? Or is most of the revenue going to banks, government agencies, and tech companies while starving the rest?
+Factor | Examples
+--- | --- | ---
+Demand | Population, Tourist Arrivals
+Capital | Capital Formation, PISA scores, University Rankings 
+Industry | GDP, Industrial Production, Remittances
+Trade | Money Supply, Balance of Trade
 
+An imbalance of these 4 factors will lead to some kind of economic crisis. 
+
+Factor | Too high | Too low
+--- | --- | ---
+Demand | Overpopulation | Population Decline
+Capital | Overinvestment | Underinvestment 
+Industry | Overproduction | Underproduction 
+Trade | Inflation | Bottlnecks, Trade wars
+
+
+<!-- It will go with Pool Clearing to filter out currency attacks. It can prevent capital flight by establishing a gold standard after the industries of all member countries are known.  Unlike Basic Universal Revenue and the Economic Table which can only be used with Superphysics, the DCTI (as well as the Grain Index and Purchasing Power) can be used by Economics.
+
+It will go with Indicators to check whether the economy is going with [the Eagle](/social/economics/principles/eagle). Is a society growing sustainably as it moves forward, giving revenue to wage-earners, profit-earners, rent-tax-earners, and donation earners? Or is most of the revenue going to banks, government agencies, and tech companies while starving the rest? -->
+
+
+## A Heckofalot of Ratios
+
+The relationships between these factors create qualitative and quantitative ratios: 
 
 Type | Demand The needs and wants of the people | Capital Available potential effort | Trade The exchange of productions or spreading of the effort | Industry The actual kinetic effort or production 
 --- | --- | --- | --- | ---
@@ -72,9 +88,9 @@ Goal | Minimum Requirements | Real Price via the Economic Table | Economic Growt
 
 
 
-## A Heckofalot of Ratios
+These ratios describe the socio-economic nature of the society in question. This mirrors the 'harmonic' ratios of [Kepler's Platonic Solids](/research/kepler/harmony/book-1/intro) and is very different from Economics which favors equations. This usefulness of this is proven by the usefulness of financial ratios used by the Capitalist system. 
 
-These give us ratios that describe the socio-economic nature of the society in question. This mirrors the 'harmonic' ratios of [Kepler's Platonic Solids](/research/kepler/harmony/book-1/intro) and is very different from Economics which favors equations:
+We can classify the ratios into the following:
 
 Demand Ratios | Description
 --- | ---

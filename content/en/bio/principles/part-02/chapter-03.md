@@ -17,7 +17,7 @@ Layer | Example in Maximized Agriculture
 --- | ---
 Aethereal | The Nature of each crop, farmer, landlord, pests, etc. 
 Spacetime | The location and era or time period of the farm
-Electromagnetism | The sun, lighting, and electric fields that are applied onto the farm
+Radiant | The sun, lighting, and electric fields that are applied onto the farm
 Transformative | The changes caused by the previous layers to the farm
 Material | The chemicals and elements and other effects existing or produced in the farm
 
@@ -49,7 +49,7 @@ In addition, the "cooperation" of plants, a new concept advanced by Maximized Fa
 
 
 
-### Electromagnetism: Light and Temperature
+### Radiant: Light and Temperature
 
 This includes the light and temperature which are really details of the previous spacetime layer. 
 

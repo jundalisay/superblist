@@ -2,14 +2,13 @@
 heading: Chapter 3
 title: "The Importance of Living Food"
 linkTitle: "Food"
-# description: "Bio Superphysics uses 5 medical paradigms which are aligned with the 5 layers of Superphysics"
+description: "The body needs pranah or vital energy to stay alive and maintain parallelism with the Positive Force"
 # date: "2020-01-01"
 date: 2020-01-25
 weight: 8
-image: "/photos/consult.jpg"
+image: "/photos/grains.jpg"
 author: "Juan"
-# categories: ["Bio Superphysics"]
-tags: ["Western Medicine", "Chinese Medicine", "Ayurveda", "Naturopathy", "Homeopathy"]
 icon: "/icons/spmed.png"
+draft: true
 ---
 

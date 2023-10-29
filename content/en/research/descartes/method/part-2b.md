@@ -10,15 +10,14 @@ icon: /icons/descartes.png
 
 
 
-Among the branches of philosophy, I had earlier given some attention to: <!-- I was intersted in: -->
+Among the branches of philosophy, I had earlier given some attention to:
 - logic and mathematics
 - geometry
 - algebra
 
-
 <!-- logic, its syllogisms and the majority of its other precepts are of avail – rather in the communication of what we already know, or even as the art of Lully, in speaking without judgment of things of which we are ignorant, than in the investigation of the unknown;  -->
 
-Logic has very excellent precepts. But it also has many injurious or superfluous ones mixed in. It is  as difficult to seperate the true from the false. <!--  as it is to extract a Diana or a Minerva from a rough block of marble.  -->
+Logic has very excellent precepts. But it also has many injurious or superfluous ones mixed in. It is  as difficult to seperate the true from the false.
 
 The ancients had analysis. The moderns have algebra.  Both embrace only matters highly abstract, and, to appearance, of no use. 
 - The ancient analysis is restricted to the consideration of shapes. It can exercise the understanding by greatly fatiguing the imagination. 

@@ -1,6 +1,23 @@
 {{ define "main" }}
 
-  <h1 class="container px-6 pt-6 mx-auto text-3xl font-bold">{{ .Title }}</h1>
+  <div class="container px-6 pt-6 mx-auto"> 
+    <h1 class="container text-3xl font-bold">{{ .Title }}</h1>
+
+      <div id="breadcrumbs" class="text-gray-700 mb-4" style="text-decoration: none;">
+        <small>
+            {{- range .Ancestors.Reverse }}
+              {{ if .Params.linkTitle }}
+                <a href="{{ .RelPermalink }}">{{ .Params.linkTitle }}</a> /
+              {{- else }}
+                <a href="{{ .RelPermalink }}">{{ .Params.title }}</a> /          
+              {{- end }}
+            {{- end }}
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </small>
+      </div>
+
+  </div>
+
 
   {{ $paginator := .Paginate .Pages.ByWeight }}
   <div class="container p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-8">

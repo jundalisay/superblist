@@ -37,7 +37,7 @@ This strengthens the fact that:
 - physical things are tangible and perceivable through our five senses
 - metaphysical things are perceivable through our intellect and feelings (the 6th sense).
 
-{{< img src="/photos/objects/mugecon.jpg" alt="Mug Economics">}}
+{{< img src="/photos/objects/mugecon.jpg" alt="Mug Economics" >}}
 
 The mug only existed after the maker of mugs had the idea of a mug, as to be able to create a physical mug. It follows that Covid-19 existed after Nature had the idea for it, and that its solution already exists in Nature*.
 
@@ -85,6 +85,12 @@ Unlike science which manipulates the brain and hopes that it changes the soul or
 
 ## Ideas are Static, Feelings are Dynamic
 
+
+{{< q a="PR-Sarkar" c="The Evolution of Languages" >}}
+Between 2 points there is a flow of cognition. In that flow, bubbles are created. These bubbles are ideas in the Cosmic emanation of the Supreme. When these bubbles touch the unit "I" feeling, ideas are created in the unit. These are the reflections or refractions of the Cosmic Idea. The unit tries to express them through its own psychophysical structure as speech and language.. As far as the reflected bubbles are concerned, the language of the universe is the same forever, always one and indivisible.
+{{< /q >}}
+
+
 The author of the novel about a cat starts to write it down by tapping into his feelings and ideas. These keep on changing dynamically as a flow which allow the cat's story to take a metaphysical shape. 
 
 Will it flow to a happy ending? 
@@ -103,17 +109,15 @@ The reader of that novel will then experience **the wave of the author's feeling
 > *Here we use the word 'quantize' instead of 'quantum' to emphasize the action of the mind that isolates the smallest perception that it can make.
 
 
-For example, a cat character in a novel 100 pages is actually made up of 100-cat entities which are stitched together artificially by the mind into one consistent cat-entity. Likewise, our reality is made up of independent "pages" or planes of reality that flow, or are connected by our minds with other contiguous planes, to create one consistent reality. This is the same mechanism that our minds use to connect the metaphysical domain with physical domain in order to create the current reality*.
+For example, a cat character in a novel 100 pages is actually made up of 100-cat entities which are stitched together artificially by the mind into one consistent cat-entity or cat-idea. 
 
+Likewise, our reality is made up of independent "pages" or planes of reality that flow, or are connected by our minds with other contiguous planes, to create one consistent reality. This is the same mechanism that our minds use to connect the metaphysical domain with physical domain in order to create the current reality*.
 
 > *Science and quantum mechanics can never reach into this because they do not allow a metaphysical domain.
 
 
 
 {{< img src="/graphics/flip.jpg" size="" alt="Slices of Reality" cap="Our reality is really made up of many slices of waves sown together by our abstract minds, in our abstract minds" >}}
-
-
-<!-- a website must be coded first before it actually exists as a physical website, deployed by its developer. But before the web developer codes the website, he must first have the idea for it. The flow of his changing ideas and feelings about the website then influence the changes to the code which then changes the actual website.  -->
 
 
 ### We are Inside the Mind of the Creator, Everything is Its Idea

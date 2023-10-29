@@ -3,7 +3,7 @@ heading: "Chapter 2b"
 title: "Taxation Maxims"
 weight: 20
 date: 2017-12-20
-image: "/og/pointtax.jpg"
+image: "/avatars/smithstatue.jpg"
 description : "Adam Smith gave 4 maxims on taxation that have been largely forgotten. We bring them back to help solve tax evasion and budget deficits"
 author: Dalisay
 ---
@@ -14,12 +14,14 @@ author: Dalisay
 
 Adam Smith gave 4 maxims on taxation in The Wealth of Nations that have been largely forgotten today. Taxes should be fair, non-arbitrary, cost-effective and convenient.
 
-![Adam Smith's Tax Maxims](/images/infotaxmaxims.jpg)
+![Adam Smith](/avatars/smithstatue.jpg)
 
 
+{{< box >}}
 ### Maxim 1
 
 **People should contribute towards supporting their government in proportion to their respective abilities**
+{{< /box >}}
 
 The rich or those who have the ability topay more should pay more than those who are less able to. Smith's pro-poor taxation policies are found in Book 5, Chapter 2, and are as clear as day:
 
@@ -28,9 +30,11 @@ The high price of necessities for the poor must be compensated by an increase in
 {{< /q >}}
 
 
+{{< box >}}
 ### Maxim 2
 
 **The tax which each person pays must be certain and not arbitrary**
+{{< /box >}}
 
 This maxim applies to the valuation of certain taxes, such as land taxes.
 
@@ -39,10 +43,12 @@ A land-tax assessed according to a general survey and valuation, however equal i
 {{< /q >}}
 
 
-
+{{< box >}}
 ### Maxim 3
 
 **Every tax should be levied at the time and manner most convenient for the taxpayer**
+{{< /box >}}
+
 
 Smith gives an example of this in the excise and customs duties:
 
@@ -51,9 +57,12 @@ The importers are always subject to the custom-house officer’s visit and exami
 {{< /q >}}
 
 
+{{< box >}}
 ### Maxim 4
 
 **Taxes should take out as little as possible from the people over and above what it brings into the public treasury**
+{{< /box >}}
+
 
 For this, Smith mentions the inefficient collection method of certain taxes:
 
@@ -68,36 +77,44 @@ The gabelles, aides, traites, domaine, and tobacco taxes are collectedin most of
 
 We use these maxims on current taxes to see if they pass. This will then determine whether the tax is just or if it needs to be revised. In this example, we will apply it to income taxes which are assessed according to 'tax brackets' and exemptions, by running four tests.
 
-
+![Adam Smith](/graphics/econ/tax.jpg)
 
 ### Test 1: Is it proportional to the ability of the person to pay?
 
 The income tax in this case is progressive--the rate increases with the increase in the base taxable income. So it somewhat passes the first test by allowing the less-able-to-pay pay less. However, it is uncertain whether such a tax rate would be really fair because there is no information on the socio-economic conditions of the people being taxed.
 
-**Result: Pass Somewhat**
-
+{{< c v="orange" >}}
+Result: Pass Somewhat
+{{< /c >}}
 
 
 ### Test 2: Is it certain and not arbitrary?
 
 Since the amount to be paid can be arrived at clearly by using the table, this tax passes the second test.
 
-**Result: Pass**
+{{< c v="green" >}}
+Result: Pass
+{{< /c >}}
 
 
 ### Test 3: Is it convenient?
 
 The convenience of the tax in this case is not so perfect since, just from the information given, it is evident that computations must be done and that the filing requirementsmight cause added burdens to the taxpayer.
 
-**Result: Fail**
-
+{{< c v="red" >}}
+Result: Fail
+{{< /c >}}
 
 
 ### Test 4: Is it cost-efficient?
 
 Since there is no information on the costs on collecting this kind of tax, we cannot run this test objectively. However, the advances in technology generally allow taxes to be administered via the internet and be paid via electronic bank transfers, reducing the cost in manual labour in the long run.
 
-**Result: Pass**
+{{< c v="green" >}}
+Result: Pass
+{{< /c >}}
+
+
 
 
 ## Tax Conclusion: Revise the Tax

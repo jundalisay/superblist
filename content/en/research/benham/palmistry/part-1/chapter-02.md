@@ -8,10 +8,9 @@ contributors: ['Benham']
 ---
 
 
-{{< quote >}}
-<p>Mankind are earthen jugs with spirits in them.</p>
-<cite>Hawthorne</cite>
-{{< /quote >}}
+{{< q c="Hawthorne" >}}
+Mankind are earthen jugs with spirits in them
+{{< /q >}}
 
 
 The human body is the earthly tenement of the mind or soul. In its construction and operation is very like a mechanical engine. 
@@ -47,8 +46,6 @@ Some have called this force=
 
 Whatever the name, the result is the same. But for Palmistry this is called a life current that runs through the human body, coming from an outside source.
 
-<!-- I have observed in the birth of many children the moment at which the awakening takes place, and I have asked physicians to observe for me the same thing in the patients coming under their practice. The results have always been the same.  -->
-
 When the child is born, before it has given the first cry, or breathed air, the fingers extend with a quick, spasmodic jerk. They  stand perfectly straight and rigid. Following this involuntary motion of the hands, the lungs take in air, and a cry escapes from the lips. 
 
 Shortly after, the child feels hunger, and the hand goes at once to the mouth. 
@@ -56,12 +53,6 @@ Shortly after, the child feels hunger, and the hand goes at once to the mouth.
 The brain is acting, and directing her servant, the hand, which seeks to carry food to the mouth, the proper place to receive it. 
 
 Thus from the first moment of life, the hand takes its place as the servant of the brain, and I believe that at the moment the fingers of the child extend, and become straight and rigid, that life, the vital spark which sets the human machinery in motion, awakens the mind, and habilitates the senses, is projected into the child through the ends of the rigid fingers, and thus becomes the gift of God to His creature. But I do not ask you to believe in any name for this outside force.
-
-<!-- Call it what you please, but if you will picture to yourself that life comes into the body as above described, this conception will greatly aid you in reasoning out many combinations that you will encounter in your future studies. -->
-
-<!-- After life has begun and the child is in the world, a human engine with its driving force, it has a career before it.  -->
-
-<!-- For the first few months, it is little more than an animal, as all of its time is spent in sleeping, eating, and growing. During this period, its hands, by the thick development of the third phalanges of the fingers, show it to be a mere sensualist whose sole desire is to satisfy its hunger.  -->
 
 As months roll into the first year, less sleep and less feeding are necessary, and as years increase and mind develops, the trend of its thought begins to manifest itself. 
 

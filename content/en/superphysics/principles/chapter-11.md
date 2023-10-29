@@ -134,7 +134,7 @@ Nowadays, this manifests as peer reviews where new theories and interpretations 
 Inferior theorists, such as Kant, would likely be filtered out by such minds*. This explains why Kant attacked Dialectics: 
 
 
-{{< q a="kant" c="Critique of Pure Reason Simplified, Part 2, Introduction">}}
+{{< q a="Kant" c="Critique of Pure Reason Simplified, Part 2, Introduction" >}}
 <p>Dialectics is a logic of illusion. It is a sophistical art for giving ignorance and intentional sophistries.. it teaches us nothing regarding the content of our cognitions. It merely shows the formal conditions of their accordance with the understanding, which do not relate to and are quite indifferent in respect of objects. Any attempt to employ it as a tool to extend our knowledge must end in mere nonsense since anyone can oppose any assertion.</p>
 {{< /q >}}
 
@@ -143,32 +143,40 @@ Inferior theorists, such as Kant, would likely be filtered out by such minds*. T
 
 
 
-The distillation of the total knowledge then leads to a single pattern knowledge from cause to effect which then are called principles or understanding. A product of the distillation of the knowledge* of Western and Eastern philosophy then produces universal and timeless principles which we call The Metaphysics of Things or MoT.
+The distillation of the total knowledge then leads to a single pattern knowledge called principles which form the foundation of Superphysics.
+
+<!-- A product of the distillation of the knowledge* of Western and Eastern philosophy then produces universal and timeless principles which we call The Metaphysics of Things or MoT. -->
 <!-- https://play.google.com/store/books/details/['Juan']_Dalisay_Jr_The_Metaphysics_of_Things_Book_1?id=JY3tDwAAQBAJ -->
 
-MoT then becomes the foundation of Superphysics. Unlike metaphysical principles which are purely theoretical, MoT must survive in physical reality, either as actual evidence, demonstrations, or successful predictions. 
+Unlike metaphysical principles which are purely theoretical, the principles must survive in physical reality, either as actual evidence, demonstrations, or successful predictions. 
 
 {{< me date="December 2021" >}}
-Examples of real-world evidence are:
-- Bio Superphysics: the success of traditional Chinese medicine against Covid, relative to their total lack in the West
-- Economic Superphysics: the prediction of the crisis years starting in 2019 onwards, relative to a prediction of a recovery in 2021 from pent-up demand and vaccine success
-- Social Superphysics: the low cases of mass shootings, conflict, and revolutions in Asia, relative to the Americas and Africa
-- Material Superphysics: the prediction that fusion will not work because artificial gravity has not been discovered yet
+
+Below are examples of real-world evidence.
+
+Science | Evidence
+--- | ---
+Bio Superphysics | The success of traditional Chinese medicine against Covid, relative to their total lack in the West
+Economic Superphysics | The correct prediction of the crisis years starting in 2019 onwards, relative to a prediction of a recovery in 2021 from pent-up demand and vaccine success
+Social Superphysics | The low cases of mass shootings, conflict, and revolutions in Asia, relative to the Americas and Africa
+Material Superphysics | The prediction that fusion will not work because artificial gravity has not been discovered yet
 {{< /me >}}
 
 
 ### The German Corruption of Dialectics 
 
-The Germans were good at math and so they corrupted dialectics into a system that deals with effects and not with the cause. Instead of focusing on the metaphysical aspects of dialectics, Hegel focused on the churning of data which he represented with historical events. 
+The Germans were good at math and so they corrupted dialectics into a system that deals with effects instead of the cause. For example, Hegel focused on the churning of data which he represented with historical events.
+<!-- Instead of focusing on the metaphysical aspects of dialectics, .  -->
 
-Engels and Marx then fully corrupted this idea by saying that the churning was caused by physical conditions as materialism. A better churn would result if the material conditions were mastered. The dialectical materialism of Marx resulted in evil, suffering, and death, which are the opposite of what the dialectics of Socrates aimed for.
+Engels and Marx then fully corrupted this idea by saying that the churning was caused by physical conditions as materialism. A better churn would result if the material conditions were mastered. 
 
-Since then, the metaphysical and dharmic nature of Socratic dialetics have been forgotten. Dialectics nowadays refers to Hegel's dialectics that do not have any metaphysics nor even any mysticism*.
+The dialectical materialism of Marx resulted in evil, suffering, and death, which are the opposite of what the dialectics of Socrates aimed for.
+
+Since then, the metaphysical and dharmic nature of Socratic dialetics have been forgotten. Dialectics nowadays refers to Hegel's dialectics that lack the concept of True Nature or Dharma. 
+<!-- do not have any metaphysics nor even any mysticism*. -->
 
 
-> *The Republic clearly talks about reincarnation and chakras in [the Story of Er](/research/socrates/simple-republic/book-10/chapter-3). This adds to our dialectical dataset which also includes those from Hinduism and Buddhism. These then lead to principles in Bio Superphysics that mirror Ayurveda, Chinese Medicine, and Homeopathy
-
-
+<!-- > *The Republic clearly talks about reincarnation and chakras in [the Story of Er](/research/socrates/simple-republic/book-10/chapter-3). This adds to our dialectical dataset which also includes those from Hinduism and Buddhism. These then lead to principles in Bio Superphysics that mirror Ayurveda, Chinese Medicine, and Homeopathy -->
 
 {{< img alt="Kant and Marx" src="https://sorasystem.sirv.com/graphics/kantmarxcrop.jpg" >}}
 
@@ -176,10 +184,10 @@ Since then, the metaphysical and dharmic nature of Socratic dialetics have been 
  totally different from the corrupted German dialectics espoused by Hegel, Engels, and Marx. Socrates' dialectics is purely metaphysical and so the German "dialect materialism" is an inherent contradiction similar to "good evil". 
  -->
 
-Materialism, from both the German and British philosophers of the 19th century, extinguished the Enlightenment and led to World Wars, Communist Revolution, and the spread of profit maximization from Modern Economics which caused the 1929 crash and many financial crises.
+Materialism, from both the German and British philosophers of the 19th century, extinguished the Enlightenment and led to World Wars, Communist Revolution, and the spread of Panics and Crashes. 
+<!-- profit maximization from Modern Economics which caused the 1929 crash and many financial crises. -->
 
-These problems exist until today as terrorism, inequality, and global warming disasters, all because the same materialistic root from Hegel's time was never removed. Materialistic science will not be able to solve the problems created by materialism. Only Socratic dialetics, with its metaphysical base, can go out of the box and see the problem with new eyes. 
-
+These problems exist until today as terrorism, inequality, and global warming disasters. This is because the same materialistic root was never removed. Materialistic science will not be able to solve the problems created by materialism. Only Socratic dialetics, with its metaphysical base, can go out of the box and see the problem with new eyes. 
 
 
 ## The Re-Enlightenment
@@ -189,24 +197,32 @@ If the scientific revolution upgraded the natural philosopher into a scientist, 
 This upgrade manifests as the huge amounts of data and information absorbed and processed by the dialectician from all sources anywhere in the world in all of human history which the scientist neglects or refuses. For example, scientists refuse to regard myths and metaphysical works as information. They immediately refuse ideas from Ayurveda, Feng Shui, Reiki, souls, aliens, other dimensions, etc.
 
   
-Dialectics is unbiased and so it can take this mass of ideas to be churned in order to extract common patterns that can lead to more solid principles. For example, it takes the observations on the levitation of Buddhist monks and the zipping of UFOs to add new possibilities of movement and propulsion to benefit space travel. These observations are then put into the black box of dialectical principles we called The Metaphysics of Things (MoT) in order to [create new ones](/material/fallacies/general-relativity/). 
+Dialectics is unbiased and so it can take this mass of ideas to be churned in order to extract common patterns that can lead to more solid principles. For example, it takes the observations on the levitation of Buddhist monks and the zipping of UFOs to add new possibilities of movement and propulsion to benefit space travel. These observations are then put into the black box of dialectical principles in order to create new ones. 
 
-This system of collecting all possible data and then churning them with MoT in order to come up with solutions is then called **Superphysics**. The trigger for the original dialectics of Socrates was the prevalence of writing and literature among the Greeks. The trigger for Superphysics is the internet and all the content loaded in it. 
+For example, we run [Einstein's General Relativity](/material/fallacies/general-relativity/) through Socrates' principles or black box to reveal its fatal flaws. We run it again through Descartes principles in order to come up with [The Elastic Theory of Gravity](material/principles/part-2/chapter-04.md:) that matches Quantum Mechanics.
 
-<!-- This method takes the best principles from Western and Eastern philosophy to come up with universal ones as [The Metaphysics of Things or MoT](https://play.google.com/store/books/details?id=JY3tDwAAQBAJ). MoT is the set of underlying principles that Superphysics works with, as an implementation of Socratic Dialectics. Eastern philosophy provides the overall truths and principles, while Western philosophy gives their specifics, creating philosophical teamwork to solve any problem that science cannot solve.  -->
+This system of collecting all possible data and then churning them with principles in order to come up with solutions is then called **Superphysics**. 
 
-<!-- Science cannot solve things absolutely because it relies on evidence, which is the effect. This is why it always lags and is behind the curve. 
+The trigger for the original dialectics of Socrates was the prevalence of writing and literature among the Greeks. The trigger for Superphysics is the internet and all the content loaded in it. 
 
-Dialectics, on the other hand, is based on truths which is the cause, and can go ahead of the curve via predictions. A scientist only knows science, but a dialectician must know not only science AND metaphysics, but also the science and metaphysics of the West AND the East. 
- -->
+
+Science cannot solve things conclusively because it is based on effect, relying solely on material perceptions. 
+
+<!-- relies on evidence, which is the effect. This is why it always lags and is behind the curve.  -->
+
+Superphysics, on the other hand, is based on cause, as the principles of how Nature works. It then tests these principles through material perceptions. 
+
+ <!-- which is the cause, and can go ahead of the curve via predictions. A scientist only knows science, but a dialectician must know not only science AND metaphysics, but also the science and metaphysics of the West AND the East.  -->
+
+
 In the evolution of human understanding, Superphysics is the next and last stage after science. 
 
 Author | Natural Principles | Method | System | Technological Trigger
 --- | --- | --- | --- | --- 
 Socrates | True nature | Dialectics | Science of Harmonics | Writing & Literacy
 Hume | Treatise of Human Nature | Critical Thinking | Science of Man | Printing Press
-Our version | Metaphysics of Things | Data science + Dialectics | Superphysics | Internet
-Future version | Universal Metaphysics | Universal Dialectics | Universal Superphysics | Intergalactic Communication
+Our version | 6-Sense Metaphysics  | Data science + Dialectics | Superphysics | Internet
+Future version | 6-Sense Universal Metaphysics | Universal Dialectics | Universal Superphysics | Intergalactic Communication
 
 
 
@@ -235,12 +251,12 @@ Notice how the Socratic dialectical approach is more laborious and lengthy than 
 
 This laborious method produces a huge dataset that is similar to the "table of existence and presence" described by Francis Bacon:
 
-{{< q a="Bacon" >}}
+{{< q a="Francis-Bacon" >}}
 The investigation of forms proceeds thus from a given nature, we first present to the understanding all the known instances which agree in the same nature, even if the subject matter is considerably diversified. This collection must be made as a mere history, without any premature reflection.
 {{< /q >}}
 
 
-{{< q a="Bacon" >}}
+{{< q a="Francis-Bacon" >}}
 For instance, take the investigation of the form of heat. Instances agreeing in the Form of Heat:
 <br>
 1. The rays of the sun, particularly in summer, and at noon.
@@ -262,8 +278,10 @@ For instance, take the investigation of the form of heat. Instances agreeing in 
 This is a <b>table of existence and presence</b>
 {{< /q >}}
 
-From this table we can apply machine learning algorithms in order to extract new ideas which will then lead into a new table. That new table will then lead to new ideas which will form a new table and so on. 
+To make dialectics less laborious, we apply machine learning algorithms in order to extract new ideas which will then lead into a new table with the 'noise' removed. That new table will then lead to better ideas which will form a better table. That table is ran through the algorithm again until the effect matches the principles. 
 
 This collection of tables, when constantly compared with new perceptions, will lead to a dynamic thinking process which we call **Artificial Sentience**. This is different from Aritifical Intelligence which is limited to a closed set of data. 
 
-To explain artificial sentience, we must explain artificial intelligence first. This will be done in the next chapter.
+To explain artificial sentience, we must first explain how dialectical truths are different from scientific truths. This will be done in the next subchapter. 
+
+ <!-- artificial intelligence first. This will be done in the next chapter. -->
