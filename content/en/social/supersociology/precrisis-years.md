@@ -14,7 +14,8 @@ Our model, derived from the principles laid by David Hume, Adam Smith, and Socra
 This stagflation will increase from 2020 onwards up to 2030 when it will reach its peak, culminating in some kind of conflict. A stagflation is a phenomenon which has low employment and output while having high prices at the same time.
 
 
-## A Primer: The Metaphysics of Societies
+## How We Got the Prediction
+ <!-- A Primer: The Metaphysics of Societies -->
 
 According to Eastern social cycle theory, history repeats itself because humans are bound by Nature which is dualistic in itself. Nature is dualistic because existence necessitates two forces:
 - A force for the 'creator'*
@@ -55,7 +56,7 @@ Putting this under the 2-forces model, we can say that:
 <figcaption>David Hume is the big daddy of our Superphysics which [Taonomics](/taonomics) comes from</figcaption> -->
 
 
-The combination of all your individual experiences makes up your metaphysical self-organism, commonly called the ['soul'](/bio/principles/intro/chapter-01). 
+The combination of all your individual experiences makes up your metaphysical self-organism, commonly called the [soul](/bio/principles/intro/chapter-01). 
 
 A soul can have many selves, but a self can have only one soul.
 
@@ -83,7 +84,12 @@ Our social cycle model applies on all events, but is easiest applied on presiden
 
 Basically, the model starts with data from the 13th century as written by David Hume and Adam Smith (who also happened to be historians). We then filled in data from the 18th century, after Hume and Smith died, up to 2013 in order to see whether the social patterns continued. 
 
-If a stagflation does spark in 2019, then the pattern would be continuous. Note that such a pattern really represents the cycle of Western society which has imposed itself on the rest of the world through the colonial period, which then manifests as the political and economic systems of most countries. 
+If a stagflation does spark in 2019, then the pattern would be continuous. Note that such a pattern really represents the cycle of Western society which has imposed itself on the rest of the world through colonialism. The political and economic systems of most countries are based on the European system of:
+- Democratic elections
+- 3 Branches of goverment
+- Central Banking
+- Justice system of Judges, Lawyers, Prosecutors, etc
+
 
 The cycles of China* are probably different, meaning its stock bubbles are a Chinese thing and not really a part yet of the Western cycles which we are predicting here. (The problem with Chinese cycles is that none of us can read Chinese so we can't get data to plot.)
 
@@ -106,8 +112,8 @@ But Adam Smith said that societies have a natural level of productivity*. If you
 
 > *This leads to our concept of economic balance, an idea that does not exist in Neoclassical Economics 
 
-{{< q a="smith" c="The Wealth Of Nations Book 5" >}}
-<p>In businesses which can only be transacted with money, that money can always be found. If they do not find it, their failure is caused by their unnecessary and excessive enterprise, not of their poverty. It is not because they are poor that their payments are irregular and uncertain, but because they are too eager to become excessively rich.</p>
+{{< q a="Adam-Smith" c="The Wealth Of Nations Book 5" >}}
+In businesses which can only be transacted with money, that money can always be found. If they do not find it, their failure is caused by their unnecessary and excessive enterprise, not of their poverty. It is not because they are poor that their payments are irregular and uncertain, but because they are too eager to become excessively rich.
 {{< /q >}}
 
 

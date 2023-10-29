@@ -137,9 +137,9 @@ Together with Nietzsche, it helps explain why Germany kept on invading countries
 
 <!-- The only bright side with Kantianism is that it isuselessin real life and so it does little or no real damage as well. In contrast, Objectivism's successes come with the evils of inequality and financial crises, while Communism comes with war and poverty. -->
 
-In terms of practicality, Kantianism's main rival, Objectivism, is superior simply because its meat is in the physical dimension as material objectives. It's easy to see objectivist-philosophers being rich economists, bankers, and CEOs.  Even Marxist-philosophers (dialectical-materialists) sometimes become national leaders. But who has ever heard of a Kantian* president or world leader?
+In terms of practicality, Kantianism's main rival, Objectivism, is superior simply because its meat is in the physical dimension as material objectives. It's easy to see objectivist-philosophers being rich economists, bankers, and CEOs.  Even Marxist-philosophers (dialectical-materialists) sometimes become national leaders. But who has ever heard of a Kantian president or world leader?
 
-> *Update October 2023: After looking into the Cosmology Crisis, we found that ALbert Einstein, who used Kantian principles to create his useless General Relativty, is the perfect example of a Kantian philosopher. His sophistical spacetime equations lead to make-your-own spacetimes such as DeSitter spacetime, Minkowski spacetime, Godel spacetime, etc. 
+<!-- > *Update October 2023: After looking into the Cosmology Crisis, we found that ALbert Einstein, who used Kantian principles to create his useless General Relativty, is the perfect example of a Kantian philosopher. His sophistical spacetime equations lead to make-your-own spacetimes such as DeSitter spacetime, Minkowski spacetime, Godel spacetime, etc.  -->
 
 ![Kant and Marx](https://sorasystem.sirv.com/graphics/kantmarxcrop.jpg)
 
@@ -193,11 +193,11 @@ This converts the confusing word "synthetic a priori judgements" into "judgement
 
 This simplifies the statement:
 
-**Geometry is a science which determines the properties of space synthetically, and yet à priori.**
+> **Geometry is a science which determines the properties of space synthetically, and yet à priori.**
 
 into:
 
-**Geometry determines the properties of space through active-thinking, yet confined-to-the-mind.**
+> **Geometry determines the properties of space through active-thinking, yet confined-to-the-mind.**
 
 Much easier, huh?
 
@@ -208,9 +208,14 @@ With geometry, you can think of whatever shapes inside your mind and it would be
 
 ![Ayn Rand vs Kant](https://sorasystem.sirv.com/graphics/randkant.jpg)
 
-According to David Hume, who inspired Kant to write his work, all thinking is based on feeling. If a computer were a thinking being, then its electricity would be its feeling. A computer with no electricity cannot think and is technically dead, but once electricity runs through it, it becomes 'alive' and starts to process logic in its virtual memory.
+<!-- who inspired Kant to write his work, -->
+According to David Hume, all thinking is based on feelings. 
 
-For some reason, Kant denies reality to focus purely on the virtual by cutting off all experience and feeling. This is similar to unplugging a computer to see how a computer would run all by itself. Instead of relying on an external power source or external experiences and feelings, he imbues the mind or computer with that power **directly from his own mind**, by assigning new qualities and dimensions to its processes:
+If a computer were a thinking being, then its electricity would be its feeling. A computer with no electricity cannot think and is technically dead, but once electricity runs through it, it becomes 'alive' and starts to process logic in its virtual memory.
+
+For some reason, Kant denies reality in order to focus purely on the virtual by cutting off all experience and feeling. This is similar to unplugging a computer to see how a computer would run all by itself. 
+
+Instead of relying on an external power source or external experiences and feelings, he imbues the mind or computer with that power **directly from his own mind**, by assigning new qualities and dimensions to its processes:
 
 
 Thinking Process Factor | Quality 1 | Quality 2
@@ -220,13 +225,13 @@ Effort | Conception (active) | Intuition (passive)
 Scope or Location | a posteriori (outside the mind) | a priori (within the mind)
 
 
-It's similar to Islam banning interest on loans, which causes it to be transferred as rent as a workaround or roundabout solution, and then creating processes to regulate that, as a bloated complex idea called Shariah banking. 
+It's similar to Islam banning interest on loans, which causes it to be transferred as rent as a workaround or roundabout solution, and then creating processes to regulate rent, as a bloated complex idea called Shariah banking. 
 
 Kant bans reality and so he has to recreate everything himself. This is why Kant must have the highest regard for his own mind (since it's the one that powers everything in his Kant-only-reality):
 <!-- Transcendental Analytic, Transcendental Dialectic, and Transcendental Idealism -->
 
 {{< q a="kant" >}}
-The reality of the object of our internal sense (that is, myself and my internal state) is clear immediately through consciousness.External objects in space might be a mere delusion. But the object of my internal perception is undeniably real.
+The reality of the object of our internal sense (that is, myself and my internal state) is clear immediately through consciousness. External objects in space might be a mere delusion. But the object of my internal perception is undeniably real.
 {{< /q >}}
 
 
@@ -238,11 +243,11 @@ Instead of basing the judgement on strong or weak feelings or sensations and the
 - was confined (a priori)
 - not confined (a posteriori)
 
-Mechanically, it would be like totally denying the relation of gasoline consumption to engine power, or electrical consumption to CPU speed with the belief that the engine power and cpu speed can run by themselves, or that the mind exists for or by itself (as "I think"). These then leads to obvious fallacies in his explanation of the nature of time, existence, and, more importantly, of morals<!-- , which I can explain in future posts -->.
+Mechanically, it would be like totally denying the relation of gasoline consumption to engine power, or electrical consumption to CPU speed with the belief that the engine power and CPU speed can run by themselves, or that the mind exists for or by itself (as "I think"). These then leads to obvious fallacies in his explanation of the nature of time, existence, and, more importantly, of morals<!-- , which I can explain in future posts -->.
 
-Hegel and Marx as similarly-complicated-writers who write so much but have relatively little meat or valuable thought. All of this makes me pity philosophy students who try to understand Kant. 
+Hegel and Marx as similarly-complicated-writers who write so much but have relatively little meat or valuable thought. All of this makes us pity the philosophy students who try to understand Kant. 
 
-{{< q a="kant" >}}
+{{< q a="Kant" >}}
 The Germans are the only people who at present use this word to indicate what others call the critique of taste.
 {{< /q >}}
 
@@ -273,7 +278,7 @@ Like Kant, Einstein used his own mind to assign reality to spacetime by turning 
 - De Sitter created a De Sitter spacetime
 - Godel created <!-- Kurt --> a Godel universe
 - Taub led to a universe with Taub-NUT spacetime 
-- Pensrose created a cyclical universe as Conformal Cyclic Cosmology 
+- Penrose created a cyclical universe as Conformal Cyclic Cosmology 
 
 
 ### Useless Kant, Useless Einstein, Useless Physics
@@ -291,10 +296,12 @@ Newton's physics created so many technologies that we still use today. But Einst
 
 
 
-We pity the physicists wasting their time trying to solve General Relativity and finding out the structure of the universe all from the sophistical Theory of Relativity, just it is sad to see:
-- students spending real money studying Epistemology instead of something useful like data science or programming. 
-- people 'investing' in cryptocurrencies or NFTs instead of investing in real businesses
+We pity the physicists wasting their time trying to unify Quantum Physics and General Relativity as String Theories which are practically useless. 
 
-{{< img src="/graphics/tokamak.jpg" alt="Tokamak" cap="According to our Theory of Universal Relativity, artificial gravity is essential for fusion. But this is not achieved because physicists have adopted Einstein's Relativity which is useless in creating artificial gravity. As a result, the proper alternative to fossil fuels does not exist. This then leads to global warming and real death and destruction." >}}
+<!--  and finding out the structure of the universe all from the sophistical Theory of Relativity, just it is sad to see:
+- students spending real money studying Epistemology instead of something useful like data science or programming. 
+- people 'investing' in cryptocurrencies or NFTs instead of investing in real businesses -->
+
+<!-- {{< img src="/graphics/tokamak.jpg" alt="Tokamak" cap="According to our Theory of Universal Relativity, artificial gravity is essential for fusion. But this is not achieved because physicists have adopted Einstein's Relativity which is useless in creating artificial gravity. As a result, the proper alternative to fossil fuels does not exist. This then leads to global warming and real death and destruction." >}} -->
 
 In a free society, it is alright to allow sophistical theories. But it is totally wrong to decree that such wrong theories are correct, and that the wrong way is the right way. Doing so would be like to guiding people onto a cliff, as is happening to the current world which has no solution to global warming, overpopulation, stagflation, war, or mass extinction. 

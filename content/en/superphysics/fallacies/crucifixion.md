@@ -12,6 +12,9 @@ Historical facts will reveal that the crucifixion of Jesus had little to do with
 
 Jesus lived in a time when Israel had just transitioned from Greek influence and moved under Roman tyranny. This transition caused a civil war between 2 major factions: the Sadducees and the Pharisees.
 
+{{< img src="/graphics/social/sadducees.jpg" alt="Social Cycles of Israel" >}}
+
+
 The Sadducees were the oligarchs (vaesyas) and neoliberals of that period. Proof is that they built and managed temples. In the Roman times, temples also served as banks. This is why Jesus encountered many moneychangers in the Temple and tried to drive them out (Mark 11:15-17).
 
 The Pharisees were the religious conservatives (brahmins), lawmakers, and politicians, simlar to modern Republicans and Tory.
