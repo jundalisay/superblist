@@ -199,71 +199,27 @@ We are targetting young people for this because they are the ones stuck with war
 What makes you so absolutely sure that you know the nature of the universe? What is your qualification? I have a PhD from a top Western unviersity.
 {{< /r >}}
 
+
 {{< l a="Superphysics" >}}
-We've had samadhi, after going through the necessary rigors.
+हमने आवश्यक कठिनाइयों को पार करने के बाद समाधि प्राप्त कर ली है।
 {{< /l >}}
 
 {{< r a="Boomer" >}}
-What's samadhi?
+समाधि क्या है?
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-Google it.
-
-All we can say is "No Samadhi, No Honey" (i.e. Without samadhi, you won't get a solid understanding of how the universe is structured and generated in real-time)
+गूगल करो।
 {{< /l >}}
 
 {{< r a="Asker" >}}
-What does the Superphysics symbol mean?
+सुपरफिजिक्स की योजना क्या है?
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-The blue triangle represents the metapyhsical dimension. The green triangle represents the physical dimension. These go in opposite directions. 
-
-The yellow center is perception which balances both dimensions. 
-
-Some people get filthy rich but lose their morals, while others are super spiritual but are dirt poor. 
-
-For example, Baby-Boomers mindlessly push for GDP or ROI growth even if Nature is hitting them back with global warming caused by that very GDP and ROI from investments. 
-
-Spiritual people, on the other hand, give donations and service, often unsustainably while creating a culture of dependence and poverty. 
-
-Superphysics advocates a balance or a middle path.<!--  just like Buddhism advocates a middle path -->. 
+हमें वास्तविक दुनिया में इसे प्रदर्शित करके अपने सिद्धांतों की [Help Page](/help)
 {{< /l >}}
 
-{{< r a="Asker" >}}
-What's the gameplan of Superphysics?
-{{< /r >}}
-
-{{< l a="Superphysics" >}}
-We need to prove that our principles are solid by demonstrating it in the real world. 
-
-We've already proven Social Superphysics through our correct predictions both in [politics](/social/cycles/predictions) and [economics](/social/supersociology/precrisis-years). We are already testing our points-based economic system to solve the current stagflation, something that Economics has no solution for. So no worries with those. 
-
-But we still need to prove that Bio Superphysics and Material Superphysics also work by using the aether to  increase crop yield (as 'Maximized Farming'), cure diseases, realize fusion, levitation, and teleportation (actions at a distance).
-{{< /l >}}
-
-{{< r a="Asker" >}}
-I guess you encounter a lot of opposition from humans who think that the limited 5-sense science is perfect and superior to 6-sense science which to them is invalid pseudo-science.  
-{{< /r >}}
-
-{{< l a="Superphysics" >}}
-Yes. This is now known as 'scientism' propagated by materialists.
-
-For example, medicine is highly regulated by governments. Material experiments, on the other hand, are expensive. We aim to surmount both impediments through our economic system.
-
-This is why, until 2030, most of our work is on Social Superphysics as economics and policies. The work on Bio and Material Superphysics will mostly be theoretical for now, though we've done [rudimentary experiments on levitation](/material/levitation) and preventing cancers from getting worse via alternative medicine.
-{{< /l >}}
-
-
-{{< r a="Asker" >}}
-How can we help?
-{{< /r >}}
-
-
-{{< l a="Superphysics" >}}
-You can check out our help page
-{{< /l >}}
 
 <!-- By gettings Its principles. For example, Einstein based his Relativity on Parmenides explanation of how the One is Many and All is relative. We expand this by creating the theory of Universal Relativity for Material Superphysics, as well as the Four Laws of Value for Economic Superphysics (as spnomics)    -->
 

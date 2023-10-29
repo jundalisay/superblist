@@ -34,7 +34,9 @@ All of these quick ideas which flash into his mind he puts into immediate execut
 
 The thumb of the Mercurian has a tendency to be stiff, for he loves money, and while generous to his family and free to spend money for things that he enjoys, he does not do it with a lavish hand. The first phalanx, by its length, tells of the power of will in the subject, whether he will carry out his schemes or merely plan and let them drop. The conic first phalanx will show how impressionable he is, the square or spatulate that he is practical, original, and firm. 
 
-The clubbed thumb on a Mercurian is a doubly bad indication. The second phalanx of the thumb will tell of the logic and reasoning faculty back of your subject, and whether it is stronger or weaker than the will which should carry it into operation. By its shape it will show whether commonness or refinement is present. This latter formation with a Mercurian is usually expected. In the largest number of cases the thumb will be found with a large first phalanx, square or paddle-shaped, a long second phalanx with a waist-like formation. This combination will tell of strong will and refined reason back of a very shrewd specimen of humanity. 
+The clubbed thumb on a Mercurian is a doubly bad indication. The second phalanx of the thumb will tell of the logic and reasoning faculty back of your subject, and whether it is stronger or weaker than the will which should carry it into operation. 
+
+By its shape it will show whether commonness or refinement is present. This latter formation with a Mercurian is usually expected. In the largest number of cases the thumb will be found with a large first phalanx, square or paddle-shaped, a long second phalanx with a waist-like formation. This combination will tell of strong will and refined reason back of a very shrewd specimen of humanity. 
 
 The Mercurian is a many-sided fellow. He can be either the best or the worst of all. 
 

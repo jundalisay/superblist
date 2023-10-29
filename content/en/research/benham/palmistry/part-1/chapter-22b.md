@@ -89,7 +89,9 @@ The nails must be examined, for if fluted they show that the nervousness which b
 
 Short nails will show a critical turn of mind, and in argument or debate no point will be overlooked by this subject in his effort to advance his side of the case. Broad nails will show a strong constitution, narrow nails delicacy, the medium being most often found. Hair on the hands will tell of the iron in his constitution. Black hair is most often to be seen, and is plentifully found on the hands of many Mercurians. 
 
-It tells of the fire and vigor of health and the strong tendencies of the type. With black hair there is the suspicion that these subjects have the keenness of the type in full measure, and the crooked finger is often seen. Light hair is not so often met with on this type, though sometimes seen. When found it makes them more phlegmatic and less volatile than with the black. Red hair gives added electric force to the already great quickness, and would lead to excess. Chestnut hair, which is a medium color, is often found, and tells of an evenly distributed set of Mercurian qualities. 
+It tells of the fire and vigor of health and the strong tendencies of the type. With black hair there is the suspicion that these subjects have the keenness of the type in full measure, and the crooked finger is often seen. Light hair is not so often met with on this type, though sometimes seen. 
+
+When found it makes them more phlegmatic and less volatile than with the black. Red hair gives added electric force to the already great quickness, and would lead to excess. Chestnut hair, which is a medium color, is often found, and tells of an evenly distributed set of Mercurian qualities. 
 
 The hand as a whole will tell in which world the subject is strongest, and with this type you nearly always find the middle or business world fully developed, for he is always a good money-getter whether he be orator, doctor, lawyer, or business man. Note carefully if the apex of the Mount lies in the centre or is displaced. 
 
@@ -97,13 +99,17 @@ If it is at the outside of the hand, toward the percussion, the subject will emp
 
 If the Mount leans toward Apollo, the love of art and beauty will be great, and he will give up part of his Mercurian qualities in order to enjoy them. His life will be less dominated by the shrewdness of the type, and more given over to the Apollonian instincts. If the apex is in the centre and the apices of the other Mounts are pulled toward Mercury, you will have a very strong Mercurian, a "dyed in the wool" kind, who will be typical in whatever he does. 
 
-<!-- LONG FINGER OF MERCURY No. 111. LONG FINGER OF MERCURY. -->
 
 The finger must be carefully noted. First, is it longer than the first knot of the finger of Apollo (111)? If so, the subject is strongly Mercurian; shorter than this is deficiency, in whatever degree the Mount and finger is lacking (112)=  if it should be crooked in addition to being long, the type becomes more pronounced, and you must look to grilles, Head line, Heart line, and quadrangle, and see if dishonesty has taken hold of the subject. If the finger is long, note which phalanx is the longest, for the three worlds are most marked in the Mercurian finger. 
 
-If the first phalanx is very long the subject will have great powers of expression, amounting even to eloquence and oratorical ability. This will enable him to give expression to his ideas in writing, and thus it becomes a fine indication for a public speaker or writer. If the second phalanx is long it shows that the scientific side is strong, and he will make a good doctor, lawyer, or scientist. If the third phalanx is long the commercial side is prominent, and he will be an excellent merchant or business man in any capacity. In judging the field of labor in which the subject will best succeed, these phalanges must be your guide. 
+If the first phalanx is very long, the subject will be expressive, having eloquence and oratorical ability.
+- This will enable him to express through writing.
+- He will make a good public speaker or writer.
 
-<!-- DEFICIENT MOUNT AND FINGER OF MERCURY No. 112. DEFICIENT MOUNT AND FINGER OF MERCURY.  -->
+If the second phalanx is long it shows that the scientific side is strong. He will make a good doctor, lawyer, or scientist. 
+
+If the third phalanx is long the commercial side is prominent, and he will be an excellent merchant or business man in any capacity. In judging the field of labor in which the subject will best succeed, these phalanges must be your guide. 
+
 
 Note which world of the secondary type is strongest, as this shows the backing the Mercurian aptitudes will have. If the finger of Mercury is long, it may be found that two phalanges will be long and one short. This will show which worlds are strongest and which are deficient. As the Mercurian is a complex type, it will be only by this careful estimate of the finger that you can properly estimate your subject. The tips must be carefully noted.
 

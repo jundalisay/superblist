@@ -1,7 +1,7 @@
 ---
 title: "Anda dapat membantu"
 description: "Anda dapat membantu Superphysics"
-image: /covers/ssolutions.png
+image: /covers/solutions.png
 ---
 
 
@@ -21,5 +21,9 @@ Kami sedang membangun ilmu pengetahuan baru dan sistem baru untuk menciptakan re
 - memberi tahu kami tentang halaman yang rusak, bug, kesalahan pengetikan, artikel yang membingungkan, atau kesalahan faktual
 - mendonasikan uang tunai atau barang
   - menerjemahkan konten ke dalam bahasa Anda
+- submitting articles related to Superphysics, Socartes, Descartes, Hume, Smith, Spinoza, Ibn-Khaldun, Alternative Medicine
 
-{{< img src="/graphics/gcash.png" alt="对于菲律宾人" cap="对于菲律宾人" >}}
+{{< img src="/graphics/wallet/gcash.png" alt="Gcash" cap="For donations in the Philippines" >}}
+
+{{< img src="/graphics/wallet/momo.jpg" alt="Momo" cap="For donations in Vietnam" >}}
+

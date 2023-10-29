@@ -1,7 +1,7 @@
 ---
 title: "يمكنك المساعدة عن طريق"
 description: "يمكنك المساعدة عن طريق Superphysics"
-image: /covers/ssolutions.png
+image: /covers/solutions.png
 ---
 
 
@@ -21,6 +21,8 @@ image: /covers/ssolutions.png
 - إخبارنا بالصفحات التالفة، الأخطاء، الأخطاء الإملائية، المقالات المربكة، أو الأخطاء الفعلية
 - التبرع نقدًا أو عينيًا
   - ترجمة المحتوى إلى لغتك
+- submitting articles related to Superphysics, Socartes, Descartes, Hume, Smith, Spinoza, Ibn-Khaldun, Alternative Medicine
 
-{{< img src="/graphics/gcash.png" alt="对于菲律宾人" cap="对于菲律宾人" >}}
+{{< img src="/graphics/wallet/gcash.png" alt="Gcash" cap="For donations in the Philippines" >}}
 
+{{< img src="/graphics/wallet/momo.jpg" alt="Momo" cap="For donations in Vietnam" >}}

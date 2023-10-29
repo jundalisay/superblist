@@ -1,7 +1,7 @@
 ---
 title: "如何帮助我们"
 description: "如何帮助我们 Superphysics"
-image: /covers/ssolutions.png
+image: /covers/solutions.png
 ---
 
 
@@ -21,7 +21,13 @@ image: /covers/ssolutions.png
 - 告诉我们有关页面错误、漏洞、拼写错误、混淆的文章或事实错误的情况
 - 捐款或实物
   - 将内容翻译成您的语言
+- submitting articles related to Superphysics, Socartes, Descartes, Hume, Smith, Spinoza, Ibn-Khaldun, Alternative Medicine
 
-{{< img src="/graphics/gcash.png" alt="对于菲律宾人" cap="对于菲律宾人" >}}
+{{< img src="/graphics/wallet/gcash.png" alt="对于菲律宾人" cap="对于菲律宾人" >}}
+
+{{< img src="/graphics/wallet/momo.jpg" alt="Momo" cap="For donations in Vietnam" >}}
+
+
+
 
   

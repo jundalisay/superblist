@@ -1,21 +1,28 @@
 ---
 title: "Sie können uns helfen"
 description: "Sie können uns helfen Superphysics"
-image: /covers/ssolutions.png
+image: /covers/solutions.png
 ---
 
-Wir bauen eine neue Wissenschaft und neue Systeme für eine bessere Realität auf. Sie können uns helfen, indem Sie:
+Мы создаем новую науку и новые системы для лучшей реальности. 
 
-- unsere Beiträge teilen
-- Links zu unseren Beiträgen oder Büchern auf Ihrer Website hinzufügen
-  - https://pantrypoints.com. Dies ist der praktische Aspekt
-  - https://superphysics.org. Dies ist der theoretische Aspekt
-- gehen Sie zu pantrypoints.com und füllen Sie ein Kontaktformular unter "Schließen Sie sich der Veränderung an" aus Organisationen, Universitäten oder Freiwillige empfehlen, die interessiert sein könnten. Derzeit haben wir Freiwillige in den folgenden Städten, in denen wir unser System getestet haben:
-  - Hanoi
-  - Ho-Chi-Minh-Stadt
-  - Metro Manila
-  - Kuala Lumpur
-- treten Sie unserer Facebook-Gruppe bei
-  - uns über defekte Seiten, Fehler, Tippfehler, verwirrende Artikel oder sachliche
+Вы можете помочь, сделав следующее:
+- делиться нашими постами
+- добавлять ссылки на наши посты или книги на вашем сайте
+  - https://pantrypoints.com. Это практический аспект
+  - https://superphysics.org. Это теоретический аспект
+- перейти на pantrypoints.com и отправить контактную форму в разделе "Присоединиться к изменениям"
+- ссылаясь на организации, университеты или добровольцев, которые могут быть заинтересованы. В настоящее время у нас есть волонтеры в следующих городах, где мы протестировали нашу систему:
+  - Ханой
+  - Хошимин
+  - Метро Манила
+  - Куала-Лумпур
+- присоединиться к нашей группе в Facebook
+- сообщать нам о сломанных страницах, ошибках, опечатках, запутанных статьях или фактических ошибках
+- переводить статьи на этом сайте на ваш родной язык
+- отправлять статьи, связанные с Суперфизикой, Сократом, Декартом, Хьюмом, Смитом, Спинозой, Ибн-Халдуном, Альтернативной Медициной
+- пожертвовать наличные или материальные ценности.
 
-{{< img src="/graphics/gcash.png" alt="对于菲律宾人" cap="对于菲律宾人" >}}
+{{< img src="/graphics/wallet/gcash.png" alt="Gcash" cap="For donations in the Philippines" >}}
+
+{{< img src="/graphics/wallet/momo.jpg" alt="Momo" cap="For donations in Vietnam" >}}

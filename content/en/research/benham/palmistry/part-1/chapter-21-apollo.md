@@ -131,3 +131,15 @@ The Apollonian is highly intuitive. He sees through things more quickly than oth
 
  If he could chain his talents, his brilliancy of mind, body, and endowment, down to a definite line of work, he would dominate the world. As it is, he moves among us a brilliant possibility, a magnificent specimen physically and mentally, a joy, a pleasure, a benefit, but too often, through his versatility, a "Jack-of-all-trades." In his marriage relations the Apollonian is often unhappy. 
 
+
+<!-- ## Part 3  -->
+
+He is predisposed to marry. 
+
+<!-- He does not, like the Saturnian, withdraw from and hate mankind, but  -->
+
+His ideal is very high. He is brilliant himself and he wants a mate who can shine with him. 
+
+Humanity is frail. Those most brilliant often choose much less-favored helpmates. 
+
+When this is the case the Apollonian finds himself disappointed and his marriage a failure. With a large percentage of the type this is true and should be so treated in your readings. 

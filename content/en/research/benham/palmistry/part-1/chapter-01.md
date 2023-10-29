@@ -9,13 +9,12 @@ contributors: ['Benham']
 
 
 
-{{< q >}}
+{{< q c="Proverbs 9, 1" >}}
 "Wisdom hath builded her house. She hath hewn out her seven pillars."
-<cite>Proverbs 9, 1</cite>
 {{< /q >}}
 
 
-THE science of Palmistry is founded on the shape of the hand. 
+The science of Palmistry is founded on the shape of the hand. 
 
 The 7 mounts lie at the base of the fingers and along the sides of the hand. The proper estimation of the combination of these mounts can let us accurately delineate the character of person. 
 

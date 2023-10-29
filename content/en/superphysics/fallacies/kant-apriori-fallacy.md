@@ -305,3 +305,29 @@ We pity the physicists wasting their time trying to unify Quantum Physics and Ge
 <!-- {{< img src="/graphics/tokamak.jpg" alt="Tokamak" cap="According to our Theory of Universal Relativity, artificial gravity is essential for fusion. But this is not achieved because physicists have adopted Einstein's Relativity which is useless in creating artificial gravity. As a result, the proper alternative to fossil fuels does not exist. This then leads to global warming and real death and destruction." >}} -->
 
 In a free society, it is alright to allow sophistical theories. But it is totally wrong to decree that such wrong theories are correct, and that the wrong way is the right way. Doing so would be like to guiding people onto a cliff, as is happening to the current world which has no solution to global warming, overpopulation, stagflation, war, or mass extinction. 
+
+
+
+<!-- This makes Kant's principles useless. Its core principle is his concept of a priori knowledge. Destroying this idea will then naturally lead to the destruction of its abstract child ideas such as: 
+- Transcendental Analytic
+- Transcendental Dialectic
+- Transcendental Idealism
+
+The invention of these confused, junk ideas led to Epistemology which is supposed to parse fact from fiction, but is actually equally useless. This is because this was already done by the [study of Logic](/superphysics/principles/chapter-11c/).
+
+Epistemology took the place of traditional philosophy effectively killing it. This explains why junk philosophies sprang up during the 19th century:
+- Nazism led to the Holocaust which destroyed many people
+- Marxism led to the violent Communist Revolution
+- Utilitarianism led to marginal utility, profit maximization, and consumerism which are destroying the planet  
+
+{{< q a="Socrates" c="Republic by Plato Simplified, Book 6 Chapter 1" >}}
+This philosopher class is where the authors of the greatest good or evil come from. But a small man never does any great thing to others. So philosophy is left desolate. Her own devotees have fallen away and forsaken her. Other unworthy persons see that she has no protectors so they enter and dishonour her.. Philosophy thus becomes evil.
+{{< /q >}}
+
+Our goal is to wipe out Epistemology (and its religious version Ontology) from the face of the Earth by bringing back the original Logic, Moral Philosophy, and Dialectics to release philosophy from its current shackles. Once freed, it can be used to solve the growing number of modern problems such as pandemics, terrorism, inequality, global warming, overpopulation, etc, all created by the evil philosophies of the 19th century.
+
+{{< q a="Ibn-Khaldun" c="Muqaddimah, Chapter 6, Part 37" >}}
+The occupation with the auxiliary sciences [logic] constitutes a waste of one's life, occupation with something that is of no concern.
+{{< /q >}}
+
+ -->

@@ -19,7 +19,9 @@ You can help by:
   - Kuala Lumpur
 - joining our [Facebook group](https://www.facebook.com/groups/superphysicsorg/)
 - telling us about broken pages, bugs, typos, confusing articles, or factual errors
+- submitting articles related to Superphysics, Socartes, Descartes, Hume, Smith, Spinoza, Ibn-Khaldun, Alternative Medicine
 - donating cash or in kind
-  - translating content into your language
 
-{{< img src="/graphics/gcash.png" alt="Donate via Gcash" cap="For people with Gcash" >}}
+{{< img src="/graphics/wallet/gcash.png" alt="Gcash" cap="For donations in the Philippines" >}}
+
+{{< img src="/graphics/wallet/momo.jpg" alt="Momo" cap="For donations in Vietnam" >}}

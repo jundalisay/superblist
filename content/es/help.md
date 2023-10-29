@@ -1,7 +1,7 @@
 ---
 title: "Puedes ayudarnos"
 description: "Puedes ayudarnos Superphysics"
-image: /covers/ssolutions.png
+image: /covers/solutions.png
 ---
 
 
@@ -21,6 +21,10 @@ Estamos construyendo una nueva ciencia y nuevos sistemas para una realidad mejor
 - informándonos sobre páginas rotas, errores, erratas, artículos confusos o errores de hecho
 - donando efectivo o en especie
   - traduciendo contenido a tu idioma
+- submitting articles related to Superphysics, Socartes, Descartes, Hume, Smith, Spinoza, Ibn-Khaldun, Alternative Medicine
 
-{{< img src="/graphics/gcash.png" alt="对于菲律宾人" cap="对于菲律宾人" >}}
+{{< img src="/graphics/wallet/gcash.png" alt="Gcash" cap="For donations in the Philippines" >}}
+
+{{< img src="/graphics/wallet/momo.jpg" alt="Momo" cap="For donations in Vietnam" >}}
+
 

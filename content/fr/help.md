@@ -22,6 +22,10 @@ Vous pouvez nous aider en:
 - nous signalant les pages endommagées, les bugs, les coquilles, les articles confus ou les erreurs factuelles
 - faire un don en espèces ou en nature
   - traduire le contenu dans votre langue
+- submitting articles related to Superphysics, Socartes, Descartes, Hume, Smith, Spinoza, Ibn-Khaldun, Alternative Medicine
 
-{{< img src="/graphics/gcash.png" alt="Donate via Gcash" cap="For people with Gcash" >}}
+{{< img src="/graphics/wallet/gcash.png" alt="Gcash" cap="For donations in the Philippines" >}}
+
+{{< img src="/graphics/wallet/momo.jpg" alt="Momo" cap="For donations in Vietnam" >}}
+
   

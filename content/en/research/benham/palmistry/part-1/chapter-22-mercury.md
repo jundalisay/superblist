@@ -42,13 +42,22 @@ The latter growth is rare, however, belonging more distinctively to the Saturnia
 
 The nose is thin and straight, somewhat fleshy on the end; the lips are thin, evenly set and often a trifle pale or bluish in color. The whites of the eye frequently have a trace of yellow, as the Mercurian is of a nervous and slightly bilious type. His nervousness makes him breathe quickly and often through his mouth. The chin is long and sharp, sometimes turning up slightly at the end, completing the oval contour of his face. The neck is strong and muscular, connecting the head with shapely shoulders, lithe and sinewy and graceful in outline. 
 
-The chest is large for the stature, well muscled and containing big lungs. The voice of the Mercurian is not full and loud, nor weak and thin, but is of medium timbre and possesses good "carrying" quality. The limbs are graceful, giving him agility and the quickness of movement for which he is noted, as well as a power of endurance coming from muscular strength. His teeth are white, small in size, and set evenly in the gums which are medium pink in color. Altogether the Mercurian impresses you as well knit, agile, and strong, not always beautiful, but shapely and well proportioned. 
+The chest is large for the stature, well muscled and containing big lungs. The voice of the Mercurian is not full and loud, nor weak and thin, but is of medium timbre and possesses good "carrying" quality. 
 
-<!-- DISTINGUISHING MARKS ON THE MOUNT OF MERCURY No. 106. DISTINGUISHING MARKS ON THE MOUNT OF MERCURY. MERCURIAN MOUNT AND FINGER No. 106. MERCURIAN MOUNT AND FINGER.  -->
+The limbs are graceful, giving him agility and the quickness of movement for which he is noted, as well as a power of endurance coming from muscular strength. His teeth are white, small in size, and set evenly in the gums which are medium pink in color. Altogether the Mercurian impresses you as well knit, agile, and strong, not always beautiful, but shapely and well proportioned. 
+
 
 The Mercurian is the quickest and most active of all the types, and this activity is not confined to his physical agility but applies to the mental as well. He is like a flash in his intuitive faculty, and enjoys everything which puts his quickness to either a mental or physical test. He is the personification of grace in his movements and is skilful in everything he undertakes. 
 
-In all games he is proficient, and he plays with his head as well as his hands, winning because he plans his plays, and shrewdly estimates the ability of his opponent. In all athletic sports where dexterity and skill, rather than brute strength are needed, he is the victor. In argument he is at home, for no one has greater facility of expression than he. This, added to the quickness with which he can grasp and turn an opportunity to his account, brings him out ahead, if his side of the question has even a semblance of probability. He is especially fond of oratory, and eloquence in any line strongly moves him. 
+ 
+
+He is proficient in all games. He plays with his head and his hands. He wins because he plans his plays, and shrewdly estimates the ability of his opponent.
+
+He wins in all athletic sports where dexterity and skill, instead of brute strength, are needed. 
+
+In argument he is at home, for no one has greater facility of expression than he. 
+
+This, added to the quickness with which he can grasp and turn an opportunity to his account, brings him out ahead, if his side of the question has even a semblance of probability. He is especially fond of oratory, and eloquence in any line strongly moves him. 
 
 With his keenness and the power of expressing himself well, he is very tactful and adroit, thus making many friends by saying the right thing at the right time. As an after-dinner speaker he is a success, and in a battle of words or badinage is an opponent hard to overcome. 
 
@@ -82,8 +91,11 @@ Thus, the Mercurian is well adapted to these occult studies, but, as he is fond 
 
 Having met a number of alleged palmists who claim to tell your name from the hand, and the names of friends, I have found them all specimens of the bad Mercurian type, and they have often admitted to me that they knew little about Palmistry, but resorted to sleight-of- hand tricks, together with their ability to judge human nature, in order to fool the public and get money from them. 
 
-These bad Mercurians, and the superficial knowledge of amateur palmists are responsible for the disfavor which in the minds of some people rests to-day on Palmistry. The Mercurian is a lover of that which is near to nature, consequently he admires horses, dogs, pictures of real life, natural scenery, or portraits. He is fond of reading, but it is not romance that attracts him so much as books which are true to life, nature, and humanity. Dickens and, as a latter-day author, Kipling, are favorites with Mercurians. 
+These bad Mercurians, and the superficial knowledge of amateur palmists are responsible for the disfavor which in the minds of some people rests to-day on Palmistry. 
 
+The Mercurian loves things close to nature. He admires horses, dogs, pictures of real life, natural scenery, or portraits. 
 
-<!-- MERCURIAN DOCTORS' HAND No. 107. MERCURIAN DOCTORS' HAND. MERCURIAN BUSINESS MAN No. 106. MERCURIAN BUSINESS MAN.  -->
+He is fond of reading, but it is not romance that attracts him so much as books which are true to life, nature, and humanity. 
+
+Dickens and Kipling are favorites with Mercurians. 
 
