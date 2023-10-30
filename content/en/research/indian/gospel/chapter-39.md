@@ -2,7 +2,7 @@
 title: "Master's own reminiscences"
 image: "/covers/rama.jpg"
 heading: "Chapter 39"
-weight: 142
+weight: 158
 description: "SRI RAMAKRISHNA was sitting with the devotees in Balarām's drawing room in Calcutta."
 ---
 

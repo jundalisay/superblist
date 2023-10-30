@@ -2,7 +2,7 @@
 title: "Encouraging Bhavanāth"
 image: "/covers/rama.jpg"
 heading: "Chapter 51z"
-weight: 87
+weight: 205
 description: ""
 ---
 

@@ -2,7 +2,7 @@
 title: "AT RAM'S HOUSE"
 image: "/covers/rama.jpg"
 heading: "Chapter 41"
-weight: 87
+weight: 165
 description: ""
 ---
 

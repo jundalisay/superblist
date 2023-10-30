@@ -1,6 +1,15 @@
-About 4PM, the door of the Kāli temple opened, and the Master walked to the temple with the monk. M accompanied them. 
+---
+title: "The Goddess Kali"
+image: "/covers/rama.jpg"
+heading: "Chapter 18c"
+weight: 76
+description: "There are 2 kinds of aspirants"
+---
 
-Entering the inner chamber, the Master prostrate himself reverently before the image. The monk, with folded hands, also bowed his head repeatedly before Kāli.
+
+About 4PM, the door of the Kāli temple opened. The Master walked to the temple with the monk. M accompanied them. 
+
+<!-- Entering the inner chamber, the Master prostrate himself reverently before the image. The monk, with folded hands, also bowed his head repeatedly before Kāli. -->
 
 MASTER: "What do you think of Kāli?"
 
@@ -8,9 +17,7 @@ MONK (with devotion): "Kāli is supreme."
 
 MASTER: "Kāli and Brahman are identical. Is that not so?"
 
-MONK: "As long as one's mind is turned to the outer world, one must accept Kāli. As long as a man sees the outer world, and discriminates between good and evil, he must
-accept good and reject evil. To be sure, all names and forms are illusory; but as long as the mind sees the outer world, the aspirant must give up woman. The ideas of good and
-evil are applied to one who is still a student on the path; otherwise he will stray from the path of righteousness.
+MONK: "As long as one's mind is turned to the outer world, one must accept Kāli. As long as a man sees the outer world, and discriminates between good and evil, he must accept good and reject evil. To be sure, all names and forms are illusory; but as long as the mind sees the outer world, the aspirant must give up woman. The ideas of good and evil are applied to one who is still a student on the path; otherwise he will stray from the path of righteousness.
 
 Thus conversing, the Master and the monk returned from the temple.
 
@@ -34,9 +41,7 @@ Master said: "Mother, don't make me unconscious with the Knowledge of Brahman.
 
 Mother, I don't want Brahmajnana. I want to be merry. I want to play." Again he said:
 
-"Mother, I don't know the Vedānta; and Mother, I don't even care to know. The Vedas and the Vedānta remain so far below when Thou art realized, O Divine Mother!" Then he
-said: "O Krishna, I shall say to Thee, 'Eat, my Child! Take this, my Child!' O Krishna, I
-shall say to Thee, 'My Child, Thou hast assumed this body for my sake.' "
+"Mother, I don't know the Vedānta; and Mother, I don't even care to know. The Vedas and the Vedānta remain so far below when Thou art realized, O Divine Mother!" Then he said: "O Krishna, I shall say to Thee, 'Eat, my Child! Take this, my Child!' O Krishna, I shall say to Thee, 'My Child, Thou hast assumed this body for my sake.' "
 
 
 Wednesday, January 2, 1884
@@ -82,11 +87,9 @@ Further, it is said that there is the Eternal Lord and His Eternal Servant."
 
 JAYGOPAL: "How can we know that all paths are true?"
 
-MASTER: "A man can reach God if he follows one path rjghtly. Then he can learn about all the other paths. It is like reaching the roof by some means or other. Then one is
-able to climb down by the wooden or stone stairs, by a bamboo pole, or even by a rope.
+MASTER: "A man can reach God if he follows one path rjghtly. Then he can learn about all the other paths. It is like reaching the roof by some means or other. Then one is able to climb down by the wooden or stone stairs, by a bamboo pole, or even by a rope.
 
-"A devotee can know everything when God's grace descends on him. If you but realize Him, you will be able to know all about Him. You should somehow meet the master of a
-house and become acquainted with him; then he himself will tell you how many houses he owns and all about his gardens and government seurities."
+"A devotee can know everything when God's grace descends on him. If you but realize Him, you will be able to know all about Him. You should somehow meet the master of a house and become acquainted with him; then he himself will tell you how many houses he owns and all about his gardens and government seurities."
 How to receive God's grace 
 
 JAYGOPAL: "How does one receive the grace of God?"

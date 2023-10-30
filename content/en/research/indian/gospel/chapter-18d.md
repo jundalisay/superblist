@@ -1,22 +1,28 @@
+---
+title: "Different Attitudes Toward God"
+image: "/covers/rama.jpg"
+heading: "Chapter 18d"
+weight: 77
+description: "Sri Ramakrishna was sitting in his room. M. was still staying with the Master, devoting his time to the practice of spiritual discipline. He had been spending a great part of each day in prayer and meditation under the bel-tree, where the Master had performed great austerities and had seen many wonderful visions of God."
+---
+
+
 Friday, January 4, 1884
 
-Sri Ramakrishna was sitting in his room. M. was still staying with the Master, devoting
-his time to the practice of spiritual discipline. He had been spending a great part of each
-day in prayer and meditation under the bel-tree, where the Master had performed great
-austerities and had seen many wonderful visions of God.
-Master exhorts M. not to reason & Different attitudes toward God
-MASTER (to M.): "Don't reason any more. In the end, reasoning only injures the
-aspirant. One should assume a particular attitude toward God while praying to Him-the
-attitude of friend or servant or son or 'hero'."I assume the attitude of a child. To me every woman is my mother. The divine Maya,
-seeing this attitude in an aspirant, moves away from his path out of sheer shame.
-"The attitude of 'hero' is extremely difficult. The Saktas and the Bauls among the
-Vaishnavas follow it, but it is very hard to keep one's spiritual life pure in that attitude.
-One can assume other attitudes toward God as well the attitude in which the devotee
-serenely contemplates God as the Creator, the attitude of service to Him, the attitude of
-friendship, the attitude of motherly affection, or the attitude of conjugal love. The
-conjugal relationship, the attitude of a woman to her husband or sweetheart, contains all
-the rest-serenity, service, friendship, and motherly affection. (To M.) Which one of
-these appeals to your mind?"
+Sri Ramakrishna was sitting in his room. M. was still staying with the Master, devoting his time to the practice of spiritual discipline. He had been spending a great part of each day in prayer and meditation under the bel-tree, where the Master had performed great austerities and had seen many wonderful visions of God.
+
+Master exhorts M. not to reason
+
+MASTER (to M.): "Don't reason any more. In the end, reasoning only injures the aspirant. One should assume a particular attitude toward God while praying to Him-the
+attitude of friend or servant or son or 'hero'."I assume the attitude of a child. 
+
+To me every woman is my mother. The divine Maya, seeing this attitude in an aspirant, moves away from his path out of sheer shame. "The attitude of 'hero' is extremely difficult. 
+
+The Saktas and the Bauls among the Vaishnavas follow it, but it is very hard to keep one's spiritual life pure in that attitude.
+
+One can assume other attitudes toward God as well the attitude in which the devotee serenely contemplates God as the Creator, the attitude of service to Him, the attitude of friendship, the attitude of motherly affection, or the attitude of conjugal love. 
+
+The conjugal relationship, the attitude of a woman to her husband or sweetheart, contains all the rest-serenity, service, friendship, and motherly affection. (To M.) Which one of these appeals to your mind?"
 
 M: "I like them all."
 
@@ -26,9 +32,7 @@ Vaishnavas speak of Chandidas and the washerwoman. Their love was entirely free 
 "In that state a devotee looks on himself as a woman. He does not regard himself as a man. Sanatana Goswami refused to see Mirabai because she was a woman. Mira
 informed him that at Vrindāvan the only man was Krishna and that all others were His handmaids. 'Was it right of Sanatana to think of himself as a man?' Mira inquired."
 
-
-At dusk, M was sitting at the Master's feet. Sri Ramakrishna had been told that Keshab's illness had taken a turn for the worse. He was talking about Keshab and incidentally
-about the Brahmo Samaj.
+At dusk, M was sitting at the Master's feet. Sri Ramakrishna had been told that Keshab's illness had taken a turn for the worse. He was talking about Keshab and incidentally about the Brahmo Samaj.
 
 MASTER (to M.): "Do they only give lectures in the Brahmo Samaj? Or do they also meditate? I understand that they call their service in the temple 'upasana'.
 "Keshab at one time thought a great deal of Christianity and the Christian views. At that time, and even before, he belonged to Devendranath Tagore's organization."
@@ -57,13 +61,12 @@ MASTER: "Yes. I also told him about the Chidakasa, the Inner Consciousness, and 
 
 Saturday, January 5, 1884
 
-It was the twenty-third day of M.'s stay with Sri Ramakrishna. M. had finished his midday meal about one o'clock and was resting in the nahabat when suddenly he heard
+It was the 23rd day of M.'s stay with Sri Ramakrishna. M. had finished his midday meal about 1PM and was resting in the nahabat when suddenly he heard
 someone call his name three or four times. Coming out, he saw Sri Ramakrishna calling to him from the verandah north of his room.
+
 M. saluted the Master and they conversed on the south verandah.
 
-MASTER: "I want to know how you meditate. When I meditated under the bel-tree I used to see various visions clearly. One day I saw in front of me money, a shawl, a tray
-of sandesh and two women. I asked my mind, 'Mind, do you want any of these?' I saw the sandesh to be mere filth. One of the women had a big ring in her nose. I could see
-both their inside and outside-entrails, filth, bone, flesh, and blood. 
+MASTER: "I want to know how you meditate. When I meditated under the bel-tree I used to see various visions clearly. One day I saw in front of me money, a shawl, a tray of sandesh and two women. I asked my mind, 'Mind, do you want any of these?' I saw the sandesh to be mere filth. One of the women had a big ring in her nose. I could see both their inside and outside-entrails, filth, bone, flesh, and blood. 
 
 The mind did not want any of these-money, shawl, sweets, or women. It remained fixed at the Lotus Feet of God.
 
@@ -87,11 +90,9 @@ obtain his kingdom, but at last he realized God. He said, 'Why should a man give
 God can be realized when a man acquires sattva. Householders engage in philanthropic work, such as charity, mostly with a motive. That is not good. But actions without
 motives are good. Yet it is very difficult to leave motives out of one's actions. 
 
-"When you realize God, will you pray to Him, 'O God, please grant that I may dig reservoirs, build roads, and found hospitals and dispensaries'? After the realization of
-God all such desires are left behind.
+"When you realize God, will you pray to Him, 'O God, please grant that I may dig reservoirs, build roads, and found hospitals and dispensaries'? After the realization of God all such desires are left behind.
 
-"Then mustn't one perform acts of compassion, such as charity to the poor? I do not forbid it. If a man has money, he should give it to remove the sorrows and sufferings
-that come to his notice. In such an event the wise man says, 'Give the poor something.'
+"Then mustn't one perform acts of compassion, such as charity to the poor? I do not forbid it. If a man has money, he should give it to remove the sorrows and sufferings that come to his notice. In such an event the wise man says, 'Give the poor something.'
 
 But inwardly he feels: 'What can I do? God alone is the Doer. I am nothing.'
 

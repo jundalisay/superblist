@@ -2,7 +2,7 @@
 title: "THE MASTER'S BIRTHDAY"
 image: "/covers/rama.jpg"
 heading: "Chapter 36"
-weight: 128
+weight: 146
 description: ""
 ---
 

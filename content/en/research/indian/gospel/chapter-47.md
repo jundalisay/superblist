@@ -2,7 +2,7 @@
 title: "THE MASTER'S TRAINING OF HIS DISCIPLES"
 image: "/covers/rama.jpg"
 heading: "Chapter 47"
-weight: 87
+weight: 187
 description: ""
 ---
 

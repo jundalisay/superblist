@@ -1,5 +1,12 @@
+---
+title: "Free Will"
+image: "/covers/rama.jpg"
+heading: "Chapter 18e"
+weight: 78
+description: "It is God alone who has planted in man's mind what the 'Englishman' calls free will"
+---
 
-## Free Will
+
 
 It is God alone who has planted in man's mind what the 'Englishman' calls free will.
 
@@ -7,7 +14,7 @@ People who have not realized God would become engaged in more and more sinful ac
 
 "Those who have realized God are aware that free will is a mere appearance. In reality man is the machine and God its Operator, man is the carriage and God its Driver."
 
-It was about four o'clock. Rākhāl and several other devotees were listening to a kirtan by M. in the hut at the Panchavati. Rākhāl went into a spiritual mood while listening to the devotional song. After a while the Master came to the Panchavati accompanied by
+It was about 4PM. Rākhāl and several other devotees were listening to a kirtan by M. in the hut at the Panchavati. Rākhāl went into a spiritual mood while listening to the devotional song. After a while the Master came to the Panchavati accompanied by
 
 Baburam and Harish. Other devotees followed.'RĀKHĀL: "How well he [referring to M.] sang kirtan for us! He made us all very happy."
 
@@ -33,8 +40,7 @@ Where Krishna, my Beloved, dwells?
 (To M., pointing to Baburam) "You see, my own people have become strangers; Ramlal and my other relatives seem to be foreigners. And strangers have become my own.
 Don't you notice how I tell Baburam to go and wash his face? The devotees have become relatives.
 
-(Looking at the Panchavati) "I used to sit there. In course of time I became mad. That phase also passed away. Kala, Śiva, is Brahman. That which sports with Kala is Kāli,
-the Primal Energy. Kāli moves even the Immutable." 
+(Looking at the Panchavati) "I used to sit there. In course of time I became mad. That phase also passed away. Kala, Śiva, is Brahman. That which sports with Kala is Kāli, the Primal Energy. Kāli moves even the Immutable." 
 
 Saying this, the Master sang:
 My mind is overwhelmed with wonder,
@@ -48,13 +54,12 @@ The Purusha is the Chidatma and Prakriti the ChitŚakti. Sri Krishna is the Chid
 
 After dusk Sri Ramakrishna went to the Kāli temple and was pleased to see M. meditating there.
 
-The evening worship was over in the temples. The Master returned to his room and sat
-on the couch, absorbed in meditation on the Divine Mother. M. sat on the floor. There
-was no one else in the room.
+The evening worship was over in the temples. The Master returned to his room and sat on the couch, absorbed in meditation on the Divine Mother. M. sat on the floor. There was no one else in the room.
 
-The Master was in samādhi. He began to come gradually down to the normal plane. His mind was still filled with the consciousness of the Divine Mother. In that state he was
-speaking to Her like a small child making importunate demands on his mother. He said in a piteous voice: "Mother, why haven't You revealed to me that form of Yours, the form
-that bewitches the world? I pleaded with You so much for it. But You wouldn't listen to me. You act as You please."
+The Master was in samādhi. He began to come gradually down to the normal plane. His mind was still filled with the consciousness of the Divine Mother. In that state he was speaking to Her like a small child making importunate demands on his mother. He said in a piteous voice: "Mother, why haven't You revealed to me that form of Yours, the form that bewitches the world?
+
+I pleaded with You so much for it. But You wouldn't listen to me. You act as You please."
+
 The voice in which these words were uttered was very touching.
 
 He went on: "Mother, one needs faith. Away with this wretched reasoning! Let it be blighted! One needs faith-faith in the words of the guru, childlike faith. The mother says
@@ -132,9 +137,6 @@ The earthly mother gives birth to this body. I used to go into samādhi uttering
 
 At the Master's request, Ramlal sang again, this time about Gaurānga.
 
-MASTER (to M.): "The Nitya and the Lila are the two aspects of the Reality. God, plays in the world as man for the sake of His devotees. They can love God only if they see
-Him in a human form; only then can they show their affection for Him as their Brother, 
-Sister, Father, Mother, or Child.
+MASTER (to M.): "The Nitya and the Lila are the two aspects of the Reality. God, plays in the world as man for the sake of His devotees. They can love God only if they see Him in a human form; only then can they show their affection for Him as their Brother, Sister, Father, Mother, or Child.
 
-"It is just for this love of the devotees that God contracts Himself into a human form and
-descends on earth to play His lila."
+It is just for this love of the devotees that God contracts Himself into a human form and descends on earth to play His lila."

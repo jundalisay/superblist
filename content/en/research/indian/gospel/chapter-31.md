@@ -2,7 +2,7 @@
 title: "ADVICE TO ISHAN"
 image: "/covers/rama.jpg"
 heading: "Chapter 31"
-weight: 108
+weight: 127
 description: ""
 ---
 
@@ -437,9 +437,9 @@ Charity, vows, and giving of gifts do not appeal to Madan's
 mind;
 The Blissful Mother's Lotus Feet are his whole prayer and
 sacrifice. . . .
-668"How long must a man continue the sandhya? As long as he has not developed love for
-the Lotus Feet of God, as long as he does not shed tears and his hair does not stand on
-end when he repeats God's name.
+
+"How long must a man continue the sandhya? As long as he has not developed love for the Lotus Feet of God, as long as he does not shed tears and his hair does not stand on end when he repeats God's name.
+
 I bow my head, says Prasad, before desire and liberation;
 Knowing the secret that Kāli is one with the highest Brahman,
 I have discarded, once for all, both dharma and adharma.
@@ -560,19 +560,18 @@ want anything else Be gracious to me and see that I have pure love for Thy Lotus
 eight occult powers. I don't want a hundred occult powers O Mother, I have no desire for
 creature comforts. Please, Mother, grant me the boon that I may have pure love for Thy
 Lotus Feet.'”
-"It is written in the Adhyātma Rāmāyana that Lakshmana asked Rāma 'Rāma, in how
-many forms and moods do You exist? How shall I be able to recognize You?' Rāma said:
+
+The Adhyātma Rāmāyana writes that Lakshmana asked Rāma 'Rāma, in how many forms and moods do You exist? How shall I be able to recognize You?' Rāma said:
 'Brother, remember this. You may be certain that I exist wherever you find the
 manifestation of ecstatic love.' That love makes one laugh and weep and dance and sing;
 if anyone has developed such love, you may know for certain that God Himself is
 manifest there. Chaitanyadeva reached that state."
-The devotees listened spellbound to Sri Ramakrishna. His burning words entered their
-souls, spurring them along the path of renunciation.
+
+The devotees listened spellbound to Sri Ramakrishna. His burning words entered their souls, spurring them along the path of renunciation.
 Now he spoke to Ishan in a serious voice.
-MASTER: "Don't forget yourself because of what you hear from your flatterers. Flatterers
-gather around a worldly man. Vultures gather around the carcass of a cow.
-"Worldly people have no stuff in them. They are like a heap of cow-dung. Flatterers
-come to them and say: 'You are so charitable and wise! You are so pious!' These are not
+
+MASTER: "Don't forget yourself because of what you hear from your flatterers. Flatterers gather around a worldly man. Vultures gather around the carcass of a cow.
+"Worldly people have no stuff in them. They are like a heap of cow-dung. Flatterers come to them and say: 'You are so charitable and wise! You are so pious!' These are not
 mere words but pointed bamboos thrust at them. How foolish it is! To be surrounded day
 and night by a bunch of worldly brahmin pundits and hear their flattery!
 "Worldly men are slaves of three things: they are slaves of their wives, slaves of their
@@ -582,16 +581,15 @@ wife. He stands up or sits down at her bidding.
 "Arbitration and leadership? How trifling these are! Charity and doing good to others?
 You have had enough of these. Those who are to devote themselves to such things
 belong to a different class. Now the time is ripe for you to devote your mind to the Lotus
-Feet of God. If you realize God, you will get everything else. First God, then charity,
-672doing good to others, doing good to the world, and redeeming people. Why need you
-worry about these things. 'Ravana died in Lanka and Behula wept for him bitterly!'
-"That's the trouble with you. It will be very good if a world-renouncing sannyāsi gives
-you some spiritual instruction. The advice of the worldly man will not be right, be he a
-brahmin pundit or anyone else.
-"Be mad! Be mad with love of God! Let people know that Ishan has gone mad and
-cannot perform worldly duties any more. Then people will no longer come to you for
+Feet of God. If you realize God, you will get everything else. First God, then charity, doing good to others, doing good to the world, and redeeming people. Why need you worry about these things. 'Ravana died in Lanka and Behula wept for him bitterly!'
+
+"That's the trouble with you. It will be very good if a world-renouncing sannyāsi gives you some spiritual instruction. The advice of the worldly man will not be right, be he a brahmin pundit or anyone else.
+
+"Be mad! Be mad with love of God! Let people know that Ishan has gone mad and cannot perform worldly duties any more. Then people will no longer come to you for
 leadership and arbitration. Throw aside the kosakusi and justify your name of Ishan."
+
 Ishan quoted:
+
 O Mother, make me mad with Thy love!
 What need have I of knowledge or reason?
 MASTER: "Mad! That's the thing! Shivanath once said that one 'loses one's head' by
@@ -621,15 +619,14 @@ course, at the mere touch of light all the darkness disappears.
 "What can a man do? He may speak many words, but after all is said and done
 everything rests with God. The lawyer says: 'I have said all that can be said. Now the
 verdict rests with the judge.'
-673"Brahman is actionless. When It is engaged in creation, preservation, and dissolution, It
-is called the Primal Power, Ādyāśakti . This Power must be propitiated. Don't you know
-that it is so written in the Chandi? The gods first sang a hymn to the Ādyāśakti in order to
+
+Brahman is actionless. When It is engaged in creation, preservation, and dissolution, It is called the Primal Power, Ādyāśakti . This Power must be propitiated. Don't you know that it is so written in the Chandi? The gods first sang a hymn to the Ādyāśakti in order to
 propitiate Her. Only then did Hari wake up from His yoga sleep."
-ISHAN: "Yes, sir. Brahma and the other gods sang this hymn at the timeof the death of
-the demons Madhu and Kaitabha:
-Svaha, Vashat, and Svadha art Thou; Thou the inner Self of the
-mantra;
+
+ISHAN: "Yes, sir. Brahma and the other gods sang this hymn at the timeof the death of the demons Madhu and Kaitabha:
+Svaha, Vashat, and Svadha art Thou; Thou the inner Self of the mantra;
 Thou the Nectar of Immortality, O Everlasting One!
+
 Eternal and unutterable art Thou, and yet Thou art manifest
 In the three matras and the half matra:
 O Goddess, Thou art Savitri; Thou art the Ultimate Mother;
@@ -657,6 +654,7 @@ the poor, and the like.
 "The performance of this dharma is called the path of karma. It is an extremely difficult
 path: it is very hard to act without motive. Therefore one is asked to pursue the path of
 devotion.
+
 "A man was performing the sraddha ceremony at his house. He was feeding many
 people. Just then a butcher passed, leading a cow to slaughter. He could not control the
 674animal and became exhausted. He said to himself: 'Let me go into that house and enjoy
@@ -716,6 +714,7 @@ Infinite are my Mother's glories; who can find the end of Her
 virtues?
 Śiva, beholding their smallest part, lies prostrate at Her Lotus
 Feet.
+
 The singing was over. Two sons of Rajnarayan entered the
 room and bowed low before the Master. In the afternoon they
 had sung with their father the glories of the Divine Mother. The

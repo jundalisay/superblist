@@ -1,269 +1,121 @@
-Sunday, March 2, 1884
-
-Trailokya's songs
-
-Sri Ramakrishna was sitting on the small couch in his room, listening to devotional music
-by Trailokya Sannyal of the Brahmo Samaj. He had not yet recovered from the effects
-of the injury to his arm, which was still supported by a splint. Many devotees, including,
-Narendra, Srendra, and M., were sitting on the floor.
-Narendra's father, a lawyer of the High Court of Calcutta, had passed away suddenly.
-He had not been able to make provision for the family, which consequently faced grave
-financial difficulties. The members of the family sometimes had to go without food.
-Narendra was therefore passing his days in great anxiety.
-Trailokya sang about the Divine Mother:
-O Mother, I hide myself in Thy loving bosom;
-I gaze at Thy face and cry out, "Mother! Mother!"
-I sink in the Sea of Bliss and am lost to sense
-In yoga-sleep; I gaze with unwinking eyes
-416Upon Thy face, powerless to turn away.
-O Mother, I am terrified by this world;
-My spirit trembles and cries out in fear.
-Keep me, sweet Mother, in Thy loving bosom;
-Cover me with the spreading skirt of Thy love.
-The Master shed tears of love and cried out, "Ah me! Ah me!"
-Trailokya sang again:
-O Lord, Destroyer of my shame! Who but Thyself can save
-The honour of Thy devotee?
-Thou art the Ruler of my soul, my very life's Support,
-And I am Thy slave for evermore. . . .
-He continued:
-Seeking a shelter at Thy feet,
-I have forever set aside
-My pride of caste and race, O Lord,
-And turned my back on fear and shame.
-A lonely pilgrim on life's way,
-Where shall I go for succour now?
-For Thy sake, Lord, I bear men's blame;
-They rail at me with bitter words
-And hate me for my love of Thee.
-Both friends and strangers use me ill.
-Thou art the Guardian of my name;
-Thou mayest save or slay me, Lord!
-Upon the honour of Thy servant
-Rests, O Lord, Thy name as well;
-Thou art the Ruler of my soul,
-The glow of love within my heart;
-Do with me as it pleases Thee!
-Once more he sang:
-
-Lord, Thou hast taken me from home and made me captive with
-
-Thy love;
-
-Shield me for ever at Thy feet, O Thou Beloved One!
-
-Upon the Nectar of Thy love, feed me both day and night,
-
-And save Premdas, who is Thy slave.
-The Master again shed tears of joy. He sang some lines from a song of Ramprasad:
-Glory and shame, bitter and sweet, are Thine alone;
-This world is nothing but Thy play.
-Then why, O Blissful One, dost Thou cause a rift in it?
-417Addressing Trailokya, the Master said: "Ah! How touching your songs are! They are
-genuine. Only he who has gone to the ocean can fetch its water."
-Trailokya sang again:
-Thou it is that dancest, Lord, and Thou that singest the song;
-Thou it is that clappest Thy hands in time with the music's beat;
-But man, who is an onlooker merely, foolishly thinks it is he.
-Though but a puppet, man becomes a god if he moves with
-Thee;
-Thou art the Mover of the machine, the Driver of the car;
-But man is weighted down with woe, dreaming that he is free.
-Thou art the Root of everything, Thou the Soul of our souls;
-Thou art the Master of our hearts; through Thine unbounded
-grace
+---
+title: "Master's Impatience"
+image: "/covers/rama.jpg"
+heading: "Chapter 19c"
+weight: 80
+description: "Sri Ramakrishna began to talk to them about his health and his injured arm"
+---
 
-Thou turnest even the meanest sinner into the mightiest saint.
-The singing came to an end. The Master engaged in conversation with the devotees.
 
-Process of negation and affirmation & God Himself has become everything
+Sunday, February 24, 1884
 
-MASTER: "God alone is the Master, and again, He is the Servant. 
+Sri Ramakrishna was resting in his room after his midday meal, and Mani Mallick was sitting on the floor beside him, when M. arrived. M. saluted the Master and sat down beside Mani. The Master's injured arm was bandaged.
 
-This attitude indicates Perfect Knowledge. At first one discriminates, 'Not this, not this', and feels that God
-alone is real and all else is illusory. 
+MASTER (to M.): "How did you come?"
 
-Afterwards the same person finds that it is God Himself who has become all this-the universe, maya, and the living beings. First
-negation and then affirmation. This is the view held by the Puranas. A vilwa-fruit, for
-instance, includes flesh, seeds, and shell. You get the flesh by discarding the shell and
-seeds. 
+M: "I came as far as Alambazar in a carriage and from there I walked."
 
-But if you want to know the weight of the fruit, you cannot find it if you discard the shell and seeds. Just so, one should attain Sarchidananda by negating the universe
-and its living beings. But after the attainment of Satchidananda one finds that Satchidananda Itself has become the universe and the living beings. It is of one
-substance that the flesh and the shell and seeds are made, just like butter and buttermilk.
+MANILAL: "Oh, he is so hot!"
 
+MASTER (with a smile): "This makes me think that all these are not mere fancies of my brain. Otherwise why should these 'Englishmen' take so much trouble to come here?" 
 
-'How has Satchidananda become so hard?' This earth does indeed feel very hard to the touch. The answer is that blood and semen are thin liquids, and yet out
-of them comes such a big creature as man. 
+Sri Ramakrishna began to talk to them about his health and his injured arm.
 
-Everything is possible for God. First of all reach the indivisible Satchidananda, and then, coming down, look at the universe. You
-will then find that everything is Its manifestation. 
 
-It is God alone who has become everything. 
+MASTER: "Now and then I become impatient about my arm. I show it to this or that man and ask him whether I shall get well again. That makes Rākhāl angry. He doesn't
+understand my mood. Now and then I say to myself, 'Let him go away.' Again I say to the Mother: 'Mother, where will he go? Why should he burn himself in the frying-pan of the world?'
 
-The world by no means exists apart from Him.
+"This childlike impatience of mine is nothing new. I used to ask Mathur Babu to feel my pulse and tell me whether I was ill.
 
-"All elements finally merge in Ākāśa. Again, at the time of creation, Ākāśa evolves into mahat and mahat into Ahamkāra. In this way the whole world-system is evolved. It is
-the process of involution and evolution. A devotee of God accepts everything. 
+"Well, where then is my faith in God? Once I was going to Kamarpukur in a bullock-cart, when several persons came up to the cart with clubs in their hands. They looked like highwaymen. I began to chant the names of the gods. Sometimes I repeated the names of Rāma and Durga, and some times 'Om Tat Sat', so that in case one failed another would work.
 
-He accepts the universe and its created beings as well as the indivisible Satchidananda.
+(To M.) "Can you tell me why I am so impatient?"
 
-But the yogi's path is different. He does not come back after reaching the Paramatman,
-the Supreme Soul. He becomes united with It.
+M: "Your mind, sir, is always absorbed in samādhi. You have kept a fraction of it on your body for the welfare of the devotees. Therefore you feel impatient now and then for your body's safety."
 
-"The 'partial knower' limits God to one object only. He thinks that God cannot exist in
-anything beyond that.
+MASTER: "That is true. A little of the mind is attached to the body. It wants to enjoy
+the love of God and the company of the devotees."
 
+Mani Mallick told the Master about an exhibition that was being held in Calcutta. He described a beautiful image of Yaśoda with the Baby Krishna on her lap. Sri
+Ramakrishna's eyes filled with tears. On hearing about Yaśoda, the embodiment of maternal love, his spiritual consciousness was kindled and he wept.
 
-## 3 Classes of devotees
+MANILAL: "If you were not unwell, you could visit the exhibition in the Maidan."
 
-There are three classes of devotees.
+MASTER (to M. and the others): "I shan't be able to see everything even if I go. Perhaps my eyes will fall on some certain thing and I shall become unconscious. Then I shall not be able to see the rest. I was taken to the Zoological Garden. I Went into samādhi at the sight of the lion, for the carrier of the Mother awakened in my mind the consciousness of the Mother Herself.
 
-1. The lowest one says, 'God is up there.' That is,  he points to heaven. 
+In that state who could see the other animals? I had to return home after seeing only the lion. Hence Jadu Mallick's mother first
+suggested that I should go to the exhibition and then said I should not."
 
-The mediocre devotee says that God dwells in the heart as the 'Inner Controller'. But the highest devotee says: 'God alone has become everything. All that
-we perceive is so many forms of God.' Narendra used to make fun of me and say: 'Yes,
-God has become all! Then a pot is God, a cup is God!' (Laughter.)
+Mani Mallick, about sixty-five years old, had been a member of the Brahmo Samaj for many years, and Sri Ramakrishna gave him instruction that would agree with his mood.
 
+MASTER: "Pundit Jaynarayan had very liberal views. I visited him once and liked his attitude. But his sons wore high boots. He told me he intended to go to Benares and
+live there, and at last he carried out his intention; for later on he did live in Benares and die there. When one grows old one should retire, like Jaynarayan, and devote oneself to the thought of God. What do you say?"
 
-All doubts disappear when one sees God. It is one thing to hear of God, but quite a different thing to see Him. A man cannot have one hundred per cent conviction through
-mere hearing. But if he beholds God face to face, then he is wholly convinced. 
+MANILAL: "True, sir. I don't relish the worries and troubles of the world."
 
-"Formal worship drops away after the vision of God. It was thus that my worship in the temple came to an end. I used to worship the Deity in the Kāli temple. It was suddenly
-revealed to me that everything is Pure Spirit. The utensils of worship, the altar, the door-frame-all Pure Spirit. Men, animals, and other living beings-all Pure Spirit. Then
-like a madman I began to shower flowers in all directions. Whatever I saw I worshipped. 
+MASTER: "Gauri used to worship his wife with offerings of flowers. All women are manifestations of the Divine Mother. (To Manilal) Please tell them that little story of yours."
 
-"One day, while worshipping Śiva, I was about to offer a bel-leaf on the head of the image, when it was revealed to me that this Virat, this Universe, itself is Śiva. After that my worship of Śiva through the image came to an end. Another day I had been plucking flowers, when it was revealed to me that the flowering plants were so many bouquets."
+MANILAL (smiling): "Once several men were crossing the Ganges in a boat. One of them, a pundit, was making a great display of his erudition, saying that he had studied
+various books-the Vedas, the Vedānta, and the six systems of philosophy. He asked a fellow passenger, 'Do you know the Vedānta?' 'No, revered sir.' 'The Samkhya and the Patanjala?' 
 
-TRAILOKYA: "Ah! How beautiful is God's creation!"
+'No, revered sir.' 'Have you read no philosophy whatsoever?' 'No, revered sir.' 
 
-MASTER: "Oh no, it is not that. It was revealed to me in a flash. I didn't calculate about it. It was shown to me that each plant was a bouquet adorning the Universal Form of
-God. That was the end of my plucking flowers. I look on man in just the same way. 
+The pundit was talking in this vain way and the passenger sitting in silence, when a great storm arose and the boat was about to sink. The passenger said to the pundit, 'Sir, can you swim?' 'No', replied the pundit. The passenger said, 'I don't know the Samkhya or the Patanjala, but I can swim.'
 
-When I see a man, I see that it is God Himself who walks on earth, as it were, rocking to and fro, like a pillow floating on the waves. The pillow moves with the waves. It bobs up and down.
+MASTER (smiling): "What will a man gain by knowing many scriptures? The one thing needful is to know how to cross the river of the world. God alone is real, and all else illusory.
 
-The body has, indeed, only a momentary existence. God alone is real. Now the body exists, and now it does not. Years ago, when I had been suffering terribly from
-indigestion, Hriday said to me, 'Do ask the Mother to cure you.' I felt ashamed to speak to Her about my illness. I said to Her:
-'Mother, I saw a skeleton in the Asiatic Society Museum. It was pieced together with
-wires into a human form. O Mother, please keep my body together a little, like that, so
-that I may sing Thy name and glories.'
+While Arjuna was aiming his arrow at the eye of the bird, Drona asked him: 'What do you see? Do you see these kings?' 'No, sir', replied Arjuna. 'Do you 'See me'?' 'No.' 'The tree?' 
 
-Why this desire to live? After Ravana's death Rāma and Lakshmana entered his capital and saw Nikasha, his old mother, running away. Lakshmana was surprised at this and
-said to Rāma, 'All her children are dead, but still life attracts her so much!' Rāma called Nikasha to His side and said: 'Don't be afraid. Why are you running away?' She replied: 'Rāma, it was not fear that made me flee from You. I have been able to see all these
-wondrous actions of Yours simply because I am alive. I shall see many more things like
-these if I continue to live. Hence I desire to live.'
+'No.' 'The bird on the tree?' 'No.' 'What do you see then?' 'Only the eye of the bird.'
 
-Without desires the body cannot live. (Smiling) I had one or two desires. I prayed to the Mother, 'O Mother, give me the company of those who have renounced "woman and
-gold".' I said further: 'I should like to enjoy the society of Thy jnanis and bhaktas. 
+"He who sees only the eye of the bird can hit the mark. He alone is clever who sees that God is real and all else is illusory. What need have I of other information? Hanuman once remarked: 'I don't know anything about the phase of the moon or the position of the stars. 
 
-So give me a little strength that I may walk hither and thither and visit those people.' But She did not give me the strength to walk."
+I only contemplate Rāma.'
 
-TRAlLOKYA (smiling): "Have all the desires been fulfilled?"
+(To M.) "Please buy a few fans for our use here.
 
-MASTER (smiling): "No, there are still a few left. (All laugh.)
-"The body is really impermanent. When my arm was broken I said to the Mother,
+(To Manilal) "Look here, pay a visit to his [meaning M.'s] father. The sight of a devotee will inspire you.
 
-'Mother, it hurts me very much.' At once She revealed to me a carriage and its driver.
+(To M.) "Since my arm was injured a deep change has come over me. I now delight only in the Naralila, the human manifestation of God. Nitya and Lila. The Nitya is the
+Indivisible Satchidananda, and the Lila, or Sport, takes various forms, such as the Lila as God, the Lila as the deities, the Lila as man, and the Lila as the universe. "Vaishnavcharan. used to say that one has attained Perfect Knowledge if one believes in
+God sporting as man. I wouldn't adopt it then. But now I realize that he was right.
 
-Here and there a few screws were loose. The carriage moved as the driver directed it. It had no power of its own.
+Vaishnavcharan liked pictures of man expressing tenderness and love.
 
-"Why then do I take care of the body? It is to enjoy God, to sing His name and glories, and to go about visiting His jnanis and bhaktas."
+(To Manilal) "It is God Himself who is sporting in the form of man. It is He alone, who has become Mani Mallick. The Sikhs teach: 'Thou art Satchidananda.'
+"Now and then man catches a glimpse of his real Self and becomes speechless with wonder. 
 
+At such times he swims in an ocean of joy. It is like suddenly meeting a dear relative. (To M.) The other day as I was coming here in a carriage, I felt like that at the sight of Baburam. When Śiva realizes His own Self, He dances about in joy exclaiming, 'What am I! 
 
+"The same thing has been described in the Adhyātma Rāmāyana. Nārada said, 'O Rāma, all men are Thy forms, and it is Sita who has become all women.' On looking at the
+actors in the Ramlila, I felt that Narayana Himself had taken these human forms. The genuine and the imitation appeared to be the same.
+"Why do people worship virgins? All women are so many forms of the Divine Mother.
 
-Narendra was sitting on the floor in front of the Master.
+But Her manifestation is greatest in pure-souled virgins.
 
-MASTER (to Trailokya and the other devotees): "The joys and sorrows of the body are inevitable. Look at Narendra. His father is dead, and his people have been put to
-extreme suffering. He can't find any way out of it. God places one sometimes in happiness and sometimes in misery."
+(To M.) "Why do I become impatient when I am ill? Because the Mother has placed me in the state of a child. The child depends entirely on its mother. The child of the
+maidservant, when he quarrels with the child of the master, says, 'I shall tell my mother.'
 
-TRAILOKYA: "Revered sir, God will be gracious to Narendra."
+"I was taken to Radhabazar to be photographed. It had been arranged that I should go to Rajendra Mitra's house that day. I heard that Keshab would be there. I planned to tell them certain things, but I forgot it all when I went to Radhabazar. I said: 'O Mother,
 
-MASTER (with a smile): "But when? It is true that no one starves at the temple of Annapurna in Benares; but some must wait for food till evening.
-"Once Hriday asked Sambhu Mallick for some money. Sambhu held the views of 'Englishmen' on such matters. He said to Hriday: 'Why should I give you money? You
-can earn your livelihood by working. Even now you are earning something. 
+Thou wilt speak. What shall I say?'
 
-The case of a very poor person is different. The purpose of charity is fulfilled if one gives money to
-the blind or the lame.' 
+"I have not the nature of a Jnāni. He considers himself great. He says, 'What? How can I be ill?'
 
-Thereupon Hriday said: 'Sir, please don't say that. I don't need your money. May God help me not to become blind or deaf or extremely poor! I don't
-want you to give, and I don't want to receive.' "
+Koar Singh once said to me, 'You still worry about your body.' But it is my nature to believe that my Mother knows everything. It was She who would speak at Rajendra
+Mitra's house. Hers are the only effective words. One ray of light from the Goddess of Wisdom stuns a thousand scholars.
+"The Mother has kept me in the state of a bhakta, a vijnāni. 
 
-The Master spoke as if piqued because God had not yet shown His kindness to Narendra. Now and then he cast an affectionate glance at his beloved disciple.
+That is why I joke with Rākhāl and the others. Had I been in the condition of a Jnāni I couldn't do that.
 
-NARENDRA: "I am now studying the views of the atheists."
-MASTER: "There are two doctrines: the existence and the non-existence of God. Why
-don't you accept the first?"
+In this state I realize that it is the Mother alone who has become everything. I see Her everywhere. In the Kāli temple I found that the Mother Herself had become everything-even the wicked, even the brother of Bhagavat Pundit.
 
-SURENDRA: "God is just. He must look after His devotees."
+Once I was about to scold Ramlal's mother, but I had to restrain myself. I saw her to be a form of the Divine Mother. I worship virgins because I see in them the Divine Mother. 
 
-MASTER: "It is said in the scriptures that only those who have been charitable in their former births get money in this life. But to tell you the truth, this world is God's maya. And there are many confusing things in this realm of maya. One cannot comprehend them.
+My wife strokes my feet, but I salute her afterwards.
 
-God's ways are inscrutable
+You salute me by touching my feet. But had Hriday been here, who would have dared to touch them? He wouldn't have allowed anyone to do it. I have to return your salutes because the Mother has placed me in a state in which I see God in everything.
 
-"The ways of God are inscrutable indeed. Bhishma lay on his bed of arrows. The Pandava brothers visited him in Krishna's company. Presently Bhishma burst into tears.
-The Pandavas said to Krishna: 'Krishna, how amazing this is! Our grandsire Bhishma is one of the eight Vasus. Another man as wise as he is not to be found. Yet even he is
-bewildered by maya and weeps at death.' 
+You see, one cannot exclude even a wicked person. A tulsi-leaf, however dry or small, can be used for worship in the temple."
 
-'But', said Krishna, 'Bhishma isn't weeping on that account. You may ask him about it.' When asked, Bhishma said: 'O Krishna, I am unable to understand anything of the ways of God; God Himself is the constant companion of the Pandavas, and still they have no end of trouble. That is why I weep. 
 
-When I reflect on this, I realize that one cannot understand anything of God's ways.'
-
-"God has revealed to me that only the Paramatman, whom the Vedas describe as the Pure Soul, is as immutable as Mount Sumeru, unattached, and beyond pain and
-pleasure. There is much confusion in this world of His maya. One can by no means say that 'this' will come after 'that' or 'this' will produce 'that'."
-SURENDRA (smiling): "If by giving away money in a. previous birth one gets wealth in this life, then we should all give away money now."
-MASTER: "Those who have money should give it to the poor and needy. 
-
-(To Trailokya) Jaygopal Sen is well-to-do. He should be charitable. That he is not so is to his discredit. There are some who are miserly even though they have money. There is no knowing who will enjoy their money afterwards.
-
-Jaygopal came here the other day. He drove over here in a carriage. The lamps were broken, the horse seemed to have been returned from the charnel-house, and the
-coachman looked as if he had just been discharged from the Medical College Hospital.
-
-And he brought me two rotten pomegranates!" (All laugh.)
-
-SURENDRA: "Jaygopal Babu belongs to the Brahmo Samaj. I understand that now there
-is not one worth-while man in Keshab's organization. Vijay Goswami, Shivanath, and
-other notables have organized the Sadharan Brahmo Samaj."
-
-
-MASTER (smiling): "Govinda Adhikari, it is said, would not keep good actors in his theatre lest they should claim a share of the profit. (All laugh.)
-
-"The other day I saw a disciple of Keshab. A theatrical performance was being given in Keshab's house, and I saw the disciple dancing on the stage with a child in his arms. I
-understand that this man delivers 'lectures'. He had better lecture to himself."
-
-Trailokya sang:
-
-Upon the Sea of Blissful Awareness waves of ecstatic love
-arise:
-
-Rapture divine! Play of God's Bliss!
-Oh, how enthralling!
-
-Wondrous waves of the sweetness of God, ever new and ever
-enchanting,
-
-Rise on the surface, ever assuming
-Forms ever fresh.
-
-Then once more in the Great Communion all are merged, as
-the barrier walls
-Of time and space dissolve and vanish:
-
-Dance then, O mind!
-
-Dance in delight, with hands upraised, chanting Lord Hari's holy name.
-
-Sri Ramakrishna requested Trailokya to sing the song beginning, "O Mother, make me
-mad with Thy love".
-
-Trailokya sang:
-O Mother, make me mad with Thy love!
-What need have I of knowledge or reason?
-Make me drunk with Thy love's Wine:
-O Thou who stealest Thy bhaktas' hearts,
-Drown me deep in the Sea of Thy love!
-Here in this world, this madhouse of Thine
-Some laugh, some weep, some dance for joy:
-Jesus, Buddha, Moses, Gaurānga,
-All are drunk with the Wine of Thy love.
-O Mother, when shall I be blessed
-By joining their blissful company?

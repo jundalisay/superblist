@@ -2,7 +2,7 @@
 title: "BANKIM CHANDRA"
 image: "/covers/rama.jpg"
 heading: "Chapter 34"
-weight: 120
+weight: 139
 description: ""
 ---
 

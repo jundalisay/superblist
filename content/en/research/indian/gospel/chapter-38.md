@@ -2,7 +2,7 @@
 title: "WITH THE DEVOTEES IN CALCUTTA"
 image: "/covers/rama.jpg"
 heading: "Chapter 38"
-weight: 138
+weight: 155
 description: ""
 ---
 

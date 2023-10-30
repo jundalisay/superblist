@@ -1,27 +1,20 @@
 ---
-heading: Chapter 26c
-title: God\s Love
+heading: Chapter 26b
+title: God's Love
 image: "/covers/rama.jpg"
 heading: "Chapter 20"
-weight: 82
+weight: 109
 description: ""
 ---
 
 
-"How can a devotee attain such love? First, the company of holy men. That awakens śraddhā, faith in God. Then comes nishtha, single-minded devotion to the Ideal. In that
-stage the devotee does not like to hear anything but talk about God. He performs only those acts that please God. After nishtha comes bhakti, devotion to God; then comes
-bhava. Next mahabhava, then prema, and last of all the attainment of God Himself. 
+"How can a devotee attain such love? First, the company of holy men. That awakens śraddhā, faith in God. Then comes nishtha, single-minded devotion to the Ideal. In that stage the devotee does not like to hear anything but talk about God. He performs only those acts that please God. After nishtha comes bhakti, devotion to God; then comes bhava. Next mahabhava, then prema, and last of all the attainment of God Himself. 
 
 Only for Isvarakotis, such as the Incarnations, is it possible to have mahabhava or prema.
 
+"The knowledge of a worldly person, the knowledge of a devotee, and the Knowledge of an Incarnation are by no means of the same degree. The knowledge of a worldly person is like the light of an oil lamp, which shows only the inside of a room. Through such knowledge he eats and drinks, attends to household duties, protects his body, brings up his children, and so on.
 
-"The knowledge of a worldly person, the knowledge of a devotee, and the Knowledge of an Incarnation are by no means of the same degree. The knowledge of a worldly person
-is like the light of an oil lamp, which shows only the inside of a room. Through such knowledge he eats and drinks, attends to household duties, protects his body, brings up
-his children, and so on.
-
-"The knowledge of a devotee is like the light of the moon, which illumines objects both
-inside and outside a room. But such light does not enable him to see a distant or a very
-minute object.
+"The knowledge of a devotee is like the light of the moon, which illumines objects both inside and outside a room. But such light does not enable him to see a distant or a very minute object.
 
 "The Knowledge of an Incarnation of God is like the light of the sun. Through that light
 the Incarnation sees everything, inside and outside, big and small.
@@ -61,23 +54,19 @@ was blowing from the south, covering the bosom of the sacred river with ripples.
 M. looked at the scene a long time. As the boat disappeared in the direction of Calcutta,
 he came back to the Master.
 
-Sri Ramakrishna was going to the pine-grove. A beautiful, dark rain-cloud was to be seen in the northwest. The Master asked M.: "Do you think it will rain? Please bring my
-umbrella." M. brought the umbrella. Reaching the Panchavati, the Master said to Lātu, who also accompanied him, "Why do you look so sickly?"
-545LĀTU: "I can hardly eat anything."
+Sri Ramakrishna was going to the pine-grove. A beautiful, dark rain-cloud was to be seen in the northwest. The Master asked M.: "Do you think it will rain? Please bring my umbrella." M. brought the umbrella. Reaching the Panchavati, the Master said to Lātu, who also accompanied him, "Why do you look so sickly?"
 
-MASTER: "Is that the only reason? It is also a bad time of the year. Are you meditating
-too much? (To M.) I have a request to make of you. Please tell Baburam to stay with
-me a day or two during Rākhāl 's absence. Otherwise I shall feel very unhappy."
+LĀTU: "I can hardly eat anything."
+
+MASTER: "Is that the only reason? It is also a bad time of the year. Are you meditating too much? (To M.) I have a request to make of you. Please tell Baburam to stay with me a day or two during Rākhāl 's absence. Otherwise I shall feel very unhappy."
 
 M: "Yes, sir. I shall tell him."
 
 Sri Ramakrishna asked M. whether he thought that Baburam was guileless. Presently the Master left them, going in the direction of the pine-trees. After a few minutes M. and Lātu, standing in the Panchavati, saw the Master coming back toward them. 
 
-Behind him the sky was black with the rain-cloud. Its reflection in the Ganges made the water darker. The disciples felt that the Master was God Incarnate, a Divine Child five years old, radiant with the smile of innocence and purity. Around him were the sacred trees of the Panchavati under which he had practised spiritual discipline and had beheld visions of God. At his feet flowed the sacred river Ganges, the destroyer of man's sins. The presence of this God-man charged the trees, shrubs, flowers, plants,
-and temples with spiritual fervour and divine joy.
+Behind him the sky was black with the rain-cloud. Its reflection in the Ganges made the water darker. The disciples felt that the Master was God Incarnate, a Divine Child five years old, radiant with the smile of innocence and purity. Around him were the sacred trees of the Panchavati under which he had practised spiritual discipline and had beheld visions of God. At his feet flowed the sacred river Ganges, the destroyer of man's sins. The presence of this God-man charged the trees, shrubs, flowers, plants, and temples with spiritual fervour and divine joy.
 
-Sri Ramakrishna returned to his room and sat on the small couch. He began to praise a medicine that a certain brahmachari had prepared for him. Referring to this man, Hazra
-said: "He is now entangled in many worldly anxieties. What a shame! Look at Nabai Chaitanya of Konnagar. Though a householder, he has put on a red cloth."
+Sri Ramakrishna returned to his room and sat on the small couch. He began to praise a medicine that a certain brahmachari had prepared for him. Referring to this man, Hazra said: "He is now entangled in many worldly anxieties. What a shame! Look at Nabai Chaitanya of Konnagar. Though a householder, he has put on a red cloth."
 
 MASTER: "What shall I say? I clearly see that it is God Himself who has assumed all these human forms. Therefore I cannot take anybody to task."
 
@@ -284,13 +273,16 @@ Upon the Sea of Blissful Awareness waves of ecstatic love
 arise:
 Rapture divine! Play of God's Bliss!
 Oh, how enthralling! . . .
+
 MASTER: "And that one too― 'In Wisdom's firmament'. Perhaps it is too long. Do you
 think so? All right, sing it slowly."
 Narendra sang:
 In Wisdom's firmament the moon of Love is rising full,
 And Love's flood-tide, in surging waves, is flowing everywhere.
 O Lord, how full of bliss Thou art! Victory unto Thee! . . .
+
 MASTER: "And won't you sing that one― The Wine of Heavenly Bliss' ?"
+
 Narendra sang:
 Be drunk, O mind, be drunk with the Wine of Heavenly Bliss!
 Roll on the ground and weep, chanting Hari's sweet name!
@@ -356,30 +348,23 @@ day you met Shashadhar at his house. How did you come to know he was immoral?"
 MASTER (smiling): "Hazra knows of another instance. It happened at Sihore in Hriday's
 house."
 
-HAZRA: "The man was a Vaishnava. He came with me to see you [meaning Sri
-Ramakrishna]. As soon as he sat in front of you, you turned your back on him."
+HAZRA: "The man was a Vaishnava. He came with me to see you [meaning Sri Ramakrishna]. As soon as he sat in front of you, you turned your back on him."
 
 MASTER: "We learnt later that he led an immoral life. (To Narendra) You used to say, at
 first, that these were all hallucinations."
 
 NARENDRA: "How was I to know? Now I see that you are always right."
-Adhar had prepared a feast for the Master and the devotees, and now he invited them to
-the meal. The Master said to the Mukherji brothers: "What? Won't you eat?" They said
-humbly, "Please excuse us."
 
-MASTER: "But why? You are doing everything else. Why this hesitation only about
-eating the meal?"
+Adhar had prepared a feast for the Master and the devotees, and now he invited them to the meal. The Master said to the Mukherji brothers: "What? Won't you eat?" They said humbly, "Please excuse us."
 
-Adhar was a low-caste Hindu. Therefore some of the Master's brahmin devotees
-hesitated to eat at his house. They came to their senses at last when they saw Sri
+MASTER: "But why? You are doing everything else. Why this hesitation only about eating the meal?"
+
+Adhar was a low-caste Hindu. Therefore some of the Master's brahmin devotees hesitated to eat at his house. They came to their senses at last when they saw Sri
 Ramakrishna himself eating.
 
-It was about nine o'clock. The Master was resting in the drawing-room with the
-devotees. He would soon leave for Dakshineswar.
+It was about 9AM. The Master was resting in the drawing-room with the devotees. He would soon leave for Dakshineswar.
 
-The Mukherji brothers had arranged with a singer of Kirtan to entertain the Master the
-following day. Ram was taking singing lessons from this musician. Sri Ramakrishna
-asked Narendra to come to Dakshineswar to hear the Kirtan.
+The Mukherji brothers had arranged with a singer of Kirtan to entertain the Master the following day. Ram was taking singing lessons from this musician. Sri Ramakrishna asked Narendra to come to Dakshineswar to hear the Kirtan.
 
 MASTER (to Narendra): "Come tomorrow, won't you?"
 

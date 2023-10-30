@@ -2,7 +2,7 @@
 title: "IN THE COMPANY OF DEVOTEES AT SYAMPUKUR"
 image: "/covers/rama.jpg"
 heading: "Chapter 48"
-weight: 87
+weight: 190
 description: ""
 ---
 

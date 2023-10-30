@@ -2,7 +2,7 @@
 title: "THE MASTER ON HIMSELF AND HIS EXPERIENCES"
 image: "/covers/rama.jpg"
 heading: "Chapter 44"
-weight: 87
+weight: 174
 description: ""
 ---
 

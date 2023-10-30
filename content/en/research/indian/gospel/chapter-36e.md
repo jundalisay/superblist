@@ -1,18 +1,22 @@
-Parable of the homa bird
+---
+title: "Sannyāsi's discipline"
+image: "/covers/rama.jpg"
+heading: "Chapter 36"
+weight: 149
+description: ""
+---
+
+## Parable of the homa bird
 
 Pointing to Narendra, the Master said: "You all see this boy. He behaves that way here.
-A naughty boy seems very gentle when with his father. But he is quite another person
-when he plays in the chandni. Narendra and people of his type belong to the class of the
-ever-free. They are never entangled in the world. When they grow a little older they
-feel the awakening of inner consciousness and go directly toward God. They come to the
-world only to teach others. They never care for anything of the world. They are never
+
+A naughty boy seems very gentle when with his father. But he is quite another person when he plays in the chandni. Narendra and people of his type belong to the class of the ever-free. They are never entangled in the world. When they grow a little older they feel the awakening of inner consciousness and go directly toward God. They come to the world only to teach others. They never care for anything of the world. They are never
 attached to 'woman and gold'.
-"The Vedas speak of the homa bird. It lives high up in the sky and there it lays its egg.
-As soon as the egg is laid it begins to fall; but it is so high up that it continues to fall for
-many days. As it falls it hatches, and the chick falls. As the chick falls its eyes open; it
-grows wings. As soon as its eyes open, it realizes that it is falling and will be dashed to
-96pieces on touching the earth. Then it at once shoots up toward the mother bird high in
-the sky."
+
+The Vedas speak of the homa bird. It lives high up in the sky and there it lays its egg.
+
+As soon as the egg is laid it begins to fall; but it is so high up that it continues to fall for many days. As it falls it hatches, and the chick falls. As the chick falls its eyes open; it grows wings. As soon as its eyes open, it realizes that it is falling and will be dashed to pieces on touching the earth. Then it at once shoots up toward the mother bird high in the sky."
+
 At this point Narendra left the room.
 remained.
 Kedar, Prankrishna, M., and many others

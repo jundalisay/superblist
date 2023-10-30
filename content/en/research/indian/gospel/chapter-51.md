@@ -2,7 +2,7 @@
 title: "THE MASTER'S LOVE FOR HIS DEVOTEES"
 image: "/covers/rama.jpg"
 heading: "Chapter 51"
-weight: 87
+weight: 202
 description: ""
 ---
 

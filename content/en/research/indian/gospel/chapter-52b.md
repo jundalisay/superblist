@@ -2,7 +2,7 @@
 title: "AFTER THE PASSING AWAY"
 image: "/covers/rama.jpg"
 heading: "Chapter 52"
-weight: 87
+weight: 212
 description: ""
 ---
 

@@ -2,7 +2,7 @@
 title: "THE MASTER AND NARENDRA"
 image: "/covers/rama.jpg"
 heading: "Chapter 37"
-weight: 132
+weight: 151
 description: ""
 ---
 

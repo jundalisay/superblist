@@ -2,7 +2,7 @@
 title: "WITH VARIOUS DEVOTEES"
 image: "/covers/rama.jpg"
 heading: "Chapter 33"
-weight: 116
+weight: 134
 description: ""
 ---
 

@@ -2,16 +2,14 @@
 title: "AFTER THE PASSING AWAY"
 image: "/covers/rama.jpg"
 heading: "Chapter 52"
-weight: 87
+weight: 210
 description: ""
 ---
 
 
 
-SRI RAMAKRISHNA passed away on Sunday, August 15, 1886, plunging his devotees and disciples into a sea of grief. They were like men in a shipwreck. But a strong bond of
-love held them together, and they found assurance and courage in each other's
-company. They could not enjoy the friendship of worldly people and would talk only of
-their Master. 
+SRI RAMAKRISHNA passed away on Sunday, August 15, 1886, plunging his devotees and disciples into a sea of grief. They were like men in a shipwreck. But a strong bond of love held them together, and they found assurance and courage in each other's company. They could not enjoy the friendship of worldly people and would talk only of
+their Master.
 
 "Shall we not behold him again?" -this was the one theme of their thought and the one dream of their sleep. Alone, they wept for him; walking in the streets of
 Calcutta, they were engrossed in the thought of him. 

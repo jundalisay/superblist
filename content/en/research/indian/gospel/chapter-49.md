@@ -2,7 +2,7 @@
 title: "THE MASTER AT COSSIPORE"
 image: "/covers/rama.jpg"
 heading: "Chapter 49"
-weight: 87
+weight: 194
 description: ""
 ---
 

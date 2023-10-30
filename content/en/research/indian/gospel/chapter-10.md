@@ -1,12 +1,10 @@
 ---
-title: "THE MASTER WITH THE BRAHMO DEVOTEES (II)"
+title: "The Master With The Brahmo Devotees (ii)"
 image: "/covers/rama.jpg"
 heading: "Chapter 10"
 weight: 42
 description: ""
 ---
-
-
 
 
 April 22, 1883

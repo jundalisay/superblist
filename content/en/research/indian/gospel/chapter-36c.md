@@ -2,7 +2,7 @@
 title: "Sannyāsi's discipline"
 image: "/covers/rama.jpg"
 heading: "Chapter 36"
-weight: 128
+weight: 147
 description: ""
 ---
 

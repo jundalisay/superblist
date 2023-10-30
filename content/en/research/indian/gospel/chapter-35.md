@@ -2,7 +2,7 @@
 title: "AT THE STAR THEATRE (II)"
 image: "/covers/rama.jpg"
 heading: "Chapter 35"
-weight: 124
+weight: 142
 description: ""
 ---
 
