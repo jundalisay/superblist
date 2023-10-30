@@ -75,17 +75,11 @@ pressed towards , not indifferently by all the matter surrounding it but
 only by an amount of the matter exactly equal to the size of that part and
 which, being underneath the part, can take its place if that part moves
 
-The Treatise on Light
-
-
+
 79 The image of the balance here is a revealing indication of the source of Descartes’ thinking about
 these mechanical issues: statics.
 down. T -->
 
-
-<!-- It might seem that  -->
-
-<!-- The matter of the heaven  -->
 
 
 ## Why Don't We Spin Off the Earth?

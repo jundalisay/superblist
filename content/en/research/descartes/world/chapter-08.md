@@ -12,53 +12,68 @@ icon: "/icons/descartes.png"
 <!-- # title= "The Formation of the Sun and the Stars of the New World" -->
 
 
-God put inequality and confusion among the parts of the aether at the beginning. 
+God put inequality and confusion among the particles of the aether at the beginning. 
 <!-- parts of matter -->
 
-The parts were then <!-- must, according to the laws He imposed on nature, thereafter almost all have been --> reduced to:
+Gradually, those particles became the air-aether when they were reduced to:
 - one size, and
 - one middling motion. 
 
-It thus took the form of the aethereal air. 
 
-Before it was moved by God, the hardest and most solid body in the world*. 
+## The Expansion of the Universe
+
+Before God divided it, the pure aether was singular. When it began to be divided, its division began in one part and spread out to all its parts as equally as it could. 
+
+However, this equality of division could not be perfect because the division could not spread in a straight line since there was no void
+
+Instead, each division happened as circular motions with different centers. This is because God gave each particle a different motion. 
+
+
+<!-- Before it was moved by God, the hardest and most solid body in the world*.  -->
 <!-- For to consider this matter in the state in which it could have been before God began to move it, one should imagine it as -->  
 
-> *Superphysics Note: As a triangle 
-
-
+<!-- > *Superphysics Note: As a triangle  -->
 <!-- And, since one could not push any part of such a body without pushing or pulling all the other parts by the same means, so one must imagine that the action or  -->
 
-The force of moving or dividing, which had first been placed in some of the parts of the aether, spread out in an instant, as equally as it could.
+<!-- The force of moving or dividing, which had first been placed in some of the parts of the aether, spread out in an instant, as equally as it could. -->
+
 <!-- and distributed itself in all the others in the same instant,  -->
 
-This equality could not be totally perfect because:
+<!-- This equality could not be totally perfect because:
 
 1. There is no void at all in the aethereal world. 
 
 This makes it impossible for all of the aether to move in a straight line.
-<!-- parts of matter  -->
 Instead, they all went into some circular motions since all of them were just about equal and as easily divertible.
 
-2. God first moved them diversely. This made them turn in many different centers instead of a single one. 
+2. God first moved them diversely. This made them turn in many different centers instead of a single one.  -->
 
 <!-- , we should not imagine that they all came together to turn about a single center, but about many different ones, which we may imagine to be diversely situated with respect to one another. -->
 
-Consequently, they were naturally less agitated or smaller, or both, toward the centers than toward those farthest away. 
+Nearer the centers, the particles were naturally:
+- less agitated
+- smaller, or both
 
-All of them tended to continue their motion in a straight line. 
+Farther from the centers, the particles were:
+- more agitated
+- larger, or both
 
-The strongest of them were:
-- the largest among those equally agitated and 
-- the most agitated among those equally large. 
+Each of them tended to move in a straight line. 
 
-These had to describe the greatest circles, i.e. the circles most approaching a straight line. 
+The strongest particles were:
+- the largest ones among those of the same agitation
+- the most agitated ones of those of the same size
+
+These created the largest circles. 
+- Their orbits most closely resembled straight lines.
+
+
+<!-- These had to describe the greatest circles, i.e. the circles most approaching a straight line.  -->
 
 The aether contained in between three or more of these circles were at first much less divided and less agitated than all the other. 
 
-At the beginning, God placed every sort of inequality among the parts of this matter. 
-
-This led to all sorts of sizes, shapes, and dispositions to move or not to move, in all ways and in all directions.
+At the beginning, God placed every sort of inequality among these particles. 
+- They had all sorts of sizes, shapes, and dispositions to move or not to move, in all ways and in all directions.
 
 But that does not prevent them afterwards from having been rendered almost all fairly equal, especially those that remained an equal distance from the centers around which they were turning.
 
@@ -73,26 +88,30 @@ Each became more or less distant from the center around which it had taken its c
 **Size always resists the speed of motion.** 
 
 <!-- parts -->
-The aether more distant from each center were the ones more agitated because they were smaller than the ones near the center.[41]
+The particles farther from each center were smaller than the ones closer to the center. 
+- Consequently, they were much more agitated.
 
-Exactly the same holds for their shapes. 
+<!-- more agitated because they were smaller than the ones near the center.[41] -->
 
-In the beginning, they had all sorts of shapes. They had many angles and sides, like the pieces that fly off from a stone when it is broken. 
+Exactly the same is true for their shapes. 
+- In the beginning, they had all sorts of shapes, with many angles and sides.
+- Afterwards, collisions cause them to break the small points of their angles and dull the square edges of their sides until they had almost all been made round
 
-Afterwards, in moving and hurtling themselves against one another, they gradually had to break the small points of their angles and dull the square edges of their sides. 
+Thus, the particles close the center become similar to each other, just as those that are distant become similar. [These became the air-aether].
 
-This continued until they had almost all been rendered round, just as grains of sand and pebbles do when they roll with the water of a river.
+But this does not apply to the particles that were much larger. 
+- These could not be so easily divided.
+- Instead these became larger with every collision.
 
-Thus, there is no more difference among those parts that are close and those that are far, except:
+
+<!-- there is no more difference among those particles that are close and those that are far, except:
 - that they can move a bit more quickly one than another 
 - that they are a bit larger or a bit smaller, and
-- that they do not prevent one's attributing the same form to all of them.
+- that they do not prevent one's attributing the same form to all of them. -->
 
 <!-- Only one must except some which, having been  -->
 
-Some from the beginning were much larger than the others. These could not be so easily divided.
+These became the earth-aether which make up the planets and the comets.
 
-Some had very irregular and impeding shapes. These joined together severally rather than breaking up and rounding off.
-
-Thus, they have retained the form of the aethereal earth which composed the planets and the comets.
+<!-- Thus, they have retained the form of the aethereal earth which composed . -->
 

@@ -32,5 +32,5 @@ body {
   font-style: bold;
   font-weight: 800;
   src: url("/fonts/Nunito-ExtraBold.ttf") format("truetype");
-  src: local(""), url("/fonts/Nunito-Bold.ttf") format("truetype")
+  src: local(""), url("/fonts/Nunito-ExtraBold.ttf") format("truetype")
 }

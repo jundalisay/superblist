@@ -128,115 +128,25 @@ It teaches us that the motion of `Body A` is not retarded by a collision with `B
 
 <!-- Now, even though in most of the motions we see in the true world we cannot perceive that the bodies that begin or cease to move are pushed or stopped by some others, we do not thereby have reason to judge that these two rules are not being observed exactly.  -->
 
-Even if <!-- in most of the motions that we see in the true world, --> we cannot perceive that the bodies in the aethereal world that begin or cease to move are pushed or stopped by some others, it does not mean that these two rules are not being observed exactly. 
+Sometimes, we are unable to see that the motion of a physical body was caused by another body. But it does not mean that Rule 1 and 2 were absent. 
+
+It is possible that physical objects are moved by the fire-aether [as electromagnetism] or by the air-aether [as telekenisis?] since these two are always in physical objects. These 2 Elements can even transfer their agitation to the physical air or to the Earth itself without being perceived. 
+
+<!-- Even if we cannot perceive that the bodies in the aethereal world that begin or cease to move are pushed or stopped by some others, it does not mean that these two rules are not being observed exactly. 
 
 Those bodies can often receive their agitation from the aethereal air and fire which are always among them without being perceptible, or even from the grosser air, which also cannot be perceived. 
 
-We also cannot perceive the agitation that is transferred, sometimes to that grosser air, and sometimes to the Earth dispersed therein.
+We also cannot perceive the agitation that is transferred, sometimes to that grosser air, and sometimes to the Earth dispersed therein. -->
 <!-- They can transfer the agitation, sometimes to that grosser air and sometimes to the whole mass of the earth; dispersed therein, it also cannot be perceived. -->
-
-But, even if all that our senses have ever experienced in the true world seemed manifestly contrary to what is contained in these two rules, the reasoning that has taught them to me seems to me so strong that I would not cease to believe myself obliged to suppose them in the aethereal world. 
 
 <!-- But, even if all that our senses have ever experienced in the true world seemed manifestly contrary to what is contained in these two rules, the reasoning that has taught them to me seems to me so strong that I would not cease to believe myself obliged to suppose them in the aethereal world.  -->
 
-Those two rules follow from this alone= God is immutable, acting always in the same way, always producing the same effect. 
+<!-- But, even if all that our senses have ever experienced in the true world seemed manifestly contrary to what is contained in these two rules, the reasoning that has taught them to me seems to me so strong that I would not cease to believe myself obliged to suppose them in the aethereal world.  -->
 
-He placed a certain quantity of motions in all matter in general when He first created it. One must either avow that He always conserves as many of them there or not believe that He always acts in the same way. 
+Rules 1 and 2 arise alone from the fact that **God is immutable, acting always in the same way, always producing the same effect.** 
+- The immutability and consistency of God is the reason why Rules 1 and 2 hold.
 
-From that first instant, the parts of matter, in which these motions are found unequally dispersed began to retain them or to transfer them from one to another according as they had the force to do, one must of necessity think that He causes them always to continue the same thing. And that is what those two rules contain.
+<!-- He placed a certain quantity of motions in all matter in general when He first created it. One must either avow that He always conserves as many of them there or not believe that He always acts in the same way. 
 
+From that first instant, the parts of matter, in which these motions are found unequally dispersed began to retain them or to transfer them from one to another according as they had the force to do, one must of necessity think that He causes them always to continue the same thing. And that is what those two rules contain. -->
 
-## Rule 3: Angular Momentum -- Curved or Rotating Contraint, Straight Freedom
-
-![Rule 3](/covers/rule3.jpg)
-
-A moving body always travels along a curved line in totality, even if its individual parts seem to travel in a straight line. Thus, a body's total or long-term motion is different from its individual or short-term motion.
-
-For example, the parts of a wheel revolve around their axle. If you set those parts free from the axle, then they will break loose and travel in a straight line. Thus, the individual motion of the parts of the wheel is different from the motion of the wheel. 
-
-<!-- For example, if a wheel is turned on its axle, its parts go around because they are linked to one another. Nevertheless, their inclination is to go straight. As soon as it is free, its motion ceases to be circular and continues in a straight line. -->
-
-<!--  ahead, as appears clearly if perchance one of them is detached from the others. For, --> 
-
-In the same way, when one whirls a stone in a sling, it:
-- it presses against the middle of the sling and causes the cord to stretch while it is in the sling, 
-- goes straight out as soon as it leaves the sling
-
-It always goes in a straight line. It goes around only under constraint.
-
-This rule, like Rule 1 and 2, is based on God conserving everything by His continuous influence. <!-- action and, c --> Consequently, this means that He is conserving it anew at every instant and not as a mere continuation of the past conservation.   <!-- not as it may have been some time earlier, but precisely as it is at the same instant that He conserves it. --> 
-
-### Straight-Line "Free" Motion
-
-Of all motions, only the straight motion is entirely simple. Its whole nature is understood in an instant. We only need to think:
-- that a body is moving in a certain direction and
-- that that direction happens* <!-- is the case --> in each instant while it is moving<!--  during its the time that it is moving.  -->
-
-> *Superphysics Note: Like Einstein, Descartes splits movements into small observable instants (moments of time). Like Einstein, he unifies the conservation of energy and mass as a single idea. But unlike Einstein who sources this conservation on a spacetime fabric, Descartes asribes it to God through His aether. This aether is the material of the mind which is inherent in all objects, though it is most evident in living things. Therefore, the cause of movement is the differences in the inherent nature of each mind. The 'mind' of an ice block moves as water when influenced by heat. An object that has no mind will not react to anything and will never move. Such an object does not exist. 
-
-
-
-### Curved "Constrained" Motion= Cartesian Relativity 
-
-By contrast, a circular motion or any other motion requires us to at least think of:
-<!-- two of its instants or  --> 
-- two of its [past] parts, and
-- the relation between them.
-<!-- [37] -->
-
-The sophists might say here that <!-- the linear motion occurs instantly --> those parts are linear and not curved. [Thus, curves are still made up of straight lines and therefore every motion is a straight line.]
-<!-- But, so that the philosophers (or rather the sophists) do not find occasion here to exercise their superfluous subtleties, note that I do not thereby say that  rectilinear motion can take place in an instant.-->
-
-But this is not totally correct. 
-
-A correct interpretation is that the cause of all motion is to be found in the bodies in each instant. This cause is revealed <!-- I only say that all that is required to produce it is found in bodies in each instant that might be determined --> while they are moving. Not all causes <!-- , and not all that is required to --> produce circular motion.
-
-
-For example, suppose a stone is moving in a sling along the circle marked AB.
-
-![AB curve](/graphics/physics/abc.png)
-
-- You perceive its movement at the instant when it arrives at point A
-- It is in the act of moving towards C. Its action is directed in that direction in that instant. The difference is that the movement towards C is in a straight line<!--  show linear even if you can find nothing there that makes its motion circular -->. 
-<!-- [38] -->
-
-
-
-Thus, if the stone begins to leave the sling, **God will continue to preserve it as it is at that moment** [when it <!-- decided to leave --> left the sling]. He will not preserve it with the old inclination to go along the curve AB. Instead, He will preserve its inclination to go straight ahead toward point C.
-
-According to this rule:
-- God alone is the author of all the motions in the world <!-- , insofar as they exist and insofar as they are straight, --> 
-- But it is the diverse dispositions of matter that render the motions irregular and curved 
-
-This is why the theologians teach that:
-- God is also the author of all our actions<!-- , insofar as they exist and insofar as they have some goodness, --> 
-- But the diverse dispositions of our wills render those actions evil
-
-I could go on and add more rules for all the motions of Nature. <!-- set out here many additional rules for determining in detail when and how and by how much the motion of each body can be diverted and increased or decreased by colliding with others, something that comprises summarily all the effects of nature.[39] --> 
-
-But these are the three that will be supported by the mathematicians and evidence. 
-
-<!-- I shall be content with showing you that, besides the three laws that I have explained, I wish to suppose no others but those that most certainly follow from the eternal truths on which the mathematicians are wont to support their most certain and most evident demonstrations;  -->
-<!-- the truths, I say, according to which God Himself has taught us  -->
-
-God disposed all things in number, weight, and measure*.
-
-> *Translator's note: Sapientia, 8, 21. The statement was a commonplace of medieval thought and was encountered by every schoolboy in the opening line of Johannes de Sacrobosco's Algorismus vulgaris, the standard arithmetic textbook from the mid-13th-mid-16th century.
-
-
-
-The knowledge of those laws is so natural to our souls that we take them for granted and we even assume that those laws would apply in all the universes that He created. <!--   cannot but judge them infallible when we conceive them distinctly, nor doubt that, if --> <!-- God had created many worlds, the laws would be as true in all of them as in this one.  -->
-
-Thus, those who can examine <!-- sufficiently --> the consequences of these truths and of our rules will be able to know their effects. <!--  by their causes and (to explain myself in the language of the School) --> They will be able to demonstrate *a priori* everything that can be produced in that <!-- new world --> aethereal world.
-
-<!-- And so there will be no exception that impedes this, we will add, if you wish, to our suppositions that God will never mark any  the new world and that  -->
-
-This means that if God did a miracle in that aethereal world, then the laws of nature in this world would change as well.
-
-<!-- the intelligences, or the rational souls, which we might hereafter suppose to be there, will in no way disturb the ordinary course of nature. -->
-
-I cannot give evidence of all these assertions. But these open a path for you to find them yourselves. 
-
-<!-- Nonetheless, in consequence of this, I do not promise you to set out here exact demonstrations of all the things I will say. It will be enough for me to open to you the path by which you will be able to find them yourselves, whenever you take the trouble to look for them.  -->
-
-Most minds lose interest when one makes things too easy for them. This is why I must employ both shadow and bright colors. 

@@ -87,7 +87,7 @@ The system therefore satisfies certain differential equations. On the other hand
 
 Still, this would only compel us to fill the interplanetary space with ether, but not to make it penetrate into the midst of the material media. 
 
-Fizeau’s experiment goes further. By the interference of rays which have passed through the air or water in motion, it seems to show us two different media penetrating each other, and yet being displaced with respect to each other. 
+Fizeau’s experiment goes further. By the interference of rays which have passed through the air or water in/ motion, it seems to show us two different media penetrating each other, and yet being displaced with respect to each other. 
 
 The ether is all but in our grasp. Experiments can be conceived in which we come closer still to it. Assume that Newton’s principle of the equality of action and reaction is not true if applied to matter alone, and that this can be proved. The geometrical sum of all the forces applied to all the molecules would no longer be zero. 
 

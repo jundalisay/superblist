@@ -11,15 +11,17 @@ icon: "/icons/descartes.png"
 
 ## Spacetime Becomes Electromagnetism
 
-The matter that came out from around the parts of the aethereal air were broken and had the small points of their angles dulled from rounding off. These necessarily had to go faster than the aethereal air. 
+The aether particles that broke off from air-aether during collisions gained:
+- more speed than the air-aether because they had to travel farther at the same amount of time. 
+- the ability to change shape so that it could fit anywhere
 
-Along with it came a facility for dividing and changing shape at every moment in order to accommodate itself to the shape of the places where it is. 
+**They became the fire-aether.**
 
-**Thus, it took the form of the aethereal fire.**
+<!-- the aethereal air were broken and had the small points of their angles dulled from rounding off. These necessarily had to go faster than the aethereal air.  -->
 
-It went faster because it had to go off to the side through very narrow passages and out of the small spaces left between the parts of the air-aether as they collided head-on. It had much more of a path than the air-aether to traverse in the same time.
+<!-- It went faster because it had to go off to the side through very narrow passages and out of the small spaces left between the parts of the air-aether as they collided head-on. It had much more of a path than the air-aether to traverse in the same time. -->
 
-The excess fire-aether needed to fill the small gaps in the round air-aether. These necessarily go around them and must draw back toward the centers around the air-aether. 
+The excess fire-aether needed to fill the small gaps in the round air-aether necessarily go around them and must draw back toward the centers around the air-aether. 
 <!-- which those parts turn, -->
 
 This is because the air-aether occupies all the other, more distant places. 
@@ -41,59 +43,66 @@ This action we perceive as light.
 <!-- We shall take one of those round bodies composed purely of the  -->
 <!-- matter of the first element  -->
 
-Assume a round body of pure fire aether to be the sun, and the others to be the fixed stars. 
+Let us assume that round bodies of pure fire-aether are the stars. 
+
 <!-- , of the new world I am describing to you.  -->
 
-The air-aether turns around them as heliospheres ['the heavens'].
- <!--  [spacetime]. -->
-<!-- We shall take the matter of the -->
-<!-- second element --> 
-
-{{< img src="/graphics/physics/aetherspace.jpg" alt="Heliospheres" >}}
+The air-aether turns around those stars as stellar gravitational territories ['the heavens'].
 
 Imagine, that:
 - the points `sun`, `barnard`, `sirius`, and `alphacentauri` are the centers
-- all the air-aether of the space `FGGF` is a heliosphere turning around the `sun`
-- all the air-aether of the space `HGGH` is another heliosphere turning around the star `alphacentauri`, and so on for the others. 
+- all the air-aether of the gravitational territory `FFFFGG` turns around the `sun`
+- all the air-aether of the gravitational territory `HGGH` turns around the star `alphacentauri`, and so on for the others. 
 
-**Thus, there are as many aethereal heliospheres as there are stars.** 
-- Since the number of stars is indefinite, so too is the number of heliospheres. 
+{{< img src="/graphics/physics/helio.jpg" alt="Gravitational Territories" >}}
 
-**The firmament is the breadthless surface separating all the heliospheres from one another.**
+Thus, each star has a stellar gravitational territory.
+- Since the number of stars is indefinite, so too is the number of stellar gravitational territories. 
 
-The parts of the air-aether towards `F` or `G` are more agitated than those toward `K` or `L`.
+**The firmament is the breadthless surface separating all the gravitational territories from one another.**
 
-In this way, the speed of the air-aether decreases little by little from the outside edges of each heliosphere towards their center area such as:
+
+The particles of the air-aether towards `F` or `G` are more agitated than those toward `K` or `L`.
+
+In this way, the speed of the air-aether decreases little by little from the outside edges of each gravitational territory towards their center area such as:
 - the sphere `KK` around the `sun`
 - the sphere `LL` around `alphacentauri`. 
 
-It then increases little by little from there to the centers of the heliospheres because of the agitation of the stars at the center. 
+It then increases little by little from there to the centers of the gravitational territory because of the agitation of the stars at the center. 
 
 Thus, the air-aether towards `K` draws there a complete circle around the `sun`.
 
-Those towards `earth`, which is 10 times closer to the sun, have not only the chance to describe 10 circles (as they would do if they moved only equally fast), but perhaps more than 30.[42]
+Those towards `earth`, which is 10 times closer to the sun, can draw 10 circles (as they would do if they moved only equally fast), but perhaps more than 30.[42]
 
-Again, the air-aether towards `F` or towards `G`, which is 2,000-3,000 times more distant, can perhaps draw more than 60 circles. 
+Again, the air-aether towards `F` or towards `G`, which is 2,000-3,000 times more distant. They can perhaps draw more than 60 circles. 
 
 This is why:
 - the farthest planets move more slowly than those nearest to the sun
 - all the planets together move more slowly than the comets, which are more distant.
 
-The size of each of the parts of the aethereal air is equal among all those between the outside circumference `FGGF` of the heliosphere and the circle `KK`.
 
-The farthest among them are a bit smaller than the nearest (provided that one does not suppose the difference of their sizes to be proportionately greater than that of their speeds). 
+## The Sizes of the Air-Aether Particles Depend on their Location
 
-By contrast, from circle `K` to the `sun`, the nearest air-aether are the smallest, and also the strongest due to their agitation.
+- Between the edges of `FFFFGG` and edges of the circle `KK`, the air-aether has similar sizes, with those at the edges of `FFFFGG` being slightly smaller than those at the edges of circle `KK` <!-- (provided that the difference of their sizes are not proportionately greater than that of their speeds) -->.
+- By contrast, from circle `K` to the `sun`, the air-aether nearest to the sun are the smallest and strongest due to their agitation.
+ 
+The smaller their size, the faster their speed.
+- Otherwise, if were large and fast, then they would be flung out to the edges of circle `KK` 
 
-The difference of their sizes is proportional to their speeds. If they were inversely proportional, then they would go out to occupy the place of the farthest.
+<!-- they were inversely proportional, then they would go out to occupy the place of the farthest. -->
+
+{{< img src="/graphics/physics/orbitalspeed.jpg" alt="Orbital Speeds" >}}
+
+<!-- The difference of their sizes is proportional to their speeds.  -->
 <!-- tely greater than (or at least proportionately as great as) that of their speeds.  -->
 
 <!-- Note finally that, given the manner in which I have said the sun and the other fixed stars were formed,  -->
 
-The sizes of the stars can be so small with respect to the heliospheres containing them. 
+The sizes of the stars can be so small with respect to their stellar gravitational territories. This makes the circles `KK`, `LL`, etc mark the edges of the agitated area of these stars which facilitates the smaller particles of the air-aether. 
+- These circles can be considered as the center of those stellar gravitational territories.
 
-The circles `KK`, `LL`, etc. mark the point where the agitation of their stars  speeds up the path of the air-aether.
-- Even these circles are merely points that mark the heliospheres' center.
+<!-- point where the agitation of their stars  speeds up the path of the air-aether.
+- Even these circles are merely points that mark the heliospheres' center. -->
 
  <!-- second element,-->
 

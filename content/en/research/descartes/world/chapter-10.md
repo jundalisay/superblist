@@ -12,10 +12,9 @@ icon: "/icons/descartes.png"
 
 There are several things to note concerning the planets. 
 
-1. They all tend toward the center of the heliosphere that contains them. 
+1. They all tend toward the center of the stellar gravitational territory that contains them. 
 
-They can never arrive at those centers since the sun and fixed stars already occupy the center. 
-
+They can never arrive at those centers since the sun and stars already occupy the center. 
 
 
 Let:
