@@ -11,17 +11,15 @@ icon: /avatars/kepler.png
 
 
 {{< s v="56" >}} I should write about the summer and also whether the year itself or the Earth will be in good condition this year.
-But as the universal cause of energetic disposition of years is not known, and also astrological estimations for
-certain year are not exact due to such a great lack of knowledge of causes, I think that my forecast deserves someforbearance. These astrological estimations are not useless, because they deal with the subject which is undoubtedly very important, and we hope that those hitherto unknown causes will be gradually clarified in time.
+
+But as the universal cause of energetic disposition of years is not known, and also astrological estimations for certain year are not exact due to such a great lack of knowledge of causes, I think that my forecast deserves someforbearance. These astrological estimations are not useless, because they deal with the subject which is undoubtedly very important, and we hope that those hitherto unknown causes will be gradually clarified in time.
 
 I think that the beginning of June will be warm and clear, without clouds. After Full Moon, dangerous disturbances, floods and frequent lightning will occur. Should the overall disposition of Earth incline to dryness, then there will be no danger. On the contrary, should it incline to humidity, then there will be continuous cold
 rains.
 
-Towards the end of the month, stable period continues regarding the aspects. Thunderstorms will occur. I guess
-that June will be slightly colder due to bigger humidity, unless the whole year 1602 would be like this. Should
-the whole year incline to dryness, it will be much more evident during this month.
+Towards the end of the month, stable period continues regarding the aspects. Thunderstorms will occur. I guess that June will be slightly colder due to bigger humidity, unless the whole year 1602 would be like this. Should the whole year incline to dryness, it will be much more evident during this month.
 
-date
+<!-- date
 06/01/1602
 06/02/1602
 06/03/1602
@@ -226,19 +224,18 @@ sign
 37
 54
 05
-
+ -->
 
 {{< s v="57" >}} For July, as this month has 18 aspects, the forecast is similar and equally uncertain. 
 
 Each year has approximately 150 aspects and this year most of it culminates in summer half of the year. On July 1, 2, 5 and 6, the weather will
 be of average character, windy with precipitations. 
 
-July 8 will be rainy and cold, July 9-11 windy. Days of July 12, 13 and 14 will be adversely afflicted by the conjunction Venus/Mercury, which occurs repeatedly four times
-this year, and it can cause severe storms. 
+July 8 will be rainy and cold, July 9-11 windy. Days of July 12, 13 and 14 will be adversely afflicted by the conjunction Venus/Mercury, which occurs repeatedly four times this year, and it can cause severe storms. 
 
 Heavy rains and thunderbolt will alternate on July 18, 19 and 21. Then, clear sky and very hot weather will follow, because on the beginning of August Jupiter conjuncts Mars.
 
-date
+<!-- date
 07/01/1602
 07/02/1602
 07/03/1602
@@ -431,12 +428,14 @@ sign
 03
 11
 37
-04
+04 -->
 
 
-{{< s v="58" >}}  In August, there will be finally warm and calm. On August 5 and also 9, it will rain, and on August 15 there will be storms with cold rain. There will be extreme hot then after, and on August 19, big storms.
+{{< s v="58" >}}  In August, there will be finally warm and calm. On August 5 and also 9, it will rain. 
 
-date
+On August 15 there will be storms with cold rain. There will be extreme hot then after, and on August 19, big storms.
+
+<!-- date
 08/02/1602
 08/04/1602
 08/08/1602
@@ -561,14 +560,14 @@ SCO
 23
 39
 36
-02
+02 -->
 
 
 {{< s v="59" >}}  The beginning of September will be regular. Rain and fog on September 11, sultry on September 15 and 17. 
 
 September 20 will be very adversely afflicted by the conjunction of Mars and Saturn. If there had been hot weather before, tremendous storms will occur. If the year had been overall wet, there will be hard cold rains and fogs in these days. Fog will occur also on September 27. Other days will be regular.
 
-date
+<!-- date
 09/03/1602
 09/06/1602
 09/10/1602
@@ -662,7 +661,7 @@ sign
 34
 24
 57
-47
+47 -->
 
 
 {{< s v="60" >}}  Cold rains will occur on October 5, otherwise the weather will be influenced by preceeding month of September.
@@ -672,7 +671,7 @@ As I have often stated, the kind of basic disposition of Earth in any month is v
 October 3, 9 and 27 will be rainy and stormy, on 28 and 29 there will be gusty winds and rains, but I think the
 warmth will prevail, although the nature of certain winds can be very cold with regard to the region.
 
-date
+<!-- date
 10/02/1602
 10/06/1602
 10/18/1602
@@ -744,7 +743,7 @@ sign
 50
 38
 38
-32
+32 -->
 
 {{< s v="61" >}}  In November, there will be usual number of rainy days, on November 5, strong and sharp wind. 
 
@@ -752,7 +751,7 @@ On November 15, the weather will be changeable and warm for this time, caused by
 
 It will rain on November 18, but if the sky will be clear, first frosts will occur, although it seems to me that due to the position of Jupiter, Mars and Venus probably there will not be cold yet, but several warm, rainy and windy days at the end of the month. Occasionally, those aspects will bring about cold weather to some regions.
 
-date
+<!-- date
 11/05/1602
 11/15/1602
 11/17/1602
@@ -813,7 +812,7 @@ sign
 15
 32
 44
-29
+29 -->
 
 {{< s v="62" >}} The winter will start on December 3, with snow and fog, although not very cold. 
 
@@ -821,7 +820,7 @@ Then, the aspects will be calm, which will bring about clear and slightly cold w
 
 It will snow on December 15. The cold will not persist, but on December 19 there will be strong wind and heavy rain. On Christmas, Saturn and Mars will be in sextile, therefore it will get colder, and then the sextile between Venus and Mercury will bring about a lot of snow.
 
-date
+<!-- date
 12/02/1602
 12/14/1602
 12/18/1602
@@ -904,7 +903,7 @@ sign
 00
 09
 27
-54
+54 -->
 
 {{< s v="63" >}} I left out configurations between Moon and other planets for reason I stated above. 
 
@@ -933,13 +932,9 @@ I do not know if and how the effect would show up in forthcoming year.
 According to the rules of Ptolemy, the effects are uncertain and not quite corresponding with nature. In 1598, there was total
 eclipse in Pisces. As the Sun was in September in opposite sign Virgo, there were abundant rains. 
 
-In 1600, there was an eclipse in Cancer. When the Sun enters the signs of Gemini and Cancer during eclipse, the weather will
-be wet not only at that time, but during the whole summer. Experts in those occurences can validate whether the
-considerations go ahead in correct direction, if I reject the forecast from this eclipse for December 1602 and the
-whole winter, and deduce from signs very cold weather. 
+In 1600, there was an eclipse in Cancer. When the Sun enters the signs of Gemini and Cancer during eclipse, the weather will be wet not only at that time, but during the whole summer. Experts in those occurences can validate whether the considerations go ahead in correct direction, if I reject the forecast from this eclipse for December 1602 and the whole winter, and deduce from signs very cold weather. 
 
-Because if the eclipses gain their power from celestial sign, and all three eclipses will occur in aspects to Jupiter and Mars, therefore there are imminent adverse effects
-on Jupiter´s nature, thus, the following warmth and adverse strong humidity will cause bad harvest.
+Because if the eclipses gain their power from celestial sign, and all three eclipses will occur in aspects to Jupiter and Mars, therefore there are imminent adverse effects on Jupiter´s nature, thus, the following warmth and adverse strong humidity will cause bad harvest.
 
 
 {{< s v="64" >}} On November 28, another eclipse of the Moon will be noticeable in West, and it will start, according also to Tycho´s calculations, here in Prague almost in the same moment when Sun rises and Moon sets. 
@@ -955,21 +950,17 @@ interesting explanation could be the calendar.
 > *Translator's Note: In Kepler´s time, days were counted starting from noon. Then, the November 28th, as the A.M. hour of the following day, would be correct. Which explanation is the right one, we leave to our inquiring reader to work out
 
 
-Regarding the eclipse, which will be observable on the West on June 19, I wonder if it will cause tragic
-commotion?
+Regarding the eclipse, which will be observable on the West on June 19, I wonder if it will cause tragic commotion?
 
 Partial eclipse of the Sun at New Moon 06/19/1602 21:18:09 at 28°GEM 02´36´´
 
-It is ridiculous when people think that the eclipse is ominous, regarding the fact how many of them occur each
-year.
+It is ridiculous when people think that the eclipse is ominous, regarding the fact how many of them occur each year.
 
-As if there were not four or five eclipses every year, considering the whole circumference of Earth. Those
-people deceive themselves. Origanus, in his recently published Ephemeris, calculated many eclipses occuring all
-over the orb – such an information was not available before. As they did not know Origanus´computing method,
-those tragic loudmouths never felt eclipses which occured below our horizon. They pay attention to celestial
-occurences in vain, if they are surprised by the Origanus´method.
+As if there were not 4-5 eclipses every year, considering the whole circumference of Earth. 
 
-David Origanus (1558-1629) astronomer, professor of mathematics and Greek at the University of Frankfurt.
+Those people deceive themselves. Origanus, in his recently published Ephemeris, calculated many eclipses occuring all over the orb – such an information was not available before. As they did not know Origanus´computing method, those tragic loudmouths never felt eclipses which occured below our horizon. They pay attention to celestial occurences in vain, if they are surprised by the Origanus´method.
+
+<!-- David Origanus (1558-1629) astronomer, professor of mathematics and Greek at the University of Frankfurt.
 Peak phases - Sun eclipse
 Sun
 sign
@@ -1047,31 +1038,24 @@ partial total
 232
 104
 212
-94
+94 -->
 
 
-{{< s v="65" >}} Forecasts regarding harvest are naturally very uncertain; everyone knows about the divine providence. The
-harvest depends partly on occasional causes and partly on above mentioned natural dispositions of the year, the
-agents of which are impossible to foresee, because they are still being sought.
+{{< s v="65" >}} Forecasts regarding harvest are naturally very uncertain. Everyone knows about the divine providence. The harvest depends:
+- partly on occasional causes and
+- partly on above mentioned natural dispositions of the year, the agents of which are impossible to foresee, because they are still being sought.
 
-Even the astrological rules used by astrologers for corn, grapes, wine, olive oil, wheat etc. and also the
-characteristics of Jupiter in cardinal signs – all of it are but pointless dreams.
+Even the astrological rules used by astrologers for corn, grapes, wine, olive oil, wheat etc. and also the characteristics of Jupiter in cardinal signs – all of it are but pointless dreams.
 
-You ask why the grapevine didn´t grow well this year? It was so, because it has been a cold and wet year.
+You ask why the grapevine didn´t grow well this year? It was because it has been a cold and wet year.
 
 Anyone able to foresee this (the bad growth), could do so just and only on basis of this fact.
 
-You may also ask, why the harvest has been rich in one region, and poor in another?
+Why was the harvest rich in one region, and poor in another?
 
-It happened because some regions were wet due to some internal and still undisclosed dispositions of Earth, as
-we discussed earlier, and the summer was sufficiently clear, whereas there was dryness in other regions, which
-damaged the fruits of Earth, and subsequently an earthquake could occur.
+It happened because some regions were wet due to some internal and still undisclosed dispositions of Earth, as we discussed earlier, and the summer was sufficiently clear, whereas there was dryness in other regions, which damaged the fruits of Earth, and subsequently an earthquake could occur.
 
-Sometimes the year is fruitful indeed, but suddenly in just a day a loss may occur, caused by ground frosts in
-mountains and by flood in plains, spreading over the whole region depending on the course of the wind. The
-nature of winds is of great importance, because those are very changeable in our region.
+Sometimes the year is fruitful. But suddenly in just a day a loss may occur, caused by ground frosts in mountains and by flood in plains, spreading over the whole region depending on the course of the wind. The nature of winds is of great importance, because those are very changeable in our region.
 
-Thus, it is silly indeed to search for the causes of such an occurrencies in main points of equinox and solstice,
-when we have the obvious causes straight in front of sight. And lest I seem to be an upstart who ruins the art, I
-appeal to the authorities of Cardanus and Tycho.
+Thus, it is silly to search for the causes of such an occurrencies in main points of equinox and solstice, when we have the obvious causes straight in front of sight. And lest I seem to be an upstart who ruins the art, I appeal to the authorities of Cardanus and Tycho.
 

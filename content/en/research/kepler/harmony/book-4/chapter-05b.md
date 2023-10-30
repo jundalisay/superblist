@@ -9,35 +9,28 @@ icon: /avatars/kepler.png
 ---
 
 
-## Proposition I
+## Proposition 1
 
 The affinity between the rays and a circle and its arcs is greater than was that between the consonances.
 
-The bases of what was previously stated in Book HI were already justifiably taken over into Book IV as an axiom. However, it is proved as follows:
+The bases of what was previously stated in Book HI were already justifiably taken over into Book 4 as an axiom. However, it is proved as follows:
 
-1. Consonances are between sounds; sounds consist in motions;
-their heights or depths in pitch, by which the consonances are expressed, arise from the speed and
+1. Consonances are between sounds; sounds consist in motions; their heights or depths in pitch, by which the consonances are expressed, arise from the speed and
 slowness of the motions, by what has been demonstrated in Book 3. 
 
-But the quick and slow sounds are elicited from the striking of strings which are stretched, not
-only if the stretching is in a circle, but also, and much more, if it is
-in a straight line. 
+But the quick and slow sounds are elicited from the striking of strings which are stretched, not only if the stretching is in a circle, but also, and much more, if it is in a straight line. 
 
-Therefore, the consonances do not relate imme- iately to the circle and its arcs, on account of their circular shape,
-but on account of the length of Figure their parts, that is their mutual
-proportion; 
+Therefore, the consonances do not relate imme- iately to the circle and its arcs, on account of their circular shape, but on account of the length of Figure their parts, that is their mutual proportion.
 
-They have what they have from the circle even when the circle has been destroyed
-and stretched out into a straight line. 
+They have what they have from the circle even when the circle has been destroyed and stretched out into a straight line. 
 
 Aspects on the contrary are by Definition I angles, which the circle measures along with its arcs only if it remains what it is said to be, that is insofar as it both has its circular shape and retains it completely
 
-2. The consonances were not all propagated with an equnlly close relationship to the circle and its parts; for some of them related their origin to parts of the circle, insofar as they had some property not as parts of the circle but
-as straight lines, that is the same division as the whole circle, as was shown
-in Book III. It is the opposite in the case of the aspects; for the measure of what
-corresponds with the circle cannot in any way be related to straightness.^"^
+2. The consonances were not all propagated with an equnlly close relationship to the circle and its parts; for some of them related their origin to parts of the circle, insofar as they had some property not as parts of the circle but as straight lines, that is the same division as the whole circle, as was shown
+in Book III. It is the opposite in the case of the aspects; for the measure of what corresponds with the circle cannot in any way be related to straightness.
 
-IV.
+
+# IV.
 
 ## Proposition 2
 

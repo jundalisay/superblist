@@ -50,15 +50,29 @@ It has also been said that two facts should be regarded as simultaneous when the
 
 <!-- IX -->
 
-Let us then seek to give an account of what is understood by simultaneity or antecedence, and for this let us analyze some examples.
+What is simultaneity or antecedence? 
 
-I write a letter; it is afterward read by the friend to whom I have addressed it. There are two facts which have had for their theater two different consciousnesses. In writing this letter I have had the visual image of it, and my friend has had in his turn this same visual image in reading the letter. Though these two facts happen in impenetrable worlds, I do not hesitate to regard the first as anterior to the second, because I believe it is its cause.
+I write a letter to a friend. It is afterwards read by him. 
 
-I hear thunder, and I conclude there has been an electric discharge; I do not hesitate to consider the physical phenomenon as anterior to the auditory image perceived in my consciousness, because I believe it is its cause.
+<!-- There are two facts which have had for their theater two different consciousnesses.  -->
 
-Behold then the rule we follow, and the only one we can follow=  when a phenomenon appears to us as the cause of another, we regard it as anterior. It is therefore by cause that we define time; but most often, when two facts appear to us bound by a constant relation, how do we recognize which is the cause and which the effect? We assume that the anterior fact, the antecedent, is the cause of the other, of the consequent. It is then by time that we define cause. How save ourselves from this petitio principii?
+In writing this letter, I have had the visual image of it. My friend has had in his turn this same visual image after reading the letter. 
 
-We say now post hoc, ergo propter hoc; now propter hoc, ergo post hoc; shall we escape from this vicious circle?
+Though these 2 facts happen in impenetrable worlds. The first is anterior to the second because I believe it is its cause.
+
+I hear thunder. I conclude that there has been an electric discharge. I consider the physical phenomenon as anterior to the auditory image perceived in my consciousness, because I believe it is its cause.
+
+Our only rule is thus: when a phenomenon appears to us as the cause of another, we regard it as anterior. 
+
+**It is therefore by cause that we define time.** 
+
+But most often, when 2 facts appear to us bound by a constant relation, how do we know which is the cause and which the effect?
+
+We assume that the anterior fact, the antecedent, is the cause of the other, of the consequent.
+
+It is then by time that we define cause. How do we save ourselves from this petitio principii?
+
+We say now post hoc, ergo propter hoc; now propter hoc, ergo post hoc. Shall we escape from this vicious circle?
 
 
 <!-- X -->
@@ -67,13 +81,14 @@ We say now post hoc, ergo propter hoc; now propter hoc, ergo post hoc; shall we 
 
 I execute a voluntary act `A`. Afterwards, I feel a sensation `D`, which I regard as a consequence of act `A`.
 
-On the other hand, for whatever reason, I infer that this consequence is not immediate, but that outside my consciousness two facts `B` and `C`, which I have not witnessed, have happened, and in such a way that `B` is the effect of `A`, that `C` is the effect of `B`, and `D` of `C`.
+On the other hand, I infer that this consequence is not immediate, but that outside my consciousness two facts `B` and `C`, which I have not witnessed, have happened, and in such a way that `B` is the effect of `A`, that `C` is the effect of `B`, and `D` of `C`.
 
 But why? 
 
-If I think I have reason to regard the four facts `A`, `B`, `C`, `D`, as bound to one another by a causal connection, why range them in the causal order `A` `B` `C` `D` and at the same time in the chronologic order `A` `B` `C` `D`, rather than in any other order?
+If I regard `A`, `B`, `C`, `D`, as bound to one another by a causal connection, why range them in the causal order `A` `B` `C` `D` and in the chronologic order `A` `B` `C` `D`, rather than in any other order?
 
-I clearly see that in the act `A` I have the feeling of having been active, while in undergoing the sensation `D`  I have that of having been passive.
+- In act `A`, I have the feeling of having been active
+- In undergoing the sensation `D`, I have the feeling of having been passive.
 
 This is why I regard `A` as the initial cause and `D` as the ultimate effect. 
 
@@ -81,15 +96,19 @@ This is why I put `A` at the beginning of the chain and `D` at the end.
 
 But why put `B` before `C` rather than `C` before `B`?
 
-If this question is put, the reply ordinarily is: we know that it is `B` which is the cause of `C` because we always see `B` happen before `C`. 
+It is because we know that `B` is the cause of `C` because we always see `B` happen before `C`. 
 
-These 2 phenomena, when witnessed, happen in a certain order; when analogous phenomena happen without witness, there is no reason to invert this order.
+These 2 phenomena, when witnessed, happen in a certain order. When analogous phenomena happen without witness, there is no reason to invert this order.
 
-Doubtless, but take care; we never know directly the physical phenomena `B` and `C`. 
+But take care, we never know directly the physical phenomena `B` and `C`. 
 
 What we know are sensations `B'` `C'` produced respectively by `B` and `C`.
 
 Our consciousness tells us immediately that `B'` precedes `C'`. We suppose that `B` and `C` succeed one another in the same order.
 
-This rule appears in fact very natural, and yet we are often led to depart from it. We hear the sound of the thunder only some seconds after the electric discharge of the cloud. Of two flashes of lightning, the one distant, the other near, can not the first be anterior to the second, even though the sound of the second comes to us before that of the first?
+This rule appears in fact very natural. Yet we are often led to depart from it. 
+
+We hear the sound of the thunder only some seconds after the electric discharge of the cloud. 
+
+Of 2 flashes of lightning, the one distant, the other near, can not the first be anterior to the second, even though the sound of the second comes to us before that of the first?
 

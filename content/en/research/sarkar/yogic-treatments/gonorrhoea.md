@@ -12,7 +12,7 @@ icon: "/icons/sarkar.png"
 This disease has no name in ancient Sanskrit. Because of its many similarities with urethritis (meha), this disease has been called “prameha” in Bengali. 
 
 
-## Symptoms
+## Symptoms of Gonorrhoea
 
 - Burning sensation while urinating
 - The head of the penis swelling and becoming blood-red
@@ -21,7 +21,7 @@ This disease has no name in ancient Sanskrit. Because of its many similarities w
 - Sores around the head of the penis or inside the urinary passage; the penis swelling and becoming hard, etc
 
 
-## Causes
+## Causes Gonorrhoea
 
 According to medical practitioners, this disease is spread by a bacteria called “gonococcus.” It originates with people who are habitually unrestrained and unclean. Those who come in physical contact with such people also contract the disease.
 
@@ -32,16 +32,16 @@ Males get this disease from prostitutes. Innocent women may in turn be affected 
 Generally speaking, before this disease is clearly expressed, patients suffer from tickling or itching sensations inside the urinary tract or inside the vagina. And if the patient scratches or in some way manipulates or rubs the genitals, he or she will feel a hot sensation and at the same time some temporary relief.
 
 
-## Treatment
+## Treatment for Gonorrhoea
 
 The same as for syphilis.
-
-## Diet
+ 
+## Diet for Gonorrhoea
 
 All nutritious foods that do not cause constipation can be eaten. Drinking of water and lemon juice in sufficient quantity is recommended, and the fasting rules must be observed carefully. Overeating, using intoxicating items, and eating non-vegetarian food should be carefully avoided. The buds, stems, and leaves of ucche, palta, neem (Azadirachta indica A. juss.) and sajne are very good for this disease.
 
 
-## Dos and don’ts
+## Dos and don’ts for Gonorrhoea
 
 Though not fatal, gonorrhoea is more harmful than its simple fatality record, because it gradually poisons the life of the entire society. 
 

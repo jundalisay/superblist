@@ -1,5 +1,6 @@
 ---
 title: "Changes in Money-Wages"
+heading: "Chapter 19"
 description: "The Economy is Not Self-Adjusting"
 image: "/covers/general.jpg"
 # date: 2020-10-10

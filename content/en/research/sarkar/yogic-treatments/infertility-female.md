@@ -9,7 +9,7 @@ image: "/photos/jealous.jpg"
 
 
 
-## Symptoms
+## Symptoms of Female Sterility And Infertility
 
 - A woman between the 16 and 35 being unable to conceive in spite of having sex
 
@@ -18,7 +18,7 @@ But often it is caused by the sterility of the male partner.
 ![Jealous woman](/photos/jealous.jpg)
 
 
-## Causes
+## Causes of Female Sterility And Infertility
 
 1. The ova, produced in the ovaries, pass through the Fallopian tubes to reach the uterus. 
 
@@ -42,7 +42,8 @@ When the Fallopian tubes are weak, diseased, or blocked by contaminated matter, 
 
 10. If the spermatic duct becomes diseased, weak, hardened or full of impurities, then a person becomes infertile, and conception cannot take place.
 
-## Treatment
+
+## Treatment of Female Sterility And Infertility
 
 One particular remedy cannot be applied in all cases. 
 
@@ -60,11 +61,11 @@ Very often the opening of the vagina becomes flaccid or stretched, and the vagin
 Whatever the reason for sterility or infertility, taking Vyápaka Shaoca is very beneficial.
 
 
-## Diets and dos and don’ts
+## Diets and dos and don’ts for Female Sterility And Infertility
 
 The diet and the dos and don’ts are the same as for abnormal menstruation.
 
 
-## Remedy
+## Remedy for Female Sterility And Infertility
 
 1. A pregnant woman can avoid miscarriage if an entire root of white apámárga plant or a root of white aparájitá plant is worn around the patient’s waist.

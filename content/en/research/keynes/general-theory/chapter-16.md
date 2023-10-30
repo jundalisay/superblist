@@ -142,5 +142,3 @@ In the case of the great majority of articles, it would involve great technical 
 
 Thus, even if the rate of interest is zero, there is a strict limit to the proportion of prospective consumers’ demand which it is profitable to begin providing for in advance; and, as the rate of interest rises, the proportion of the prospective consumers’ demand for which it pays to produce to-day shrinks pari passu.  -->
 
-
-

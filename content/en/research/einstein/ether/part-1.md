@@ -82,7 +82,7 @@ The laws were clear and simple, the mechanical interpretations clumsy and contra
 
 <!-- Almost imperceptibly the theoretical physicists adapted themselves to a situation which, from the standpoint of their mechanical programme, was very depressing.  -->
 
-They were influenced by the electro-dynamical investigations of Heinrich Hertz. 
+They were influenced by the electro-dynamical investigations of Heinrich Hertz.
 
 Before Hertz, the conclusive theory only demanded <!-- that it should content itself with the fundamental concepts which belong exclusively to --> mechanics-concepts (e.g. densities, velocities, deformations, stresses). They gradually admitted electric and magnetic force as fundamental concepts side by side with those of mechanics, without requiring a mechanical interpretation for them. 
 
@@ -125,7 +125,9 @@ He achieved this by taking from ether its mechanical qualities, and from matter 
 
 The ether in empty space and inside matter  <!-- As in empty space, so too in the interior of material bodies, , and not matter viewed atomistically, --> was exclusively the seat of electromagnetic fields. 
 
-According to Lorentz, only the elementary particles of matter can carry out movements. Their electromagnetic activity is entirely confined to the carrying of electric charges. Thus, Lorentz reduced all electromagnetic happenings to Maxwell's equations for free space.
+According to Lorentz, only the elementary particles of matter can carry out movements. Their electromagnetic activity is entirely confined to the carrying of electric charges. 
+
+Thus, Lorentz reduced all electromagnetic happenings to Maxwell's equations for free space.
 
 The only mechanical nature of the Lorentzian ether is its immobility. Special Relativity removed this immobility.
 

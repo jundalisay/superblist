@@ -10,11 +10,14 @@ weight: 2
 
 {{< s v="1" >}} Virtue is the temper of mind in the excellent and praise-worthy character. The nature of virtue may be reduced to three classes= 
 
-1. The proper direction of all our feelings. These feelings may be virtuous or vicious according to= 
+1. The proper direction of all our feelings. These feelings may be virtuous or vicious according to:
 - their objects and
 - how much they pursue them.
 
 Virtue therefore consists in propriety.
+
+
+![Propriety](/photos/idea.jpg)
 
 
 {{< s v="2" >}}
@@ -63,6 +66,9 @@ He saw it as having the right to be the governing principle of the rest. It lets
 {{< s v="8" >}} The desires often rebel against reason and have 2 classes:
 
 1. Those in the irritable part of the soul.
+
+![Pride](/photos/vanity.jpg)
+
 - These are founded on pride and resentment.
 - These desires rise from what we commonly call 'spirit' or 'natural fire'.
 - Examples are:
@@ -73,6 +79,9 @@ He saw it as having the right to be the governing principle of the rest. It lets
   - the desire of victory, superiority, and revenge
 
 2. Those in the lustful part of the soul leading to the love of pleasure which includes:
+
+![Desire](/photos/med/syph.jpg)
+
 - bodily desires
 - love of ease and security
 - sensual gratifications
@@ -111,14 +120,14 @@ He observed that when the love of pleasure prompts to do what we disapprove of, 
 The angry part of our nature is then called in to assist the rational against the lustful.
 
 
-{{< s v="12" >}} The three parts of our nature are:
-- reason
-- the irritable part
-- the lustful part
+{{< s v="12" >}} The 3 parts of our nature are:
+
+1. reason
+2. the irritable part
+3. the lustful part
 
 The perfect concord of those three is called temperance, good temper, or sobriety and moderation of mind.
 
 This happens when reason: 
 - approved of the gratification aimed at by the irritable and lustful parts of the soul, and
 - commanded only what the irritable and lustful parts were willing to perform.
-

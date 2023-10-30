@@ -10,7 +10,7 @@ icon: "/icons/sarkar.png"
 
 
 
-## Symptoms
+## Symptoms of Hydrocele
 
 - Swelling of the scrotum
 - Swelling and stiffening of the supporting ligaments and the blood vessels of the testicles
@@ -20,7 +20,7 @@ icon: "/icons/sarkar.png"
 ![Man with big scrotum](/photos/med/hydro.jpg)
 
 
-## Causes
+## Causes of Hydrocele
 
 This disease has internal and external causes:
 
@@ -40,7 +40,7 @@ His testicles start swelling very slowly, and ultimately the swelling becomes pe
 2.b. If people <!-- who do not take a dip bath (i.e., who splash water or shower without fully immersing themselves) also --> bathe standing up, the lower abdomen and back may remain completely dry. This dryness may irritate the nervous system and invite an attack of hydrocele.
 
 
-## Treatment
+## Treatment for Hydrocele
 
 Whenever an opportunity arises, the patient should perform Vasti Kumbhaka on an empty stomach. Rules of bathing and of drinking water should also be followed strictly.
 
@@ -48,12 +48,12 @@ Whenever an opportunity arises, the patient should perform Vasti Kumbhaka on an 
 Evening – Upaviśt́a Ud́d́ayana Mudrá, Agnisára Mudrá and Utkat́a Vajrásana. -->
 
 
-## Diet
+## Diet for Hydrocele
 
 If the condition of the liver permits, all types of nutritious food can be taken. However, a very close watch must be kept on the regular clearing of the bowels. Fast on Ekádashii, Púrńimá and Amávasyá.
 
 
-## Dos and don’ts
+## Dos and don’ts for Hydrocele
 
 Sexual thoughts and excitement are among the causes of hydrocele, so the more one can stay away from these things the better. Patients should use Kaopiinas. Alternative applications of cold and hot compresses will give quick relief.
 
@@ -65,7 +65,7 @@ Lying in a supine position, apply an ice pack or an ice-cold water compress on t
 Again, apply the cold compress for fifteen to twenty minutes, following it with a warm compress as described above. At night, before retiring to bed, alternate cold and hot compresses should be applied a few times in a similar manner. The last compress of the night should be a cold one instead of hot to keep the tissues of the testicles cool for the night.
 
 
-## Remedies
+## Remedies for Hydrocele
 
 1. Wrap the testicles in kadamba leaves; or
 2. Dissolve ammonium chloride in water and use a wet bandage soaked in that solution; or

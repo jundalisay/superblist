@@ -82,10 +82,6 @@ Those of the Mount of the Moon, which will be enumerated later, are also shown b
 
 If any portion of the percussion is more thoroughly cross-lined than the others, or lines run across from it to the Life line, with health defects of nails, color, etc., shown, you can tell which one of the delicate parts will first give way, by the portion of the Mounts at the side of the hand on which these markings occur most strongly, or from which a line runs to a delicate Life line. 
 
-This will be more fully treated in the study of the lines.
-
-<!-- DISTINGUISHING MARKS ON THE MOUNT OF MOON No. 119. DISTINGUISHING MARKS ON THE MOUNT OF MOON. NORMAL MOUNT OF MOON No. 120. NORMAL MOUNT OF MOON. STRONG MOUNT OF MOON No. 121. STRONG MOUNT OF MOON. EXCESSIVE MOUNT OF MOON No. 122. EXCESSIVE MOUNT OF MOON. The Mount Of The Moon.  -->
-
 
 
 ## Part 2 
@@ -100,11 +96,21 @@ It is entirely because of the possession of imagination, a quality of mind which
 
 These methods of communication may be either by word of mouth in various languages; by telegraph, where each combination of dots on the sounder means a different letter, by combining which, words conveying ideas are produced; by writing, where each letter and every combination of them forms a word which conveys an idea to the mind; or by the sign language of the hand as employed by mutes, where each different manner of placing the fingers either means a letter, a word, or, with advanced users of this method, a whole statement. 
 
-But none of these methods of communication would be possible if we lacked the imaginative power to link these lines, words, or gestures with the idea which they are intended to convey, and the understanding of these varied forms of communication would be impossible if we had not the ability to form a mental picture of the thing to which they refer. If I write the word house, it brings to mind a building and you mentally picture some sort of a structure. 
+But none of these methods of communication would be possible if we lacked the imaginative power to link these lines, words, or gestures with the idea which they are intended to convey, and the understanding of these varied forms of communication would be impossible if we had not the ability to form a mental picture of the thing to which they refer.
 
-If I add, "A white frame house with low roof and red chimneys," you mentally see the house in your "mind's eye." This is the power of imagination, and if we did not have it we would be unable to communicate with each other, would have no ability to express ourselves. Thus the Lunarian was necessary, as he represents imagination, which makes possible communication, and he was made one of the seven types. Manifestly the more refined and greater the power of well-balanced imagination a subject possesses, the larger will be his vocabulary; the power of description will be greater and the ability to evolve new ideas increased. The more dense the subject, the more material are his imaginings, the more restricted his vocabulary, and, instead of catching an idea quickly, you have figuratively "to beat it into his head." 
+If I write the word house, it brings to mind a building and you mentally picture some sort of a structure. 
 
-This faculty of imagination and speech is what makes a high type of Lunarian brilliant; the lack of it makes the clodhopper, who can never say just what he wants to, who never mentally rises above the earth. Those subjects who can believe in nothing that they cannot touch, and who cannot carry in their minds mental pictures, lose much enjoyment and have little expansive ness of mind to help them through the world. When we find a subject with a well-developed Mount of the Moon, we have one who expresses himself well and can enjoy the pleasures of imagination; when we find it absent (123) we have one who can picture nothing to himself; when we find it excessive (see 122), we have a subject who easily becomes flighty, imaginative to a dangerous degree, and who even loses control of the mind entirely, becoming insane. 
+If I add, "A white frame house with low roof and red chimneys," you mentally see the house in your "mind's eye." This is the power of imagination, and if we did not have it we would be unable to communicate with each other, would have no ability to express ourselves. 
+
+Thus the Lunarian was necessary, as he represents imagination, which makes possible communication, and he was made one of the seven types. Manifestly the more refined and greater the power of well-balanced imagination a subject possesses, the larger will be his vocabulary; the power of description will be greater and the ability to evolve new ideas increased.
+
+The more dense the subject, the more material are his imaginings, the more restricted his vocabulary, and, instead of catching an idea quickly, you have figuratively "to beat it into his head." 
+
+This faculty of imagination and speech is what makes a high type of Lunarian brilliant; the lack of it makes the clodhopper, who can never say just what he wants to, who never mentally rises above the earth.
+
+Those subjects who can believe in nothing that they cannot touch, and who cannot carry in their minds mental pictures, lose much enjoyment and have little expansiveness of mind to help them through the world.
+
+When we find a subject with a well-developed Mount of the Moon, we have one who expresses himself well and can enjoy the pleasures of imagination; when we find it absent (123) we have one who can picture nothing to himself; when we find it excessive (see 122), we have a subject who easily becomes flighty, imaginative to a dangerous degree, and who even loses control of the mind entirely, becoming insane. 
 
 Manifestly we care to find no excess nor deficiency with this Mount, but a good medium development, showing the presence of a healthy imagination, one that lifts the world above the plane of materialism into the realm of fancy. In the hands of the greatest linguists, musicians, composers, fiction or romance writers, we find this Mount strong.
 
@@ -114,9 +120,10 @@ Beautiful scenery, birds, flowers, color, or form would have little meaning to u
 
 Granting that imagination may sometimes lead to false conclusions, it is better to have some of them than to be unable to see beyond a limited horizon. 
 
-<!-- DEFICIENT MOUNT OF MOON No. 123. DEFICIENT MOUNT OF MOON.  -->
 
-The Lunarian is tall in stature, fleshy in build, with the lower limbs thick and the feet large. He is often quite stout, but his flesh is not firm and his muscles are not strong. 
+The Lunarian is tall, fleshy in build, with the lower limbs thick and the feet large. 
+
+He is often quite stout, but his flesh is not firm and his muscles are not strong. 
 
 He is soft and flabby and instead of muscular vitality, his flesh has a spongy feeling. His complexion is dead white, giving him a decided pallor and marking him as the victim of a weak heart's action, anaemia, kidney trouble, and often of dropsy. His head is round, thick through the temples, bulging over the eyes, and with a low forehead. 
 

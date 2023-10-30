@@ -9,7 +9,7 @@ icon: "/icons/sarkar.png"
 
 
 
-## Symptoms
+## Symptoms of Hemorrhoids (Piles)
 
 “Developed piles” happens when contaminated gas and blood cannot get out of the body. This causes pressure on the veins and capillaries around the anus which becomes swollen. “External piles” are those outside the anus. "Internal piles" are those inside the anus. 
 
@@ -20,7 +20,7 @@ icon: "/icons/sarkar.png"
 ![Hemorrhoids](/photos/med/hem.jpg)
 
 
-## Causes
+## Causes of Hemorrhoids (Piles)
 
 Constipation due to a defective liver is the main cause of piles. 
 
@@ -32,7 +32,7 @@ Straining at stool often aggravates the disease. Remember that without constipat
 Morning – Utkśepa Mudrá, Ud́d́ayana Mudrá, Jánushirasana, Shalabhásana or Mayúrásana, Agnisára Mudrá, Padahastásana and Ashvinii Mudrá.
 Evening – Agnisára Mudrá, Bhastrikásana, Sarváuṋgásana, Matsyamudrá, Shasháuṋgásana and Ashvinii Mudrá. -->
 
-## Diet
+## Diet for Hemorrhoids (Piles)
 
 If the patient of piles feels hungry early in the morning, he or she may eat some sweet or sour juicy fruit. 
 
@@ -42,14 +42,15 @@ Arum (Amorphophallus campanulatus (Roxb.) Bl.) curd-water, soup, figs, mána ka
 
 The patient should drink a glass of curd-water twice a day.
 
-### Dos and don’ts
+
+### Dos and don’ts for Hemorrhoids (Piles)
 
 It is not possible to achieve a permanent cure by removing the developed piles through surgery or through stopping the bleeding by any method, because if the root causes are not eliminated, the disease may attack again at any moment, or the contaminated gas and blood in the body may cause some other disease. Therefore, though it may not be improper to employ some temporary expedient to stop severe bleeding at the critical stage, the liver has to be restored in order to obtain a permanent cure. If the liver becomes healthy, the piles will disappear without any treatment.
 
 The patient has to be careful to have a sharp appetite at noon. With piles all extra-alkaline food must be carefully avoided. It is desirable for the patients to avoid eating plantain spathe, plantain flower, plantain fruit or meoyá fruit. At the critical stage of the disease fasting is always recommended. During fasting, plenty of water, and, if desired, sweet or sour citrus juices mixed in water may be consumed. Piles patients should not eat hot (i.e. spicy), salty or rough foods.
 
 
-## Remedies
+## Remedies for Hemorrhoids (Piles)
 
 1. After defecation wash the anus with alum-water. If one applies slightly-warm neem ghee prepared from tender young neem (margosa, Melia azadirachta indica A. Juss.) leaves on the developed piles, the disease will be cured within a few days. It is desirable to use this neem ghee at bedtime also.
 2. In the early morning take 2 tolas of dugdhakśiirá juice on an empty stomach. This will bring good results.

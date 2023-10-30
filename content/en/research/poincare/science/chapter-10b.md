@@ -2,15 +2,13 @@
 title: Physics and Mechanism
 heading: Chapter 10b
 weight: 54
-
-description: Science and Hypothesis
+description: Most theorists have a constant predilection for explanations borrowed from physics, mechanics, or dynamics.
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
 ---
 
 
-## 
  
 Most theorists have a constant predilection for explanations borrowed from physics, mechanics, or dynamics. 
 
@@ -83,16 +81,13 @@ changes undergone by the material molecules.
 A photographic plate experiences the consequences of a phenomenon of which the incandescent
 mass of a star was the scene several years before. 
 
-Now, in ordinary mechanics, the state of the system under consideration depends only on its state at the moment immediately preceding; the system therefore satisfies certain differential equations. On the other hand, if we did not
-believe in the ether, the state of the material universe
-would depend not only on the state immediately preceding, but also on much older states; the system would satisfy equations of finite differences. The ether was invented to escape this breaking down of the laws of general
-mechanics.
+In ordinary mechanics, the state of the system under consideration depends only on its state at the moment immediately preceding. 
 
-Still, this would only compel us to fill the interplanetary space with ether, but not to make it penetrate
-into the midst of the material media. 
+The system therefore satisfies certain differential equations. On the other hand, if we did not believe in the ether, the state of the material universe would depend not only on the state immediately preceding, but also on much older states; the system would satisfy equations of finite differences. The ether was invented to escape this breaking down of the laws of general mechanics.
 
-Fizeau’s experiment goes further. By the interference of rays which
-have passed through the air or water in motion, it seems to show us two different media penetrating each other, and yet being displaced with respect to each other. 
+Still, this would only compel us to fill the interplanetary space with ether, but not to make it penetrate into the midst of the material media. 
+
+Fizeau’s experiment goes further. By the interference of rays which have passed through the air or water in motion, it seems to show us two different media penetrating each other, and yet being displaced with respect to each other. 
 
 The ether is all but in our grasp. Experiments can be conceived in which we come closer still to it. Assume that Newton’s principle of the equality of action and reaction is not true if applied to matter alone, and that this can be proved. The geometrical sum of all the forces applied to all the molecules would no longer be zero. 
 

@@ -9,7 +9,7 @@ icon: "/icons/sarkar.png"
 
 
 
-## Symptoms
+## Symptoms of Gastric and Duodenal Ulcer
 
 - Indigestion and constipation
 - Aversion to food
@@ -18,7 +18,8 @@ icon: "/icons/sarkar.png"
 
 ![Ulcer](/photos/med/ulcer.jpg)
 
-## Causes
+
+## Causes of Gastric and Duodenal Ulcer
 
 Partially-digested food passes from the stomach into the duodenum or upper intestine for further assimilation. There, digestion is done by the digestive fluids with the help of:
 - bile from the liver
@@ -33,7 +34,6 @@ At the same time, the unassimilated digestive fluids and bile also become spoile
 Blood circulation in the walls of the stomach and duodenum is slowed down by habitually undertaking mental or physical exertion after a meal without having any rest.
 
 This makes the membrane lining of the organs easily susceptible to the acidic poison. This causes the ulcer to appear.
-
 
 
 Ideally, the alkaline secretions in the body should maintain a balance with the acids. But this can fail when:
@@ -80,7 +80,8 @@ This disease generally attacks people in early youth and kills them at the end o
 Morning – Utkśepa Mudrá, Yogásana, Diirgha Prańáma, Bhujauṋgásana, Agnisára Mudrá, Padahastásana, Ágneyii Mudrá, and Ágneyii Práńáyáma.
 Evening – Sarváuṋgásana, Matsyamudrá, Naokásana, Pashcimottánásana, Karmásana, Agnisára Mudrá and Ud́d́ayana Mudrá. -->
 
-## Diet
+
+## Diet for Gastric and Duodenal Ulcer
 
 In the severe state of the disease, only plenty of water and sweet or sour fruit juice should be taken. 
 
@@ -105,7 +106,7 @@ Instead, food should be eaten several times a day, eating only a small quantity 
 The cure of this disease depends largely on the selection of diet – therefore, even after getting well, the patient should observe the dietary provisions strictly for a couple of years.
 
 
-## Dos and don’ts
+## Dos and don’ts for Gastric and Duodenal Ulcer
 
 Acidity is the main cause of this disease, so it is desirable that food which can increase acidity be carefully avoided. 
 

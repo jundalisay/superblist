@@ -1,17 +1,15 @@
 ---
 title: "Natural Remedies for Acidity"
-heading: "Yogic Treatments and Natural Remedies"
+# heading: "Yogic Treatments and Natural Remedies"
 weight: 3
 author: "PR Sarkar"
 description: "Undigested food and undigested acids create poisonous gas which cause a burning sensation in the stomach. When they rise up to the chest they cause heartburn. When they rise further they cause dizziness"
 image: "/photos/med/heartburn.jpg"
 icon: "/icons/sarkar.png"
-aliases:
-  /research/sarkar/yogic-treatments/acidity
 ---
 
 
-## Symptoms
+## Symptoms of Acidity
 
 - Physical weakness
 - Acidic or watery belching
@@ -19,8 +17,10 @@ aliases:
 - Burning stomach
 - Heartburn
 
+![](/photos/med/heartburn.jpg)
 
-## Cause
+
+## Cause/s of Acidity
 
 Oxygen inhaled in breathing enters the body and eventually turns into carbon dioxide. This carbon dioxide activates the digestive fluid-secreting glands. 
 
@@ -35,28 +35,32 @@ The acidic digestive fluids under normal conditions are digested with the food. 
 
 The undigested food and undigested acids create poisonous gas. The putrid acidic gas and fluids cause a burning sensation in the stomach. When they rise up to the chest they cause heartburn. When they reach the throat, burning is felt in the throat; when they rise further they cause dizziness.
 
-Due to this excessive acidity, the blood becomes acid-dominated. Being overworked, the blood-purifying organs of the body also become weak, and the patient feels weak.
-This over-acidity of the blood also causes swelling and consequent pain in different parts of the body, especially the joints. The name of this condition is “rheumatism”.
+Due to this excessive acidity, the blood becomes acid-dominated. This overworks the blood-purifying organs which then become weak, causing the patient to feel weak.
+
+This over-acidity of the blood also causes swelling and consequent pain in different parts of the body, especially the joints as “rheumatism”.
+
 When a strong and continuous effort is being made by the body’s organs to purify the over-acid blood, this condition is called “colic” or “shooting pain.”
 
 
-### Dos
+### Do's When Having Acidity
 
-- coconut food 
-- green veg soup 
-- boiled old rice 
-- sweet/sour fruits 
-- curd water 
-- eat less 
-- walk in open air 
-- drink lots of water
-- drinking of water or orange juice for demon hunger
-- change nostril flow during demon hunger 
-- fasting 
+- Eat:
+  - coconut food 
+  - green veg soup 
+  - boiled old rice 
+  - sweet/sour fruits 
+  - curd water 
+- Eat less 
+- Walk in open air 
+- Drink lots of water
+  - Drinking of water or orange juice for demon hunger
+- Change nostril flow during demon hunger 
+- Fasting 
 
-### Don'ts
 
-- don't eat breakfast and snacks 
+### Don'ts When Having Acidity
+
+- Don't eat breakfast and snacks 
 
 <!-- Treatment:
 Morning – Utkśepa Mudrá, Mayúrásana, Padahastásana, Ud́d́ayána Mudrá, Agnisára Mudrá and Ágneyii Práńáyáma.
@@ -68,7 +72,7 @@ Dos and don’ts= For patients of acidity it is particularly important to walk i
 If due to the over-secretion of digestive fluids the patient suffers from “demon hunger”, it can be relieved by drinking a large glass of water. When the acidity patient feels pain, it is advisable to drink orange or tangerine juice mixed in tepid water. After the pain has subsided, lemon juice in cold water should be taken. As with dyspepsia, during mealtime and for an hour thereafter breath should be flowing through the patient’s right nostril.
 At the time of severe colic pain, the dominant flow of breath should be changed from the nostril through which it was flowing at the time the pain started to the other nostril. Allowing the bile to accumulate by not taking something when one is hungry should never be permitted, because in that event the undigested bile itself will become the cause of acidity. -->
 
-### Remedies:
+### Natural Remedies for Acidity
 
 1. Eat some shredded dry coconut along with a prepared betel (Piper betle Linn.) leaf, or some flesh of mature coconut along with aniseed.
 2. To get immediate relief from a distressing colic pain, equal quantities of chalk and átapa rice powder should be ground together, and 1/2 tola of the mixture should be taken.

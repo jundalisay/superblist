@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 16"
+heading: "Chapter 16b"
 title: "Institutional Conditions"
 description: "individual saving is a decision not to have dinner today"
 image: "/covers/general.jpg"

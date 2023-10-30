@@ -45,15 +45,13 @@ The electromagnetic fields:
 
 **According to Special Relativity, both matter and radiation are but special forms of distributed energy, ponderable mass losing its isolation and appearing as a special form of energy.**
 
-<!-- More careful reflection teaches us, however, that the --> 
-
 But afterwards, Special Relativity however does not compel us to deny ether. 
 
-We may assume the existence of an ether. But it does not have <!-- ; only we must give up ascribing --> a definite state of motion to it, i.e. we must remove its immobility. <!-- by abstraction take from it the last mechanical characteristic which Lorentz had still left it.  -->
+We may assume the existence of an ether. But it does not have a definite state of motion to it, i.e. we must remove its immobility. <!-- by abstraction take from it the last mechanical characteristic which Lorentz had still left it.  -->
 
 <!-- We shall see later that this point of view, the conceivability of which I shall at once endeavour to make more intelligible by a somewhat halting comparison, is justified by the results of the general theory of relativity. -->
 
-Think of waves on the surface of water. Here we can describe two entirely different things. Either we may observe how 
+Think of waves on the surface of water. Here we can describe 2 entirely different things. Either we may observe how 
 
 The undulatory surface between water in a pond and the air above it changes in time. Through buoys as markers, we can see how the water changes in time. If such buoys were impossible, then we cannot say that water was made up of moving particles. But it would still be a medium. 
 
@@ -87,11 +85,9 @@ The electromagnetic fields appear as ultimate, irreducible realities. At first, 
 - postulate a homogeneous, isotropic ether-medium
 - envisage electromagnetic fields as states of this medium.
 
-But on the other hand, the <!--  is a weighty argument to be adduced in favour of the --> ether hypothesis is useful in harmonizing the fundamental facts of mechanics.
+But on the other hand, the ether hypothesis is useful in harmonizing the fundamental facts of mechanics.
 
 <!-- . To deny the ether is ultimately to assume that empty space has no physical qualities whatever.  -->
-
- <!-- do not harmonize with this view. For  -->
 
 The mechanical behaviour of body hovering freely in empty space depends on:
 - relative positions (distances)

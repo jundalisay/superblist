@@ -1,19 +1,22 @@
 ---
 heading: Chapter 11c
-title: "Robbery and Piracy"
+title: "Theft. Robbery, and Piracy"
 contributors: ['Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
-description: "Delicts are of two kinds ex dolo and ex culpa"
+description: "A man may be injured in his moveables 3 ways"
 weight: 30
 ---
 
 
 
-A man may be injured in his moveables three ways, by: 
+A man may be injured in his moveables 3 ways, by: 
 - theft
 - robbery
 - piracy
+
+
+{{< img src="/photos/medieval/arab.jpg" alt="Thief" >}}
 
 
 ## Theft
@@ -93,11 +96,13 @@ In the same way, it was anciently a capital offense to steal anything from the p
 
 In England, a bankrupt may have a discharge by surrendering himself and all his effects. But he can defraud his creditors if he does not give up all he has. And so this is punishable by death.
 
+
 ### Forgery
 
 Forgery is also punished capitally. Nobody complains that this punishment is too severe, because when contracts sustain action property can never be secure unless the forging of false ones be restrained.
 
 However, the forgery of every deed is not capital, but only the forgery of deeds payable to the bearer on demand, because any forgery of a deed regarding the conveyance of land may easily be discovered before any damage be done.
+
 
 ### Perjury
 
@@ -111,15 +116,22 @@ There are several ways of acquiring personal rights, so there are several ways i
 This is very reasonable. If a debt be not claimed for a long time the negligence of the debtor is encouraged.
 
 By the Scotch law, if he call for neither principal nor interest of a bond for forty years, it very justly prescribes.
+
 Nobody of common prudence would neglect any part of his affairs for forty years, if ever he intended to meddle with them again.
 
 According to strict law, if the interest be demanded in the thirty-ninth year the capital does not prescribe.
+
 Crimes likewise prescribe, and it is reasonable that they should, whether they be punished from a sympathy with the resentment of the sufferer, or from public utility, or to satisfy the public.
+
+
 Resentment wears out in a few years, and a person who has behaved well for twenty years, the time fixed on by our law, cannot be very dangerous to the public.
 
 Appeals by the English law prescribe in one year, but an indictment does not prescribe so soon, because the king prosecutes for public security and not to gratify private resentment, and therefore the law favours his claim.
-At any rate it would be unreasonable to prosecute a man for a crime committed forty years ago, because he may now be a quite different man from what he was then.
-Besides, the thing is quite forgotten, and the end of punishing and public example is entirely lost.
+
+It would be unreasonable to prosecute a man for a crime committed 40 years ago because he may now be a quite different man from what he was then.
+- Besides, the thing is quite forgotten
+- The goal of punishing and setting the public example is entirely lost.
+
 Treason itself prescribes in a few years.
 
 From a resentment in law, however, if sentence have actually passed upon a person, and he have made his escape, he may be executed on his former sentence:  the escape is considered as a new crime.
@@ -132,20 +144,28 @@ In every country, if a person return after twenty years he is not troubled; it w
 
 Some general observations on the criminal law is all that remains on this subject.
 
-Resentment seems best to account for the punishment of crimes. If a person fires a pistol down a street, though he do no harm, public utility requires that he should be punished;
+Resentment seems best to account for the punishment of crimes. If a person fires a pistol down a street, though he do no harm, public utility requires that he should be punished.
 
-but such crimes are by the laws of every country more slightly punished than if some mischief had ensued.
-The reason is plain.
-Resentment never rises to any great pitch unless some injury be actually done; some things that are in themselves criminal are not punished unless some bad consequence follow.
-A man meets with little resentment for riding an unruly horse in the market-place, but if he kill anybody, resentment is very high.
+But such crimes are by the laws of every country more slightly punished than if some mischief had ensued.
+
+Resentment never rises too much unless some injury is actually done. 
+
+Some criminal acts are not punished unless some bad consequence follow.
+
+A man is not resented for riding an unruly horse in the marketplace. But if he kills anybody, the resentment is very high.
+
 For the same reason, deodands, though inanimate objects, are accounted execrable.
-In many cases the resentment falls upon the very member of the body which perpetrated the action.
+
+In many cases, the resentment falls upon the very member of the body which perpetrated the action.
+
 Resentment is on the whole a very indiscriminating principle, and pays little attention to the disposition of the mind.
 
 Certain persons are not to be considered as subjects of punishment, such as idiots, madmen, and children.
+
 We are not so much shocked by an action done by a madman, as one done by another person.
+
 We think binding the only punishment adequate to their crimes.
 
 These are all the injuries that a man can do to another man. 
 
-Having now considered man as a member of a state, as a member of a family, and as a man, we proceed to police, [the] second division of jurisprudence.
+<!-- Having now considered man as a member of a state, as a member of a family, and as a man, we proceed to police, [the] second division of jurisprudence. -->

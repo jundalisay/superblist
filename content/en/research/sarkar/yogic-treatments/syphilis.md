@@ -8,8 +8,6 @@ icon: "/icons/sarkar.png"
 ---
 
 
-
-
 This disease entered India a few centuries ago it from Europe. Many think that it first originated in dogs, and through contact with them the human body got infected.
 
 
@@ -50,13 +48,13 @@ But the disease is not normally transmitted by mere association and eating toget
 Morning – Utkśepa Mudrá, Mayúrásana, Padahastásana, Násápána and Shiitaliikumbhaka
 Evening – Sarváuṋgásana, Matsyamudrá, Naokásana, Utkat́a Pashcimottánásana and Agnisára Mudrá. -->
 
-## Diet
+## Diet for Syphilis
 
 Non-vegetarian food, onion, garlic, too much spice, all kinds of sweets, and milk products are to be strictly avoided. All types of alkaline foods and foods prepared with ghee are good. 
 
 At lunch, it is good to take rice with ghee, and in the evening, rut́i. Vegetable soup and fruits and roots can be eaten in ample quantity. The patient should drink enough water every day. It is good not to take milk till the disease is cured, but one can take milk in increasing quantity as the disease heals.
 
-## Dos and don’ts
+## Dos and don’ts for Syphilis
 
 A sun-bath should be taken every day at a fixed time in summer and winter, exposing the diseased parts of the body to the sun. The sores should be carefully washed with the juice of neem (Azadirachta indica A. Juss) leaves, or any other disinfectant lotion, on a regular daily basis, after which neem oil should be applied. 
 
@@ -69,7 +67,7 @@ Fasting is also very beneficial in this disease. Syphilis patients must fast on 
 The patient should never completely fill the stomach at the evening meal, and that too should be finished by 8 or 8:30 p.m. Sleeping during the day, staying awake at night, and mingling with crowds should be avoided. Also, marriage and sexual relations are strictly forbidden for one-and-a-half or two years after the healing of the disease. All types of intoxicants are to be avoided like poison.
 
 
-## Remedies
+## Remedies for Syphilis
 
 ### Chancroid
 
@@ -101,5 +99,6 @@ The patient should never completely fill the stomach at the evening meal, and th
 1. The patient should obtain 5 tolas of curd (yogurt) and keep it overnight in a stone container. 
 
 Early in the morning mix one drop (and not more) of trishirásiija juice in the curd and drink the mixture on an empty stomach. The patient will then soon feel nauseated and will have frequent bowel movements but should not worry. If the patient takes a bath after four or five hours and drinks a glass of micharii-water, the movements will stop. The patient should take nothing but barley-water that evening, and for a few days afterwards eat only a very light diet. This is an excellent process for destroying the poison of syphilis.
+
 The method for preparing neem oil= Extract neem juice by mashing or grinding the leaves. For one measure of neem juice take one-half that measure of sesame oil and mix them together. Boil the mixture down to one-half measure and do not boil further. Take care not to burn the oil.
 

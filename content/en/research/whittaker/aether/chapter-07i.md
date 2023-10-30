@@ -109,14 +109,14 @@ which, as will appear later, closely resembles the corresponding expression in t
 
 Clausius' formula has the great advantage over Weber's, that it does not compel us to assume equal and opposite velocities for the vitreous and resinous charges in an electric current; on the other hand, Clausius' expression involves the absolute velocities of the electrons, while Weber's depends only on their relative motion; and therefore Clausius' theory requires the assumption of a fixed aether in space, to which the velocities v and v′ may be referred.
 
-When the behaviour of finite electrical systems is predicted from the formulae of Weber, Riemann, and Clausius, the three laws do not always lead to concordant results. For instance, if a circular current be rotated with constant angular velocity round its axis, according to Weber's law there would be a development of free electricity on a stationary conductor in the neighbourhood; whereas, according to Clausius' formula there would be no induction on a stationary body, but electrification would appear on a body turning with the circuit as if rigidly connected with it.
+When the behaviour of finite electrical systems is predicted from the formulae of Weber, Riemann, and Clausius, the three laws do not always lead to concordant results.
 
-Again,[80] let a magnet be suspended within a hollow metallic body, and let the hollow body be suddenly charged or discharged; then, according to Clausius' theory, the magnet is unaffected; but according to Weber's and Riemann's theories it experiences an impulsive couple. 
+For instance, if a circular current be rotated with constant angular velocity round its axis, according to Weber's law there would be a development of free electricity on a stationary conductor in the neighbourhood; whereas, according to Clausius' formula there would be no induction on a stationary body, but electrification would appear on a body turning with the circuit as if rigidly connected with it.
+
+Let a magnet be suspended within a hollow metallic body, and let the hollow body be suddenly charged or discharged; then, according to Clausius' theory, the magnet is unaffected; but according to Weber's and Riemann's theories it experiences an impulsive couple. 
 
 If an electrified disk be rotated in its own plane, under certain circumstances a steady current will be induced in a neighbouring circuit according to Weber's law, but not according to the other formulae.
 
-An interesting objection to Clausius' theory was brought forward in 1879 by Fröhlich[81]—namely, that when a charge of free electricity and a constant electric current are at rest relatively to each other, but partake together of the translatory motion of the earth in space, a force should act between them if Clausius' law were true. 
+An interesting objection to Clausius' theory was brought forward in 1879 by Fröhlich. When a charge of free electricity and a constant electric current are at rest relatively to each other, but partake together of the translatory motion of the earth in space, a force should act between them if Clausius' law were true. 
 
-It was, however, shown by Budde[82] that the circuit itself acquires an electrostatic charge, partly as a result of the same action which causes the force on the external conductor, and partly as a result of electrostatic induction by the charge on the external conductor; and that the total force between the circuit and external conductor is thus reduced to zero.[83]
-
-
+Budde showed that the circuit itself acquires an electrostatic charge, partly as a result of the same action which causes the force on the external conductor, and partly as a result of electrostatic induction by the charge on the external conductor; and that the total force between the circuit and external conductor is thus reduced to zero.[83]

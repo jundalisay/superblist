@@ -10,26 +10,37 @@ contributors: ['Ibn Khaldun']
  
 
 
-Scholars differ as to whether 'Imran al-Qattan can be used as evidence. 
+Scholars differ on whether 'Imran al-Qattan can be used as evidence. 
 
-Al-Bukhari published traditions of his only as additional evidence, and not as the sole
-basis. Yahya alQattan used not to transmit any traditions on his authority. Yahya b.
-Main said: "He is not strong." 
+Al-Bukhari published traditions of his only as additional evidence, and not as the sole basis. Yahya alQattan used not to transmit any traditions on his authority. 
 
-Once he said= "He is nothing." Ahmad b. Hanbal said:
+{{< q a="Yahya b. Main" >}}
+He is not strong. He is nothing.
+{{< /q >}}
 
-"I hope that he is sound in his traditions." Yazid b. Zuray' 858 said= "He was a Kharijite and considered it permissible to put the people of the Qiblah 859 to the sword." 
 
-An-Nasa'i said= "He is weak." Abu 'Ubayd al-Ajurri 860 said= "I asked Abu Dawud about him, and he replied that he was a transmitter of 'good' traditions and that he had heard only good things (about him). 
+{{< q a="Ahmad b. Hanbal" >}}
+I hope that he is sound in his traditions.
+{{< /q >}}
 
-Another time, I heard him mention him and say that he was weak." In the days of Ibrahim b. 'Abdallah b. Hasan, 861 he
-gave an unfortunate legal opinion that led to bloodshed.
+{{< q a="Yazid b. Zuray" >}}
+He was a Kharijite and considered it permissible to put the people of the Qiblah to the sword.
+{{< /q >}}
 
-At-Tirmidhi, Ibn Majah, and al-Hakim published the following tradition of Abu Sa'id al-Khudri through Zayd al'Ammi,862 on the authority of Abus-Siddiq an-Naji, 8 63 on the authority of Abu Sa'id al-Khudri, who said= "We feared that
-something might happen after our Prophet (had died). Therefore we asked him, and
-he said= 'In my nation, there will come forth the Mahdi. He will live five, or seven,
-or nine'-increasing the number, as if in doubt." He said= "We asked what (the
-numbers meant). He replied= 'Years.' 
+{{< q a="An-Nasa'i" >}}
+He is weak.
+{{< /q >}}
+
+{{< q a="Abu 'Ubayd al-Ajurri" >}}
+"I asked Abu Dawud about him, and he replied that he was a transmitter of 'good' traditions and that he had heard only good things (about him).  Another time, I heard him mention him and say that he was weak.
+{{< /q >}}
+
+
+In the days of Ibrahim b. 'Abdallah b. Hasan, he gave an unfortunate legal opinion that led to bloodshed.
+
+At-Tirmidhi, Ibn Majah, and al-Hakim published the following tradition of Abu Sa'id al-Khudri through Zayd al'Ammi,862 on the authority of Abus-Siddiq an-Naji, 8 63 on the authority of Abu Sa'id al-Khudri, who said= "We feared that something might happen after our Prophet (had died). Therefore we asked him, and
+he said= 'In my nation, there will come forth the Mahdi. He will live five, or seven, or nine'-increasing the number, as if in doubt." He said= "We asked what (the
+numbers meant). He replied 'Years.' 
 
 Then he continued= 'Someone will come to the Mahdi and say to him= "O Mahdi, give me something." ' He said= 'And (the Madhi)
 will pour into his garment as much as he can carry.' "
@@ -37,23 +48,18 @@ This is the recension of at-Tirmidhi, who said= "It is a 'good' tradition. It wa
 transmitted in more than one way, on the authority of Abu Sa'id al-Khudri, on the
 authority of the Prophet."
 
-The recension of Ibn Majah and al-Hakim has= "There will be in my nation the Mahdi. If he lives (among you) a short time, it will be seven years; if not, it will be nine. My nation will experience a prosperity the like of which they have never
-experienced before. The earth will bring forth its food and will not hoard any of it.
+The recension of Ibn Majah and al-Hakim has= "There will be in my nation the Mahdi. If he lives (among you) a short time, it will be seven years; if not, it will be nine. My nation will experience a prosperity the like of which they have never experienced before. The earth will bring forth its food and will not hoard any of it.
+
 There will be piles of money. 
 
-A man will get up and say= 'O Mahdi, give me something,' and he will reply= 'Just take.' " 864
-Ad-Daraqutni, Ahmad b. Hanbal, and Yahya b. Main said that Zayd al-'Ammi was all right. Ahmad added that he was superior to Yazid ar-Raqashi <!-- 865 --> and Fadl b. 'Isa.866 However, Abu Hatim said concerning him that he was weak,
-and that his traditions may be written down but not used as evidence. Yahya b. Main
-said of him in connection with another tradition= "(He is) nothing." He once also
-said= "His traditions may be written down, but he is weak." AlJuzajani said= "He is
-just holding on (mutamasik)." 
+A man will get up and say= 'O Mahdi, give me something,' and he will reply= 'Just take.'
 
-Abu Zur'ah said: "He is not strong, his traditions are
-futile, and he is weak." Abu Hatim said= "He is not such (a good man). 867 Shu'bah
-transmitted traditions on his authority." An-Nasa'i said= "He is weak." Ibn 'Adi 868
-said= "Most of his traditions and authorities are weak, even though Shu'bah
-transmitted traditions on his authority. Shu'bah possibly did not transmit traditions
-on the authority of anyone weaker than he."
+Ad-Daraqutni, Ahmad b. Hanbal, and Yahya b. Main said that Zayd al-'Ammi was all right. Ahmad added that he was superior to Yazid ar-Raqashi <!-- 865 --> and Fadl b. 'Isa.866 However, Abu Hatim said concerning him that he was weak, and that his traditions may be written down but not used as evidence. Yahya b. Main said of him in connection with another tradition= "(He is) nothing." He once also said: "His traditions may be written down, but he is weak." AlJuzajani said= "He is just holding on (mutamasik)." 
+
+Abu Zur'ah said: "He is not strong, his traditions are futile, and he is weak." Abu Hatim said= "He is not such (a good man). 867 Shu'bah
+transmitted traditions on his authority." 
+
+An-Nasa'i said: "He is weak." Ibn 'Adi said: "Most of his traditions and authorities are weak, even though Shu'bah transmitted traditions on his authority. Shu'bah possibly did not transmit traditions on the authority of anyone weaker than he."
 
 At-Tirmidhi's tradition is an interpretation of Jabir's. 
 

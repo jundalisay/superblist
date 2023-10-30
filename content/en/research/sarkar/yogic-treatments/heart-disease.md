@@ -9,7 +9,7 @@ icon: "/icons/sarkar.png"
 
 
 
-## Symptoms
+## Symptoms of Heart Disease
 
 - Strong beating sound in the chest
 - Chest pain
@@ -18,7 +18,7 @@ icon: "/icons/sarkar.png"
 
 ![Man having heart attack](/photos/med/heartattack.jpg)
 
-## Causes
+## Symptoms of Heart Disease
 
 There can be many reasons behind heart disease.
 
@@ -56,7 +56,8 @@ Evening – Yogamudrá, Diirgha Prańáma, Bhújauṋgásana, Padahastása
 
 Patients should practise no ásanas and mudrás other than Utkśepa Mudrá when the disease is critical. Only after some improvement in the disease should these ásanas and mudrás be practised. When patients are more or less cured, they should practice Karmásana instead of Padahastásana. The practice of Vyápaka Snána is also especially helpful in this disease.
 
-## Diet
+
+## Diet for Heart Disease
 
 Only fruits and milk should be taken with this disease. Breakfast and afternoon snacks should also be composed of fruits and milk only. At noon a very small quantity of easily-digestible and non-constipating food should be taken. 
 
@@ -65,7 +66,7 @@ It is better to refrain from eating rice or rut́i but a little boiled rice can 
 (Patients should not eat bananas after sunset.) Those who cannot digest milk or who for some reason are unable to procure it, may drink curd-water instead. One should not add salt to food while eating. Care should be taken to let the breath flow through the right nostril for some time after a meal.
 
 
-## Dos and don’ts
+## Dos and don’ts for Heart Disease
 
 Patients should never eat a lot at one sitting – rather they should eat a small quantity at a time, several times. When patients are critically ill they should eat nothing but milk, fruit juice (especially orange/tangerine and tomato), milk or water with honey, and the juice of spinach, kalamii, beto, punarnavá, shushuni or shulphá. When thirsty, drink water with a little lemon juice.
 
@@ -76,7 +77,7 @@ Eating a small quantity of spinach, beto, kalamii, shulphá, shushuni or punarn
 Heart patients should sleep at least nine hours a night. The mind should always be held back from anger and lust. Physical and mental exertion, garrulousness and sex should all be strictly avoided.
 
 
-## Remedies
+## Remedies for Heart Disease
 
 1. Every day in the morning and before retiring to bed at night, patients should take a spoonful of bára eláca, powdered along with the husk, with honey. This will give good results.
 2. The juice of shulphá greens mixed with honey is very useful in heart disease.

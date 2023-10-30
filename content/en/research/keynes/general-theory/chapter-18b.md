@@ -1,5 +1,6 @@
 ---
 title: "The Meaning of Saving and Investment Further Considered"
+heading: "Chapter 18b"
 description: "The actual economic system are also coloured by certain special characteristics of the propensity to consume, the schedule of the marginal efficiency of capital and the rate of interest, about which we can safely generalise from experience, but which are not logically necessary"
 image: "/covers/general.jpg"
 # date: 2020-10-12

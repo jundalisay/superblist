@@ -10,7 +10,7 @@ icon: "/icons/sarkar.png"
 
 
 
-## Symptoms
+## Symptoms of Gall-Stones
 
 <!-- The Saḿskrta-derived word for gall-stone is “pittáshmarii”, “Ashma” meaning “stone” in Saḿskrta; so the colloquial term is “pittápáthurii” – “páthar” being the colloquial word for “stone.”  -->
 
@@ -26,7 +26,7 @@ During chronic cases:
 ![Kidney](/photos/med/kidney.jpg)
 
 
-## Causes
+## Causes of Gall-Stones
 
 The liver:
 - secretes bile 
@@ -50,7 +50,7 @@ Morning – Utkśepa Mudrá, Yoga Mudrá, Diirgha Prańáma, Padahastásan
 Evening – Agnisára Mudrá, Karmásana and Sarváuṋgásana. -->
 
 
-## Diet
+## Diet for Gall-Stones
 
 Intoxicants, non-vegetarian food, ghee and foods that may cause constipation should be strictly forsaken. 
 
@@ -61,7 +61,7 @@ The patient should:
 Whenever the disease is particularly bad, the patient should take nothing but lemon-water. Fasting without water is strictly forbidden with this disease.
 
 
-## Dos and don’ts
+## Dos and don’ts for Gall-Stones
 
 The more rest that the liver, gets the better. So fruit juice and alkaline foods are best for gall-bladder patients. 
 
@@ -70,7 +70,7 @@ The patient must also be sure to do sufficient physical labour, because gall-sto
 **With this disease, lemons are both food and medicine.**
 
 
-## Remedies
+## Remedies for Gall-Stones
 
 1. Boil a myrobalan seed in cow’s milk, then throw the seed away and drink the milk; or
 2. Take equal quantities of myrobalan, muthá, lodhá and banyan fruits, mix them together and extract their juice. Take two tolas of the juice regularly.

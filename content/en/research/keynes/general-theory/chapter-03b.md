@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3"
+heading: "Chapter 3b"
 title: "The General Theory's Propositions"
 description: "Output minus factor cost equals profit or entrepreneur's income"
 image: "/covers/general.jpg"

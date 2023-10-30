@@ -29,6 +29,9 @@
               by {{ . }}
             {{- end }}
           {{- end }}
+          {{ with .Params.author }}          
+              by {{ . }}
+          {{- end }}          
           {{ with .Params.icon }}
             <img src="{{ . }}" class="rounded-circle" loading="lazy" style="border-radius: 50%; float: right; height: 30px" alt="Icon">
           {{ end }}

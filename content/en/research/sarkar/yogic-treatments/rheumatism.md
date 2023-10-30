@@ -7,9 +7,7 @@ icon: "/icons/sarkar.png"
 ---
 
 
-
-
-## Symptoms
+## Symptoms of Rheumatism
 
 - Swelling and contractures of the muscles or of different joints
 - Acute pain or deformity of the swollen parts, etc.
@@ -17,7 +15,7 @@ icon: "/icons/sarkar.png"
 ![Rheumatic part](/photos/med/rheuma.jpg)
 
 
-## Causes
+## Causes of Rheumatism
 
 The causes of this disease are just like those of acidity. It occurs when the váyu bodily air is disturbed due to excess of poisonous acids in the body.
 
@@ -35,7 +33,7 @@ The prescribed procedure for sun-bathing should be carefully followed, i.e., exp
 When the particular limb or the entire body, as the case may be, has become sufficiently warm, the patient should retire to the shade and wipe the area with a wet towel. This can be repeated several times.
 
 
-## Diet
+## Diet for Rheumatism
 
 Rheumatism is the consequence of the dominance of acid in a person’s system. 
 
@@ -50,12 +48,12 @@ Instead of cooked rice, it is better to take relatively dry food like rut́i at 
 But it is always better for rheumatism patients to take as little as possible starchy and acidic food such as rice, rut́i, luci, etc., and instead to take fruits, roots, vegetable soups, etc., which are alkaline.
 
 
-## Dos and don’ts
+## Dos and don’ts for Rheumatism
 
 Like acidity, special care must be taken to clear the bowels regularly.
 
 
-## Remedies
+## Remedies for Rheumatism
 
 All remedies prescribed for acidity are also applicable in this disease. 
 

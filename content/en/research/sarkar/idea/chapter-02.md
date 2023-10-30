@@ -37,6 +37,8 @@ The Supreme Subject is the prime cause of all these objects. As the witnessing e
 
 ## Subtilification (Pratisaiṋcara)
 
+![Bramacakra](/graphics/meta/bramacakra.jpg)
+
 Subtilification is:
 - the movement from these multiplicities towards the supreme multiple
 - a synthetic movement

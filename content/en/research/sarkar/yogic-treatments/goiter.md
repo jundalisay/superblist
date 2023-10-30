@@ -10,14 +10,14 @@ icon: "/icons/sarkar.png"
 
 
 
-## Symptoms 
+## Symptoms of Goiter
 
 Inflammation of different glands and their surrounding areas, with simultaneous throbbing pain (this does not mean that pain will accompany the swelling in every case
 
 In chronic cases it is natural for there to be no pain); occasional fever, and aggravation of the swelling during the fever, are the symptoms of this disease.
 
 
-## Causes
+## Causes of Goiter
 
 1. The liver and the spleen become weak due to chronic fever, and as a result, the immune defenses of the blood and lymph become diminished. 
 
@@ -35,7 +35,7 @@ Morning – Utkśepa Mudrá, Karmásana, Ud́d́ayana Mudrá, Mayúrásana
 Evening – Sarváuṋgásana, Matsyamudrá, Agnisára Mudrá and Matsyendrásana. The patient has to observe carefully the procedures for sun-bathing, drinking water and fasting (see Appendix.) -->
 
 
-## Diet
+## Diet of Goiter
 
 With this disease, iodine-containing foods such as milk and fruit should be taken in sufficient quantity. The best foods are:
 - bananas
@@ -49,7 +49,7 @@ With this disease, iodine-containing foods such as milk and fruit should be take
 The patient must also pay careful attention to the regular clearance of the bowels.
 
 
-## Dos and don’ts
+## Dos and don’ts of Goiter
 
 This disease is common in the interior part of a country than on the sea-coast. The patient should go to some sea-coast for a change of air since there is a lot of iodine in sea water and the air near the coast is full of iodine.
 

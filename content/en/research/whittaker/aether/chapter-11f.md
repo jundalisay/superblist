@@ -4,36 +4,51 @@ heading:  "Chapter 11d"
 weight: 106
 contributors: ['Whittaker']
 image:  "/covers/history.jpg"
-description: ""
+description: "In Weber's theory, electric phenomena were attributed to the agency of stationary or moving charges, which could most readily be pictured as having a discrete and atom-like existence"
 ---
 
 
 
 In Weber's theory, electric phenomena were attributed to the agency of stationary or moving charges, which could most readily be pictured as having a discrete and atom-like existence. 
 
-The conception of displacement, on the other hand, which lay at the root of the Maxwellian theory, was more in harmony with the representation of electricity as something of a continuous nature. 
+The conception of displacement was at the root of the Maxwellian theory. It represented electricity as having a continuous nature. 
 
-Maxwell's views met with increasing acceptance, the atomistic hypothesis seemed to have entered on a period of decay. Its revival was due largely to the advocacy of Helmholtz[58] who, in a lecture delivered to the Chemical Society of London in 1881, pointed out[59] that it was thoroughly in accord with the ideas of Faraday,[60] on which Maxwell's theory was founded.
+Maxwell's views met with increasing acceptance. The atomistic hypothesis entered on a period of decay.
 
-He said: "If we accept the hypothesis that the elementary substances are composed of atoms, we cannot avoid concluding that electricity also, positive as well as negative, is divided into definite elementary portions which behave like atoms of electricity."
+Its revival was due largely to the advocacy of Helmholtz who, in a lecture delivered to the Chemical Society of London in 1881, pointed out that it was thoroughly in accord with the ideas of Faraday, on which Maxwell's theory was founded.
+
+{{< q a="Helmholtz" >}}
+If we accept the hypothesis that the elementary substances are composed of atoms, we cannot avoid concluding that electricity also, positive as well as negative, is divided into definite elementary portions which behave like atoms of electricity.
+{{< /q >}}
+
 
 When the conduction of electricity is considered in the light of this hypothesis, it seems almost inevitable to conclude that the process is of much the same character in gases as in electrolytes. 
 
-Before long this view was actively maintained. It had indeed long been known that a compound gas might be decomposed by the electric discharge; and that in some cases the constituents are liberated at the electrodes in such a way as to suggest an analogy with electrolysis. The question had been studied in 1861 by Adolphe Perrot, who examined[61] the gases liberated by the passage of the electric spark through steam. 
+Before long, this view was actively maintained. 
 
-He found that while the product of this action was a detonating mixture of hydrogen and oxygen, there was a decided preponderance of hydrogen at one pole and of oxygen at the other
+It had long been known that:
+- a compound gas might be decomposed by the electric discharge
+- in some cases the constituents are liberated at the electrodes in such a way as to suggest an analogy with electrolysis
 
-The analogy of gaseous conduction to electrolysis was applied by W. Giese,[62] of Berlin, in 1882, in order to explain the conductivity of the hot gases of flames. "It is assumed," he wrote, "that in electrolytes, even before the application of an external electromotive force, there are present atoms or atomic groups—the ions, as they are called—which originate when the molecules dissociate; by these the passage of electricity through the liquid is effected, for they are set in motion by the electric field and carry their charges with them. We shall now extend this hypothesis by assuming that in gases also the property of conductivity is due to the presence of ions. 
+The question had been studied in 1861 by Adolphe Perrot. He examined the gases liberated by the passage of the electric spark through steam. 
+- He found that while the product of this action was a detonating mixture of hydrogen and oxygen, there was a decided preponderance of hydrogen at one pole and of oxygen at the other
 
-Such ions may be supposed to exist in small numbers in all gases at the ordinary temperature and pressure; and as the temperature rises their numbers will increase."
+The analogy of gaseous conduction to electrolysis was applied by W. Giese, of Berlin in 1882, in order to explain the conductivity of the hot gases of flames. 
 
-Ideas similar to this were presented in a general theory of the discharge in rarefied gases, which was devised two years later by Arthur Schuster, of Manchester.[63] 
+{{< q a="Giese" >}}
+In electrolytes, even before the application of an external electromotive force, there are present atoms or atomic groups—the ions, as they are called—which originate when the molecules dissociate; by these the passage of electricity through the liquid is effected, for they are set in motion by the electric field and carry their charges with them. We shall now extend this hypothesis by assuming that in gases also the property of conductivity is due to the presence of ions. Such ions may be supposed to exist in small numbers in all gases at the ordinary temperature and pressure; and as the temperature rises their numbers will increase.
+{{< /q >}}
 
-Schuster remarked that when hot liquids are maintained at a high potential, the vapours which rise from them are found to be entirely free from electrification, from which he inferred that a molecule striking an electrified surface in its rapid motion cannot carry away any part of the charge, and that one molecule cannot communicate electricity to another in an encounter in which both molecules remain intact.
 
-Thus he was led to the conclusion that dissociation of the gaseous molecules is necessary for the passage of electricity through gases.[64]
+Arthur Schuster, of Manchester presented a general theory of the discharge in rarefied gases 2 years later.
 
-Schuster advocated the charged particle theory of cathode rays, and by extending and interpreting an experiment of Hittorf's was able to adduce strong evidence in its favour. He placed the positive and negative electrodes so close to each other that at very low pressures the Crookes' dark space extended from the cathode to beyond the anode. 
+Schuster remarked that when hot liquids are maintained at a high potential, the vapours which rise from them are found to be entirely free from electrification. From this he inferred that:
+- a molecule striking an electrified surface in its rapid motion cannot carry away any part of the charge, and
+- one molecule cannot communicate electricity to another in an encounter in which both molecules remain intact.
+
+Thus he concluded that dissociation of the gaseous molecules is necessary for the passage of electricity through gases.
+
+Schuster advocated the charged particle theory of cathode rays. By extending and interpreting an experiment of Hittorf's, he was able to adduce strong evidence in its favour. He placed the positive and negative electrodes so close to each other that at very low pressures the Crookes' dark space extended from the cathode to beyond the anode.
 
 In these circumstances it was found that the discharge from the positive electrode always passed to the nearest point of the inner boundary of the Crookes' dark space—Which, of course, was in vessel; the opposite direction to the cathode. Thus, in the neighbourhood of the positive discharge, the current was flowing in two opposite directions at closely adjoining places; which could scarcely happen unless the current in one direction were carried by particles moving against the lines of force by virtue of their inertia,
 
@@ -63,10 +78,7 @@ Its discoverer suggested that it might prove to represent the long-sought-for lo
 
 A suggestion which was put forward later in the year by E. Wiechert[76] and Sir George Stokes,[77] to the effect that the rays are pulses generated in the aether when the glass of the discharge tube is bombarded by the cathode particles, is not really distinct from Schuster's hypothesis; for ordinary white light likewise consists of pulses, as Gouy[78] had shown, and the essential feature which distinguishes the Röntgen pulses is that the harmonic vibrations into which they can be resolved by Fourier's analysis are of very short period.
 
-The rapidity of the vibrations explains the failure of all attempts to refract the X-rays. For in the formula
-
-
-of the Maxwell-Sellmeier theory,[79] n denotes the frequency, and so is in this case extremely large; whence we have
+The rapidity of the vibrations explains the failure of all attempts to refract the X-rays. For in the formula of the Maxwell-Sellmeier theory,[79] n denotes the frequency, and so is in this case extremely large; whence we have
 
 
 i.e., the refractive index of all substances for the X-rays is unity. In fact, the vibrations alternate too rapidly to have an effect on the sluggish systems which are concerned in refraction.
@@ -91,7 +103,9 @@ During the year which followed their discovery, the X-rays were so thoroughly ex
 
 Lecturing at the Royal Institution on April 30th, 1897, J. J. Thomson advanced a new suggestion to reconcile the molecular-torrent hypothesis with Lenard's observations of the passage of cathode rays through material bodies. 
 
-"We see from Lenard's table," he said, "that a cathode ray can travel through air at atmospheric pressure a distance of about half a centimetre before the brightness of the phosphorescence falls to about half its original value. Now the mean free path of the molecule of air at this pressure is about 10-5 cm., and if a molecule of air were projected it would lose half its momentum in a space comparable with the mean free path. Even if we suppose that it is not the same molecule that is carried, the effect of the obliquity of the collisions would reduce the momentum to hall in a short multiple of that path.
+"We see from Lenard's table," he said, "that a cathode ray can travel through air at atmospheric pressure a distance of about half a centimetre before the brightness of the phosphorescence falls to about half its original value. Now the mean free path of the molecule of air at this pressure is about 10-5 cm., and if a molecule of air were projected it would lose half its momentum in a space comparable with the mean free path. 
+
+Even if we suppose that it is not the same molecule that is carried, the effect of the obliquity of the collisions would reduce the momentum to hall in a short multiple of that path.
 
 "Thus, from Lenard's experiments on the absorption of the rays outside the tube, it follows on the hypothesis that the cathode rays are charged particles moving with high velocities that the size of the carriers must be small compared with the dimensions of ordinary atoms or molecules.[86] 
 
@@ -99,14 +113,17 @@ The assumption of a state of matter more finely subdivided than the atom of an e
 
 Thomson's lecture drew from FitzGerald[87] the suggestion that "we are dealing with free electrons in these cathode rays"—a remark the point of which will become more evident when wo come to consider the direction in which the Maxwellian theory was being developed at this time.
 
-Shortly afterwards Thomson himself published an account[88] of experiments in which the only outstanding objections to the charged-particle theory were removed. The chief of these was Hertz' failure to deflect the cathode rays by an electrostatic field. Hertz had caused the rays to travel between parallel plates of metal maintained at different potentials; but Thomson now showed that in these circumstances the rays generate ions in the rarefied gas, which settle on the plates, and annul the electric force in the intervening space. By carrying the exhaustion to a much higher degree, he removed this source of confusion, and obtained the expected deflexion of the rays.
+Shortly afterwards Thomson himself published an account[88] of experiments in which the only outstanding objections to the charged-particle theory were removed. The chief of these was Hertz' failure to deflect the cathode rays by an electrostatic field. 
+
+Hertz had caused the rays to travel between parallel plates of metal maintained at different potentials; but Thomson now showed that in these circumstances the rays generate ions in the rarefied gas, which settle on the plates, and annul the electric force in the intervening space. By carrying the exhaustion to a much higher degree, he removed this source of confusion, and obtained the expected deflexion of the rays.
 
 The electrostatic and magnetic deflexions taken together suffice to determine the ratio of the mass of a cathode particle to the charge which it carries. For the equation of motion of the particle is
 
 
-where r denotes the vector from the origin to the position of the particle; E and H denote the electric and magnetic forces; e the charge, m the mass, and v the velocity of the particle. By observing the circumstances in which the force eE, due to the electric field, exactly balances the force e[v.H], due to the magnetic field, it is possible to determine v; and it is readily seen from the above equation that a measurement of the deflexion in the magnetic field supplies a relation between v and m/e; so both v and m/e may be determined.
+where r denotes the vector from the origin to the position of the particle; E and H denote the electric and magnetic forces; e the charge, m the mass, and v the velocity of the particle. 
+
+By observing the circumstances in which the force eE, due to the electric field, exactly balances the force e[v.H], due to the magnetic field, it is possible to determine v; and it is readily seen from the above equation that a measurement of the deflexion in the magnetic field supplies a relation between v and m/e; so both v and m/e may be determined.
 
 Thomson found the value of m/e to be independent of the nature of the rarefied gas: its amount was 10-7 (grammes/electromagnetic units of charge), which is only about the thousandth part of the value of m/e for the hydrogen atom in electrolysis.
 
-If the charge were supposed to be of the same order of magnitude as that on an electrolytic ion, it would be necessary to conclude that the particle whose mass was thus measured is much smaller than the atom, and the conjecture might be entertained that it is the primordial unit or corpuscle of which all atoms are ultimately composed.[89]
-
+If the charge were of the same order of magnitude as that on an electrolytic ion, it would be necessary to conclude that the particle whose mass was thus measured is much smaller than the atom, and the conjecture might be entertained that it is the primordial unit or corpuscle of which all atoms are ultimately composed.

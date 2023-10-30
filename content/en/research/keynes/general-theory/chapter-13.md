@@ -1,6 +1,6 @@
 ---
 title: "The General Theory of the Rate of Interest"
-heading: "Chapter 12"
+heading: "Chapter 13"
 image: "/covers/general.jpg"
 description: "According to Keynes, the interest rate is based on the love for cash"
 # date: 2020-11-09
@@ -139,4 +139,3 @@ This is closely analogous to <!-- what we have already discussed at some length 
 - Thus the expectations of the future of the rate of interest as fixed by mass psychology have their reactions on liquidity-preference.
 
 Those betting on cash and those betting against cash creates a balance as the market price.
-

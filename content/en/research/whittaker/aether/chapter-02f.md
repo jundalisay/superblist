@@ -10,12 +10,12 @@ description: ""
 
 Regarding the physical nature of electricity, Benjamin Franklin held the same ideas as his contemporaries.
 
-He pictured it as an elastic[37] fluid, consisting of "particles extremely subtle that it can permeate common matter, even the densest metals, with such ease and freedom as not to receive any perceptible resistance." 
+He pictured it as an elastic fluid, consisting of particles extremely subtle that it can permeate matter, even the densest metals, with such ease and freedom as not to receive any perceptible resistance.
 
 But he did not believe that all electrical repulsions are caused by the diffusion of effluvia from the excited electric to the body acted on.
 <!-- He departed, however, from the conceptions of his predecessors, who were accustomed to  -->
 - The tickling sensation experienced when a charged body is brought near to the human face was attributed to a direct action of the effluvia on the skin. 
-- This doctrine practically ended with Franklin. 
+- This doctrine practically ended with Franklin.
 
 It bears a suggestive resemblance to that which nearly a century later was introduced by Faraday.
 
@@ -49,19 +49,19 @@ He writes,[41]: “Thus, the stream of a fountain, naturally dense and continual
 
 In order to account for the attraction between oppositely charged bodies, in one of which there is an excess of electricity as compared with ordinary matter, and in the other an excess of ordinary matter as compared with electricity, he assumed that "though the particles of electrical matter do repel each other, they are strongly attracted by all other matter", so that "common matter is as a kind of spunge to the electrical fluid."
 
-These repellent and attractive powers he assigned only to the actual (vitreous) electric fluid; and when later on the mutual repulsion of resinously electrified bodies became known to him,[42] it caused him considerable perplexity.[43] As we shall sec, the difficulty was eventually removed by Aepinus.
+These repellent and attractive powers he assigned only to the actual (vitreous) electric fluid; and when later on the mutual repulsion of resinously electrified bodies became known to him, it caused him considerable perplexity. The difficulty was eventually removed by Aepinus.
 
 Franklin believed in the power of electricity to act at a distance. But he did not abandon the doctrine of effluvia:
 
-"The form of the electrical atmosphere,[44] is that of the body it surrounds. This shape may be rendered visible in a still air, by raising a smoke from dry rosin dropt into a hot teaspoon, under the electrified body, which will be attracted, and spread itself equally on all sides, covering and concealing the body.
+"The form of the electrical atmosphere, is that of the body it surrounds. This shape may be rendered visible in a still air, by raising a smoke from dry rosin dropt into a hot teaspoon, under the electrified body, which will be attracted, and spread itself equally on all sides, covering and concealing the body.
 
 This form it takes, because it is attracted by all parts of the surface of the body, though it cannot enter the substance already replete. Without this attraction, it would not remain round the body, but dissipate in the air." 
 
-He observed, however, that electrical effluvia do not seem to affect, or be affected by, the air; since it is possible to breathe freely in the neighbourhood of electrified bodies; and moreover a current of dry air does not destroy electric attractions and repulsions.[45]
+He observed, however, that electrical effluvia do not seem to affect, or be affected by, the air since it is possible to breathe freely near electrified bodies. A current of dry air does not destroy electric attractions and repulsions.[45]
 
 Regarding the suspected identity of electricity with the matter of heat, as to which Nollet had taken the affirmative position, Franklin expressed no opinion. 
 
-"Common fire [46] is in all bodies, more or less, as well as electrical fire. Perhaps they may be different modifications of the same element; or they may be different elements. The latter is by some suspected. If they are different things, yet they may and do subsist together in the same body."
+"Common fire is in all bodies as well as electrical fire. Perhaps they are different modifications of the same element. Or they may be different elements. The latter is by some suspected. If they are different things, yet they may and do subsist together in the same body."
 
 Franklin's work did not at first receive the attention which it deserved from European philosophers. Watson generously tried to make his merits known[47].  He inserted some of Franklin's letters in one of his own papers communicated to the Royal Society. 
 
@@ -74,4 +74,3 @@ The success of a plan proposed by Franklin for drawing lightning from the clouds
 Nollet, who was obdurate, "lived to see himself the last of his sect, except Monsieur B— of Paris, his élève and immediate disciple."[48]
 
 The theory of effluvia was finally overthrown and replaced by action at a distance by the labours of Francis Ulrich Theodore Aepinus[49] (b. 1724, d. 1802), one of Franklin's continental followers. 
-

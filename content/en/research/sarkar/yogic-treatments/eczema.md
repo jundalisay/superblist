@@ -9,7 +9,7 @@ icon: "/icons/sarkar.png"
 
 
 
-## Symptoms
+## Symptoms of Eczema
 
 - The secretion of fluids from sores
 - itching, burning and throbbing
@@ -19,7 +19,7 @@ icon: "/icons/sarkar.png"
 - the eating away of the body down to the bones in extreme cases
 
 
-## Causes
+## Causes of Eczema
 
 When the chyle, blood, flesh and fat, these four elements, all become disturbed, eczema appears. That is why this disease is worse and more harmful than leucoderma, or white leprosy. 
 
@@ -31,12 +31,12 @@ As a result of the continuous combat between the white blood cells and the eczem
 Morning – Diirgha Prańáma, Yogamudrá, Bhújauṋgásana, Agnisára Mudrá, Padahastásana and Shiitalii Kumbhaka.
 Evening – Matsyendrásana, Utkat́a Vajrásana and Kúrmakásana. -->
 
-## Diet
+## Diet for Eczema
 
 All kinds of light, digestible and nutritious food, except sweets and non-vegetarian foods, can be taken by the patient. The patient should also consume sufficient water without fail. Fasting is to be observed on Ekádashii, Púrńimá and Amávasyá days.
 
 
-## Dos and don’ts
+## Dos and don’ts for Eczema
 
 Eczema patients must stay away from foods which cause dysentery or constipation. The diseased areas should also be given a daily sun-bath. Till the disease is completely cured, the temptation to take non-vegetarian food and intoxicants should be overcome.
 

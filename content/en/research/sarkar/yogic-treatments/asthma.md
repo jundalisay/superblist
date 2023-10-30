@@ -36,16 +36,32 @@ Evening – Sarváuṋgásana, Pashcimottánásana, Yogamudrá, Bhastriká
 
 For breakfast patients should eat local sweet or sour fruits, or meoyá fruits soaked in water for a few hours. A little lemon juice should be consumed a number of times during the day. 
 
-The patient should never completely fill the stomach. The bowels should be cleared carefully, because constipation aggravates asthma. As for food, a small quantity of hot boiled rice or rut́i, together with sufficient leafy-vegetable soup, milk, curd (yogurt) or curd-water should be used. In fact all alkaline foods are beneficial in this disease. Ghee, oil, rice, pulses, rut́is, and all non-vegetarian foods are acidic, therefore the less these are taken the better.
+The patient should never completely fill the stomach. The bowels should be cleared carefully, because constipation aggravates asthma.
+
+A small quantity of hot boiled rice or rut́i, together with sufficient leafy-vegetable soup, milk, curd (yogurt) or curd-water should be used. 
+
+All alkaline foods are beneficial in this disease. 
+
+Ghee, oil, rice, pulses, rut́is, and all non-vegetarian foods are acidic, therefore the less these are taken the better.
 
 
 ## Dos and don’ts
 
-Milk should be the main drink for asthma patients. It is better for them to finish the evening meal as early as possible, certainly by an hour and a half after sunset, that is, by 7:30 or 8 PM, because it will keep the stomach light, having digested the food well before dawn. Then acute asthmatic spasms cannot occur. Remember that asthmatic spasms cannot occur when one’s stomach hungers for food, so in a severe attack of asthma, the more one fasts, the better.
+Milk should be the main drink for asthma patients. 
 
-Asthma patients should strictly abstain from all sorts of intoxicants. Anyone who drinks less than three-fourths seer of milk a day should not drink even one cup of tea. Also, all non-vegetarian types of food are to rejected.
+It is better for them to finish the evening meal as early as possible, certainly by an hour and a half after sunset, that is, by 7:30 or 8 PM, because it will keep the stomach light, having digested the food well before dawn. Then acute asthmatic spasms cannot occur. 
 
-For a person who cannot avoid eating non-vegetarian food, a little soup of small and freshly-caught fish is permissible. In those countries where it is almost impossible to obtain vegetarian types of food, patients should use myrobalan or some other laxative agent after meals in order to save themselves from constipation. Sweet and fried foods are also harmful for asthma patients. In summer, winter and in all seasons, patients should take a long walk in the open air.
+Asthmatic spasms cannot occur when one’s stomach hungers for food, so in a severe attack of asthma, the more one fasts, the better.
+
+Asthma patients should strictly abstain from all sorts of intoxicants. Anyone who drinks less than 3/4 seer of milk a day should not drink even one cup of tea. Also, all non-vegetarian types of food are to rejected.
+
+For a person who cannot avoid eating non-vegetarian food, a little soup of small and freshly-caught fish is permissible. 
+
+In those countries where it is almost impossible to obtain vegetarian types of food, patients should use myrobalan or some other laxative agent after meals in order to save themselves from constipation. 
+
+Sweet and fried foods are also harmful for asthma patients. 
+
+In summer, winter and in all seasons, patients should take a long walk in the open air.
 
 
 ## Remedies
