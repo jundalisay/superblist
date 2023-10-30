@@ -16,7 +16,7 @@ The weight of the Earth is caused by the force that unites all its parts and mak
 - size and
 - solidity.
 
-This force is made up of the parts of the small heaven [air-aether] surrounding it. This external air-aether rotates faster than the air-aether inside the Earth.  
+This force is made up of the air-aether of the small gravitational field surrounding it. This external air-aether rotates faster than the air-aether inside the Earth.  
 
 The parts of the <!-- small heaven --> aether surrounding the earth-aether turns much faster than its parts around its center. This causes them to move away from its center with more force. 
 

@@ -15,50 +15,69 @@ Why can't we sense the aether? <!-- air compared to other bodies?  -->
 
 If we could sense it, we will free ourselves from an error with which we have had since childhood, when we believed that there were no other bodies around us except those that could be sensed. 
 
-Thus that, if <!-- air --> the aether were one of them, then, <!-- because --> we would sense it so very faintly that it could not be <!--  at least could not be --> as material nor as solid as those other bodies [matter] that we sense more clearly.[15]
+Thus, if <!-- air --> the aether were one of them, then <!-- because --> we would sense it so very faintly that it could not be <!--  at least could not be --> as material nor as solid as those other bodies [matter] that we sense more clearly.[15]
 
 
-### The Aether Fills All
+### Property 1: The Aether Fills All
 
 All bodies, both hard and liquid, are made from the same <!-- matter --> aether. 
 
-It is impossible to conceive of the parts of that aether <!-- matter --> that are more solid or occupying less space than when they are compacted <!--  each of them is touched on all sides by the others surrounding it -->. It follows that liquid bodies have void*, if there can be a void anywhere, but hard bodies do not. Because of this void, the parts of the liquid can much more easily press and arrange themselves against one another than those of hard bodies.
+The aether is most solid and occupies the least space when they are compacted -- where each part is touched on all sides by the others that surround it.
 
+It follows that:
+- liquid bodies have void* if there can be a void anywhere
+- hard bodies do not have void. 
+
+Because of this void, the particles of the liquid can much more easily press and arrange themselves against one another than those of hard bodies.
 
 > *Superphysics note: Here, the aether-void is one of the properties of the aether 
 
 
 For example, if you place powder in a jar, you can shake the jar and pound against it to make room for more powder. But, if you pour liquid into it, the liquid spontaneously arranges itself in as small a place as one can put it. 
 
-
-
-
-<!-- By the same token, if you consider in this regard some of the  the -->
-
 Philosophers do experiments to show that there is no void in nature[16]. 
 
 In all spaces that people think are empty and only have air, there is actually the same <!-- matter --> aether that we use to sense <!-- are at least as full, and as full of the same matter, as those where we sense --> other bodies.
 
+
+### Property 1b: Voids Need to be Filled
+
 Why would nature cause the heaviest aethereal bodies to rise and the most solid aethereal bodies to break? 
 
-Nature does this in certain machines which have parts that do not touch one another yet keep the machine in operation. 
+Nature does this in certain machines which have particles that do not touch one another yet keep the machine in operation. 
 
 <!-- --as one experiences her doing in certain machines, rather than to suffer that any of their parts should cease to touch one another or to touch some other bodies--and yet permit the parts of air--which are so easy to bend and to be arranged in all manners--to remain next to one another without being touched on all sides, or even without there being another body among them that they touch?  -->
 
-Water in a well does not go up to fill the pipe of a pump without a void in that pipe. Likewise, the water in clouds do not fall to fill the ground if that ground were not void of water.  <!-- , if there were even some little void among the parts of the bodies that they contain? -->[17]
+Water in a well goes up the pipe of a pump because of a void in that pipe. Likewise, the water in clouds fall in order to fill the ground that is void of water.  <!-- , if there were even some little void among the parts of the bodies that they contain? -->[17]
 
-Liquids only move because there is some empty space among them, at least in the places where they left as a consequence of their <!-- mio from which they depart by virtue of their being in --> motion. 
+Liquids only move because there is some empty space among them, at least in the places where they left as a consequence of their <!-- mio from which they depart by virtue of their being in --> motion.
 
 <!-- The parts of   But you could propose to me here a rather considerable problem, to wit, that the parts composing  liquid bodies cannot move incessantly   , as I have said they do,  unless  -->
 
 
-This is explained by the circular motion of all the motions in the universe. <!-- I would have trouble responding to this, had I not recognized through various experiences that all the motions that take place in the world are in some way circular. --> When a body leaves its place, it always enters into that of another. The latter into that of still another, and so on down to the last which occupies in the same instant the place left open by the first.[18] 
+### Property 1c: The Filling Leads to Circular Motions
 
-Thus, there is no void among them both when they are moving and not moving. Circular motion does not mean a motion in a perfect circle. <!--  than when they are stopped. And note here that it is not thereby necessary that all the parts of bodies that move together be exactly disposed in the round, as in a true circle, nor even that they be of equal size and shape; for these inequalities can easily be compensated for by other inequalities to be found in their speed. -->
+This is explained by the circular motion of all the motions in the universe. <!-- I would have trouble responding to this, had I not recognized through various experiences that all the motions that take place in the world are in some way circular. --> 
 
-When bodies move in the air, we do not usually notice these circular motions because we are used to conceiving of the air only as an empty space. But look at fish swimming in a pool. if they do not approach too near to the surface of the water, they cause great speed. 
+When `Body 1` leaves `Place A`, it always enters into `Place B`. The body in `Place B` leaves and enters `Place C`, and so on until the last body occupies `Place A` in the same instant that it is left by `Body 1`.[18] 
 
-It shows that the water that they push before them does not push on all the water of the pool, but only the water which can  perfect the circle of the fishes' motion and return to the place they leave behind.[19] <!-- This experience suffices to show how these circular motions are easy for nature and familiar to her. -->
+Thus, there is no void among them both when they are moving and not moving. This circular movement does not mean a motion in a perfect circle. <!--  than when they are stopped. And note here that it is not thereby necessary that all the parts of bodies that move together be exactly disposed in the round, as in a true circle, nor even that they be of equal size and shape; for these inequalities can easily be compensated for by other inequalities to be found in their speed. -->
+
+We do not notice this circular movement because we are used to conceiving of the aether as an empty space.
+
+<!-- When bodies move in the air, we do not usually notice these circular motions because  -->
+
+But look at fish swimming in a pool. If they swim at the bottom of the water, they do not cause the water to move even if they swim at great speed. 
+
+This means that the water that they displace ahead of them is not pushed in all directions. Instead, the water only goes to fill the space that the fish left behind, in a circular motion. 
+
+<!-- push before them does not push on all the water of the pool, but only the water which can perfect the circle of the fishes' motion and return to the place they leave behind.[19]  -->
+
+<!-- This experience suffices to show how these circular motions are easy for nature and familiar to her. -->
+
+This shows the circular motions of Nature. 
+
+### Property 2: All Motions are Circular
 
 **All motions are circular.** When the wine in a cask does not flow through an opening at the bottom because the top is completely closed, it is improper to say that it is caused by horror vacui. 
 
@@ -68,7 +87,6 @@ The wine cannot leave the cask because:
 - outside, everything is as full as it can be
 - the wine cannot go down because that space is occupied by the air
   - that air has nowhere to go in the universe unless one opens the top of the cask and let the air enter as to allow the wine to take its place
-
 
 I do not want to make certain that there is no void at all in nature because:
 - my discourse would become too long if I explained the whole universe
@@ -103,8 +121,9 @@ So it is no wonder that there are many spaces around us where we sense nothing, 
 
 <!-- Here one should follow the common opinion of the philosophers, who all assure us that it is rarer, as one also easily recognizes from experience.  -->
 
+<!-- ### The Bodies Within the Aether -->
 
-### The Bodies Within the Aether
+### Property 2b: Gaps in the Aether Creates Perpetual Motion
 
 A drop of water that evaporates takes up more space than that occupied by the droplet because of the in-between space. It follows that the aether has a lot of in-between spaces. 
 

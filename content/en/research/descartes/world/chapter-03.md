@@ -35,12 +35,14 @@ The aether is the first mover which rolls around the universe at an incomprehens
 
 <!-- Now, in consequence of this consideration, there is a way of explaining the cause of all the changes that take place in the world and of all the variety that appears on the earth. However, I shall be content here to speak of those that serve my purpose. -->
 
-The difference between hard bodies and those that are liquids is the first thing I would like you to note. 
+Notice first the difference between hard and liquid bodies.
+ <!-- and those that are liquids is the first thing I would like you to note.  -->
 
 Every body can be divided into extremely small parts*. <!-- I do not wish to determine whether their number is infinite or not; at least it is certain that, with respect to our knowledge,  it is indefinite and that we can suppose that -->
-- There are several millions in the smallest grain of sand our eyes can perceive.
-- if two of these small parts are touching one another, without being in the act[12] of moving away from one another, some force is necessary to separate them, however small it may be. <!-- For, once so placed, they would never be inclined to dispose themselves otherwise. Note also that  -->
-- Twice as much force is necessary to separate two of them than to separate one of them. 1,000 times as much force is necessary to separate 1,0000 of them. 
+- There are several millions in the smallest grain of sand that our eyes can perceive.
+- if two of these small parts are touching one another, some force is necessary to separate them, however small it may be. <!-- , without being in the act[12] of moving away from one another, For, once so placed, they would never be inclined to dispose themselves otherwise. Note also that  -->
+  - Twice as much force is necessary to separate two of them than to separate one of them.
+  - 1,000 times as much force is necessary to separate 1,0000 of them. 
 
 > *Superphysics Note: The previous chapter explained quanta in movement. This chapter explains quanta in bodies which is the foundation for our quanum of aether, quanum of spacetime, quanum of light, etc  
 
