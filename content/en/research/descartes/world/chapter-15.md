@@ -11,69 +11,77 @@ icon: "/icons/descartes.png"
 ---
 
 
-How do the inhabitants of the aethereal Earth see their heliosphere as a whole like we physical Earthlings see our sky? 
+How do the inhabitants of the aethereal Earth see their stellar gravitational territory as a whole like we physical Earthlings see our sky? 
 
 First, they see the `sun` as completely full of light and like our sun. It sends rays from all points of its surface toward their eyes. Because it is much closer to them than the stars, it must appear much larger to them. 
 
-
-{{< img src="/graphics/physics/aetherspace.jpg" alt="Aether space" cap="Descartes explains gravitational lensing based on  the gravitational territories of each star instead of through Newtonian mass" >}}
-
-The small heliosphere `ABCD` turns around the Earth. 
+The planetary gravitational territory `ABCD` turns around the Earth. 
 - Its air-aether offers some resistance* to those rays from the sun. 
 
 > *Superphysics note: This resistance is now the magnetic field of the Earth.
 
+
+{{< img src="/graphics/physics/aetherspace.jpg" alt="Aether space" cap="Descartes explains gravitational lensing based on  the gravitational territories of each star instead of through Newtonian mass" >}}
+
+
+
 All the parts of the great heaven that are between `sun` and `D` strengthen the rays. 
 - This is why those that are between `D` and `earth`, being comparatively small in number, can take away only very little of their force from them.
 
-Even all the action of the air-aether of the large heliosphere `FGGF` is not enough to impede the rays of the many fixed stars from reaching the Earth.
+Even all the action of the air-aether of the stellar gravitational territory `FGGF` is not enough to impede the rays of the many fixed stars from reaching the Earth.
  <!-- from the sides not lit by the sun. -->
 
-The 'large heliospheres' are those with a sun or star at its center.
-- Solar systems can be rather unequal in size. 
-- But they must always be exactly of the same force so that all the air-aether in the line `sun-B` must tend as strongly towards the `moon` as that which is in the line `moon-B` tends toward `sun`. 
-<!-- `ε` -->
+The stellar gravitational territories are those with a sun or star at its center.
+- Those territories can be rather unequal in size. 
+- But they must always be exactly of the same force.
+  - In this way, all the air-aether in the line `sun-B` must tend as strongly towards the `alphacentauri` as that which is in the line `alphacentauri-B` tends toward `sun`. 
+  - This means that force of line `sun-B` is the same as the force of line `alphacentauri-B`
+- But the force of line `earth-B` is less than the force of `alphacentauri-B`.
+  - This means the force of line `earth-B` cannot prevent line `alphacentauri-B` from extending to `earth`
 
-If they do not have that equality among them, they will be destroyed in a short time, or at least they will change until they have acquired it.
+Likewise, `sirius` can extend its rays to `earth`
+- Line `sirius-2` helps it move to `earth` more than line `earth-4` resists it.
+- Line `2-3` helps it more than line `4-3` resists it.
 
-The whole force* of the ray `sun-B` is just exactly equal to that of the ray `moon-B`. 
+This is why the stars look disproportional and mixed up.
 
-<!-- > *Superphysics Note: This is now known as Newton's gravitational constant -->
-
-The force of the ray `earth-B` is less than the force of `sun-B`.
-- It cannot impede the force of the ray `moon-B`* to extend to `earth`. 
-
-> *Superphysics Note: This is now known as the pull of a moon on a planet.
+<!-- If they are not equal, they will be destroyed in a short time, or at least they will change until they have acquired it. -->
 
 
-In the same way, `sirius` can extend its rays to `earth`
+<!-- - It cannot impede the force of the ray `moon-B`* to extend to `earth`. 
+
+> *Superphysics Note: This is now known as the pull of a moon on a planet. -->
+
+
+<!-- In the same way, `sirius` can extend its rays to `earth`
 - The matter of the heaven between `sirius` and `2` aids them more than the matter between `4` and `earth` resists them.
 
 Likewise:
 - the matter between `3` and `4` aids the ray of `sirius` towards `earth`   
-- the matter between `3` and `2` resists the ray of `sirius` towards `earth`
+- the matter between `3` and `2` resists the ray of `sirius` towards `earth` -->
 
 <!-- , and in addition in as much as that between 3 and 4 aids them no less than that between 3 and 2 resists them.  -->
 
-Thus, those [aethereal] stars are the same as the physical stars that we see in the real world.
+<!-- Thus, those [aethereal] stars are the same as the physical stars that we see in the real world. -->
 <!-- judging others proportionately, those stars must appear no less confusedly arranged, nor less in number, nor less unequal to one another, than do those we see in the real world. -->
-- But in regard to their arrangement, they never appear in the true place where they are. 
+
+The stars never appear in their actual places. 
 
 For example:
 - `alphacentauri` appears as if it were in the straight line `earth-R`
 - `sirius` appears as if it were in the straight line `earth-4`.
 
-**This is because the heavens are unequal in size.** 
-- **The surfaces that separate them are arranged in a way that the rays that pass through them, from the stars toward the earth, never meet them at right angles.**
+**This is because the territories are unequal in size.** 
+- **The edges that separate them are arranged in a way that the rays that pass through them, from the stars toward the earth, always meet them obliquely, never at right angles.**
 
 <!-- just about never so disposed that  -->
 
-
-According to my demonstration in the Dioptrics [62], when the rays meet them obliquely, **there they must bend and undergo a great deal of refraction**.
-- It causes them to pass much more easily through one side of this surface than through the other. 
+This makes the light **bend and undergo a great deal of refraction**.
+- I demonstrated this in the Dioptrics
+- It causes them to pass much more easily through one side of the edge than through the other. 
 
 <!-- TB -->
-Those lines `earth-R`, `earth-4`, and ones like them are so extremely long compared to the diameter of Earth's orbit around the sun. 
+Those lines `earth-R`, `earth-4`, and ones like them are so extremely long compared to the diameter of the Earth's orbit around the sun.
 - This makes the Earthlings always see the stars as fixed in the firmament. 
 - **This is why astronomers say that they cannot observe parallax in the stars**.*
 
@@ -84,7 +92,7 @@ Those lines `earth-R`, `earth-4`, and ones like them are so extremely long compa
 
 ## Gravitational Lensing 
 
-The same star can often appear in different places because of the different surfaces that divert its rays toward the earth.
+The same star can often appear in different places because of the different edges that divert its rays toward the earth.
 
 For example, `sirius` appears simultaneously:
 - in the line `earth-4` because of the ray `sirius-2-4-earth` 
@@ -106,7 +114,7 @@ Stars appear much smaller than they are because of their extreme distance. This 
 Despite this, the less distant stars are about equal to our sun<!-- , in order to judge that they can appear as large as the largest of our world -->.
 
 
-## Surfaces
+## Edges
 
 Generally, the bodies that send out stronger rays appear larger to the eyes of observers than the surrounding bodies with weaker ones.
 - Consequently, such stars seem larger than the parts of their heavens that are nearby and equal to them [in size].
@@ -136,8 +144,7 @@ Some even begin suddenly to appear or disappear, just as one has seen happen in 
 
 
 
-The planets and the comets that are in the heaven of our sun are made up of <!--  that are in the same heaven as the sun, knowing that the parts of the --> aethereal earth.
-- This has parts <!-- of which they are composed are --> so large or so joined severally together that they can resist the action of light.
+The planets and the comets that are in our sun's territory are made up of earth-aether that can be so large as to resist the action of light.
 - This is why they are made visible by the rays of the sun by reflection.
   - This is similar to opaque objects in our room being visible to us throught the rays of a lamp.
 
@@ -146,21 +153,22 @@ The rays of a lamp are weakened the farther the objects are from it, in proporti
 - The resistance of the air also adds to the weakening. 
 - This makes the objects near the lamp more lit than those far from it
 
-The rays of the sun, however, conserve their force with distance. 
-- They are even increasingly strengthened as they move away from the sun until they have reached the exterior surface of its heaven.
-  - This is because all the matter of that heaven tends towards that surface.
-- In contrast to the objects lit by the lamp, the planets near the sun are not more lit by the sun than the farthest planets or comets. 
+The rays of the sun, however, conserve their force with distance.
+- They are even increasingly strengthened as they move away from the sun until they have reached the edges of its territory.
+  - This is because all of the air-aether of the sun's territory tends towards the edges.
+- In contrast to the objects lit by the lamp, the planets near the sun are just as lit by the sun as the farthest planets or comets.
 
 <!-- The same thing also happens in the real world. I do not believe, however, that it is possible to give a reason for it if one supposes that light is anything in the objects other than an action or disposition such as I have set forth.  -->
 
-Light is an action or disposition.
+Light is an action or disposition in objects [that is carried by the air-aether]. 
 
-If the space where the sun is were totally void, then the parts of its heaven would continuously tend toward our eyes in the same way as when those parts are pushed by its matter (even with almost as much force).
+If the space where the sun is were totally empty, then its territory's air-aether would continuously tend toward our eyes in the same way as when that light is pushed by its fire-aether (even with almost as much force).
 
+There is no need for the Sun to act to shine to send its light to us. Pure space [air-aether] is all that is needed for us to see the light from the sun. 
 
-There is just about no need to have any action in the sun itself nor just about even for it to be anything other than pure space in order to appear as we see it. 
+  <!-- just about no need to have any action in the sun itself nor just about even for it to be anything other than pure space in order to appear as we see it.  -->
 
 This might seem paradoxical. 
 
-The rotation of the planets makes them twinkle, but much weaker and in another way than the fixed stars do.
+The rotation of the planets makes them twinkle, but much weaker and in another way than the stars do.
 - The moon does not rotate and so it does not twinkle.

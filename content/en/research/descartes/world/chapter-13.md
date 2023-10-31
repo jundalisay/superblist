@@ -14,6 +14,7 @@ Bodies that revolve always tend to move away from the centers that they revolve 
 
 <!-- Here, however, I must determine more specifically in what directions the parts of the matter of which the heavens and the stars are composed do tend.[54] -->
 
+
 ## Cartesian Inertia as Inherent Motion 
 
 A body that 'tends' towards some direction does not mean that there is a thought or desire inside the body that carries it there. Instead, it means that:

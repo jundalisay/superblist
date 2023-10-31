@@ -10,36 +10,32 @@ icon: "/icons/descartes.png"
 
 
 
-Thus, the weight of the parts of this Earth is caused by the motion of the stellar-air-aether in their pores.
+Weight on Earth is caused by the motion of the air-aether on the pores of bodies.
 
-The Moon also affects the motion of the Earth. 
+The Moon also affects this motion on the Earth. 
 
+Assume that the moon is stationary at `B` relative to the air-aether below it. This air-aether has less space to pass through between `O` and `6` than between `B` and `6` (if the moon does not occupy the space between `O` and `B`).
 
 ![The Moon](/graphics/physics/world-11.jpg)
 
-Assume that the moon is immobile at `B` relative to the air-aether below it.
-
-This air-aether has less space to pass through between `O` and `6` than between `B` and `6` (if the moon does not occupy the space between `O` and `B`).
-
-Consequently, this air-aether has to move a bit faster there.
-- It must have the force to push the whole Earth a little bit toward `D`, so that its center `T` moves away a little bit 
+Consequently, this air-aether has to move a bit faster between `O` and `6`.
+- It pushes the whole Earth a little bit towards `D`, so that its center `T` moves away a little bit from the center of the planetary gravitational territory `ABCD`. 
 <!-- from point `M`, which is the center of the small heaven ABCD.  -->
 
 This is because:
 - only the air-aether keeps the Earth where it is. 
 - the air `5678` and the water `1234` surrounding this earth are liquid* bodies.
 
-
-> *Superphysics Note: This is the water-aether or the Reactive Layer in Superphysics
+<!-- > *Superphysics Note: This is the water-aether or the Reactive Layer in Superphysics -->
 <!-- For nothing but the course alone of the matter of that heaven maintains the earth in the place where it is. And, because  -->
 
-This same force that presses the earth also make the Earth's liquids sink toward `T` from the side `6,2` and also from its opposite `8,4`
-- In recompense, it causes them to rise in `5,1` and `7,3`.
+This same force that presses the earth also make the Earth's liquids sink toward `T` from the side `6, 2` and also from its opposite `8, 4`
+- To compensate, they rise in `5, 1` and `7, 3`.
 
 The surface `EFGH` of the earth remains round because it is solid. 
 - But the liquid water `1234` and air `5678` form an oval.
 
-The earth is also turning rotating around its center.
+The earth is also rotating around its center.
 
  <!-- and by this means making the days that one divides up into 24 hours (like ours),  -->
 
@@ -62,7 +58,7 @@ Thus, it causes to advance little by little towards the East the points `1, 2, 3
 
 Hence, these waters do not change precisely every 6 hours, but rather lag behind by approximately 1/5 of an hour each time, as do those of our seas also.
 
-The small heaven `ABCD` is not exactly round.
+The planetary gravitational territory `ABCD` is not exactly round.
 - It extends a bit more freely at `A` and at `C`
 - There it moves proportionately more slowly than at `B` and `D`, where it cannot so easily break the course of the other air-aether containing it. 
 <!-- the matter of the other heaven -->
@@ -81,6 +77,6 @@ The other special properties of the ebb and flow of the sea depend in part on:
 - the prevailing winds 
 
 The other general motions of the earth, moon, the stars, and heavens can be understood from what I have said. 
-- Or they do not serve my purpose here,<!-- . ; --> not falling under the same heading as those of which I have spoken. They would take me too long to describe. 
+- Or they do not serve my purpose here, not falling under the same heading as those of which I have spoken. They would take me too long to describe. 
 
 Thus, I only have to explain this action of the heavens and the stars, as their light.

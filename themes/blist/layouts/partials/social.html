@@ -1,9 +1,12 @@
 <div class="{{ .Site.Params.ascentColor | default "bg-pink-50" }} dark:bg-gray-900" style="background-color: teal;">
   <div class="container px-4 py-12 mx-auto max-w-4xl grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
     <a href="/help" class="zoom-sm">
-      <div class="text-2xl font-bold text-white mb-2">{{ .Site.Params.homepage.social.title }}  &rarr;</div>
-      <p class="opacity-80 text-white">{{ .Site.Params.homepage.social.description }}</p>
+      <div class="text-2xl font-bold text-white mb-2">{{ i18n "follow" }} &rarr;</div>
+      <p class="opacity-80 text-white">{{ i18n "building" }}</p>
     </a>
+
+<!-- {{ .Site.Params.homepage.social.title }}
+{{ .Site.Params.homepage.social.description }} -->
 
     <ul class="flex justify-center gap-x-3 flex-wrap gap-y-2">
       {{range .Site.Params.homepage.social.icons}}
