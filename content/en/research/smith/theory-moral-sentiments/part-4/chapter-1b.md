@@ -3,7 +3,7 @@ title: "Public Welfare Systems"
 heading: "Chapter 1b"
 description: "Those institutions which promote the public welfare are frequently recommended by the same love of system"
 weight: 12
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---
@@ -49,7 +49,7 @@ On the contrary, the social and well-natured James I of Great Britain had no pas
 
 How would you drive the industry of an ambition-less man?
 
-He would not be moved even if you tell him that the rich are happy from not experiencing fatigue nor lack. But you can convince him if you explain to him= 
+He would not be moved even if you tell him that the rich are happy from not experiencing fatigue nor lack. But you can convince him if you explain to him:
 - the convenience and arrangement of the rooms in their palaces,
 - the propriety of their equipages, and
 - the number, order, and offices of all their attendants.
@@ -69,14 +69,14 @@ save them from=
 hunger and cold,
 want and weariness. -->
 
-In the same way, a non-patriotic person <!-- it will often be useless to tell a person, who lacks interest in his country, --> will not care about the superior advantages of a well-governed state. You will be more likely to persuade him if you= 
-- describe the great system of public police which procures these advantages, and
-- explain the connections and dependencies of its several parts= 
-- their mutual subordination to one another, and
-- their general subserviency to the society's happiness.
+In the same way, a non-patriotic person will not care about the superior advantages of a well-governed state.
 
-<!-- Such subjects are better lodged, clothed, and fed.
-These considerations will commonly make no great impression. -->
+You will be more likely to persuade him if you:
+- describe the great system of public police which procures these advantages, and
+- explain the connections and dependencies of its several parts: 
+  - their mutual subordination to one another, and
+  - their general subserviency to the society's happiness.
+
 
 Anyone would surely feel animated with public spirit if you show:
 - how this system might be introduced into his own country,

@@ -176,7 +176,7 @@ The pattern of desires then form the mentality of a person, technically as the '
 
 A person's mentality then leads to his actions in the physical dimension. Thus, by having desire as the root, it is easier to understand why and how 'mentality creates reality':
 
-{{< q a="hume" >}}
+{{< q a="David-Hume" >}}
 It is an established maxim in metaphysics, that whatever the mind clearly conceives, includes the idea of possible existence, or in other words, nothing we imagine is absolutely impossible.
 <cite>A Treatise of Human Nature, Book 1, Part 2, Section 2</cite>
 {{< /q >}}

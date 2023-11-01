@@ -3,7 +3,7 @@
 title: "How to Create Equality in Wages and Profits"
 heading: "Part 1e"
 weight: 64
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "The chance of loss is frequently under-valued and rarely valued more than it is worth"
 icon: "/avatars/smith.png"

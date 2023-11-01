@@ -4,7 +4,7 @@ heading: "Part 1d"
 weight: 10
 image: "/covers/wn.jpg"
 description: "History shows the superiority of a well-regulated standing army over a militia"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

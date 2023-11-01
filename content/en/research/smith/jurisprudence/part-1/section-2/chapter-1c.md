@@ -3,7 +3,7 @@ heading: Chapter 1c
 title: "Divorce"
 weight: 10
 # date: 2015-09-26
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Each person is a member of a family which is made up of 3 kinds of relations"
@@ -29,11 +29,14 @@ In the species of monogamy when divorce is in the hand of the magistrate, the ri
 
 If a wife has a land estate, the husband receives the rents, which are at his absolute disposal.
 If the wife die and leave a son, the husband is the natural guardian of it, and is entitled to a courtesy of the life-rent of his wife’s estate.
+
 In England the husband can dispose of all [his wife’s] chattels real in his lifetime, but if he do not dispose of them in his lifetime, they go to the wife, not to the heir at his death.
 
 All [her] chattels personal he can dispose of as he pleases.
 Debts on bonds are the same with chattels real.
+
 If the husband demands payment of the debt, he can dispose of the money as he pleases, but if he do not claim it in his lifetime, it goes to his wife after his death.
+
 If the wife die first, all chattels real and debts on bond go to her relations, if the husband have not already disposed of them.
 
 If the husband dies first, the wife has 1/3 of his land estate, whether there be children or not.
@@ -95,35 +98,58 @@ The effect of marriage is to legitimate the children.
 We must therefore consider the difference of legitimate and illegitimate.
 
 Legitimation gives the children inheritable blood, so that they can succeed to their father and his relations.
-An illegitimate child has no inheritable blood, and therefore cannot succeed to his father intestato,because it is unknown who is his father, nor to his mother, because no child succeeds that is not lawfully begotten.
+
+An illegitimate child has no inheritable blood. Therefore he cannot succeed to his father intestato because it is unknown who is his father, nor to his mother, because no child succeeds that is not lawfully begotten.
+
 As a bastard can succeed to nobody, so nobody can succeed to him3, as he is not related to any human creature.
-If he die intestate without children, his wife has one half of his moveables and one third of his land estate, and the rest goes to the king; but if he has children, the wife has a third of all4.
+If he die intestate without children, his wife has one half of his moveables and one third of his land estate, and the rest goes to the king; but if he has children, the wife has a third of all.
+
 The king is still considered as ultimus heres. In Scotland there is a further inconvenience attending it.
 As the king is the heir of bastards, a bastard is incapable of making a testament, because it would cut the king out of his right.
 
 The king can, however, grant him letters of legitimation which make him capable of testating, because, as the right of succession belongs to the king, he may dispose of it as he pleases.
+
 However, this, or anything less than an act of parliament, cannot give him inheritable blood, but an act of the whole legislature can do anything.
  
-The canon and civil law restore to blood a person born out of wedlock in the following ways1= —
-First, per subsequens matrimonium, or marrying the woman that had the children. As concubines were numerous, it was enacted that whoever married his concubine legitimated her children. This Justinian afterwards made perpetual.
-Secondly, per oblationem curiae.
+The canon and civil law restore to blood a person born out of wedlock in the following ways:
+
+1. Per subsequens matrimonium
+
+This is marrying the woman that had the children. Concubines were numerous. It was enacted that whoever married his concubine legitimated her children. 
+
+Justinian afterwards made this perpetual.
+
+2. Per oblationem curiae.
 
 When the children were willing to execute certain parish offices, as deacons2, etc., though this entitled them only to succeed to the father, and not to his relations.
-Thirdly, per adrogationem.
-As for example, one Roman could adopt the son of another, and the son accept of him as a father. They had it in their power to adrogate any free man.
 
-Bastards were considered as free men, and if they were willing to accept might be adrogated as such.
-Fourthly, per [re]scriptum principis, which was much the same with letters of legitimation.
-Fifthly, per testamentum, by which they probably succeeded only to their father’s estate.
+3. Per adrogationem.
+
+For example, one Roman could adopt the son of another. 
+
+The son accept of him as a father. They had it in their power to adrogate any free man.
+
+Bastards were considered as free men. If they were willing to accept might be adrogated as such.
+
+4. Per [re]scriptum principis
+
+This was much the same with letters of legitimation.
+
+5. Per testamentum
+
+by which they probably succeeded only to their father’s estate.
  
 The canon law introduced the *subsequens matrimonium* into all countries but England.
 
 The English clergy were then1 unpopular because they joined the king against the barons. So in England, the subsequens matrimonium never could be legitimate.
 - If ever it were legitimate, the canon law made some restrictions which were not implemented in Rome.
 
-Bastards of adulterous persons could not succeed, those, to wit, of a woman who has a husband alive, or of a concubine to a man whose wife is alive, though they should marry afterwards. Incestuous children also could not succeed, unless legitimated by a dispensation from the Pope.
+Bastards of adulterous persons could not succeed, those, to wit, of a woman who has a husband alive, or of a concubine to a man whose wife is alive, though they should marry afterwards.
+
+Incestuous children also could not succeed, unless legitimated by a dispensation from the Pope.
  
-Thus we have seen the disabilities and incapacities of illegitimate children, which can only have an effect where monogamy prevails;
-and indeed, these alone hinder polygamy from gaining ground in any country, because, if bastards were allowed to succeed, men would hardly subject themselves to the inconveniences of lawful marriage.
+The disabilities and incapacities of illegitimate children can only have an effect where monogamy prevails.
+
+These alone hinder polygamy from gaining ground in any country, because, if bastards were allowed to succeed, men would hardly subject themselves to the inconveniences of lawful marriage.
 
 To have a wife entirely in their power, and to take others when they please, would be more convenient.

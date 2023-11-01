@@ -1,7 +1,7 @@
 ---
 heading: Chapter 11b
 title: "Justifiable homicide"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Delicts are of two kinds ex dolo and ex culpa"

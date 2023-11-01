@@ -2,7 +2,7 @@
 title: "The Natural and Market Price of Commodities"
 heading: Chapter 7a
 weight: 32
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "In the rude state, price has one component--wages"
 icon: "/avatars/smith.png"

@@ -3,7 +3,7 @@ title: "The Morality from Utility"
 heading: "Chapter 2"
 description: "This beauty of characters from their usefulness strikes those who philosophically consider mankind's conduct"
 weight: 14
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---
@@ -114,7 +114,7 @@ He knows from experience, how few are capable of this self-command.
 He looks on our conduct with a considerable degree of wonder and admiration.
 Hence arises that natural eminent esteem of all men for a steady perseverance in frugality, industry, and application, even if directed only to acquire fortune.
 
-Our approbation is commanded by the person's resolute firmness to= 
+Our approbation is commanded by the person's resolute firmness to:
 - obtain a great but remote advantage,
 - give up all present pleasures, and
 - endure the greatest labour of mind and body.
@@ -122,10 +122,15 @@ Our approbation is commanded by the person's resolute firmness to=
 That view of his interest and happiness which regulate his conduct, exactly tallies with our natural idea of it.
 
 There is the most perfect correspondence between his sentiments and our own.
+
 At the same time, it is a correspondence which we could not reasonably have expected, from our experience of the common weakness of human nature.
+
 We approve and in some measure admire his conduct.
+
 We think it worthy of a considerable degree of applause.
+
 It is the consciousness of this merited approbation and esteem which alone is capable of supporting him.
+
 The pleasure which we are to enjoy 10 years hence interests us so little compared to that which we may enjoy today
 The passion of future pleasure is naturally so weak compared to that violent emotion which present pleasure is apt to create.
 

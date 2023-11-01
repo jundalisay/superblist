@@ -5,7 +5,7 @@ weight: 54
 image: "/covers/wn.jpg"
 description: "In France, most of the crown's actual revenue is derived from 8 sources"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

@@ -5,7 +5,7 @@ weight: 22
 image: "/covers/wn.jpg"
 description: "Profits on stock naturally divides itself into two"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

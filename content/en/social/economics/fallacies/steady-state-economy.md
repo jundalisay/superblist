@@ -19,7 +19,7 @@ This causes people to look for alternative resource systems that are more sustai
 Its founder Herman Daly defines it as:
 
 {{< q >}}
-<p>An economy with constant stocks of people and artifacts, maintained at some desired, sufficient levels by low rates of maintenance ‘throughput’, that is, by the lowest feasible flows of matter and energy from the first stage of production to the last stage of consumption. Immediately, the word 'constant' creates a problem because it must be defined and set. If applied to population, then it would justify imposing a one-chid or two-child policy as seen in China and Vietnam.</p>
+An economy with constant stocks of people and artifacts, maintained at some desired, sufficient levels by low rates of maintenance ‘throughput’, that is, by the lowest feasible flows of matter and energy from the first stage of production to the last stage of consumption. Immediately, the word 'constant' creates a problem because it must be defined and set. If applied to population, then it would justify imposing a one-chid or two-child policy as seen in China and Vietnam.
 {{< /q >}}
 
 
@@ -52,10 +52,12 @@ To justify the limitations to growth, they cite Smith saying that growth is limi
 
 Smith never said such a thing like a limit to economic growth*. They conveniently misinterpreted Smith's following statements in Book 1 and 3 of the Wealth of Nations and then used it to justify its own ideas. This is the same way that Samuelson conveniently misinterpreted Smith's invisible hand to justify selfishness:
 
-{{< q a="smith" >}}
-<p>In a country fully peopled.. the competition for employment would necessarily be so great as to reduce the wages of labour to what was barely sufficient to keep up the number of labourers, and, the country being already fully peopled, that number could never be augmented. In a country fully stocked in proportion to all the business it had to transact, as great a quantity of stock would be employed.. as the nature and extent of the trade would admit. The competition.. would everywhere be as great, and consequently the ordinary profit as low as possible. But perhaps no country has ever yet arrived at this degree of opulence. China seems to have been long stationary, and had probably long ago acquired that full complement of riches which is consistent with the nature of its laws and institutions. But this complement may be much inferior to what, with other laws and institutions, the nature of its soil, climate, and situation might admit of.</p>
-<cite>Book 1, Chapter 9</cite>
+{{< q a="Adam-Smith" c="Book 1, Chapter 9" >}}
+In a country fully peopled.. the competition for employment would necessarily be so great as to reduce the wages of labour to what was barely sufficient to keep up the number of labourers.. In a country fully stocked.. the competition.. would everywhere be as great, and consequently the ordinary profit as low as possible. 
+
+China seems to have been long stationary, and had probably long ago acquired that full complement of riches.. But this complement may be much inferior to what the nature of its soil, climate, and situation might admit of.
 {{< /q >}}
+
 
 ![Earth](https://sorasystem.sirv.com/graphics/earth.png)
 
@@ -68,7 +70,7 @@ Change the system, balance the classes naturally, then such a situation can be a
 
 Another misinterpretation is the 200-year limit:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 <p>What would it have been had the law given no direct encouragement to agriculture besides what arises indirectly from the progress of commerce, and had left the yeomanry in the same condition as in most other countries of Europe?It is now more than 200 years since the beginning of the reign of Elizabeth,a period as long as the course of human prosperity usually endures.</p> 
 <cite>Book 3, Chapter 4, Paragraph 20</cite>
 {{< /q >}}

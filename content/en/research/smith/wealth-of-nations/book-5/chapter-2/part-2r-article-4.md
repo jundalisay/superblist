@@ -5,7 +5,7 @@ weight: 44
 image: "/covers/wn.jpg"
 description: "High taxes frequently afford a smaller revenue to government than moderate taxes"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

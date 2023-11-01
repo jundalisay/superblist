@@ -2,7 +2,7 @@
 title: "Trust and Risk"
 heading: "Part 1c"
 weight: 60
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "The chance of loss is frequently under-valued and rarely valued more than it is worth"
 icon: "/avatars/smith.png"

@@ -4,7 +4,7 @@ heading: "Part 3l"
 weight: 44
 image: "/covers/wn.jpg"
 description: "The South Sea Joint Stock Company never had any forts or garrisons to maintain. But they had an immense capital divided among so many proprietors"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

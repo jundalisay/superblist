@@ -4,7 +4,7 @@ heading: "Chapter 5b"
 description: "Because of these maxims, the commerce between France and England has been subjected to so many discouragements and restraints"
 image: /covers/wn.jpg
 weight: 40
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 --- 
 

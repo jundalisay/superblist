@@ -5,7 +5,7 @@ weight: 26
 image: "/covers/wn.jpg"
 description: "Ireland and America should help reduce Great Britain's public debt"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

@@ -148,7 +148,7 @@ This pre-classification of revenue into four qualities is an example of Socrates
 
 This method then gives us a new model or tool for creating better economic policies and systems. It is essential in [Points-based Taxation](https://pantrypoints.com/services/tax) which will be more intuitive and fair than the current taxation system from Economics (which is merely based on the money-value of revenue). It will also help predict crises by warning policymakers if a class is becoming too strong in society as to render the other classes impotent or useless.
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 <p>In her present condition, Great Britain resembles an unwholesome body with some overgrown vital parts. Her body is liable to many dangerous disorders which affect unproportioned bodies. Her blood vessel was artificially swelled beyond natural by the industry and commerce forced to circulate in it. A small stop in that great blood-vessel will very likely bring the most dangerous disorders on the whole political body.</p>
 {{< /q >}}
 

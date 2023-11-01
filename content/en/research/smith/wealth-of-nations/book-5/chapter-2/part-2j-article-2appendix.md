@@ -5,7 +5,7 @@ weight: 29
 image: "/covers/wn.jpg"
 description: "While property remains with the same person, its taxes never aim to reduce or take away its capital value"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

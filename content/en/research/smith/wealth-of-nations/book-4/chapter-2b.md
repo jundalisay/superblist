@@ -4,7 +4,7 @@ heading: "Chapter 2b of Book 4"
 description: "Merchants and manufacturers derive the greatest advantage from this monopoly of the home-market"
 image: /covers/wn.jpg
 weight: 20
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 --- 
 

@@ -12,7 +12,7 @@ icon: /icons/pantry.png
 Adam Smith wrote the Wealth of Nations as an attack on Mercantilism which has since evolved into Neoclassical Economics. Despite his attack, it's very strange for him to entrust an entire country's external trade to foreign merchants:
 <!-- For me, there is only one striking and significant error or wrong idea that has led to a big mistake that still exists today. It is Smith's advocacy of--> 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 If the society has insufficient capital to cultivate all its lands and to completely process all its rude produce, there is even a big advantage that its rude produce should be exported by a foreign capital. This will allow the whole stock of society to be employed for more useful purposes. The wealth of ancient Egypt, China, and India demonstrate that a nation may be very opulent even though foreigners carry most of its exportation.
 {{< /q >}}
 

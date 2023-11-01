@@ -46,7 +46,7 @@ The dominance of business, arbitrage, and profit maximization in Economics leads
 
 Such laws then prevent competition that could hamper the egos of those oligarchs and corporations. The common justification is that by protecting their interests, employment is preserved and social order is maintained. This is so easily countered by the fact that people can employ themselves as entrepreneurs, and each other as partnerships. This is especially true after the invention of the internet.
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The proposal of any new commercial law which comes from this order, should always be listened to with great precaution. It should never be adopted until after long and careful examination with the most scrupulous and the most suspicious attention.
 {{< /q >}}
 
@@ -65,7 +65,7 @@ High market prices have led to povert, inequality, and revolution ever since mon
 
 Slave wages have been a thing since the 1970's. Objectively, it sucks to be a Gen Xer or a millennial who are economic slaves to baby boomers who have taken all the good parts of the economy for themselves and are "squatting" on the real value of society.
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The natural price is the lowest..he is likely to sell them for any considerable time.. [It is]..the central price, to which the prices of all commodities are continually gravitating... The market price.. is regulated by the proportion between the quantity.. actually brought to market, and the demand of those who are willing to pay the natural price.
 {{< /q >}}
 

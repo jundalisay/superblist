@@ -30,7 +30,7 @@ Some countries, under US influence, adopted this model, as privatization:
 The main problem with privatization is that **public utilities are a public concern** focused on society, **but private capital is a private concern** focused on the self.
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 <p>The sovereign’s third and last duty is building and maintaining advantageous public works and institutions for society. The profit from these could never repay the expence to a few people. Individuals cannot be expected to build or maintain them. This duty costs very differently in the different periods of society.</p>
 <cite>The Wealth of Nations Simplified, Book 5, Chapter 1, Part 3a</cite>
 {{< /q >}}
@@ -87,7 +87,7 @@ If state-run companies are in line with the nature of societies and public inter
 Adam Smith explains that running public utilities requires a passion or interest for utilities, manifesting as a specific skillset, just like any industry.  
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 In several parts of Europe, the ton or lock-duty on a canal is private property. Their private interest obliges them to keep up the canal. If it is not maintained, the navigation ceases. The profits from the tolls also ceases. If those tolls were managed by commissioners who had no interest in those works, they might not be maintained well. The most essential parts of the work might have gone to ruin.
 <cite>The Wealth of Nations Simplified, Book 5, Chapter 1, Part 3a</cite>
 {{< /q >}}
@@ -99,7 +99,7 @@ The skillset of a politician usually revolves around the control of people. It i
 Smith's solution is for the people to work together: **the politician should find a skilled engineer who can work for the public interest in exchange for immaterial rewards like titles, honors, and social security**.  
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The Kings of Spain did all they could to promote land improvement. Philip IV himself farmed, to set the fashion. He did everything for the farmers <b>except bringing them a good market</b>. He conferred the titles of nobility on several farmers.
 <cite>Lectures on Jurisprudence, Part 2, Section 2, Chapter 16</cite>
 {{< /q >}}

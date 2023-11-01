@@ -4,7 +4,7 @@ heading: "Part 3z"
 weight: 72
 image: "/covers/wn.jpg"
 description: "There state can use two very easy and effective remedies to peacefully correct the disagreeably rigorous morals of little sects"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

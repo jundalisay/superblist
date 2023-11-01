@@ -5,7 +5,7 @@ weight: 20
 image: "/covers/wn.jpg"
 description: "A bank also spends to keep a large amount at all times in its coffers for answering the occasional demands of the holders of its notes"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

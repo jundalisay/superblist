@@ -3,7 +3,7 @@ title: "Reception to Copernicus' System"
 heading: Part 5
 description: "Copernicus completed his Treatise of Revolutions but was afraid of what people might think"
 image: /covers/astronomy.jpg
-contributors: ['Smith']
+contributors: ['Adam Smith']
 weight: 12
 ---
 

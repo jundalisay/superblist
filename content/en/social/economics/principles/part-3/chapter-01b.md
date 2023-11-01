@@ -36,12 +36,12 @@ The dharma of a pantrynomy is to keep on producing utility for society.
 This is why the selfish landlord gave up part of his crops to be given as wages to his employees so that they could maintain his agricultural system. Had he kept all of his crops for himself, there would be no one to grow the next batch and his estate's economic system would fail and become adharmic. 
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The proud and unfeeling landlord views his extensive fields, and without a thought for his brethren, he imagines to eat its whole harvest.. The capacity of his stomach is far less than the immensity of his desires and receives no more than that of the meanest peasant. <b>The rest of the food he is obliged to distribute</b> among his servants.. The rich.. divide with the poor the produce of all their improvements despite their natural selfishness and rapacity. They are led by an invisible hand to make nearly the same distribution of life’s necessities which would have been made, had the earth been divided equally among all its inhabitants.
 {{< /q >}}
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 In the <b>real happiness of human life</b>, they [the poor] are not inferior to those who seem so much above them. In ease of body and <b>peace of mind</b>, all the different ranks of life are nearly on a level. The beggar, who suns himself by the side of the highway, possesses that security which kings are fighting for.
 {{< /q >}}
 
@@ -51,7 +51,7 @@ Thus, the personal interests of the landlord and his employees work together nat
 It is by this focus (not selfishness) that they were able to improve their skills and increase their productivity (personal interest) for the benefit of everyone as the public interest.
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 <p>Every individual necessarily works to render the society’s annual revenue as great as he can. He generally does not intend to promote the public interest, or know how much he is promoting it. By preferring to support domestic industry over foreign industry, he intends only his own security.By directing that industry to produce the greatest value [for society], he intends only his own gain. In this case, as in many other cases,he is led by an invisible hand to promote an end which he did not intend.Nor is it always the worse for the society that it [the society] was no part of it [the goal]. 
 
 By pursuing his own interest, he frequently promotes the society’s interest more effectively than when he really intends to promote it. I have never known much good done by those who affected to trade for the public good. It is an affectation not very common among merchants. Very few words can be used to dissuade them from it.</p>
@@ -135,7 +135,7 @@ To Socrates, this respect for everyone's personal interest is the foundation of 
 
 Smith wrote that governments must understand the invisible hand of svadharma in order to create proper policies and avoid disorder:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The man of system is.. often so enamoured with.. his own ideal plan of government.. He imagines that he can arrange the members of a great society with as much ease asthe hand arranges the different pieces on a chess-board.
 <br><br>
 He does not consider that the pieces.. have no other principle of motion besides that which the hand impresses upon them.But that, in the great chess-board of human society, every single piece has a principle of motion of its own, altogether different from that which the legislature might choose to impress on it.
@@ -163,14 +163,14 @@ The definition of the Tao or Dharma then depends on the kind of discrete entity 
 
 We can now see how different the invisible hand described by Smith is from the one described by Samuelson. The proper invisible hand hand has public and personal aspects working together according to the designer of Nature:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 Every individual is continually exerting himself to find out the most advantageous employment for whatever capital he can command. It is his own advantage which he has in view [svadharma], and not that of the society. But the study of his own advantage naturally leads him to prefer that employment which is most advantageous to society [human dharma].
 <br><br>
 That wisdom which contrived the system of human affections and that of every other part of nature, seems to have judged that the interest of the great society of mankind [human dharma] would be best promoted by directing the principal attention of each individual to what was most within the sphere of his abilities and understanding [svadharma].
 <cite>Simple Theory of Moral Sentiments, Part 6, Chapter 2</cite>
 {{< /q >}}
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 Every individual can, in his local situation [svadharma], judge much better than any statesman on what domestic industry his capital produce the greatest value. The statesman who directs private people how they should employ their capitals would load himself with a most unnecessary attention.
 <cite>Book 4, Chapter 2</cite>
 {{< /q >}}

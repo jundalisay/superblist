@@ -14,7 +14,7 @@ icon: /icons/spsoc.png
 Aside from the division of labor, Adam Smith is famous for his concept of the impartial spectator. This spectator is the thing that guides us to do the right thing and avoid doing wrong. Many people would equate it to conscience, even if Smith mentioned that it is not so:
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 These must be left to the decision of the man within the breast, the supposed impartial spectator, the great judge and arbiter of our conduct.. It is strange that this sentiment, which Providence undoubtedly intended to be the governing principle of human nature, should have been so unnoticed that it has not gotten a name in any language. The word ‘moral sense’ is very recently formed. It cannot yet be considered as part of the English tongue. The word ‘conscience’ does not immediately denote any moral faculty by which we approve or disapprove. Conscience supposes the existence of some such faculty.
 {{< /q >}}
 
@@ -23,21 +23,21 @@ These must be left to the decision of the man within the breast, the supposed im
 
 Instead of conscience, Smith explains that it is a moral sense that is present in all humans which transcends the ego or self-love. In Buddhism, it is *prajna-paramita*, which is a feeling-sense just like ‘vision’ is a visual sense and ‘hearing’ is a auditory sense. It is inherent just like instinct is inherent. ‘Conscience’ is then derived from this moral sense.
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The foundation of our moral faculties were given to us to direct of our conduct in this life, whether those foundations are from a modification of reason, an original instinct called a moral sense, or some other principle of our nature. They carry along with them the most evident badges of this authority. These denote that they were set up within us to be the supreme arbiters of all our actions, superintend all our senses, passions, and appetites, and judge how far each of them was to be indulged or restrained.
 {{< /q >}}
 
 
 In Buddhism, this moral sense is then part of human dharma, which Smith calls the invisible hand. However, even if this moral sense is present in all humans, it is not readily or so easily activated because it is very often clouded by ego or self love (ahamkara in Sanskrit):
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 He soon identifies himself with the ideal man within the breast. He soon becomes himself the impartial spectator of his own situation... If he wants the impartial spectator to enter into the principles of his conduct he must humblethe arrogance of his self-love..
 {{< /q >}}
 
 The concept of impartial spectator is derived from David Hume, though the Hindus defined it first, to be later developed by Buddhists, creating guidelines and practices to develop the moral sense.
 
 
-{{< q a="hume" >}}
+{{< q a="David-Hume" >}}
 An object which causes pleasure to its possessor is sure to pleasethe spectatorby a delicate sympathy with the possessor.
 Part 3, Sec 1 Treatise of Human Nature
 {{< /q >}}
@@ -52,7 +52,7 @@ The Western soldier sees this and his moral sense guides him to strike back at t
 Those victims suffer injustice and sees the moral duty to strike back. In all cases and without exception, **the ego is the cause of the corruption of moral sentiments** as it increases the sense of our own greatness, subsequently preventing the mind from putting itself in the situation of others as fellow-feeling.
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 However, it is also the great and most universal cause of the corruption of our moral sentiments. Moralists in all ages have complained that wealth and greatness are often regarded with the respect and admiration due only to wisdom and virtue, and that poverty and weakness is unjustly given the contempt due only to vice and folly.We desire to be respectable and to be respected. We dread to be contemptible and to be condemned.
 Theory of Moral Sentiments, Part 4
 {{< /q >}}

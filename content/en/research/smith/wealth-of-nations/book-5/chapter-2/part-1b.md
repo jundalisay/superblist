@@ -5,7 +5,7 @@ weight: 8
 image: "/covers/wn.jpg"
 description: "The rent of a great landed estate might ordinarily defray all the necessary expences of government"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

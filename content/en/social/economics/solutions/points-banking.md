@@ -2,19 +2,27 @@
 title: "What is Points Banking?"
 heading: "A new value-circulation system"
 date: 2020-07-05
-image: "/og/banking.jpg"
+image: "/photos/buy.jpg"
 description : "Points Banking integrates Basic Universal Revenue and Resource Credits to create a new value circulation system"
-# categories: [Economic Solutions]
-tags: [Points Banking]
+# tags: [Points Banking]
 contributors: ['Juan']
 icon: /icons/pantry.png
 youtube: "OV1JHTiDdkQ"
 ---
 
 
-In previous posts, we explained two moneyless subsystems for a financial or monetary crisis:
+Points-Banking is the main feature of our proposed points-based economic system. 
 
-- Basic Universal Revenue (BUR) for creating basic value as food
+The system works on barter-credits which are claims to the goods and services offered by others. Unlike barter which requires immediate fulfillment of an exchange, barter-credits does not force an immediate fulfillment.
+
+For example, in a barter transaction, John gives 1 kilo of potatoes for a sandwich offered by Martha. This reqiures the potato and sandwitch to be available at the same time.   
+
+In a barter-credit transaction, John gives the potatoes even if Martha doesn't have the sandwich ready on that day. In effect, the potatoes are on credit, and the Martha has a sandwich debt.
+
+
+<!-- In previous posts, we explained two moneyless subsystems for a financial or monetary crisis:
+
+- Basic  Revenue (BUR) for creating basic value as food
 - Resource Credits (RC) for keeping companies afloat and avoiding bankruptcy
 
 Both BUR and RC have a common denominator which is their values are pegged to rice so that BUR is in ultimately in grams of rice just as RC is in kilos of rice or wheat. 
@@ -44,13 +52,13 @@ Let's say you babysit as part-time work.
 
 In a money-system, you would offer your services to a family who would then pay you in currency. You could then exchange this currency with anyone for goods and services. They would never decline it since it's legal tender. 
 
-<!-- Before you receive that currency, it passes through the bank. -->
+Before you receive that currency, it passes through the bank. 
 
 This is extremely convenient for all parties. However, such a system requires the family to have money in the first place. They might not have that money during a financial crisis or recession. 
 
 This is where the points system comes in. 
 
-It will let the family will pay you in points {{< c v="green" >}}which you can only exchange back for the goods and services offered by that family{{< /c >}}. 
+It will let the family will pay you in points {{< c v="green" >}}which you can only exchange back for the goods and services offered by that family{{< /c >}}.  -->
 
 
 ### The Advantages of Points

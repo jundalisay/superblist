@@ -3,7 +3,7 @@ heading: Chapter 3
 title: "How Republican Governments were introduced"
 # date: 2015-09-26
 weight: 8
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "A country's location and its improvement in agriculture and trade make it favourable to the introduction of a republican government"

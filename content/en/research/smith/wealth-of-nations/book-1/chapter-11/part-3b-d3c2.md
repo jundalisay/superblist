@@ -3,7 +3,7 @@
 title: "Fish and Precious Metals"
 heading: "Part 3b of Digression Part 3c2"
 weight: 38
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "The multiplication fish is both limited and uncertain"
 icon: "/avatars/smith.png"

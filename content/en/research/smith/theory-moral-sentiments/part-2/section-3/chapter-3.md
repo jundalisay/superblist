@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "The Cause of the Irregularity of our Moral Feelings on the outcome of actions"
 weight: 12
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/tms.jpg"
 description: "The irregularity in our moral feelings on the outcome is caused by Nature trying to preserve our physical well-being without the uneeded psychological troubles"
@@ -41,18 +41,13 @@ Feelings, thoughts, and intentions, then would become the objects of punishment.
 There would be no safety for the most innocent conduct. Bad wishes, bad views, bad designs, might still be suspected and these would lead to people being punished. The Author of nature rendered only the following actions as the proper objects of punishment and resentment:
 - those which produce actual evil, and
 - those which put us in the immediate fear of actual evil.
-<!--  and resentment= 
-- while these excited the same indignation with bad conduct, and
-- while bad intentions were as much resented as bad actions. -->
+
 
 Human actions derive their whole merit or demerit from feelings and intentions. 
 
 These are:
 - placed by the great Judge of hearts beyond the limits of human jurisdiction, and
 - reserved for the cognizance of His own unerring tribunal.
-<!-- ,
-- designs,
-- affections -->
 
 The necessary rule of justice is that people are punished for their actions only, not for their designs or intentions. It is founded on this salutary and useful irregularity in human feelings on merit or demerit. 
 
@@ -97,9 +92,16 @@ The benevolent feelings deserve the most praise when they exert themselves witho
 - tremble lest he should, even unknowingly, do anything that can hurt them, and
 - dread that animal resentment which, he feels, is ready to burst out against him, if he should innocently be the unhappy cause of their calamity.
 
-In the ancient heathen religion, holy ground should only be trod upon on solemn and necessary occasions. The man who ignorantly violated it incurred the vengeance of that powerful and invisible being to whom it had been set apart, until proper atonement has been made. So by the Nature's wisdom, the happiness of every innocent man is rendered holy and hedged round against the approach of every other man. It is not to be wantonly trod on, nor ignorantly and involuntarily violated, without requiring some apology or atonement proportional to the greatness of such undesigned violation.
+In the ancient heathen religion, holy ground should only be trod upon on solemn and necessary occasions.
+
+The man who ignorantly violated it incurred the wrath of its deity until proper atonement has been made. 
+
+So by the Nature's wisdom, the happiness of every innocent man is rendered holy.
+ <!-- and hedged round against the approach of every other man.  -->
+- It is not to be ignorantly and involuntarily violated, without requiring some proportional apology.
 
 A man of humanity, who accidentally has killed another man, feels himself requiring atonement, but not guilty.
+
 During his whole life, he considers this accident as one of his greatest misfortunes.
 
 If the family of the slain is poor and he himself is not poor, he immediately: 
@@ -114,7 +116,9 @@ If they are in better circumstances, he tries to render them every good office w
   - propitiate their, natural but most unjust resentment, for his great but involuntary offence.
 
 
-{{< s v="28" >}} The finest and most interesting scenes of the ancient and modern drama are about an innocent person's distress. He had been led to do something which he did not know would expose him to the deepest reproach. This fallacious sense of guilt constitutes the distress of:
+{{< s v="28" >}} The finest and most interesting scenes of the ancient and modern drama are about an innocent person's distress. 
+
+He had been led to do something which he did not know would expose him to the deepest reproach. This fallacious sense of guilt constitutes the distress of:
 - Oedipus and Jocasta on the Greek theatre, and
 - Monimia and Isabella on the English theatre.
 
@@ -134,5 +138,3 @@ He strives to regard himself, not as how he appears now, but as how he should ap
   - even perfectly consistent with themselves.
 
 Mankind's more candid and humane part entirely goes along with his effort to support himself in his own opinion. They exert their whole generosity and greatness of mind to correct in themselves this irregularity of human nature. They try to regard his unfortunate magnanimity as if it been successful.
- 
-

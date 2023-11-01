@@ -1,7 +1,7 @@
 ---
 heading: "Section 5"
-title: "Reason"
-description: The subject of philosophy is the actual knowledge of what truly is.
+title: "Consciousness and Synthesis"
+description: Truth appears in the process of synthesis
 image: /covers/phenom.png
 author: Hegel
 weight: 4
@@ -96,4 +96,26 @@ This consciousness comes on the scene directly in the form of reason; in other w
 It merely gives the assurance of being all reality. It does not, however, itself comprehend this fact. This is because that forgotten pathway by which it arrives at this position is the process of comprehending what is involved in this mere assertion which it makes. 
 
 Anyone who has not taken this route finds the assertion unintelligible, when he hears it expressed in this abstract form although as a matter of concrete experience he makes indeed the same assertion himself.
+
+
+
+{{< s v='234' >}} The Idealism which does not trace the path to that result, but starts off with the bare assertion of this truth, is consequently a mere assurance
+
+It does not understand its own nature, and cannot make itself intelligible to any one else. 
+
+It announces an intuitive certainty, to which there stand in contrast other equally intuitive certainties that have been lost just along that very pathway. 
+
+Hence, the assurances of these other certainties are equally entitled to a place alongside the assurance of that certainty. 
+
+Reason appeals to the self-consciousness of each individual consciousness: I am I, my object and my essential reality is ego; and no one will deny reason this truth. 
+
+But since it rests on this appeal, it sanctions the truth of the other certainty, viz. there is for me an other; an other than “I” is to me object and true reality: or in that I am object and reality to myself, I am only so by my withdrawing myself from the other altogether and appearing alongside it as an actuality.
+
+Only when reason comes forward as a reflexion from this opposite certainty does its assertion regarding itself appear in the form not merely of a certainty and an assurance but of a truth — and a truth not alongside others, but the only truth. 
+
+Its appearing directly and immediately is the abstract form of its actual presence, the essential nature and inherent reality of which is an absolute notion, i.e. the process of its own development.
+
+Consciousness will determine its relation to otherness or its object in various ways according as it is at one or other stage in the development of the world-spirit into self-consciousness. 
+
+How the world-spirit immediately finds and determines itself and its object at any given time, or how it appears to itself, depends on what it has already come to be, or on what it already implicitly and inherently is.
 

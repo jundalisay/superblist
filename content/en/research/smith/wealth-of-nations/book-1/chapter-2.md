@@ -2,7 +2,7 @@
 title: "The Cause of the Division of Labour"
 heading: "Chapter 2"
 weight: 12
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "The Propensity to Trade, Arising from Reason and Speech, Creates the Division of Labour"
 icon: "/avatars/smith.png"

@@ -18,7 +18,7 @@ Taylor Swift's op-ed in The Wall Street Journal shows her continued optimism in 
 
 While many musicians are alarmed at the decline of the price of their valuable art, Adam Smith assures us that its decline is actually natural:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The labour of some of the most respectable orders in..society is..unproductive of any value, and does not..realize itself in any permanent..or vendible commodity, which endures after that labour is past.. In the same class are churchmen, lawyers, physicians, men of letters, players, buffoons, musicians, opera-singers, opera-dancers, &c.
 <cite>Wealth of Nations Book 2, Chapter 3, Paragraph 2</cite>
 {{< /q >}}
@@ -45,12 +45,12 @@ The invention of tape records and compact discs improved the sound quality and t
 
 People tend to pirate because of the self-love that humans feel, manifesting as the love for things convenient for the self, while having the inability to easily put ourselves into the shoes of other people and sense their real suffering:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 Nature seems to have so happily adjusted our sentiments of approbation and disapprobation to the conveniency of the individual and the society.
 <cite>Theory of Moral Sentiments Part 4, Section 1, Paragraph 14</cite>
 {{< /q >}}
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 ..when there is no envy in the case, our propensity to sympathize with joy is much stronger than our propensity to sympathize with sorrow; and that our fellow-feeling for the agreeable emotion approaches much more nearly to the vivacity of what is naturally felt by the persons principally concerned, than that which we conceive for the painful one.
 <cite>Theory of Moral Sentiments Part 1, Section 3, Paragraph 5</cite>
 {{< /q >}}

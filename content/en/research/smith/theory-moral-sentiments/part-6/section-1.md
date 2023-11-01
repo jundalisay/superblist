@@ -3,7 +3,7 @@ title: "Prudence - The Individual's Character, so far as it affects his own Happ
 heading: "Chapter 2c"
 description: "Nature first recommends the body's preservation and healthful state to every individual's care"
 weight: 32
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

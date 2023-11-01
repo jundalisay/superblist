@@ -2,12 +2,11 @@
 heading: Chapter 1
 title: "Comparison of Justice and Beneficence"
 weight: 6
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/tms.jpg"
 description: "Beneficence, Resentment, Justice, Revenge"
 ---
-
 
 
 
@@ -115,7 +114,6 @@ Everybody blames:
 
 But nobody thinks that the unloved son or the hungry people have any right to extort compassion by force. The sufferers can only complain. The observer can only intermeddle by advice and persuasion.
 
-<!-- Upon all such occasions, it would be the most insolent and presumptuous for equals to use force against one another. -->
 
 
 ### Kindness Can be Imposed by the State
@@ -153,28 +151,15 @@ Of all the lawgiver's duties, this requires the greatest delicacy and reserve to
 
 On the contrary, the observance of justice seems not to deserve any reward. It is proper to practice justice. But since it does no real, new good, it is entitled to very little gratitude.
 
-<!-- It merits all the approbation due to propriety.  -->
+Usually, justice is just a negative virtue which hinders us from hurting others.
 
-Usually, justice is just a negative virtue which hinders us from hurting others. The man who barely abstains from hurting another surely has very little <!-- positive --> merit. However, he fulfils all the rules of justice. We may often fulfill all the rules of justice by sitting and doing nothing.
+The man who barely abstains from hurting another surely has very little merit. 
 
-<!--  He does everything which: 
-- his equals can force him to do with propriety, or
-- they can punish him for not doing -->
+However, he fulfils all the rules of justice.
+
+We may often fulfill all the rules of justice by doing nothing.
+
 
 {{< s v="10" >}} Retaliation is the great law dictated to us by Nature. 
 
-<!-- We think that those whose hearts never open to the feelings of humanity should be: 
-- shut out from the feelings of fellow-humans, and
-- allowed to live in a great desert where nobody cares for them -->
-
 The violator of justice should be made to feel the evil he has done. If he has no regard to the sufferings of others, then he might be over-awed by his own sufferings.
-
-<!-- The man who only observes laws against hurting others, can merit only that: 
-- his neighbours in their turn should respect his innocence
-- the same laws should observed with regard to him. -->
-
-
-<!-- - that beneficence and generosity are due to the generous and beneficent. -->
-
-<!-- As every man doth, so shall it be done to him. -->
-

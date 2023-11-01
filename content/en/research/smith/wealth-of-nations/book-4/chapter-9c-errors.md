@@ -5,7 +5,7 @@ weight: 110
 image: "/covers/wn.jpg"
 description: "The main error of the Physiocrats system was in representing the artificers, manufacturers, and merchants as unproductive"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

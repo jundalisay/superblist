@@ -2,7 +2,7 @@
 heading:  "Chapter 3a"
 title:  "Productive vs Unproductive Labour"
 weight: 41
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image:  "/covers/wn.jpg"
 description: "Productive labour adds value while unproductive labour does not. The labour of a manufacturer adds to the value of the materials which he works on"
 icon:  "/avatars/smith.png"

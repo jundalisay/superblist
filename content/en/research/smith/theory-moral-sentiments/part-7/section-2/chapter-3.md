@@ -4,7 +4,7 @@ title: "Systems which make Virtue consist in Benevolence"
 linkTitle: Chapter 3
 description: "The Basis of Benevolent Systems is the Supreme Entity"
 weight: 14
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---
@@ -35,11 +35,10 @@ This is the great object of this philosophy to raise in us.
 - Dr. Henry More, and
 - Mr. John Smith of Cambridge.
 
-But the late Dr. Hutcheson was undoubtedly the most= 
+But the late Dr. Hutcheson was undoubtedly the most:
 - acute, distinct, philosophical
 - the soberest and most judicious
 
-<!-- This is of the greatest consequence. -->
 
 ## The Benevolent System of Dr. Hutcheson
 
@@ -56,49 +55,68 @@ There is something pleasing in the mere instinctive good-will which does good ac
 - deserted, and
 - unaccompanied by the sense of propriety
 
-76 Benevolence gives a superior beauty to benevolent actions. Actions are ugly if they= 
+{{< s v="76" >}} Benevolence gives a superior beauty to benevolent actions. Actions are ugly if they= 
 - lack benevolence, and
 - have negative benevolence
 
 Pernicious actions are often punishable just because they show a lack of attention to our neighbour's happiness.
 
-77 Besides all this, Dr. Hutcheson observed that whenever a seemingly-benevolent action was discovered to have another motive, its merit gets reduced according to that other motive. The praise-worthiness of actions proceeding from gratitude or public spirit would be destroyed if they were found to have arisen from= 
+{{< s v="77" >}} Besides all this, Dr. Hutcheson observed that whenever a seemingly-benevolent action was discovered to have another motive, its merit gets reduced according to that other motive. The praise-worthiness of actions proceeding from gratitude or public spirit would be destroyed if they were found to have arisen from= 
 - an expectation of new favour, or
 - the hope of a pecuniary reward
 
 That virtue must consist in pure and disinterested benevolence alone. The mixture of any selfish motive, like that of a baser alloy, totally reduced or removed the action's merit.
 
-78 On the contrary, when seemingly selfish actions are discovered to have arisen from benevolence, its merit is greatly enhanced. We would love a person more if we found that he tried to advance his own fortune because he wanted to do good and make proper returns to his benefactors. 
 
-<!-- This observation further confirmed the conclusion that only benevolence could stamp virtue on any action. -->
+{{< s v="78" >}} On the contrary, when seemingly selfish actions are discovered to have arisen from benevolence, its merit is greatly enhanced. 
+
+We would love a person more if we found that he tried to advance his own fortune because he wanted to do good and make proper returns to his benefactors. 
+
+
+{{< s v="79" >}} The casuists had disputes on the righteousness of conduct.
+
+Dr. Hutcheson observed that they constantly referred to the public good as the standard. He imagined that this was proof of the justness of this benevolence.
+
+He thus acknowledged that whatever promoted mankind's happiness was right, laudable, and virtuous.
+
+On the contrary, whatever promoted mankind's sadness was wrong, blamable, and vicious.
+
+There have been recent debates on:
+- passive obedience and
+- the right of resistance.
+
+Its only controversy was, when privileges were invaded, whether universal submission would produce greater evils than temporary insurrections. He said that it was never a question whether what tended most to mankind's happiness was also not morally good.
  
-79 The casuists had disputes on the righteousness of conduct. Dr. Hutcheson observed that they constantly referred to the public good as the standard. He imagined that this was proof of the justness of this benevolence. He thus universally acknowledged that whatever promoted mankind's happiness was right, laudable, and virtuous. On the contrary, whatever promoted mankind's sadness was wrong, blamable, and vicious.
 
-There have been recent debates on passive obedience and the right of resistance. Its only controversy was, when privileges were invaded, whether universal submission would produce greater evils than temporary insurrections. He said that it was never a question whether what tended most to mankind's happiness was also not morally good.
- 
-80 Since benevolence was the only motive which could bestow virtue on any action, the greater the benevolence evidenced by any action, the greater its praise.
+{{< s v="80" >}} Since benevolence was the only motive which could bestow virtue on any action, the greater the benevolence evidenced by any action, the greater its praise.
 
-81 Actions which aimed at the happiness of more people showed a larger benevolence than those which aimed only at the happiness of a few. 
+
+{{< s v="81" >}} Actions which aimed at the happiness of more people showed a larger benevolence than those which aimed only at the happiness of a few. 
 
 Thus, such actions were proportionally more virtuous.
+
 Therefore, the most virtuous of all feelings was the action which embraced the happiness of all intelligent beings as its object. The least virtuous was the action which aimed no further than the happiness of an individual, such as a son, brother, or friend.
 
-82 The perfection of virtue consisted in= 
+{{< s v="82" >}} The perfection of virtue consisted in:
 - directing all our actions to promote the greatest possible good
 - submitting all inferior affections to the desire of mankind's general happiness
 - regarding one's self but as one of the many
 
 One's prosperity was to be pursued no further than was consistent with, or conducive to, that of the whole.
 
-83 Self-love can never be virtuous. It is vicious whenever it obstructed the general good. When it had no other effect than to make the individual take care of his own happiness, it was merely innocent.
+
+{{< s v="83" >}} Self-love can never be virtuous.
+
+It is vicious whenever it obstructed the general good. When it had no other effect than to make the individual take care of his own happiness, it was merely innocent.
 
 It deserved no praise but it did not incur any blame. Those benevolent actions which were performed, despite some strong motive from self-interest, were the more virtuous on that account. They demonstrated the strength and vigour of the benevolent principle.
+
  
-84 Dr. Hutcheson totally prevented self-love from being a motive of virtuous actions in any case. A benevolent action's merit was reduced by a regard to= 
+{{< s v="84" >}} Dr. Hutcheson totally prevented self-love from being a motive of virtuous actions in any case. A benevolent action's merit was reduced by a regard to:
 - the pleasure of self-approbation, and
 - the comfortable applause of our own consciences.
 
-He thought that= 
+He thought that:
 - this was a selfish motive, and
   - It demonstrated the weakness of that pure and disinterested benevolence.
 - only benevolence could stamp virtue on man's conduct.
@@ -106,10 +124,10 @@ He thought that=
 However, in mankind's common judgments, this regard to the approbation of our own minds is so far from being considered as something that can reduce the virtue of any action. It is rather looked on as the sole motive which deserves to be called virtuous.
  
 
-85 Such is the account given of the nature of virtue in this amiable system. This system has a peculiar tendency to= 
-- nourish and support the noblest and the most agreeable of all feelings,
+{{< s v="85" >}} The amiable system has a tendency to:
+- nourish the noblest of all feelings,
 - check the injustice of self-love, and
-- somewhat discourage self-love by representing it as something that could never be honourable.
+- discourage self-love by representing it as dishonourable.
 
 
 ### The Spiritual system focuses on the cause but disregards the effect, just as the Selfish system focuses on the effect but disregarded the cause
@@ -132,7 +150,7 @@ Ego is very common. The motive of self-preservation prompts anyone to take care 
 88 Casuists frequently used an action's tendency towards a society's welfare as the standard to determine right or wrong. It does not follow that a regard to the society's welfare should be the sole virtuous motive of action. It should only cast the balance against all other motives, in any competition.
 
 
-89 Benevolence might be the sole principle of action in the Deity as it is not easy to conceive what other motive an all-perfect Being can act from.
+{{< s v="89" >}} Benevolence might be the sole principle of action in the Deity as it is not easy to conceive what other motive an all-perfect Being can act from.
 
 <!-- There are several arguments for this.
 It is
@@ -141,12 +159,12 @@ Man's existence requires so many external things.
 Human nature would be hard if benevolence could never appear virtuous.
  --> 
 
-90 Those three systems place virtue in propriety, prudence, and benevolence.
+{{< s v="90" >}} Those 3 systems place virtue in propriety, prudence, and benevolence.
 
 <!-- They are the principal accounts which have been given of the nature of virtue.
 All the other descriptions of virtue are easily reducible to them. -->
 
-91 The system which places virtue in the obedience to the Deity's will, may be counted among those systems which make it consist in prudence or propriety.
+{{< s v="91" >}} The system which places virtue in the obedience to the Deity's will, may be counted among those systems which make it consist in prudence or propriety.
 
 The question of why we should obey the Deity's will is an impious and most absurd question. It can have two answers= 
 - Because he is a Being of infinite power.
@@ -155,9 +173,7 @@ The question of why we should obey the Deity's will is an impious and most absur
   - If this is the proper answer, virtue consists in prudence
 - It is proper for a creature to obey its creator, independent of any regard to our happiness, rewards, and punishments
   - If this is the proper answer, virtue consists in propriety
-<!-- A limited and imperfect being should submit to one of infinite and incomprehensible perfections. -->
 
-<!-- Besides these two, it is impossible to conceive any other answer to this question. -->
 
 <!--  or in the proper pursuit of our own final interest and happiness.
 Since it is on this account that we are obliged to obey the Deity's will. -->

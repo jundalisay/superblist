@@ -4,7 +4,7 @@ heading: "Part 3d"
 weight: 32
 image: "/covers/wn.jpg"
 description: "Sir Josiah Child complained these companies were extremely oppressive"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

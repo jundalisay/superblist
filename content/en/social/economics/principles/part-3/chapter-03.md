@@ -61,7 +61,7 @@ Persons must have matching requirements for barter to work
 
 This is only true for bilateral barter or trade involving two persons. Smith's system is multilateral wherein trade is circular and not direct.
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The following workmen are necessary to make the shears used to clip the wool to make the coat: The miner, builder of the furnace for smelting the ore, The feller of the timber, The burner of the charcoal used in the smelting-house, The brick-maker and the brick-layer, The workers who attend the furnace The mill-wright, forger, and smith. All of them must join their different works to produce the shears.
 <cite>Wealth of Nations Book 1, Chapter 1</cite>
 {{< /q >}}
@@ -78,12 +78,12 @@ Such objective valuation is true only for commercial transactions which require 
 
 Thus, if A and B agree to trade their rice and wheat at a ratio of 1:1, then the price of 1 rice will be 1 wheat. In other words, the price of a commodity will be the other commodity.
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 In exchanging the produce of different sorts of labour, some allowance is commonly made for both hardship and ingenuity. It is adjusted by the higgling and bargaining of the market, according to a rough equality sufficient for carrying on the business of common life.
 <cite>Wealth of Nations Book 1, Chapter 5</cite>
 {{< /q >}}
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 But the colonies sell their own produce chiefly to purchase European goods. The more they pay for the European goods, the less they get for their own produce. The dearness of the European goods is the same thing with the cheapness of their own produce.
 <cite>Wealth of Nations Book 4, Chapter 7</cite>
 {{< /q >}}
@@ -102,7 +102,7 @@ The advantage of this is that the coffee mug seller was able to save $2 by givin
 
 This system can be done online or offline with resource credits representing rice.
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The man who wanted to buy salt and had nothing but cattle must have been obliged to buy salt to the value of a whole ox. He could seldom buy less than this because his cattle could not be divided. If he wanted more salt, he must buy more oxen. If he had metals, he could easily proportion the quantity of the metal as he needed.
 <cite>Wealth of Nations Book 1, Chapter 4</cite>
 {{< /q >}}
@@ -118,7 +118,7 @@ Future contracts have the same dynamics as trade contracts administered by the C
 
 I can borrow your pen and give it back next week by signing a contract that reminds both of us.
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 Give me that which I want, and you shall have this which you want, is the meaning of every such offer. In this way, we get most of what we need.
 <cite>Wealth of Nations 1, Chapter 2</cite>
 {{< /q >}}
@@ -135,7 +135,7 @@ Supply chain barter is meant to circulate both raw materials and finished produc
 
 There are some cases such as in technological products where time is essential. For example, if I received a credit of one Nokia 3310 mobile phone in 1999 (when the phone was very useful and hi-tech) and claim it in 2018 (when the same phone is almost useless and obsolete), then it would be a clear injustice to me. This problem can be solved by finding the equivalent product in the current time. In our example, the new version of the Nokia 3310 can be claimed. So a child in 1998 can receive a credit of Nokia 3310, to be claimed 50 years later as whatever would be the equivalent of a Nokia 3310 by then.
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The returns of the fixed capital employed by land improvers are much slower than the returns of the circulating capital. Such undertakers or projectors may, with great propriety, carry on most of their projects with borrowed money.
 <cite>Wealth of Nations Book 2, Chapter 2</cite>
 {{< /q >}} 
@@ -150,7 +150,7 @@ Company A might trade a single expensive item for many of Company B's cheap item
 
 Normally, cheap raw materials are not exchanged for expensive finished goods in a multilateral barter. Iron ore is not directly sent to a laptop factory to be converted to a laptop. Instead, ore is sent to a steel mill, which will send metals to a chipmaker, which will then send chips to the laptop factory. The value of a truckload of microchips is closer to value of a truckload of laptops, than a truckload of iron ore.
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The labourer’s coarse woollen coat is the produce of the joint labour of many workmen: The shepherd, wool-sorter, wool-comber or carder, dyer, scribbler, spinner, weaver, fuller, dresser, and many others must all join to complete the coat. Merchants and carriers must be employed to transport those materials from far away! Many ship-builders, sailors, sail-makers, rope-makers, must be employed to bring the drugs of the dyer coming from the remotest corners of the world!
 <cite>Wealth of Nations 1, Chapter 1</cite>
 {{< /q >}}
@@ -164,7 +164,7 @@ Prices can fluctuate in the world market very quickly.
 
 Supply chain barter relies on real prices and not on nominal prices. Any sudden reduction or increase in real prices in the external market is either absorbed or enjoyed by the trade partners. From a global societal perspective, the losses of the losers will be offset by the gains of the gainers, having little impact on the global economy.
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 A public mourning raises the price of black cloth and increases the profits of the merchants who have black cloth. It has no effect on the wages of the weavers [regular workers] because the market is under-stocked with black cloth, not with long-term labour. It raises the wages of journeymen taylors [contractual workers] because the market is under-stocked with short-term labour. The mourning creates an effective demand for more short-term labour.
 <cite>Wealth of Nations Book 1, Chapter 7</cite>
 {{< /q >}}

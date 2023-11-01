@@ -5,7 +5,7 @@ description: "Exchange is a method invented by merchants to facilitate the payme
 # date: 2015-09-17
 image: "/covers/lectures.jpg"
 weight: 34
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

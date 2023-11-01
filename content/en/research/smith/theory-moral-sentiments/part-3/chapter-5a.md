@@ -4,7 +4,7 @@ heading: "Chapter 5a"
 description: "The foundation of our moral faculties were given to us to direct of our conduct in this life"
 date: 2015-09-06
 image: "/covers/tms.jpg"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 ---
 

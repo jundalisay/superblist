@@ -2,7 +2,7 @@
 heading: Chapter 4
 title: "How the Division of Labour Multiplies Productivity"
 weight: 12
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "How does this division of labour multiply productivity, or, which is the same thing, how does opulence arise from it?"

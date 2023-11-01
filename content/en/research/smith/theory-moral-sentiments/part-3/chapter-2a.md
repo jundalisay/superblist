@@ -4,7 +4,7 @@ heading: "Chapter 2a"
 description: "Praise is different from Praisworthiness, Blame is different from blameworthiness"
 date: 2015-09-28
 image: "/covers/tms.jpg"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 ---
 

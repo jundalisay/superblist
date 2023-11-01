@@ -18,13 +18,13 @@ Sir William Hamilton thought that it was “perhaps the most philosophical essay
 
 Smith wrote the following letter to Mr. Baird= 
 
-{{< q a="smith" >}}
-Glasgow, February 7, 1763<br><br>
-Dear Sir
-<br>
+{{< q a="Adam-Smith" >}}
+Glasgow, February 7, 1763
+
+Dear Sir,
+
 I have read your friend’s work and would like to encourage him.
-<br>
-<!-- and heartily wish it was in my power to give, or to procure him all the encouragement which his ingenuity and industry deserve. -->
+
 I am greatly obliged to him for the very obliging notice he has been pleased to take of me.
 I should be glad to contribute anything in my power to complete his design.
 I greatly approve of his plan for a Rational Grammar.

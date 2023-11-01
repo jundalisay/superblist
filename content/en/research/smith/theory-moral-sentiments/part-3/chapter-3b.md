@@ -4,7 +4,7 @@ heading: "Chapter 3b"
 description: "Misfortunes make our feelings extreme"
 date: 2015-09-16
 image: "/covers/tms.jpg"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 ---
 

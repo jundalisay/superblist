@@ -5,7 +5,7 @@ weight: 26
 image: "/covers/wn.jpg"
 description: "If the collector becomes bankrupt, the parish which elects him must answer for his conduct to the receiver-general of the election"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

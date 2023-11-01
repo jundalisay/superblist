@@ -4,7 +4,7 @@ heading: "Chapter 7p"
 description: "Even the regulations which secure to each nation the exclusive trade of its own colonies are frequently more hurtful to the beneficiary countries than to those countries which they are against"
 image: /covers/wn.jpg
 weight: 92
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 ---
 

@@ -5,7 +5,7 @@ linkTitle: "Chapter 5c"
 weight: 58
 image: "/covers/wn.jpg"
 description: "The Carrying Trade can be as important as the foreign trade of consumption"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

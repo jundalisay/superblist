@@ -4,7 +4,7 @@ heading: "Part 3za "
 weight: 74
 image: "/covers/wn.jpg"
 description: "In the Christian church's ancient constitution, the bishop of each diocese was elected by the joint votes of the clergy"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

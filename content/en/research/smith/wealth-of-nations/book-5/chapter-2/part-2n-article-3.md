@@ -5,7 +5,7 @@ weight: 36
 image: "/covers/wn.jpg"
 description: "The impossibility of taxing people according to their revenue by any capitation led to the invention of taxes on consumable commodities"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

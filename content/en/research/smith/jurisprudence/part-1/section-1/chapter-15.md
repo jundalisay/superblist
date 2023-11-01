@@ -3,7 +3,7 @@ heading: Chapter 15
 title: "Citizenship in a State"
 # date: 2015-09-04
 weight: 32
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "In most of the Swiss republics, the right of citizenship only belongs to those born of a citizen"

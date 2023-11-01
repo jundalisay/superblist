@@ -4,7 +4,7 @@ heading: "Part 3o"
 weight: 50
 image: "/covers/wn.jpg"
 description: "Intellectual Property and Corporation Rules"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

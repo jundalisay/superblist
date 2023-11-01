@@ -81,7 +81,7 @@ We use outcomes of changing events* to reveal the soul of the society, just as d
 
 These cycles then reveal the soul of the society, the most important aspects of which are its **age and phases**. Is a society metaphysically young and rising or old and stagnating? Has a country's soul been recently replaced by a new one? 
 
-{{< q a="hume" c="Essays by David Hume Simplified, The Populousness Of Ancient Nations">}}
+{{< q a="David-Hume" c="Essays by David Hume Simplified, The Populousness Of Ancient Nations">}}
 Society must therefore have its infancy, youth, manhood, and old age, similar to that each individual form which it contains. Man has these variations equally with every animal and plant.
 {{< /q >}}
 

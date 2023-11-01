@@ -37,7 +37,7 @@ This propensity is rooted in ego and is seen in the animal nature of survival of
 
 It's common to hear that investment bankers (the ones that fund production) being called wolves, as in 'The Wolf of Wall Street'. Smith very clearly explains that such a Production Motive is a mercantile sophistry:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 By such maxims as these, nations have been taught that their interest consisted in beggaring all their neighbours. Each nation has been made to look with an invidious eye upon the prosperity of all the nations with which it trades, and to consider their gain as its own loss. Commerce, which ought naturally to be, among nations,as among individuals,a bond of union and friendship, has become the most fertile source of discord and animosity.. But the mean rapacity, the monopolizing spirit of merchants and manufacturers,who neither are, nor ought to be, the rulers of mankind, though it cannot perhaps be corrected may very easily be prevented from disturbing the tranquillity of anybody but themselves.
 <cite>The Wealth Of Nations Book 4, Chapter 3</cite>
 {{< /q >}}
@@ -63,7 +63,7 @@ Social View | Human creatures are customers and sellers of each other,<br> isola
           <td>Downward sloping supply curve as people want<br> "to buy whatever they want of those who sell it cheapest".<br> Businesses will less likely attempt to create useless products or<br> those that cannot be sustainably produced because of limited resources.<br> Small companies can easily enter because of the bond of friendship</td> -->
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 Without a doubt, it was the spirit of monopoly which originally invented and propagated this doctrine. Those who first taught it were by no means such fools as those who believed it. In every country, it is always the people’s interest to buy whatever they want the cheapest. This proposition is so very manifest that it is ridiculous to take any pains to prove it. It could never have been questioned had not the sophistry of merchants and manufacturers confounded the common sense of mankind. Their interest is directly opposite of the people’s interest.
 {{< /q >}}
 

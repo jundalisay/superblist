@@ -11,21 +11,23 @@ date: 2020-03-28
 THE Romans, by destroying others, were themselves destroyed. Through incessant action they wore out like a weapon kept constantly in use.
 
 How did the Romans increase their population?
-<!-- I shall not here speak of the attention with which they applied themselves to procure* citizens in the room of those they lost, of the associations they entered into, the privileges they bestowed, and of that immense nursery of citizens, their slaves. I shall mention what they did to recruit the number, not of their citizens, but of their men; and as these were the people in the world who knew best how to adapt their laws to their projects, an examination of their conduct, in this respect, cannot be a matter of indifference. -->
 
 
 ## Chapter 21: Roman Population Laws
 
 THE ancient laws of Rome tried hard to get people to marry. Dio says that Augusus said:
-<!-- The senate and [138] the people made frequent regulations on this subject, as Augustus says in his speech related by Dio*. -->
 
-Dionysius Halicarnasseus† cannot believe that after the death of 305 of the Fabii, exterminated by the Veientes, there remained no more of this family but one child; because the ancient law, which obliged every citizen to marry and to educate all his children‡, was still in force.
+The Fabii family was exterminated by the Veientes.
+
+Dionysius Halicarnasseus† could not believe that but one child remained. This is because the ancient law which obliged every citizen to marry and to educate all his children‡, was still in force.
 
 Independently of the laws, the censors focused on marriages. According to the republic's exigencies, they resorted to marriages by shame and by punishments.
 
 The corruption of manners that began to take place, contributed vastly to disgust the citizens against marriage, which was painful to those who had no taste for the pleasures of innocence. 
 
-Metellus Numidicus was a censor who spoke to the people=  “If it were possible for us to do without wives, we should deliver ourselves from this evil=  but as nature has ordained that we cannot live very happily with them, nor subsist without them, we should have more regard to our own preservation, than to transient gratifications.”
+Metellus Numidicus was a censor. He spoke to the people:
+
+“If it were possible for us to do without wives, we should deliver ourselves from this evil=  but as nature has ordained that we cannot live very happily with them, nor subsist without them, we should have more regard to our own preservation, than to transient gratifications.”
 
 The corruption of manners destroyed the censorship, which was itself established to destroy the corruption of manners=  for when this depravation became general, the censor lost his power.
 
@@ -37,10 +39,16 @@ The laws of Augustus were more pressing. He imposed new penalties on the unmarri
 
 The law of Augustus had many obstacles. ; and thirty-four years∥∥ after it had been made, the Roman knights insisted on its being abolished. 
 
-He placed on one side such as were married, and on the other side those who were not=  these last appeared by far the greatest number; upon which the citizens were astonished and confounded. Augustus, with the gravity of the ancient censors, spoke to them= 
+He placed on one side such as were married, and on the other side those who were not=  these last appeared by far the greatest number; upon which the citizens were astonished and confounded. 
 
-{{< q a="smith" >}}
-Sickness and war snatch away so many citizens. What will happen without marriages? <!-- the city does not consist of houses, of porticos, of public places, but of inhabitants. You do not see men, like those mentioned in Fable, starting out of the earth to take care of your affairs. --> Your celibacy is not owing to the desire of living alone=  for none of you eats or sleeps by himself. You only seek to enjoy your irregularities undisturbed. Do you cite the example of the Vestal Virgins? If you preserve not the laws of chastity, you should be punished like them. You are equally bad citizens, whether your example has an influence on the rest of the world, or whether it be disregarded. My only view is the perpetuity of the republic. I have increased the penalties of those who have disobeyed; and with respect to rewards, they are such, as I do not know whether virtue has ever received greater. For less will 1,000 men expose life itself; and yet will not these engage you to take a wife, and provide for children?
+Augustus, with the gravity of the ancient censors, spoke to them:
+
+{{< q a="Augustus" >}}
+Sickness and war snatch away so many citizens. What will happen without marriages? Your celibacy is not owing to the desire of living alone=  for none of you eats or sleeps by himself. You only seek to enjoy your irregularities undisturbed. 
+
+Do you cite the example of the Vestal Virgins? If you preserve not the laws of chastity, you should be punished like them. You are equally bad citizens, whether your example has an influence on the rest of the world, or whether it be disregarded. My only view is the perpetuity of the republic.
+
+I have increased the penalties of those who have disobeyed; and with respect to rewards, they are such, as I do not know whether virtue has ever received greater. For less will 1,000 men expose life itself; and yet will not these engage you to take a wife, and provide for children?
 {{< /q >}}
 
 
@@ -61,7 +69,11 @@ The Romans sprung from the cities of the Latins which were Spartan colonies. The
 
 She gave others to those who had children, and more to those who had three children. These three things must not be confounded. These last had those privileges which married men constantly enjoyed; as for example, a particular place in the theatre*; they had those which could only be enjoyed by men who had children; and which none could deprive them of but such as had a greater number.
 
-These privileges were very extensive. The married men, who had the most children were always preferred whether in the pursuit, or in the exercise of honours. The consul, who had the most offspring, was the first who received the fasces; he had his choice of the∥ provinces=  the senator, who had most children, had his name written first in the catalogue of senators, and was the first in giving his opinion in the senate. 
+These privileges were very extensive.
+
+The married men, who had the most children were always preferred whether in the pursuit, or in the exercise of honours. 
+
+The consul, who had the most offspring, was the first who received the fasces; he had his choice of the∥ provinces: the senator, who had most children, had his name written first in the catalogue of senators, and was the first in giving his opinion in the senate. 
 
 They might even stand sooner than ordinary for an office, because every child gave a dispensation of a year**. If an inhabitant of Rome had three children, he was exempted from all troublesome offices. The free-born women who had three children, and the freed-women who had four, passed out of that perpetual tutelage, in which they had been held by the ancient laws of Rome.
 
@@ -73,7 +85,7 @@ If a husband absented himself from his wife on any other cause than the affairs 
 
 The law gave to a surviving husband or wife two years§ to marry again, and a year and a half in case of a divorce. The fathers who would not suffer their children to marry, or refused to give their daughters a portion, were obliged to do it by the magistrates.
 
-They were not allowed to betroth, when the marriage was to be deferred for more than two years††; and as they could not marry a girl till she was twelve years old, they could not be bethrothed to her, till she was ten. The law would not suffer them to [144] trifle* to no purpose; and under a pretence of being betrothed, to enjoy the privileges of married men.
+They were not allowed to betroth, when the marriage was to be deferred for more than two years††; and as they could not marry a girl till she was twelve years old, they could not be bethrothed to her, till she was ten. The law would not suffer them to trifle* to no purpose; and under a pretence of being betrothed, to enjoy the privileges of married men.
 
 It was contrary to law for a man of 60 to marry a woman of 50. As they had given great privileges to married men, the law would not suffer them to enter into useless marriages. For the same reason, the Calvisian Senatus Consultum declared the marriage of a woman above 50, with a man less than 60, to be‡ unequal; so that a woman of 50 years of age could not marry, without incurring the penalties of these laws. 
 

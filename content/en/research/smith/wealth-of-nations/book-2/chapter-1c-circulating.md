@@ -3,7 +3,7 @@ heading: "Chapter 1c"
 title: "Circulating Capital"
 linkTitle: "Chapter 1c"
 weight: 8
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "Money has wholesale and retail"
 icon: "/avatars/smith.png"

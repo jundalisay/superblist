@@ -6,7 +6,7 @@ heading: "Chapter 7r"
 description: "The English and Dutch companies only established 2 considerable colonies: Jakarta and South Africa"
 image: /covers/wn.jpg
 weight: 96
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 ---
 

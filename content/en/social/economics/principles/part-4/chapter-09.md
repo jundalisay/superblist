@@ -18,7 +18,7 @@ Few people know that Adam Smith was making a free trade system as part of a worl
 
 This EG would begin as a free trade system which in time will need a tax to support it. 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The revenue might be very much increased without increasing the burden on most of the people through:
 a more equal land-tax,
 a more equal tax on house rents, and

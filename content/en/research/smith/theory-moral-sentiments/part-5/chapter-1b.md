@@ -3,7 +3,7 @@ title: "Custom and Fashion in the Arts"
 heading: "Chapter 1b"
 description: "These could not be interchanged without the greatest impropriety. However, modern writing contradicts this principle even though modern writing appears extremely proper. The burlesque verse in English is the heroic verse in French"
 weight: 22
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

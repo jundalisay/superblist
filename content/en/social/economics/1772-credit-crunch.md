@@ -33,7 +33,7 @@ Immediate Effect | The American Colonies Revolt | Toppled Governments in ASEAN, 
 
 The 1773 Tea Act was used to bail out the East India Company, IMF loans were used to bailout the Asian banking system, and the TARP was used to bail out the investment banks. These solutions addressed the effect and not the cause of the crisis which were the big companies, or what Adam Smith calledprojectors.
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 <p>The debtors of such a bank..were likely..chimerical projectors, the drawers and re-drawers of circulating bills of exchange, who would employ the money in extravagant undertakings..</p>
 {{< /q >}}
 
@@ -47,7 +47,7 @@ Since the solutions did not address the root causes, more problems emerged. The 
 The QE solution is bit unique because it is arbitrary. Unlike the 1773 Tea Act which took money from the colonies and the IMF bailouts which come from its member countries, the money from QE is just created arbitrarily. While the sourcing of funds for the first two are felt immediately by the suppliers of those funds, the effects of QE have a long delay. The pain from the Tea Act and IMF bailouts created instant protests, but the pain from QE will be felt by the later generations -- those who did not cause the problem. An easy proof is Japan which has been doing QE since the 90s and now has a huge public debt for little gain.
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 <p>Such improvident anticipations gave birth to the more ruinous practice of perpetual funding. This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come. However, it raises more money than the old practice of anticipation. When men became familiar with funding, it became universally preferred to anticipation during great state exigencies. Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.</p>
 {{< /q >}}
 

@@ -5,7 +5,7 @@ weight: 34
 image: "/covers/wn.jpg"
 description: "Taxes which should fall indifferently on every Species of Revenue"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

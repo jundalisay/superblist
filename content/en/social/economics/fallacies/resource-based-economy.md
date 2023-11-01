@@ -26,7 +26,7 @@ Its most striking feature is that it aims to distribute goods and services witho
 It hopes to do this by using technology to reduce scarcity. This makes it seem consistent with David Hume's assertion that the two factors that cause human problems are selfishness and scarcity:
 
 
-{{< q a="hume" >}}
+{{< q a="David-Hume" >}}
 <p>Increase the benevolence of men or the bounty of nature, and you render justice unnecessary</p>
 <cite>Simple Treatise of Human Nature, Book 3, Part 2, Section 3</cite>
 {{< /q >}}

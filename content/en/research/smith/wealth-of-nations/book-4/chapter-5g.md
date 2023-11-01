@@ -4,7 +4,7 @@ heading: "Chapter 5e"
 description: "The merchant importer of foreign wheat for home consumption contributes to the home market's immediate supply"
 image: /covers/wn.jpg
 weight: 50
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 --- 
 

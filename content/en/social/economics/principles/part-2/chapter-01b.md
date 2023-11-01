@@ -31,7 +31,7 @@ People confuse Smith's labour theory with that of Marx simply because both use t
 
 Fortunately, Smith explains his theory in just one chapter -- [Chapter 5 of The Wealth of Nations](/research/smith/wealth-of-nations/book-1/chapter-5a). It is clear that 'labour' to Smith is rooted in psychology instead of physics when he equates it to toil and trouble:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The real price of everything.. is the toil and trouble of acquiring it. What everything is really worth to the man who has acquired it, and who wants to dispose of it or exchange it for something else, is thetoil and trouble which it can save to himself, and which it can impose upon other people. What is bought with money or with goods is purchased by labour as much as what we acquire by thetoil of our own body. That money or those goods indeed save us this toil.
 {{< /q >}}
 
@@ -42,7 +42,7 @@ Person A who has no interest learning how to play the guitar (who we shall call 
 
 This is evident in Smith's maxim:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 At all times and places that is dear which it is difficult to come at, or which it costs much labour to acquire; and that cheap which is to be had easily, or with very little labour. Labour alone, therefore, never varying in its own value, is alone the ultimate and real standard by which the value of all commodities can at all times and places be estimated and compared. It is their real price; money is their nominal price only.
 {{< /q >}}
 
@@ -151,7 +151,7 @@ With that, we can safely translate Smith's 18th-century words into modern Englis
 
 **Original**
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 a measure of quantity, such as the natural foot, continually varies. It can never be an accurate measure of other things; so a commodity which is itself continually varying in its own value, can never accurately measure the value of other commodities. 
 
 Equal quantities of labour, at all times and places, is be of equal value to the labourer.. The labor which he pays must always be the same, whatever the quantity of goods which he receives for it. 
@@ -164,7 +164,7 @@ Labour alone, therefore, never varying in its own value, is alone the ultimate a
 
 **Translated with 'toil and trouble'**
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 A commodity that always varies in value can never be an accurate measure of the value of other commodities. Just as a natural foot can never be an accurate measure.. Always and everywhere, equal quantities of toil and trouble is of equal value to the worker. 
 
 In his ordinary state, he must always lay down the same portion of his ease, liberty, and happiness. The price which he pays must always be the same, though sometimes it buys varying amounts of commodity. 

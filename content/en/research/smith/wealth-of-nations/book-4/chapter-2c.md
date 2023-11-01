@@ -4,7 +4,7 @@ heading: "Chapter 2c"
 description: "There are two cases when it will be advantageous to lay some burden on foreign industry to encourage domestic industry"
 image: /covers/wn.jpg
 weight: 22
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 --- 
 

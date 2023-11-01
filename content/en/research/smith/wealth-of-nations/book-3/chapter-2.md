@@ -4,7 +4,7 @@ title: "The Discouragement of Agriculture after the Fall of the Roman Empire"
 weight: 10
 image: "/covers/wn.jpg"
 description: "The Rise of Cities After the Fall of Rome The Freedom in European Towns"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

@@ -63,7 +63,7 @@ From here, we can explain the affinities and oppositions of different beliefs an
 
 From the era of Classical Economics of Xenophon and the early Marginal Revolution of Marshall up to Arthur Pigou (the 'last' Classical economist) of the 1920s, money, banking, and interest rates were not so critical in Economics as today. <!-- Money, interest rates, and banking were not so important during the Classical Era. --> In fact, Xenophon says that money can be banished and the economy would still work. This is supported by Adam Smith:
 
-{{< q a="smith" c="The Simple Wealth of Nations Book 4, Chapter 1" >}}
+{{< q a="Adam-Smith" c="The Simple Wealth of Nations Book 4, Chapter 1" >}}
 Among the Mongols and shepherd nations who are ignorant of the use of money, cattle are the instruments of commerce and the measures of value. Wealth to them consisted in cattle, as to the Spaniards it consisted in gold and silver. <i>Of the two, the Mongol notion was the nearest to the truth.</i>
 {{< /q >}}
 

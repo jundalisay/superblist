@@ -142,7 +142,7 @@ Japan was the first country to implement aggressive quantitative easing and is a
 
 > Update Jan 2021: The failure of Abenomics and the 2020 Olympics, along with the resignation of Abe and the rise of Japanese taxes prove the failure of Keynesian policies
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 Such improvident anticipations gave birth to the more ruinous practice of perpetual funding. This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come. However, it raises more money than the old practice of anticipation. When men became familiar with funding, it became universally preferred<!--  to anticipation during great state exigencies. Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity. -->
 <cite>Simple Wealth of Nations Book 5</cite>
 {{< /q >}}

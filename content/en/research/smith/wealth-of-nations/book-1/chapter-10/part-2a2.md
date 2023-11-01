@@ -2,7 +2,7 @@
 title: "Exclusive Corporations"
 heading: "Part 2a2"
 weight: 68
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "All corporations and most of corporation laws have been established to prevent this reduction of price by restraining that free competition which would most certainly occasion it"
 icon: "/avatars/smith.png"

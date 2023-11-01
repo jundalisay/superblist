@@ -1,6 +1,6 @@
 ---
 title: "Simplification Notes"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 weight: 100
 image: "/covers/wn.jpg"
 description: ""

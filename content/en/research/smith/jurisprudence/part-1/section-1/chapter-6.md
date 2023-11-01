@@ -3,7 +3,7 @@ heading: Chapter 6
 title: "How Military Monarchy was Dissolved"
 # date: 2015-09-22
 weight: 14
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "The arts and commerce of Rome improved under their imperial government. The people become acquainted with arts, commerce and consequently, domestic luxury"

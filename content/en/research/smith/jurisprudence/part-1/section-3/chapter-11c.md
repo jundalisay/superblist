@@ -1,7 +1,7 @@
 ---
 heading: Chapter 11c
 title: "Theft. Robbery, and Piracy"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "A man may be injured in his moveables 3 ways"

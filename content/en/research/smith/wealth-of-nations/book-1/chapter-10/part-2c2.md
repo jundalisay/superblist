@@ -4,7 +4,7 @@
 title: "Inequality from Wage Controls"
 heading: "Part 2c2"
 weight: 74
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "The chance of loss is frequently under-valued and rarely valued more than it is worth"
 icon: "/avatars/smith.png"

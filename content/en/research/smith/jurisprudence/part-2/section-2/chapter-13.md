@@ -6,7 +6,7 @@ heading: "Chapter 13"
 weight: 30
 image: "/covers/lectures.jpg"
 description: "The Mississippi Company seemed to start in a very flourishing condition. Shares were bought at a very considerable rate, so he opened a subscription to it at 500 livres"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

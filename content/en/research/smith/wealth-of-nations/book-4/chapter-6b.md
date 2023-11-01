@@ -4,7 +4,7 @@ heading: "Chapter 6b"
 description: "Nobody imagines that the annual gold coinage of more than £800,000 a year for 10 years, was an addition to the money in the kingdom"
 image: /covers/wn.jpg
 weight: 60
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 ---
 

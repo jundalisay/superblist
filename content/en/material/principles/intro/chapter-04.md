@@ -51,10 +51,12 @@ The pushing leads to the creation and expansion of physical space, first as 2-di
 
 This "pushing" is similar to the theory of Descartes which was destroyed by Newton:
 
-{{< q a="smith" >}}
-According to Descartes, through an eternal revolution from rest to motion and motion to rest, the amount of motion in the universe was always the same. But there was no void. No part of matter could be moved without thrusting some other out of its place. The matter which any body pushed before it, rolled immediately backwards, to supply the place of that matter which flowed in behind it. This is similar to the swimming of a fish. The water, which it pushes before it, immediately rolls backwards, to supply the place of what flows in.<br><br> It thus forms a vortex around the body of the fish. In the same way, the motion originally impressed by the Creator on matter produced in it an infinity of vortices, or circular streams. 
+{{< q a="Adam-Smith" c="The History of Astronomy by Adam Smith Simplified" >}}
+According to Descartes, through an eternal revolution from rest to motion and motion to rest, the amount of motion in the universe was always the same. But there was no void. 
 
-<cite>The History of Astronomy by Adam Smith Simplified</cite>
+No part of matter could be moved without thrusting some other out of its place. The matter which any body pushed before it, rolled immediately backwards, to supply the place of that matter which flowed in behind it. 
+
+This is similar to the swimming of a fish. The water, which it pushes before it, immediately rolls backwards, to supply the place of what flows in. It thus forms a vortex around the body of the fish. In the same way, the motion originally impressed by the Creator on matter produced in it an infinity of vortices, or circular streams. 
 {{< /q >}}
 
 
@@ -75,10 +77,8 @@ Thus, spacetime is created by the mere existence or popping-in of the qosts from
 
 ## The Aether: The Source of All Movement in the Physical Universe
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" c="The History of Astronomy by Adam Smith Simplified" >}}
 [According to Descartes]..the Sun was the fiery center of a circular stream of ether, which flowed continually round her.
-
-<cite>The Simplified History of Astronomy by Adam Smith</cite>
 {{< /q >}}
 
 
@@ -93,20 +93,15 @@ In reality, the aether* is invisible and immaterial. It interacts instead with f
 > *We write aether with an "a" to differentiate it from the disproven* ether of science and Descartes. This is similar to writing dialectics as "Socratic Dialectics" to set it apart from the corrupted dialetics of Marx.  Einstein claims that the Michelson and Morley experiment disproved the ether. In reality, it merely proved that the aether does not reside in the spacetime layer, but in its own layer as the aethereal layer.
 
 
-<!-- Instead, the aether is the medium for metaphysical things like ideas*, thoughts, beliefs, minds, souls, spirit, and feelings.  -->
-
 The metaphysical idea* for a galaxy then is translated into an actual physical galaxy by qosts (monads, gravitons, Schwarzschild radii) of the spatial layer.
 
 
 > *This leads to the [Socratic Theory of Forms](/research/socrates/phaedo/chapter-8), which leads to Essences
 
 
-{{< q a="mont" >}}
+{{< q a="Montesquieu" c="Spirit of the Laws, Book 1" >}}
 Intelligent beings might have laws of their own making. But they also have some which they never made. Before there were intelligent beings, they were a possibility.
-
-<cite>Spirit of the Laws, Book 1</cite>
 {{< /q >}}
-
 
 
 The cause of spacetime therefore is the cognition of this appearance of qosts which is caused by internal "aethereal"* factors. This is the opposite of Newton and Einstein who believed that movement is sourced from matter. 
@@ -127,9 +122,9 @@ Einstein defined time as the time that it takes for light to travel between two 
 
 {{< q a="Einstein-sophist" c="Relativity Simplified, Section 8" >}}
 We test simultaniety by putting an observer in the middle M between A and B. He as two mirrors inclined at 90° to let him see both A and B at the same time. If he sees the two flashes of lightning at the same time, then they are simultaneous.
-<br><br>
+
 You object by saying that they would only be true, that time would be simultaniety, if all light travels at a constant speed. <i><b>But the speed of light would itself be measured by time, so this is reasoning in a circle -- simultaniety has absolutely nothing to do with light.</b></i>
-<br><br>
+
 I answer that this simultaneity of time is only used for us to make empirical decisions. 
 {{< /q >}}
 
@@ -202,10 +197,4 @@ Descartes | Gravity is caused by the aether which creates spinning vortices | Im
 Newton | Gravity comes from mass | No observations of galactic movements | Mass comes from gravity, gravity comes from the aether | 5/10
 Einstein | Gravity comes from mass through the distortions of the spacetime fabric or field | Using light as the measuring rod | Use sound as the measuring rod, in line with Kepler and Pythagoras | 3/10
 
-<!-- An example of an aethereal object is a mind. This is why time flies when a mind is having fun. Whereas physical time is constant   -->
-
-
-
-<!-- This is in line with David Hume saying that his 'science of man' (the basis of Superphysics) will be much more useful than the prevailing sciences.
- -->  
 As you can see, aethereal bands are far more important than spatial bands and that is why we are focusing on it more. As such, we will explain it next by explaining the aethereal layer. 

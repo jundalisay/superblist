@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "The Extent of the Influence of Outcome"
 weight: 10
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/tms.jpg"
 description: "If an accident hinders the successful outcome of an endeavor, the merit of the talents seems imperfect even to those who know of such talent"
@@ -32,11 +32,11 @@ This irregularity of feeling is=
 
 People can have sympathy with our friendhip even if we think that we are on a level with our friend. But people cannot have sympathy with our gratitude if we do not feel inferior to our benefactor. 
 
-When a person tries to help us but fails, people commonly say that we should be grateful both to= 
+When a person tries to help us but fails, people commonly say that we should be grateful both to:
 - the man who has tried to help us
 - the man who actually helped us. 
 
-Like all fine speeches, this must be understood with a grain of allowance. A generous man may often have the same affection for= 
+Like all fine speeches, this must be understood with a grain of allowance. A generous man may often have the same affection for:
 - the friend who fails and
 - the friend who succeeds.
 
@@ -44,9 +44,17 @@ The more generous he is, the more those two affections match.
 <!--  those feelings come to an exact level. -->
 <!-- We say this every time an unsuccessful attempt of this kind happens.  -->
 
-It gives more pleasure <!-- to the truly generous --> to be esteemed by esteemed people. Accordingly, with all things equal, we will have more favour with our friend who succeeds than our friend who fails. Mankind is so unjust in this respect that people think that we should have more gratitude to some benefactors than others.
+It gives more pleasure to be esteemed by esteemed people.
 
-Let us say that a benefector has the best intentions to help. Yet he could actually do no more than to help so little, relative to others. People say that we are not obliged to be grateful to him since, had it not been for the help of others, his own effort to help would be fruitless. People imagine that this should reduce the debt they owe to him, even in the eyes of the impartial spectator. 
+We will have more favour with our friend who succeeds than our friend who fails. 
+
+Mankind is so unjust in this respect that people think that we should have more gratitude to some benefactors than others.
+
+Let us say that a benefector has the best intentions to help.
+
+Yet he could actually do no more than to help so little, relative to others. 
+
+People say that we are not obliged to be grateful to him since, had it not been for the help of others, his own effort to help would be fruitless. People imagine that this should reduce the debt they owe to him, even in the eyes of the impartial spectator. 
 
 The person who has unsuccessfully tried to help does not have: 
 - the same dependence on the gratitude of the man he was trying to help
@@ -103,6 +111,7 @@ The design to commit a crime, no matter how clearly proven, is never punished as
 - In the punishment of other crimes, the sovereign resents the injuries done to others.
 
 <!-- It is his own resentment which he indulges in treason. It is the resentment of his subjects which by sympathy he enters into in the other crimes.  -->
+
 Therefore in treason, he judges in his own cause. He is often more violent in his punishments than the impartial spectator can approve of. His resentment too rises here on smaller occasions. It does not need to even <!-- , as in other cases, --> wait for crime. In many countries, a treasonable plan or conversation, which does nothing, is punished as the actual treason. But with other crimes, the mere design is seldom punished at all.
 
 A criminal design and a criminal action do not necessarily suppose the same degree of depravity. Therefore, they should not be subjected to the same punishment. We can think of doing many things which we eventually do not perform. <!-- But this reason can have no place when the design has been carried the length of the last attempt.  -->
@@ -141,15 +150,28 @@ His hands might be innocent, but his heart is guilty for wanting to do the crime
 
 An action's good consequences often throw a shadow of merit on its actor, even if his intention did not deserve praise. An action's bad consequences often throw a shadow of merit on its actor, even if his intention did not deserve blame. 
 
-Thus, even the messenger of bad news is disagreeable to us. On the contrary, we are grateful to the man who brings us good tidings. We look onto them as the authors of our fortune. We see them as if they had caused the events they reported. The messenger who gives us joy is naturally the object of our transitory gratitude. We would be glad to reward him for his service. By the custom of all courts, the officer who brings the news of a victory is entitled to considerable preferments. The general always chooses one of his favourites for such an errand.
+Thus, even the messenger of bad news is disagreeable to us. 
 
-On the contrary, the messenger who brings us sorrow is the object of our transitory resentment. We can scarce avoid looking on him with chagrin and uneasiness. The rude and brutal often vent on him that spleen which his intelligence gives occasion to.
+On the contrary, we are grateful to the man who brings us good tidings. We look onto them as the authors of our fortune. We see them as if they had caused the events they reported. 
 
-Tigranes was the king of Armenia. He executed anyone who brought him the first account of the approach of a formidable enemy. To punish the bringer of bad tidings in this way seems barbarous and inhuman. Yet, to reward the messenger of good news, is not disagreeable to us.
-<!-- We think it suitable to the bounty of kings. -->
+The messenger who gives us joy is naturally the object of our transitory gratitude.
+- We reward him for his service.
+
+By the custom of all courts, the officer who brings news of a victory is entitled to considerable preferments. 
+
+The general always chooses one of his favourites for such an errand.
+
+On the contrary, we resent the messenger who brings us sorrow.
+
+<!-- We can scarce avoid looking on him with chagrin and uneasiness. The rude and brutal often vent on him that spleen which his intelligence gives occasion to. -->
+
+Tigranes was the king of Armenia.
+
+He executed anyone who brought him the first account of the approach of a formidable enemy. To punish the bringer of bad tidings in this way seems barbarous and inhuman.
+
+Yet, to reward the messenger of good news, is not disagreeable to us.
 
 Why do we make this difference? Why is the messenger either great or at fault for bringing the news?
-<!-- , since, if there is no fault in the one, neither is there any merit in the other? -->
 
 It is because any reason is enough to authorize the exertion of the social and benevolent affections. But the most substantial reason is needed to make us sympathize with the unsocial and malevolent affections.
 
@@ -203,6 +225,12 @@ Without this accident we would:
   - fearful weakness, and
   - a useless anxiety of possible events.
 
-The person who accidentally hurts another naturally runs to the sufferer to express his concern. If he has any sensibility, he would want to compensate the damage and do everything to appease that animal resentment which he knows will arise in the sufferer's breast. It is the highest brutality to make no apology nor atonement. Yet why should he apologize when he is equally innocent? Not even the impartial spectator would feel for the unjust resentment of that other person.
+The person who accidentally hurts another naturally runs to the sufferer to express his concern.
+
+If he has any sensibility, he would want to appease that animal resentment which he knows will arise in the sufferer's breast.
+
+It is the highest brutality to make no apology nor atonement.
+
+Yet why should he apologize when he is equally innocent? Not even the impartial spectator would feel for the unjust resentment of that other person.
 <!-- as any other bystander, be singled out to make up for another's bad fortune? This task would surely never be imposed on him. 
  -->

@@ -60,7 +60,7 @@ However, it also shows that there are three makers selling 60,000 doses at varyi
 
 This 50% truth of Economics is what Adam Smith says of the Commercial or Mercantile system --the businessmen and merchants take half-truths and then impose that as the truth onto everyone.
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 <p>Those arguments were partly solid and partly sophistical.. However, they convinced the parliaments.. Those arguments were created by those who were supposed to understand trade for those who knew nothing about trade. Experience demonstrated that foreign trade enriched the country. But how it enriched the country, none of them knew well. The merchants knew perfectly how it enriched themselves. <!-- It was their business to know it. --> But to know how it enriched the country was none of their business.</p>
 <cite>The Simple Wealth Of Nations, Book 4</cite>
 {{< /q >}}

@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "The Utility of the sense of justice"
 weight: 14
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/tms.jpg"
 description: "Society requires the virtue called Justice which is sustained by the utility afforded by society"
@@ -31,22 +31,20 @@ However, it will be less happy and agreeable. Society may subsist among differen
 A society of robbers and murderers must at least abstain from robbing and murdering one another. Therefore, beneficence is less essential to society's existence than justice. Society may subsist without beneficence, though not in the most comfortable state. But the prevalence of injustice must utterly destroy it.
 
 
-18 Nature exhorts mankind to acts of beneficence, by the pleasing consciousness of deserved reward. However, she has not thought it necessary to enforce beneficence by the terrors of punishment if it were neglected. 
+{{< s v="18" >}} Nature exhorts mankind to acts of beneficence, by the pleasing consciousness of deserved reward. However, she has not thought it necessary to enforce beneficence by the terrors of punishment if it were neglected. 
 
 Beneficence is the ornament which embellishes the building, not the foundation which supports it. Therefore, it was sufficient to recommend, but not necessary to impose. 
 
 Justice, on the contrary, is the main pillar that supports the building. If it is removed, the great, immense fabric of human society must crumble into atoms. That fabric which raises and supports us in this world was the peculiar and darling care of Nature. To enforce the observation of justice, Nature has implanted in the human breast as the great safeguards of society: 
 - that consciousness of demerit and
 - those terrors of punishment
-<!--  which attend the violation of the following: 
-- to protect the weak
-- to curb the violent
-- to chastise the guilty -->
 
-Men are naturally sympathetic. But they feel so little for those they have no particular connection with, compared to what they feel for themselves. The misery of a person, that they do not know, is of so little importance to them compared to their own small convenience. They can even hurt him and may have had many temptations to do so. Like wild beasts, they would always be ready to fly on him if this principle did not: 
+
+Men are naturally sympathetic. But they feel so little for those they have no particular connection with, compared to what they feel for themselves. 
+
+The misery of a person, that they do not know, is of so little importance to them compared to their own small convenience. They can even hurt him and may have had many temptations to do so. Like wild beasts, they would always be ready to fly on him if this principle did not: 
 - stand up within them in his defence, and
 - overawe them to respect his innocence.
-<!--  person, who is merely their fellow-creature, -->
 
 A man would enter an assembly of men as he enters a den of lions.
 
@@ -58,15 +56,20 @@ A man would enter an assembly of men as he enters a den of lions.
 1. The support of the individual
 2. The propagation of the species
 
-But we still distinguish the effect from the ultimate cause. Digestion, blood circulation, and the secretion of the juices drawn from it, are necessary operations for the great purposes of animal life. Yet we never: 
-- separate those purposes from their ultimate causes <!-- try to account for them from those purpose of life as from their efficient causes -->
+But we still distinguish the effect from the ultimate cause. Digestion, blood circulation, and the secretion of the juices drawn from it, are necessary operations for the great purposes of animal life. 
+
+Yet we never: 
+- separate those purposes from their ultimate causes
 - imagine that the blood circulates or that food digests of its own accord merely to circulate or digest
 
 The gears of the watch are all adjusted for its end purpose of pointing the hour. All its motions conspire to produce this effect, as if those wheels had a desire in themselves to show the hour. Yet we always ascribe such a desire or intention to the watch-maker and never to the gears.
 
-<!-- The spring does not intend to tell the hour as much as the wheels do. -->
 
-Similarly, in accounting for the operations of bodies, we always distinguish the effect from the ultimate cause. But in accounting for the mind's operations, we usually confound cause with effect. An enlightened reason naturally leads us to advance the two ends of support and propagation. We conclude that the cause of that reason is our feelings.<!--  sentiments and actions to advance those ends. --> We imagine this cause to be the wisdom of man, which in reality is the wisdom of God. Superficially, this cause seems enough to produce those two effects. The system of human nature is more simple and agreeable when all its operations are deduced from a single principle.
+Similarly, in accounting for the operations of bodies, we always distinguish the effect from the ultimate cause.
+
+But in accounting for the mind's operations, we usually confound cause with effect. An enlightened reason naturally leads us to advance the two ends of support and propagation. We conclude that the cause of that reason is our feelings.
+
+We imagine this cause to be the wisdom of man, which in reality is the wisdom of God. Superficially, this cause seems enough to produce those two effects. The system of human nature is more simple and agreeable when all its operations are deduced from a single principle.
 
 
 {{< s v="20" >}} Society cannot subsist unless the laws of justice are tolerably observed. No social intercourse can happen between men who always injure each other. It has been thought that this necessity led to law enforcement. It has been said that man: 
@@ -77,7 +80,11 @@ Society's order is agreeable to him. Its disorder and confusion, on the contrary
 - his own interest is connected with society's prosperity, and
 - the happiness, and perhaps his existence, depends on its preservation.
 
-Therefore, man abhors whatever can destroy society. <!-- He is willing to do anything to hinder it. Injustice necessarily tends to destroy society. --> Every appearance of injustice, therefore, alarms him and so he runs to stop the progress of injustice. <!-- If allowed to go on, it would quickly end everything that is dear to him. --> If he cannot restrain it gently then he must beat it down by force. <!-- At any rate, he must stop its further progress. --> Hence they say: 
+Therefore, man abhors whatever can destroy society.
+
+Every appearance of injustice, therefore, alarms him and so he runs to stop the progress of injustice. <!-- If allowed to go on, it would quickly end everything that is dear to him. --> If he cannot restrain it gently then he must beat it down by force. 
+
+Hence they say: 
 
 {{< q >}}
 Man approves of law enforcement, even the capital punishment of its violators. The disturber of the public peace is hereby removed out of the world. Others are terrified by his fate from imitating his example.
@@ -109,9 +116,19 @@ On this account, we generally cast about for other arguments. Its first consider
 {{< s v="23" >}} All licentious practices tends to destroy society. But this seldom animates us initially against them. Everyone, even the most stupid and unthinking, abhors fraud, perfidy, and injustice. <!-- Everyone delights to see them punished. --> But few men have reflected on the necessity of justice no matter how obvious that necessity may be.
 
 
-{{< s v="24" >}} We are originally interested in punishing crimes [to protect ourselves] and not to preserve society. We are concerned about a person's loss because we are concerned about him, and not because he is a member of society. We are concerned for the loss of a single guinea because we are concerned about it, and not because that guinea is a part of 1,000 guineas.
+{{< s v="24" >}} We are originally interested in punishing crimes to protect ourselves and not to preserve society.
 
-This concern does not necessarily include any love, esteem, and affection that we have for our friends. It arises from our general fellow-feeling. We even sympathize with an odious person when he is injured wrongly. In this case, our disapprobation of his ordinary character does not prevent our fellow-feeling with his natural resentment. Though it is damped with those who are not used to the rules of justice.
+We are concerned about a person's loss because we are concerned about him, and not because he is a member of society. 
+
+We are concerned for the loss of a single guinea because we are concerned about it, and not because that guinea is a part of 1,000 guineas.
+
+This concern does not necessarily include any love, esteem, and affection that we have for our friends.
+- It arises from our fellow-feeling.
+
+We even sympathize with an odious person when he is injured wrongly.
+
+In this case, our disapprobation of his ordinary character does not prevent our fellow-feeling with his natural resentment. Though it is damped with those who are not used to the rules of justice.
+
 <!-- for our fellow-creatures -->.
 <!-- - we should be concerned for the society's destruction, --> 
 <!-- - we should be concerned for the loss of the whole sum. -->
@@ -142,7 +159,8 @@ Yet this punishment always appears to be excessively severe.
 
 The sentinel's carelessness appears very blamable. Yet it does not naturally excite enough resentment for us to take revenge. A man of humanity must exert his whole firmness and resolution before he can inflict it or let it be inflicted by others.
 
-However, he does not look on the just punishment of an ungrateful murderer in this way. <!-- His heart applauds the just retaliation due to such detestable crimes. --> 
+However, he does not look on the just punishment of an ungrateful murderer in this way.
+
 
 He would be very enraged if his crime escaped unpunished. A wise man's very different feelings on those different punishments is a proof that his rejection of the one is based on different principles from his approbation of the other. He looks on the sentinel as an unfortunate victim who must be devoted to the safety of many. But he would still be glad to save him. 
 
@@ -151,9 +169,7 @@ He is only sorry that the interest of the many opposes it. But he would be very 
 
 {{< s v="26" >}} We are unable to think how injustice can be punished in this life. This is why Nature teaches us to hope that it will be punished in a life to come. Religion authorises us to expect this.
 
-<!-- Society's order cannot be maintained with such injustice. -->
 Our sense of its demerit pursues it even beyond the grave. However, we still think that God's justice still requires that He should avenge the injuries of the widow and the fatherless who are so often insulted with impunity.
-<!-- Its punishment there cannot deter the rest of mankind, who know it not, from being guilty of the like practices here. -->
 
 Accordingly, every religion and superstition has a Tartarus and an Elysium, which are places for: 
 - the punishment of the wicked, and

@@ -5,7 +5,7 @@ weight: 14
 image: "/covers/wn.jpg"
 description: "The cost of levying a variable land-tax would be greater than levying a fixed land-tax"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

@@ -3,7 +3,7 @@ heading: Chapter 1
 title: "The Natural Wants of Mankind"
 # date: 2015-09-10
 weight: 6
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Cheapness or plenty is the most proper way of procuring wealth and abundance"

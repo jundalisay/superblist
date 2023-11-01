@@ -43,6 +43,6 @@ Rebels and terrorists are cancers and viruses, while social events are exercise 
 The justice system pushes the erring ego back to the common interest just as the our conscience (sense of personal morals) makes our minds refrain from doing bad actions.
 
 
-{{< q a="smith" c="Theory of Moral Sentiments, Part 2, Section 2, Chapter 3" >}}
+{{< q a="Adam-Smith" c="Theory of Moral Sentiments, Part 2, Section 2, Chapter 3" >}}
 ..beneficence is less essential to society's existence than justice. Society may subsist without beneficence, though not in the most comfortable state. But the prevalence of injustice must utterly destroy it.
 {{< /q >}}

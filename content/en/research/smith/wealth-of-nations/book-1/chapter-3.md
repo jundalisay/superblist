@@ -2,7 +2,7 @@
 title: "Division of Labour is Limited by the Size of the Market"
 heading: "Chapter 3"
 weight: 14
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "Market Size is the Most Important Factor that Leads to the Division of Labour in Society"
 icon: "/avatars/smith.png"

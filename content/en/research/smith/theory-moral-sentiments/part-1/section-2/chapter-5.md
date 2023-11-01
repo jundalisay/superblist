@@ -4,7 +4,7 @@ heading: "Chapter 5"
 description: "The Selfish feelings are in between the Social and Unsocial feelings"
 # date: 2022-01-27
 weight: 12
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

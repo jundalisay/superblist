@@ -17,12 +17,12 @@ Current Cycle | Years per Cycle | Social Age
 Positive Warrior  | 12 | 5.5
 
 
-The [previous post](/maharlika/economics/dutertenomics) explained the problem with the Keynesian Dutertenomics, which is embodied in the neoliberal economic plan called "Ambisyon 2040" by Arsenio Balisacan.
+<!-- The [previous post](/maharlika/economics/dutertenomics) explained the problem with the Keynesian , which is embodied in the neoliberal economic plan called . -->
 
 
 ## Society Subsidizing the Rich
 
-The main flaw of that plan was that it catered to the merchant class of society and neglected [the other 3 classes](/social/supersociology/principles/part-1/chapter-05/). That class is made up of business and monied interests.
+Dutertenomics followed the neoliberal "Ambisyon 2040" plan that catered to the merchant class of society and neglected [the other 3 classes](/social/supersociology/principles/part-1/chapter-05/). That class is made up of business and monied interests.
 
 
 Class | Socratic Name | Hindu Name | Example
@@ -47,13 +47,13 @@ The profit maximization doctrine of the merchant class stops growth. And so the 
 
 Thus, the public subsidizes the lavish lifestyle of the overgrown merchant class.
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The middle and upper classes, if they understand their own interest, should always oppose all taxes on necessities and direct taxes on the wages of labour. The final payment of such taxes all fall on themselves, with a big overcharge.
 <cite>The Wealth of Nations Simplified, Book 5, Chapter 2</cite>
 {{< /q >}}
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 In her present condition, Great Britain resembles an unwholesome body with some overgrown vital parts. Her blood vessel was artificially swelled beyond natural by the industry and commerce forced to circulate in it. A small stop in that great blood-vessel will bring the most dangerous disorders on the whole political body.
 <cite>The Wealth of Nations Simplified, Book 4, Chapter 7</cite>
 {{< /q >}}
@@ -63,19 +63,14 @@ In her present condition, Great Britain resembles an unwholesome body with some 
 Debt transfers the present huge burden and spreads it to the future in smaller chunks. Instead of one huge oppression now, the oppression is imposed gradually and with increasing weight.
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 3" >}}
 This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come.
 
 However, it raises more money than the old practice of anticipation.
-<br><br>
 When men became familiar with funding, it became universally preferred to anticipation during great state exigencies.
 
 Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.
-<cite>The Wealth of Nations Simplified, Book 5, Chapter 3</cite>
 {{< /q >}}
-
-
-
 
 
 Here, we explain the proper solution as **Maharlika 2050** which puts the merchant class back in line with the other classes, specifically by:
@@ -155,7 +150,7 @@ An open religious policy can:
 - increase productivity by replacing formal prayer (with its overhead) with informal ideation 
 
 
-{{< q a="smith">}}
+{{< q a="Adam-Smith">}}
 The religious teachers' interested zeal can be dangerous when only one sect is tolerated or when the society is divided into two or three great sects.
 <cite>Wealth of Nations, Book 5, Chapter 1</cite>
 {{< /q >}}
@@ -227,7 +222,7 @@ To solve this, we propose a [modified parliamentary system](/research/hume/essay
 
 In this way, the representatives and senators can choose from themselves who would have the actual skills to lead the country.
 
-{{< q a="hume" >}}
+{{< q a="David-Hume" >}}
 The  representatives will have all the legislative power. The votes on legislation will be decided by the majority. If these are equal, the senate will vote on it.
 <cite>David Hume, Idea of a Perfect Commonwealth</cite>
 {{< /q >}}
@@ -307,9 +302,8 @@ This is very different from Philippine mentality where students only want to gra
 
 This Maharlikan policy calls for a repeal of Article 14 Section 4 Item 2 which is biased towards schools owned by religions. This repeal is consistent with the Open Religious Policy by adding schools, such as Chinese, Japanese, Korean, Islamic, and Hindu, that are not based on Western religion or culture.
 
-{{< q >}}
+{{< q c="1987 Constitution" >}}
 Educational institutions, other than those established by religious groups and mission boards, shall be owned solely by citizens of the Philippines or corporations or associations at least 60% of the capital of which is owned by such citizens.
-<cite>1987 Constitution</cite>
 {{< /q >}}
 
 
@@ -335,7 +329,7 @@ At the moment, the Philippines only has Western ideas and systems as a consequen
 
 <!-- This goes hand in hand with the open religious policy.  -->
 
-{{< q a="smith">}}
+{{< q a="Adam-Smith">}}
 The state should make the study of science and philosophy universal
 <cite>Wealth of Nations, Book 5, Chapter 1</cite>
 {{< /q >}}
@@ -354,7 +348,7 @@ This low productivity is in turn is caused by overpopulation:
 This overpopulation is caused by the Roman Catholic system*. The Philippine ban on population control leads to an oversupply of Filipinos which lowers productivity and makes them cheap. This causes them to move overseas as cheap labor, called Overseas Filipino Workers (OFWs). 
 
 
-{{< q a="mont" >}}
+{{< q a="Montesquieu" >}}
 The Romans therefore had laws against abortion but did not follow them.
 <cite>The Spirit of the Laws, Book 23, Chapter 22</cite>
 {{< /q >}}
@@ -364,7 +358,7 @@ The Romans therefore had laws against abortion but did not follow them.
 
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 Laws can never regulate wages properly, though it has often pretended to do so.
 <cite>The Wealth of Nations Simplified, Book 1, Chapter 8</cite>
 {{< /q >}}
@@ -385,7 +379,7 @@ The government can barter food and other non-monetary items in exchange for the 
 - raise land values
 
 
-{{< q a="hume" >}}
+{{< q a="David-Hume" >}}
 Strabo says that the northern parts of Spain are ill inhabited because of the great cold. This means that Europe is become warmer than before. This warming is caused by the cultivation of land which causes woods to be cleared. The woods formerly shaded the earth and kept the rays of the sun from penetrating to it. Our northern colonies in America become more temperate as the woods are felled. 
 <cite>David Hume, Essay 11: The Populousness Of Ancient Nations</cite>
 {{< /q >}}

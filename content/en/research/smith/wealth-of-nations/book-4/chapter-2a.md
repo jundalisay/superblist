@@ -5,7 +5,7 @@ heading: "Chapter 2a"
 description: "The monopoly of domestic industry is secured through high duties or import bans of foreign goods which can be produced at home"
 image: /covers/wn.jpg
 weight: 18
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 --- 
 

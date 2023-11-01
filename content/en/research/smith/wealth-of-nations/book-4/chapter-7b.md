@@ -5,7 +5,7 @@ heading: "Chapter 7b"
 description: "In his letters to Ferdinand and Isabella, Columbus called the countries he discovered as the Indies. He entertained no doubt that they were the extremity of those described by Marco Polo"
 image: /covers/wn.jpg
 weight: 64
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 ---
 

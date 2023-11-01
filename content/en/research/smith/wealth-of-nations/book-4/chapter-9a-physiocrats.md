@@ -6,7 +6,7 @@ weight: 106
 image: "/covers/wn.jpg"
 description: "No nation has ever adopted the system which represents the produce of land as the sole source of the country's revenue and wealth"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

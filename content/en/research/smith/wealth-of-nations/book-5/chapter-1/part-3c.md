@@ -4,7 +4,7 @@ heading: "Part 3h"
 weight: 26
 image: "/covers/wn.jpg"
 description: "The following public works are always better maintained by a local or public revenue. Those which cannot maintain themselves, and those which benefits are confined to a district"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

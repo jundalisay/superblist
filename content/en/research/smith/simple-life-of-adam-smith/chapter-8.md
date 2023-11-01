@@ -159,7 +159,7 @@ Hume consulted him about the new edition of his=
 Essays, Moral and Political, and
 historical projects. On September 24, 1752 Hume writes—
 
-{{< q a="hume" >}}
+{{< q a="David-Hume" >}}
 Dear Sir,
 
 I confess I once had the same opinion as you and thought that the best period to begin an English History was about Henry 8th.
@@ -176,7 +176,7 @@ On December 17, 1754, Hume tells Smith of his quarrel with the Faculty of Advoca
 His resolution to stay as librarian after all, for the sake of the use of the books, which he cannot do without, but to give Blacklock, the blind poet, a bond of annuity for the salary.
 Three weeks later he writes again= 
 
-{{< q a="hume" >}}
+{{< q a="David-Hume" >}}
 Edinburgh, January 9, 1755.
 
 Dear Sir—

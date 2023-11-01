@@ -4,7 +4,7 @@ heading: "Chapter 2"
 description: "The Pleasure from Mutual Sympathy is not based on Self-Love, but from the similarity of the resonance of feelings"
 weight: 6
 image: "/covers/tms.jpg"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

@@ -16,18 +16,18 @@ In Book 3, Chap 2, Adam Smith writes that people should own land only as they ca
 
 <!-- This original great engrossing of uncultivated lands might have been but a transitory evil.. Great tracts of uncultivated land were engrossed by particular families in this way. Such lands were prevented from being divided again. -->
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 A great proprietor is seldom a great improver. In the disorderly times which created those barbarous institutions, the great proprietor was employed in defending his own territories and extending his jurisdiction over his neighbours. He did not have time to cultivate and improve the land. 
 
 When law and order was established and afforded him this leisure, he often did not have the inclination nor the needed abilities. He frequently had no stock to improve his lands because his expences frequently exceeded his revenue. If he was an economist, he generally found it more profitable to use his savings on new purchases than in improving his old estate. 
 {{< /q >}}
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 To improve land with profit, like all other commercial projects, requires an exact attention to small savings and small gains. A man born to a great fortune is seldom capable of this attention.. He would rather focus on ornaments which please his fancy.. He embellishes perhaps 400-500 acres near his house, at 10 times the cost of the land after all his improvements. He finds that if he improved his whole estate in the same way, he would be bankrupt before he finished 10% of it. 
 <cite>The Simple Wealth of Nations</cite>
 {{< /q >}}
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 There are still some great estates in the United Kingdom which have continued without interruption in the hands of the same family since feudal times. Compare the present condition of those estates with the possessions of the small proprietors near them, and you will see how unfavourable such extensive property is to improvement.
 <cite>The Simple Wealth of Nations</cite>
 {{< /q >}}

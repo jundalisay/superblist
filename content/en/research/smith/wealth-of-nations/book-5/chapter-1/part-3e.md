@@ -4,7 +4,7 @@ heading: "Part 3e"
 weight: 30
 image: "/covers/wn.jpg"
 description: "Private regulated companies are enlarged monopolies that resemble guilds or the corporations of trades. Such guilds are so common in all European cities."
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

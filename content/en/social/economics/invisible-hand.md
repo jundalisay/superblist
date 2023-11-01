@@ -35,7 +35,7 @@ We bring back the original invisible hand by separating it from corrupted hand f
 
 Of course, that is absolutely false, since Smith pointed to sympathy and benevolence (the direct opposite of selfishness), as the substance that keeps the machine called society running smoothly. Samuelson merely cherry-picked Smith’s views on self-interest, which to Smith was a 'praise-worthy' positive quality, and then corrupted it into selfishness which is a negative quality:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 <p>Regard to our own private happiness and interest often appear as very laudable principles of action. The habits of oeconomy, industry, discretion, attention, and application of thought, are cultivated from self-interested motives. These habits are seen as very praise-worthy qualities.. Our instinct for self-preservation instructs us to take proper care of our health, life, or fortune. A person who fails in this would be pitied instead of hated.Carelessness and want of economyare universally disapproved of because it shows a lack of attention to the objects of self-interest and not because of the lack of benevolence.</p>
 <cite>Simple Theory Of Moral Sentiments, Part 7, Section 2, Chapter 3</cite>
 {{< /q >}}
@@ -73,7 +73,7 @@ Now that we have flushed Samuelson's invisible hand down the toilet, we can move
 
 Its best description is not in The Wealth of Nations, but in The Theory of Moral Sentiments, wherein he describes the **innate human desire for things to work as they were meant to**:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 <p>A watch that falls behind more than two minutes in a day, is despised by one curious in watches. He sells it perhaps for two guineas and purchases another at 50 which will not lose more than a minute in a fortnight.. What interests him is not so much the attainment of knowing the time, as the perfection of the machine created to attain it.</p>
 <cite>Theory Of Moral Sentiments Simplified, Part 4</cite>
 {{< /q >}}
@@ -81,7 +81,7 @@ Its best description is not in The Wealth of Nations, but in The Theory of Moral
 
 Humans have an innate desire for things to work as they were designed. This natural desire applies even to human systems such as resource allocation:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 <p>The proud and unfeeling landlord views his extensive fields, and without a thought for his brethren, he imagines to eat its whole harvest.. The capacity of his stomach is far less than the immensity of his desires and receives no more than that of the meanest peasant. <b>The rest of the food he is obliged to distribute among his servants</b>.. The rich.. divide with the poor the produce of all their improvements despite their natural selfishness and rapacity. They are led by an invisible hand to make nearly the same distribution of life’s necessities which would have been made, had the earth been divided equally among all its inhabitants.</p> 
 
 <p>Thus, without intending or knowing it, they advance the interest of the society, and afford the means to multiply the species. When Providence divided the earth among a few lordly masters, it neither forgot nor abandoned those who were left out in the partition. These last too enjoy their share of all that it produces. In the <b>real happiness of human life</b>, they [the poor] are not inferior to those who seem so much above them. In ease of body and <b>peace of mind</b>, all the different ranks of life are nearly on a level. The beggar, who suns himself by the side of the highway, possesses that security which kings are fighting for.</p>
@@ -104,7 +104,7 @@ However, if the wealthy give away most of their wealth to employ anyone and ever
 
 When a school’s basketball team looks for players, it doesn’t base its hiring on the players' friendliness, but on their skill. This is true for entrepreneurs hiring workers or outsouring jobs and production to other countries. **This focus on skill is more fundamental than the focus on compassion or community:**
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 <p>When a patriot exerts to improve the public police, his conduct does not always arise from pure sympathy with the happiness of those who will benefit of it. A public-spirited man encourages the mending of high roads not commonly from a fellow-feeling with carriers and wagoner</p>
 {{< /q >}}
 
@@ -177,7 +177,7 @@ These 3 ingredients create value for the self and society leading to peace and p
 
 <!-- The proper policies and laws to bring about the pantrynomy are formalized through . The most basic institution is called a family. The next institution became the tribe, glued together by blood relations and common interest. These were followed by nations that were glued together by international laws and treaties which put order to the disparate national and vested interests within. -->
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 <p>When a person finds the chairs [disordered in his bedroom], he takes the trouble to set them all in their proper places. The whole propriety of this new situation arises from the superior convenience of having the floor clear. To attain this convenience, he voluntarily puts himself to more trouble than all he could have suffered from its inconvenience. Therefore, he wanted more of the arrangement of things which promotes the convenience, than the convenience itself..<br><br>Those institutions which promote the public welfare are frequently recommended by the same principle, the same love of system, and the same regard to the beauty of order, art, and contrivance.</p>
 <cite>Theory Of Moral Sentiments, Part 4, Chapter 1</cite>
 {{< /q >}}
@@ -189,7 +189,7 @@ We can say that human institutions are an artificial organizing principle which 
 > *Our E = G<sub>l</sub> equation explains this as the "G" that really does prevent planets and stars from flying off. Knowing the G of everything will then help you prevent their movement, whether it be the movement of stars, people, or the prices of assets and commodities. -->
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 Hence the origin of Polytheism.. which ascribes all the irregular events of nature to.. gods, demons, witches, genies, and fairies. In all Polytheistic religions.. only the irregular events of nature are ascribed to.. their gods. By.. their own nature: fire burns, water refreshes, heavy bodies descend, lighter substances fly upwards. The invisible hand of Jupiter was never perceived in those matters. But the more irregular events were ascribed to Jupiter’s favour or anger: storms and sunshine, thunder and lightning. Savages only knew the designing power of man. 
 <cite>Simple Essays, Origin Of Philosophy</cite>
 {{< /q >}}

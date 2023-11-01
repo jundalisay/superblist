@@ -5,7 +5,7 @@ heading: "Chapter 3a"
 description: "The 2nd expedient of the commercial system to increase the amount of gold and silver is to lay extraordinary restraints on imports from countries where the balance of trade is disadvantageous"
 image: /covers/wn.jpg
 weight: 26
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 --- 
 

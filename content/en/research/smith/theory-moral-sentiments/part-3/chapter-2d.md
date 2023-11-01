@@ -4,7 +4,7 @@ heading: "Chapter 2d"
 description: "Praise and blame actually express praiseworthiness and blameworthiness"
 date: 2015-09-22
 image: "/covers/tms.jpg"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 ---
 

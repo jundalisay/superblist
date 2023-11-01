@@ -1,15 +1,13 @@
 ---
-heading: Chapter 1b of Part 1 Section 2
+heading: Chapter 1b
 title: "Polygamy"
 weight: 8
 # date: 2015-09-28
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Voluntary divorce has inconveniences. Yet it is still within justice that a man should divorce his wife and take another for less reasons than adultery"
 ---
-
-
 
 
 In many countries, men took as many wives as they could maintain.
@@ -56,11 +54,17 @@ Polygamy takes place under despotic governments.
 
 When a country is conquered by savages, they indulge in brutality. Polygamy is a kind of brutality, as there is no established law. It never took place in ancient Carthage or Rome, though it takes place in Turkey.
 
-In every country, freedom removes polygamy. There is nothing that free men will less submit to than a monopoly of this kind, but despotism is always favourable to polygamy. Montesquieu is in favour of polygamy because in some countries women are marriageable at 8 or 9 years old, and are old and withered at 20.
+In every country, freedom removes polygamy.
+
+There is nothing that free men will less submit to than a monopoly of this kind, but despotism is always favourable to polygamy. 
+
+Montesquieu is in favour of polygamy because in some countries women are marriageable at 8 or 9 years old, and are old and withered at 20.
 
 
-{{< q a="mont" >}}
-When they have their beauty they cannot have much understanding. When their understanding increases, their beauty is gone Consequently, they cannot long be agreeable companions. So a husband needs more than one wife. It might be their custom to deflower infants.
+{{< q a="Montesquieu" >}}
+When they have their beauty they cannot have much understanding. 
+
+When their understanding increases, their beauty is gone Consequently, they cannot long be agreeable companions. So a husband needs more than one wife. It might be their custom to deflower infants.
 {{< /q >}}
 
 But this fact is not well attested. 
@@ -91,11 +95,14 @@ The families of the Bashaws after their death mix with the vulgar.
 
 Wherever there is a hereditary nobility, the country cannot easily be conquered, or rather not at all.
 They may be beat once or twice, but they still recover under their natural heads.
+
 Eastern countries, for this very reason that they want these, make feeble resistance against foreign invaders.
 Polygamy is exceedingly hurtful to a nation's populousness.
 
-An hundred women married to an hundred men will have more children than the same number married to two or three.
+100 women married to 100 men will have more children than the same number married to 2 or 3.
+
 China, India, and Egypt are populous despite polygamy.
+
 In those countries there are regulations regarding populousness, and some other circumstances contribute to it, such as the remarkable fertility of the soil.
 
 Thus, there are 2 kinds of marriage:
@@ -110,5 +117,5 @@ Where polygamy is allowed, the wife is entirely in the power of the husband, he 
 The laws concerning monogamy differ according to the species of it.
 
 That kind where the contract or agreement is indissoluble but by the civil magistrate, is the most convenient.  By this indeed nothing but what is very disagreeable to society is the occasion of divorce.
-But it is always better that the marriage tie should be too strait, than that it should be too loose.
 
+But it is always better that the marriage tie should be too strait, than that it should be too loose.

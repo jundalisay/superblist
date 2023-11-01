@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "The Opulence from the Division of Labour"
 weight: 8
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "The beginnings of the Wealth of Nations is from this Chapter to Part 4. We can conclude that the rest is to form his work on Jurisprudence"

@@ -3,7 +3,7 @@ title: "Cultural Differences Affect Morals"
 heading: "Chapter 2b"
 description: "The politeness highly esteemed in Russia would be seen as rudeness and barbarism at the French court"
 weight: 26
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---
@@ -47,15 +47,16 @@ He is in continual danger. -->
 
 His circumstances:
 - make him used to every sort of distress
-- teaches him not to give way to the passions created by the distress<!--  none of the passions which that distress is apt to excite. -->
+- teaches him not to give way to the passions created by the distress
 
-He can expect no sympathy<!--  or indulgence --> for such weakness from his countrymen.
+
+He can expect no sympathy for such weakness from his countrymen.
 
 Before we can feel much for others, we must be at ease ourselves. If our own misery pinches us very severely, we have no leisure to attend to our neighbour's misery.
 
-All savages are too much occupied with their own wants and necessities to give much attention to those of others. Therefore, a savage expects no sympathy from those around him. He disdains to expose himself by showing his weakness. <!-- allowing the least weakness to escape him. -->
+All savages are too much occupied with their own wants and necessities to give much attention to those of others. Therefore, a savage expects no sympathy from those around him. He disdains to expose himself by showing his weakness.
 
-His passions, no matter how furious and violent, are never permitted to disturb his outward serenity and inner <!--  the serenity of his countenance, or- the --> composure
+His passions, no matter how furious and violent, are never permitted to disturb his outward serenity and inner composure
 
 North American savages always assume the greatest indifference. They would think themselves degraded if they appear to be overcome by love, grief, or resentment.
 
@@ -131,8 +132,6 @@ He sings this song on all extraordinary occasions when:
 - he shows that:
   - he has familiarised his imagination to the most dreadful misfortunes
   - no human event can daunt his resolution or alter his purpose.
-
-<!-- Battle of Rorke's Drift -->
  
 The same contempt of death and torture prevails among all other savage nations.
 

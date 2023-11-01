@@ -2,7 +2,7 @@
 title: "Second period (1570-1640) and Third period (1650-1700)"
 heading: "Part 3b of Digression 1b"
 weight: 22
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "From 1570 to 1640, the proportion of silver and wheat values were opposite. Silver sunk in its real value. Wheat rose in its nominal price"
 icon: "/avatars/smith.png"

@@ -5,7 +5,7 @@ weight: 10
 image: "/covers/wn.jpg"
 description: "Every tax must ultimately be paid from any or all of those three kinds of revenue"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

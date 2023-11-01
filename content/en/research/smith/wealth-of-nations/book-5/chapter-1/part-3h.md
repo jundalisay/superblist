@@ -4,7 +4,7 @@ heading: "Part 3f"
 weight: 36
 image: "/covers/wn.jpg"
 description: "The 23rd of George 2nd chapter 31 established the African Company"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

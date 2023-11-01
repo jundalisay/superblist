@@ -4,7 +4,7 @@ heading: "Part 3c"
 weight: 28
 image: "/covers/wn.jpg"
 description: "Particular institutions are necessary to facilitate particular branches of commerce"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

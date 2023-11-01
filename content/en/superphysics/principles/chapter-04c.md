@@ -104,7 +104,7 @@ Socrates said that the discovery of the `G` or true nature of everything is extr
 
 David Hume, who is our other reference, will agree to this as he is also an economist aside from being a metaphysician: 
 
-{{< q a="hume" c="Treatise of Human Nature, Advertisement" >}}
+{{< q a="David-Hume" c="Treatise of Human Nature, Advertisement" >}}
 Here, the only expedient for success in our philosophical researches is to.. march up directly to the capital or center of these sciences, to human nature itself. Once we master human nature, we may hope for an easy victory everywhere else. From here, we may extend our conquests over all those sciences.. We may hope to establish… a science which will not be inferior in certainty, and will be much superior in utility. The science of man is the only solid foundation for the other sciences. 
 {{< /q >}}
 

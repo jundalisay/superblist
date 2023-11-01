@@ -46,11 +46,11 @@ Friday | $4 | $4
 
 The Natural Price would be $4, representing the most frequent and low real price, assuming that profit maximization was not observed.
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The natural price is the lowest..he is likely to sell them for any considerable time.. [It is]..the central price, to which the prices of all commodities are continually gravitating... 
 {{< /q >}}
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The market price..is regulated by the proportion between the quantity..actually brought to market, and the demand of those who are willing to pay the natural price.
 {{< /q >}}
 

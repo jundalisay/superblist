@@ -4,7 +4,7 @@ heading: "Chapter 1 Part 1 of The Theory of Moral Sentiments Simplified"
 description: "Our Sympathy with the Sorrow of Others is Stronger than Our Sympathy with the Joy of Others because pain is a stronger sensation than pleasure"
 weight: 6
 # date: 2022-01-27
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

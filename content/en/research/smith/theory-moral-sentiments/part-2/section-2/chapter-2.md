@@ -2,7 +2,7 @@
 heading: Chapter 1
 title: "The Sense of Justice, Remorse, and the Consciousness of Merit"
 weight: 12
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/tms.jpg"
 description: "Every man is more deeply interested in whatever immediately concerns himself, than in what concerns others"
@@ -67,8 +67,8 @@ He starts to hate himself is he sympathizes with the hatred from others. He feel
 
 The thought of this perpetually haunts him. He would rather fly to some inhospitable desert, where no one knows the condemnation of his crimes. But the horror of solitude drives him back into society where he is loaded with shame and distracted with fear.
 
-Such a feeling is called 'remorse'. It is the most dreadful of the feelings and is made up of= 
-- shame from the <!-- sense of the impropriety of --> past conduct,
+Such a feeling is called 'remorse'. It is the most dreadful of the feelings and is made up of:
+- shame from the past conduct,
 - grief for its effects,
 - pity for those who suffer by it, and
 - the dread of punishment from others
@@ -76,10 +76,10 @@ Such a feeling is called 'remorse'. It is the most dreadful of the feelings and 
 
 ## Deserved Reward
 
-{{< s v="14" >}}  <!-- The opposite behaviour naturally inspires the opposite feeling.  -->The man who has done a generous action from proper motives feels himself as the natural object of: 
+{{< s v="14" >}} The man who has done a generous action from proper motives feels himself as the natural object of: 
 - his beneficiaries' love and gratitude, and
 - mankind's esteem by their sympathy with his beneficiaries.
 
-When he looks back at his motives as an indifferent spectator, he applauds himself by sympathy with this impartial judge. In both these points of view, his own conduct is agreeable to himself. This fills him with cheerfulness, serenity, and composure. <!-- He is in friendship and harmony with all mankind. --> 
+When he looks back at his motives as an indifferent spectator, he applauds himself by sympathy with this impartial judge. In both these points of view, his own conduct is agreeable to himself. This fills him with cheerfulness, serenity, and composure.
 
 Such a feeling is called 'the consciousness of merit' or 'deserved reward'.

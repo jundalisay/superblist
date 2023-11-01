@@ -2,7 +2,7 @@
 title: "Mistakes in Judging Wheat and Silver Prices"
 heading: "Part 3b Digression Part 1a3"
 weight: 18
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "Historians made mistakes in Judging Wheat and Silver Prices because they were lazy and because rents were paid in kind"
 icon: "/avatars/smith.png"

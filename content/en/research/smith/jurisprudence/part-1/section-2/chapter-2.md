@@ -1,9 +1,9 @@
 ---
-heading: Chapter 2 of Part 1 Section 2
+heading: Chapter 2
 title: "Parent and Child"
 # date: 2015-09-24
 weight: 12
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "What is the history of parentage? It is the second relation in which we were to consider man as a member of a family"
@@ -28,11 +28,13 @@ Even with us a father is not obliged to ransom a son who is taken captive, but m
 In the same manner anciently a father might choose whether he would ransom his son from starving, from wild beasts, and the like.
 
 Though some regulations were made in Rome concerning this, they were never well kept, and the practice was not abolished till the establishment of Christianity.
+
 In China, at present, where polygamy takes place, they are often obliged to expose them and generally drown them.
 As the father had it entirely in his power to bring up his son or not, he had an absolute jurisdiction over him if he did bring him up.
 At Rome the father had the ius vitae et necis et vendendi.
 
 Besides, whatever the son acquired belonged to the father, and if he married, his children were considered as members of the grandfather’s family.
+
 This power of the father over his son was very soon lessened.
 The son was connected with the mother’s relations, and the uncle, whom on some occasions he was to succeed, would naturally look after the person who was to be his heir.
 
@@ -41,7 +43,9 @@ The twelve tables indeed mention this privilege of the father, but it is probabl
 
 In like manner the ius vitae et necis went out.
 The father only put in execution the laws of his country for capital crimes.
+
 He could take the power out of the hands of the magistrate, and condemn his son to punishment himself, but he could not free his son if he was accused by the laws of his country.
+
 This shows that the patria potestas was not altogether absolute.
 
 This power of the father weakened by degrees, and at last went out altogether.
@@ -65,8 +69,10 @@ The authority of the father was not arbitrary at Rome, for we often find men acc
 Julius Caesar, and after him Augustus, were the first that gave to sons property independent of their fathers.
 
 At first they kept as their own whatever they took in war, or the peculium castrense,afterwards whatever they acquired by the liberal and mechanic arts.
+
 This was extended by Adrian and afterwards by Justinian to everything unless what they got from their fathers.
 All donations and legacies were entirely at their own disposal.
+
 We also find the power of the father in disinheriting them limited.
 There were only certain cases in which it was in his power.
 
@@ -74,7 +80,9 @@ After the fall of the Roman Empire the power of the father over the son, as well
 The father came to have over the son, while he continued in the family with him, an authority much the same with that a father has among us, that, to wit, of taking care of his morals.
 
 But when out of the family he was not so immediately concerned about him.
+
 The father has this particular privilege with respect to his son, that he can become tutor to him without surety, and is not accountable, as every other tutor is, for negligence and omission.
+
 This is the natural authority the father has over the son.
 
 The father is obliged to bring up his children, and the children, in case of old age or infirmity, to maintain the father.

@@ -4,7 +4,7 @@ heading: "Part 3o"
 weight: 68
 image: "/covers/wn.jpg"
 description: "The old English East India Company was established in 1600 by a charter from Queen Elizabeth"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

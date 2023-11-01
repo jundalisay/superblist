@@ -4,7 +4,7 @@ title: "Licentious Systems"
 linkTitle: Chapter 4
 description: "Dr. Mandeville's system also totally removes the distinction between vice and virtue. Its tendency is totally pernicious"
 weight: 16
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---
@@ -129,8 +129,6 @@ The following are examples of vain people:
 - the foolish plagiary who claims to be the author of something that he doesn't know,
 - the person who is not contented with the silent esteem and approbation.
   - He is fonder of their noisy acclamations than of their approbation.
-<!-- He is never satisfied but when his own praises are ringing in his ears.
-He solicits all external marks of respect with the most anxious importunity. -->
   - He is fond of:
     - titles and compliments,
     - being visited, attended, noticed in public places with deference and attention.
@@ -199,7 +197,6 @@ There is a great difference between the love of virtue and the love of true glor
 
 On the other hand, a lover of glory might fear the injustice and envy of others. His motives have a greater mixture of human infirmity. His happiness is not as secure as the lover of virtue. Only the weakest and most worthless of mankind are much delighted with false glory. Yet by a strange inconsistency, false ignominy can often mortify the most determined.
 
-<!-- On the contrary, the happiness of the first person is altogether . -->
 <!-- his rivals' envy, and the public's folly if he= 
 - wants approbation but is anxious to obtain it at the same time, even if he were mainly . -->
 <!-- , and
@@ -217,14 +214,9 @@ However, it seldom happens that human nature has this much firmness.
  -->
 
 
-{{< s v="103" >}} Dr. Mandeville not only represents vanity as the source of all virtuous actions. He also points out that virtue is a concealed indulgence of our passions.
+{{< s v="103" >}} Dr. Mandeville places vanity as the source of all virtuous actions. 
 
-<!-- complete self-denial imperfection of human virtue in many other respects. 
-In every case, he pretends that virtue falls short of that  which it pretends to.
-He views it 
-Instead of a conquest, it is commonly no more than .
-Wherever our reserve with regard to pleasure falls short of the most , he treats it as gross luxury and sensuality.
- -->
+He also points out that virtue is a concealed indulgence of our passions.
 
 According to him, anything beyond ascetic abstinence and what is necessary to support human nature is a luxury. There is vice even in the use of:
 - a clean shirt, or
@@ -274,24 +266,12 @@ A system of natural philosophy may appear very plausible and be received in the 
 
 For nearly a century, Descartes' vortices were regarded as a most satisfactory account of the revolutions of the heavenly bodies. Yet they do not exist.  
 
-<!-- it has been demonstrated, to the conviction of all mankind, that these pretended causes of those wonderful effects do not actually exist.
-They are utterly impossible.
-If they did exist, they could not produce the effects ascribed to them. -->
-
 But it is otherwise with systems of moral philosophy. A moralist who accounts for the origin of our moral sentiments cannot deceive us so grossly.
 
 When a traveler tells an account of some distant country, he might lie about certain facts. But when he tells us of what happens in our neighbourhood, he can only deceive us if we are so careless not to examine things with our own eyes. The falsehoods that he imposes must bear some resemblance to the truth and must even have a mix of truth in them.
 
 An author on natural philosophy who assigns the causes of the phenomena of the universe, gives an account of the affairs of a very distant country. As long as it stays within the bounds of possibility, we might believe him.
 
-But when he explains the origin of our desires and feelings, he gives an account of our own domestic concerns. We can be imposed on like indolent masters who trust their steward who deceives them. Some of the steward's actions must be just, otherwise he would be exposed as a fraud immediately. Similarly, the moralist who assigns the cause of our natural feelings must have some regard to the truth, otherwise it would appear ridiculous to the most inexperienced reader.
-<!-- to some unconnected principle 
+But when he explains the origin of our desires and feelings, he gives an account of our own domestic concerns. 
 
-Yet we are incapable of passing any account which does not preserve .
-At least some of the articles .
-Even those which are most overcharged must have had some foundation.
-Otherwise the fraud would be detected even by our careless inspection.
-
- -->
-
- 
+We can be imposed on like indolent masters who trust their steward who deceives them. Some of the steward's actions must be just, otherwise he would be exposed as a fraud immediately. Similarly, the moralist who assigns the cause of our natural feelings must have some regard to the truth, otherwise it would appear ridiculous to the most inexperienced reader.

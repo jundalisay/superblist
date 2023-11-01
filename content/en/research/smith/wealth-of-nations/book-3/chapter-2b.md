@@ -4,7 +4,7 @@ title: "Metayers and Sharecropping"
 weight: 12
 image: "/covers/wn.jpg"
 description: "Metayers could never be interested to use any of their little stock to improve the land because the lord, who spent nothing, would get half of whatever it produced."
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

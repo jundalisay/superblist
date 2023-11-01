@@ -3,7 +3,7 @@ heading: Chapter 9
 title: "The English Courts of Justice"
 # date: 2015-09-10
 weight: 26
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "English courts were created based on the speed of resolution and then the nature of the cases"

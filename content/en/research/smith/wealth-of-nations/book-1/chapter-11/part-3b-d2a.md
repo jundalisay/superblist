@@ -4,7 +4,7 @@
 title: "The Effect of Demand on Changes in Silver Prices"
 heading: "Part 3b of Digression 2a"
 weight: 26
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "Since the discovery of America, the market for its silver mines has been growing more extensive for three reasons"
 icon: "/avatars/smith.png"

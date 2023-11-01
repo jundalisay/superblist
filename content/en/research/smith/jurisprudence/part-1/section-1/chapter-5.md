@@ -3,7 +3,7 @@ heading: Chapter 5
 title: "Military Monarchy"
 # date: 2015-09-24
 weight: 12
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Citizens and aliens have rights in a state"

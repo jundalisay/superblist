@@ -4,7 +4,7 @@ heading: "Part 2a"
 weight: 14
 image: "/covers/wn.jpg"
 description: "The second duty of the sovereign is to protect every member of society from the injustice or oppression of every other membe"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

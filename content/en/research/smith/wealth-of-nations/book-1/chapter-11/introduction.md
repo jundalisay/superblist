@@ -2,7 +2,7 @@
 title: "Introduction on Rent"
 heading: "Introduction"
 weight: 2
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "Adam Smith introduces the concept of Rent"
 icon: "/avatars/smith.png"

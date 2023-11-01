@@ -5,7 +5,7 @@ weight: 16
 image: "/covers/wn.jpg"
 description: "The practice of perpetual funding has gradually enfeebled every state which has adopted it. The Italian republics started it"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

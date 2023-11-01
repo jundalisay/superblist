@@ -4,7 +4,7 @@ heading: "Chapter 3b"
 description: "The Stoics said that there is no essential difference in the happiness in one permanent situation and another. If there were any difference, it was very little."
 date: 2015-09-14
 image: "/covers/tms.jpg"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 ---
 

@@ -3,7 +3,7 @@ title: "The Principle of Self-estimation"
 heading: "Chapter 3c"
 description: "The principle of self-estimation may be too high or too low"
 weight: 50
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---
@@ -66,9 +66,11 @@ Its outlines are more or less exactly designed according to the delicacy and acu
 
 That sensibility makes those observations according to the care and attention employed in making them.
 In the wise and virtuous man, they have been made with the most acute and delicate sensibility.
+
 The utmost care and attention have been employed in making them.
 Everyday some feature is improved.
 Everyday some blemish is corrected.
+
 He has studied this idea more than other people.
 He comprehends it more distinctly.
 He has formed a much more correct image of it.

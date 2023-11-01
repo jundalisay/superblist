@@ -2,7 +2,7 @@
 heading: Chapter 1
 title: "Objects of Gratitude Deserve Reward and Objects of Resentment Deserve Punishment"
 weight: 4
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/tms.jpg"
 description: "Merit and Demerit are another set of qualities ascribed to mankind's actions and conduct, distinct from propriety or decency"
@@ -55,10 +55,13 @@ These make us happy with the good fortune of our loved ones. Consequently, we wi
 - harden us against all sympathy and
 - can even sometimes dispose us to rejoice at another's distress.
 
-But hatred would not naturally lead us to bring distress to others if there is no resentment nor provocation. Even if there is, we would rather have it happen by other means and not by ourselves. A person full of hate would prefer to see his enemy killed by some accident. It would hurt him very much to cause the accident, even if he had the least spark of justice. The thought of voluntarily contributing to it would shock him. Even if he could imagine himself doing it, he would regard himself in the same odious light as the person he hated.
-<!-- Even if we would not be punished for bringing this distress, . One dominated by violent hatred might find it agreeable to hear that the person he hated was  -->
+But hatred would not naturally lead us to bring distress to others if there is no resentment nor provocation. Even if there is, we would rather have it happen by other means and not by ourselves. A person full of hate would prefer to see his enemy killed by some accident.
 
-But it is quite otherwise with resentment. For example, if the person who murdered our brother dies of a fever or is executed because of some other crime, it would not fully gratify our resentment. But it might sooth our hatred. Resentment would prompt us to want him punished by our means, because of the injury he did to us.
+It would hurt him very much to cause the accident, even if he had the least spark of justice. The thought of voluntarily contributing to it would shock him. Even if he could imagine himself doing it, he would regard himself in the same odious light as the person he hated.
+
+But it is quite otherwise with resentment. For example, if the person who murdered our brother dies of a fever or is executed because of some other crime, it would not fully gratify our resentment. But it might sooth our hatred. 
+
+Resentment would prompt us to want him punished by our means, because of the injury he did to us.
 
 Resentment cannot be fully gratified unless the offender is made:
 - to grieve in his turn, and

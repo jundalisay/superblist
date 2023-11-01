@@ -10,77 +10,117 @@ weight: 20
 ---
 
 
+<!-- This determinate characteristic -->
+{{< s v='125' >}} Identity constitutes the essential character of the thing. It is now so defined that the thing becomes different from others. 
 
-{{< s v='123' >}}  This second form of perceptual procedure takes:
-- the thing as the true selfsame, and
-- itself as the reverse, as the factor that leaves sameness behind and goes back into self.
+This identity is an absolute one if there is nothing else. 
 
-Consciousness, then, gets away also from this procedure. 
-- Its object is now the entire process which was previously shared between the object and consciousness.
+<!-- It is, however, a thing, a self-existent “one”, only so far as it does not stand in relation to others. -->
+- Its connection with others would emphasize its identity and cease its absoluteness. 
 
-The thing is a “one”, reflected into self.
-- It is for itself, but it is also for an other. 
-- It is an other for itself as it is for another. 
+<!-- For in this relation, the connection with another is rather the point emphasized, and connection with another means giving up self-existence, means ceasing to have a being on its own account.  -->
 
-The thing is, hence, a being that has difference of a twofold kind. 
-- But it is also “one”. 
-
-Its being “one”, however, contradicts the diversity it has. 
-
-Consciousness would, consequently, have again to make itself answerable for putting the diversity into the “one”. 
-- It would have to keep this apart from the thing. 
-
-It would thus be compelled to say that the thing “in-so-far as” it is for itself is not for another. 
-
-But the oneness belongs to the thing itself, too, as consciousness has found out. The thing is essentially reflected into self. 
-
-The “also”, the distinction of elements indifferent to one another, falls doubtless within the thing as well as the “oneness”, but since both are different, they do not fall within the same thing, but in different things. 
-
-The contradiction which is found in the case of the objective content as a whole is assigned to and shared by two objects. 
-
-The thing is, thus, doubtless as it stands (an und für sich) selfsame. But this unity with itself is disturbed by other things. 
-
-In this way, the unity of the thing is preserved. At the same time, the otherness is preserved outside the thing, as well as outside consciousness.
+<!-- It is precisely through the absolute character and its opposition that the thing relates itself to others, and is essentially this process of relation, and only this. The relation, however, is the negation of its independence, and the thing collapses through its own essential property. -->
 
 
-{{< s v='124' >}} Although the contradiction in the object is in this way allotted to different things, yet the isolated individual thing will still be affected with distinction. 
+{{< s v='126' >}} The necessity of the experience which consciousness has to go through in finding that the thing is destroyed just by the very characteristic which constitutes its essential nature and its distinctive existence on its own account, may, as regards the bare principle it implies, be shortly stated thus.
 
-The different things have a subsistence on their own account. The conflict between them takes place on both sides in such a way that each is not different from itself, but only from the other.
+Identity sets up the thing to have a being of its own.
+- This being is an absolute negation of all otherness.
 
-Each, however, is thereby characterized as a something distinctive, and contains in it essential distinction from the others.
-- But at the same time not in such a way that this is an opposition within its being.
-- On the contrary, it is by itself a simple determinate characteristic which constitutes its essential character, distinguishing it from others. 
+<!-- , as existing for itself, or as ;  -->
+- Hence it is an absolute negation relating itself to itself.
 
-Since the diversity lies in it, this diversity does necessarily assume the form of a real distinction of manifold qualities within it. 
-- But because the determinate characteristic gives the essence of the thing, by which it is distinguished from others, and has a being all its own, this further manifold constitution is something indifferent. 
-
-The thing thus contains in its unity the qualifying “in-so-far” in 2 ways which have unequal significance.
-- This oppositeness becomes not a real opposition on the part of the thing itself, but – so far as the thing comes into a condition of opposition through its absolute distinction – this opposition belongs to the thing with reference to an other thing lying outside it. 
-
-The further manifoldness is doubtless necessarily in the thing too, and cannot be left out; but it is unessential to the thing.
+<!-- But this kind of negation is the cancelling and superseding of itself, or means that it has its essential reality in an other. -->
 
 
-{{< s v='125' >}} This determinate characteristic, which constitutes the essential character of the thing and distinguishes it from all others, is now so defined that thereby the thing, stands in opposition to others, but must therein preserve itself for itself. 
+{{< s v='127' >}} The identification of the object contains nothing else.
 
-It is, however, a thing, a self-existent “one”, only so far as it does not stand in relation to others.
+It aims at having an essential property -- identity. 
 
-For in this relation, the connection with another is rather the point emphasized, and connection with another means giving up self-existence, means ceasing to have a being on its own account. 
+<!-- , constituting its bare existence for itself, but with this bare self-existence it means also to embrace and contain diversity, which is to be necessary, but is at the same time not to constitute its essential characteristic. 
 
-It is precisely through the absolute character and its opposition that the thing relates itself to others, and is essentially this process of relation, and only this. The relation, however, is the negation of its independence, and the thing collapses through its own essential property.
-
-
-{{< s v='126' >}} The necessity of the experience which consciousness has to go through in finding that the thing is destroyed just by the very characteristic which constitutes its essential nature and its distinctive existence on its own account, may, as regards the bare principle it implies, be shortly stated thus. 
-
-The thing is set up as having a being of its own, as existing for itself, or as an absolute negation of all otherness; hence it is absolute negation merely relating itself to itself. But this kind of negation is the cancelling and superseding of itself, or means that it has its essential reality in an other.
+But this is a distinction that only exists in words; the nonessential, which has all the same to be necessary, cancels its own meaning, or is what we have just called the negation of itself. -->
 
 
-{{< s v='127' >}} In point of fact the determination of the object, as it (the object) has turned out, contains nothing else. It aims at having an essential property, constituting its bare existence for itself, but with this bare self-existence it means also to embrace and contain diversity, which is to be necessary, but is at the same time not to constitute its essential characteristic. 
+{{< s v='128' >}}  With this the last qualifying “in-so-far”, which separated self-existence and existence for another, drops away altogether. 
 
-But this is a distinction that only exists in words; the nonessential, which has all the same to be necessary, cancels its own meaning, or is what we have just called the negation of itself.
-
-
-{{< s v='128' >}}  With this the last qualifying “in-so-far”, which separated self-existence and existence for another, drops away altogether. The object is really in one and the same respect the opposite of itself-for itself “so far as” it is for another, and for another “so far as” it is for itself.
+The object is really in one and the same respect the opposite of itself-for itself “so far as” it is for another, and for another “so far as” it is for itself.
 
 It is for itself, reflected into self, one; but all this is asserted along with its opposite, with its being for another, and for that reason is asserted merely to be superseded.
 
 In other words, this existence for itself is as much unessential as that which alone was meant to be unessential, viz. the relation to another.
+
+
+
+{{< s v='129' >}} By this process the object in its pure characteristics, in those features which were to constitute its essential nature, is superseded, just as the object in its sensible mode of existence became transcended. 
+
+From being sensible it passed into being a universal; but this universal, because derived from sense, is essentially conditioned by it, and hence is, in general, not a genuine self-identical universality, but one affected with an opposition. 
+
+This is why this universality breaks up into the extremes of singleness and universality, of the one of the properties and the “also” of the free constituents or matters. 
+
+These pure determinations appear to express the essential nature itself; but they are merely a self-existence which is fettered at the same time with existence for an other. 
+
+Since, however, both essentially exist in a single unity, we have before us now unconditioned absolute universality; and it is here that consciousness first truly passes into the sphere of Understanding, of Intelligence.
+
+<!-- Φ 130.  -->
+{{< s v='130' >}} Sensible singleness thus disappears in the dialectic process of immediate certainty. It becomes universality, but merely sensuous universality. 
+
+The stage of “meaning” has vanished. Perceiving takes the object as it inherently is in itself generally as a universal. 
+
+Singleness, therefore, makes its appearance there as true singleness, as the inherent nature of the “one”, or as reflectedness into self. 
+
+However, this is still a conditioned self-existence alongside which appears another self-existence, the universality opposed to singleness and conditioned by it. 
+
+But these two contradictory extremes are not merely alongside one another, but within one unity; or, what is the same thing, the common element of both, self-existence, is entirely fettered to its opposite, i.e. is, at the same time, not an existence-for-self.
+
+The sophistry of perception seeks to save these moments from their contradiction. It tries to keep them fixed by distinguishing between “aspects” by using terms like “also” and “so far as”. It seeks to lay hold on the truth by distinguishing the unessential element from an essential nature opposed thereto. 
+
+But these expedients, instead of keeping away deception from the process of apprehension, prove to be useless. 
+
+The real truth, which should be got at through the logic of the perceptual process, proves to be in one and the same “aspect” the opposite (of what those expedients imply), and consequently to have as its essential content undifferentiated and indeterminate universality.
+
+
+<!-- Φ 131.  -->
+{{< s v='131' >}} The following are the powers the interplay of which constitutes 
+
+Perceptual understanding or “sound common sense” (Menschenverstand) is made up of the interplay of:
+. these empty abstractions of “singleness” and antithetic “univerisality”
+- “essence” that is attended with a “non-essential” element, an element which is all the same “necessary”
+
+This “healthy common sense”` is merely the sport of these abstractions.
+<!-- , which takes itself to be the solid substantial type of conscious life,` in its process of perception, -->
+- It is always poorest where it means to be richest.
+
+ It is tossed about by these unreal entities, bandied from one to the other. By its sophistry, it tries to affirm and hold fast alternately now one, then the exact opposite, it sets itself against the truth. 
+
+ It imagines philosophy has merely to do with “things of the intellect” (Gedankendinge), merely manipulates “ideas”.
+
+Philosophy does have to do with them, too, and knows them to be the pure essential entities, the absolute powers and ultimate elements. 
+
+But in doing so, philosophy knows them at the same time in their determinate and specific constitution, and is, therefore, master over them; while that perceptual understanding takes them for the real truth, and is led by them from one mistake to another.
+
+It does not get the length of being, aware that there are such simple essentialities operating within it and dominating its activity; it thinks it has always to do with quite solid material and content; just as sense-certainty is unaware that its essence is the empty abstraction of pure being.
+
+But it is these essential elements in virtue of which perceptual understanding makes its way hither and thither through every kind of material and content. 
+
+They are its principle of coherence and control over its varied material. They alone are what constitutes for consciousness the essence of sensuous things, what determines their relations to consciousness. 
+
+They are that in the medium of which the process of perceiving, with the truth it contains, runs its course. 
+
+This process is a perpetual alternate determining of the truth and superseding of this determination. It constitutes the constant everyday life and activity of perceptual intelligence, of the consciousness that thinks it lives and moves in the truth.
+
+In that process it advances, without halt or stay, till the final result is reached, when these essential ultimate elements or determinations are all alike superseded; but in each particular moment it is merely conscious of one given characteristic as the truth, and then, again, of the opposite.
+
+It suspects their unessentiality.
+
+To save them from the impending danger, it takes to the sophistry of now asserting to be true what it had itself just affirmed to be not true.
+
+What the nature of these untrue entities really wants to force this understanding to do – viz. to bring together and thereby cancel and transcend the ideas about that “universality” and “singleness”, about that “essentiality” which is necessarily connected with an “unessentiality” and about an “unessential” that is yet “necessary” – understanding strives to resist by leaning for support on the so qualifying terms “in-so-far”, “a difference of aspect”, or by making itself answerable for one idea in order to keep the other separate and preserve it as the true one. 
+
+But the very nature of these abstractions brings them together as they are and of their own accord. 
+
+“Sound common sense” is the prey of these abstractions; they carry understanding round in their whirling circle. 
+
+When understanding tries to give them truth by at one time taking their untruth upon itself, while at another it calls their deceptiveness a mere appearance due to the uncertainty and unreliability of things, and separates the essential from an element which is necessary to them, and yet is to be unessential, holding the former to be their truth as against the latter: – when understanding takes this line, it does not secure them their truth, but convicts itself of untruth.
+

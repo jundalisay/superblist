@@ -26,7 +26,7 @@ An advanced economy will have so much competition and so many products which wil
 
 An easy proof is the [Vision Fund of Softbank](/social/economics/last-capitalist) which invests in non-Japanese companies like WeWork and Uber, and the [huge overseas investments by Japanese banks](https://www.japantimes.co.jp/news/2020/06/18/business/economy-business/banks-overseas-investments/) before and after the pandemic
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 <p>In a country fully peopled.. the competition for employment would necessarily be so great as to reduce the wages of labour.. In a country fully stocked in proportion to all the business it had to transact.. the competition.. would everywhere be as great, and consequently the ordinary profit as low as possible.</p>
 <cite>Adam Smith</cite>
 {{< /q >}}
@@ -43,9 +43,8 @@ However, this method raises public debt, increases the risk of credit downgrade,
 
 For example, the previous generation never had to deal with supertyphoons, pandemics, and the permanently hot weather that they unknowingly created for the current generation. Rather, they knew about it but just didn't care.
 
-{{< q a="smith" >}}
-<p>the ruinous practice of perpetual funding puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come. However, it raises more money than the old practice of anticipation. When men became familiar with funding, it became universally preferred to anticipation during great state exigencies. Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.</p>
-<cite>The Simple Wealth of Nations Book 5</cite>
+{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 5" >}}
+the ruinous practice of perpetual funding puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come. However, it raises more money than the old practice of anticipation. When men became familiar with funding, it became universally preferred to anticipation during great state exigencies. Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.
 {{< /q >}}
 
 
@@ -68,7 +67,7 @@ The failure of structural reforms is a sign that the influence of corporate Japa
 - Japanese employees are modern samurais who must work overtime for their daimyos and pay sales taxes to the shogun. Karoshi (death by overwork) is a modern variant of seppuku (ritual suicide), with the sense of honor operating from the back of their minds in both cases. This is not the case in most other countries.
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 Sir Robert Walpole tried to establish an excise scheme on wine and tobacco similar to my proposal. The bill with those two commodities was then brought into Parliament. It was supposed to be an introduction of a more extensive scheme of the same kind. Faction and smuggling merchants raised a violent and unjust clamour against that bill. The minister dropped it. None of his successors dared to resume the project from fear of exciting another clamour.
 <cite>The Simple Wealth of Nations Book 5</cite>
 {{< /q >}}
@@ -116,14 +115,11 @@ An East Asia union would solve:
 - China's tech sector problem (or Taiwan's security issues)
 - South Korea's grievances against Japan 
 
-<!-- by putting them as equals, all with one policy. --> 
-
 Superphysics proposes a [multilateral clearing system](/research/schumacher/pool-clearing) to go with this free trade zone to further unify the participating countries.
 
 Generally, Smith's policies would be somewhere between Singapore and China where the government has strong control in specific areas, but allows freedom in the rest. It is based on morality, specifically as fellow-feeling.  
 
 In contrast, Keynes' policies are based on animal spirits, which explains the current inequality where the 1% are the 'fittest' of our species. Those spirits enshrine selfish-interest as liberalism, libertarianism, American conservatism, and laissez faire.
-
 
 
 <!-- Because Japan is actually non-democratic. 

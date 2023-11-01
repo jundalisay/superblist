@@ -4,7 +4,7 @@ heading: Part 2
 description: "Before this system was taught in the world, the earth was regarded as a vast and irregular plain, surrounded on allsides by the ocean"
 image: /covers/astronomy.jpg
 weight: 6
-contributors: ['Smith']
+contributors: ['Adam Smith']
 # date: 2022-09-20
 ---
 

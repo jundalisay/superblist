@@ -2,7 +2,7 @@
 title: "Wages in Great Britain"
 heading: Chapter 8c
 weight: 42
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "Wages in Great Britain"
 icon: "/avatars/smith.png"

@@ -5,7 +5,7 @@ weight: 32
 image: "/covers/wn.jpg"
 description: "While the demand for labour and the price of goods remain the same, a direct tax on wages raises wages higher than the tax"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

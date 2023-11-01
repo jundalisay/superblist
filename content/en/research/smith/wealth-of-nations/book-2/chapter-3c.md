@@ -5,7 +5,7 @@ linkTitle: "Chapter 3c"
 weight: 44
 image: "/covers/wn.jpg"
 description: "The 1772 credit crunch was resolved naturally because it did not have profit maximization "
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

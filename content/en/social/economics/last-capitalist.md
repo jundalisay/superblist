@@ -89,7 +89,7 @@ The problem is that the larger a corporation gets, the more difficult it is to m
 <!-- Such huge companies need huge funds which then leads to steady losses because of the nature of human ego: -->
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The directors of such companies are the managers of other people's money. They cannot be expected to watch over it with the same vigilance as the partners in a private co-partnery. They are like the stewards of a rich man. They think that attending to small matters are not for their master's honour. They very easily exempt themselves from attending to such matters. Negligence and profusion, must always prevail, more or less, in the management of the affairs of such a company. 
 <cite>Simple Wealth Of Nations, Book 5</cite>
 {{< /q >}}

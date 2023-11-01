@@ -4,7 +4,7 @@ heading: "Chapter 1c"
 description: "Not much can be spared from the circulating money of the country because there is seldom much redundancy"
 image: /covers/wn.jpg
 weight: 14
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 --- 
 

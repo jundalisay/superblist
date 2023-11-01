@@ -4,7 +4,7 @@ heading: "Chapter 7n"
 description: "The colonies may be taxed by their own assemblies or by the British parliament"
 image: /covers/wn.jpg
 weight: 88
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 ---
 

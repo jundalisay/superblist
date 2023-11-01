@@ -4,7 +4,7 @@ title: "The Origin of Feudalism"
 weight: 22
 image: "/covers/wn.jpg"
 description: "Feudalism came from the strength of the king over the feudal lords"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

@@ -255,7 +255,7 @@ In addition, our Grain index eliminates the need for complicated subjective fact
 More importantly, our system cuts the cost of transactions while retaining democracy. It avoids degenerating into an arbitrary [social credit system](https://www.wired.co.uk/article/china-social-credit-system-explained). <!--  while it reduces the cost of cirulating value throughout society.  -->
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 <p>The riches of a country does not consist in the amount of money used to circulate commerce, but in the great abundance of life's necessaries. We would greatly increase our country's wealth if we could find a way to send the half of our money abroad to be converted into goods, and supply the channel of circulation at home, at the same time.</p>
 <cite>Lectures on Jurisprudence Chapter 9</cite>
 {{< /q >}}

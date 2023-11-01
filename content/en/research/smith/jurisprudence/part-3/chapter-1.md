@@ -3,7 +3,7 @@ heading: Chapter 1
 title: "Taxes on Possessions"
 # date: 2015-09-10
 weight: 6
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "In all barbarous countries, lands are appropriated to the purposes of sovereignty. These therefore have little occasion for taxes and customs duties"

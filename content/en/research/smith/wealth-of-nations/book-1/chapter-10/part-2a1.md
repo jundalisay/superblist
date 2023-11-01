@@ -2,7 +2,7 @@
 title: "Profit and Wage Inequality from Economic Policy"
 heading: "Part 2a"
 weight: 66
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "University Apprenticeships reduce competition and create Inequality"
 icon: "/avatars/smith.png"

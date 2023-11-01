@@ -5,7 +5,7 @@ heading: "Chapter 3"
 image: "/covers/philo.jpg"
 description: "Adam Smith explains the errors of Aristotle"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 weight: 14
 ---
 

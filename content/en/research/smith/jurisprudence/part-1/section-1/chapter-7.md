@@ -3,7 +3,7 @@ heading: Chapter 7
 title: "The Allodial Government"
 # date: 2015-09-20
 weight: 16
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "The government which succeeded the fall of the Roman Empire was similar to Mongols"

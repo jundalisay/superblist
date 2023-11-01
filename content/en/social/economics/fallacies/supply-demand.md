@@ -8,7 +8,7 @@ contributors: ['Juan']
 icon: /icons/pantry.png
 toc: false
 ---
-
+social/economics/fallacies/inelastic-supply-curve
 
 {{< me date="April 2021" >}}
 [The actual supply prices of Covid vaccines](/social/economics/fallacies/inelastic-supply-curve) are consistent with our assertions here that the supply curve cannot be naturally vertical, and is the final proof of the sophistry of the equilibrium theory of Economics
@@ -98,12 +98,12 @@ Even if a terminal cancer patient was sold a life-saving drug in exchange for al
 
  
  
-{{< me date="10/2015" >}}
+me date="10/2015"
+
 Looking back, we can see that Smith did mention in The Wealth of Nations that a commodity can be 'perfectly inelastic' if it matches the following conditions:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" c="Book 1, Chap 11, Digression" >}}
 The first kind is the rude produce which human industry cannot multiply at all. Examples are: most rare birds and fishes, different sorts of game, and almost all wild-fowl and all birds of passage, etc. Nature produces them only in certain quantities. They are very perishable. It is impossible to accumulate together such produce of different seasons. Their demand increases with the increase in wealth and luxury. Their supply cannot increase beyond this increase of the demand. The quantity of such commodities remain the same while the competition to purchase them is continually increasing. Their price may rise to any unlimited height. 
-<cite>Book 1, Chap 11, Digression</cite>
 {{< /q >}}
 
 <!-- ![]()
@@ -112,7 +112,6 @@ The first kind is the rude produce which human industry cannot multiply at all. 
 However, it is obvious that such goods are not only attended with immorality, but are simply illegal just as slavery is illegal. Thus, it is still consistent with the earlier conclusion.
 
 Teaching the inelastic supply curve therefore not only teaches selfishness and war as a natural state but also the extinction of certain species.
-{{< /me >}}
 
 {{< img src="https://socioecons.files.wordpress.com/2015/04/rhino-horn.jpg" cap="Rhino horns are now worth more than gold or cocaine and is the cause of their extinction" alt="rhino-horn" >}}
 
@@ -120,9 +119,11 @@ Teaching the inelastic supply curve therefore not only teaches selfishness and w
 <!-- such a policy in schools would lead to extinction just as it led to the extinction of some species. It would be illogical for a human school to knowingly teach something that will render humans extinct -- unless they didn't know it. The purpose of this post is to tell them that what they are teaching can actually make humans extinct eventually. The Covid pandemic is an easy proof, as it came from the destruction of the environment.
  -->
  
- 
-{{< me date="October 2016" >}}
+
+me date="October 2016" 
+
 Merging the old question with Smith's quote can help us create a new, more realistic question below.
+
 
 ### Updated question: The market price of Rhino horns rose in Vietnam sharply last month, but the quantity supplied was the same as ever. What is the explanation?
 
@@ -130,12 +131,11 @@ Pantrynomist Answer:
 
 - There was a sudden demand for rhino horns because of a rumor that it could cure cancer. Since rhinos are endangered, the production of their horns could not be increased. The increased demand increased the penalties imposed by the law, leading to higher prices for the smugglers who must offset the higher risk or increased bribe payments, adding to the cost. Unlike the economist's vertical supply line, the supply line will still be downward sloping, to match Smith's maxim:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The natural price is the central price, to which the prices of all commodities are continually gravitating. Different accidentsmay sometimes keep them suspendeda good deal above it.. But.. they are constantly tending towards it
 {{< /q >}}
-{{< /me >}}
+
 
 {{< img src="https://socioecons.files.wordpress.com/2015/04/smithinelastic.png" alt="Inelastic Supply Curve False" cap="The yellow and green lines represent the demand and supply curves before the rumor (representing natural demand and supply and the natural price), while the blue and red lines represent those lines after the rumor" >}}
 
 {{< img src="https://socioecons.files.wordpress.com/2015/04/rhino.png" alt="dead rhino" >}}
-

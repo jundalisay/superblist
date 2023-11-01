@@ -3,7 +3,7 @@ heading: Chapter 2
 title: "The Nature Of Government And Its Progress In The First Ages Of Society"
 # date: 2015-09-28
 weight: 6
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Aristocratical and democratical governments may be called republican"

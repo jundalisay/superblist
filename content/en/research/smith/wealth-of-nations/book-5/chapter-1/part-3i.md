@@ -4,7 +4,7 @@ heading: "Part 3g"
 weight: 38
 image: "/covers/wn.jpg"
 description: "Joint stock companies, established by royal charter or by act of parliament, differ from regulated companies and private copartneries"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

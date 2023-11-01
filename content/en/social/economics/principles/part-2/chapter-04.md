@@ -44,7 +44,7 @@ In the beginning, the points-based transactions will be tiny relative to the mon
 
 Having two arbitrages ensures that a *pantrynomy* will be more dynamic than an economy. In fact, Smith predicted that people will work so hard in such a system that caps on revenue would have to be decreed to protect the people's health:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 Our soldiers are not the most industrious people. Yet when they are liberally paid by the piece, their officers were frequently obliged to stipulate that they should not be allowed to earn above a certain rate every day. Before this stipulation, soldiers frequently overworked and hurt their health by mutual emulation and the desire of greater gain.
 {{< /q >}}
 

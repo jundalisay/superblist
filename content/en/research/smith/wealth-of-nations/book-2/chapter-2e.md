@@ -2,7 +2,7 @@
 title: "Cash Accounts and Discounted Bills of Exchange"
 heading: "Chapter 2e"
 weight: 18
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "Cash Accounts and Discounted Bills of Exchange adds to the circulation of value"
 icon: "/avatars/smith.png"

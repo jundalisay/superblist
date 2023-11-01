@@ -2,7 +2,7 @@
 title: "Bank Notes versus Promissory Notes"
 heading: "Chapter 2n"
 weight: 36
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "The Increase in Bank Notes does not increase inflation"
 icon: "/avatars/smith.png"

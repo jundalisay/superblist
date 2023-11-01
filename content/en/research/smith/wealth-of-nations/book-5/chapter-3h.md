@@ -5,7 +5,7 @@ weight: 20
 image: "/covers/wn.jpg"
 description: "The revenue might be very much increased without increasing the burden on the people"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

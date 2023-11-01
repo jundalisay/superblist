@@ -3,7 +3,7 @@ title: "The Unsocial feelings"
 heading: "Chapter 3"
 description: "Hatred, Anger, and Resentment are the Unsocial feelings"
 weight: 8
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---
@@ -81,11 +81,6 @@ A palace, on the contrary, will always be agreeable, even if its remote effects 
 - Its immediate effects are the conveniency, pleasure, and gaiety of the people who live in it. The imagination generally rests on them and seldom goes further in tracing its more distant consequences.
 - Its remote effects are the promotion of luxury and the dissolution of manners.
 
-<!-- The person who builds a prison is generally directed by the just spirit of patriotism, than he who builds a palace.
- -->
-
-<!-- It will be more disagreeable to more it is fit for its purpose.
-These are all agreeable and suggest a thousand agreeable ideas to the imagination -->
 
 Trophies made of agricultural instruments are agreeable ornaments of our halls and dining rooms.
 
@@ -197,6 +192,3 @@ In short, our behaviour must show that our humanity remains. We must yield to re
 - reluctantly.
 
 When resentment is guarded and qualified in this way, it may be even seen as generous and noble.
-
-<!-- Magnanimity must characterize our whole behaviour when judging it. -->
-

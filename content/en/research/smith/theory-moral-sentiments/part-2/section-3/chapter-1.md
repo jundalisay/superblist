@@ -2,7 +2,7 @@
 heading: Chapter 1
 title: "The Cause of the influence of outcome"
 weight: 8
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/tms.jpg"
 description: "The action and its consequences cannot be the foundation of morality. The resulting action is often the same in the most innocent or blamable intention"
@@ -72,8 +72,9 @@ A man grows fond of a snuff-box, a pen-knife, a staff which he has long used. He
 - the house which we have long lived in,
 - the tree whose shade we have long enjoyed.
 
-Their decay or ruin makes us sad even if we sustain no loss by it. The Greek Dryads and Roman Lares came from a sort of trees and houses, probably arising from this sort of affection. The authors of those superstitions felt for such objects.
-<!-- It would be unreasonable for them to do so, if they were not affected by those objects. -->
+Their decay or ruin makes us sad even if we sustain no loss by it.
+
+The Greek Dryads and Roman Lares came from a sort of trees and houses, probably arising from this sort of affection. The authors of those superstitions felt for such objects.
  
 
 ### Animal Rights
@@ -97,12 +98,11 @@ Gratitude chiefly desires to:
   - make him pleased with that conduct, and
   - satisfy him that the beneficiary was worthy of it.
 
-<!-- Gratitude and resentment still feel that there is something lacking to their entire gratification. -->
+
 We are charmed to our benefactor by the concord between his feelings and our own. We are interested in:
 - the worth of our own character, and
 - the esteem he gives us.
 
-<!-- isaiah match -->
 We are delighted to find a person who:
 - values us as we value ourselves, and
 - distinguishes us from the rest of mankind, with the similar attention which we use to distinguish ourselves.
@@ -159,8 +159,6 @@ Before anything can be the proper object of a man's resentment, it must have 3 q
 the one case, and disapproved of in the other. This= 
   - is necessary for their complete satisfaction.
   - gives an exquisite and peculiar pleasure or pain
-
-It is also an additional exciting cause of those passions.
 
 This renders that object capable of gratifying them.
   This renders that object capable of exciting gratitude or resentment.

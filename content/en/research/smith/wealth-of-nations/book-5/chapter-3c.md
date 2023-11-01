@@ -5,7 +5,7 @@ weight: 10
 image: "/covers/wn.jpg"
 description: "During the reigns of King William and Queen Anne, large sums were frequently borrowed on annuities for terms of years which varied"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

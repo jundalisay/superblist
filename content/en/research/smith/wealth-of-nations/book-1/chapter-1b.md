@@ -2,7 +2,7 @@
 title: "Specialization"
 heading: "Chapter 1b2"
 weight: 8
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "It is impossible for one man to be constantly employed in any agricultural work because they are seasonal"
 icon: "/avatars/smith.png"

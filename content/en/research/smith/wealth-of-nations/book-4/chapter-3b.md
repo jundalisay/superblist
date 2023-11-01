@@ -4,7 +4,7 @@ heading: "Chapter 3b"
 description: "Small states frequently required certain foreign bills of exchange to be paid by the credit of a bank protected by the state"
 image: /covers/wn.jpg
 weight: 28
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 --- 
 

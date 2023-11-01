@@ -3,7 +3,7 @@
 title: "Precious Metals and Stones"
 heading: "Part 2c"
 weight: 12
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "The demand for Precious Metals and Stones arises partly from their utility and partly from their beauty"
 icon: "/avatars/smith.png"

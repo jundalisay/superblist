@@ -4,7 +4,7 @@ heading: "Part 3zc"
 weight: 78
 image: "/covers/wn.jpg"
 description: "The reformation was strong enough to overturn the church and its state where it was weak"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

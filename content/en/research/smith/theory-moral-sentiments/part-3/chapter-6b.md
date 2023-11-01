@@ -4,7 +4,7 @@ heading: "Chapter 6b"
 description: "The general rules of the virtue called justice require the greatest exactness"
 date: 2015-09-01
 image: "/covers/tms.jpg"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 ---
 

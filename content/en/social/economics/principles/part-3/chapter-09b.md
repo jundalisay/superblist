@@ -19,7 +19,7 @@ Import substitution is an economic policy that replaces imports with local manuf
 
 Adam Smith would categorize it as a policy by poor and austere societies:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 In every civilized society which has the distinction of ranks, there were always two systems of morality: the strict or austere which is generally admired and revered by the common people, and the liberal or loose system which is commonly adopted by people of fashion. The vices of levity is apt to arise from great prosperity. It leads to the excess of gaiety and good humour... The vices of levity are always ruinous to common people. A single week's thoughtlessness and dissipation is often sufficient to undo a poor workman forever, and drive him to commit enormous crimes.
 {{< /q >}}
 

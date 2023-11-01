@@ -87,11 +87,11 @@ By replacing 'exports' with 'sales', and 'imports' with 'purchases' or 'costs', 
 
 Unlike Samuelson who takes the position of the seller, Smith takes the position of the buyers. This is why profit maximization* never enters Smith's curves.
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The natural price is the lowest price that a dealer can sell his goods.. The market price is the actual price at which any commodity is commonly sold. Market prices are regulated by the proportion between the quantity to be sold and the demand of buyers willing to pay the natural price.
 {{< /q >}}
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 When the commodities fall short of the effectual demand, the shortage will cause some of the buyers give more for those few commodities. This will create a competition among buyers which will raise the market price. When the amount sold exceeds the effectual demand, the excess will remain unsold. To dispose of it, it must be sold to those who are willing to pay less.
 {{< /q >}}
 
@@ -132,7 +132,7 @@ When a potter becomes rich he will not think of you as much as before, grow more
 
 Adam Smith specifically pointed to the selfish-interests of traders, manufacturers, and financiers as the origin of the concept of market equilibrium:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The interest of any dealer is always different from, and even opposite to, the interest of the public. To widen the market and to narrow the competition is always the interest of dealers. To widen the market may frequently be agreeable to the interest of the public. But to narrow the competition must always be against the public interest. It only enables the dealers to levy an absurd tax on the rest of their fellow-citizens, raising their profits unnaturally.<br><br>The proposal of any new commercial law which comes from this order, should always be listened to with great precaution.It should never be adopted until after long and careful examination with the most scrupulous and the most suspicious attention.
 {{< /q >}}
 

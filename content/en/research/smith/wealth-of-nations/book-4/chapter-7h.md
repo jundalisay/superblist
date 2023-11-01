@@ -4,7 +4,7 @@ heading: "Chapter 7e"
 description: "The English Puritans were restrained at home. They fled for freedom to America and established the four governments of New England"
 image: /covers/wn.jpg
 weight: 76
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 ---
 

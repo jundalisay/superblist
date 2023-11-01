@@ -5,7 +5,7 @@ weight: 38
 image: "/covers/wn.jpg"
 description: "In Great Britain, the principal taxes on necessities are those on salt, leather, soap, and candles"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

@@ -44,7 +44,7 @@ According to [David of Libertas Bella](https://blog.libertasbella.com/john-stuar
 
 Once a person has tasted pleasures, he wants them more and more, eventually leading to excess:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 <p>In every civilized society which has the distinction of ranks, there were always two systems of morality: the strict or austere and the liberal or loose system. The austere is generally admired and revered by the common people. The loose is commonly more esteemed and adopted by people of fashion. The vices of levity is apt to arise from great prosperity. It leads to the excess of gaiety and good humour.</p>
 {{< /q >}}
 
@@ -86,7 +86,7 @@ A merchant is not the citizen of any particular country.He is indifferent on fro
 
 The merchant class ends up concentrating this revenue within the mercantile republic (tax havens) through investments in overgrown sectors such as technology, oil, and financial services, which are among the only remaining profitable ones. These lead to Dot Com bubbles, Oil crises, and Financial Crises respectively. 
 
-{{< q a="smith" c="The Wealth of Nations Simplified, Book 4, Chapter 7" >}}
+{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 4, Chapter 7" >}}
 The monopoly of the colony trade broke that natural balance of British industry. British industry was turned to suit one great market instead of many small markets. <!-- Her commerce ran principally in one great channel instead of running in many small channels. Her industry and commerce was made less secure. Her whole political body was made less healthy.--> In her present condition, Great Britain resembles an unwholesome body with some overgrown vital parts. <!-- Her body is liable to many dangerous disorders which affect unproportioned bodies. --> Her blood vessel was artificially swelled beyond natural by the industry and commerce forced to circulate in it. A small stop in that great blood-vessel will very likely bring the most dangerous disorders on the whole political body.
 {{< /q >}}
 
@@ -109,7 +109,7 @@ From a philosophical perspective, all these are absurd.
 
 Smith's solution was to establish perfect economic democracy for all three classes, through the ruling class (thus the name Political Economy). The government would regulate economics, not to control it, but to ensure that no class dominates the others.
 
-{{< q a="smith" c="The Wealth of Nations Simplified, Book 4, Chapter 7" >}}
+{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 4, Chapter 7" >}}
 A moderate and gradual relaxation of the British exclusive trade to the colonies, until it is rendered free, is the only expedient which can deliver her from this danger in the future. It can turn her capital towards other employments, **though with less profit**. 
 
 By gradually reducing one industry and increasing the rest, this relaxation can restore her industry to that natural and healthy proportion which perfect liberty necessarily establishes. Perfect liberty can alone preserve this natural balance. <!-- Opening the colony trade all at once to all nations might create some temporary inconvenience. It might create a great permanent loss to most of those presently engaged in it. Even the sudden loss of the employment of the ships which import the surplus tobacco might alone be felt very sensibly. -->

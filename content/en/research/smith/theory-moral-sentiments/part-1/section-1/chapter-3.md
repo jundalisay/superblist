@@ -4,7 +4,7 @@ heading: "Chapter 3"
 description: "Our own feelings is the measure or decider of our sympathy or non-sympathy with the feelings of others"
 weight: 8
 image: "/covers/tms.jpg"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

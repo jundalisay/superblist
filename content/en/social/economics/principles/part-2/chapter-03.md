@@ -69,16 +69,16 @@ In Hinduism, the concept of dharma naturally leads to the concept of karma. Anyt
 
 Since karma is universal and timeless, it works the same way regardless of time and location, whether in the distant past, distant future, or in a very distant place. Selfish actions always and everywhere bring about something hurtful, or opposite of what was intended, in the long-run or even short-run:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 At first sight, the monopoly of the great commerce of America naturally seems to be an acquisition of the highest value. <!-- To the undiscerning eye of giddy ambition, it naturally presents itself amidst the confused scramble of politics and war as a very dazzling object to fight for. --> The dazzling splendour of the object, however, <!-- the immense greatness of the commerce, --> is the very quality which renders the monopoly of it hurtful..
 {{< /q >}}
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 Even the regulations by which each nation endeavours to secure to itself the exclusive trade of its own colonies are frequently more hurtful to the countries in favour of which they are established than to those against which they are established.
 {{< /q >}}
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The unjust oppression of the industry of other countries falls back, if I may say so, upon the heads of the oppressors, and crushes their industry more than it does that of those other countries. The industry of the country, therefore, is thus turned away from a more to a less advantageous employment [because of the monopoly of the home market]; and the exchangeable value of its annual produce, instead of being increased, according to the intention of the lawgiver, must necessarily be diminished by every such regulation.
 <cite>The Wealth of Nations</cite>
 {{< /q >}}

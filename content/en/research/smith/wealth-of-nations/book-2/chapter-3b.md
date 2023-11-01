@@ -2,7 +2,7 @@
 title: "The Importance of Savings and Prudence"
 heading: "Chapter 3b"
 weight: 42
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "The proportion between industry and idleness is regulated by the proportion between capital and revenue"
 icon: "/avatars/smith.png"

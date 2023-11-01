@@ -4,7 +4,7 @@ heading: "Part 3i"
 weight: 42
 image: "/covers/wn.jpg"
 description: "The Royal African Company is the predecessor of the present African Company"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

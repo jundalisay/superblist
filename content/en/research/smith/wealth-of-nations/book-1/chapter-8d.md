@@ -2,7 +2,7 @@
 title: "Poverty"
 heading: Chapter 8d
 weight: 44
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "Wages in Great Britain"
 icon: "/avatars/smith.png"

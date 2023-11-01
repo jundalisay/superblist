@@ -2,7 +2,7 @@
 title: "Monopolies Through Secrets in Trade and Manufactures"
 heading: Chapter 7b
 weight: 34
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "High prices are caused by monopolies"
 icon: "/avatars/smith.png"

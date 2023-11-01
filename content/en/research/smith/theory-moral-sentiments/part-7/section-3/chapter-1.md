@@ -2,7 +2,7 @@
 heading: Chapter 1
 title: "Self-love"
 weight: 2
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/tms.jpg"
 description: "According to Hobbes, man takes refuge in society not by any natural love for humans, but because he cannnot live easily without the aid of others"
@@ -14,7 +14,7 @@ description: "According to Hobbes, man takes refuge in society not by any natura
 
 {{< s v="1" >}} After the inquiry on the nature of virtue, the next important question in Moral Philosophy is about the principle of approbation. 
 
-The principle of approbation is the power of the mind which renders certain characters agreeable or disagreeable to us. It makes us= 
+The principle of approbation is the power of the mind which renders certain characters agreeable or disagreeable to us. It makes us:
 - prefer one tenour of conduct to another,
 - denominate the one right and the other wrong,
 - consider the one kind of conduct as the object of approbation, honour, and reward, and
@@ -24,10 +24,12 @@ The principle of approbation is the power of the mind which renders certain char
 {{< s v="2" >}} Three accounts have been given of this principle of approbation. 
 
 1. According to some, we approve and disapprove of actions of ourselves and of others, from self-love only. It is from some view of the tendency of self-love to our own happiness or disadvantage. 
+
 2. According to others, reason enables us to distinguish between what is fit and unfit in actions and affections. Reason is the faculty by which we distinguish between truth and falsehood. 
+
 3. According to others, this distinction is the effect of immediate sentiment and feeling. It arises from our satisfaction or disgust from the view of certain actions or affections.
 
-Therefore, the three sources for the principle of approbation are= 
+Therefore, the three sources for the principle of approbation are:
 1. Self-love
 2. Reason
 3. Sentiment
@@ -58,7 +60,7 @@ Its regular and harmonious movements produce many agreeable effects. As with any
 
 Virtue necessarily pleases. It is the fine polish to the wheels of society. Vice is necessarily as offensive. It is like the vile rust which makes them jar and grate on one another. The origin of morality with regard to society's order comes from the principle which gives beauty to utility, which I explained in Part 4.
 
-This system derives its probability from utility. The reader is charmed with the grandeur of the authors' views when those authors= 
+This system derives its probability from utility. The reader is charmed with the grandeur of the authors' views when those authors:
 - describe the many advantages of a refined and social life over a savage and solitary one,
 - elaborate on the need of virtue and good order to maintain social life, and
 - demonstrate how vice and disobedience to the laws bring back the savage life.
@@ -74,12 +76,14 @@ But they do not mean, that when we presently applaud Cato's virtue and detest Ca
 - any detriment we suffer from Catiline's villainy.
 
 According to those philosophers, we esteemed Cato and blamed Catiline not because our present happiness or misery was influenced by the prosperity or subversion of those ancient and distant societies. They imagined that our sentiments were= 
-- never influenced by the actual benefit or damage which we received from Cato or Catiline, and<
+- never influenced by the actual benefit or damage which we received from Cato or Catiline, and
 - influenced instead by what benefit or damage we might have received= 
 - if we lived in those distant ages and countries, and
 - if we meet a Cato or Catiline in our own times.
 
 In short, those authors were groping about an idea which they were never able to unfold distinctly. This idea was the indirect sympathy we feel with the beneficiary's gratitude or the sufferer's resentment. They pointed at this indistinctly when they said that it was not the thought of what we gained or suffered which prompted our applause or indignation, but the conception of what we might gain or suffer if we acted with such associates.
+
+
 
 {{< s v="7" >}} However, sympathy cannot be regarded as a selfish principle in any sense. When I sympathize with your sorrow, I might pretend that my feeling is founded in self-love, because it arises from:
 - bringing your case home to myself,

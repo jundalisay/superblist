@@ -1,5 +1,5 @@
 ---
-title: "The Ways of making a living"
+title: "The Ways Of Making A Living"
 description: "Livelihood (making a living) means the desire for sustenance and the effort to obtain it. 'Livelihood' (ma'ash) is a maf'al formation from 'aysh' (life)."
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
@@ -10,28 +10,53 @@ contributors: ['Ibn Khaldun']
 
 
 
-Livelihood (making a living) means the desire for sustenance and the effort to obtain it. "Livelihood" (ma'ash) is a maf'al formation from 'aysh' or 'life'.
+Livelihood (ma'ash) means the desire for sustenance and the effort to obtain it. It is a maf'al formation from 'aysh' or 'life'.
 
+The idea is that 'aysh "life" is obtained only by making a living. It is called "the place of life".
 
-The idea is that 'aysh "life" is obtained only through the things that go into making a living, and they are therefore considered, with some exaggeration, "the place of life." 14
+Sustenance and profit may be obtained in various ways.
 
-Sustenance and profit may be obtained - through- having the power to take them away from others and to appropriate them according to a generally recognized norm. This is called imposts and taxation.
+1. Through imposts and taxation
 
-Or profit may be obtained from wild animals by killing or catching them whole on land or in the sea. 
+This is by taking them away from others.
+ <!-- and to appropriate them according to a generally recognized norm. -->
 
-This is called hunting (fishing). 
+2. Through hunting
 
-Or (profit may be obtained) either from domesticated animals by extracting surplus products which are used by the people, such as milk from animals, silk from silk worms, and honey from bees; or from plants such as are planted in fields or grow as trees, through cultivating and preparing them for the production of their fruits. 
+This is obtained from wild animals.
 
-All this is called agriculture.
+3. Through agriculture
 
-Or profit may be the result of human labor. (Such labor may be applied) to specific materials. Then it is called a craft, such as writing, carpentry, tailoring, weaving, horsemanship, and similar (crafts). Or it may be applied to nonspecific materials. 
+This is obtained from domesticated animals or from plants
+ <!-- such as are planted in fields or grow as trees, through cultivating and preparing them for the production of their fruits.  -->
 
-This, then, includes all the (other) professions and activities. Or profit may come from merchandise and its use in barter; (merchants can make such profit) either by traveling around with (the merchandise) in (various) countries, or by hoarding it and observing the market fluctuations which affect it. This is called commerce.
+4. Through Craft
 
-These are the different ways and means of making a living. Certain thorough men of letters and philosophers, such as al-Hariri 16 and others, had this in mind when they said= "A living is made by (exercising) political power (imarah), through commerce, agriculture, or the crafts."
+This is obtained through human labor applied to specific materials. Examples are:
+- writing
+- carpentry
+- tailoring
+- weaving
+- horsemanship
+<!-- , and similar (crafts). Or it may be applied to .  -->
 
-The exercise of political power is not a natural way of making a living. 17  Chapter 2 mentioned tax collection.18 
+5. Through Professions and activities
+
+This is labor applied to nonspecific materials.
+
+5. Through Commerce 
+
+This is profit from merchandise and its use in barter. Merchants can make such profit either by traveling around with (the merchandise) in (various) countries, or by hoarding it and observing the market fluctuations which affect it.
+
+These are the different ways of making a living. 
+
+Certain thorough men of letters and philosophers, such as al-Hariri and others, had this in mind when they said= 
+
+"A living is made by (exercising) political power (imarah), through commerce, agriculture, or the crafts."
+
+The exercise of political power is not a natural way of making a living. 
+
+Chapter 2 mentioned tax collection.
 
 Agriculture, the crafts, and commerce, on the other hand, are natural ways of making a living.
 
@@ -43,4 +68,4 @@ Sedentary culture is posterior to Bedouin life, and secondary to it. In this sen
 
 This surplus makes it possible to earn a profit. Therefore, the law permits cunning in commerce, since (commerce) contains an element of gambling. 
 
-It does not, however, mean taking away the property of others without giving anything in return. Therefore, it is legal. <!-- 20  -->
+It does not, however, mean taking away the property of others without giving anything in return. Therefore, it is legal.

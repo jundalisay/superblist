@@ -12,7 +12,7 @@ linkTitle: Hume-Smith-Socrates
 
 People's confusion regarding Smith's works, such as his stand on capitalism, arises because he did not define nor explain self-interest, private ownership, and why a person should have the profits of one's own work.
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 It is but equity that those who feed, clothe and lodge the the people, should have such a share* of the produce of their own labour
 {{< /q >}}
 
@@ -28,16 +28,16 @@ However, this is not obvious to modern economists because Smith did not define t
 <!-- The establishment of a government gave security to industry that it shall enjoy the fruits of its own labour; It is the only encouragement industry requires -->
 <!-- Smith did not bother to explain these in detail because they have been already explained by other authors and it would be better to simply point the reader to them: -->
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 This scheme is explained fully by Mr. du Verney in his Examination of the Political Reflections upon Commerce and Finances of Mr. du Tot that I shall not give any account of them.
 {{< /q >}}
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 Mun’s book,England’s Treasure in Foreign Trade, became a fundamental maxim in the political economy of England and all commercial countries.
 On the Maxims of Mercantile System
 {{< /q >}}
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 David Hume has answered most deeply, clearly, and elegantly as to why utility pleases.
 On Utility, from Simple TMS Book 4, Chapter 1
 {{< /q >}}
@@ -45,7 +45,7 @@ On Utility, from Simple TMS Book 4, Chapter 1
 
 In other words, Smith is like saying, "I won't explain their works, you must read them yourself! Don't be lazy." Smith gives one clear instance of academic laziness causing mistakes in prices, which in turn contributed to the wrong economic policies being implemented:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 They were misled by the careless transcription of ancient statutes by lazy copiers and by the legislature.
 Simple WN, Book 1, Chapter 11
 {{< /q >}}

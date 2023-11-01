@@ -30,7 +30,7 @@ In fact, vegetarians should eat dairy to get their Vitamin B12 and D. The effect
 
 Some people think that vegetarian diets are a relativelynew trend. In reality, vegetarian diets have existed for a long time. India has had it for thousands of years and England has already known it since the 18th century, as proven by Adam Smith, the founder of economics:
 
-{{< q a="smith" c="The Wealth Of Nations Simplified, Book 5, Chapter 2" >}}
+{{< q a="Adam-Smith" c="The Wealth Of Nations Simplified, Book 5, Chapter 2" >}}
 Meat is not a necessary of life. It is known from experience that grain and vegetables with the help of milk, cheese, butter or oil (where there is no butter) can afford the most plentiful, wholesome, nourishing, and invigorating diet without any meat. Decency does not require any man to eat meat as requires wearing a linen shirt.
 {{< /q >}}
 

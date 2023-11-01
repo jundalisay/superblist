@@ -5,7 +5,7 @@ weight: 52
 image: "/covers/wn.jpg"
 description: "In France, the laws require many revenue officers to prevent the importation of certain goods, or subject imported goods to certain duties"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

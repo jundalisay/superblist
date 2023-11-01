@@ -25,7 +25,7 @@ Adam Smith gave 4 maxims on taxation in The Wealth of Nations that have been lar
 
 The rich or those who have the ability topay more should pay more than those who are less able to. Smith's pro-poor taxation policies are found in Book 5, Chapter 2, and are as clear as day:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The high price of necessities for the poor must be compensated by an increase in their wages.. It must always be remembered, that it is the luxurious and not the necessary expence of the lower class that should be taxed.
 {{< /q >}}
 
@@ -38,7 +38,7 @@ The high price of necessities for the poor must be compensated by an increase in
 
 This maxim applies to the valuation of certain taxes, such as land taxes.
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 A land-tax assessed according to a general survey and valuation, however equal it may be at first, must become unequal after some time..The tax is regulated by the discretion of the intendant of Montauban and is arbitrary.
 {{< /q >}}
 
@@ -52,7 +52,7 @@ A land-tax assessed according to a general survey and valuation, however equal i
 
 Smith gives an example of this in the excise and customs duties:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The importers are always subject to the custom-house officer’s visit and examination, andobliged to justify by proper certificates the payment of the duty on the goodsin their shops or warehouses. The excise-duties on imported rum are presently levied this way.The same system of administration might be extended to all duties on imported goods, provided that those duties were like the excise duties.
 {{< /q >}}
 
@@ -66,7 +66,7 @@ The importers are always subject to the custom-house officer’s visit and exami
 
 For this, Smith mentions the inefficient collection method of certain taxes:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The gabelles, aides, traites, domaine, and tobacco taxes are collectedin most of the provinces.These are much more wasteful and expensive to administer.
 {{< /q >}}
 

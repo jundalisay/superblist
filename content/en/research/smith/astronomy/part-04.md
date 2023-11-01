@@ -4,7 +4,7 @@ heading: Part 4
 description: "The ruin of Roman Empire produced the entire neglect of the study of Nature"
 image: /covers/astronomy.jpg
 weight: 10
-contributors: ['Smith']
+contributors: ['Adam Smith']
 # date: 2022-09-20
 ---
 

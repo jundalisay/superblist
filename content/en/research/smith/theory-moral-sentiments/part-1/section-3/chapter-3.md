@@ -3,7 +3,7 @@ title: "Corruption of Morality by our admiration of the rich and despise of the 
 heading: "Chapter 2"
 description: "The similarity between the respect for greatness and respect for virtue corrupts morality"
 # date: 2022-01-27
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 weight: 10
@@ -75,13 +75,21 @@ The success of such people, too, almost always depends on the favour and good op
 Therefore in such situations, we may expect a considerable degree of virtue. Fortunately because of society's good morals, these are the situations of most people.
  
 
-33 In the upper classes, the case is unhappily not always the same. In royal courts, flattery and falsehood too often prevail over merit and abilities. Success and preferment there depend on the fanciful and foolish favour of ignorant, presumptuous, and proud superiors, not on the esteem of intelligent and well-informed equals. In such societies, the abilities to please are more regarded than the abilities to serve.
+{{< s v="33" >}}  In the upper classes, the case is sadly not always the same.
 
-In peacetime, when the storm is far, the prince or great man, wishes only to be amused. He is even apt to fancy= 
+In royal courts, flattery and falsehood too often prevail over merit and abilities.
+
+<!-- Success and preferment there depend on the fanciful and foolish favour of ignorant, presumptuous, and proud superiors, not on the esteem of intelligent and well-informed equals.  -->
+
+In such societies, the abilities to please are more regarded than the abilities to serve.
+
+In peacetime, when the storm is far, the prince wishes only to be amused. He even thinks: 
 - that he has no need for anybody's service, or
 - that those who amuse him are sufficiently able to serve him
 
-A 'man of fashion' is an impertinent and foolish thing. His external graces and frivolous accomplishments are commonly more admired than the solid and masculine virtues of a warrior, statesman, philosopher, or legislator.
+A 'man of fashion' is an impertinent and foolish thing.
+
+His external graces and frivolous accomplishments are commonly more admired than the solid and masculine virtues of a warrior, statesman, philosopher, or legislator.
 
 All the virtues fit for the council, senate, or the field are held in the utmost contempt and derision by those insolent and insignificant flatterers, who commonly figure the most in such corrupted societies. For example= 
 - The duke of Sully was called on by Lewis XIII for his advice in some great emergency. 
@@ -140,7 +148,6 @@ The ambitious man really pursues a very misunderstood honour and not ease or ple
     - the hurry of public business, and
     - the prouder and more dazzling tumult of war.
 
-<!-- This is the wretched, but usual, resource of ruined characters. -->
 
 The memory of his misdeeds always haunts him. He is still secretly pursued by the avenging furies of shame and remorse= 
 
@@ -172,8 +179,16 @@ He had, perhaps, lived long enough for nature. But a man has certainly lived too
 
 ### Notes for this chapter
 
-The feeling of approbation is always agreeable. I based it on sympathy. But people have objected that it is inconsistent in my system to admit any disagreeable sympathy. I answer, that in the feeling of approbation, there are two things to notice= 
+The feeling of approbation is always agreeable. I based it on sympathy.
+
+But people have objected that it is inconsistent in my system to admit any disagreeable sympathy. 
+
+I answer, that in the feeling of approbation, there are 2 things to notice:
 1. The observer's sympathetic feeling 
 2. The observer's feeling (Feeling C) after he sees the perfect coincidence between his sympathetic feeling (Feeling B) and the original feeling (Feeling A) in the observee.
 
-The feeling of approbation is in the last emotion (Feeling C) and is always agreeable. The second emotion (Feeling B) may be agreeable or disagreeable, according to the nature of the original emotion (Feeling A). That second emotion must always retain some features of the original emotion.
+The feeling of approbation is in the last emotion (Feeling C) and is always agreeable. 
+
+The second emotion (Feeling B) may be agreeable or disagreeable, according to the nature of the original emotion (Feeling A). 
+
+That second emotion must always retain some features of the original emotion.

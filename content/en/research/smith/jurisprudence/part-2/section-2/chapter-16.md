@@ -5,7 +5,7 @@ description: "The violent civil government is the biggest obstacle to the progre
 # date: 2015-09-17
 image: "/covers/lectures.jpg"
 weight: 36
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

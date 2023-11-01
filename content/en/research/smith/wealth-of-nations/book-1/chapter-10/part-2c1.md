@@ -2,7 +2,7 @@
 title: "Inequality from Restrictions on Immigration and Employment"
 heading: "Part 2c"
 weight: 72
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "The chance of loss is frequently under-valued and rarely valued more than it is worth"
 icon: "/avatars/smith.png"

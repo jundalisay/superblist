@@ -45,7 +45,7 @@ From these, we can say that the engrossment of nominal capital leads to its own 
 
 With the increase in money and funds, those-who-live-by-profits see more probability of satisfying their hidden desires. Using Smith's terminology, their minds start to convert their absolute (imaginary) demand into an effectual (real) demand. The most common absolute demand is the desire of the ego, which is always impractical and never makes good business sense, and shows itself during prosperous and profitable times:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 <p>The high rate of profit seems every where to destroy that parsimony natural to the character of the merchant.When profits are high, parsimony seems unsuitable to the affluence of his situation. But the owners of the great mercantile capitals are the leaders and conductors of the industry of every nation.. if the master is dissolute and disorderly, the servant will follow his master’s example..<br><br>Over-trading is the common cause of it. Sober men, whose projects cost more than their capitals, will likely have no means to buy money nor credit to borrow it. They are like prodigals whose expence has exceeded to their revenue. Before their projects can be brought to bear, their stock is gone, and their credit with it.</p>
 <cite>Simple Wealth Of Nations Book 4</cite>
 {{< /q >}}
@@ -61,7 +61,7 @@ Socrates supports this:
 
 Thus, high profits opens up the desires of the ego and the imagination, manifesting a 'irrational behaviour', just as a person who has no control over his desires seems crazy to others. This, combined with theuselessness of idle money, pushes those handling those huge funds to spend it immediately:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 <p>Every unnecessary accumulation of money is a dead stock which could be employed in enriching the nation by foreign commerce.</p>
 <cite>Lectures On Jurisprudence</cite>
 {{< /q >}}

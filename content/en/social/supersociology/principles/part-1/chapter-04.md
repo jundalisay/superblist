@@ -67,7 +67,7 @@ Notice that our definition of moral is not absolute in the sense that it does no
 The root idea behind morality is happiness which, according to our Metaphysics of Things, is a positive wave from which other positive waves, such as virtues, come about. Hume's first virtues are justice and benevolence. This matches the idea of Socrates, who put prime importance to justice (which we interpret as dharma).
 
 
-{{< q a="hume" >}}
+{{< q a="David-Hume" >}}
 We shall begin by looking into the social virtues of benevolence and justice. This will then lead us to other social virtues.
 <cite>An Enquiry Concerning The Principles Of Morals</cite>
 {{< /q >}}

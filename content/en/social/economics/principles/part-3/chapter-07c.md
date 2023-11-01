@@ -42,7 +42,7 @@ The different mentalities of different economists has led to different meanings 
 
 The failure of quantitative easing, both in the US under Obama and in Japan as [Abenomics](/social/cycles/how-to-fix-japan), is proof that the operations of banking cannot directly and immediately lead to economic growth, as explained by Adam Smith:  
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The judicious operations of banking can increase a country’s industry, not by augmenting the country’s capital, but by rendering most of that capital productive.
 <cite>The Simple Wealth of Nations Book 2, Chapter 2</cite>
 {{< /q >}}
@@ -96,7 +96,7 @@ From here, we can explain the affinities and oppositions of different beliefs an
 
 From the era of Classical Economics of Xenophon and the early Marginal Revolution of Marshall up to Arthur Pigou (the 'last' Classical economist) of the 1920s, money, banking, and interest rates were not so critical in Economics as today. <!-- Money, interest rates, and banking were not so important during the Classical Era. --> In fact, Xenophon says that money can be banished and the economy would still work. This is supported by Adam Smith:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 Among the Mongols and shepherd nations who are ignorant of the use of money, cattle are the instruments of commerce and the measures of value. Wealth to them consisted in cattle, as to the Spaniards it consisted in gold and silver. <i>Of the two, the Mongol notion was the nearest to the truth.</i>
 <cite>The Simple Wealth of Nations Book 4, Chapter 1</cite>
 {{< /q >}}

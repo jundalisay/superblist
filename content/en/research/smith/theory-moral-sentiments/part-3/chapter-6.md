@@ -4,7 +4,7 @@ heading: "Chapter 6"
 description: "Christianity has no rule saying that our sense of duty should be our sole principle"
 date: 2015-09-01
 image: "/covers/tms.jpg"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 ---
 

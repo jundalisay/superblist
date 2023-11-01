@@ -113,9 +113,10 @@ function fetchJSONFile(path, callback) {
 // on first call of search box (CMD-/)
 //
 function loadSearch() {
-  const lang = document.querySelector('head > meta[name="lang"]')?.getAttribute?.('content')
-  fetchJSONFile(`${lang ? "/" + lang : ""}/index.json`, function (data) {
+  // const lang = document.querySelector('head > meta[name="lang"]')?.getAttribute?.('content')
+  // fetchJSONFile(`${lang ? "/" + lang : ""}/index.json`, function (data) {
 
+  fetchJSONFile(`/index.json`, function (data) {
     var options = { // fuse.js options; check fuse.js website for details
       shouldSort: true,
       location: 0,

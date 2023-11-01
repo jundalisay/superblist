@@ -4,7 +4,7 @@ heading: "Chapter 3"
 weight: 14
 image: "/covers/wn.jpg"
 description: "Sometimes, the king or a great lord would grant a tax exemption to traders who lived in their territory. Such traders, though servile, were called Free-traders"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

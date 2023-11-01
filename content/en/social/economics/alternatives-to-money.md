@@ -4,7 +4,6 @@ heading: "Grain-based Valuation"
 date: 2019-10-17
 image: "/photos/objects/money.jpg"
 description : "Economics uses money both as a store of value and tool of trade. Superphysics uses three tools--money, points, and barter--in order to have more avenues of wealth creation and less chance of circulation blockage. This then makes financial crises and debt slavery obsolete"
-youtube: "OV1JHTiDdkQ"
 contributors: ['Juan']
 icon: /icons/pantry.png
 toc: false
@@ -16,16 +15,18 @@ toc: false
 
 Both Economics and Mercantilism use money as their store of value and tool of trade. Mercantilism was also called the Commercial system and now takes the form of E-commerce. 
 
-To buy anything online, you need a credit card or any electronic system to transfer cash payments. Prior to commercialization, the universal method was barter. For example, the Mongols and the Inca were able to sustain their empires by bartering goods and services.
+To buy anything online, you need a credit card or any electronic system. Prior to commercialization, the universal method was barter. For example, the Mongols and the Inca were able to sustain their empires by bartering goods and services.
 
 
 ## How The Commercial System Spread
 
-Coined money began in the West with Servius Tullius. In China, paper money began with the Song dynasty. 
+According to Adam Smith, coined money began in the West with Servius Tullius. In China, paper money began with the Song dynasty.
 
-However, there was still no centralized commercial system because those societies were using either the aristocratic or tyrannical systems of imperial rule and monarchy respectively. The oligarch system of corporations and big business was still non-existent. Such a system needed lasting peace and order which did not exist. 
+However, there was still no centralized commercial system because those societies were using either the aristocratic or tyrannical systems of imperial rule and monarchy respectively. The oligarch system of corporations and big business was still non-existent because there was no peace and order.
 
-This changed when the Spanish conquered Europe as the Hapsburgs to impose that relative peace. They then discovered silver mines in South America which allowed metal money to spread to the world. Its convenience rendered barter obsolete. 
+ <!-- Such a system needed lasting peace and order which did not exist.  -->
+
+This changed when the Spanish conquered Europe as the Hapsburgs to impose that peace. They then discovered silver mines in South America which allowed metal money to spread to the world. Its convenience rendered barter obsolete. 
 
 Thus, monarchial strength in Europe led to peace which led to money which led to the commercial system*. 
 
@@ -33,7 +34,9 @@ Thus, monarchial strength in Europe led to peace which led to money which led to
 > *The strength of China and India came from the imperial system and not the monarchial one. This allowed them to hinder commercial interests, similar to how Xi Jinping is able to clamp down on tech companies. This is the opposite of the US where its leaders are subservient to commercial interests, as seen in the phenomenon of globalization and the 2008 Financial Crisis. 
 
 
-Because of colonization, all countries adopted precious metals, allowing the commercial money-only system to monopolize all buying and selling transactions. The showdown between the commercial and the imperial systems manifested as the Opium Wars wherein the Chinese imperial system was defeated.
+Because of colonization, all countries adopted precious metals. This allowed the commercial money-only system to monopolize all buying and selling transactions.
+
+The showdown between the commercial and the imperial systems manifested as the Opium Wars wherein the Chinese imperial system was defeated.
 
 However, the commercial system also created problems:
 
@@ -47,9 +50,8 @@ However, the commercial system also created problems:
 
 To solve these problems, Adam Smith suggested grains and precious metals as the store of value: 
 
-{{< q a="smith" >}}
-<p>Labour.. is the only universal and the only standard by which we can compare the values of different commodities at all times and at all places. <!-- We cannot estimate.. the real value of different commodities from century to century by the quantities of silver which were given for them. We cannot estimate it from year to year by the quantities of corn. By the quantities of labour we can, with the greatest accuracy, estimate it both from century to century and from year to year. -->From century to century, corn is a better measure than silver, because, from century to century, equal quantities of corn will command the same quantity of labour more nearly than equal quantities of silver. From year to year, on the contrary, silver is a better measure than corn, because equal quantities of it will more nearly command the same quantity of labour.</p>
-<cite>The Wealth of Nations Book 1 Chapter 5</cite>
+{{< q a="Adam-Smith" c="The Wealth of Nations Book 1 Chapter 5" >}}
+Labour.. is the only universal and the only standard by which we can compare the values of different commodities at all times and at all places. <!-- We cannot estimate.. the real value of different commodities from century to century by the quantities of silver which were given for them. We cannot estimate it from year to year by the quantities of corn. By the quantities of labour we can, with the greatest accuracy, estimate it both from century to century and from year to year. -->From century to century, corn is a better measure than silver, because, from century to century, equal quantities of corn will command the same quantity of labour more nearly than equal quantities of silver. From year to year, on the contrary, silver is a better measure than corn, because equal quantities of it will more nearly command the same quantity of labour.
 {{< /q >}}
 
 ![Wheat in a farm](https://res.cloudinary.com/nara/image/upload/q_auto/wheatfarm_bsqhxr.jpg)
@@ -140,7 +142,7 @@ Adam Smith advocated wheat as the universal measure of long-term value because o
 
 He also explained that the relative stability of grains over oil and metals is due to the fact that grains can be grown by anyone. The drilling of oil and the prospecting for gold, in contrast, can only be done by people who have the required capital and expertise.
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 <p>..it may sometimes be of use to compare the different real values of a particular commodity at different times and places... We must in this case compare, not so much the different quantities of silver for which it was commonly sold, as the different quantities of labour which those different quantities of silver could have purchased. But the current prices of labour at distant times and places can scarce ever be known with any degree of exactness. Those of corn, though they have in few places been regularly recorded, are in general better known.. We must generally, therefore, content ourselves with them.</p>
 {{< /q >}}
 
@@ -167,13 +169,13 @@ This new system creates a whole new set of measures, transaction methods, and in
 - Basic Universal Revenue as an alternative to money
 - [The Effort Theory of Value](/social/economics/principles/effort-theory-of-value) as an alternative to Marginal Pricing
 
-The next post will explain how Grain-based Valuation can be implemented as Basic Universal Revenue. This will be very useful during [the coming Great Stagflation](/social/supersociology/precrisis-years) which is supposed to spark this year.
+<!-- The next post will explain how Grain-based Valuation can be implemented as Basic Universal Revenue. This will be very useful during [the coming Great Stagflation](/social/supersociology/precrisis-years) which is supposed to spark this year. -->
 
 
-{{< mess >}}
-Jan 11, 2021: Harmonized with Pool Clearing
-
-Dec 11, 2021: Removed barter and instead focused on points, either as grains or gold
-
-Mar 25, 2022: Removed fiat
-{{< /mess >}}
+{{< box >}}
+Date | Notes
+--- | ---
+Jan 11, 2021 | Harmonized with Pool Clearing
+Dec 11, 2021 | Removed barter and instead focused on points, either as grains or gold
+Mar 25, 2022 | Removed fiat
+{{< /box >}}

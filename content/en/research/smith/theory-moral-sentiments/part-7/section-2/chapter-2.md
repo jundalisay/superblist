@@ -4,7 +4,7 @@ title: "Systems which make Virtue consist in Prudence"
 linkTitle: Chapter 2
 description: "Epicurus' system is the most ancient one that renders virtue as prudence. It regards Bodily Pain and Pleasure"
 weight: 12
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

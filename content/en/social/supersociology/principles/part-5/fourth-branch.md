@@ -61,7 +61,7 @@ The resources branch takes away some of the motherly duties such as caring for t
 
 The British Exchequer is similar to the resources branch: 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The present revenues consist chiefly of.. the funds mortgaged for paying off the public debts. Examples are taxes on salt, beer, malt, etc., levied by the officers of custom and excise. These cannot be touched by the king as they are paid to the court of exchequer. The exchequer is generally managed by people of interest and integrity. They have their offices for life and are quite independent of the king. They can pay only to those appointed by parliament.
 <cite>The simple-lectures-on-jurisprudence</cite>
 {{< /q >}}

@@ -2,7 +2,7 @@
 title: "How Drawing and Redrawing Works"
 heading: "Chapter 2h"
 weight: 24
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "The limitations set by banks led to traders to do Drawing and Redrawing to increase the paper money circulating"
 icon: "/avatars/smith.png"

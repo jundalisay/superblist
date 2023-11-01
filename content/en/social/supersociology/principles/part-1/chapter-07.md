@@ -15,7 +15,7 @@ icon: /icons/sp.png
 In course of creating the new economic science, I’ve always wondered how false beliefs of the Marginal Revolution were able to formalize themselves into a science called Economics. 
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 Without a doubt, it was the spirit of monopoly which originally invented and propagated this doctrine. Those who first taught it were by no means such fools as those who believed it. In every country, it is always the people’s interest to buy whatever they want the cheapest. This proposition is so very manifest that it is ridiculous to take any pains to prove it. It could never have been questioned had not the sophistry of merchants and manufacturers confounded the common sense of mankind. Their interest is directly opposite of the people’s interest.
 <cite>The Wealth of Nations</cite>
 {{< /q >}}

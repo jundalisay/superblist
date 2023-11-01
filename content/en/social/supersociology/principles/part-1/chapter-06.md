@@ -15,7 +15,7 @@ icon: /icons/spss.png
 
 David Hume explained, in "National Characters", that the natural environment of a society plays are role in its behavior. If a person were shaped by nature and nurture, then a society's character is likewise shaped by its natural environment and the social cycles that nurture it.
 
-{{< q a="hume" >}}
+{{< q a="David-Hume" >}}
 Lord Bacon observed that the inhabitants of the warm south are generally more ingenious than those of the cold north. But where the native of a cold climate has genius, he rises to a higher pitch than can be reached by the southern wits.
 {{< /q >}}
 

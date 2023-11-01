@@ -2,7 +2,7 @@
 title: "Rent, Wages, and Labor"
 heading: "Chapter 6b"
 weight: 30
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image:  "/covers/wn.jpg"
 description: "In the rude state, price has one component--wages"
 icon: "/avatars/smith.png"

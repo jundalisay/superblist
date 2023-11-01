@@ -3,7 +3,7 @@ title: "The Virtue of Self-command"
 heading: "Section 3"
 description: "A man is said to be perfectly virtuous if he acts according to the rules of prudence, justice, and benevolence"
 weight: 46
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---
@@ -49,10 +49,9 @@ Some of that admiration is excited by:
 - its uniformity, equality, and steadiness in commanding the passions easy to control
 
 
-{{< s v="5" >}} A man is very much admired if he stays calm <!-- preserves his tranquility and acts in perfect accordance with the feelings of the most indifferent spectator --> while he is in danger, torture, and near death.
+{{< s v="5" >}} A man is very much admired if he stays calm while he is in danger, torture, and near death.
 
-If he suffers <!-- for liberty and justice  -->for the sake of humanity and nationalism<!-- the love of his country -->, this admiration is mixed with:
-<!-- the following are mixed with the admiration of his magnanimity=  -->
+If he suffers for the sake of humanity and nationalism<!-- the love of his country -->, this admiration is mixed with:
 - compassion for his sufferings,
 - <!-- the strongest --> indignation against the injustice of his persecutors,
 - <!-- the warmest sympathetic --> gratitude for his beneficent intentions, and
@@ -85,6 +84,7 @@ When a robber behaves with decency and firmness during his execution, we often r
 
 Death is the king of terrors.
 The man who has conquered the fear of death will not likely lose his presence of mind at the approach of any other natural evil.
+
 In war, men become familiar with death.
 
 They are necessarily cured of that superstitious horror which afflicts the weak and inexperienced.
@@ -103,6 +103,7 @@ They are less anxious to get out of it.
 
 They are less apt to lose their presence of mind while they are in danger.
 This habitual contempt of danger and death ennobles the profession of a soldier.
+
 It bestows on that profession a natural rank and dignity superior to any other profession.
 The skillful and successful exercise of this profession in the service of their country, constituted the most distinguishing feature in the character of the favourite heroes of all ages.
 
@@ -228,11 +229,12 @@ But it is at least equally liable to be excessively pernicious.
 {{< s v="13" >}} The command of the less violent and turbulent passions seems much less liable to be abused to any pernicious purpose.
 
 Temperance, decency, modesty, and moderation, are always amiable.
-<!-- They can seldom be directed to any bad end. -->
 
 The following virtues derive their lustre from the steadiness of those gentler exertions of self-command:
 - chastity,
 - industry, and 
 - frugality.
 
-The conduct of those who live humbly in private and peaceable life, also derives most of their beauty and grace from that gentler self-command. It is a beauty and grace much less dazzling. But it is not always less pleasing than those from the splendid actions of the hero, statesman, or legislator.
+The conduct of those who live humbly in private and peaceable life, also derives most of their beauty and grace from that gentler self-command. 
+
+It is a beauty and grace much less dazzling. But it is not always less pleasing than those from the splendid actions of the hero, statesman, or legislator.

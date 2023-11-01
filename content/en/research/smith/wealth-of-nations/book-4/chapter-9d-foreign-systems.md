@@ -6,7 +6,7 @@ weight: 112
 image: "/covers/wn.jpg"
 description: "The economic policy of China favours agriculture more than all other employments"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

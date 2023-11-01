@@ -2,9 +2,9 @@
 title: "The Nature of Self-deceit and the Origin and Use of General Rule"
 heading: "Chapter 4"
 description: "The impartial spectator does not always need to be far to pervert our judgments on our own conduct"
-date: 2015-09-08
+# date: 2015-09-08
 image: "/covers/tms.jpg"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 ---
 
@@ -124,21 +124,29 @@ By nature, we have the strongest desire for those feelings.
 We become ambitious of performing the like.
 We naturally lay down another rule to ourselves, that we should carefully seek every opportunity of acting in this way.
 
-95 Thus, the general rules of morality are formed.
 
-They are ultimately founded on the experience of what our moral faculties approve or disapprove of in particular instances.
+{{< s v="95" >}} Thus, the general rules of morality are formed.
+
+They are ultimately founded on our the experience of moral faculties.
+
 We do not originally approve or condemn particular actions.
+
 Because upon examination, they appear to be agreeable or inconsistent with a certain general rule.
+
 On the contrary, the general rule is formed when we find that certain kinds of actions are approved or disapproved of.
 
-A person is murdered, because of avarice, envy, or unjust resentment, by someone whom he loved and trusts.
-The dying man complains more of his false friend's perfidy and ingratitude, than of the murder.
-One of the most sacred rules of conduct prohibited the taking away of an innocent life.
-A man who sees this murder could have no occasion to reflect that this was a plain violation of that rule, and consequently a very blamable action.
-His detestation of this crime would arise instantaneously and before he has formed to himself any such general rule.
-On the contrary, the general rule which he might form afterwards would be founded on the detestation he felt in his own breast at the thought of this and other actions of the same kind.
+A person is murdered by the avarice and envy of someone he loved and trusts.
+- The dying man complains more of his false friend ingratitude, than of the murder.
+<!-- One of the most sacred rules of conduct prohibited the taking away of an innocent life. -->
+- A witness to this murder will immediately feel it as a very blamable action without thinking of what rule it violated.
 
-96 When we read in history or romance, we admire the account of actions of generosity or condemn the actions of baseness.
+<!-- could have no occasion to reflect that this was a plain violation of that rule, and consequently a .
+His detestation of this crime would arise instantaneously and before he has formed to himself any such general rule. -->
+  - He might afterwards form the general rule against murder from his detestation
+ <!-- he felt in his own breast at the thought of this and other actions of the same kind. -->
+
+
+{{< s v="96" >}} When we read in history or romance, we admire the account of actions of generosity or condemn the actions of baseness.
 
 Neither of them arise from reflecting that there are certain general rules which declare: 
 - all generous actions admirable, and
@@ -146,37 +154,47 @@ Neither of them arise from reflecting that there are certain general rules which
 
 On the contrary, those general rules are all formed from our experience on the effects naturally produced on us by different kinds of actions.
 
-97 An amiable action, a respectable action, an horrid action, are actions which naturally excite the observer's love, respect, or horror for its doer.
+
+{{< s v="97" >}} An amiable action, a respectable action, an horrid action, are actions which naturally excite the observer's love, respect, or horror for its doer.
 
 General rules determine what actions are or are not the objects of each of those sentiments.
 These rules can only be formed by observing what actions actually excite them.
 
-98 These general rules are formed and universally established by the concurring feelings of mankind.
 
-We frequently appeal to them as to the standards of judgment, in debating on the morality of complicated and dubious actions.
-They are commonly cited as the ultimate foundations of what is just and unjust.
-This circumstance have misled several very eminent authors, to draw up their systems thinking that mankind's original moral judgments were formed like the decisions of a court of justice.
-It considers: 
-The general rule
-Then, whether the action under consideration fell properly within its comprehension.
+{{< s v="98" >}} These general rules are formed and universally established by the concurring feelings of mankind.
 
-{{< s v="99" >}} When those general rules of conduct have been fixed in our mind by habitual reflection, they are very useful in correcting the misrepresentations of self-love on what is moral.
+<!-- We frequently appeal to them as to the standards of judgment, in  -->
 
-If a very resentful man listened to the dictates of self-love, he might regard his enemy's death as a small compensation for the wrong he has received, even if it were just a very slight provocation.
+When we debate on the morality of complicated actions, we turn to these general rules.
 
-But his observations on the conduct of others, have taught him how horrible all such sanguinary revenges appear.
+<!-- They are commonly cited as the ultimate foundations of what is just and unjust. -->
 
-Unless his education has been very singular, he lays as an inviolable rule, to always abstain from revenge.
+This has misled eminent authors to think that mankind's original moral judgments were formed like the decisions of a court of justice that is based on the general rule.
 
-This rule renders him incapable of such a violence
-The original fury of his own temper might have made him determine the revenge to be: 
+
+<!-- Then, whether the action under consideration fell properly within its comprehension. -->
+
+{{< s v="99" >}} When those general rules of conduct have been fixed in our mind by habitual reflection, they are very useful in correcting our moral judgements. 
+ <!-- the misrepresentations of self-love on what is moral. -->
+
+An egotistic resentful man might regard his enemy's death as a small compensation for the wrong he has received.
+<!-- , even if it were just a very slight provocation. -->
+
+But his observations on the conduct of others have taught him that such a revenge is horrible. This might make him abstain from revenge, as a rule.
+ <!-- all such sanguinary revenges appear. -->
+
+<!-- Unless his education has been very singular, he lays as an inviolable rule, to always . -->
+
+- This rule renders him incapable of such a violence
+
+<!-- The original fury of his own temper might have made him determine the revenge to be: 
 quite just and proper, and
-
-what every impartial spectator would approve of.
+what every impartial spectator would approve of. -->
 
 But his reverence for the rule which past experience has impressed on him: 
 - checks the impetuosity of his feelings, and
-- corrects the partial views suggested by his self-love.
+- corrects the partial views of his ego
+ <!-- suggested by his self-love. -->
 
 If he lets himself be controlled by resentment as to violate this rule, he will not be able to throw away his respect for this rule.
 
@@ -212,5 +230,7 @@ He meets a more certain destruction than from anything that pursues him from beh
 
 Such are his feelings even at the time of acting.
 Though he is then less sensible of the impropriety of his own conduct than afterwards, when his feelings are gratified and palled.
+
 He begins to view what he has done as how others would see it.
+
 He actually feels, what he had only foreseen very imperfectly before, the stings of remorse and repentance begin to agitate and torment him.

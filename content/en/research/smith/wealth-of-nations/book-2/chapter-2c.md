@@ -2,7 +2,7 @@
 title: "Kinds of Paper Money"
 heading: "Chapter 2c"
 weight: 14
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "Bank notes and cash accounts are the two kinds of paper money"
 icon: "/avatars/smith.png"

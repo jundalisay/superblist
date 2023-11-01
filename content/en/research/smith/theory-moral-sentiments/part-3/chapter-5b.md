@@ -4,7 +4,7 @@ heading: "Chapter 5b"
 description: "The general rules which distribute prosperity and adversity are perfectly suited to mankind's situation. Yet they are not suited to some of our natural feelings"
 date: 2015-09-04
 image: "/covers/tms.jpg"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 ---
 

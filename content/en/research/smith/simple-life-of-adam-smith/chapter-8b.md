@@ -675,7 +675,7 @@ He actually wrote Smith a letter on the subject along with Hume’s.
 Hume’s letter is as follows= —
  
 
-{{< q a="hume" >}}
+{{< q a="David-Hume" >}}
 June 8, 1758
 
 Dear Smith—

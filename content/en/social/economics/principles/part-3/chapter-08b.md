@@ -130,7 +130,7 @@ Low credit-worthiness (quality) of borrowers | The high demand increases the num
 Few banks or banks that are too consolidated | Generally, the competition between banks will reduce the interest rate.
 
 
-{{< q a="smith" c="Lectures on Jurisprudence, Part 2, Section 2, Chapter 14" >}}
+{{< q a="Adam-Smith" c="Lectures on Jurisprudence, Part 2, Section 2, Chapter 14" >}}
 A loan is usually done in money. But this is immediately turned into stock, and thus it is the quantity of stock that enables you to make more loans. <i>The rate of interest is entirely regulated by this circumstance.</i> If there were so many borrowers but only a few lenders then interest would be high. But if the amount of stock on hand were so great as to enable many to lend, then it would fall proportionably.
 {{< /q >}}
 

@@ -4,7 +4,7 @@ heading: "Chapter 3a"
 description: "The Eye of the Impartial Spectator"
 date: 2015-09-18
 image: "/covers/tms.jpg"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 ---
 

@@ -2,7 +2,7 @@
 heading: Section 1
 title: "Cleanliness and Security"
 # date: 2015-09-30
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Section 1 of The Simple Lectures on Jurisprudence by Adam Smith"

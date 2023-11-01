@@ -5,7 +5,7 @@ weight: 24
 image: "/covers/wn.jpg"
 description: "Without gold and silver it is impossible to pay taxes. We already get all their gold and silver"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

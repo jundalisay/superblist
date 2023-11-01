@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "The Nature of Prepositions"
 weight: 10
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/formation.jpg"
 description: "Every preposition denotes some relation considered in concrete with the co-relative object"

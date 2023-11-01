@@ -4,7 +4,7 @@ heading: "Part 3j"
 weight: 52
 image: "/covers/wn.jpg"
 description: "University Education"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

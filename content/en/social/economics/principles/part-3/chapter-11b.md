@@ -91,7 +91,7 @@ The court of directors is under a court of proprietors who do not understand the
 
 This sameness of essence between capitalism and mercantilism is proven by the fact that Capitalism's producers and Mercantilism's merchants actually form a single sub-order of society which live by profits:
 
-{{< q a="smith" c="Wealth of Nations Simplified, Book 1">}}
+{{< q a="Adam-Smith" c="Wealth of Nations Simplified, Book 1">}}
 Merchants and master manufacturers are the two classes in this order who employ the largest capitals... Their thoughts and judgement commonly revolve around the interest of their own business,than around the interest of society.
 {{< /q >}}
 
@@ -105,7 +105,7 @@ To find this secondary idea, we retrace our steps back to 'private ownership' to
 
 The main difference between mercantilism and capitalism is the prevalence of private regulated companies in the former and their lack in the latter. The most significant characteristic of private regulated companies is their exclusivity, similar to guilds of the past.
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The object of most of the bylaws of all regulated companies and all other corporations, is not so much to oppress existing members. Its object is more to discourage others from becoming members... The directors of a regulated company, haveno common capital to manage.They have no other fund to use for forts and garrisons other than the casual revenue from: the admission fines, the corporation duties.
 <cite>Wealth of Nations Book 5</cite>
 {{< /q >}}
@@ -197,7 +197,7 @@ This is one of the main expedients that fuels inequality, as it allows people to
 
 State capitalism is the state trying to solve the problem of inequality by giving the government the control of private equity so that its profits can be better distributed to society. However, such a system requires its government administrators to have a high degree of skill and morals to juggle private and public interest at the same time. Adam Smith says that the government can be in business as long as its people are responsible. This is proven by the success of China's state-owned corporations:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 Government management of mercantile projects like this requires orderly, vigilant, and parsimonious administration, like those in Venice and Amsterdam. But the government of England was never famous for good economy. In peacetime, she has been slothful and negligently profuse. This is perhaps natural to monarchies.
 <cite>The Simple Wealth of Nations Book 5, Chapter 2</cite>
 {{< /q >}}

@@ -5,7 +5,7 @@ weight: 24
 image: "/covers/wn.jpg"
 description: "In some countries, extraordinary taxes are imposed on profits when employed in particular trades, and in agriculture"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

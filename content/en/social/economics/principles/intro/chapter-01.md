@@ -47,16 +47,17 @@ But in the quantum level, when nature of the particle is thoroughly analyzed, th
 
 Hume explains that this defect is due to the limitations of the human mind:
 
-{{< q a="Hume" >}}
-<p>The capacity of the mind is limited and can never attain a full and adequate conception of infinity.. In rejecting the mind’s infinite capacity, we suppose it may arrive at an end in the division of its ideas.. Therefore, the imagination may reach a minimum idea which it cannot further subdivide or reduce without annihilating it.. The same is true for the impressions of the senses and the imagination.. The minute parts of distant bodies do not convey any sensible impression.. because.. their impressions were reduced to a minimum.</p>
+{{< q a="David-Hume" >}}
+The capacity of the mind is limited and can never attain a full and adequate conception of infinity.. In rejecting the mind’s infinite capacity, we suppose it may arrive at an end in the division of its ideas.. 
+
+Therefore, the imagination may reach a minimum idea which it cannot further subdivide or reduce without annihilating it.. The same is true for the impressions of the senses and the imagination.. The minute parts of distant bodies do not convey any sensible impression.. because.. their impressions were reduced to a minimum.
 {{< /q >}}
 
 
 Thanks to technology, we can now perceive the smallest units of matter, only to see that they are made up of strings which have the nature of indivisible waves, just as 'love' can be both an idea or a feeling. These waves or impressions are ultimately by perceived by human feeling, which has a different nature from human intellect.
 
-{{< q a="hume" >}}
-<p>The impressions which enter by our five senses do not resemble the actual objects. Consequently, the idea of identity, which is supposed to be real, can never be derived from any of these senses. Therefore, the feeling is the only sense remaining that can convey the impression.<br><br>With regard to the passions, the human mind.. resembles a stringed instrument. After each stroke, the vibrations still retain some sound which gradually and insensibly decays. <!-- The imagination is extremely quick and agile. But the passions are slow and restive. This is why, when any object is presented that affords a variety of views to the one, and emotions to the other, the fancy may change its views very quickly. --></p>
-<cite>Hume, Treatise of Human Nature</cite>
+{{< q a="David-Hume" c="Treatise of Human Nature" >}}
+The impressions which enter by our five senses do not resemble the actual objects. Consequently, the idea of identity, which is supposed to be real, can never be derived from any of these senses. Therefore, the feeling is the only sense remaining that can convey the impression.<br><br>With regard to the passions, the human mind.. resembles a stringed instrument. After each stroke, the vibrations still retain some sound which gradually and insensibly decays.
 {{< /q >}}
 
 
@@ -143,10 +144,12 @@ Since waves are continuous, they cannot be removed, but only 'toned down'. Ideas
 - Debt and Limited Partnerships instead of [Equity and corporations](/social/economics/capitalism)
 
 
-These then convert an economy from being a static system for creating treasure-particles, into a dynamic one where there is a constant creation and flow of value-waves. Since laws have sanctified profits, equity, and nominal value, and has entrenched them fully in human minds, only a very urgent and serious need, such as that arising from a new economic crisis, will be able to start the process of dislodging those ideas. Hopefully, that future crisis would be so severe as to be able to even dislodge Economics, as a compound idea-particle, too.
+These then convert an economy from being a static system for creating treasure-particles, into a dynamic one where there is a constant creation and flow of value-waves. 
+
+Since laws have sanctified profits, equity, and nominal value, and has entrenched them fully in human minds, only a very urgent and serious need, such as that arising from a new economic crisis, will be able to start the process of dislodging those ideas. Hopefully, that future crisis would be so severe as to be able to even dislodge Economics, as a compound idea-particle, too.
 
 
-{{< mess >}}
+<!-- {{< mess >}}
 - March 2020: That economic crisis has arrived!
-- July 2021: Added links to the other concepts</li></ul>"
-{{< /mess >}}
+- July 2021: Added links to the other concepts
+{{< /mess >}} -->

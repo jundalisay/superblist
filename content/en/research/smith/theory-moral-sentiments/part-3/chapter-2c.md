@@ -4,7 +4,7 @@ heading: "Chapter 2c"
 description: "In all cases, the agreement or disagreement of the feelings and judgments of other people with our own is important to us"
 date: 2015-09-24
 image: "/covers/tms.jpg"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 ---
 

@@ -4,7 +4,7 @@ title = "Superphysics"
 theme = "blist"
 
 DefaultContentLanguage = "en"
-DefaultContentLanguageInSubdir = true
+DefaultContentLanguageInSubdir = false
 
 enableEmoji = true
 paginate = 12

@@ -3,7 +3,7 @@ title: "Excessive Ego: Self-esteem, Pride, and Vanity"
 heading: "Chapter 4"
 description: "Adam Smith describes the egotistic man, the proud man, and the vain man"
 weight: 52
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---
@@ -20,10 +20,6 @@ A man is not ashamed if he only gives himself the merit due to him.
 - He is content on his character's genuine truth and solidity. 
 - His admirers might not be many nor loud in their applauses, but he is admired by wise men 
 
-<!-- who= 
-  - sees him the nearest and
-  - knows him the best. -->
-<!-- - wishes that other people should ascribe it to him. -->
 
 Parmenides read a philosophical discourse before a public assembly at Athens. 
 - He observed that his friends left him, except Plato. 
@@ -38,13 +34,6 @@ To a real wise man, the judicious approbation of a single wise man, gives more s
 
 
 Wise men admire him the least and so he thinks that they are jealous of his prosperity. He suspects his best friends and so he drives them away. He often rewards their services with ingratitude, cruelty, and injustice. He trusts instead flatterers and traitors who pretend to idolize his vanity. In the beginning, his character might be somewhat defective, though generally amiable and respectable. But it becomes contemptible and odious in the end.
-
-<!-- , their just esteem falls so far short of the extravagance of his own self-admiration, that he regards it as mere envy.
-Their company becomes offensive to him.
-He  from his presence.
- -->
-<!-- He abandons his confidence to 
-They and presumption. -->
 
 Amidst the intoxication of prosperity, Alexander:
 - killed Clytus for preferring the exploits of his father Philip to his own,
@@ -66,14 +55,9 @@ Alexander gained all his victories under Parmenio's presence and counsel. Withou
 -  'spirited'
 - 'magnanimous'
 - 'high-minded'.
-<!-- These words all involve much praise and admiration. -->
+
 
 But we cannot sympathize with egotistic people whom we see having no such superiority. We are disgusted and revolted by it. We call it pride or vanity.
-<!-- We cannot easily pardon or suffer it. -->
-<!-- 
-The word 'pride' mostly involves a considerable degree of blame.
-Vanity always involves it.
- -->
 
 
 {{< s v="34" >}} Pride and vanity resemble egotism<!-- excessive self-estimation -->, as both are modifications of it. In many respects, they are very different from one another.
@@ -84,18 +68,9 @@ Vanity always involves it.
 {{< s v="35" >}} The proud man is sincere and is convinced of his own superiority. He wishes you to view him as he really views himself. 
 
 If you do not respect him as he respects himself, he is more offended than mortified. He tries to maintain his assumed station, by making you know your own meanness instead of his superiority. He would rather mortify your self-esteem instead of exciting your esteem for himself.
-<!-- Though it may sometimes be difficult to guess on what that conviction is founded. -->
-
-<!-- He only demands justice from you. -->
-
-<!-- He feels the same indignant resentment as if he had suffered a real injury.
-However, he does not deign to explain the grounds of his own pretensions.
-He disdains to court your esteem.
-He affects even to despise it,
- -->
 
 {{< s v="36" >}} The vain man is not sincere. 
-<!-- In the bottom of his heart, he is very seldom convinced of that superiority which he wishes you to ascribe to him. -->
+
 He wishes you to view him in much more splendid colours than he can really view himself. 
 
 When you view him in different or proper colours, he is much more mortified than offended. He takes every opportunity to claim that character which he wants:
@@ -139,4 +114,3 @@ The countenance and conversation of such company overawe him so much that he dar
 He seldom visits his superiors. If he does, it is to show that he is entitled to live in such company, than for his real satisfaction in it. It is as Lord Clarendon says of the Earl of Arundel:
 
 {{< q >}}The Earl sometimes went to court because he could only find a greater man than himself there. But he went very seldom, because he found a greater man than himself there.{{< /q >}}
-

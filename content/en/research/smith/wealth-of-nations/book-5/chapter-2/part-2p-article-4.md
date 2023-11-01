@@ -5,7 +5,7 @@ weight: 40
 image: "/covers/wn.jpg"
 description: "They were called 'customs' to denote customary payments which used from time immemorial"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

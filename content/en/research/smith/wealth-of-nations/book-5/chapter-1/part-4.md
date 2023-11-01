@@ -4,7 +4,7 @@ heading: "Part 4"
 weight: 82
 image: "/covers/wn.jpg"
 description: "The sovereign also needs a certain expence to support his dignity"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

@@ -3,7 +3,7 @@ title: "The Bodily Sensations"
 heading: "Chapter 1"
 description: "Bodily Sensations are indecent to express because the bodies of others might not feel the same sensations"
 weight: 4
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---
@@ -37,11 +37,6 @@ However, there is some sympathy even with hunger. We are glad to see our friends
 
 We can sympathize with the excessive hunger of those in a siege or a sea voyage. But we do not grow hungry by reading about them. Even in this case, we do not really sympathize with their hunger.
 
-<!-- We imagine ourselves in the sufferers' situation.
-We readily conceive their grief, fear and consternation.
-We feel some degree of those passions.
-We therefore sympathize with them.
- -->
 
 {{< s v="4" >}} It is the same case with lust. It is naturally the most furious of all the passions. All its strong expressions are always indecent, even between the persons who do them innocently. However, there is some degree of sympathy even with it.
 
@@ -83,7 +78,10 @@ This is the case of all the bodily passions.
 They excite either no sympathy or a disproportional sympathy to the violence felt by the sufferer.
  -->
 
-{{< s v="8" >}} It is quite otherwise with those passions originating from the imagination. My body can be little affected by the changes on my companion's body. But my imagination is more ductile.
+{{< s v="8" >}} It is quite otherwise with the passions from the imagination.
+
+My body can be little affected by the changes on my companion's body. But my imagination is more ductile.
+
 It more readily assumes the shape and configuration of the imaginations of those I am familiar with.
 
 
@@ -143,7 +141,7 @@ The agonies of Hercules and Hippolytus are interesting only because we foresee d
 The pain from colic is severe, yet no tragedy had such a disease as its theme. The Greek theatre is an example of these attempts to excite compassion through bodily pain.
 
 
-14 The little sympathy which we feel with bodily pain is the foundation of the propriety of enduring it. We admire the man who does not groan under the severest tortures. 
+{{< s v="14" >}} The little sympathy which we feel with bodily pain is the foundation of the propriety of enduring it. We admire the man who does not groan under the severest tortures. 
 - His firmness enables him to keep time with our indifference and insensibility.
 - We go along with his magnanimous effort
 - From our experience of the weakness of human nature, we wonder how he can act so.

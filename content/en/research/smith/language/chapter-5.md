@@ -2,7 +2,7 @@
 heading: Chapter 5
 title: "The Simplification of Languages"
 weight: 16
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/formation.jpg"
 description: "Language becomes simpler in its principles, just as it grows more complex in its composition"

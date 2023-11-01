@@ -1,31 +1,11 @@
 ---
 heading: "Section 5b"
-title: "Reason"
-description: The subject of philosophy is the actual knowledge of what truly is.
+title: "What is Reason?"
+description: Reason is the certainty of being all reality.
 image: /covers/phenom.png
 author: Hegel
 weight: 4
 ---
-
-
-
-{{< s v='234' >}} The kind of Idealism which does not trace the path to that result, but starts off with the bare assertion of this truth, is consequently a mere assurance, which does not understand its own nature, and cannot make itself intelligible to any one else. 
-
-It announces an intuitive certainty, to which there stand in contrast other equally intuitive certainties that have been lost just along that very pathway. 
-
-Hence the assurances of these other certainties are equally entitled to a place alongside the assurance of that certainty. 
-
-Reason appeals to the self-consciousness of each individual consciousness: I am I, my object and my essential reality is ego; and no one will deny reason this truth. 
-
-But since it rests on this appeal, it sanctions the truth of the other certainty, viz. there is for me an other; an other than “I” is to me object and true reality: or in that I am object and reality to myself, I am only so by my withdrawing myself from the other altogether and appearing alongside it as an actuality.
-
-Only when reason comes forward as a reflexion from this opposite certainty does its assertion regarding itself appear in the form not merely of a certainty and an assurance but of a truth — and a truth not alongside others, but the only truth. 
-
-Its appearing directly and immediately is the abstract form of its actual presence, the essential nature and inherent reality of which is an absolute notion, i.e. the process of its own development.
-
-Consciousness will determine its relation to otherness or its object in various ways according as it is at one or other stage in the development of the world-spirit into self-consciousness. 
-
-How the world-spirit immediately finds and determines itself and its object at any given time, or how it appears to itself, depends on what it has already come to be, or on what it already implicitly and inherently is.
 
 
 
@@ -39,7 +19,7 @@ To put it otherwise, the category means this, that existence and self-consciousn
 
 
 
-{{< s v='236' >}} But now this category, or simple unity of self-consciousness and being, has difference within it.
+{{< s v='236' >}} This category, or simple unity of self-consciousness and being, has difference within it.
 
 This is because its very nature consists just in being immediately one and identical with itself in otherness or in absolute difference. 
 
@@ -99,7 +79,11 @@ Such a kind of knowledge is at the same time asserted by the very principle of t
 
 Pure reason as conceived by this idealism, if it is to get at this “other” which is essential to it, i.e. really is per se, but which it does not possess in itself — is thus thrown back on that knowledge which is not a knowledge of the real truth. 
 
-It thus condemns itself knowingly and voluntarily to being an untrue kind of knowledge, and cannot get away from “meaning” and “perceiving”, which for it have no truth at all. It falls into a direct contradiction; it asserts that the real has a twofold nature, consists of elements in sheer opposition, is the unity of apperception and a “thing” as well; whether a thing is called an alien impact, or an empirical entity, or sensibility, or the “thing in itself”, it remains in principle precisely the same, viz. something external and foreign to that unity.
+It thus condemns itself knowingly and voluntarily to being an untrue kind of knowledge, and cannot get away from “meaning” and “perceiving”, which for it have no truth at all.
+
+It falls into a direct contradiction.
+
+It asserts that the real has a twofold nature, consists of elements in sheer opposition, is the unity of apperception and a “thing” as well; whether a thing is called an alien impact, or an empirical entity, or sensibility, or the “thing in itself”, it remains in principle precisely the same, viz. something external and foreign to that unity.
 
 
 {{< s v='239' >}} This idealism falls into such a contradiction because it asserts the abstract notion of reason to be the truth. 
@@ -107,21 +91,4 @@ It thus condemns itself knowingly and voluntarily to being an untrue kind of kno
 Consequently reality comes directly before it just as much in a form which is not strictly the reality of reason at all, whereas reason all the while is intended to be all reality. Reason remains, in this case, a restless search, which in its very process of seeking declares that it is utterly impossible to have the satisfaction of finding.
 
 But actual concrete reason is not so inconsequent as this. Being at first merely the certainty that it is all reality, it is in this notion well aware that qua certainty qua ego it is not yet in truth all reality; and thus reason is driven on to raise its formal certainty into actual truth, and give concrete filling to the empty “mine”.
-<!-- 
-Observation as a function of Reason
 
-1. Cp. Hegel's Hist. Of Philos., pt. 2, § 3, Introd. And C: pt. 3, Introd. Philos. Of Hist., pt. 4, § 3, c. 3 ad fin.
-
-2. Cp. Naturphilos., W.W., vii. 1. § 246; Logik, W.W., v.
-
-3. Cp. Fichte, Grundlage d. Gesam. Wissenschaftslehre.
-
-4. V. sup. P. 154 ff.
-
-5. This refers to Kant's “discovery” of his “table of categories”.
-
-6. Fichte, Berkeley.
-
-7. Cp. Wiss. D. Logik, Pt. I, p. 253 ff.
-
-8. V. sup. P. 154 ff. -->

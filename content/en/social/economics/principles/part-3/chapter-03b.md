@@ -26,7 +26,7 @@ A dirt-poor evil bum can hurt a few people, but an ultra rich evil man can hurt 
 
 We solve this by using the effort theory of value, facilitated bysocial contractsin order to prevent injustice and the growth of evil. This will prevent democracies from degenerating into tyranny and aristocracies from slipping into oligrachy, in Socrates-speak.
 
-{{< q a="hume" >}}
+{{< q a="David-Hume" >}}
 None of the most furious excesses of love and ambition are in any respect to be compared to the extremes of avarice.
 {{< /q >}}
 
@@ -40,7 +40,7 @@ In contrast, a productivity-for-productivity system would retain all the informa
 
 Why hire a plumber and a carpenter to fix your kitchen sink and dinner table, when you can just hire one guy that has experience in both?
 
-{{< q a="hume" >}}
+{{< q a="David-Hume" >}}
 The lack of money can never injure any state within itself because people and commodities are the real strength of any community.
 {{< /q >}}
 
@@ -57,7 +57,7 @@ Money doesn't work for things that have a not-so-obvious-value (wave-value) such
 
 Economics has no way to accurately put a price on the future effects of such things, but Superphysics has, through relativistic effort-valuation and resource credits.
 
-{{< q a="hume" >}}
+{{< q a="David-Hume" >}}
 Deprive a man of all business and serious occupation, he runs restless from one amusement to another. He feels such a great weight and oppression from idleness and forgets the future ruin of his immoderate expences.
 {{< /q >}}
 
@@ -69,7 +69,7 @@ Under the influence either of poverty or of wealth, workers can degenerate. Here
 <cite>The Simple Republic, Book 2</cite>
 {{< /q >}}
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 Every unnecessary accumulation of money is a dead stock which could be employed in enriching the nation by foreign commerce.
 <cite>Lectures On Jurisprudence</cite>
 {{< /q >}}

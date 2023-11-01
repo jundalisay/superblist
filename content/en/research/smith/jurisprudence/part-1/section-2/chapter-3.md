@@ -1,16 +1,15 @@
 ---
-heading: Chapter 3 of Part 1 Section 2
-title: "Master and Servant"
+heading: Chapter 3
+title: "Master and Servant is the Third Relation of a Family"
 weight: 14
 # date: 2015-09-24
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "The power over the servants was arbitrary. A slave could have no property because the master had the disposal of his liberty"
 ---
 
 
-## Master and servant is the third relation of a family.
 
 The same principle which gave the husband authority over the wife, also gave the father authority over the son. The husband's power was softened through his wife’s friends. She could complain to them. The father was softened by the same means.
 
@@ -160,7 +159,9 @@ Finally, their privilege was extended and they became copyholders.
 
 Another cause of the abolition of slavery was the clergy's influence. It was not caused by the spirit of Christianity, for our planters are all Christians.
 
-Whatever reduced the power of the nobles over their inferiors increased the power of the Church. The clergy were generally more favoured by the common people than the nobility. They would do everything to have their privileges extended, especially the ones beneficial to the people. <!--  as they might have expectations of reaping benefit by it. -->
+Whatever reduced the power of the nobles over their inferiors increased the power of the Church. The clergy were generally more favoured by the common people than the nobility. 
+
+They would do everything to have their privileges extended, especially the ones beneficial to the people. <!--  as they might have expectations of reaping benefit by it. -->
 
 Accordingly, Pope Innocent 3rd encouraged all landlords to emancipate their slaves.  Thus, the clergy's influence combined with that of the king and hastened the abolition of slavery in Western Europe. 
 
@@ -169,6 +170,7 @@ In countries where neither the king nor the church were very powerful, slavery s
 The sovereign could never have great authority.
 In Bohemia, Hungary, and those countries where the sovereign is elective, and consequently never could ,
 Servitude still remains where the church never had any great influence.
+
 Because the court is not powerful enough to emancipate the nobility's slaves.
 
 On the topic of family members, I will only discuss:

@@ -3,7 +3,7 @@ heading: Chapter 4
 title: "Stock-jobbing"
 # date: 2015-09-10
 weight: 12
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Stock-jobbing is the same as gaming"

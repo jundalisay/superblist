@@ -5,7 +5,7 @@ weight: 12
 image: "/covers/wn.jpg"
 description: "A tax on land rent may be based on a valuation which is fixed and does not change with the actual rent which can fluctuate with the land's improvement or decline"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

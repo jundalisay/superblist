@@ -21,14 +21,14 @@ According to Adam Smith, this is wrong because utility is merely the effect of e
 {{< img src="/photos/meta/buddhism.jpg" alt="Buddhism" >}}
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 It is this deception which rouses and keeps in continual motion the industry of mankind. It is this which first prompted them to cultivate the ground, to build houses, to found cities and commonwealths, and to invent and improve all the sciences and arts, which ennoble and embellish human life.
 <cite>Theory Of Moral Sentiments, Part 4</cite>
 {{< /q >}}
 
 Materialists and selfish people usually point to the statement above to justify that Smith approves of utility and the profit motive, conveniently avoiding his other statements that are against utility:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 Power and riches appear then to be, what they are, enormous and operose machines contrived to produce a few trifling conveniencies to the body..ready every moment to burst into pieces, and tocrush in their ruins their unfortunate possessor.. But still I affirm, that it is not this utility which is the principal source of our approbation.. It seems impossible that we would approve of virtue in the same way we approve of a well-made building.. It is to be observed, that so far as the sentiment of approbation arises from the beauty of utility, it hasno reference to the sentiments of others.
 <cite>Theory Of Moral Sentiments, Part 4</cite>
 {{< /q >}}
@@ -50,7 +50,7 @@ Economic systems fall for this and that's whymoney and prices become a sort of d
 
 We solve this instability by flipping the temporal order of Maslow's hierarchy of needs. Instead of physiological needs being first, we start with self-actualization. Our basis is David Hume saying that mentality creates reality:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 It is an established maxim in metaphysics, that whatever the mind clearly conceives, includes the idea of possible existence, or in other words, nothing we imagine is absolutely impossible.
 <cite>A Treatise of Human Nature, Book 1, Part 2, Section 2</cite>
 {{< /q >}}
@@ -101,7 +101,7 @@ If existence were a video game, then profits would be the high scores. Materiali
 {{< img cap="Are you tired and miserable? You can blame Economics for it." src="/photos/sad.jpg" alt="Exhausted woman" >}}
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 In the real happiness of human life.. in ease of body and peace of mind, all the different ranks of life are nearly on a level.
 <cite>Theory Of Moral Sentiments Part 4</cite>
 {{< /q >}}

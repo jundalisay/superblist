@@ -5,7 +5,7 @@ weight: 30
 image: "/covers/wn.jpg"
 description: "Taxation by stamp-duties and registration duties are a very modern invention"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

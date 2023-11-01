@@ -63,7 +63,7 @@ When an overpriced product cannot be sold, its price is slashed, creating a barg
 
 Our curves also show slight moral similarities and differences with those of Economics. Whereas Economics sees producer’s and consumer’s surplus as bad, Superphysics sees consumer’s surplus as initially good since it is never bad to supply goods and services to all.
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 Consumption is the sole end and purpose of all production.. the interest of the producer ought to be attended to only so far as it may be necessary for promoting that of the consumer. The maxim is so perfectly self-evident that it would be absurd to attempt to prove it. But in the mercantile system the interest of the consumer is almost constantly sacrificed to that of the producer; it seems to consider production, and not consumption, as the ultimate end and object of all industry and commerce. 
 <cite>Wealth of Nations Book 4</cite>
 {{< /q >}}

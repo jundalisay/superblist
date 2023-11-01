@@ -5,7 +5,7 @@ heading: "Chapter 2"
 image: "/covers/philo.jpg"
 description: "Adam Smith explains the philosophies of Plato and Aristotle"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 weight: 12
 ---
 

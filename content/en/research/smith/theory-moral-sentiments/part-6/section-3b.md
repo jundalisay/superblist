@@ -3,7 +3,7 @@ title: "The Point of Propriety"
 heading: "Section 3"
 description: "The point of propriety is the degree of any passion which the impartial spectator approves of. This point is differently situated in different passions"
 weight: 48
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---
@@ -145,58 +145,63 @@ Insensibility is so different from that exalted self-command.
 That noble firmness is founded in the sense of dignity and propriety.
 In many cases, the merit of self-command is entirely removed in proportion as insensibility takes place.
  
-19 The total lack of sensibility to personal injury, danger, and distress would remove the whole merit of self-command.
+{{< s v="19" >}} The total lack of sensibility to personal injury, danger, and distress would remove the whole merit of self-command.
 
 However, that sensibility may very easily be too exquisite.
-It frequently is so.
->The sense of propriety is the authority of the judge within the breast.
-That authority must appear very noble and great when it can control this extreme sensibility.
-But its exertion may be too fatiguing.
-It may have too much to do.
-The individual may behave perfectly well through a great effort.
 
-The contest between the two principles is the warfare within the breast.
-It may be too violent to be consistent with internal tranquility and happiness.
+The sense of propriety is the authority of the judge within the breast.
+- That authority is very noble when it can control this extreme sensibility.
+- But its exertion might be too tiring.
+
+The contest between the 2 principles is the warfare within the breast.
+
+<!-- It may be too violent to be consistent with internal tranquility and happiness. -->
+
 The wise man will avoid, as much as duty and propriety will permit, the situations he is not perfectly fit for.
 He was endowed by Nature with this too exquisite sensibility.
 His too lively feelings have not been sufficiently blunted and hardened by early education and proper exercise.
-A man with feeble and delicate constitution might render him too sensible to pain, hardship, and bodily distress.
-He should not wantonly embrace the profession of a soldier.
-The man who is too much sensible to injury should not rashly engage in the contests of faction.
+
+A weak man might be too sensible to pain, hardship, and bodily distress.
+He should not become a soldier.
+
+The man who is too sensible to injury should not engage in the contests of faction.
 The sense of propriety might be strong enough to command all those sensibilities
 But the mind's composure must always be disturbed in the struggle.
+
 In this disorder, the judgment cannot always maintain its ordinary acuteness and precision.
 He may always mean to act properly.
-But he may often act= 
-rashly and imprudently, and
-in a way which he himself will be forever ashamed of later.
-Undoubtedly, the best preparatives for all the great exertions of self-command are a certain= 
-intrepidity,
-firmness of nerves, and
-hardiness of constitution, whether natural or acquired.
- 
-20 War and faction are certainly the best= 
 
-schools for forming every man to this hardiness and firmness of temper, and
-remedies for curing him of the opposite weaknesses.
-Yet the consequences might not be agreeable if the day of trial comes before= 
+But he may often act:
+- rashly and imprudently, and
+- in a way which he will be forever ashamed of.
 
-he has completely learned his lesson
-the remedy has had time to produce its proper effect
+The best preparatives for the great exertions of self-command are:  
+- intrepidity,
+- firmness of nerves, and
+- hardiness of constitution, whether natural or acquired.
 
-21 In the same way, our sensibility to the pleasures, amusements, and enjoyments of human life may offend by its= 
+
+{{< s v="20" >}} War and faction are certainly the best:
+- schools for forming every man to this hardiness and firmness of temper, and
+- remedies for curing him of the opposite weaknesses.
+
+Yet the consequences might not be agreeable if the day of trial comes before:
+- he has completely learned his lesson
+- the remedy has had time to produce its proper effect
+
+{{< s v="21" >}} In the same way, our sensibility to the pleasures, amusements, and enjoyments of human life may offend by its:
 - excess, or
 - defect
 
-Of the two, however, the excess seems less disagreeable than the defect.
+Of the 2, however, the excess seems less disagreeable than the defect.
 
 To the spectator and to the person principally concerned, a strong propensity to joy is certainly more pleasing than a dull insensibility to the objects of amusement and diversion.
 
-We are charmed with= 
+We are charmed with: 
 - the gaiety of youth
 - the playfulness of childhood
 
-But we soon grow weary of the flat and tasteless gravity which frequently accompanies old age. This grave propensity is justly blamed as excessive when it is= 
+But we soon grow weary of the flat and tasteless gravity which frequently accompanies old age. This grave propensity is justly blamed as excessive when it is: 
 - it is not restrained by the sense of propriety
 - it is unsuitable to the time, place, age or situation of the person
 - he neglects his interest or duty to indulge it
@@ -204,7 +209,9 @@ But we soon grow weary of the flat and tasteless gravity which frequently accomp
 It is as hurtful to the individual and to society.
 
 In most of such cases, however, what is chiefly to be found fault with is, not so much the strength of the propensity to joy, as the weakness of the sense of propriety and duty.
-A young man is disliked as formal and pedantic if he
-has no relish for the diversions and amusements that are natural and suitable to his age
-talks of nothing but his book or his business
+
+A young man is disliked as formal and pedantic if he:
+- has no relish for the diversions and amusements that are natural and suitable to his age
+- talks of nothing but his book or his business
+
 We give him no credit for his abstinence even from improper indulgences, to which he seems to have so little inclination.

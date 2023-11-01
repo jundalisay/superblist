@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "Discipline"
 weight: 10
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "In the beginning of society, the state's defence required no police, nor particular provision for it"

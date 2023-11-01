@@ -3,7 +3,7 @@ title: "The Influence of Customs on Beauty"
 heading: "Chapter 2b"
 description: "The custom and fashion also have a big influence on our moral sentiments. They are the chief causes of many irregular moral opinions in different ages and nations. They dominate even our judgments concerning beauty"
 weight: 20
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---
@@ -67,10 +67,8 @@ They think that all the rules for their beauty are founded on reason and nature,
 - a Ionic volute if its heignt is 9 diameters
 - a Corinthian foliage if its height is 10 diameters
 
-<!-- The propriety of each of those appropriations can be founded  -->
-
 The eye was used to see a particular proportion connected with a particular ornament. Each of the five orders has its peculiar ornaments which cannot be changed for any other, without offending those who know architectural rules.
-<!-- It would be offended if they were not joined together. -->
+
 
 According to some architects, the ancients:
 - had exquisite judgement

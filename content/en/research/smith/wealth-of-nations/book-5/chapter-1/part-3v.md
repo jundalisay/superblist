@@ -4,7 +4,7 @@ heading: "Part 3v"
 weight: 64
 image: "/covers/wn.jpg"
 description: "In England, charity schools have the same effect though not so universally, because charity schools are not so universal"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

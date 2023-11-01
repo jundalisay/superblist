@@ -23,7 +23,7 @@ Hume merely described the flaw in the way of how shallow-minded moral philosophe
 
 **It does not mean that deriving 'ought' from 'is' is impossible.**
 
-{{< q a="hume" >}}
+{{< q a="David-Hume" >}}
 In every system of morality, the author proceeds in the ordinary way of reasoning and establishes God, or makes observations on human affairs. Suddenly, instead of the usual propositions of 'is' and 'is not', I meet propositions of 'should' and 'should not'. 
 
 This change is imperceptible, but is of final consequence. This 'should' or 'should not' expresses some new relation or affirmation [from their bias or personal feelings]. This new relation should be observed and explained at the same time that a reason should be given for what seems inconceivable [what was the cause of his bias]. How can this new relation be a deduction from other deductions entirely different from it [his personal feelings]?
@@ -61,7 +61,7 @@ Most of the prophets in the Old Testament were political propagandists (who advi
 
 ## Morals are Based on Feelings
 
-{{< q a="hume" >}}
+{{< q a="David-Hume" >}}
 Authors do not commonly use this precaution. I recommend it to the readers. This small detail would subvert all the vulgar systems of morality, and let us see that the distinction of vice and virtue is not founded merely on the relations of objects, and perceived by reason.
 {{< /q >}}
 

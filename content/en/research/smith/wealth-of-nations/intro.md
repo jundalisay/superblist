@@ -6,7 +6,7 @@ weight: 1
 image: "/covers/wn.jpg"
 description: "The work of every nation is the fund which originally supplies it with all the necessaries and conveniencies of life"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

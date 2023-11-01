@@ -4,7 +4,7 @@ heading: "Part 3e"
 weight: 34
 image: "/covers/wn.jpg"
 description: "By a bylaw, no British manufactures could be exported to Turkey except in the company's ships."
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

@@ -2,7 +2,7 @@
 title: "Civil government and the Superiority of birth and fortune"
 heading: "Chapter 1 Part 2b"
 weight: 16
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "The necessity of civil government gradually grows up with the acquisition of valuable property"
 icon: "/avatars/smith.png"

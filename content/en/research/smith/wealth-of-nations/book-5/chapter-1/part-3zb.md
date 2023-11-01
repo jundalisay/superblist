@@ -4,7 +4,7 @@ heading: "Part 3zb"
 weight: 76
 image: "/covers/wn.jpg"
 description: "The gradual improvements of arts, manufactures, and commerce which destroyed the great barons also destroyed the power of the European clergy"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

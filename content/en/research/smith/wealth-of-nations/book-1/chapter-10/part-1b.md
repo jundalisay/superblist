@@ -2,7 +2,7 @@
 title: "Inequality from Constancy"
 heading: "Part 1b"
 weight: 58
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "Wages vary with the constancy or inconstancy of employment"
 icon: "/avatars/smith.png"

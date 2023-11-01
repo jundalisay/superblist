@@ -3,7 +3,7 @@ title: "The Vain Man"
 heading: "Chapter 4b"
 description: "He courts the company of his superiors as much as the proud man shuns it"
 weight: 54
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---
@@ -55,7 +55,6 @@ He sometimes even repeats those tales with some exaggeration. -->
 {{< s v="42" >}} Our dislike of pride and vanity disposes us to rank vain and proud persons below the common level. I think we are most frequently in the wrong in this judgment. The proud and the vain man are often above-average. Although they are not near:
 - as the proud man really thinks himself, or
 - as the vain man wishes you to think him
-<!--  a good deal above it, perhaps for the most part. -->
 
 If we compare them with their own pretensions, they might appear as the proper objects of contempt. But when we compare them with their rivals, they may appear above-average. Where there is this real superiority, pride is frequently attended with many respectable virtues:
 - truth,
@@ -63,8 +62,6 @@ If we compare them with their own pretensions, they might appear as the proper o
 - a high sense of honour,
 - cordial and steady friendship, and
 - the most inflexible firmness and resolution.
-
-<!--  quite otherwise, and very much above the common level. -->
 
 Vanity is frequently attended with many amiable virtues:
 - humanity,
@@ -183,8 +180,6 @@ Perhaps most idiots are, chiefly from a torpidity in the faculties of the unders
 
 
 {{< s v="50" >}} Therefore, the level of self-estimation which leads to one's own happiness is also most agreeable to the impartial spectator. The man who has a moderate self-esteem seldom fails to obtain the esteem from others that he thinks is due to him.
-<!-- He wants no more than is due to him.
-He rests on it with complete satisfaction. -->
  
 
 {{< s v="51" >}} On the contrary, the proud and the vain man are constantly dissatisfied. The proud man is tormented with indignation at the unjust superiority which he thinks of other people. The vain man continuously dreads the shame in the detection of his pretensions.

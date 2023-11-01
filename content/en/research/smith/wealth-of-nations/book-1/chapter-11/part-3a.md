@@ -2,7 +2,7 @@
 title: "The variations of the ratos between the Values the of Food and Non-Food Rude Produce"
 heading: "Part 3a"
 weight: 14
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "The value of non-food produce should constantly rise relative to food produce"
 icon: "/avatars/smith.png"

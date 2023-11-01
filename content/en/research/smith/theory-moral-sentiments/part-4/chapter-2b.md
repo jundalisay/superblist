@@ -3,7 +3,7 @@ title: "The Useful Virtues"
 heading: "Chapter 2b"
 description: "Humanity, justice, generosity, and public spirit, are the qualities most useful to others"
 weight: 16
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---
@@ -53,7 +53,7 @@ When they sacrifice their own interests, therefore, they accommodate themselves 
 By an effort of magnanimity, they act according to how any third person must naturally feel.
 The soldier who throws away his life to defend his officer's life might be little affected by that officer's death if it was not his fault.
 
-But he feels, that to everyone else, his own life is a trifle compared with his officer's life when he tries to act to= 
+But he feels, that to everyone else, his own life is a trifle compared with his officer's life when he tries to act to:
 - deserve applause, and
 - make the impartial spectator enter into the principles of his conduct.
 
@@ -65,12 +65,14 @@ That when he sacrifices his life, he acts properly and agreeably to the natural 
 When a young officer exposes his life to extend his sovereign's dominions, it is not because the new territory is more desirable than his own life.
 
 When the officer compares his life with the territory, he views them as they appear to his nation, not as how they naturally appear to himself.
+
 To his nation, the war's success is most important.
 A private person's life is of no consequence.
 When he puts himself in their situation, he feels that he cannot be too prodigal of his blood, if he can promote such a valuable purpose by shedding it.
 
 Thus, his heroism is in thwarting the strongest of all natural propensities, from a sense of duty and propriety.
 Many honest Englishmen would be privately more seriously disturbed by the loss of a guinea than by the national loss of Minorca.
+
 Yet, the officer would rather sacrifice his life a thousand times to defend that fortress than to let it fall into the enemy through his fault.
 
 Brutus' sons conspired against Rome.

@@ -3,7 +3,7 @@ heading: Chapter 3b of Part 1 Section 2
 title: "Five ways to become a slave"
 # date: 2015-09-22
 weight: 16
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "By being captives, criminals, indebted, selling oneself, and being children of slaves"

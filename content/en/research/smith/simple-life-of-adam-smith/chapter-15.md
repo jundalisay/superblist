@@ -53,7 +53,7 @@ He was also a partner in Millar's publishing business.
 
 Smith wrote him on a Friday in London, some time during the winter of 1766-67.
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 My Dear Strahan,
 
 <!-- I go to the country for a few days this afternoon, so that it will be unnecessary to send me any more sheets until I return. -->
@@ -94,7 +94,7 @@ He would have undertaken command of the more memorable expedition to observe the
   The following is Smith's letter= —
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 My Lord,
 
 I send you Quiros's memorial, presented to Philip II after his return from his voyage. It is translated from Spanish. The voyage itself is long, obscure, and difficult to understand, except by those who are acquainted with the geography and navigation of those countries.
@@ -187,14 +187,8 @@ He wrote Hume from Kirkcaldy on June 9, 1767.
 He mentioned having now been settled down to his work for about a month.
 He was elected a Fellow of the Royal Society of London on May 21, 1767.
 But he was not admitted until May 27, 1773.
-It seems to imply that he= 
-had left London before May 21, and
-never returned to London again until shortly before May 27.
- <!-- 
-FOOTNOTES= 
-[195] Burton's Life of Hume, ii. 392.
-[196] Ibid.
-[197]New York Evening Post. Original in possession of Mr. David A. Wells of Norwich, U.S.A.
-[198] Lansdowne MSS.
-[199]Wealth of Nations, Book IV. chap. vii.
-[200] Lady Mary Coke's Journal, i. 141. -->
+
+It seems to imply that he:
+- had left London before May 21, and
+- never returned to London again until shortly before May 27.
+ 

@@ -2,7 +2,7 @@
 title: "Agreeableness or cost of job"
 heading: "Part 1a"
 weight: 56
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "There are five factors affecting the differences in profits and wages"
 icon: "/avatars/smith.png"

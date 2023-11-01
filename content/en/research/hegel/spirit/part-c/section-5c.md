@@ -30,7 +30,9 @@ It seeks its “other”, while knowing that it there possesses nothing else but
 
 While, at first, merely surmising that it is in the world of reality, or knowing this only in a general way to be its own, it goes forward on this understanding and appropriates everywhere and at all points its own assured possession. It plants the symbol of its sovereignty on the heights and in the depths of reality. 
 
-But this superficial “mine” is not its final and supreme interest. The joy of universal appropriation finds still in its property the alien other which abstract reason does not contain within itself. Reason has the presentiment of being a deeper reality than pure ego is, and must demand that difference, the manifold diversity of being, should itself become its very own, that the ego should look at and see itself as concrete reality, and find itself present in objectively embodied form and in the shape of a “thing”. 
+But this superficial “mine” is not its final and supreme interest. 
+
+The joy of universal appropriation finds still in its property the alien other which abstract reason does not contain within itself. Reason has the presentiment of being a deeper reality than pure ego is, and must demand that difference, the manifold diversity of being, should itself become its very own, that the ego should look at and see itself as concrete reality, and find itself present in objectively embodied form and in the shape of a “thing”. 
 
 But if reason probes and gropes through the inmost recesses of the life of things, and opens their every vein so that reason itself may gush out of them, then it will not achieve this desired result; it must, for its purpose, have first brought about in itself its own completion in order to be able after that to experience what its completion means.
 

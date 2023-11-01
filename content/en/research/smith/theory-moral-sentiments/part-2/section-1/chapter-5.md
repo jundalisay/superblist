@@ -2,7 +2,7 @@
 heading: Chapter 5
 title: "The Analysis of the Sense of Merit and Demerit"
 weight: 12
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/tms.jpg"
 description: "The Sense of Merit arises from sympathy, the Sense of Demerit arises from lack of sympathy"
@@ -37,7 +37,6 @@ Whenever we place ourselves in their situation=  -->
 We also have an indirect sympathy with the object-persons who receive benefit when: 
 - we feel as thankful towards those who served them, with a warm fellow-feeling,
 - we embrace their benefactor.
-<!-- - our heart readily sympathizes with their grateful affection. -->
 
 <!-- We think that no honours, no rewards can be too great for them to bestow on him. When they make this proper return, we heartily applaud them. But we are shocked if they appear to have little sense of the obligations conferred on them.  -->
 
@@ -45,12 +44,11 @@ In short, the sympathetic emotions of gratitude and love is the source of our se
 - the merit of such actions,
 - the propriety of recompensing them, and
 - making the person who performed them rejoice from the recompense
-<!-- in his turn. -->
+
 
 Through gratitude and love, we:
 - bring to our own breast the situation of those who feel the gratitude
 - are transported towards the generous man
- <!-- who acted with such noble beneficence. -->
 
 
 ### The Sense of Demerit arises from lack of sympathy
@@ -80,7 +78,9 @@ When we bring home to ourselves the situation of the persons they insulted, murd
 - Our sympathy with the distress of the innocent sufferers is just as real and lively with our fellow-feeling for their just resentment.
 - Our sympathy for their distress only heightens our sympahty for their resentment.
 
-When we think of the sufferers' anguish, we take part with them more earnestly against their oppressors. We more eagerly enter into their schemes of vengeance. We feel wreaking that punishment, which our sympathetic indignation tells us their oppressors must receive. The sympathetic indignation naturally boils up in the spectator's breast whenever he thoroughly brings home to himself the sufferer's case.
+When we think of the sufferers' anguish, we take part with them more earnestly against their oppressors. We more eagerly enter into their schemes of vengeance. 
+
+We feel wreaking that punishment, which our sympathetic indignation tells us their oppressors must receive. The sympathetic indignation naturally boils up in the spectator's breast whenever he thoroughly brings home to himself the sufferer's case.
 
 This indignation causes:
 - our sense of the horror of such conduct,

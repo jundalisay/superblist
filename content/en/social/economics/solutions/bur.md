@@ -9,7 +9,7 @@ description: "The points-based system is implemented as a points-for-food system
 contributors: ['Juan']
 icon: "/icons/pantry.png"
 ---
-
+b
 
 
 Universal Basic Income (UBI) became popular in 2016 after it was adopted by a few Western countries. 
@@ -29,7 +29,7 @@ Adam Smith, the founder of Economics, would be against UBI because:
 - It acts as an expense instead of as a capital (there is no guarantee that the recipient will use it for education to build up his knowledge, or for healthy food to build up his body)
 
 
-{{< q a="smith" c="The Wealth of Nations Simplified, Book 3" >}}
+{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 3" >}}
 In towns principally supported by the residence of a court, the poor are chiefly maintained by the spending of revenue. The inferior ranks are generally idle, dissolute, and poor as in Rome, Versailles, Compiegne, and Fontainebleu..
 
 <br><br> In mercantile and manufacturing towns, the inferior ranks of people are chiefly maintained by the employment of capital. The inferior ranks are generally industrious, sober, and thriving.. It is better, says the proverb, to play for nothing than to work for nothing.</p>

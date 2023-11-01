@@ -3,7 +3,7 @@ title: "Conclusion"
 heading: "Chapter 11"
 weight: 42
 #zate: 2015-09-09
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "Every increase in the real wealth of the society, every increase in the quantity of useful labour employed within it, tends indirectly to raise the real rent of land"
 icon: "/avatars/smith.png"

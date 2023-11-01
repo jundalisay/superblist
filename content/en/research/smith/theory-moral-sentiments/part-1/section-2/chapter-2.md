@@ -3,7 +3,7 @@ title: "The Feelings from the Imagination"
 heading: "Chapter 2"
 description: "Romantic love is natural but is not commonly expressed because it might be odious or ridiculous"
 weight: 6
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

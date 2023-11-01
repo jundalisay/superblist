@@ -1,38 +1,43 @@
 ---
-title: "How Can Fairtax Solve Tax Evasion and Budget Deficits?"
+title: "How Can Pointtax Solve Tax Evasion and Budget Deficits?"
 heading: "Based on Adam Smith's Taxation Maxims" 
 date: 2019-11-17
-image: "https://sorasystem.sirv.com/og/fairtax.jpg"
+image: "/photos/tax.jpg"
 description : "All nations have endeavoured, to the best of their judgment, to render their taxes as equal, certain, convenient as possible. Historical taxes will show that these endeavours were not equally successful."
 contributors: ['Juan']
 icon: /icons/pantry.png
-draft: true
 ---
 
 
-{{< me date="June 2020" >}}
+<!-- {{< me date="June 2020" >}}
 In 2015, our model predicted a huge global crisis starting in 2019 to be felt many years afterwards. This is now known as the Covid-19 pandemic. Our model predicts inflation next, as a result of governments applying sophistical mercantile solutions, now known as "bailouts", on supply and demand problems. These bailouts will be paid for by either inflation (as college debt, rising bills, rent, etc) or by increased taxation, both will lead to unrest (as seen in the US riots) or a change in government. Here, we propose the proper solution to those future new governments for them to not make the mistakes of the current ones.
-{{< /me >}}
+{{< /me >}} -->
 
 
-[Fairtax](https://pantrypoints.com/fairtax) or Social Fair Taxation is a double entry taxation system that follows [Adam Smith's four taxation maxims](/articles/pantrynomics/adam-smith-taxation-maxims), derived from [Book 5 Chapter 2 of The Wealth of Nations](/research/smith/wealth-of-nations/book-5/chapter-2c-tax-maxims). The taxation of modern Economics suffers from two problems:
+[Pointtax](https://pantrypoints.com/tax) is a taxation system that is based on points which represent barter-credits. 
 
-<br>
+These credits can be paid in goods or services. A tax in kind is then charged to those credits. 
+
+It is derived from Adam Smith's [Effort Theory of Value](/social/economics/principles/part-2/chapter-01b) and [Four Taxation Maxims](/social/economics/principles/part-4/chapter-02b).
+
+<!-- The taxation of modern Economics suffers from two problems:
 
 Problem | Effect
 --- | ---
 Taxes are imposed not on where they are meant to be | For example, a sales tax is meant to burden the merchant. However, he merely transfers it to the consumer and so the consumer is burdened more than the merchant
-Taxes must only be paid in money | Sellers must have money available to pay the tax. This forces them to sell their goods or services for money (which may not be his primary skill)
+Taxes must only be paid in money | Sellers must have money available to pay the tax. This forces them to sell their goods or services for money (which may not be his primary skill) -->
 
 
-We correct these problems through a system called Social Shared Direct Taxation or simply Fairtax. This system levies taxes directly on the people's revenue-value and allows tax payment in kind. This system meets all of Smith's taxation maxims and will therefore lead to a fair, well-regulated democracy that is not prone to budget deficits. 
+<!-- We correct these problems through a system called Social Shared Direct Taxation or simply Fairtax. This system levies taxes directly on the people's revenue-value and allows tax payment in kind. This system meets all of Smith's taxation maxims and will therefore lead to a fair, well-regulated democracy that is not prone to budget deficits.  -->
 
-<br>
-<br>
 
 ### What was the problem with the Economic or Commercial system of taxation?
 
-The Commercial system only allows money for transactions. This means if you are a banana farmer then you must sell your bananas for money to pay a money-tax, such as a property tax. In the past, before the Europeans colonized the world, the payment of taxes could be done by labor (as forced-labor poll taxes) or by kind. The farmer could just deliver his produce to the chieftain or king and not have to go through a layer of merchants who might give a disadvantageous price for them. 
+The Commercial system only allows money for transactions. 
+
+This means that if you are a banana farmer, then you must sell your bananas for money to pay a money-tax.
+
+In the past, before the Europeans colonized the world, the payment of taxes could be done by labor (as forced-labor poll taxes) or by kind. The farmer could just deliver his produce to the chieftain or king and not have to go through a layer of merchants who might give a disadvantageous price for them. 
 
 After the Commercial system was formalized, the king no longer cared about the farmers, but on the money that he collected from them. This can be seen in our modern taxation system which follows these steps:
 
@@ -54,17 +59,19 @@ This causes problems:
 - The tax burden is usually transferred to the people, adding to the burden of society. Workers and customers usually rely on the company to file taxes for their behalf. The company could then cheat and not remit all of the taxes, leading totax avoidance and evasion.
 
 Since the taxation system only cares about values, the burden of identifying where those values came from must be furnished by the taxpayer. This manifests as the lengthy filing of Income Tax Returns.
-Because of this, taxation becomes unnecessarily burdensome andleaky, causing people to avoid it as much as possible while providing less-than-optimal revenue. In addition, the complexity of taxation leads to tax loopholes and tax havens. All of these then leads to lower tax revenues and higher budget deficits, weaking government and reducing the infrastructure and services available to the people, even causing governments to privatize its most essential parts. America now has a $22 trillion debt and its government shuts down parts of itself more often.
 
-{{< q a="smith" >}}
+Because of this, taxation becomes unnecessarily burdensome andleaky, causing people to avoid it as much as possible while providing less-than-optimal revenue.
+
+In addition, the complexity of taxation leads to tax loopholes and tax havens. All of these then leads to lower tax revenues and higher budget deficits, weaking government and reducing the infrastructure and services available to the people, even causing governments to privatize its most essential parts. America now has a $22 trillion debt and its government shuts down parts of itself more often.
+
+{{< q a="Adam-Smith" c="Wealth Of Nations, Book 5, Chapter 2" >}}
 The impossibility of taxing people according to their revenue by any capitation led to the invention of taxes on consumable commodities. The state, not knowing how to directly and proportionally tax the revenue of its subjects, taxes it indirectly by taxing their expence. Their expence is supposed to be proportional to their revenue.
-<cite>Wealth Of Nations, Book 5, Chapter 2</cite>
-</div>
+{{< /q >}}
 
-<br>
-<br>
 
-### Our Solution: A new double entry system
+### Our Solution: Pointtax
+
+Pointtax solves this through bilateral taxation. 
 
 Our solution is a new process that factors in the nature of the revenue and the people involved in generating that revenue, either as a buyer party or a seller party:
 
@@ -73,14 +80,15 @@ Our solution is a new process that factors in the nature of the revenue and the 
 3. Tax each party according to tax rateequally
 4. Parties pay when the payment amount becomes feasible for payment. This means that a tax debt of bananas will be accumulated until harvest time comes.
 
-<img src="https://sorasystem.sirv.com/cards/receipt.jpeg" width="400px">
-<figcaption>A commercial receipt only shows info from one party in the transaction</figcaption>
 
-<img src="https://sorasystem.sirv.com/cards/fairtaxreceipt.jpg" width="400px">
-<figcaption>A fair taxation system would show both parties and can split or even shift the tax to the proper target</figcaption>
+{{< img src="https://sorasystem.sirv.com/cards/receipt.jpeg" alt="Receipt" cap="A commercial receipt only shows info from one party in the transaction" >}}
 
-![Receipt with many parties](https://sorasystem.sirv.com/cards/fairtaxreceiptmulti.jpg) 
-<figcaption>Fair taxation can scale to any transaction size. Here, a normal 10% tax on new buildings would be split evenly between the buyer and the makers of the building. The parties have the option to pay their taxes in cash or in kind depending on their output, freeing them from needing so much money in their operations.</figcaption>
+{{< img src="https://sorasystem.sirv.com/cards/fairtaxreceipt.jpg" alt="Receipt" cap="A fair taxation system would show both parties and can split or even shift the tax to the proper target" >}}
+
+{{< img src="https://sorasystem.sirv.com/charts/taxcommerce.png" alt="Receipt with many parties" cap="Commercial or Economic Taxation: Tax paid by consumer" >}}
+
+{{< img src="https://sorasystem.sirv.com/cards/fairtaxreceiptmulti.jpg" alt="Fairtax" cap="Fair taxation can scale to any transaction size. Here, a normal 10% tax on new buildings would be split evenly between the buyer and the makers of the building. The parties have the option to pay their taxes in cash or in kind depending on their output, freeing them from needing so much money in their operations" >}}
+
 
 The main difference with the old system is that **our system focuses right away in getting the correct values and information in the form**, whereas the old system focuses on **rebuilding the information** from receipts and memory. This rebuilding process is liable to many mistakes, whether voluntary or accidental, and is used for tax avoidance or evasion. This then leads to unfair taxation where the rich can use creative accountants to file their taxes. 
 
@@ -94,23 +102,19 @@ By setting the values from the very beginning, then the following advantages are
 
 ![Chef with a dish](https://sorasystem.sirv.com/photos/dish.jpg)
 
-<br>
 
 As you can see, Fair taxation either reduces or increases the tax burden on consumers depending on how the supplier reacts. The system can be implemented gradually, first in consumer goods with online payment systems to see if the buyers will actually pay their share of the tax.
 
+<!-- {{< img src="https://sorasystem.sirv.com/charts/taxcommerce.png" alt="Commercial or Economic Taxation: Tax paid by consumer" cap="Commercial or Economic Taxation: Tax paid by consumer" >}}
 
-<img src="https://sorasystem.sirv.com/charts/taxcommerce.png" width="400px">
-<figcaption>Commercial or Economic Taxation: Tax paid by consumer</figcaption>
 
-<img src="https://sorasystem.sirv.com/charts/taxsora1.png" width="400px">
-<figcaption>Fair Taxation: Tax paid by both</figcaption>
+{{< img src="https://sorasystem.sirv.com/charts/taxsora1.png" alt="Fair Taxation: Tax paid by both" cap="Fair Taxation: Tax paid by both" >}}
 
-<img src="https://sorasystem.sirv.com/charts/taxsora.png" width="400px">
-<figcaption>Inflated Fair Taxation: Selling price raised</figcaption>
+{{< img src="https://sorasystem.sirv.com/charts/taxsora.png" alt="Inflated Fair Taxation: Selling price raised" cap="Inflated Fair Taxation: Selling price raised" >}} -->
 
-<br>
 
-#### What if the buyers don't pay?
+
+### What if the buyers don't pay?
 
 Delinquent taxpayers can be prevented from availing of government services until they pay, such as:
 
@@ -119,12 +123,12 @@ Delinquent taxpayers can be prevented from availing of government services until
 - Getting licenses such as driver's license, professional license, marriage license, etc.
 - Voter's registration. This is the most important feature of the tax system because it is the first step towards a fair, regulated democracy   as it will prevent the unproductive and selfish citizens from electing leaders and having a say in the direction of their society. In David Hume's proposed political system, the basic productive value of citizens is one of the key requisites:
 
-{{< q a="hume" >}}
-<p>Let all the freeholders of £20 a year in the county, and all the householders worth £500 in the town parishes meet annually in the parish church, and vote some freeholder of the county to be the county representative.</p>
-<cite>Idea Of The Perfect Commonwealth</cite>
-</div>
+{{< q a="David-Hume" c="Idea Of The Perfect Commonwealth" >}}
+Let all the freeholders of £20 a year in the county, and all the householders worth £500 in the town parishes meet annually in the parish church, and vote some freeholder of the county to be the county representative.
+{{< /q >}}
 
-![Different prices for the same product](https://socioecons.files.wordpress.com/2015/04/same-product-different-prices.png)
-<figcaption>Buyers will have a choice to pay the normal price of the commercial system on the left and get a commercial receipt, or the lower price of the Fair Tax system at around 5-6% off on the right, to be paid later as long as they can provide their tax number, identity, and consent.</figcaption>
+
+{{< img src="https://socioecons.files.wordpress.com/2015/04/same-product-different-prices.png" alt="Different prices for the same product" cap="Buyers will have a choice to pay the normal price of the commercial system on the left and get a commercial receipt, or the lower price of the Fair Tax system at around 5-6% off on the right, to be paid later as long as they can provide their tax number, identity, and consent." >}}
+
 
 As fairtax allows barter payments, we shall explain barter in the next post.

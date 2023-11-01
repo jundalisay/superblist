@@ -3,7 +3,7 @@ heading: "Chapter 1a"
 title: "Three Divisions of Stock"
 linkTitle: "Chapter 1b"
 weight: 4
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "The Division of Labour in Manufacturing Increases Productivity and Invention More than that in Agriculture"
 icon: "/avatars/smith.png"

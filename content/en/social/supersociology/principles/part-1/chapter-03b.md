@@ -16,13 +16,13 @@ aliases:
 Many liberals advocate the self-regulation as an alternative to regulation by governments and institutions. They usually borrow passages from Adam Smith who said that the government should not lay its hand on the freedom of individuals to act as they see fit. They say that invisible hand of self-interest is much better at regulating the self:
 
 
-{{< q a="smith" c="Wealth Of Nations Book 4" >}}
+{{< q a="Adam-Smith" c="Wealth Of Nations Book 4" >}}
 Every individual works to render the society’s annual revenue as great as he can. He generally does not intend to promote the public interest.. By preferring to support domestic industry over foreign industry, he intends only his own security. By directing that industry to produce the greatest value [for society], he intends only his own gain. In this case, as in many other cases, he is led by an invisible hand to promote an end which he did not intend. Nor is it always the worse for the society that it [the society] was no part of it [the goal]. By pursuing his own interest, he frequently promotes the society’s interest more effectively than when he really intends to promote it. I have never known much good done by those who affected to trade for the public good. It is an affectation not very common among merchants.
 {{< /q >}}
 
 However, they fail to point out that before such self-interest is promoted, Smith advocated that fellow-feeling must be propagated first:
 
-{{< q a="smith" c="Theory of Moral Sentiments" >}}
+{{< q a="Adam-Smith" c="Theory of Moral Sentiments" >}}
 the loss or gain of our own very small interest appears to be vastly more important to the selfish and original passions of human nature. <!-- It excites a more passionate joy, sorrow, desire, or aversion, than the greatest concern of another person who we are unconnected with. --> As long as they are surveyed from this station, his interests can never be put into the balance with our own, and restrain us from doing whatever promotes our own interest, no matter how ruinous to him.<br><br>Before we can compare those opposite interests, we must change our position. We must view them neither from our own place nor from his, with our own eyes nor with his.
 {{< /q >}}
 
@@ -33,7 +33,7 @@ If fellow-feeling regulates self-interest, what regulates this fellow-feeling?
 
 This fellow-feeling is regulated by our conscience for personal situations, and the commmon interest for social situations. Adam Smith calls this conscience and commmon interest as impartial spectator which is located in the heart. In Hinduism, this matches the heart chakra which regulates human feelings:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 We are naturally interested with the events that affect our little selves the most. Our interest creates our feelings which are often too vehement. If they become too vehement, Nature's proper remedy is the real or even imaginary presence of the impartial spectator, the authority of the man within the breast, to overawe and moderate our feelings.
 <cite>Theory of Moral Sentiments Part 7, Section 2</cite>
 {{< /q >}}
@@ -77,7 +77,7 @@ But somehow after the Enlightenment, the positive force that countered such shal
 
 <!-- Most people interpret Smith using the current selfish and profit-maximizing mentality, not in the enlightened mentality of Smith's own time. David Hume says that although humans are selfish, human self-interest, when applied with the view of human society (which Smith called ‘fellow-feeling’) instead of the ego (self-love), actually leads to the subsequent foundation of promises (which is a good thing as it leads to trade and helps society prosper): -->
 
-<!-- {{< q a="hume" >}}
+<!-- {{< q a="David-Hume" >}}
 “But though this self-interested commerce of man begins to take place, and to predominate in society, it does not entirely abolish the more generous and noble intercourse of friendship and good offices. I may still do services to such persons as I love, and am more particularly acquainted with, without any prospect of advantage” 
 <cite>Hume, Treatise of Human Nature</cite>
 {{< /q >}}

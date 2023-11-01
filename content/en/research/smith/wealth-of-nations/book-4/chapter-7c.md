@@ -4,7 +4,7 @@ heading: "Chapter 7c"
 description: "The colony of a civilised nation which acquires a waste country or one thinly inhabited, advances more rapidly to wealth and greatness than any other human society"
 image: /covers/wn.jpg
 weight: 66
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 ---
 

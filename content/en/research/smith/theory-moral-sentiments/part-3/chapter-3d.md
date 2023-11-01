@@ -4,15 +4,17 @@ heading: "Chapter 3b"
 description: "Humanity is a gentle virtue, self-command is an austere virtue."
 date: 2015-09-10
 image: "/covers/tms.jpg"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 ---
 
 
-{{< s v="79" >}} Humanity is a gentle virtue, self-command is an austere virtue.
+{{< s v="79" >}} Humanity is a gentle virtue. Self-command is an austere virtue.
 
 Humanity is best cultivated in situations different from those for forming self-command.
+
 The man who is at ease can best attend to the distress of others.
+
 The man who is exposed to hardships must control his own feelings.
 
 Humanity flourishes the most in: 
@@ -30,6 +32,7 @@ During war, faction, public tumult and confusion:
 
 But the strongest suggestions of humanity is frequently neglected
 Every such neglect necessarily weakens the principle of humanity.
+
 It is frequently a soldier's duty not to take, and sometimes his duty not to give quarter.
 The humanity of the man who does this disagreeable duty several times will be greatly reduced.
 For his own ease, he learns to make light of the misfortunes that he brings.
@@ -37,20 +40,27 @@ The sacred regard to life and property is the foundation of justice and humanity
 
 The situations which need the noblest exertions of self-command always reduce and often extinguish that sacred regard, by imposing the need to violate our neighbour's life and property.
 Because of this, we frequently find men of great humanity who have little self-command.
+
 The humane are indolent, irresolute, and easily disheartened from honourable pursuits by difficulty or danger.
+
 On the contrary, we find men of the most perfect self-command not discouraged by difficulty or danger.
+
 They are always ready for daring and desperate enterprises.
+
 But at the same time, they seem to be hardened against all sense of justice or humanity.
- 
-80 In solitude, we tend to feel too strongly for whatever relates to ourselves.
+
+{{< s v="80" >}} In solitude, we tend to feel too strongly for whatever relates to ourselves.
 
 We tend to over-rate: 
-the good offices we may have done, and
-the injuries we may have suffered.
+- the good offices we may have done, and
+- the injuries we may have suffered.
+
 We tend to be: 
-too much elated by our own good fortune, and
-too much dejected by our own bad fortune.
+- too much elated by our own good fortune, and
+- too much dejected by our own bad fortune.
+
 Our friend's conversation brings us to a better temper.
+
 A stranger's conversation brings us to a still better temper.
 
 The man within the breast is the abstract and ideal spectator of our sentiments and conduct.
@@ -70,7 +80,8 @@ Give yourself the pleasure of mortifying their malignant joy by:
 making them feel how little you are affected by your calamity, and
 how much you are above it.
 
-82 Are you in prosperity?
+
+{{< s v="82" >}} Are you in prosperity?
 
 Do not confine the enjoyment of your good fortune to: 
 - your own house, and
@@ -94,12 +105,15 @@ Factions tend to corrupt our moral feelings because it separates us from others
 
 83 The propriety of our moral feelings is easily corrupted when the indulgent and partial spectator is near and the indifferent and impartial one is far.
 
+
+
 84 Neutral nations are the only impartial spectators of the conduct of one independent nation towards another.
 
 But they are placed so far that they are almost quite out of sight.
 When two nations are in conflict, the citizen of each pays little regard to the feelings of foreign nations on his own conduct.
 
 His whole ambition is to obtain his fellow-citizens' approbation.
+
 They are all animated by the same hostile passions which animate himself.
 He can please them by enraging and offending their enemies.
 The partial spectator is very near.
@@ -131,9 +145,11 @@ The innocent might be unable to help being somewhat connected or dependent on th
 
 In the most unjust war, only the rulers are commonly guilty.
 The subjects are almost always perfectly innocent.
+
 However, whenever it suits a public enemy's convenience, the peaceful citizens' goods are seized at land and sea.
 Their lands are laid waste.
 Their houses are burnt.
+
 They are murdered or captured if they resist.
 All this conforms perfectly to 'the laws of nations'.
  
@@ -177,6 +193,7 @@ Of all the corrupters of moral sentiments, therefore, faction and fanaticism hav
 The man who was insensible to bodily pain, could deserve no applause from enduring the torture with perfect patience.
 
 The man born without the natural fear of death, could claim no merit from preserving his coolness during the most dreadful dangers.
+
 Seneca was a Stoical wise man who had such extravagant self command which was, in this respect, superior even to a god.
 The security of the god came from nature, which had exempted Him from suffering.
 But that the security of Seneca was his own benefit.
@@ -186,5 +203,6 @@ It was derived altogether from himself and from his own exertions.
 {{< s v="87" >}} However, the sensibility of some men to some of the objects which immediately affect themselves, is sometimes so strong as to render all self-command impossible.
 
 No sense of honour can control the fears of the man upon the approach of danger.
+
 Such weakness of nerves might not be cured by gradual exercise and proper discipline.
 Such weakness should never be trusted or employed.

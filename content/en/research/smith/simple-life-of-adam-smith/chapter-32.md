@@ -20,7 +20,7 @@ But the announcement was not made on any good authority. -->
 
 But there is no evidence that he intended to publish a separate work on Montesquieu. Before March 1790, his strength seems to have been much wasted. The Earl of Buchan was in town in February and visited him. Upon leaving Smith, the Earl said= 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 “My dear Doctor, I hope to see you oftener when I come to town next February,”
 {{< /q >}}
 

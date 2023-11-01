@@ -26,7 +26,7 @@ From providing stability, **the Fed went for promoting growth**--this is the fir
 > *This will be the same reason why Modern Monetary Theory will fail – because the government only controls the wholesale of money and not its retail
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 <p>The circulation of every country is divided into two branches: the circulation of the dealers with one another, and the circulation between the dealers and the consumers.</p> 
 <cite>Wealth of Nations Book 2 Chapter 2</cite>
 {{< /q >}}

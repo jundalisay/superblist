@@ -5,7 +5,7 @@ heading: "Chapter 7q"
 description: "The country's mercantile stock naturally courts the near employment and shuns the distant employment"
 image: /covers/wn.jpg
 weight: 94
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 ---
 

@@ -4,7 +4,7 @@ title: "The Natural Progress of Opulence"
 weight: 8
 image: "/covers/wn.jpg"
 description: "The Rise of Cities After the Fall of Rome The Freedom in European Towns"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

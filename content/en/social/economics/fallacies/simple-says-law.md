@@ -20,7 +20,7 @@ The production motive is best seen in Say's Law which says that production is th
 
 In The Wealth of Nations, Smith already implied that retail trade is more significant than wholesale trade:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The value of the goods circulated between.. dealers, never can exceed the value of those circulated between the dealers and the consumers; whatever is bought by the dealers,being ultimately destined to be sold to the consumers.
 {{< /q >}}
 

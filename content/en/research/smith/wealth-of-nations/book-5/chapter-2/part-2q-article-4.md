@@ -5,7 +5,7 @@ weight: 42
 image: "/covers/wn.jpg"
 description: "In all cases, high duties reduced customs revenue below what moderate duties would have afforded. The high duties imposed on foreign imports encouraged smuggling"
 icon: "/avatars/smith.png"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 ---
 
 

@@ -20,7 +20,7 @@ Stewart says:
 The tradition of Smith's early ambition to be a poet is only preserved in an allusion in Caleb Colton's "Hypocrisy" below: 
 <!-- But it is supported from a remark of Smith's own in conversation with a young friend in his later years. -->
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 Unused am I the Muse's path to tread,
 And curs'd with Adam's unpoetic head,
 Who, though that pen he wielded in his handOrdain'd the Wealth of Nations to command;
@@ -52,7 +52,7 @@ Sir, I was once with Smith. We did not take to each other. But had I known that 
 
 20 years later, Smith again expressed to the Bee's anonymous interviewer his unabated contempt for all blank verse except Milton's. He said:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 Blank verse, they do well to call it blank, for blank it is. I myself even, who never could find a single rhyme in my life, could make blank verse as fast as I could speak.
 {{< /q >}}
 

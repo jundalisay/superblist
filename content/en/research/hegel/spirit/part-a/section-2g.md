@@ -9,17 +9,15 @@ weight: 26
 ---
 
 
-<!-- ### 1. Force and the play of Forces -->
-
-<!-- Φ 136.  -->
-
 ## Force
 
 {{< s v='136' >}} One moment appears as a universal medium, or as the subsistence of independent constituents, as the reality that has stepped aside. 
 
 The independence of these constituent elements, however, is nothing else than this medium -- this universal is simply and entirely the plurality of such diverse universals. 
 
-The universal is per se in undivided unity with this plurality. This means that these elements are each where the other is.
+The universal is per se in undivided unity with this plurality.
+
+These elements are each where the other is.
 
 They mutually permeate one another without touching one another. This is because the manifold diversity is equally independent. 
 

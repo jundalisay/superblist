@@ -154,7 +154,7 @@ Are we perfecting natural philosophy alone according to our method? Or the other
 {{< /q >}}
 
 
-{{< q a="hume" c="Treatise of Human Nature Simplified, Advertisement" >}}
+{{< q a="David-Hume" c="Treatise of Human Nature Simplified, Advertisement" >}}
 All the sciences have a relation to human nature. No matter how far any science runs away from human nature, it still returns by one way or another. In pretending to explain the principles of human nature, we in effect propose a complete system of the sciences. This system is built on an almost entirely new foundation. This foundation is the only one on which the sciences can be secured. The science of man is the only solid foundation for the other sciences.
 {{< /q >}}
 

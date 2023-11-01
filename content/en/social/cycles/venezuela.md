@@ -92,9 +92,8 @@ Bringing back the land and nationalized companies to their former productive own
 
 After the production is restored, the most burdensome controls can be eliminated gradually. This is to be done in phases to protect the people from price shocks. Smith advises that wrong policies should be mended gradually, as any big, sudden change can do more damage in the short run:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 4, Chapter 2" >}}
 It may be deliberated how to properly restore the free importation after it has been interrupted, especially when its local monopoly already employs so many people. Humanity in this case may require that this freedom be restored only by slow gradations and with much reserve and circumspection. Were those prohibitions taken away all at once, cheaper foreign goods might enter so fast as to deprive our people of their employment.
-<cite>The Simple Wealth of Nations, Book 4, Chapter 2</cite>
 {{< /q >}}
 
 Economic controls, whether for prices, currencies, or imports should be added and removed gradually. For example, the government can set a date, such as June 2015, when most price controls will be 100% eliminated. This can be phased out by letting prices rise 16% each month until it has risen to the market price.
@@ -117,7 +116,7 @@ The number of producers will increase each month as prices rise and the competit
 
 The gradual elimination of price controls will cause previously hoarded goods to be gradually released back to the market. This is because those hoarded goods will provide no profit after goods start to become more abundant, as explained by Smith:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 The corn merchant, from excessive avarice, might raise corn prices higher than needed. He is likely to suffer the most by this excess of avarice because he must sell his leftover corn at a loss if the next season proves abundant.
 <cite>The Simple Wealth of Nations, Book 4, Chapter 5</cite>
 {{< /q >}}

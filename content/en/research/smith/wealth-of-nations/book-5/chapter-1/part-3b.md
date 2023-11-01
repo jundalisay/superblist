@@ -5,7 +5,7 @@ weight: 24
 image: "/covers/wn.jpg"
 description: "There are many objections against levying a toll on turnpikes and privatizing roads"
 # youtube: "H0tUf35JB44"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

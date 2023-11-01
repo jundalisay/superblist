@@ -3,7 +3,7 @@
 title: "Inequalities in Wholesale and Retail Trade"
 heading: "Part 1d"
 weight: 62
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "The chance of loss is frequently under-valued and rarely valued more than it is worth"
 icon: "/avatars/smith.png"

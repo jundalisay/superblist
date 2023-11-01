@@ -102,7 +102,7 @@ Under a points-based system, equity and long-term debt are converted into points
 
 Money is retained only as petty cash for facilitating immediate payments. Adam Smith calls this as 'ready money'.
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 It would be more convenient for any merchant to pay for his suppliers' goods with some of his other goods than in money. Such a merchant would then have no stock unemployed. He would not need ready money for answering occasional demands.
 <cite>Wealth of Nations, Book 5, Chapter 3</cite>
 {{< /q >}}
@@ -129,7 +129,7 @@ The use of debt and elimination of equity is evident in:
 - *The Wealth of Nations* where Adam Smith bashes the equity system and advocates the use of loans to serve as capital to build a factory<!--  can be sourced from loans from rich men who can live off of the interest of that money. -->
 - Socrates being in debt even up to his last breath
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 A bank could still less afford to lend the fixed capital needed by an iron forge owner for his smelting-house, workhouses, warehouses, etc..
 
 Such entrepreneurs may properly do most of their projects with money borrowed upon bond of private people who can live on the interest of their money without taking the trouble to employ the capital themselves. 

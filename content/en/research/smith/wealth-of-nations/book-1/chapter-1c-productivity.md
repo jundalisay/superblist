@@ -2,7 +2,7 @@
 title: "Productivity from the Division of Labor"
 heading: "Chapter 1c"
 weight: 10
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "The division of labour greatly increases productivity"
 icon: "/avatars/smith.png"

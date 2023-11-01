@@ -5,7 +5,7 @@ linkTitle: "Chapter 3d"
 weight: 46
 image: "/covers/wn.jpg"
 description: "England's Economic Development was Due to Guarantee of Liberty"
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 ---
 

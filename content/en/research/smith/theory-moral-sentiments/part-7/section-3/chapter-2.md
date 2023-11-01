@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "Systems Which Make Reason the Principle of Approbation"
 weight: 4
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/tms.jpg"
 description: "When Hobbes started this controversy, reason was thought the only source for the ideas of right and wrong. It became the popular doctrine that the essence of virtue and vice consisted in their conformity or disagreement with reason"
@@ -51,10 +51,6 @@ Therefore, his account of things was attacked from all quarters.
 
 The law cannot be the source of the distinction of right and wrong since it means that the ideas of right and wrong existed beforehand.
 
-<!-- leads to= 
-- the antecedent ,
-- that obedience to the law was conformable to the idea of right, and
-- that disobedience to the law, to that of wrong. -->
 
 {{< s v="12" >}} The mind had a notion of those distinctions from reason, before law was created. Reason pointed out the difference between right and wrong in the same way it did for truth and falsehood. 
 

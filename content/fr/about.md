@@ -1,5 +1,5 @@
 ---
-title: "Todo comenzó con la crisis financiera"
+title: "Tout a commencé avec la crise financière"
 description: "Superphysics is a unification of Science and Philosophy, Physics with Metaphysics, Matter with the Aether."
 image: /covers/2023.png
 toc: false

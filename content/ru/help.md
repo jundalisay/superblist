@@ -1,6 +1,6 @@
 ---
-title: "Sie können uns helfen"
-description: "Sie können uns helfen Superphysics"
+title: "Вы можете помочь, сделав следующее"
+description: "Вы можете помочь, сделав следующее"
 image: /covers/solutions.png
 ---
 

@@ -2,7 +2,7 @@
 title: "Computing the Net Domestic Product"
 heading: "Chapter 2d"
 weight: 16
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "The Division of Labour in Manufacturing Increases Productivity and Invention More than that in Agriculture"
 icon: "/avatars/smith.png"

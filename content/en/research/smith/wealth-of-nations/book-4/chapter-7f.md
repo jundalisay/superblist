@@ -4,7 +4,7 @@ heading: "Chapter 7f"
 description: "The enumerated commodities are of 2 sorts: The peculiar produce of America that cannot be produced in Great Britain, and the produce of America which may be produced in Great Britain and overseas"
 image: /covers/wn.jpg
 weight: 72
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 ---
 

@@ -2,7 +2,7 @@
 title: "Sticky Wages From the Inverse Relationship Between Labour and Stock"
 heading: Chapter 8e
 weight: 46
-contributors: ['Smith']
+contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "High prices are caused by monopolies"
 icon: "/avatars/smith.png"

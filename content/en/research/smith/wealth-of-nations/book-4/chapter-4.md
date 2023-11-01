@@ -4,7 +4,7 @@ heading: "Chapter 4"
 description: "Drawbacks seem the most reasonable of these encouragements"
 image: /covers/wn.jpg
 weight: 36
-contributors: ['Smith']
+contributors: ['Adam Smith']
 icons: /avatars/smith.png
 --- 
 
