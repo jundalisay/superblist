@@ -1,35 +1,43 @@
-- updates: Updates
+- updates: 更新情報
+- building: 私たちはより良い現実のために新しい科学と新しいシステムを構築しています。
+- follow: フォローまたはサポートしてください！
+- by: 作成者
+- forph: フィリピンへの寄付
+- forvn: ベトナムへの寄付
+- forsg: シンガポールへの寄付
+
+
 
 # Content
 - id: postedOnDate
-  translation: "Posted on {{ . }}"
+  translation: "{{ . }}に投稿"
 - id: lastModified
-  translation: "(Last modified on {{ . }})"
+  translation: "({{ . }}に最終更新)"
 - id: translationsLabel
-  translation: "Other languages: "
+  translation: "その他の言語: "
 - id: translationsSeparator
   translation: ", "
 - id: readMore
-  translation: "Read More"
+  translation: "続きを読む"
 - id: morePosts
-  translation: "More Posts"
+  translation: "その他の投稿"
 - id: olderPosts
-  translation: "Older Posts"
+  translation: "古い投稿"
 - id: newerPosts
-  translation: "Newer Posts"
+  translation: "新しい投稿"
 - id: previousPost
-  translation: "Previous Post"
+  translation: "前の投稿"
 - id: nextPost
-  translation: "Next Post"
+  translation: "次の投稿"
 - id: readTime
-  translation: "minutes"
+  translation: "分"
 - id: words
-  translation: "words"
+  translation: "単語"
 
 
 # 404 page
 - id: pageNotFound
-  translation: "Whoops, this page doesn't exist. Move along. (404 error)"
+  translation: "申し訳ありませんが、このページは存在しません（404エラー）"
 
 # Footer
 - id: poweredBy # Accepts HTML
@@ -37,9 +45,9 @@
 
 # Navigation
 - id: toggleNavigation
-  translation: "Toggle navigation"
+  translation: "ナビゲーション切り替え"
 - id: languageSwitcherLabel
-  translation: "Language"
+  translation: "言語"
 - id: gcseLabelShort
   translation: "Search"
 - id: gcseLabelLong

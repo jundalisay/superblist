@@ -1,5 +1,5 @@
 ---
-title: "The Solution Of The Problem Of Gravitation On The Basis Of General Relativity"
+title: "The Solution to Gravity Based on General Relativity"
 heading: "Section 29"
 # date: 2022-03-06
 weight: 52
@@ -11,6 +11,7 @@ icon: "/icons/einbla.png"
 
 <!-- IF the reader has followed all our previous considerations, he will have no further diffi-
 culty in understanding the methods leading to the solution of the problem of gravitation. -->
+
 We began with a Galileian domain where there is no gravitational field relative to the Galileian reference-body `K`. 
 
 Special Relativity (SR) explains the behaviour of measuring-rods and clocks with reference to `K` and the behaviour of “isolated” material points.
@@ -19,7 +20,7 @@ Special Relativity (SR) explains the behaviour of measuring-rods and clocks with
 
 ## Gauss coordinates
 
-Now let us refer this domain to a random Gauss co-ordinate system or to a “mollusk” as reference-body K'. 
+Let us refer this domain to a random Gauss co-ordinate system or to a “mollusk” as reference-body K'. 
 - Then with respect to K' there is a gravitational field G of a particular kind. 
 
 The behaviour of measuring-rods and clocks and also of freely-moving material points with reference to `K'` can be known simply by **mathematical transformation** of spacetime as an effect of the gravitational field `G`. 
@@ -92,9 +93,9 @@ All planets, except Mercury, rotates in a very small manner to be detected. But 
 
 
 
-Apart from this one, GR allows only two deductions which can be tested by observation:
-- the curvature of light rays by the sun's gravitational field [gravitational lensing] and
-- a displacement of the spectral lines of light reaching us from large stars, as compared with the corresponding lines for light produced in an analogous manner terrestrially (i.e. by the same kind of molecule * ). 
+Apart from this one, GR allows only 2 deductions which can be tested:
 
-These deductions from the theory will be confirmed also.
+1. The curvature of light rays by the sun's gravitational field [gravitational lensing]
+2. A displacement of the spectral lines of light reaching us from large stars, as compared with the corresponding lines for light produced in an analogous manner terrestrially (i.e. by the same kind of molecule * ). 
 
+<!-- These deductions from the theory will be confirmed also. -->

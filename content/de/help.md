@@ -19,6 +19,6 @@ Wir bauen eine neue Wissenschaft und neue Systeme für eine bessere Realität au
   - uns über defekte Seiten, Fehler, Tippfehler, verwirrende Artikel oder sachliche
 - submitting articles related to Superphysics, Socartes, Descartes, Hume, Smith, Spinoza, Ibn-Khaldun, Alternative Medicine
 
-{{< img src="/graphics/wallet/gcash.png" alt="Gcash" cap="For donations in the Philippines" >}}
+{{< img src="/graphics/wallet/gcash.png" alt="Gcash" cap="Für Spenden auf den Philippinen" >}}
 
-{{< img src="/graphics/wallet/momo.jpg" alt="Momo" cap="For donations in Vietnam" >}}
+{{< img src="/graphics/wallet/momo.jpg" alt="Momo" cap="Für Spenden in Vietnam" >}}

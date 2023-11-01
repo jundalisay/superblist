@@ -100,10 +100,3 @@ The smaller their size, the faster their speed.
 
 The sizes of the stars can be so small with respect to their stellar gravitational territories. This makes the circles `KK`, `LL`, etc mark the edges of the agitated area of these stars which facilitates the smaller particles of the air-aether. 
 - These circles can be considered as the center of those stellar gravitational territories.
-
-<!-- point where the agitation of their stars  speeds up the path of the air-aether.
-- Even these circles are merely points that mark the heliospheres' center. -->
-
- <!-- second element,-->
-
-<!-- In the same way, the new astronomers consider the whole sphere of Saturn as but a point in comparison with the firmament. -->

@@ -18,27 +18,36 @@ contributors: ['Smith']
 
 ## Part 1 The funds which belong to the sovereign or commonwealth
 
-{{< s v="2" >}} The funds which belong to the sovereign must consist in stock or land.
+{{< s v="2" >}} The sovereign funds must consist in stock or land.
 
-{{< s v="3" >}} The sovereign, like any other owner of stock, may derive a revenue from it= 
+{{< s v="3" >}} The sovereign, like any other owner of stock, may derive a revenue from it:
 - by employing it himself as his profit, or
 - by lending it as his interest.
 
-{{< s v="4" >}} The revenue of a Mongol or Arab chief consists in profit. It arises from the milk and increase of his own herds which he manages as the principal herdsman of his tribe.
-Profit makes the principal part of the public revenue of a monarchial state only in this earliest state of civil government.
+{{< s v="4" >}} The revenue of a Mongol or Arab chief consists in profit.
+- It arises from the milk and increase of his own herds which he manages as the principal herdsman.
+
+Profit makes the main part of a monarchy's public revenue only in this earliest state of civil government.
 
 {{< s v="5" >}} Small republics sometimes derived a big revenue from the profit of mercantile projects.
 
-The republic of Hamburgh derived revenue from the profits of a public wine cellar and pharmacy.
-The state cannot be very great if the sovereign has leisure to be a wine merchant or pharmacist.
-The profit of a public bank was a source of revenue for bigger countries, as in Hamburg, Venice, and Amsterdam.
-    This kind of revenue was even thought to be not below the attention of a great empire as Great Britain.
+The Republic of Hamburgh derived revenue from the profits of a public wine cellar and pharmacy.
 
-The ordinary dividend of the Bank of England was 5.5%.
-- Its capital was £10,780,000.
-  - Its net annual profit after paying management expences was £592,900.
-- The government imagined that it could borrow this capital at 3% interest.
-  - It would then make a clear profit of £269,500 a year by taking over the bank's management.
+The state cannot be very large if the sovereign has leisure to be a wine merchant or pharmacist.
+
+The profit of a public bank was a source of revenue for bigger countries, as in Hamburg, Venice, and Amsterdam.
+- This kind of revenue was even thought of as feasible for a great empire like Great Britain.
+
+ was in the following state:
+
+The government imagined that it could borrow the capital of The Bank of England below at 3% interest so that it would make a clear profit of £269,500 a year by taking over the bank's management.
+
+Bank of England | 
+--- | ---
+Ordinary dividend | 5.5%
+Capital | £10,780,000
+Net annual profit after paying management expences | £592,900
+
 
 Government management of mercantile projects like this requires orderly, vigilant, and parsimonious administration, like those in Venice and Amsterdam.
 - **But the government of England was never famous for good economy.**
@@ -116,26 +125,28 @@ This pawnshop is called Lombard.
 - At 54 pence the crown, it amounts to £33,750 sterling.
 
 
-12 The government of Pennsylvania, without amassing any treasure, invented a method of lending something equivalent to money to its citizens.
+{{< s v="12" >}} The government of Pennsylvania, without amassing any treasure, invented a method of lending money to its citizens.
 
 It advanced paper bills of credit to private people at interest on land security worth double the value.
-    These bills were to be redeemed 15 years after their date.
-    It was transferable like bank notes and declared legal tender within Pennsylvania.
-    It raised a moderate revenue which could defray an annual expence of about £4,500.
+- These bills were to be redeemed 15 years after their date.
+- It was transferrable like bank notes and declared legal tender within Pennsylvania.
+- It raised a moderate revenue which could defray an annual expence of about £4,500.
 
 This was the whole ordinary expence of that frugal and orderly government.
 
-Its success depended on three circumstances= 
-    The demand for some other instrument of commerce besides gold and silver money or the demand for such consumable stock which did not require sending out gold and silver money in exchange.
-    The good credit of the government of Pennsylvania.
-    The moderation of how this method was used.
-        The whole value of the paper bills of credit never exceeded the value of gold and silver money necessary for circulation had there been no paper bills of credit.
+Its success depended on 3 circumstances:
+
+1. The demand for some other instrument of commerce besides gold and silver money or the demand for consumable stock which did not require gold and silver money in exchange.
+2. The good credit of the government of Pennsylvania.
+3. The moderation of how this method was used.
+  - The whole value of the paper bills of credit never exceeded the value of gold and silver money necessary for circulation had there been no paper bills of credit.
+
 The same method was adopted by other American colonies.
-    But those other colonies were not as moderate.
-    It created much more disorder than convenience.
+- But those other colonies were not as moderate.
+- It created much more disorder than convenience.
+
 
 13 Stock and credit are naturally unstable and perishable.
 
 They are unfit to be trusted to bring sure, steady, and permanent revenue to government.
 No government beyond the shepherd state ever derived most of its public revenue from stock and credit.
-

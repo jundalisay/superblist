@@ -41,4 +41,5 @@ Since they were a very large group, they very quickly overran neighboring Syria,
 and border regions, and settled in them as militiamen. 
 
 Their numbers were exhausted by that expansion. No further conquests could be made by them, and the Muslim empire reached its farthest extension. Those borders were not passed, but the dynasty receded from them, until God permitted it to be destroyed.
+
 The situation of later dynasties was the same. Each dynasty depended on the numerical strength of its supporters. When its numbers were exhausted through expansion, no further conquest or extension of power was possible. 

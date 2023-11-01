@@ -1,8 +1,6 @@
 ---
 heading: "Chapter 15"
-title: The Aether and Gravitational Lensing 
-# title: The (Aetheral) Heaven Appears to Its Inhabitants Completely Like That of Ours
-# title: "The Face of the Heaven of that New World Must Appear to Its Inhabitants Completely Like That of Our World"
+title: "The Aether and Gravitational Lensing" 
 weight: 32
 image: /graphics/physics/aetherspace.jpg
 description: "Solar systems can be rather unequal in size. But they must always be exactly of the same force."
@@ -10,6 +8,9 @@ contributors: ['Rene Descartes']
 icon: "/icons/descartes.png"
 ---
 
+<!-- # title: The (Aetheral) Heaven Appears to Its Inhabitants Completely Like That of Ours
+# title: "The Face of the Heaven of that New World Must Appear to Its Inhabitants Completely Like That of Our World"
+ -->
 
 How do the inhabitants of the aethereal Earth see their stellar gravitational territory as a whole like we physical Earthlings see our sky? 
 

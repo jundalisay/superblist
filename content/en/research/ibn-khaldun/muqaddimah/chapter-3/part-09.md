@@ -14,11 +14,9 @@ At any time, therefore, there is much opposition to a dynasty and rebellion agai
 
 One may compare what has happened in this connection in Ifriqiyah and the Maghrib from the beginning of Islam to the present time. The inhabitants of those lands are Berber tribes and groups. 
 
-The first victory of Ibn Abi Sarh 52 over them and the European Christians (in the Maghrib) was of no avail. They continued to
-rebel and apostatized time after time. 
+The first victory of Ibn Abi Sarh 52 over them and the European Christians (in the Maghrib) was of no avail. They continued to rebel and apostatized time after time. 
 
-The Muslims massacred many of them. After the Muslim religion had been established among them, they went on revolting and
-seceding, and they adopted dissident (Kharijite) religious opinions many times. Ibn Abi Zayd 53 said that the Berbers in the Maghrib revolted twelve times and that Islam became firmly established among them only during the governorship of Musi b. Nusayr and thereafter. 
+The Muslims massacred many of them. After the Muslim religion had been established among them, they went on revolting and seceding, and they adopted dissident (Kharijite) religious opinions many times. Ibn Abi Zayd 53 said that the Berbers in the Maghrib revolted twelve times and that Islam became firmly established among them only during the governorship of Musi b. Nusayr and thereafter. 
 
 This is what is meant by the statement reported on the authority of 'Umar, that "Ifriqiyah 'divides' 54 the hearts of its inhabitants." The statement refers to the great number of tribes and groups there, which causes them to be disobedient and unmanageable. The 'Iraq at that time was different, and so was Syria. 
 
@@ -44,14 +42,16 @@ Royal authority in Egypt is most peaceful and firmly rooted, because Egypt has f
 The caliphate belongs in name to an 'Abbasid, a descendant of the 'Abbasid caliphs of Baghdad. The same is the case in contemporary Spain. 
 
 The group feeling of the ruler of (Spain), Ibn al-Ahmar (the Nasrids of Granada), was not strong or widespread to
-begin with. (The Nasrids) belonged to one of the Arab houses that had supported the Umayyad dynasty, a few survivors of which remained. This situation came about as follows= When the Spaniards were no longer ruled by the Arab dynasty (of the
-Umayyads) and the Lamtanah and Almohad Berbers became their rulers, they detested this domination. 
+begin with. 
+
+The Nasrids belonged to one of the Arab houses that had supported the Umayyad dynasty, a few survivors of which remained. This situation came about as follows= When the Spaniards were no longer ruled by the Arab dynasty of the
+Umayyads and the Lamtanah and Almohad Berbers became their rulers, they detested this domination. 
 
 Their oppression weighed heavily upon them, and their hearts were full of hate and indignation against (the new rulers).
+
 Near the end of the (Almohad) rule, the Almohad lords handed over many of their strongholds to the abominable (Christian ruler), in order to gain his support for their attempts to capture the capital city of Marrakech. That caused remnants of the people in Spain who represented the ancient group feeling to unite. 
 
-These were descendants of Arab houses who had to some degree kept away from urban civilization and the cities, and who were firmly rooted in military life. They included Ibn Had (of Saragossa), Ibn al-Ahmar (of Granada), and Ibn Mardanish (of Valencia
-and Murcia), and others like them. 
+These were descendants of Arab houses who had to some degree kept away from urban civilization and the cities, and who were firmly rooted in military life. They included Ibn Had (of Saragossa), Ibn al-Ahmar (of Granada), and Ibn Mardanish (of Valencia and Murcia), and others like them. 
 
 Ibn Had seized power, made propaganda for the 'Abbasid caliphate in the East, and caused the people to revolt against the Almohads. Allegiance to them was denounced, and they were driven out. Ibn Had thus became the independent ruler of Spain. Then, Ibn alAhmar rose to power and opposed Ibn Had's propaganda. He made propaganda for Ibn Abi Hafs, the Almohad ruler of
 Ifriqiyah, and seized power with the help of a group of relatives who were called "the chiefs." 

@@ -1,4 +1,5 @@
 ---
+heading: Unenlightened
 title: "Child, Josiah"
 linkTitle: Child
 weight: 13

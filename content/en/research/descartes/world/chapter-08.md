@@ -12,15 +12,14 @@ icon: "/icons/descartes.png"
 <!-- # title= "The Formation of the Sun and the Stars of the New World" -->
 
 
-God put inequality and confusion among the particles of the aether at the beginning. 
-<!-- parts of matter -->
+God put inequality and confusion among the particles of the aether at the beginning.
 
 Gradually, those particles became the air-aether when they were reduced to:
 - one size, and
 - one middling motion. 
 
 
-## The Expansion of the Universe
+## The Expansion of the Universe (No Big Bang)
 
 Before God divided it, the pure aether was singular. When it began to be divided, its division began in one part and spread out to all its parts as equally as it could. 
 

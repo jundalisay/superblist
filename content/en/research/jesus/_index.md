@@ -1,4 +1,5 @@
 ---
+heading: Enlightened
 title: "Jesus Christ" 
 description: ""
 weight: 47

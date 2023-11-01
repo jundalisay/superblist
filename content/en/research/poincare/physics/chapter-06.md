@@ -1,6 +1,6 @@
 ---
 heading: Chapter 6
-title: The Ether
+title: The Luminiferous Ether
 weight: 30
 description: The First idea of Ether due to Descartes—Ether must be imponderable—Fresnel shows light vibrations to be transverse—Transverse vibrations cannot exist in fluid—Ether must be discontinuous
 image: "/covers/time.jpg"
@@ -9,9 +9,6 @@ author: "Lucien Poincare"
 
 
 <!-- . § 2. Radiations: Wave-lengths and their measurements—Rubens' and Lenard's researches— Stationary waves and colour-photography—Fresnel's hypothesis opposed by Neumann—Wiener's and Cotton's experiments. § 3. TheElectromagnetic Ether: Ampère's advocacy of mathematical expression—Faraday first shows influence of medium in electricity—Maxwell's proof that light-waves electromagnetic—His unintelligibility—Required confirmation of theory by Hertz. § 4. Electrical Oscillations: Hertz's experiments— Blondlot proves electromagnetic disturbance propagated with speed of light—Discovery of ether waves intermediate between Hertzian and visible ones—Rubens' and Nichols' experiments—Hertzian and light rays contrasted—Pressure of light. § 5. The X-Rays: Röntgen's discovery—Properties of X-rays—Not homogeneous—Rutherford and M'Clung's experiments on energy corresponding to—Barkla's experiments on polarisation of—Their speed that of light—Are they merely ultra-violet?—Stokes and Wiechert's theory of independent pulsations generally preferred—J.J. Thomson's idea of their formation— Sutherland's and Le Bon's theories—The N-Rays— Blondlot's discovery—Experiments cannot be repeated outside France—Gutton and Mascart's confirmation— Negative experiments prove nothing—Supposed wave-length of N-rays. § 6. The Ether and Gravitation: Descartes' and Newton's ideas on gravitation—Its speed and other extraordinary characteristics—Lesage's hypothesis—Crémieux' experiments with drops of liquids—Hypothesis of ether insufficient. -->
-
-§ 1. THE LUMINIFEROUS ETHER
-
 
 
 The properties of matter fail to explain some physical phenomena. 
@@ -105,7 +102,7 @@ Since we have to attribute such a property to the ether, we may add that on this
 
 Lord Kelvin has shown that this solid, would be much more rigid than steel. This conclusion produces great surprise in all who hear it for the first time, and it is not rare to hear it appealed to as an argument against the actual existence of the ether. 
 
-It does not seem, however, that such an argument can be decisive. There is no reason for supposing that the ether ought to be a sort of extension of the bodies we are accustomed to handle. 
+It does not seem that such an argument can be decisive. There is no reason for supposing that the ether ought to be a sort of extension of the bodies we are accustomed to handle. 
 
 Its properties may astonish our ordinary way of thinking, but this rather unscientific astonishment is not a reason for doubting its existence. 
 

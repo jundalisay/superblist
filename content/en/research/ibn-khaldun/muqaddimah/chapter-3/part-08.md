@@ -25,7 +25,7 @@ They were allowed to take the realms of:
 - the European Christians and Berbers in the West (Maghrib)
 - the Goths in Spain
 
-They went from the Hijiz to as-Sus in the far west, 46 and from the Yemen to the Turks in the farthest north. They gained possession of all seven zones.
+They went from the Hijiz to as-Sus in the far west, and from the Yemen to the Turks in the farthest north. They gained possession of all seven zones.
 
 One may also look at the Sinhajah and Almohad dynasties and their
 relationship to the 'Ubaydid (-Fitimids) before them. 
@@ -69,5 +69,4 @@ The 'Ubaydid-Fatimids lasted about 280 years. The Sinhajah dynasty did not last 
 The contemporary Almohad (Hafsid) dynasty has lasted nearly 270 years.
 
 Thus, the life of a dynasty depends on the number of its supporters. 
-
 

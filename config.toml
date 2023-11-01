@@ -1,17 +1,13 @@
 baseurl = "https://www.superphysics.org"
-# metaDataFormat = "yaml"
+metaDataFormat = "yaml"
 title = "Superphysics"
 theme = "blist"
 
 DefaultContentLanguage = "en"
-DefaultContentLanguageInSubdir = false
+DefaultContentLanguageInSubdir = true
 
 enableEmoji = true
 paginate = 12
-    # [[languages.zh.menu.main]]
-    #     name = "Tags"
-    #     url = "tags"
-    #     weight = 3
 
 [languages]
   [languages.en]
@@ -1325,62 +1321,6 @@ paginate = 12
       title = "Прогнозы социальных циклов"
       sub = "Читайте прогнозы нашей модели для различных стран"
 
-[jp]
-    weight          = 40
-    languageCode    = "jp"
-    languageName    = "Japanese"
-    contentDir      = "content/jp"
-    copyright       = "&copy; 2023 Pantrypoints Technologies"
-    title           = "超物理学"
-    [jp.params]
-        author = "Pantrypoints Technologies"
-        description = "超物理学 -- 波動に基づく科学的パラダイム"
-
-[kr]
-    weight          = 45
-    languageCode    = "kr"
-    languageName    = "Korean"
-    contentDir      = "content/kr"
-    copyright       = "&copy; 2023 Pantrypoints Technologies"
-    title           = "슈퍼물리학"
-    [kr.params]
-        author = "Pantrypoints Technologies"
-        description = "슈퍼물리학 - 파동기반 과학 패러다임"
-
-
-[pt]
-    weight          = 47
-    languageCode    = "pt"
-    languageName    = "Portuguese"
-    contentDir      = "content/pt"
-    copyright       = "&copy; 2023 Pantrypoints Technologies"
-    title           = "Superfísica"
-    [pt.params]
-        author = "Pantrypoints Technologies"
-        description = "Paradigma Científico Baseado em Ondas"
-
-[tl]
-    weight          = 80
-    languageCode    = "tl"
-    languageName    = "Tagalog"
-    contentDir      = "content/tl"
-    copyright       = "&copy; 2023 Pantrypoints Technologies"
-    title           = "Superphysics"
-    [tl.params]
-        author = "Pantrypoints Technologies"
-        description = "Ang Superphysics ay bagong siyensya na base sa Metaphysics at Socratic Dialectics."
-
-[vi]
-    weight          = 90
-    languageCode    = "vi"
-    languageName    = "Vietnamese"
-    contentDir      = "content/vi"
-    copyright       = "&copy; 2023 Pantrypoints Technologies"
-    title           = "Superphysics"
-    [vi.params]
-        author = "Pantrypoints Technologies"
-        description = "Mô hình khoa học dựa trên sóng"
-
 
 [params]
   logo = "/icons/sp.png"
@@ -1395,19 +1335,20 @@ paginate = 12
   # Below are the supported options; Note that including entire content
   # may slowdown the loading of search results
   # Title of page is included by default
-  searchKeys = [
-    "title",
-    "description"
-  ]
   # searchKeys = [
-  #   "tags",
-  #   "date",
-  #   "categories",
-  #   "summary",
-  #   "content",
+  #   "title",
   #   "link",
-  #   "author"
+  #   "description"
   # ]
+  searchKeys = [
+    "tags",
+    "date",
+    "categories",
+    "summary",
+    "content",
+    "link",
+    "author"
+  ]
 
   # Custom copyright - optional
   copyright = "Copyright © 2023 | Pantrypoints Technologies"

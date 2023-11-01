@@ -1,10 +1,10 @@
 ---
 title:  "Fermat's Principle of Least Time"
-heading:  "Chapter 1b"
+heading:  "Chapter 1c"
 weight: 5
 contributors: ['Whittaker']
 image:  "/covers/history.jpg"
-description: ""
+description: "Fermat introduced a new fundamental law, the celebrated Principle of Least Time: 'Nature always acts by the shortest course'"
 ---
 
 
@@ -39,7 +39,7 @@ Descartes' theory of light rapidly displaced the conceptions which had held sway
 
 ## Pierre de Fermat
 
-However, the validity of his explanation of refraction was questioned by his fellow-countryman Pierre de Fermat (b. 1601, d. 1665)[20].
+The validity of his explanation of refraction was questioned by his fellow-countryman Pierre de Fermat (b. 1601, d. 1665)[20].
 - Controversy ensued.
 - This was kept up by the Cartesians long after the death of Descartes. 
 

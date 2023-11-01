@@ -23,11 +23,10 @@ image: /covers/solutions.png
   - 将内容翻译成您的语言
 - submitting articles related to Superphysics, Socartes, Descartes, Hume, Smith, Spinoza, Ibn-Khaldun, Alternative Medicine
 
-{{< img src="/graphics/wallet/gcash.png" alt="对于菲律宾人" cap="对于菲律宾人" >}}
+{{< img src="/graphics/wallet/gcash.png" alt="对于菲律宾人" cap="用于菲律宾捐赠" >}}
 
-{{< img src="/graphics/wallet/momo.jpg" alt="Momo" cap="For donations in Vietnam" >}}
+{{< img src="/graphics/wallet/momo.jpg" alt="用于越南" cap="用于越南" >}}
 
-
-
+<!-- 新加坡捐赠 -->
 
   

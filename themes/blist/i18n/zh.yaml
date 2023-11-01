@@ -1,39 +1,39 @@
-- updates: Updates
-- building: We're building a new science and new systems for a better reality
-- follow: Follow and Support Us！
-- by: Written by
+- updates: 更新内容
+- building: 我们正在构建一个更美好现实的新科学和新系统
+- follow: 关注或支持我们！
+- by: 作者
 
 
 # Content
 - id: postedOnDate
-  translation: "Posted on {{ . }}"
+  translation: "发布于 {{ . }}"
 - id: lastModified
-  translation: "(Last modified on {{ . }})"
+  translation: "(最后修改于 {{ . }})"
 - id: translationsLabel
-  translation: "Other languages: "
+  translation: "其他语言: "
 - id: translationsSeparator
   translation: ", "
 - id: readMore
-  translation: "Read More"
+  translation: "阅读更多"
 - id: morePosts
-  translation: "More Posts"
+  translation: "更多帖子"
 - id: olderPosts
-  translation: "Older Posts"
+  translation: "旧帖子"
 - id: newerPosts
-  translation: "Newer Posts"
+  translation: "新帖子"
 - id: previousPost
-  translation: "Previous Post"
+  translation: "上一篇"
 - id: nextPost
-  translation: "Next Post"
+  translation: "下一篇"
 - id: readTime
-  translation: "minutes"
+  translation: "分钟"
 - id: words
-  translation: "words"
+  translation: "字数"
 
 
 # 404 page
 - id: pageNotFound
-  translation: "Whoops, this page doesn't exist. Move along. (404 error)"
+  translation: "抱歉，此页面不存在（404错误）"
 
 # Footer
 - id: poweredBy # Accepts HTML
@@ -41,9 +41,9 @@
 
 # Navigation
 - id: toggleNavigation
-  translation: "Toggle navigation"
+  translation: "切换导航"
 - id: languageSwitcherLabel
-  translation: "Language"
+  translation: "语言"
 - id: gcseLabelShort
   translation: "Search"
 - id: gcseLabelLong

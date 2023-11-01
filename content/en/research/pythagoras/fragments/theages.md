@@ -1,11 +1,9 @@
 ---
 title: "Theages' Treatise On The Virtues"
-
 weight: 16
 description: "Iamblichus’ Life of Pythagoras, or Pythagoric Life"
 image: "/covers/fragments.png"
 ---
-
 
 
 The parts of the soul are:
@@ -41,7 +39,9 @@ Ambition follows from the irascible part. This becomes excessive and generates f
 
 Pleasure pertains to the appetitive part. But this being sought after more vehemently, generates incontinence. 
 
-Hence, since the acting unjustly is produced from so many causes, it is evident that acting justly is effected through an equal number of causes. For virtue, indeed, is naturally beneficent and profitable; but vice is productive of evil, and is noxious.
+Hence, since the acting unjustly is produced from so many causes, acting justly is effected through an equal number of causes. 
+
+Virtue is naturally beneficent and profitable. But vice is productive of evil, and is noxious.
 
 Since, however, of the parts of the soul, one is the leader, but the other follows, and the virtues and the vices subsist about these, and in these; it is evident that with respect to the virtues also, some are leaders, others are followers, and others, are composed from these. 
 
@@ -59,9 +59,17 @@ But the boundary of this co-adaptation, is for intellect not to be prevented fro
 
 Thus in the world, every part that is always passive, subsists for the sake of that which is always moved. And in the conjunction of animals, the female subsists for the sake of the male. 
 
-For the latter sows, generating a soul; but the former alone imparts matter to that which is generated. In the soul however, the irrational subsists for the sake of the rational part. For anger and desire are co-arranged in subserviency to the first part of the soul; the former as a certain satellite, and guardian of the body; but the latter as a dispensator and provident curator of necessary wants. But intellect being established in the highest summit of the body, and having a prospect in that which is on all sides splendid and transparent,[65] investigates the wisdom of [real] beings. And this is the work of it according 226 nature, viz. having investigated, and obtained the possession [of truth] to follow those beings who are more excellent and more honorable than itself. For the knowledge of things divine and most honorable, is the principle, cause, and rule of human blessedness.
+For the latter sows, generating a soul. But the former alone imparts matter to that which is generated.
 
-<br>
+In the soul however, the irrational subsists for the sake of the rational part. 
+
+For anger and desire are co-arranged in subserviency to the first part of the soul; the former as a certain satellite, and guardian of the body; but the latter as a dispensator and provident curator of necessary wants. 
+
+But intellect being established in the highest summit of the body, and having a prospect in that which is on all sides splendid and transparent,[65] investigates the wisdom of [real] beings. 
+
+This is the work of it according to nature, viz. having investigated, and obtained the possession [of truth] to follow those beings who are more excellent and more honorable than itself. For the knowledge of things divine and most honorable, is the principle, cause, and rule of human blessedness.
+
+
 
 ## Treatise On The Virtues
 
@@ -69,9 +77,25 @@ The principles of all virtue are three; knowledge, power, and deliberate choice.
 
 Knowledge is that by which we contemplate and form a judgment of things; power is as it were a certain strength of the nature from which we derive our subsistence, and is that which gives stability to our actions; and deliberate choice is as it were certain hands of the soul by which we are impelled to, and lay hold on the objects of our choice. 
 
-The order of the soul also subsists as follows= One part of it is the reasoning power, another part is anger, and another is desire. And the reasoning power indeed, is that which has dominion over knowledge; anger is that which rules over the ardent impulses of the soul; and desire is that which willingly rules over appetite. When therefore, these three pass into one, so as to exhibit one co-adaptation, then virtue and concord are produced in the soul; but when they are seditious, and divulsed from each other, then vice and discord are generated in the soul. And when the reasoning power prevails over the irrational parts of the soul, then endurance and continence are produced; endurance indeed, in the retention of pains; but continence in the abstinence from pleasures. 
+The order of the soul also subsists as follows= One part of it is the reasoning power, another part is anger, and another is desire.
 
-But when the irrational parts of the soul prevail over the reasoning power, then effeminacy and incontinence are produced; effeminacy indeed, in flying from pain; but incontinence, in the being vanquished by pleasures. When however, the better part of the soul governs, but the less excellent part is governed; and the former leads, but the latter follows, and both consent, and are concordant with each other, then virtue and every good are generated in the whole soul. When likewise the appetitive follows the reasoning part of the soul, then temperance is produced; but when this is the case with the irascible part, fortitude is produced; and when it takes place in all the parts of the soul, then justice is the result. 
+The reasoning power is that which has dominion over knowledge.
+
+Anger is that which rules over the ardent impulses of the soul.
+
+Desire is that which willingly rules over appetite.
+
+When these three pass into one, so as to exhibit one co-adaptation, then virtue and concord are produced in the soul.
+
+But when they are seditious, and divulsed from each other, then vice and discord are generated in the soul.
+
+When the reasoning power prevails over the irrational parts of the soul, then endurance and continence are produced; endurance indeed, in the retention of pains; but continence in the abstinence from pleasures. 
+
+But when the irrational parts of the soul prevail over the reasoning power, then effeminacy and incontinence are produced; effeminacy indeed, in flying from pain; but incontinence, in the being vanquished by pleasures.
+
+When however, the better part of the soul governs, but the less excellent part is governed; and the former leads, but the latter follows, and both consent, and are concordant with each other, then virtue and every good are generated in the whole soul. 
+
+When likewise the appetitive follows the reasoning part of the soul, then temperance is produced; but when this is the case with the irascible part, fortitude is produced; and when it takes place in all the parts of the soul, then justice is the result. 
 
 For justice is that which separates all the vices and all the virtues of the soul from each other. And justice is a certain established order of the apt conjunction of the parts of the soul, and perfect and supreme virtue. For every good is contained in this; but the other goods of the soul cannot subsist without this. Hence justice possesses great strength both among Gods and men. For this virtue contains the bond by which the whole and the universe are held together, and also by which Gods and men are connected. 
 
@@ -89,9 +113,22 @@ For neither does health, which is a certain apt mixture of the powers of the bod
 
 Similarly, the hot and the cold, the moist and the dry, being harmoniously mingled together, health 237 is produced, and disease destroyed. 
 
-But when anger, and desire are co-harmonized, the vices and the [other] passions are extirpated, and the virtues and manners are ingenerated. Deliberate choice however, in beautiful conduct, is the greatest peculiarity of the virtue of manners. For it is possible to use reason and power without virtue; but it is not possible to use deliberate choice without it. For deliberate choice indicates the dignity of manners. Hence also, the reasoning power subduing by force anger and desire, produces continence and endurance. And again, when the reasoning power is violently dethroned by the irrational parts, then incontinence and effeminacy are produced. Such dispositions however, of the soul as these, are half-perfect virtues, and half-perfect vices. 
+But when anger, and desire are co-harmonized:
+- the vices and the other passions are extirpated, and
+- the virtues and manners are ingenerated. 
 
-For the reasoning power of the soul is [according to its natural subsistence] in a healthy, but the irrational parts are in a diseased condition. And so far indeed, as anger and desire are governed and led by the rational part of the soul, continence and endurance become virtues; but so far as this is effected by violence, and not voluntarily, they become vices. For it is necessary that virtue should perform such things as are fit, not with pain, but with pleasure. 
+Deliberate choice however is the greatest peculiarity of the virtue of manners.
+
+For it is possible to use reason and power without virtue.
+- But it is not possible to use deliberate choice without it, because deliberate choice indicates the dignity of manners.
+
+Hence also, the reasoning power subduing by force anger and desire, produces continence and endurance. 
+
+Again, when the reasoning power is violently dethroned by the irrational parts, then incontinence and effeminacy are produced. Such dispositions however, of the soul as these, are half-perfect virtues, and half-perfect vices. 
+
+The reasoning power of the soul is [according to its natural subsistence] in a healthy, but the irrational parts are in a diseased condition. 
+
+Anger and desire are governed and led by the rational part of the soul, continence and endurance become virtues; but so far as this is effected by violence, and not voluntarily, they become vices. For it is necessary that virtue should perform such things as are fit, not with pain, but with pleasure. 
 
 So far as anger and desire govern the reasoning power, effeminacy and incontinence are produced, which are certain vices. But so far, as they gratify the passions with pain, knowing that they are erroneous, 238 in consequence of the eye of the soul being sane,—so far as this is the case, they are not vices. 
 
@@ -115,11 +152,21 @@ On this account, the parts of the unequal are referred to the middle, but not to
 
 Diseases, likewise, of the body are generated, through the body becoming more hot or more cold [than is proper]. For that which is more hot [than is fit] exceeds moderation; and that which is more cold [than is fit] is below mediocrity. 
 
-The soul also, and such things as pertain to it, have this disposition and analogy. For audacity indeed, is an excess of the decorous in the endurance of things of a dreadful nature; but timidity is a deficiency of the, decorous. And prodigality is an excess of what is fit in the expenditure of money; but illiberality is a deficiency in this. And rage indeed, is an excess of the decorous in the impulse of the irascible part of the soul; but insensibility is a deficiency of this. 
+The soul have this disposition and analogy. 
 
-The same reasoning likewise applies to the opposition of the other dispositions of the soul. It is necessary however, that virtue, since it is a habit of the decorous, and a medium of the passions, should neither be [wholly] impassive, nor immoderately passive. 
+Audacity is an excess of the decorous in the endurance of things of a dreadful nature. 
 
-For impassivity indeed, causes the soul to be unimpelled, and to be without an enthusiastic tendency to the beautiful in conduct; but immoderate passivity causes it to be full of perturbation, and inconsiderate. 
+But timidity is a deficiency of the, decorous. And prodigality is an excess of what is fit in the expenditure of money; but illiberality is a deficiency in this.
+
+Rage is an excess of the decorous in the impulse of the irascible part of the soul; but insensibility is a deficiency of this. 
+
+The same reasoning likewise applies to the opposition of the other dispositions of the soul. 
+
+Virtue is a habit of the decorous and a medium of the passions. It should neither be wholly impassive, nor immoderately passive. 
+
+Impassivity causes the soul to be unimpelled, and to be without an enthusiastic tendency to the beautiful in conduct.
+
+But immoderate passivity causes it to be full of perturbation, and inconsiderate. 
 
 It is necessary that passion should so present itself to the view, in virtue, as shadow and outline in a picture. For the animated and the delicate, and that which imitates the truth, in conjunction with goodness of colors, are especially effected in a picture through these [i. e. through shadow and outline]. 
 

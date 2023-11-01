@@ -3,7 +3,7 @@ heading: "Chapter 9b"
 title: "The Origin of the Planets and Comets"
 weight: 21
 image: "/covers/world.jpg"
-description: "There are a few comets in the aethereal world compared to the number of heliospheres. "
+description: "There are a few comets in the aethereal world compared to the number of gravitational territories"
 contributors: ['Rene Descartes']
 icon: "/icons/descartes.png"
 ---

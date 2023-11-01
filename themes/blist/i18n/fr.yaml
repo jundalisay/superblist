@@ -1,3 +1,9 @@
+- updates: Updates
+- building: We're building a new science and new systems for a better reality
+- follow: Follow and Support Us！
+- by: Written by
+
+
 # Content
 - id: postedOnDate
   translation: "Posté le {{ . }}"

@@ -56,12 +56,13 @@ Superstitious narrations of sorceries, witchcrafts, dreams, divinations, and the
 How is Socratic Dialectics different from Dialectics?
 {{< /r >}}
 
+<!-- hijacked dialectics and made his own version based an his own matter-based metaphysics (as 'substance'). The Germans, like Kant, Engels, Marx, and Einstein followed Aristotle.  -->
+
+
 {{< l a="Superphysics" >}}
-The original dialectics was defined by Socrates to be based on Pythagorean metaphysics. But Aristotle hijacked dialectics and made his own version based an his own matter-based metaphysics (as 'substance'). The Germans, like Kant, Engels, Marx, and Einstein followed Aristotle. 
+Socratic Dialectics uses timeless metaphysical truths as the quality control for logic. Its rival is Aristotlean and Marxist dialectics which uses either the ego or materialism. These led to **Dialectical Materialism** which has caused a lot of problems in the world via Marxism and Communism. The goals of Marxism of freedom and justice are very good and noble, but its underlying metaphysics is totally junk. This leads to suffering instead of goodness.
 
-This led to **Dialectical Materialism** which is based on limited human logic and has caused a lot of problems in the world via Marxism and Communism. The goals of Marxism of freedom and justice are very good and noble, but its underlying metaphysics is totally junk. This leads to suffering instead of goodness.
-
-Its rival Capitalism also embraces Aristotle, as proven by Ayn Rand and the subsequent 2008 Financial Crisis which also caused suffering.   
+Its rival Capitalism also embraces Aristotle, as proven by Ayn Rand and the subsequent 2008 Financial Crisis which also caused suffering.
 
 The enlightened philosophers like Hume and Ibn-Khaldun denounced Aristotle. So you can say we are fully in the Plato-Pythagoras-Hinduism-Buddhism-Taoism camp.  
 {{< /l >}}
@@ -73,11 +74,9 @@ How sure are you that Superphysics can solve what Science cannot?
 {{< l a="Superphysics" >}}
 Because we absorb all data, information, and human knowledge, even from Asia, Africa, Hinduism, Buddhism, Taoism, even human information about aliens. 
 
-Hinduism, Buddhism, and Taoism allow other dimensions by default. 
+Hinduism, Buddhism, and Taoism allow other dimensions by default. Even Islam has the concept of [Jinns](/research/mohammad/quran/sura-072). This gives us a bigger data set from which we can test their own principles on our reality.
 
-Even Islam has the concept of [Jinns](/research/mohammad/quran/sura-072). This gives us a bigger data set from which we can test their own principles on our reality.
-
-This is different from Roman philosophy which has no metaphysics to allow other dimensions. Notice how Roman gods just mirror human characteristics. The Roman mentality evolved to be Western thinking and subsequently as Western Science. 
+This is different from Roman philosophy which has no metaphysics to allow other dimensions. Notice how Roman gods just mirror human characteristics. The Roman mentality evolved to be Western thinking and subsequently as limited Western Science which only deal with the obvious and shallow perceptions. 
 {{< /l >}}
 
 {{< r a="Asker" >}}
@@ -85,7 +84,7 @@ How do you weed out junk ideas like faeries and pixie dust?
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-By finding consistent patterns. If all five continents have oral tradition of faeries and pixie dust that survive up to modern times, then there's some reality to it. But we find that there are none, so we cross it out as untrue.
+By finding consistent patterns. If all five continents have oral tradition of faeries and pixie dust that survive up to modern times as to be testable, then there's some reality to it. But we find that there are none, so we cross it out as untrue.
 
 Truth is the equality of perceptions. We're after true patterns that lead to the single truth, as the cause behind an issue or problem. This single truth represents the totality of perception. 
 
@@ -123,9 +122,7 @@ A problem begins when something goes away from its True Nature, Dharma, or Tao.
 
 Most science just deals with effect and not cause because science is ignorant of metaphysics which is the real cause of anything in physics. The education system is supposed to help children discover their True Nature, Dharma, or Tao so that they can direct their lives towards it. But instead, it just molds them to be industrial workers (the dharma of business and industry). 
 
-Ask anyone what the goal or purpose of the life is, and they will look at you with a blank stare. 
-
-So the first step is to find the metaphysical true nature.
+Ask anyone what the goal or purpose of their life is, and they will look at you with a blank stare. So the first step is to find the metaphysical true nature.
 {{< /l >}}
 
 {{< r a="Asker" >}}
@@ -213,6 +210,14 @@ All we can say is "No Samadhi, No Honey" (i.e. Without samadhi, you won't get a 
 {{< /l >}}
 
 {{< r a="Asker" >}}
+That's like when Neo in *The Matrix* movie realizing that he was in a giant computer when he saw the code running behind his reality. (I like that movie)
+{{< /r >}}
+
+{{< l a="Superphysics" >}}
+Instead of revealing the code, we try to reveal the aether in each phenomenon. 
+{{< /l >}}
+
+{{< r a="Asker" >}}
 What does the Superphysics symbol mean?
 {{< /r >}}
 
@@ -249,9 +254,10 @@ Yes. This is now known as 'scientism' propagated by materialists.
 
 For example, alternative medicines that don't pass clinical trials are not medicine, but are just supplements even if they cure some people but not all. 
 
-This is why, until 2030, most of our work is on Social Superphysics. The work on Bio and Material Superphysics will mostly be theoretical for now, though we've done [rudimentary experiments on pre-levitation](/material/levitation) and preventing cancers from getting worse via alternative medicine.
+Moreover, the gap between experiment and useful invention is huge. For example, the principle of action-reaction can be demonstrated with a $0.10 party balloon releasing air to propel itself. But it takes a lot more effort to convert that principle into a working rocket which costs $1,000.  
 {{< /l >}}
 
+<!-- This is why, until 2030, most of our work is on Social Superphysics. The work on Bio and Material Superphysics will mostly be theoretical for now, though we've done [rudimentary experiments on pre-levitation](/material/levitation) and preventing cancers from getting worse via alternative medicine. -->
 
 {{< r a="Asker" >}}
 How can we help?

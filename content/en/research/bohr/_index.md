@@ -1,4 +1,5 @@
 ---
+heading: Semi-Enlightened
 title: "Bohr, Niels"
 linkTitle: Bohr
 weight: 12

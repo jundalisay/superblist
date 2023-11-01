@@ -1,4 +1,5 @@
 ---
+heading: Semi-Enlightened
 title: "Maxwell, James Clerk"
 linkTitle: "Maxwell"
 weight: 64

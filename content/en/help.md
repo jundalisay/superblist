@@ -22,6 +22,7 @@ You can help by:
 - submitting articles related to Superphysics, Socartes, Descartes, Hume, Smith, Spinoza, Ibn-Khaldun, Alternative Medicine
 - donating cash or in kind
 
-{{< img src="/graphics/wallet/gcash.png" alt="Gcash" cap="For donations in the Philippines" >}}
+{{< img src="/graphics/wallet/gcash.png" alt="Gcash" cap="For people in the Philippines" >}}
 
-{{< img src="/graphics/wallet/momo.jpg" alt="Momo" cap="For donations in Vietnam" >}}
+{{< img src="/graphics/wallet/momo.jpg" alt="Momo" cap="For people in Vietnam" >}}
+

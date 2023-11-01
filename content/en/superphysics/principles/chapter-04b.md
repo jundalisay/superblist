@@ -230,7 +230,11 @@ into
 ```
 
 
-Notice how this isolates Newton's `G` away from the two masses being compared. In price equations, this will allow us to more easily remove the influence of interest rates (of the financial system) and taxes (of the government)  in order to reveal the natural price ratios from their own perspective. The gravity, interest rates, and taxes enter their own abstraction called a *limiter*. Moreover, this system does not require PEMDAS.
+Notice how this isolates Newton's `G` away from the two masses being compared. 
+
+In price equations, this will allow us to more easily remove the influence of interest rates (of the financial system) and taxes (of the government) in order to reveal the natural price ratios from their own perspective. 
+
+The gravity, interest rates, and taxes enter their own abstraction called a *limiter*. Moreover, this system does not require PEMDAS.
 
 We then deconstruct it further:
 

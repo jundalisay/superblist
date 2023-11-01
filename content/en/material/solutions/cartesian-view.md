@@ -42,9 +42,8 @@ Modern science is based on Newton's Physics which set [the following rules](/res
 
 These rules limit the search for the cause of effects to those that are shallowly observable, usually from the sense of sight. Einstein even has a worse rule:
 
-{{< q a="einbla" >}}
-Our criterion for reality is simply if, without disturbing a system, we can predict with certainty a physical value
-<cite>Can Quantum—Mechanical Description of Physical Reality Be Considered Complete?</cite>
+{{< q a="Einstein-sophist" c="Can Quantum—Mechanical Description of Physical Reality Be Considered Complete?" >}}
+Our criterion for reality iEinstein-Sophists simply if, without disturbing a system, we can predict with certainty a physical value
 {{< /q >}}
 
 
@@ -67,9 +66,8 @@ As you can see, there are so many movements, of which the causes are unaccounted
 
 Newton explains all movements in the *physical plane* only, but says nothing about their origin or root cause<!-- . This is seen in Newton being unable to explain* where gravity or mass comes from -->:
 
-{{< q a="newton" >}}
-<p>The quantities of these centripetal forces can be called accelerative, motive, absolute.. I do not bother to know where such an absolute force come from. I just want to give them a mathematical form.</p>	
-<cite>Simple Principia Mathetmatica by Newton, Definitions</cite>
+{{< q a="Newton" c="Principia Mathetmatica by Newton Simplified, Definitions" >}}
+The quantities of these centripetal forces can be called accelerative, motive, absolute.. I do not bother to know where such an absolute force come from. I just want to give them a mathematical form.
 {{< /q >}}
 
 > *This was a major criticism by David Hume on Newton. Hume preferred Descartes and so we look into his ideas
@@ -78,9 +76,8 @@ Newton explains all movements in the *physical plane* only, but says nothing abo
 Einstein also has the same disease:
 
 
-{{< q a="einbla" >}}
+{{< q a="Einstein-sophist" c="Can Quantum—Mechanical Description of Physical Reality Be Considered Complete?" >}}
 We do not need a comprehensive deﬁnition of reality.
-<cite>Can Quantum—Mechanical Description of Physical Reality Be Considered Complete?</cite>
 {{< /q >}}
 
 
@@ -98,15 +95,13 @@ Rather than start from the bottom and claw our way up blindly, we start at the t
 
 This top theory in physics is the element called the aether. <!-- To solve such problems, we bring back the pre-Newtonian sciences of natural philosophy which were integrated with metaphysics. For example, --> The ancient Greeks, Kepler, Descartes, and the Asian sciences (Buddhism, Hinduism, Taoism) all attributed all the motions in the universe to God through this element.
 
-{{< q a="descartes" >}}
+{{< q a="Descartes" c="The World by Descartes Simplified, Chapter 5" >}}
 The philosophers assure us that above the clouds there is an aethereal air much subtler than ours. That air is not composed of vapors of the earth, but is an element in itself
-<cite>Simple World by Descartes, Chapter 5</cite>
 {{< /q >}}
 
 
-{{< q a="socrates" >}}
+{{< q a="Socrates" c="Simple Phaedo by Plato, Chapter 9" >}}
 But the true earth is pure and situated in the pure heaven—there are the stars also. It is the heaven which we commonly call the aether. Our own earth is the sediment gathering in the hollows beneath it.
-<cite>Simple Phaedo by Plato, Chapter 9</cite>
 {{< /q >}}
 
 In Hinduism, the aether is the *akasha*. In Taoism, it's the water element. To account for this invisible aether, we split reality into two planes: 
@@ -140,16 +135,12 @@ Isaac Newton started with astronomical data which he then visualized as curves a
 
 {{< img src="/graphics/physics/tangent.png" alt="Cartesian plane of Newton" cap="Newton visualized movement paths through curves and lines on the physical Cartesian plane" >}}
 
-<br>
-
 Richard Feynman did the same thing by drawing diagrams depicting the outcome of particle interaction. From there, equations were created. 
 
 
 {{< img src="/graphics/physics/feynman.jpg" alt="Feynman Diagram" cap="Feynman also visualized particle interaction on the physical Cartesian plane" >}}
 
 The aethereal Cartesian plane follows the same pattern by visualizing the data directly. From there the equations can be derived in order to predict or change the movement of the identity in question. 
-
-<br>
 
 {{< img src="/graphics/viz2.png" alt="Visualization of the Cartesian View" cap="The aethereal Cartesian plane is similar to how MP3 players visualize the music played through them. These lead to patterns and shapes which Plato referred to as the five shapes" >}}
 

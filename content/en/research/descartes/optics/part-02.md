@@ -9,12 +9,10 @@ icon: "/icons/descartes.png"
 ---
 
 
+
 How can we determine this refraction quantitatively?
 
-<!--  and since the comparison I have just used [between the refraction of light and the penetration of a cloth by a tennis ball] enables this to be understood easily, I believe it is appropriate that I explain it here and now, and so as to make it easier to understand, I shall speak first about
-reflection.  -->
-
-Suppose a ball is struck from A towards B. At B it meets the surface of the ground CBE, which prevents it from going further and causes it to be deflected.
+Suppose a ball is struck from `A` towards `B`. At `B` it meets the surface of the ground `CBE`, which prevents it from going further and causes it to be deflected.
 
 
 Where will it go?
