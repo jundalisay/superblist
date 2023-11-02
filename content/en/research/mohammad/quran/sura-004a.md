@@ -12,7 +12,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 - created from it its mate
 - propagated from them many men and women. 
 
-Revere Allah and your parents. <!-- Surely, Allah is Watchful over you. -->
+Revere Allah and your parents. 
 
 
 {{< s v="2" >}}  Give orphans their properties.
@@ -27,7 +27,7 @@ But if you fear you will not be fair, then one, or what you already have.
 - That makes it more likely that you avoid bias.
 
 {{< s v="4" >}} Give women their dowries graciously. 
-- But if they willingly forego some of it, then consume it with enjoyment and pleasure.
+- But if they willingly forego some of it, then consume it freely.
 
 {{< s v="5" >}} Do not give the immature your money which Allah has assigned to you for support. 
 - But provide for them from it
@@ -42,7 +42,6 @@ But if you fear you will not be fair, then one, or what you already have.
 The rich shall not charge any wage, but the poor may charge fairly. 
 - When you hand over their properties to them, have it witnessed for them. 
 
-<!-- Allah suffices as a Reckoner. -->
 
 
 {{< s v="7" >}} Men receive a share of what their parents and relatives leave.

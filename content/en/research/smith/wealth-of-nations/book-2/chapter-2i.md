@@ -10,10 +10,10 @@ icon: "/avatars/smith.png"
 
 
 
-{{< s v="73" >}} In the midst of this clamour and distress, a new bank was established in Scotland to relieve the country's distress.
+{{< s v="73" >}} In the midst of this clamour and distress, the Ayr bank was established in Scotland to relieve the country's distress.
 
-The design was generous but the execution was imprudent.
-It did not understand the nature and causes of the distress it meant to relieve.
+The design was generous but the execution was imprudent. 
+- It did not understand the nature and causes of the distress it meant to relieve.
 
 Compared to any other bank, it was more liberal in:
 - in granting cash accounts and
@@ -28,7 +28,7 @@ But most of those notes were in excess of what the national circulation needed.
 - The notes returned to be exchanged for gold and silver as fast as they were issued.
 - The bank’s coffers were never well filled.
 
-The bank’s capital was created through two different subscriptions totalling £160,000, with only 80% paid up.
+The Ayr bank’s capital was created through two different subscriptions totalling £160,000, with only 80% paid up.
 - This sum should have been paid in at several different installments.
 
 Most of the partners opened a cash account with the bank when they paid their first installment.
@@ -38,64 +38,73 @@ Most of the partners opened a cash account with the bank when they paid their fi
 
 Even if its coffers were filled, its excessive circulation emptied them faster than they could be replenished.
 
-The only way to keep it filled was to continually draw on London with more bills of exchange.
+The only way to keep it filled was to continually borrow from London,
+ <!-- draw on London with more bills of exchange. -->
 - It did this a few months after opening.
 
 The estates of the bank's partners were worth several million pounds.
 - Their estates were pledged for answering all its engagements.
-- This great pledge enabled it to carry on business for more than two years despite its too liberal conduct.
+- This great pledge enabled it to carry on business for more than 2 years despite its too liberal conduct.
 
 When it was obliged to stop, it had around £200,000 of bank notes in circulation.
 - These notes were continually returning as fast they were issued.
 
-To support them, the bank constantly drew bills of exchange on London which continually grew in value and number.
-- In the end, the bills amounted to over £600,000.
+To support them, the bank constantly borrowed from London, ending up to £600,000 worth of bills.
 
-In a little more than two years, this bank lent more than £800,000 at 5%.
+<!-- drew bills of exchange on London which continually grew in value and number.
+- In the end, the bills amounted to over . -->
+
+In a little more than two years, this bank lent more than £800,000 at 5% interest.
 - This 5% on the £200,000 which it circulated in bank notes might be considered as clear gain, deducting only the management cost.
 
-But it was paying 8% in interest and commission on the £600,000 worth of bills of exchange on London.
-- It was consequently losing more than 3% on more than 3⁄4 of all its dealings.
+But it was paying 8% in interest and commission on its £600,000 debt to to London.
+ <!-- worth of bills of exchange on -->
+- It lost more than 3% on more than 3⁄4 of all its dealings.
 
 
-
-{{< s v="74" >}} This bank produced the opposite effects it intended.
+{{< s v="74" >}} The Ayr bank produced the opposite effects it intended.
 
 They intended to:
-- support the spirited entrepreneurship in the country, and
+- support entrepreneurship, and
 - supplant all the other Scotch banks, particularly those in Edinburgh, by drawing the whole banking business to themselves.
 
-Those other Scotch banks offended this bank by being backward in discounting bills of exchange.
-This bank gave some temporary relief to those entrepreneurs.
-It enabled them to continue their projects for about two years longer.
-But it only caused them to get so much deeper into debt.
+Those other Scotch banks offended entrepreneurs by being backward in discounting bills of exchange.
+<!-- this bank -->
 
-When ruin came, it fell so much heavier on the entrepreneurs and their creditors.
+The Ayr bank gave some temporary relief to those entrepreneurs.
+- It enabled them to continue their projects for about two years longer.
+
+But it only caused them to get so much deeper into debt.
+- When ruin came, it fell so much heavier on the entrepreneurs and their creditors.
+
 In the long-run, this bank aggravated the distress imposed by those entrepreneurs on themselves and their country.
 
 It would have been much better for themselves, their creditors, and their country, if most of them had stopped two years sooner.
-The temporary relief this bank gave to those entrepreneurs was a permanent relief for the other Scotch banks.
 
-All the bad bills of exchange which the Scotch banks were so backward in discounting, went to this new bank where they were received with open arms.
+The temporary relief that the Ayr bank gave to those entrepreneurs was a permanent relief for the other Scotch banks.
 
-Those other banks easily got out of that fatal circle which would have caused them loss and discredit.
+All the bad bills of exchange which the Scotch banks were so backward in discounting, went to the Ayr bank where they were received with open arms.
+- Those other banks easily got out of that fatal circle which would have caused them loss and discredit.
 
 
-{{< s v="75" >}} In the long-run, the operations of this bank increased the real distress of the country it meant to relieve.
-
-It relieved its rivals from a very great distress.
+{{< s v="75" >}} In the long-run, the operations of the Ayr bank increased the real distress of the country it meant to relieve.
+- It relieved its rivals from a very great distress.
 
 
 {{< s v="76" >}} Initially, people thought that its coffers could be easily replenished by raising money from its debtors' securities.
 
-They later realized that raising money by security was too slow to refill their coffers.
-They were forced to draw bills upon London, paid with other drafts with accumulated interest and commission.
-The bills let them raise money quickly, but led to a loss each time.
+**They later realized that raising money by security was too slow to refill their coffers.**
+
+They were forced to borrow bills from London, paid with accumulated interest and commission.
+ <!-- draw bills on London, paid with other drafts  -->
+- The bills let them raise money quickly, but led to a loss each time.
+
 In the long-run, they ruined themselves as a mercantile company, but not as fast as by the more expensive practice of drawing and redrawing.
 
-They made nothing by the interest of the paper because it was in excess of what was needed by the national circulation.
-The paper returned to them to be exchanged for gold and silver as fast as they issued it.
-Their shortage of metal money continually obliged them to borrow metal money.
+They made nothing by the amount of paper lent because it was in excess of what was needed by the national circulation.
+<!-- interest of the paper  -->
+- The paper returned to them to be exchanged for gold and silver as fast as they issued it.
+- Their shortage of metal money continually obliged them to borrow metal money.
 
 They would have lost from the cost of:
 - this method of borrowing, and
@@ -107,12 +116,13 @@ Replenishing their coffers in this way may be compared to a man who employed peo
 ## Too Big To Fail
 
 {{< s v="77" >}} The country derived no benefit from this operation even if it was practicable and profitable to the bank as a mercantile company.
+- On the contrary, the country suffered a very considerable loss by it.
 
-On the contrary, the country suffered a very considerable loss by it.
 This operation could not augment the amount of money to be lent.
-This bank became a sort of general loan office for the whole country.
 
-Those who wanted to borrow applied to this bank, instead of applying to private persons.
+The Ayr bank became a sort of general loan office for the whole country.
+- Those who wanted to borrow applied to this bank, instead of applying to private persons.
+
 But a bank which lends money to 500 people is not likely to be more judicious than a private person who lends to a few people whom he knows.
 
 Most of the debtors of such a bank would likely be chimerical entrepreneurs. They would:

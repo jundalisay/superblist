@@ -12,7 +12,7 @@ icon: "/avatars/smith.png"
 
 {{< s v="79" >}} The Bank of England is the biggest bank of circulation in Europe.
 
-It was incorporated by a charter under the Great Seal on July 27, 1694. It then lent to government £1.2 million in exchange for an annuity of £100,000 composed of= 
+It was incorporated by a charter under the Great Seal on July 27, 1694. It then lent to government £1.2 million in exchange for an annuity of £100,000 composed of:
 - £96,000 interest or 8% [1.2m * 0.08], and
 - £4,000 annually for management expenses.
 

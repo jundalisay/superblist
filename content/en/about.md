@@ -73,3 +73,11 @@ The invasion by Russia on Ukraine proves the collapse of international law, whil
 We are looking for universities that would be interested in our theories, publishers interested in our books, and companies and angels that would like to invest in a resilient economic system that will preserve their businesses and capital during such a prolonged crisis. 
 
 Feel free to contact us via email at superphysicsorg@gmail.com. 
+
+
+Contributors | 
+--- | ---
+Juan | Juan, founder of Superphysics, likes to read and write about the works from the Enlightenment
+Lam | Lam writes about economics, business, and history
+Jing | Jing likes to write about agriculture, data science, and the earth sciences
+Michael | Michael focuses on tech, with diverse topics such as blockchain, artificial intelligence   
