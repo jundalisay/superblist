@@ -9,6 +9,7 @@ icon: /avatars/ef.png
 toc: false
 ---
 
+> Superphysics Note: Here, we condense [Buddhist Economics by EF Schumacher](/research/schumacher/buddhist-economics/part-1). 
 
 ## Buddhist Economics vs Modern Economics
 

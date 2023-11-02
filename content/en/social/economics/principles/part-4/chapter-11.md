@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 11"
 title: "Communism, Shariah, Inca System"
-weight: 44
+weight: 54
 date: 2021-12-12
 image: /covers/marx.jpg
 description: "Karl Marx and Frederick Engels listed the 10 demands of Communism in The Communist Manifesto"

@@ -13,7 +13,8 @@ weight: 14
 
 Dharma in Hinduism and Buddhism is the inherent nature of things, as designed by its maker. 
 
-A baker who bakes a cake designs it as a cake and expects it to be a cake in the end, even if it starts as flour. 
+A baker who bakes a cake designs it as a cake and expects it to be a cake in the end.
+<!-- , even if it starts as flour.  -->
 - If it turns out to be a pie or a large biscuit, then it does not match its design or plan. In this case, it is called a bad or awful cake and is 'adharmic'. 
 - If it turns out as a cake as designed, then it is good or 'dharmic'*.
 
@@ -21,23 +22,28 @@ A baker who bakes a cake designs it as a cake and expects it to be a cake in the
 > *Dharma and Smith's invisible hand are supposed to come from Brahma and Providence (God) respectively. However, the idea of a superior God seems to drive away materialists and egotistic people who have been liberalized to view themselves as their own god and master of their own destiny. In fact, of the current large populations, only the Muslims seem to be the group that is amenable to having their will subservient to a divine being such as the concept of Allah.
 
 
-As such, our definition of dharma mutes any references to God or any divine being. This is so that it can get a chance at mass adoption even by those materialists and egotistic people who are at the forefront of destroying rainforests for big money, and driving inequality through slave-wages and speculative investments that raise asset prices for their self-gain. 
+As such, our definition of dharma mutes any references to God or any divine being. This is so that it can get a chance at mass adoption even by those materialists and egotistic people who are at the forefront of:
+- destroying rainforests for big money
+- driving inequality through profit-maximizing slave-wages
+- speculative investments that raise asset prices for self-gain. 
 
-Only by giving them a positive reason to switch sides, while keeping their selfishness and ego, can there be hope for sustainability in the face of the global warming disasters and inequality that Economics, with its blind focus on economic growth, has created. 
+Only by giving them a positive reason to switch sides, while keeping their selfishness and ego, can there be hope for sustainability in the face of the global warming disasters and inequality that Economics has created through its blind focus on money-making. 
 
 As they say, desperate times call for desperate measures.
 
-Note that this only mutes God and does not cancel It. The unmuting can be done scientifically through the development of [artificial intelligence](/superphysics/ai-is-autonomous) which will reveal God to be a Matrix, and our existence to be a virtual reality inside the mind of God or Brahma. 
+Note that this only mutes God and does not cancel It. The unmuting can be done scientifically through the development of [artificial intelligence](/superphysics/solutions/isaiah) which will reveal God to be a Matrix, and our existence to be a virtual reality inside the mind of God or Brahma. 
 
 ![AI](/photos/tech/ai.jpg)
 
-The dharma of a pantrynomy is to keep on producing utility for society. 
+The dharma of a supereconomy is to keep on producing utility for society. 
 
 This is why the selfish landlord gave up part of his crops to be given as wages to his employees so that they could maintain his agricultural system. Had he kept all of his crops for himself, there would be no one to grow the next batch and his estate's economic system would fail and become adharmic. 
 
 
 {{< q a="Adam-Smith" >}}
-The proud and unfeeling landlord views his extensive fields, and without a thought for his brethren, he imagines to eat its whole harvest.. The capacity of his stomach is far less than the immensity of his desires and receives no more than that of the meanest peasant. <b>The rest of the food he is obliged to distribute</b> among his servants.. The rich.. divide with the poor the produce of all their improvements despite their natural selfishness and rapacity. They are led by an invisible hand to make nearly the same distribution of life’s necessities which would have been made, had the earth been divided equally among all its inhabitants.
+The proud and unfeeling landlord views his extensive fields, and without a thought for his brethren, he imagines to eat its whole harvest.. The capacity of his stomach is far less than the immensity of his desires and receives no more than that of the meanest peasant. <b>The rest of the food he is obliged to distribute</b> among his servants.. The rich.. divide with the poor the produce of all their improvements despite their natural selfishness and rapacity. 
+
+They are led by an invisible hand to make nearly the same distribution of life’s necessities which would have been made, had the earth been divided equally among all its inhabitants.
 {{< /q >}}
 
 
@@ -46,40 +52,50 @@ In the <b>real happiness of human life</b>, they [the poor] are not inferior to 
 {{< /q >}}
 
 
-Thus, the personal interests of the landlord and his employees work together naturally to create a bigger public benefit. <!-- Like the public spirited man in the earlier example, --> The farmers work on the fields for the love of agriculture and not for society. 
+Thus, the personal interests of the landlord and his employees work together naturally to create a bigger public benefit. The farmers work on the fields for the love of agriculture and not for society. 
 
 It is by this focus (not selfishness) that they were able to improve their skills and increase their productivity (personal interest) for the benefit of everyone as the public interest.
 
 
-{{< q a="Adam-Smith" >}}
-<p>Every individual necessarily works to render the society’s annual revenue as great as he can. He generally does not intend to promote the public interest, or know how much he is promoting it. By preferring to support domestic industry over foreign industry, he intends only his own security.By directing that industry to produce the greatest value [for society], he intends only his own gain. In this case, as in many other cases,he is led by an invisible hand to promote an end which he did not intend.Nor is it always the worse for the society that it [the society] was no part of it [the goal]. 
+{{< q a="Adam-Smith" c="Wealth Of Nations Book 4 [revised with 'passion']" >}}
+Every individual necessarily works to render the society’s annual revenue as great as he can. He generally does not intend to promote the public interest, or know how much he is promoting it. 
 
-By pursuing his own interest, he frequently promotes the society’s interest more effectively than when he really intends to promote it. I have never known much good done by those who affected to trade for the public good. It is an affectation not very common among merchants. Very few words can be used to dissuade them from it.</p>
-<cite>Wealth Of Nations Book 4 [emphasis Added]</cite>
+By supporting domestic industry over foreign industry, he intends only his own security. By directing that industry to produce the greatest value [for society], he intends only his own gain. 
+
+In this case, as in many other cases, he is led by an invisible hand to promote an end which he did not intend. Nor is it always the worse for the society that it [the society] was no part of it [the goal]. 
+{{< /q >}}
+
+{{< q a="Adam-Smith" c="Wealth Of Nations Book 4 [revised with 'passion']" >}}
+By pursuing his own passion, he frequently promotes the society’s interest more effectively than when he really intends to promote it. 
+
+I have never known much good done by those who affected to trade for the public good. It is an affectation not very common among merchants.
 {{< /q >}}
 
 
 
+## Socrates Division of Labor
+
+This focus leads to specialization or division of labor within an overall team or social effort. Unknown to many, it was Socrates, and not Smith, who first emphasized the importance of knowing one's personal passion in relation to the common interest, as to create the division of labor:
+<!-- interest -->
 
 
-## Enter Socrates
+{{< q a="Socrates" c="The Republic By Plato Simplified, Book 4, Chapter 2 [replaced 'justice' with 'dharma']" >}}
 
-This focus leads to specialization or division of labor within an overall team or social effort. Unknown to many, it was Socrates, and not Smith, who first emphasized the importance of knowing one's personal interest in relation to the common interest, as to create the division of labor:
+The division of labour which required the carpenter and the shoemaker and the rest of the citizens to be doing each his own business, and not another's, was a shadow of dharma. 
 
+But in reality, dharma was concerned not with the outward man, but with the inward or the true self.
 
-{{< q a="Socrates" >}}
-The division of labour which required the carpenter and the shoemaker and the rest of the citizens to be doing each his own business, and not another's, was a shadow of justice [dharma]. 
+The just man does not permit the several elements within him to interfere with one another, or any of them to do the work of others. 
 
-But in reality, justice was concerned not with the outward man, but with the inward or the true self.
-<br><br>
-The just man does not permit the several elements within him to interfere with one another, or any of them to do the work of others. He sets his own inner life in order, and he masters himself with his own law, to be at peace with himself. A man whose occupation is opposite of his interest has a sort of lameness. 
-<cite>Socrates,the Simple Republic By Plato, Book 4, Chapter 2</cite>
+He sets his own inner life in order, and he masters himself with his own law, to be at peace with himself. A man whose occupation is opposite of his passion has a sort of lameness. 
 {{< /q >}}
 
 
-Like Smith, Socrates* asserts that the common interest is promoted by personal interest through trade and employment. He also shows that such a personal interest leads to personal peace, exactly the kind that kings are fighting for, as described by Smith. 
+Like Smith, Socrates* asserts that the common interest is promoted by personal passion through trade and employment. 
 
-Socrates, however, adds a missing ingredient to achieving such a peace. He explains that **a person's focus on his personal interest will help him to discover his true self**. This discovery of the true self is then the key to lasting peace.
+He also shows that such a passion leads to personal peace, exactly the kind that kings are fighting for, as described by Smith. 
+
+Socrates, however, adds a missing ingredient to achieving such a peace. He explains that **a person's focus on his personal passion will help him to discover his true self**. This discovery of the true self is then the key to lasting peace.
 
 > *The topic of the book The Republic is justice which Socrates defined to be human dharma, just as his concept of specialization is svadharma.
 
@@ -155,9 +171,9 @@ The West eventually discovered the way to find this internal principle through s
 Nowadays, surveys and school exams are the most common ways to discover the interests of each person, and this is why education is very important. Asking a child what he wants to become is another common way, but even this is often not emphasized in some cultures.
 
 
-## A Pantrynomy is an Economy within its Dharma
+## A Supereconomy is an Economy within its Dharma
 
-From here, we can now define our pantrynomy as **a system of resource allocation that is in line with the Tao or Dharma**. 
+From here, we can now define our supereconomy as **a system of resource allocation that is in line with the Tao or Dharma**. 
 
 The definition of the Tao or Dharma then depends on the kind of discrete entity described, whether it be a family, company, nation, or planet.
 

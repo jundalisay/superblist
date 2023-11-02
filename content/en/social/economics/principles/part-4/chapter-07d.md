@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 7d"
 title: "How Profit Maximization Led to the Great Depression"
-weight: 34
+weight: 40
 date: 2021-12-27
 # date: 2022-03-06
 image: /photos/econ/crash.jpg

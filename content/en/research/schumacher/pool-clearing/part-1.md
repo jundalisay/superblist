@@ -2,6 +2,7 @@
 heading: "Part 1"
 title: "How Multilateral Pool Clearing Can Solve Currency Crises and Bilaterialism"
 date: 2021-08-30
+weight: 2
 image: /photos/objects/ship.jpg
 description: "Multilateral Pool Clearing by EF Schumacher is the Free Trade Alternative to Bretton Woods and Regionalism as the EU and ASEAN"
 youtube: "H0tUf35JB44"
@@ -9,42 +10,55 @@ contributors: ['EF Schumacher']
 icon: /avatars/ef.png
 ---
 
-> This is the simplified version of [EF Schumacher's Multilateral Clearing](https://centerforneweconomics.org/publications/multilateral-clearing/) which was used by Keynes for his International Clearing Union and Bancor proposal in Bretton Woods, which were not accepted as they would regulate world trade. We build on Schumacher's ideas and merge them with those of Adam Smith to create a multilateral free trade system which is based on gold or grains, as an implmentation of cross-border [Supereconomics](/social/economics).
+> This is the simplified version of [Multilateral Clearing by EF Schumacher](https://centerforneweconomics.org/publications/multilateral-clearing/) which was used by Keynes for his International Clearing Union and Bancor proposal in Bretton Woods. It was not accepted as they would regulate world trade. We build on Schumacher's ideas and merge them with those of Adam Smith to create a multilateral free trade system which is based on gold or grains, as an implmentation of cross-border [Supereconomics](/social/economics).
 
-<br>
 
 {{< youtube -GRz8O-QD8Q >}}
 
-<br>
 
-There are advantages in settling international payments for goods and services by way of Clearing. 
+There are advantages in settling international payments for goods and services by through Clearing. 
 
-1. The importer in country A pays for the goods he buys from country B by handing over to the Clearing Authority in his own country a sum of A-money to discharge his debt
+1. The importer in `Country A` pays for the goods that he buys from `Country B` by handing over a sum of `A-money` to the `Country A Clearing Authority` in his own country to discharge his debt
 
-2. The exporter in country B receives from the Clearing Authority in his country an equivalent sum of B-money to satisfy his claim.
+2. The exporter in `Country B` receives from the `Country B Clearing Authority` in his country an equivalent sum of `B-money` to satisfy his claim.
 
 ![Pool transaction](https://sorasystem.sirv.com/charts/pool/poolab.png)
 
-It is easy to organise a clearing of this sort to cover the trade between any two countries. Clearing can settle payments for goods and services, patents and copyrights, dividend, interest and amortisation payments. These “bilateral clearings” tend to equalise the trade between the two countries by:
+<!-- It is easy to organise a clearing of this sort to cover the trade between any two countries.  -->
+
+This clearing can settle payments for:
+- goods and services,
+- patents and copyrights,
+- dividend,
+- interest and amortisation payments. 
+
+These “bilateral clearings” tend to equalise the trade between the two countries by:
 - stimulating the exports of the export-deficient country, or
 - curtailing the exports of the export-surplus country.
 
-A strict bilateral trading system has disadvantages. It would be better to have a multilateral trade where no country would need to balance its trade with any one particular country, but is free to buy even from countries which are not its customers and to sell even to countries from which it does not buy.
+A strict bilateral trading system has disadvantages. 
 
-**The question then arises: Can we have multilateral clearing?**
+It would be better to have a multilateral trade where no country would need to balance its trade with any one country. It would be free:
+- to buy from countries which are not its customers and
+- to sell even to countries from which it does not buy.
 
-Assume that there is only the US, Britain and Poland:
-- America sells more than she buys, as a surplus country
-- Britain sells just as much as she buys, as a balanced country
-- Poland buys more than she sells, as a deficit country.
+**Can we have multilateral clearing?**
+
+Assume that there are only 3 countries:
+
+Country | Status | Notes
+--- | --- | ---
+USA | surplus country | sells more than she buys
+Britain | balanced country | sells as much as she buys
+Poland | deficit country | buys more than she sells
 
 Multilateral clearing implies that Britain should have no balance or remaining obligations. But Britain is released from these obligations only if the Americans are prepared to exchange their GBP-balances for Britain’s PLN-balances. 
 
 Why should they be prepared to do this?
 
-GBP-balances (on our assumptions) are preferable to PLN-balances, because Britain has achieved “balance” in trade, while Poland is a deficit country.
+I assume that GBP-balances are preferable to PLN-balances because Britain has achieved “balance” in trade, while Poland is a deficit country.
 
-Why should the Americans exchange a better currency for one that is worse?
+Why should the Americans exchange a better currency for a worse one?
 
 **If they can be made to do so, then we can have multilateral clearing.**
 
@@ -52,15 +66,16 @@ Multilateral clearing exists in Europe. Germany forces the surplus countries to 
 - the countries which have achieved balance are relieved of all claims and liabilities from the bilateral clearings, and
 - the surplus countries simply remain as the creditors of the deficit countries.
 
-How can multilateral clearing be achieved without the application of force?
 
-**Through “Pool Clearing”:**
-- Every country sets up a National Clearing Fund*.
-- They agree on the rates of exchange by which each currency is to be related to all other currencies
-- Importers pay into their own National Clearing Fund using their own currency
-- The exporter's Clearing Fund is informed that payment has been received and pays the exporter
-- Each Clearing Fund thus receives and disburses only national currency
-  - It receives such currency from the home importers and disburses it to the home exporters.
+** Multilateral Clearing be achieved without the application of force, through “Pool Clearing”:**
+
+1. Every country sets up a National Clearing Fund*
+2. They agree on the exchange rates by which each currency is to be related to all other currencies
+3. Importers pay into their own National Clearing Fund using their own currency
+4. The exporter's Clearing Fund is informed that payment has been received and pays the exporter
+5. Each Clearing Fund thus receives and disburses only national currency. It receives such currency from the home importers and disburses it to the home exporters.
+
+{{< youtube LsWUjsr0paA >}}
 
 > *Schumacher Footnote: This paragraph merely states the theoretical principle of Pool Clearing. In practice, the channeling of all payments through the Clearing Fund can be made hardly noticeable to any individual trader. The established banks would be authorised to make and accept payments against documentary evidence and would merely settle the uncleared balance with the Clearing Fund. They would also continue to finance home importers and exporters in much the same way as before. Whether or not certain categories of in-payments or out-payments are to be made subject to special permit, is a question which every government has by itself. Any foreign exchange control is equally compatible with Pool Clearing.
 
@@ -95,7 +110,7 @@ This cannot be answered unless the time sequence of all individual transactions 
 
 **This is the decisive feature of “Pool Clearing”.**
 
-> *Superphysics Note: The balances lose their identity because currency destroys the traceability. Supereconomics uses agreements to maintain the identity and traceability to be able to disentangle world trade. If a country leaves the pool, then its promise-to-import will be enforced. Otherwise, the pool will absorb the loss.
+> *Superphysics Note: The balances lose their identity because currency destroys the traceability. Supereconomics uses points to maintain the identity and traceability to be able to disentangle world trade. If a country leaves the pool, then its promise-to-import will be enforced. Otherwise, the pool will absorb the loss.
 
 
 

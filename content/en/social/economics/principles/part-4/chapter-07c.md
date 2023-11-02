@@ -2,7 +2,7 @@
 title: "NDP: The Alternative to GDP"
 heading: "Chapter 7c"
 date: 2020-12-14
-weight: 32
+weight: 38
 image: /photos/grains.jpg
 description : "Supereconomics uses 2 measures combined to replace GDP as a measure of a country's wealth: Purchasing Power and the Grain Index"
 contributors: ['Juan']

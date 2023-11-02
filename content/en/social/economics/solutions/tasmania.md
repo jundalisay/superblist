@@ -23,15 +23,16 @@ Most articles point to [the decline of the forest-products industry](http://www.
 
 ### The Over-reliance on Forestry and Mining 
 
-From the perspective of ~~Socioeconomics~~ Economic Superphysics<!-- (our proposed alternative to Economics) -->, the most fundamental cause of Tasmania's weak economy is its over-reliance on what Adam Smith calls the 'industry of the country'. This industry is a broad category that relies mostly on natural resources <!-- or what he calls the rude produce of the soil --> -- agriculture , forestry, mining, fishing, etc. It naturally provides limited revenue.
+From the perspective of ~~Socioeconomics~~ Supereconomics (our proposed alternative to Economics), the most fundamental cause of Tasmania's weak economy is its over-reliance on what Adam Smith calls the 'industry of the country'. 
+
+This industry is a broad category that relies mostly on natural resources <!-- or what he calls the rude produce of the soil --> -- agriculture , forestry, mining, fishing, etc. It naturally provides limited revenue.
 
 {{< q a="Smith" >}}
 The nature of agriculture..does not admit of so many subdivisions of labour, nor of so complete a separation of one business from another, as manufactures. 
 {{< /q >}}
 
-{{< q a="Smith" >}}
+{{< q a="Smith" c="The Wealth of Nations Book 1, Chapter 1" >}}
 It is impossible to separate so entirely, the business of the grazier from that of the corn-farmer, as the trade of the carpenter is commonly separated from that of the smith... In agriculture, the labour of the rich country is not always much more productive than that of the poor; or, at least, it is never so much more productive, as it commonly is in manufactures.
-<cite>The Wealth of Nations Book 1, Chapter 1</cite>
 {{< /q >}}
 
 
@@ -41,10 +42,8 @@ A good stone quarry in..London would afford a considerable rent. In many parts o
 But in many parts of North America, the landlord would be much obliged to any body who would carry away the greater part of his large trees. In some parts of the highlands of Scotland the bark is the only part of the wood which, for want of roads and water-carriage, can be sent to market. The timber is left to rot upon the ground. 
 {{< /q >}}
 
-{{< q a="Smith" >}}
+{{< q a="Smith" c="The Wealth of Nations Book I, Chapter 11" >}}
 <!-- When the materials of lodging are so super-abundant, the part made use of is worth only the labour and expence of fitting it for that use. --> It affords no rent to the landlord.. The demand of wealthier nations, however, sometimes enables him to get a rent for it.. The woods of Norway..find a market in many parts of Great Britain<!--  which they could not find at home, and thereby afford some rent to their proprietors -->.
-
-<cite>The Wealth of Nations Book I, Chapter 11</cite>
 {{< /q >}}
 
 
@@ -52,13 +51,12 @@ But in many parts of North America, the landlord would be much obliged to any bo
 
 This, in addition to the dominance of big forestry and mining corporations, creates both the basic weakness and lack of sustainability of the Tasmanian economy.
 
-{{< q a="Smith" >}}
-The usual corporation spirit, wherever the law does not restrain it, prevails in all regulated companies. When they have been allowed to act according to their natural genius, they have always, in order to confine the competition to as small a number of persons as possible, endeavoured to subject the trade to many burden some regulations." 
-<cite>The Wealth of Nations Book V, Chapter 1</cite>
+{{< q a="Smith" c="The Wealth of Nations Book V, Chapter 1" >}}
+The usual corporation spirit, wherever the law does not restrain it, prevails in all regulated companies. When they have been allowed to act according to their natural genius, they have always, in order to confine the competition to as small a number of persons as possible, endeavoured to subject the trade to many burden some regulations.
 {{< /q >}}
 
 
-While Economics is ambiguous about the root causes of Tasmania's problems, ~~Socio-economics~~ Superphysics is not only clear, but also can offer the solutions needed to create the wanted effect of socio-economic strength.
+While Economics is ambiguous about the root causes of Tasmania's problems, ~~Socio-economics~~ Supereconomics is not only clear, but also can offer the solutions needed to create the wanted effect of socio-economic strength.
 
 
 {{< img src="http://socioecons.files.wordpress.com/2014/07/rudeadvancedcorn.png" cap="By choosing to focus largely on forestry and mining, instead of manufacturing and services, Tasmania has purposely limited its socio-economic development to the semi-rude state." >}}
@@ -81,6 +79,13 @@ The resources derived from the mining and forestry or the industry of the countr
 3. Foster socio-economic independence
 
 To counter the bad effects of big corporations, entrepreneurship should be encouraged. This can be done through the promotion by governmental agencies and the improvement of capital access. The government policies can be simplified and participation can be encouraged from all sectors, especially ordinary Tas citizens.
+
+{{< box >}}
+#### Update October 2023
+
+We suggest a [points-based economic system](https://www.pantrypoints.com) that will allow capitalization in kind.  
+{{< /box >}}
+
 
 4. Expand trade relations with markets in Australia and overseas to sell or dispose of the newly processed Tasmanian products
 

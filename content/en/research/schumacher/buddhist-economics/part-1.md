@@ -95,10 +95,9 @@ From the Buddhist point of view, two types of mechanisation must be clearly dist
 
 How to tell the one from the other?
 
-Ananda Coomaraswamy says that:
 
-{{< q >}}
-<p>The craftsman can always draw the delicate distinction between the machine and the tool. The carpet loom is a tool, a contrivance for holding warp threads at a stretch for the pile to be woven round them by the craftsmen’s fingers.     But the power loom is a machine, and its significance as a destroyer of culture lies in the fact that it does the essentially human part of the work.</p>
+{{< q a="Ananda Coomaraswamy" >}}
+The craftsman can always draw the delicate distinction between the machine and the tool. The carpet loom is a tool, a contrivance for holding warp threads at a stretch for the pile to be woven round them by the craftsmen’s fingers.     But the power loom is a machine, and its significance as a destroyer of culture lies in the fact that it does the essentially human part of the work.
 {{< /q >}}
 
 
@@ -109,10 +108,12 @@ Therefore, Buddhist economics must be very different from the economics of moder
 
 Character, at the same time, is formed primarily by a man’s work. Work, properly conducted in conditions of human dignity and freedom, blesses those who do it and equally their products.
 
-The Indian philosopher and economist J. C. Kumarappa sums it up:
+<!-- The Indian philosopher and economist  sums it up: -->
 
-{{< q >}}
-<p>If the nature of the work is properly appreciated and applied, it will stand in the same relation to the higher faculties as food is to the physical body. It nourishes and enlivens the higher man and urges him to produce the best he is capable of. It directs his free will along the proper course and disciplines the animal in him into progressive channels. It furnishes an excellent background for man to display his scale of values and develop his personality.</p>
+{{< q a="J. C. Kumarappa" >}}
+If the nature of the work is properly appreciated and applied, it will stand in the same relation to the higher faculties as food is to the physical body. It nourishes and enlivens the higher man and urges him to produce the best he is capable of. 
+
+It directs his free will along the proper course and disciplines the animal in him into progressive channels. It furnishes an excellent background for man to display his scale of values and develop his personality.
 {{< /q >}}
 
 
@@ -121,10 +122,12 @@ If a man has no chance of obtaining work he is in a desperate position, not simp
 A modern economist may engage in highly sophisticated calculations on whether full employment “pays” or whether it might be more “economic” to run an economy at less than full employment so as to insure a greater mobility of labour, a better stability of wages, and so forth.
 
 His fundamental criterion of success is simply the total quantity of goods produced during a given period of time.
-Professor Galbraith in The Affluent Society says:
 
-{{< q >}}
-<p>If the marginal urgency of goods is low then so is the urgency of employing the last man or the last million men in the labour force. If ... we can afford some unemployment in the interest of stability—a proposition, incidentally, of impeccably conservative antecedents—then we can afford to give those who are unemployed the goods that enable them to sustain their accustomed standard of living.</p>
+
+{{< q ="Professor Galbraith" c="The Affluent Society" >}}
+If the marginal urgency of goods is low then so is the urgency of employing the last man or the last million men in the labour force. 
+
+If ... we can afford some unemployment in the interest of stability—a proposition, incidentally, of impeccably conservative antecedents—then we can afford to give those who are unemployed the goods that enable them to sustain their accustomed standard of living.
 {{< /q >}}
 
 

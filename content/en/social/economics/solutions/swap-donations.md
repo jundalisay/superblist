@@ -11,9 +11,9 @@ icon: /icons/pantry.png
 
 The pandemic has forced many people out of jobs and livelihoods. This has then led governments to turn to give dole-outs, pandemic loans, and stimilus checks. 
 
-Those measures try to ease the present burdens by transferring it to the future, from the reasoning and hope that the pandemic will be gone by then. That would then allow economies to go back to normal and the debts to be repaid.
+Those measures try to ease the present burdens by transferring it to the future, from the hope that the pandemic will be gone by then. That would then allow economies to go back to normal and the debts to be repaid.
 
-However, [our model](/social/supersociology/precrisis-years)* from 2015 shows that <b>things will not get better anytime soon</b>. In fact, it's supposed to worsen as 2024 approaches**. This is currently proven with the Delta variant being worse than original Covid in terms of severity, and the Omicron variant being worse than Delta in terms of spread. 
+However, [our model](/social/supersociology/precrisis-years)* from 2015 shows that <b>things will not get better anytime soon</b>. In fact, it's supposed to worsen as 2024** approaches***. This is currently proven with the Delta variant being worse than original Covid in terms of severity, and the Omicron variant being worse than Delta in terms of spread. 
 
 
 
@@ -22,8 +22,10 @@ However, [our model](/social/supersociology/precrisis-years)* from 2015 shows th
 
 > **Update March 2022: This has been proven by the Russia-Ukraine War
 
+> **Update Oct 2023: This is strengthened by the Israel-Hamas War
 
-The proper policy* from 2020 would have been to hunker down instead of hoping for a short term recovery from pent-up demand. Massive dole-outs will just lead to a huge debt burden that cannot be paid on time. The debts serve the interest of the financial system which gains employment even during crises situations. 
+
+The proper policy* from 2020 would have been to hunker down instead of hoping for a short term recovery from pent-up demand. Massive dole-outs will just lead to a huge debt burden that cannot be paid on time. The debts serve the interests of the financial system which keeps its financiers employed even during crises. 
 
 > *To reduce inflation, cryptocurrencies should be banned
 
@@ -31,16 +33,13 @@ The proper policy* from 2020 would have been to hunker down instead of hoping fo
 
 For example, if a debt cannot be paid on time, then it is slapped with more interest charges or fees as a deterrent to late payments. This then leads to the very common phenomena of debt slavery, and even suicide from debt. 
 
-Metaphysically, a country commits suicide when its people revolt and replace a functioning government with a chaotic one, leading to civil war or invasion. 
+<!-- Metaphysically, a country commits suicide when its people revolt and replace a functioning government with a chaotic one, leading to civil war or invasion.  -->
 
-<br>
 
 ## Two Solutions: Donations in Kind and Swap Donations
 
-Instead of debt and dole-outs, the natural solution to such a dire economic situation is donatio*. In Superphysics, donation is the fourth revenue kind, as an improvement to Adam Smith's system:
+Instead of debt and dole-outs, the natural solution to such a dire economic situation is donation*. In Supereconomics, donation is the fourth revenue kind, as an improvement to Adam Smith's system:
 
-
-<br>
 
 Revenue | Caste | Socratic Class
 --- | --- | ---
@@ -76,7 +75,7 @@ For example, going to the office requires one to be in office clothes and have h
 
 We cannot expect our office clothes nor our home water lines to be donated. Instead we can get them from swap donations.
 
-Unlike a donation where the transaction is one way, a swap donations is a two-way transaction or exchange. In an ordinary donation, the donor (benefactor) gives to the beneficiary and gets nothing back. But in a swap donation, the donor gets some kind of product or service from the beneficiary. 
+Unlike a donation where the transaction is one way, a swap donations are a two-way transaction or exchange. In an ordinary donation, the donor (benefactor) gives to the beneficiary and gets nothing back. But in a swap donation, the donor gets some kind of product or service from the beneficiary. 
 
 A common example is our parents giving us food and housing in exchange for being good children. A child who disrespects his parents or does crime or drugs is kicked out of the house, ending the swap donations. 
 
@@ -99,5 +98,5 @@ However, their values are much below commercial prices. A swap donation with nor
 
 
 {{< mess >}}
-Both one-way and swap donations are implemented in Superphysics as ![Social Points](https://pantrypoints.com/circle)
+Both one-way and swap donations are implemented in Supereconomics as ![Donation Points](https://pantrypoints.com/circle)
 {{< /mess >}}

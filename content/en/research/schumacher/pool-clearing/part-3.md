@@ -2,7 +2,7 @@
 title: "How the National Clearing Fund Works"
 heading: "Part 3"
 # date: 2021-08-26
-weight: 5
+weight: 6
 image: /photos/objects/ship.jpg
 description: "The National Clearing Fund resolves trade ibalances"
 youtube: "H0tUf35JB44"
