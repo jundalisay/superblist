@@ -1,6 +1,6 @@
 ---
 heading: Chapter 2b
-title: "The Essentialities or Determinations of Reflection"
+title: "What is Identity?"
 weight: 10
 description: "Essence issues from being. Hence it is not immediately in and for itself but is a result of that movement. "
 author: Hegel
@@ -8,30 +8,59 @@ icon: /avatars/hegel.png
 image: /covers/science.png
 ---
 
-
-
-A. IDENTITY
+> *Superphysics Note: We replace 'being' with existence and 'instance' with time. 
 
 
 § 869
 
-1. Essence is simple immediacy as sublated immediacy. Its negativity is its being; it is self-equal in its absolute negativity, through which otherness and relation-to-other has vanished in its own self into pure equality-with-self. Essence is therefore simple identity with self.
+1. Essence is simple time as sublated time.
+
+Its negativity is its existence. It is self-equal in its absolute negativity.
+
+Through this absolute negativity otherness and relation-to-other has vanished in its own self into pure equality-with-self. 
+
+Essence is therefore simple identity with self.
+
 
 § 870
 
-2. This identity-with-self is the immediacy of reflection. It is not that equality-with-self that being or even nothing is, but the equality-with-self that has brought itself to unity, not a restoration of itself from an other, but this pure origination from and within itself, essential identity. 
+2. This identity-with-self is the time of reflection.
 
-Consequently, it is not abstract identity or has not arisen through a relative negating which had taken place outside it, merely separating off the distinguished moment but otherwise leaving it afterwards as simply affirmative [seiend] as it was before. 
+This identity-with-self is not that equality-with-self that is either existence or nothing. 
 
-On the contrary, being and every determinateness of being has sublated itself not relatively, but in its own self: and this simple negativity of being in its own self is identity itself. So far, then, identity is still in general the same as essence.
+This identity-with-self is the equality-with-self that has brought itself to **unity**.
+
+It is not a restoration of itself from an other.
+
+It is this pure origination from and within itself, essential identity. 
+
+Consequently, it is not abstract identity. It has not arisen through a relative negating from outside it.
+
+This relative negating is separating off the distinguished time, but otherwise leaving it afterwards as simply affirmative as it was before. 
+
+On the contrary, existence and every identification of existence  has sublated itself not relatively, but in its own self: and this simple negativity of being in its own self is identity itself. So far, then, identity is still in general the same as essence.
 
 
 
-Remark 1: Abstract Identity
+## Remark 1: Abstract Identity
 
 § 871
 
-Thinking that keeps to external reflection and knows of no other thinking but external reflection, fails to attain to a grasp of identity in the form just expounded, or of essence, which is the same thing. Such thinking always has before it only abstract identity, and apart from and alongside it, difference. In its opinion, reason is nothing more than a loom on which it externally combines and interweaves the warp, of say, identity, and then the woof of difference; or, also, again proceeding analytically, it now extracts especially identity and then also again obtains difference alongside it, is now a positing of likeness and then also again a positing of unlikeness — likeness when abstraction is made from difference, and unlikeness when abstraction is made from the positing of likeness. These assertions and opinions about what reason does must be completely set aside, since they are in a certain measure merely historical; the truth is rather that a consideration of everything that is, shows that in its own self everything is in its self-sameness different from itself and self-contradictory, and that in its difference, in its contradiction, it is self-identical, and is in its own self this movement of transition of one of these categories into the other, and for this reason, that each is in its own self the opposite of itself. The Notion of identity, that it is simple self-related negativity, is not a product of external reflection but has come from being itself. Whereas, on the contrary, that identity that is aloof from difference, and difference that is aloof from identity, are products of external reflection and abstraction, which arbitrarily clings to this point of indifferent difference.
+The kind of thinking that does only external reflection fails to grasp identity or essence, which is the same thing. 
+- Such thinking always has only abstract identity, and difference, alongside it.
+
+In its opinion, reason is just a loom on which it externally interweaves:
+- the warp of identity, and
+- the woof of difference.
+
+It extracts identity and then again obtains difference alongside it, is now a positing of likeness and then also again a positing of unlikeness — likeness when abstraction is made from difference, and unlikeness when abstraction is made from the positing of likeness. 
+
+These assertions and opinions about what reason does must be completely set aside, since they are in a certain measure merely historical; the truth is rather that a consideration of everything that is, shows that in its own self everything is in its self-sameness different from itself and self-contradictory, and that in its difference, in its contradiction, it is self-identical, and is in its own self this movement of transition of one of these categories into the other, and for this reason, that each is in its own self the opposite of itself. 
+
+The Notion of identity, that it is simple self-related negativity, is not a product of external reflection but has come from being itself. 
+
+Whereas, on the contrary, that identity that is aloof from difference, and difference that is aloof from identity, are products of external reflection and abstraction, which arbitrarily clings to this point of indifferent difference.
+
 
 § 872
 
@@ -92,17 +121,42 @@ What emerges from this consideration is, therefore, first, that the law of ident
 
 B. DIFFERENCE
 (a) Absolute Difference
+
 § 885
 
 Difference is the negativity which reflection has within it, the nothing which is said in enunciating identity, the essential moment of identity itself which, as negativity of itself, determines itself and is distinguished from difference.
 
+
 § 886
 
-1. This difference is difference in and for itself, absolute difference, the difference of essence. It is difference in and for itself, not difference resulting from anything external, but self-related, therefore simple difference. It is essential to grasp absolute difference as simple. In the absolute difference of A and not-A from each other, it is the simple not which, as such, constitutes it. Difference itself is the simple Notion. Two things are different, it is said, in that they, etc. 'In that' is, in one and the same respect, in the same ground of determination. It is the difference of reflection, not the otherness of determinate being. One determinate being and another determinate being are posited as falling apart, each of them, as determined against the other, has an immediate being for itself. The other of essence, on the contrary, is the other in and for itself, not the other as other of an other, existing outside it but simple determinateness in itself. In the sphere of determinate being, too, otherness 'and determinateness proved to be of this nature, to be simple determinateness, identical opposition; but this identity revealed itself only as the transition of one determinateness into the other. Here, in the sphere of reflection, difference appears as reflected difference, which is thus posited as it is in itself.
+1. This difference is difference in and for itself, absolute difference, the difference of essence. 
+
+It is difference in and for itself, not difference resulting from anything external, but self-related, therefore simple difference. It is essential to grasp absolute difference as simple. In the absolute difference of A and not-A from each other, it is the simple not which, as such, constitutes it. 
+
+Difference itself is the simple Notion.
+
+Two things are different, it is said, in that they, etc. 'In that' is, in one and the same respect, in the same ground of determination. 
+
+It is the difference of reflection, not the otherness of determinate being. One determinate being and another determinate being are posited as falling apart, each of them, as determined against the other, has an immediate being for itself. 
+
+The other of essence, on the contrary, is the other in and for itself, not the other as other of an other, existing outside it but simple determinateness in itself. 
+
+In the sphere of determinate being, too, otherness 'and determinateness proved to be of this nature, to be simple determinateness, identical opposition; but this identity revealed itself only as the transition of one determinateness into the other.
+
+Here, in the sphere of reflection, difference appears as reflected difference, which is thus posited as it is in itself.
 
 § 887
 
-2. Difference in itself is self-related difference; as such, it is the negativity of itself, the difference not of an other, but of itself from itself; it is not itself but its other. But that which is different from difference is identity. Difference is therefore itself and identity. Both together constitute difference; it is the whole, and its moment. It can equally be said that difference, as simple, is no difference; it is this only when it is in relation with identity; but the truth is rather that, as difference, it contains equally identity and this relation itself. Difference is the whole and its own moment, just as identity equally is its whole and its moment. This is to be considered as the essential nature of reflection and as the specific, original ground of all activity and self-movement. Difference and also identity, make themselves into a moment or a positedness because, as reflection, they are negative relation-to-self.
+2. Difference in itself is self-related difference; as such, it is the negativity of itself, the difference not of an other, but of itself from itself; it is not itself but its other.
+
+But that which is different from difference is identity. Difference is therefore itself and identity. 
+
+Both together constitute difference; it is the whole, and its moment. It can equally be said that difference, as simple, is no difference; it is this only when it is in relation with identity; but the truth is rather that, as difference, it contains equally identity and this relation itself. 
+
+Difference is the whole and its own moment, just as identity equally is its whole and its moment. This is to be considered as the essential nature of reflection and as the specific, original ground of all activity and self-movement. 
+
+Difference and also identity, make themselves into a moment or a positedness because, as reflection, they are negative relation-to-self.
+
 
 § 888
 
@@ -110,6 +164,6 @@ Difference as thus unity of itself and identity, is in its own self determinate 
 
 § 889
 
-3. Difference possesses both moments, identity and difference; both are thus a positedness, a determinateness. But in this positedness each is self-relation. One of them, identity, is itself immediately the moment of reflection-into-self; but equally, the other is difference, difference in itself, reflected difference. Difference, in that it has two moments that are themselves reflections-into-self, is diversity.
+3. Difference possesses both moments, identity and difference; both are thus a positedness, a determinateness. 
 
-
+But in this positedness each is self-relation. One of them, identity, is itself immediately the moment of reflection-into-self. But equally, the other is difference, difference in itself, reflected difference. Difference, in that it has two moments that are themselves reflections-into-self, is diversity.

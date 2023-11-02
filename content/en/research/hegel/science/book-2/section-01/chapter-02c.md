@@ -12,7 +12,9 @@ image: /covers/science.png
 
 § 890
 
-1. Identity falls apart within itself into diversity because, as absolute difference, it posits itself as its own negative within itself, and these its moments, namely, itself and the negative of itself, are reflections-into-self, are self-identical; or, in other words, precisely because identity itself immediately sublates its negating and in its determination is reflected into itself.
+1. Identity falls apart within itself into diversity because, as absolute difference, it posits itself as its own negative within itself, and these its moments, namely, itself and the negative of itself, are reflections-into-self, are self-identical; 
+
+In other words, precisely because identity itself immediately sublates its negating and in its determination is reflected into itself.
 
 The distinguished terms subsist as indifferently different towards one another because each is self-identical, because identity constitutes its ground and element; in other words, the difference is what it is, only in its very opposite, in identity.
 

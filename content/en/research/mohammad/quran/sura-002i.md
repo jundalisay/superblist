@@ -15,38 +15,43 @@ Do not follow the footsteps of Satan.
 
 {{< s v="210" >}} Are they waiting for Allah Himself to come to them in the shadows of the clouds, together with the angels, and thus the matter is settled? 
 
-{{< s v="211" >}} Ask the Jews how many clear signs We have given them. Whoever alters the blessing of Allah after it has come to
-him—Allah is severe in retribution.
+{{< s v="211" >}} Ask the Jews how many clear signs We have given them. Whoever alters the blessing of Allah after it has come to him—Allah is severe in retribution.
 
-{{< s v="212" >}} Beautified is the life of this world for those who disbelieve, and they ridicule those who believe. But the righteous will be above them on the Day of Resurrection. Allah provides to whomever He wills without measure.
+{{< s v="212" >}} Beautified is the life of this world for those who disbelieve, and they ridicule those who believe. But the righteous will be above them on the Day of Resurrection. 
+
+<!-- Allah provides to whomever He wills without measure. -->
 
 {{< s v="213" >}} Humanity used to be one community. 
 - Then Allah sent the prophets, the Scripture and the truth, bringing good news and giving warnings to judge between people regarding their differences. 
 
 But none differed over it except those who were given it—after the proofs had come to them—out of mutual envy between them. 
 
-Then Allah guided those who believed to the truth they had disputed, in accordance with His will. Allah guides whom He wills to a straight path.
+Then Allah guided those who believed to the truth they had disputed, in accordance with His will. 
 
 
-{{< s v="214" >}} Or do you expect to enter Paradise before the example of those who came before you had reached you? Adversity and hardship
-had afflicted them, and they were so shaken up, that the Messenger and those who believed with him said, “When is Allah’s victory?” Indeed, Allah’s victory is near.
+{{< s v="214" >}} Or do you expect to enter Paradise before the example of those who came before you had reached you?
 
-{{< s v="215" >}} They ask you what they should give. Say, “Whatever charity you give is for the parents, and the relatives, and the orphans, and the
-poor, and the wayfarer. Whatever good you do, Allah is aware of it.
+Adversity and hardship had afflicted them. They were so shaken up, that the Messenger and those who believed with him said, “When is Allah’s victory?” 
+
+Allah’s victory is near.
+
+{{< s v="215" >}} They ask you what they should give.
+
+Say, “Whatever charity you give is for the parents, and the relatives, and the orphans, and the poor, and the wayfarer. Whatever good you do, Allah is aware of it.
 
 {{< s v="216" >}} Fighting is ordained for you, even though you dislike it. 
 - You might dislike something while it is good for you.
 - You might like something while it is bad for you.
 
-217. They ask you about fighting during the Holy Month. Say, “Fighting during it is deplorable; but to bar others from Allah’s path,
-and to disbelieve in Him, and to prevent access to the Holy Mosque, and to expel its peo-
-ple from it, are more deplorable with Allah.
+{{< s v="217" >}} They ask you about fighting during the Holy Month. 
+
+Say, “Fighting during it is deplorable. But to bar others from Allah’s path, and to disbelieve in Him, and to prevent access to the Holy Mosque, and to expel its people from it, are more deplorable with Allah.
 
 Persecution is more serious than killing.
 
 They will not cease to fight you until they turn you back from your religion, if they can.
-Whoever among you turns back from his religion, and dies a disbeliever—those are they whose works will come to nothing, in this life,
-and in the Hereafter. 
+
+Whoever among you turns back from his religion, and dies a disbeliever—those are they whose works will come to nothing, in this life, and in the Hereafter. 
 
 Those are the inmates of the Fire, abiding in it forever.
 

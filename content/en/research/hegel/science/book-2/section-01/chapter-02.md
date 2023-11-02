@@ -74,5 +74,3 @@ But lastly, although the determinations of reflection have the form of equality-
 § 868
 
 If everything is identical with itself, then it is not different, not opposed, has no ground. Or, if it is assumed that no two things are the same, that is, everything is different from everything else, then A is not equal to A, nor is A opposed to A, and so on. The assumption of any of these propositions rules out the assumption of the others. The thoughtless consideration of them enumerates them one after the other, so that there does not appear to be any relation between them; it has in mind merely their reflectedness-into-self, ignoring their other moment, positedness or their determinateness as such which sweeps them on into transition and into their negation.
-
-

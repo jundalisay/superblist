@@ -13,16 +13,28 @@ image: /covers/science.png
 
 § 908
 
-In opposition, the determinate rejection, difference, finds its completion. It is the unity of identity and difference; its moments are different in one identity and thus are opposites.
+In opposition, the determinate rejection, difference, finds its completion. 
+
+It is the unity of identity and difference; its moments are different in one identity and thus are opposites.
 
 
 § 909
 
-Identity and difference are the moments of difference held within itself; they are reflected moments of its unity. But likeness and unlikeness are the self-alienated reflection; their self-identity is not merely the indifference of each towards the other distinguished from it, but towards being-in-and-for-self as such, an identity-with-self over against the identity that is reflected into itself; it is therefore the immediacy that is not reflected into itself. The positedness of the sides of the external reflection is accordingly a being, just as their non-positedness is a non-being.
+Identity and difference are the moments of difference held within itself.
+
+They are reflected moments of its unity. 
+
+But likeness and unlikeness are the self-alienated reflection. Their self-identity is not merely the indifference of each towards the other distinguished from it, but towards being-in-and-for-self as such, an identity-with-self over against the identity that is reflected into itself.
+
+It is therefore the immediacy that is not reflected into itself. The positedness of the sides of the external reflection is accordingly a being, just as their non-positedness is a non-being.
 
 § 910
 
-Closer consideration shows the moments of opposition to be positedness reflected into itself or determination in general. Positedness is likeness and unlikeness; these two reflected into themselves constitute the determinations of opposition. Their reflection-into-self consists in this, that each is in its own self the unity of likeness and unlikeness. Likeness is only in the reflection that compares on the basis of unlikeness, and therefore is mediated by its other, indifferent moment; similarly, unlikeness is only in the same reflective relationship in which likeness is. Therefore each of these moments is, in its determinateness, the whole. It is the whole in so far as it also contains its other moment; but this its other is an indifferent, simple affirmative moment; thus each contains reference to its non-being, and is only reflection-into-self or the whole, as essentially connected with its non-being.
+Closer consideration shows the moments of opposition to be positedness reflected into itself or determination in general. 
+
+Positedness is likeness and unlikeness; these two reflected into themselves constitute the determinations of opposition. Their reflection-into-self consists in this, that each is in its own self the unity of likeness and unlikeness. 
+
+Likeness is only in the reflection that compares on the basis of unlikeness, and therefore is mediated by its other, indifferent moment; similarly, unlikeness is only in the same reflective relationship in which likeness is. Therefore each of these moments is, in its determinateness, the whole. It is the whole in so far as it also contains its other moment; but this its other is an indifferent, simple affirmative moment; thus each contains reference to its non-being, and is only reflection-into-self or the whole, as essentially connected with its non-being.
 
 § 911
 
@@ -54,4 +66,14 @@ The negative, as such absolute reflection, is not the immediate negative but the
 
 § 918
 
-The positive and negative are therefore not merely implicitly [an sich] positive and negative, but explicitly and actually so [an undfiir sich]. They are implicitly positive and negative in so far as one makes abstraction from their exclusive relation to other and only takes them in accordance with their determination. Something is in itself positive or negative when it is supposed to be so determined not merely relatively to an other. But when the positive and negative are taken, not as positedness, and therefore not as opposites, then each is the immediate, being and non-being. But the positive and negative are moments of opposition; their in-itself constitutes merely the form of their reflectedness-intoself. Something is in itself positive, apart from the relation to the negative; and something is in itse@ negative, apart from the relation to the positive;' in this determination, one clings merely to the abstract moment of this reflectedness. But the positive or negative in itse@ essentially implies that to be an opposite is not merely a moment, does not stem from comparison, but is a determination belonging to the sides of the opposition themselves. They are therefore not positive or negative in themselves apart from the relation to other; on the contrary, this relation-an exclusive relation-constitutes their determination or in-itself; in it, therefore, they are at the same time explicitly and actually [an undfiir sichl positive or negative.
+The positive and negative are therefore not merely implicitly [an sich] positive and negative, but explicitly and actually so [an undfiir sich].
+
+They are implicitly positive and negative in so far as one makes abstraction from their exclusive relation to other and only takes them in accordance with their determination. Something is in itself positive or negative when it is supposed to be so determined not merely relatively to an other. But when the positive and negative are taken, not as positedness, and therefore not as opposites, then each is the immediate, being and non-being. 
+
+But the positive and negative are moments of opposition; their in-itself constitutes merely the form of their reflectedness-intoself. 
+
+Something is in itself positive, apart from the relation to the negative; and something is in itse@ negative, apart from the relation to the positive;' in this determination, one clings merely to the abstract moment of this reflectedness. 
+
+But the positive or negative in itse@ essentially implies that to be an opposite is not merely a moment, does not stem from comparison, but is a determination belonging to the sides of the opposition themselves. 
+
+They are therefore not positive or negative in themselves apart from the relation to other; on the contrary, this relation-an exclusive relation-constitutes their determination or in-itself; in it, therefore, they are at the same time explicitly and actually [an undfiir sichl positive or negative.

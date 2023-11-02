@@ -1,6 +1,6 @@
 ---
 heading: Section 1c
-title: "C. Reflection"
+title: "Reflection"
 weight: 6
 description: "Essence issues from being. Hence it is not immediately in and for itself but is a result of that movement. "
 author: Hegel
@@ -8,19 +8,30 @@ icon: /avatars/hegel.png
 image: /covers/science.png
 ---
 
+> *Superphysics Note: We replace 'being' with existence and 'instance' with time. 
 
 
-Essence, Illusory Being
+<!-- Essence, Illusory Being
 
-C. REFLECTION
+C. REFLECTION -->
 
 § 833
 
-Illusory being is the same thing as reflection; but it is reflection as immediate. For illusory being that has withdrawn into itself and so is estranged from its immediacy, we have the foreign word reflection.
+Illusory existence is the same thing as reflection. But it is immediate reflection. 
+
+Reflection is the illusory existence that has withdrawn into itself and so is estranged from its time.
+
+<!-- , we have the foreign word . -->
 
 § 834
 
-Essence is reflection, the movement of becoming and transition that remains internal to it, in which the differentiated moment is determined simply as that which in itself is only negative, as illusory being. At the base of becoming in the sphere of being, there lies the determinateness of being, and this is relation to other. The movement of reflection, on the other hand, is the other as the negation in itself, which has a being only as self-related negation. Or, since the self-relation is precisely this negating of negation, the negation as negation is present in such wise that it has its being in its negatedness, as illusory being. Here, therefore, the other is not being with a negation, or limit, but negation with the negation. But the first, over against this other, the immediate or being, is only this very equality of the negation with itself, the negated negation, absolute negativity. This equality with itself, or immediacy, is consequently not a first from which the beginning was made and which passed over into its negation; nor is it an affirmatively present substrate that moves through reflection; on the contrary, immediacy is only this movement itself.
+Essence is reflection. It is the movement of becoming and transition that remains internal to it, in which the differentiated moment is determined simply as that which in itself is only negative, as illusory existence.
+
+At the base of becoming in the sphere of existence, there lies the idenity of existence, and this is relation to other. 
+
+The movement of reflection, on the other hand, is the other as the negation in itself, which has a being only as self-related negation.
+
+Or, since the self-relation is precisely this negating of negation, the negation as negation is present in such wise that it has its being in its negatedness, as illusory being. Here, therefore, the other is not being with a negation, or limit, but negation with the negation. But the first, over against this other, the immediate or being, is only this very equality of the negation with itself, the negated negation, absolute negativity. This equality with itself, or immediacy, is consequently not a first from which the beginning was made and which passed over into its negation; nor is it an affirmatively present substrate that moves through reflection; on the contrary, immediacy is only this movement itself.
 
 § 835
 
