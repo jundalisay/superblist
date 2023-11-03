@@ -7,7 +7,7 @@ image: /covers/essays.jpg
 # https://sorasystem.sirv.com/photos/medieval/nationalism.jpg"
 weight: 46
 contributors: ['Hume']
-icons: /icons/hume.png
+icons: /avatars/hume.png
 ---
 
 

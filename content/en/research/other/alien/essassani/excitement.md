@@ -181,3 +181,5 @@ Get into the Mind-Set of the new Belief.
 Get into the Emotional-Feeling State of the new Belief.
 
 Get into the Body-Language and Actions of the new Belief.
+
+

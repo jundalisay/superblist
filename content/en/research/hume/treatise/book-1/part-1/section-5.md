@@ -5,7 +5,7 @@ weight: 12
 image: /covers/treatise.png
 description: "Complex Ideas are Connected by Seven Kinds of Philosophical Relations"
 contributors: ['Hume']
-icon: /icons/hume.png
+icon: /avatars/hume.png
 ---
 
 

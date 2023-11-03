@@ -5,7 +5,7 @@ weight: 2
 image: /covers/treatise.png
 description: "The Limitation of the Mind Limits our Cognition of the Existence of Objects"
 contributors: ['Hume']
-icon: /icons/hume.png
+icon: /avatars/hume.png
 ---
 
 
@@ -97,6 +97,7 @@ We take the impressions of those minute objects to be equal to the objects.
 We find by reason that there are other objects vastly more minute.
 
 We too hastily conclude that these more minute objects are inferior to any idea of our imagination or impression of our senses.
+
 We can create ideas no greater than the smallest atom of the animal spirits of an insect 1,000 times smaller than a mite.
 
 We should rather conclude, that the difficulty lies in enlarging our conceptions to create a just notion of a mite or an insect 1,000 times smaller than a mite.

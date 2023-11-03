@@ -5,7 +5,7 @@ description: "Are Humans Inherently Good or Bad?"
 image: /covers/essays.jpg
 weight: 22
 contributors: ['Hume']
-icons: /icons/hume.png
+icons: /avatars/hume.png
 --- 
 
 

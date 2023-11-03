@@ -5,7 +5,7 @@ description: "Political writers have  a maxim: In contriving any system of gover
 image: /covers/essays.jpg
 weight: 12
 contributors: ['Hume']
-icons: /icons/hume.png
+icons: /avatars/hume.png
 ---
 
 

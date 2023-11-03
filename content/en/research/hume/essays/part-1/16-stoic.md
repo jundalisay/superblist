@@ -5,7 +5,7 @@ description: "The Stoic"
 image: /covers/essays.jpg
 weight: 34
 contributors: ['Hume']
-icons: /icons/hume.png
+icons: /avatars/hume.png
 --- 
 
 <!-- There is this obvious and material difference in the conduct of nature, with regard to man and other animals -->

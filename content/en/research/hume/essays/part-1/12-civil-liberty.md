@@ -5,7 +5,7 @@ description: "Civil Liberty"
 image: /covers/essays.jpg
 weight: 24
 contributors: ['Hume']
-icons: /icons/hume.png
+icons: /avatars/hume.png
 --- 
 
 

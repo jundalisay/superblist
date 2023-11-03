@@ -5,7 +5,7 @@ description: "Three reasons against superstition"
 image: /covers/essays.jpg
 weight: 20
 contributors: ['Hume']
-icons: /icons/hume.png
+icons: /avatars/hume.png
 --- 
 
 

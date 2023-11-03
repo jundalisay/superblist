@@ -5,7 +5,7 @@ weight: 10
 image: /covers/treatise.png
 description: "The Idea of Space is Just Made Up of Points"
 contributors: ['Hume']
-icon: /icons/hume.png
+icon: /avatars/hume.png
 ---
 
 
@@ -46,6 +46,8 @@ conceive the matter according to their hypothesis, or
 imagine the room's floor, roof, and walls, to touch each other.
 If you change their position, then you suppose a motion.
 But as we stay strictly with annihilation and no motion, the result would be a vacuum and not a contact of parts.
+
+
 3. The idea of a vacuum is real and possible, necessary and unavoidable.
 
 This assertion is founded on the motion of bodies.
@@ -273,54 +275,80 @@ we can never pretend to know body otherwise than by those external properties di
 People might attempt anything further.
 
 But I cannot approve of it until I see someone who has succeeded.
+
 Presently, I content myself with knowing perfectly:
-how objects affect my senses, and
-their connections with each other, as far as experience informs me of them.
+- how objects affect my senses, and
+- their connections with each other, as far as experience informs me of them.
+
 This is enought for the conduct of life.
+
 This is also enough for my philosophy, which only explains the nature and causes of our perceptions [Footnote 4].
-Footnote 4
+
+{{< box >}}
+### Footnote 4
 
 As long as we confine our speculations to the appearances of objects to our senses, without entering into a long essay about their real nature and operations, we:
-are safe from all difficulties, and
-can never be embarrassed by any question.
+- are safe from all difficulties, and
+- can never be embarrassed by any question.
+
 Thus, if asked whether the invisible distance between two objects is something or nothing, it is easy to answer that it is something, namely a property of the objects which affect the senses
+
 If asked whether two objects with a distance between them touch or not, it may be answered that this depends on the definition of touch.
+
 Objects touch if they touch when there is nothing sensible between them.
+
 Objects do not touch, when:
-their images strike contiguous parts of the eye, and
-the hand feels both objects successively, without any interposed motion.
+- their images strike contiguous parts of the eye, and
+- the hand feels both objects successively, without any interposed motion.
+
 The appearances of objects to our senses are all consistent.
+
 No difficulties can ever arise, but from the obscurity of the terms we use.
+{{< /box >}}
+
+
 If we carry our inquiry beyond the appearances of objects to the senses, most of our conclusions will be full of skepticism and uncertainty.
+
 There are no very decisive arguments on either side, if asked whether the invisible and intangible distance is always full of:
-body, or
-something that might become visible or tangible by an improvement of our organs.
+- body, or
+- something that might become visible or tangible by an improvement of our organs.
+
 I am inclined to the contrary opinion as being more suitable to vulgar and popular notions.
+
 If the Newtonian philosophy is rightly understood, it will be found to mean no more.
+
 It asserts that a vacuum is where bodies are placed in such a way to receive bodies between them, without impulsion or penetration.
+
 The real nature of this position of bodies is unknown.
+
 We are only acquainted with its:
-effects on the senses, and
-power of receiving body.
+- effects on the senses, and
+- power of receiving body.
+
 The following are most suitable to that philosophy:
-a modest skepticism, and
-a fair confession of ignorance in subjects that exceed all human capacity.
+- a modest skepticism, and
+- a fair confession of ignorance in subjects that exceed all human capacity.
+
 The foregoing reasoning will explain a paradox: if 'vacuum' is the name of the invisible and intangible distance, then space and matter are the same.
 
 Yet there is a vacuum.
-If you do not call the invisible and intangible distance as a 'vacuum', then motion is possible in a plenum without any impulse to infinity, without penetration and without returning in a circle.
-We must always confess that we have no idea of any real space without:
 
-filling it with sensible objects, and
-conceiving its parts as visible or tangible.
+If you do not call the invisible and intangible distance as a 'vacuum', then motion is possible in a plenum without any impulse to infinity, without penetration and without returning in a circle.
+
+We must always confess that we have no idea of any real space without:
+- filling it with sensible objects, and
+- conceiving its parts as visible or tangible.
+
 The doctrine, that time is nothing but how some real objects exist, is liable to the same objections as the similar doctrine on space.
 
 If we have the idea of a vacuum because we reason on it, we must also have the idea of time without any changeable existence, since time is the most frequent and common subject of dispute.
+
 But we really have no such idea.
+
 Where should we derive time from?
-Does it arise from an impression of:
-sensation? or
-reflection?
+
+Does it arise from an impression of sensation or reflection?
+
 Point it out distinctly to us, that we may know its nature and qualities.
 
 But if you cannot point it out, you are certainly mistaken when you imagine you have any such idea.

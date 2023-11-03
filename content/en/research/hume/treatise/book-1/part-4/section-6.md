@@ -5,7 +5,7 @@ weight: 35
 image: /covers/treatise.png
 description: "Complex Ideas are Connected by Seven Kinds of Philosophical Relations"
 contributors: ['Hume']
-icon: /icons/hume.png
+icon: /avatars/hume.png
 ---
 
 
@@ -113,5 +113,3 @@ What then gives us so great a propension to:
 To answer this question, we must distinguish between personal identity regarding:
 - our thought or imagination, and
 - our passions or our concern for ourselves.
-
-

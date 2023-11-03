@@ -5,7 +5,7 @@ description: "The Difference in the feelings of the ancients and modersn lead to
 image: /covers/morals.png
 weight: 34
 contributors: ['Hume']
-icons: /icons/hume.png
+icons: /avatars/hume.png
 date:   "2020-06-16"
 --- 
 
@@ -43,8 +43,13 @@ But if by convention be meant a sense of common interest, which sense each man f
 
 Thus, two men pull the oars of a boat by common convention for common interest, without any promise or contract; thus gold and silver are made the measures of exchange; thus speech and words and language are fixed by human convention and agreement. Whatever is advantageous to two or more persons, if all perform their part; but what loses all advantage if only one perform, can arise from no other principle There would otherwise be no motive for any one of them to enter into that scheme of conduct.
 
-{{ <  box > }}
-[Footnote=  This theory concerning the origin of property, and consequently of justice, is, in the main, the same with that hinted at and adopted by Grotius, 'Hinc discimus, quae fuerit causa, ob quam a primaeva communione rerum primo mobilium, deinde et immobilinm discessum est=  nimirum quod cum non contenti homines vesci sponte natis, antra habitare, corpore aut nudo agere, aut corticibus arborum ferarumve pellibus vestito, vitae genus exquisitius delegissent, industria opus
+{{<  box >}}
+
+## Footnote
+
+This theory on the origin of property, and consequently of justice, is, in the main, the same with that hinted at and adopted by Grotius
+
+<!-- , 'Hinc discimus, quae fuerit causa, ob quam a primaeva communione rerum primo mobilium, deinde et immobilinm discessum est nimirum quod cum non contenti homines vesci sponte natis, antra habitare, corpore aut nudo agere, aut corticibus arborum ferarumve pellibus vestito, vitae genus exquisitius delegissent, industria opus
 fuit, quam singuli rebus singulls adhiberent. Quo minus autem fructus
 in commune conferrentur, primum obstitit locorum, in quae homines
 discesserunt, distantia, deinde justitiae et amoris defectus, per quem
@@ -54,8 +59,9 @@ iverint; non animi actu solo, neque enim scire alii poterant, quid alil
 suum esse vellent, ut eo abstinerent, et idem velle plures poterant;
 sed pacto quodam aut expresso, ut per divisionem, aut tacito, ut per
 occupationem.' De jure belli et pacis. Lib. ii. cap. 2. sec. 2. art. 4
-and 5.]
-{{ <  /box > }}
+and 5.] -->
+
+{{<  /box >}}
 
 
 

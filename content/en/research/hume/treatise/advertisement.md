@@ -4,7 +4,7 @@ weight: 1
 description: "Advertisement Treatise of Human Nature"
 image: "/covers/treatise.png"
 contributors: ['Hume']
-icon: /icons/hume.png
+icon: /avatars/hume.png
 ---
 
 

@@ -24,7 +24,7 @@ Special Relativity has rendered the Maxwell-Lorentz theory so plausible.<!-- , t
 Examples are the motions of electrons and ions. For slower motions*, the variations from the laws of classical mechanics are too small to be evident. We shall consider the motion of stars later in General Relativity.
 
 
-![Einstein Con-man](/avatars/einbla.png)
+![Einstein Con-man](/icons/einbla.png)
 
 > *Superphysics Note=: Here, Einstein says his theory only works for fast-moving objects. This is false. In reality, it only works for electromagnetic particles. <b>Speed has nothing to do with it.</b> This is proven by the Aharonov-Bohm experiment. Instead, it is the layer of the particle that decides whether it follows Special Relativity or not. 
 

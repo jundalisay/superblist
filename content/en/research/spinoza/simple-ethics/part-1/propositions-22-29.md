@@ -3,7 +3,7 @@ title: "Propositions 22 to 29"
 weight: 8
 contributors: ['Spinoza']
 image: "/covers/ethics.jpg"
-icon: "/avatars/spinoza.png"
+icon: "/icons/spinoza.png"
 description: "Whatsoever follows from any attribute of God, in so far as it is modified by a modification, which exists necessarily and as infinite"
 ---
 

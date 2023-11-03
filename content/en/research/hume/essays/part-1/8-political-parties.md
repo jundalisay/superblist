@@ -5,7 +5,7 @@ description: "Of all men, that distinguish themselves by memorable achievements,
 image: /covers/essays.jpg
 weight: 16
 contributors: ['Hume']
-icons: /icons/hume.png
+icons: /avatars/hume.png
 --- 
 
 

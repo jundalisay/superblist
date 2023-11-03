@@ -5,7 +5,7 @@ description: "The most surprizing about human affairs is the ease with which the
 image: /covers/essays.jpg
 weight: 8
 contributors: ['Hume']
-icons: /icons/hume.png
+icons: /avatars/hume.png
 --- 
 
 

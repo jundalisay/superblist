@@ -26,17 +26,18 @@ Both in classical mechanics and in special relativity, we differentiate between:
 
 **But why are relativistic viewpoints more important than non-relativistic viewpoints?** * <!-- reference-bodies (or their states of motion) given priority over other reference-bodies (or their states of motion) -->
 
-![Einstein Con-man](/avatars/einbla.png)
+![Einstein Con-man](/icons/einbla.png)
 
 > *Superphysics Note: No, they are not more important or have more priority to Nature. All reference-bodies or viewpoints are of equal importance!
 
 
 A gas range has two identical pots with water. Steam is being emitted continuously from Pot A which is on a flame, but not from Pot B which has no flame. <!-- I am surprised at this, even if I have never seen either a gas range or a pan before. But if I now notice a luminous something of bluish colour under the first pan but not under the other, I cease to be astonished, even if I have never before seen a gas flame.  --> I can see that the flame causes steam. If both have no flame but Pot A still gives steam, then I will be puzzled.
+
 <!-- For I can only say that this bluish something will cause the emission of the steam, or at least possibly it may do so. If, however, I notice the bluish something in neither case, and if I observe that the one continuously emits steam whilst the other does not, then I shall remain astonished and dissatisfied until I have discovered some circumstance to which I can attribute the different behaviour of the two pans. -->
 
 Similarly, I seek in vain for a real something in classical mechanics or special relativity which causes gravity <!--  to which I can attribute --> which creates the different behaviour of bodies from <!-- with respect to the --> viewpoints `K` [inside the box] and `K'`* [outside the box]. 
 
-![Einstein Con-man](/avatars/einbla.png)
+![Einstein Con-man](/icons/einbla.png)
 
 > **Einstein Note: The objection is most important when the motion of the viewpoint is inherent<!-- . reference-body is of such a nature that it does not require any external agency for its maintenance, --> e.g. when the viewpoint is rotating uniformly.
 

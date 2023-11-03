@@ -62,7 +62,7 @@
 
 
 .aris, .Aristotle {
-  background-image: url(/avatars/aris.png) !important;
+  background-image: url(/icons/aris.png) !important;
 }
 
 .Aristoteles, .Companion {
@@ -74,7 +74,7 @@
 }
 
 .Bacon, .Francis-Bacon {
-  background-image: url(/avatars/bacon.png) !important;
+  background-image: url(/icons/bacon.png) !important;
 }
 
 .Krishna {
@@ -100,9 +100,9 @@
 
 .einbla, .einblah, .Einstein-sophist {background-image: url(/icons/einbla.png);}
 
-.hume, .Hume, .David-Hume {background-image: url(/icons/hume.png);}
+.hume, .Hume, .David-Hume {background-image: url(/avatars/hume.png);}
 
-.ibn, .Ibn-Khaldun {background-image: url(/avatars/ibn.jpg);}
+.ibn, .Ibn-Khaldun {background-image: url(/icons/ibn.jpg);}
 
 .Jews {background-image: url(/icons/il.png);}
 
@@ -126,7 +126,7 @@
 
 .newton, .Newton {background-image: url(/icons/newton.png);}
 
-.quesnay, .Quesnay {background-image: url(/avatars/quesnay.png);}
+.quesnay, .Quesnay {background-image: url(/icons/quesnay.png);}
 
 .rama, .Ramakrishna {background-image: url(/avatars/rama.jpg);}
 
@@ -138,13 +138,13 @@
 
 .Rizal {background-image: url(/icons/rizal.png);}
 
-.say, .Say {background-image: url(/icons/say.jpg);}
+.say, .Say {background-image: url(/avatars/say.png);}
 
 .sam, .Samuelson {background-image: url(/icons/sam.png);}
 
 .Sarkar, .PR-Sarkar {background-image: url(/icons/sarkar.png) !important;}
 
-.schu, .EF-Schumacher {background-image: url(/icons/schu.png) !important;}
+.schu, .EF-Schumacher {background-image: url(/avatars/ef.png) !important;}
 
 .smith, .Smith, .Adam-Smith {background-image: url(/avatars/smith.png) !important;}
 
@@ -156,7 +156,7 @@
 
 .soc, .Socrates, .socrates, .Philo {background-image: url(/icons/socrates.png);}
 
-.Hegel {background-image: url(/icons/hegel.png);}
+.Hegel {background-image: url(/avatars/hegel.png);}
 
 .Supereconomics {background-image: url(/icons/specon.png) !important;}
 
@@ -176,18 +176,18 @@
 
 .boni, .Bonifacio {background-image: url(/avatars/boni.png) !important;}
 
-.marx, .Marx {background-image: url(/avatars/marx.png);}
+.marx, .Marx {background-image: url(/icons/marx.png);}
 
-.mill, .Mill {background-image: url(/avatars/mill.png);}
+.mill, .Mill {background-image: url(/icons/mill.png);}
 
-.Pythagoras {background-image: url(/avatars/py.png);}
+.Pythagoras {background-image: url(/icons/py.png);}
 
 .Jesus {background-image: url(/avatars/jesus.png);}
 
 .Carol-Lawrence {background-image: url(/avatars/carol.jpg);}
 
 
-.Someone, .No-photo, .m, .Mohammad, .Mun {background-image: url(/icons/blank.png);}
+.Someone, .No-photo, .m, .Mohammad, .Mun {background-image: url(/avatars/blank.png);}
 
 .kin, .Tsz-Kin, .Lin-Fang, .Iamblichus, .Simon-Peter, .M {background-image: url(/icons/g01.png);}
 

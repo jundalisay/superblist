@@ -5,7 +5,7 @@ weight: 28
 image: "/covers/economist.jpg"
 description: "My habit is to rise from bed betimes, when I may still expect to find at home this, that, or the other friend, whom I may wish to see"
 contributors: ['Xenophon']
-icons: "/avatars/socrates.png"
+icons: "/icons/socrates.png"
 ---
 
 

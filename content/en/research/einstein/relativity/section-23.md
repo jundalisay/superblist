@@ -12,11 +12,6 @@ icon: "/icons/einbla.png"
 
 I have purposely refrained from speaking about the physical interpretation of space- and time-data in General Relativity (GR) because it would be very complicated to explain. 
 
-<!-- Thus, I am guilty of a certain slovenliness of treatment, which, as we know from the Special Relativity, is far from being unimportant and pardonable. It is now high time that we remedy this defect; but I would mention at the outset, that this matter lays no small claims on the patience and on the power of abstraction of the reader. -->
-<!-- 
-We start off again from quite special cases,
-which we have frequently used before. 
- -->
 Assuming a space-time domain with no gravitational field relative to a reference-body K whose state of motion has been suitably chosen.
 
 - `K` is then a Galileian reference-body as regards the domain considered
@@ -66,9 +61,11 @@ This is why it is impossible to obtain a reasonable definition of time with the 
 
 {{< c v="red" >}} A similar difficulty presents itself when we attempt to apply our earlier definition of simultaneity in such a case. But I do not wish to go any farther into this question.{{< /c >}}
 
-![Einstein Con-man](/avatars/einbla.png)
+![Einstein Con-man](/icons/einbla.png)
 
-Moreover, at this stage, the definition of the space co-ordinates also presents unsurmountable difficulties. If the observer applies his standard measuring-rod (a rod which is short as compared with the radius of the disc) tangentially to the edge of the disc, then, as judged from the Galileian system, the length of this rod will be less than 1, since, according to Section 12, moving bodies suffer a shortening in the direction of the motion.
+Moreover, at this stage, the definition of the space coordinates also presents unsurmountable difficulties.
+
+If the observer applies his standard measuring-rod (a rod which is short as compared with the radius of the disc) tangentially to the edge of the disc, then, as judged from the Galileian system, the length of this rod will be less than 1. This is because according to Section 12, moving bodies suffer a shortening in the direction of the motion.
 
 On the other hand, the measuring-rod will not experience a shortening in length, as judged from `K`, if it is applied to the disc in the direction of the radius.
 
@@ -85,4 +82,3 @@ We are therefore not in a position to define exactly the co-ordinates `x, y, z` 
 Thus, all our previous conclusions based on general relativity would appear to be called in question. 
 
 In reality, we must make a subtle detour in order to be able to apply the postulate of general relativity exactly. 
-

@@ -5,7 +5,7 @@ description: "This is the voice of Pride, not of Nature."
 image: /covers/essays.jpg
 weight: 32
 contributors: ['Hume']
-icons: /icons/hume.png
+icons: /avatars/hume.png
 --- 
 
 

@@ -5,7 +5,7 @@ weight: 6
 image: /covers/treatise.png
 description: "Impressions always precede ideas. Every idea first appears as a correspondent impression"
 contributors: ['Hume']
-icon: /icons/hume.png
+icon: /avatars/hume.png
 ---
 
 

@@ -5,7 +5,7 @@ weight: 33
 image: /covers/treatise.png
 description: "It has been said against Spinoza scholastically, that a mode is not any distinct or separate existence"
 contributors: ['Hume']
-icon: /icons/hume.png
+icon: /avatars/hume.png
 ---
 
 
@@ -18,16 +18,21 @@ Let us survey this argument and see whether all the absurdities in Spinoza's sys
 
 It must be the very same with its substance.
 Consequently, the space of the universe must be identified with that simple, uncompounded essence inherent in the universe.
+
 But this is utterly impossible and inconceivable unless:
-the indivisible substance expands itself, so as to correspond to the space, or
-the space contracts itself so as to correspond to the indivisible substance.
+- the indivisible substance expands itself, so as to correspond to the space, or
+- the space contracts itself so as to correspond to the indivisible substance.
+
 This argument seems just.
 
 Only a change of terms is needed to apply the same argument to our extended perceptions.
+
 The following are the same:
-the simple essence of the soul, and
-the simple essence of the ideas of objects and perceptions.
+- the simple essence of the soul, and
+- the simple essence of the ideas of objects and perceptions.
+
 They only have a supposition of a difference, that is unknown and incomprehensible.
+
 
 ## Argument 2
 
@@ -85,19 +90,26 @@ Our perceptions are all really different, separable, and distinguishable from ea
 It is impossible to conceive how our perceptions can be the action of any substance.
 Motion is commonly used to show how perception works, in the same way that action is used to show how its substance works.
 But this confounds us more than it instructs us.
+
 Motion induces no real nor essential change on the body.
 It only varies its relation to other objects.
-There is a radical difference between:
 
-a person in the morning walking a garden with friends, and
-a person in the afternoon enclosed in a dungeon, full of terror, despair, and resentment.
+There is a radical difference between:
+- a person in the morning walking a garden with friends, and
+- a person in the afternoon enclosed in a dungeon, full of terror, despair, and resentment.
+
 This difference is different from what is produced on a body by the change of its situation.
 
 We conclude that external objects have a separate existence from each other because of the distinction and separability of their ideas.
+
 So when we make these ideas themselves our objects, we must draw the same conclusion concerning them, according to the precedent reasoning.
+
 It is impossible for us to tell how the soul's substance can admit of such differences of perception without any fundamental change.
+
 Consequently, we can never tell how perceptions are actions of that substance.
+
 Therefore, the use of the word 'action' unaccompanied with any meaning, instead of that of 'modification', makes no addition to our knowledge.
+
 It does not give any advantage to the doctrine of the soul's immateriality.
 
 

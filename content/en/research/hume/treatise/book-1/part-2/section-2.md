@@ -5,7 +5,7 @@ weight: 4
 image: /covers/treatise.png
 description: "The Limitation of the Mind Limits our Cognition of the Existence of Objects"
 contributors: ['Hume']
-icon: /icons/hume.png
+icon: /avatars/hume.png
 ---
 
 
@@ -14,16 +14,13 @@ icon: /icons/hume.png
 
 Wherever ideas represent objects, the relations, contradictions and agreements of the ideas are all applicable to those objects.
 - This is generally the foundation of all human knowledge.
-<!-- are adequate representations of -->
 
 But our ideas represent the smallest parts of space.
-- 
-<!-- are adequate representations of  -->
+
 
 Whatever divisions and subdivisions these parts may lead to, they can never become inferior to some ideas that we create.
 
 This means that whatever appears impossible and contradictory after comparing these ideas must be really impossible and contradictory.
-<!-- The plain consequence is that -->
 
 Anything that can be infinitely divided contains an infinite number of parts.
 - Otherwise the division would be stopped short by the indivisible parts, which we should immediately arrive at.

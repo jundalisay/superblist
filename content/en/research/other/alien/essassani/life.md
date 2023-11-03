@@ -39,6 +39,17 @@ Abundance comes in 5 forms:
 5. Inspiration
 
 
+## Seven Neutral Needs
+
+1. Air
+2. Water
+3. Sleep (Regenerate, Re-energize)
+4. Food
+5. Shelter and Good Environment 
+6. Connections
+7. Expression 
+
+
 
 ## Unified Society
 

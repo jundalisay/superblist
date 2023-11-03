@@ -19,9 +19,8 @@ That's because electrons are really positively charged! [Benjamin Franklin](http
 {{< img src="/graphics/physics/elec.jpg" alt="Superphysics Electron" cap="In Superphysics, electrons have a masculine charge" >}}
 
 
-{{< q >}}
+{{< q c="Kybalion" >}}
 We shall use the word "Feminine" in the place of "Negative" in speaking of that pole of activity.
-<cite>Kybalion</cite>
 {{< /q >}}
 
 

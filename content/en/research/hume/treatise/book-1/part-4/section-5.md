@@ -5,7 +5,7 @@ weight: 26
 image: /covers/treatise.png
 description: "Every philosophical system has contradictions regarding external physical objects and the ideas of those objects"
 contributors: ['Hume']
-icon: /icons/hume.png
+icon: /avatars/hume.png
 ---
 
 
@@ -51,9 +51,6 @@ An impression can represent a substance only by resembling it. But an impression
 
 Those philosophers reply that the substance is not physical or material, but is an idea perceived by our minds.
 
-<!-- pretend that we have an idea of the substance of our minds. -->
-
-<!-- I want them to: -->
 
 But:
 - what is the impression that produces it that idea?*

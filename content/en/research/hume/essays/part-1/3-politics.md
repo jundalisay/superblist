@@ -5,7 +5,7 @@ description: "It is wrong to say that all governments are alike, and that their 
 image: /covers/essays.jpg
 weight: 6
 contributors: ['Hume']
-icon: /icons/hume.png
+icon: /avatars/hume.png
 --- 
 
 

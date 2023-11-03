@@ -3,7 +3,7 @@ title: "Propositions 9-21"
 weight: 6
 contributors: ['Spinoza']
 image: "/covers/ethics.jpg"
-icon: "/avatars/spinoza.png"
+icon: "/icons/spinoza.png"
 description: "Intellect, in function (actu) finite, or in function infinite, must comprehend the attributes of God and the modifications of God, and nothing else"
 ---
 

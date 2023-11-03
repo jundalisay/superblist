@@ -5,7 +5,7 @@ weight: 10
 image: /covers/treatise.png
 description: "Generally, simple ideas and impressions are exactly correspondent, as the complex are formed from them"
 contributors: ['Hume']
-icon: /icons/hume.png
+icon: /avatars/hume.png
 ---
 
 

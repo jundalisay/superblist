@@ -5,7 +5,7 @@ weight: 2
 image: /covers/treatise.png
 description: "All Simple Ideas Initially Come from Simple Impressions as Sensory Perceptions and Feelings"
 contributors: ['Hume']
-icon: /icons/hume.png
+icon: /avatars/hume.png
 ---
 
 

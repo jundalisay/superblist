@@ -5,7 +5,7 @@ weight: 36
 image: "/covers/economist.jpg"
 description: "Agriculture makes the wise and skilled possessor of it wealthy, whilst the unskilled, in spite of all the pains he takes, must live in indigence"
 contributors: ['Xenophon']
-icons: "/avatars/socrates.png"
+icons: "/icons/socrates.png"
 ---
 
 
@@ -34,25 +34,32 @@ Yes, for now it looks as if this art were one which made the wise and skilled po
 
 
 {{< r a="Ischomachus" >}}
-This human art has a generous nature of. For is it not a proof of something noble in it, that being of supreme utility, so sweet a craft to exercise, so rich in beauty, so acceptable alike to gods and men, the art of husbandry may further fairly claim to be the easiest of all the arts to learn? Noble I name it! this, at any rate, the epithet we give to animals which, being beautiful and large and useful, are also gentle towards the race of man. 
+This human art has a generous nature of. For is it not a proof of something noble in it, that being of supreme utility, so sweet a craft to exercise, so rich in beauty, so acceptable alike to gods and men, the art of husbandry may further fairly claim to be the easiest of all the arts to learn? 
+
+Noble I name it! this, at any rate, the epithet we give to animals which, being beautiful and large and useful, are also gentle towards the race of man. 
 {{< /r >}}
 
 
 {{< l a="Socrates" >}}
 I understand, according to your theory:
-- how a bailiff must be taught. 
+- how a bailiff must be taught
 - how you make him kindly disposed towards yourself
 - how you make him careful, capable of rule, and upright. 
 
-But in order to apply this diligence to tillage rightly, the careful husbandman must further learn what are the different things he has to do, and not alone what things he has to do, but how and when to do them.
+But in order to apply this diligence to tillage rightly, the careful husbandman must further learn:
+- what are the different things he has to do
+- how and when to do them.
+{{< /l >}}
 
-In order to write down a speech or to read a written statement, a man must know his letters. 
 
-Of course, if not stone deaf, I must have garnered that for a certain object knowledge of letters was important to me, but the bare recognition of the fact, I fear, would not enable me in any deeper sense to know my letters. 
+{{< l a="Socrates" >}}
+<!-- In order to write down a speech or to read a written statement, a man must know his letters. 
 
-So, too, at present I am easily persuaded that if I am to direct my care aright in tillage I must have a knowledge of the art of tillage. 
+Of course, if not stone deaf, I must have garnered that for a certain object knowledge of letters was important to me, but the bare recognition of the fact, I fear, would not enable me in any deeper sense to know my letters.  -->
 
-But the bare recognition of tillage does not make me a good farmer. I would soon resemble your physician going on his rounds and visiting his patients without knowing what to prescribe or what to do to ease their sufferings. 
+If I am to focus on tillage then I must know the art of tillage. 
+- But the bare recognition of tillage does not make me a good farmer.
+- I would be like a physician going on his rounds and visiting his patients without knowing what to prescribe. 
 
 To save me from the like predicaments, please teach me the actual work and processes of tillage.
 {{< /l >}}

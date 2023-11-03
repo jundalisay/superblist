@@ -5,7 +5,7 @@ weight: 30
 image: "/covers/economist.jpg"
 description: "I try to educate them, as you say, myself; and with good reason. He who is properly to fill my place and manage my affairs when I am absent, my alter ego"
 contributors: ['Xenophon']
-icons: "/avatars/socrates.png"
+icons: "/icons/socrates.png"
 ---
 
 

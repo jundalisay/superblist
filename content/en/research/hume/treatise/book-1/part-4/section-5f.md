@@ -5,7 +5,7 @@ weight: 34
 image: /covers/treatise.png
 description: "There appears no connection between motion or thought just as there appears no connection between all other causes and effects."
 contributors: ['Hume']
-icon: /icons/hume.png
+icon: /avatars/hume.png
 ---
 
 
@@ -86,12 +86,17 @@ All objects which are not contrary are susceptible of a constant conjunction.
 All real objects can be conjoined by the mind.
 
 It follows that anything can be the cause or effect of anything.
+
 This gives the advantage to the materialists.
+
 The question on the soul's substance is absolutely unintelligible.
 
 All our perceptions do not have to be united with what has space or no space.
+
 Some of them have space, some have no space.
+
 The constant conjunction of objects is the very essence of cause and effect.
+
 Matter and motion may often be regarded as the causes of thought, as far as we know that conjunction.
 
 Philosophers should:

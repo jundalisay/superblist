@@ -6,7 +6,7 @@ image: /covers/essays.jpg
 # datez:2020-12-31
 weight: 2
 contributors: ['Hume']
-icon: /icons/hume.png
+icon: /avatars/hume.png
 --- 
 
 

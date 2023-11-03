@@ -5,7 +5,7 @@ weight: 30
 image: /covers/treatise.png
 description: "a thought, feeling, or perception is an inseparable and indivisible being."
 contributors: ['Hume']
-icon: /icons/hume.png
+icon: /avatars/hume.png
 ---
 
 

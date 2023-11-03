@@ -51,7 +51,7 @@ All light travels relative to the embankment with the velocity `c`. This means t
 
 This means we must abandon either:
 - my principle of relativity, or
-- the speed <!-- imple law of the propagation --> of light in a vacuum 
+- the speed of light in a vacuum 
 
 Those who have read my reasoning from Sections 1 to here would side with my principle of relativity because it is <!-- appeals so convincingly to the intellect because it is  -->so natural and simple. This means that the speed of light in a vacuum must be replaced by a more complicated law that conforms to my principle of relativity.
 
@@ -59,15 +59,12 @@ The theoretical physics, however, shows that we cannot do that because of H. A. 
 
 Prominent theoretical physicists therefore reject my principle of relativity, despite no empirical data has disproven it. 
 
-<!-- At this juncture, the theory of relativity entered the arena.  -->
-
 <!-- As a result of an analysis of the physical conceptions of time and space, it became evident that in reality there is not the least incompatibility between  -->
 
-![Einstein Con-man](/avatars/einbla.png)
+![Einstein Con-man](/icons/einbla.png)
 
 The principle of relativity and the speed of light must be perfectly compatible. <span style="color=  red">I arrive at this by analyzing the physical conceptions of space and time.</span> I call this Special Relativity to distinguish it from General Relativity*.
 
 
 > *Superphysics Note: In order to explain why light in a moving vehicle travels at a constant speed instead of being added to the vehicle's speed, Einstein assigns the cause to the constancy of the speed of light. This constancy then caused by the nature of spacetime
 
-<!-- , and that by systematically holding fast to both these laws a logically rigid theory could be arrived at.  -->

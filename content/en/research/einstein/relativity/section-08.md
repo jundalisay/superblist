@@ -62,7 +62,7 @@ flashes travels along the length A ~T M with the same velocity as along the leng
 
 <span style="color=  red"><b>I answer that this simultaneity of time is only used for us to make empirical decisions.</b>  <!-- There is only one demand to be made of the definition of , namely, that in every real case it must supply us with an empirical decision as to whether or not the conception that has to be defined is fulfilled. That my definition satisfies this demand is indisputable.  -->  Light takes the same time to get from `A` to `M` and `B` to `M`. This is has nothing to do with the physical nature of light. It is something that I use to define simultaneity.</span>
 
-![Einstein Conman](/avatars/einbla.png)
+![Einstein Conman](/icons/einbla.png)
 
 This definition can be used to give an exact meaning to as many events as we want, independently of the positions of the scenes of the events with respect to the body of reference* (here the railway embankment). 
 
@@ -76,4 +76,4 @@ We assume clocks of identical construction are placed at the points A, B and C o
 
 In this way, a time-value is associated with every observable event. <!-- This stipulation contains a further physical hypothesis, the validity of which will hardly be doubted without empirical evidence to the contrary. It has been assumed that  --> We assume all these clocks have the same construction as to go at the same rate. 
 
-<!-- Stated more exactly=  -->Thus, when 2 clocks arranged at rest in different places of a reference-body are set so that a particular position of the pointers of Clock 1 is [light-]simultaneous with the same position of the pointers of Clock 2, then identical “settings” are always [light-]simultaneous.
+Thus, when 2 clocks arranged at rest in different places of a reference-body are set so that a particular position of the pointers of Clock 1 is [light-]simultaneous with the same position of the pointers of Clock 2, then identical “settings” are always [light-]simultaneous.

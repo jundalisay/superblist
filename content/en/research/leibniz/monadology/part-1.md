@@ -43,25 +43,31 @@ Monads have no windows to let anything in or out by.
 
 Accidents cannot detach themselves from substances, or travel around independently of them, as the ‘sensible species’ of the scholastics used to do. Consequently, neither substances nor accidents can get into a monad from outside.
 
-8. Monads must have some qualities. 
 
-Otherwise they wouldn’t be beings at all. If simple substances didn’t have different qualities, there would be no way in which we could become conscious of any change in things.
+8. Monads must have some qualities otherwise they would not be beings at all.
+
+If simple substances didn’t have different qualities, there would be no way in which we could become conscious of any change in things.
 
 This is because whatever there is in compounds can only come from their simple ingredients. But if monads were without qualities, it would be impossible to distinguish one from another, since they are not quantitatively different either. 
 
-Given that there is no empty space, this has the consequence that, whenever there was any motion, it would always be the case that each part of space only received a motion which was equivalent to the motion it had before. So it follows that the one state of things would be indiscernible from the other.
+The lack of empty space means that whenever there was any motion, each part of space only received a motion which was equivalent to the motion it had before. It follows that the one state of things would be indiscernible from the other.
+
 
 9. Every monad is necessarily different from every other monad.
 
 In Nature, there are never 2 beings which are perfectly similar to each other, and where it is impossible to find any internal difference — that is, a difference grounded in an intrinsic denomination.
 
+
 10. Every created being is subject to change.
 
 Consequently, this is also true of every created monad, and even that this change is continuous in each of them.
 
+
 11. Natural changes to which monads are subject come from an internal principle, since no external cause could influence the inside of a monad.
 
+
 12. But in addition to the principle of change, there must also be a precise specification of that which changes; and this precise specification, so to speak, individualises simple substances, and makes them different from each other.
+
 
 13. This precise specification must include a multiplicity within a unity (or something simple). 
 
@@ -69,13 +75,30 @@ For since every natural change happens gradually, something changes and somethin
 
 Consequently, a simple substance must contain a multiplicity of affections and relations, even though it does not contain any parts.
 
-14. The transitory state which includes and represents a multiplicity within a unity (or simple substance) is nothing other than what is called perception. 
 
-However, this must be clearly distinguished from apperception or consciousness, as will appear later. The Cartesians went seriously wrong here, since they did not recognise the existence of unconscious perceptions. It is also what led them to believe that only rational beings were monads, and that there were no animal souls or other entelechies. Again, it made them confuse a long state of unconsciousness with death in the strict sense (like ordinary folk); which also led them into the scholastic prejudice of souls entirely separate from bodies, and even reinforced the opinion of some people with twisted minds that souls are mortal.
+14. Perception is the transitory state which includes and represents a multiplicity within a unity (or simple substance). 
 
-15. The action of the internal principle which brings about change (i.e. the transition from one perception to another) can be called appetition.
+However, this must be clearly distinguished from apperception or consciousness.
+
+The Cartesians went seriously wrong here. They did not recognise the existence of unconscious perceptions. 
+
+This led them to believe:
+- that only rational beings were monads, and
+- that there were no animal souls or other entelechies. 
+
+It also confused them into a long state of unconsciousness with death in the strict sense (like ordinary folk).
+
+This also led them into the scholastic prejudice that souls are entirely separate from bodies.
+
+It even reinforced the opinion of some people with twisted minds that souls are mortal.
+
+
+15. Appetition* is the action of the internal principle which brings about change (i.e. the transition from one perception to another).
 
 Appetite cannot always completely attain the whole perception it is aiming for, but it always obtains something of it, and arrives at new perceptions.
+
+> *Superphysics Note: We call this 'desire'
+
 
 16. We ourselves experience a multiplicity in a simple substance, when we find that the least thought of which we are conscious includes a variegation within its object.
 
@@ -109,7 +132,9 @@ But since sensation is something more than simple perception, I am prepared to a
 
 20. We experience within ourselves a state in which we remember nothing, and have no distinct perceptions
 
-For example, when we fall into a faint, or are overcome by a deep sleep without any dreams. In this state, the soul is not discernibly different from a simple monad. But the soul is something more than a simple substance, since this state does not persist, and the soul can emerge from it.
+For example, when we fall into a faint, or are overcome by a deep sleep without any dreams. 
+
+In this state, the soul is not discernibly different from a simple monad. But the soul is something more than a simple substance, since this state does not persist, and the soul can emerge from it.
 
 
 21. It certainly does not follow that simple substances are without any perceptions. 
@@ -121,35 +146,61 @@ However, when there is a large number of little perceptions, with nothing distin
 
 22. In the natural course of events, every present state of a simple substance is the consequence of its preceding state; and similarly its present state is pregnant with the future.
 
-23. When you wake out of a period of unconsciousness, you become conscious of your perceptions.
 
-Consequently, you must have been perceiving before (even though you were not conscious of the fact), since, in the natural course of events, a perception can only arise from a previous perception — just as, in the natural course of events, a motion can only arise from a previous motion.
+23. When you wake out of unconsciousness, you become conscious of your perceptions.
 
-24. From this, you can see that we would be in a perpetual state of unconsciousness, if our perceptions contained nothing distinct, or (so to speak) highlighted, or spicier. And this is the state which completely bare monads are in.
+Consequently, you must have been perceiving before even though you were not conscious of it. 
 
-25. We also see that Nature has given heightened perceptions to animals, through the care it has taken to supply them with sense organs, which bring together many rays of light or waves in the air, to make them more effective by being united. 
+This is because a perception can only arise from a previous perception just as a motion can only arise from a previous motion.
+
+
+24. We would be in a perpetual state of unconsciousness, if our perceptions contained nothing distinct, or (so to speak) highlighted, or spicier. And this is the state which completely bare monads are in.
+
+
+25. Nature has given heightened perceptions to animals through their sense organs.
+
+<!-- , which bring together many rays of light or waves in the air, to make them more effective by being united.  -->
 
 There is something similar in the senses of smell, taste, and touch, and perhaps also many other senses which are unknown to us. I shall shortly explain how what happens in the soul represents what occurs in the sense organs.
 
+
 26. Memory supplies souls with a sort of following of one thing from another, which imitates reasoning, but which must be distinguished from it. It is like this. 
 
-We see that, if animals have had a previous perception of something which struck them forcibly, when they later have a similar perception, the representation of it in their memory leads them to expect whatever was associated with it in the earlier perception, and to have feelings similar to the ones they had before. 
+If an animal was struck them forcibly by a stick, their perception of a similar-looking stick in their memory leads them to expect being struck again. They will then have feelings similar to the ones they had before. This will make them bark or run away. 
 
-For example, when you show dogs the stick, they remember the pain it has caused them, and they bark or run away.
+<!-- If animals have had a previous perception of something which , when they later have a similar perception, the representation of it  whatever was associated with it in the earlier perception, and to  -->
+
+<!-- For example, when you show dogs the stick, they remember the pain it has caused them, and they bark or run away. -->
+
 
 27. Imagery powerful enough to strike them forcibly and rouse them to activity, is the result either of the strength or of the number of the preceding perceptions.
 
 Often a single powerful impression has the same effect immediately, as the effect of a long habituation, that is, the repetition of many weaker perceptions.
 
+
 28. People behave in the same way as animals in so far as the following of one perception from another occurs only in accordance with the principle of memory.
 
 They are like the doctors of the empirical school of medicine, who rely on practical experience alone, without any theorising. 
 
-Three-quarters of the time, our behaviour is purely like that of the empiricists. For example, when we expect the sun to rise tomorrow, we are behaving as empiricists, since that is what has always happened up till now. It is only astronomers who come to this judgment on the basis of reasoning.
+3/4 of the time, our behaviour is purely like that of the empiricists. For example, when we expect the sun to rise tomorrow, we are behaving as empiricists, since that is what has always happened up till now. 
 
-29. But it is knowledge of necessary and eternal truths which distinguishes us from mere animals, and which gives us reason and the sciences, by elevating us to knowledge of ourselves and of God. This is what in us is called the ‘rational soul’, or spirit.
+It is only astronomers who come to this judgment on the basis of reasoning.
 
-30. It is also through the knowledge of necessary truths and what can be abstracted from them that we are raised to acts of reflection, which make us think of what is called the self, and to consider that this or that is in us. 
 
-It is thus that, in thinking of ourselves, we think of being, of substance, of the simple and the compound, of the immaterial, and even of God, by forming a conception of what is limited within us, and without limits in him. These acts of reflection provide us with the primary objects of our reasonings.
+29. The knowledge of necessary and eternal truths distinguishes us from animals.
 
+It gives us reason and the sciences, by elevating us to knowledge of ourselves and of God. This is what in us is called the ‘rational soul’, or spirit.
+
+
+30. The knowledge of necessary truths, and what can be abstracted from them, raises us to reflection.
+
+This makes us think of the self, and to consider that this or that is in us. 
+
+In thinking of ourselves, we think of:
+- being
+- substance
+- the simple and the compound
+- the immaterial
+- God
+
+We form a conception of what is limited within us, and without limits in him. These acts of reflection provide us with the primary objects of our reasonings.

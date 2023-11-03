@@ -5,7 +5,7 @@ description: "British Political Parties"
 image: /covers/essays.jpg
 weight: 18
 contributors: ['Hume']
-icons: /icons/hume.png
+icons: /avatars/hume.png
 --- 
 
 

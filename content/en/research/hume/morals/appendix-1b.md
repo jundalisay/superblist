@@ -5,7 +5,7 @@ description: "The Difference in the feelings of the ancients and modersn lead to
 image: /covers/morals.png
 weight: 30
 contributors: ['Hume']
-icons: /icons/hume.png
+icons: /avatars/hume.png
 --- 
 
 

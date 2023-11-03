@@ -5,7 +5,7 @@ description: "Polygamy increases barbarism"
 image: /covers/essays.jpg
 weight: 40
 contributors: ['Hume']
-icons: /icons/hume.png
+icons: /avatars/hume.png
 --- 
 
 

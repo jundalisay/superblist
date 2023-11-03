@@ -3,7 +3,7 @@ title: "Propositions 11 to 20"
 weight: 6
 contributors: ['Spinoza']
 image: "/covers/ethics.jpg"
-icon: "/avatars/spinoza.png"
+icon: "/icons/spinoza.png"
 description: "The first element, which constitutes the actual being of the human mind, is the idea of some particular thing actually existing"
 ---
 

@@ -5,7 +5,7 @@ description: "Perfect liberty is the separation of powers under an authority, wi
 image: /covers/essays.jpg
 weight: 10
 contributors: ['Hume']
-icons: /icons/hume.png
+icons: /avatars/hume.png
 ---
 
 

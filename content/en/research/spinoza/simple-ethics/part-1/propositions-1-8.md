@@ -3,7 +3,7 @@ title: "Propositions 1 to 8"
 weight: 5
 contributors: ['Spinoza']
 image: "/covers/ethics.jpg"
-icon: "/avatars/spinoza.png"
+icon: "/icons/spinoza.png"
 description: "Substance is by nature prior to its modifications"
 ---
 

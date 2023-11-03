@@ -5,16 +5,16 @@ weight: 12
 image: /covers/treatise.png
 description: "Complex Ideas are Connected by Seven Kinds of Philosophical Relations"
 contributors: ['Hume']
-icon: /icons/hume.png
+icon: /avatars/hume.png
 ---
 
 
 ## Modes and Substances are Just Simple Ideas Connected Together by the Mind
 
 Some philosophers:
+- founded so much of their reasonings on the distinction of substance and accident, and
+- imagined we have clear ideas of substance and accident.
 
-founded so much of their reasonings on the distinction of substance and accident, and
-imagined we have clear ideas of substance and accident.
 Is the idea of substance derived from the impressions of sensation or of reflection?
 
 If it is conveyed to us by our senses, which of them and how?

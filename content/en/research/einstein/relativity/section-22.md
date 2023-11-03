@@ -15,7 +15,9 @@ Section 20 showed that General Relativity (GR) lets us derive properties of the 
 > *Superphysics Note: Yes, it's only theoretical just as Genesis is theoretical and not real!
 
 
-Let us suppose <!-- for instance, --> that we know the space-time “course” for any path in <!-- natural process whatsoever, as regards the manner in which it takes place in the --> Galileian <!-- domain --> space relative to a non-moving viewpont. <!--  Galileian body of reference K.  --> Through <!-- purely --> theoretical <!-- operations simply by --> calculation, we can find how this path <!-- natural process --> appears, as seen from a moving viewpoint <!-- reference-body --> `K'` which is <!-- accelerated --> moving relatively to `K`. But since <!--  exists with respect to --> this new <!-- body of reference --> viewpoint `K'` has its own gravitational field, we can find out how such a field <!--  our consideration also teaches us how the gravitational field --> influences the parth<!--  process studied -->.
+Let us suppose that we know the space-time “course” for any path in Galileian space relative to a non-moving viewpont.
+
+<!--  Galileian body of reference K.  --> Through <!-- purely --> theoretical <!-- operations simply by --> calculation, we can find how this path <!-- natural process --> appears, as seen from a moving viewpoint <!-- reference-body --> `K'` which is <!-- accelerated --> moving relatively to `K`. But since <!--  exists with respect to --> this new <!-- body of reference --> viewpoint `K'` has its own gravitational field, we can find out how such a field <!--  our consideration also teaches us how the gravitational field --> influences the parth<!--  process studied -->.
 
 For example, a body moving <!--  in a state of uniform rectilinear motion --> straight with respect to  `K` (according to the law of Galilei) is executing an accelerated and curvilinear motion with respect to the moving glass box <!-- accelerated reference-body --> `K'` in Section 20 . Its acceleration or curvature is affected by the gravitational field <!--  influence on the moving body of the gravitational field --> <!-- prevailing relatively to --> in `K'`. <!-- A gravitational field influences the movement of bodies in this way, so that our consideration supplies us with nothing essentially new. -->
 
@@ -43,7 +45,7 @@ From the earth's viewpoint, certain fixed stars are seen around the sun during a
 <!-- This should be tested by astronomers.  -->
 <!-- The examination of the correctness or otherwise of this deduction is a problem of the greatest importance, the early solution of which is to be expected of astronomers. -->
 
-2. The constant speed of light <!-- law of the constancy of the velocity of light --> in vacuum <!-- , which constitutes one of the two fundamental assumptions in Special Relativity and to which we have already frequently referred, --> cannot be totally<!--  unlimited -->  valid, according to GR. 
+2. The constant speed of light in vacuum <!-- , which constitutes one of the two fundamental assumptions in Special Relativity and to which we have already frequently referred, --> cannot be totally<!--  unlimited -->  valid, according to GR. 
 
 Since light rays can only curve when light changes position, <!--  the speed of light --> <!--  take place when the velocity of propagation of light --> <!-- varies with position --> one might think that this invalidates <!-- Now we might think that as a consequence of this, --> Special Relativity (SR), and with it the whole theory of relativity. But this is not the case. 
 
@@ -52,12 +54,14 @@ Since light rays can only curve when light changes position, <!--  the speed of 
 
 {{< c v="red" >}} Opponents of Relativity say that Special Relativity is overthrown by the General Relativity. But they are wrong.{{< /c >}}
 
-![Einstein Con-man](/avatars/einbla.png)
+![Einstein Con-man](/icons/einbla.png)
 
 
-Before the development of electrodynamics, the laws of electrostatics and the laws of electricity were regarded indiscriminately. Nowadays, we know that electric fields can be derived correctly from electrostatic considerations only when <!--  for the case, which is never strictly realised, in which --> the electrical masses are at rest relative to each other<!-- and the coordinate system -->. But we do not <!-- Should we also --> overthrow electrostatics because of Maxwell's field-equations.<!--  in electrodynamics?  No, --> Electrostatics is contained in electrodynamics as a limiting case. 
+Before the development of electrodynamics, the laws of electrostatics and the laws of electricity were regarded indiscriminately. Nowadays, we know that electric fields can be derived correctly from electrostatic considerations only when  the electrical masses are at rest relative to each other<!-- and the coordinate system -->. But we do not overthrow electrostatics because of Maxwell's field-equations.
 
-The laws of electrodynamics lead directly to laws of electrostatics when <!-- for the case in which --> the fields are invariable with regard to time*.
+Electrostatics is contained in electrodynamics as a limiting case. 
+
+The laws of electrodynamics lead directly to laws of electrostatics when the fields are invariable with regard to time*.
 
 
 > Superphysics Note: Here Einstein shows his sophistry. Electrostatics is a part of Electrodynamics just as a car being able to part (have a handbrake) is a part of the whole design for a moving car. But General Relativity is different because it is a sophistical extension of Maxwell-Lorentz onto outerspace and gravity. It is like adding wings to a car to make it into a flying car yet applying road rules in flight. 
@@ -73,16 +77,14 @@ Through the bending of light by gravity, General Relativity enables us to theore
 
 {{< c v="red" >}} General Relativity solves* the gravitational field itself.{{< /c >}}
 
-![Einstein Con-man](/avatars/einbla.png)
+![Einstein Con-man](/icons/einbla.png)
 
 > *Superphysics Note: No, it doesn't. It actually makes gravity more confusing because it is totally different from Newton who clearly saw gravity as a force.
 
 
-
-<!-- Let us consider this for a moment. -->
 We already know what happens to spacetime without gravity. <!--  are acquainted with space-time domains which behave (approximately) in a “Galileian” fashion under suitable choice of reference-body, i.e. domains in which gravitational fields are absent. --> A gravity-less moving body <!-- If we now refer such a domain to a reference-body --> `K'` <!-- possessing any kind of motion, --> will interact with a <!-- then relative to K' there exists a --> gravitational field which is variable with respect to space and time*. The character of this field will depend on<!--  the motion chosen for --> `K'`'s motion. 
 
-> *Einstein note=  This follows from a generalisation of Section 20.
+> *Einstein note: This follows from a generalisation of Section 20.
 
 
 According to GR, the general law of the gravitational field applies. <!-- must be satisfied for all gravitational fields obtainable in this way. --> Not all gravitational fields are produced in this way [exposed by moving bodies]. 
@@ -91,13 +93,8 @@ According to GR, the general law of the gravitational field applies. <!-- must b
 
 <!--  will be derivable from special kinds of gravitational fields.  -->
 
-![Einstein Con-man](/avatars/einbla.png)
+![Einstein Con-man](/icons/einbla.png)
 
 > *Superphysics Note: After 100 years, no general law of gravitation has been derived from GR because his gravitation was a sophistry in the first place. 
 
 <!-- This hope has been realised in the most beautiful manner.  -->
-
-<!-- But between the clear vision of this goal and its actual realisation it was necessary to surmount a serious difficulty, and as this lies deep at the root of things, I dare not withhold it from the reader. 
-
-We must extend our ideas of the space-time continuum still farther.
- -->

@@ -89,7 +89,7 @@ Nevertheless, H. A. Lorentz gave a theory for this phenomenon long before my the
 > *Superphysics note: We agree with Lorentz that Lorentz theory only applies to the electromagnetic layer and not to the material layer which works according to Newton's laws. General Relativity therefore does not apply to spacetime. Rather, general relativity merely explains electromagnetism under the influence of spacetime 
 
 
-![Einstein sticking out tongue](/avatars/einbla.png)
+![Einstein sticking out tongue](/icons/einbla.png)
 
 
 <div style="color=  red;">

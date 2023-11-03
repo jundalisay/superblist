@@ -5,7 +5,7 @@ weight: 12
 image: /covers/treatise.png
 description: "The material universe only has two principles: space and identity"
 contributors: ['Hume']
-icon: /icons/hume.png
+icon: /avatars/hume.png
 ---
 
 
@@ -19,7 +19,7 @@ If we remove the sounds, colours, heat, cold, and other sensible qualities of an
 
 Primary qualities are the only real ones which we have any adequate notion of. **These primary qualities are space and identity, with their different mixtures and modifications; shape, motion, gravity, and cohesion.**
 
-The following are merely changes of shape and motion= 
+The following are merely changes of shape and motion: 
 - the generation, encrease, decay, and death of plants and animals, and
 - the operations of all bodies on each other, such as fire, light, water, air, earth, and all the elements and powers of nature.
 
@@ -30,7 +30,7 @@ One shape and motion produces another shape and motion.
 
 This system of mine has many objections. The most decisive one is that if colours, sounds, tastes, and smells are merely perceptions, then it follows that all that we conceive are not real. This means even motion, space, and solidity would not exist.
 
-<!-- Instead of explaining the operations of external objects by its means, we utterly= 
+<!-- Instead of explaining the operations of external objects by its means, we utterly: 
 - destroy all these objects, and
 - reduce ourselves to the opinions of the most extravagant skepticism concerning them. --> 
 <!--  would have a real, continued, and independent existence. -->
@@ -43,12 +43,12 @@ Motion is a quality inconceivable alone, without a reference to some other objec
 
 What is our idea of the moving body?
 
-**That idea must resolve itself into the idea of space or of identity.** Consequently, the reality of motion depends on the reality of space or identity. I have= 
+**That idea must resolve itself into the idea of space or of identity.** Consequently, the reality of motion depends on the reality of space or identity. I have: 
 <!-- This opinion is universally acknowledged concerning motion. -->
 - proven this to be true with regard to space, and
 - shown that we can only conceive space as composed of parts endowed with colour or solidity.
 
-<br>
+
 
 ### Space
 
@@ -70,7 +70,7 @@ The idea of identity is the idea of two objects.
 - These two objects cannot merge their identities.
 - They maintain a separate and distinct identity.
 
-Therefore, identity is perfectly incomprehensible alone and without the conception of bodies which= 
+Therefore, identity is perfectly incomprehensible alone and without the conception of bodies which: 
 - are identifiable, and
 - maintain this separate and distinct existence.
 
@@ -93,17 +93,17 @@ To create an idea of identity, we must conceive two bodies pressing on each othe
 What idea do we create of these objects, to which we suppose identity to belong?
 
 - If they have identity because they are identifiable is to run on to infinity.
-- If they have identity because they are in space is either= 
+- If they have identity because they are in space is either: 
   - false, or 
     - This means that space has inherent attributes, such as color, which is false
   - circular reasoning
     - This is because space leads back to identity
 
     
-<!-- To affirm, that we paint them out to ourselves as space, either=  -->
+<!-- To affirm, that we paint them out to ourselves as space, either:  -->
 <!-- - resolves all into a false idea, or -->
 
-<!-- Space must be considered either as= 
+<!-- Space must be considered either as: 
 - coloured and having attributes, or
   - This is a false idea.
 - identifiable. -->
@@ -128,7 +128,7 @@ On the whole, we must conclude that after the exclusion of colours, sounds, heat
 
 This is why we must create some distinct idea of that object which is impossible to annihilate.
 
-An impossibility of being annihilated= 
+An impossibility of being annihilated: 
 - cannot exist, and
 - can never be conceived to exist, by itself.
 
@@ -152,7 +152,7 @@ But this method of thinking is more popular than philosophical, as proven by the
 
 <br>
 
-### Reflection 1=  Bodies are perceived through their identity. Yet the perception of identity is a different thing from the identity.
+### Reflection 1:  Bodies are perceived through their identity. Yet the perception of identity is a different thing from the identity.
 
 The identity and the perception of identity do not resemble each other.
 
@@ -165,7 +165,7 @@ An object that presses on us meets resistance. That resistance, by the motion it
 
 <br>
 
-### Reflection 2=  The impressions of perception are simple impressions, except when considered with regard to space.
+### Reflection 2:  The impressions of perception are simple impressions, except when considered with regard to space.
 
 The impressions of perception do not represent identity nor any real object.
 
@@ -189,7 +189,7 @@ A compound identity can never be represented by a simple impression.
 - But our perceptions of it change every moment on us.
 - This is a clear proof that our impressions that lead to that identity in our minds are not representations of that identity.
 
-Thus, there is a direct and total opposition between= 
+Thus, there is a direct and total opposition between: 
 - our reason and our senses, or
 - our conclusions from cause and effect and our conclusions on identities<!--  that persuade us of the continued and independent existence of a body -->.
 

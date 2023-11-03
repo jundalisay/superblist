@@ -5,7 +5,7 @@ description: "The Rise And Progress Of The Sciences"
 image: /covers/essays.jpg
 weight: 28
 contributors: ['Hume']
-icons: /icons/hume.png
+icons: /avatars/hume.png
 --- 
 
 

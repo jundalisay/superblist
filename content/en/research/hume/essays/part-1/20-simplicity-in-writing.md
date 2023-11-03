@@ -6,7 +6,7 @@ description: "Simplicity And Refinement In Writing Simplified"
 image: /covers/essays.jpg
 weight: 44
 contributors: ['Hume']
-icons: /icons/hume.png
+icons: /avatars/hume.png
 --- 
 
 

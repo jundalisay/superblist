@@ -44,7 +44,7 @@ From our point of view this means that the law governing the gravitational field
 
 The earth produces a field in its immediate neighbourhood directly. {{< c v="red" >}} The field's intensity and direction at farther areas are thence determined by the law which governs the properties of **the space** of the gravitational fields themselves.{{< /c >}}
 
-![Einstein Con-man](/avatars/einbla.png)
+![Einstein Con-man](/icons/einbla.png)
 
 In contrast to electric and magnetic fields, the gravitational field <!-- exhibits a most remarkable property, which is of fundamental importance for what follows.  --> makes bodies accelerate. <!-- Bodies solely affected by the influence of gravity accelerate. --> This acceleration does not depend at all on that body's material or its physical state. A piece of lead and a piece of wood fall in exactly the same way. <!-- manner in a
 gravitational field (in vacuo), when they start off from rest or with the same initial velocity.  -->
@@ -85,6 +85,3 @@ The gravitational mass of a body is equal to its inertial mass.
 This means that weight is inertia and vice versa. 
 
 <!-- It is true that this important law had hitherto been recorded in mechanics, but it had not been interpreted. A satisfactory interpretation can be obtained only if we recognise the following fact=  The same quality of a body manifests itself according to circumstances as “inertia” or as “weight” (lit. “heaviness”).  -->
-
-<!-- In the following section we shall show to what extent this is actually the case, and how this question is connected with the general postulate of relativity.
- -->

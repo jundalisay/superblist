@@ -6,8 +6,6 @@ weight: 34
 description: "The sophistry of General Relativity requires inertial and gravitational mass to be the same"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
-aliases:
-  /research/relativity/section-20/
 ---
 
 
@@ -44,7 +42,7 @@ admit that  -->
 
  <!-- , and as a result we have gained a powerful argument for a generalised postulate of relativity. --><!--  the “Galileian space” first considered, we can nevertheless regard the chest as being at rest. -->
 
-![Einstein Con-man](/avatars/einbla.png)
+![Einstein Con-man](/icons/einbla.png)
 
 ![WTF](/graphics/wtf.png)
 
@@ -87,15 +85,14 @@ We might think that:
 - we can change our viewpoint so that that gravitational field will not be a gravitational field anymore. 
 <!-- We might also think that, regardless of the kind of gravitational field which may be present, we could always choose another reference-body such that no gravitational field exists with reference to it.  -->
 
-{{< c v="red" >}} But in reality, this is only true for special gravitational fields. For example, it is impossible to choose a viewpoint<!--  body of reference such that, as judged from it, --> where the earth's gravitational field totally vanishes. This solves our <!-- We can now appreciate why that --> argument <!-- is not convincing, which we brought forward --> against GR at the end of Section 18.{{< /c >}}
+{{< c v="red" >}} But in reality, this is only true for special gravitational fields. For example, it is impossible to choose a viewpoint<!--  body of reference such that, as judged from it, --> where the earth's gravitational field totally vanishes. This solves our argument against GR at the end of Section 18.{{< /c >}}
 
-![Einstein Con-man](/avatars/einbla.png)
+![Einstein Con-man](/icons/einbla.png)
 
 The observer in the train jerks forwards as a result of the train braking. This shows to him the <!-- , and that he recognises in this the --> non-uniformity of motion <!-- (retardation) --> of the train. But he is compelled by nobody to refer this jerk to a “real” acceleration <!-- (retardation) --> of the train. This is because his viewpoint in the train is at rest*. <!-- He might also interpret his experience thus=  “My body of reference (the carriage) remains permanently at rest. With reference to it, however, there exists (during the period of application of the brakes) --> 
 
 
 {{< c v="red" >}} The brakes created a gravitational field which was directed forwards and is variable with respect to time.{{< /c >}} Because of this <!-- Under the influence of this --> [fake] gravitational field, the embankment's backward movement slowed down.
-
 
 
 > *Superphysics note: Einstein sources gravity from the the weird idea that non-moving large masses are actually moving and that massless bodies are not moving.  

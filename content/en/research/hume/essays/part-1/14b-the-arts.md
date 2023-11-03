@@ -5,7 +5,7 @@ description: "The Rise And Progress Of The Arts"
 image: /covers/essays.jpg
 weight: 30
 contributors: ['Hume']
-icons: /icons/hume.png
+icons: /avatars/hume.png
 --- 
 
 

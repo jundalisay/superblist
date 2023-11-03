@@ -5,7 +5,7 @@ description: "It affords a violent prejudice against almost every science, that 
 image: /covers/essays.jpg
 weight: 14
 contributors: ['Hume']
-icons: /icons/hume.png
+icons: /avatars/hume.png
 --- 
 
 

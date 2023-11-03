@@ -5,7 +5,7 @@ description: "Skeptic"
 image: /covers/essays.jpg
 weight: 38
 contributors: ['Hume']
-icons: /icons/hume.png
+icons: /avatars/hume.png
 --- 
 
 

@@ -5,7 +5,7 @@ weight: 4
 image: /covers/treatise.png
 description: "Generally, simple ideas and impressions are exactly correspondent, as the complex are formed from them"
 contributors: ['Hume']
-icon: /icons/hume.png
+icon: /avatars/hume.png
 ---
 
 
@@ -117,7 +117,3 @@ To prove that the ideas of passion and desire are not innate, they say that we a
 These arguments only prove that ideas are preceded by other more lively perceptions:
 - from which they are derived, and
 - which they represent.
-
-<!-- I hope this clear stating of the question will:
-remove all disputes about it, and
-render this principle more useful in our reasonings. -->

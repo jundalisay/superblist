@@ -6,7 +6,7 @@ image: /covers/essays.jpg
 weight: 4
 # youtube: "UpwdTIAcLVY"
 contributors: ['Hume']
-icon: /icons/hume.png
+icon: /avatars/hume.png
 ---
 
 

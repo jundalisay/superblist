@@ -4,14 +4,14 @@ heading: "Part 3"
 description: "Mach tried to avoid assigning reality to a something not observable. Instead of an acceleration with reference to absolute space, he used all of the masses in the universe as reference"
 image: "/covers/ether.png"
 icon: "/icons/einbla.png"
-weight: 
+weight: 8
 # date: 2020-01-30
 ---
 
 
 
 Mach tried to avoid assigning reality to a something not observable. Instead of an acceleration with reference to absolute space, he used all of the masses in the universe as reference.
-<!-- He substituted in mechanics a mean acceleration with reference to  .  -->
+
 
 But inertial resistance opposed to relative acceleration of distant masses presupposes action at a distance. Anyone who follows Mach will still end up with the ether as medium for the effects of inertia. But Mach's ether is different from the ether of Newton, Fresnel, and Lorentz.
 
@@ -66,7 +66,7 @@ But we can assert by reason of the relativistic equations of gravitation that th
 In this case, the universe must of necessity be spatially unbounded and of finite magnitude. Its magnitude is determined by the value of that mean density.
 {{< /c >}}
 
-![Blah](/avatars/einbla.png)
+![Blah](/icons/einbla.png)
 
 
 If we consider the gravitational field and the electromagnetic field from the standpoint of the ether hypothesis, we find a remarkable difference between the two. 
@@ -91,9 +91,9 @@ Through General Relativity*, the whole of physics would become a complete system
 > *Superphysics Note: Such a unification is actually being prevented by General Relativity
 
 
-<!-- An exceedingly ingenious attempt in this direction has been made by  -->
 
-The mathematician H. Weyl is trying to do this. But I do not think that his theory will hold in reality. <!-- Further, in contemplating the immediate future of theoretical physics  -->
+The mathematician H. Weyl is trying to do this. But I do not think that his theory will hold in reality.
+
 
 We should not unconditionally reject the possibility that the facts comprised in the quantum theory may set bounds to the field theory beyond which it cannot pass.
 

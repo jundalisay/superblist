@@ -5,7 +5,7 @@ weight: 40
 image: /covers/treatise.png
 description: "The Imagination is the Foundation of the Memory, Senses, and Understanding"
 contributors: ['Hume']
-icon: /icons/hume.png
+icon: /avatars/hume.png
 ---
 
 
@@ -16,19 +16,25 @@ I ponder my philosophical voyage.
 
 It requires the utmost art and industry to be concluded happily. I am like a man who:
 - has struck on many shoals,
-- has narrowly escaped shipwreck in passing a small frith,
-- has the audacity to put out to sea in the same leaky weather-beaten vessel, and
-- is ambitious enough to think of circling the globe under these disadvantageous circumstances.
+- has narrowly escaped shipwreck,
+- has the audacity to:
+  - go out to sea in the same leaky weather-beaten vessel, and
+  - think of circling the globe under these disadvantageous circumstances.
 
 My memory of past errors and perplexities makes me unsure for the future.
 
 I must employ the wretched condition, weakness, and disorder of the faculties in my inquiries.
-It increases my apprehensions.
+- It increases my apprehensions.
+
 The impossibility of amending or correcting these faculties, reduces me almost to despair.
+
 It makes me resolve to perish on the barren rock where I am at present, rather than venture on that boundless ocean.
 This sudden view of my danger strikes me with sadness.
+
 Sadness usually indulges itself.
+
 I cannot restrain feeding my despair with all those desponding reflections abundantly given by the present subject.
+
 I am first frightened and confounded with that lonely solitude which my philosophy places me in.
 
 I fancy myself as some strange uncivilized monster:

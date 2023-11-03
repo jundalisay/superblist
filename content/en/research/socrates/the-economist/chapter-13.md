@@ -5,7 +5,7 @@ weight: 32
 image: "/covers/economist.jpg"
 description: "He must learn at any rate, I think, to rule his fellow-workmen"
 contributors: ['Xenophon']
-icons: "/avatars/socrates.png"
+icons: "/icons/socrates.png"
 ---
 
 
@@ -99,5 +99,3 @@ And so I praise my bailiffs when they have apportioned the best things to the mo
 
 If I see that someone is receiving preference by flatteries or unworthy means, I do not let the matter pass. I reprimand my bailiff roundly, and teach him that such conduct is not even to his interest. 
 {{< /r >}}
-
-

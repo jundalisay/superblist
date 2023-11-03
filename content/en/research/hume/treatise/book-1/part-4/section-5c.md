@@ -5,7 +5,7 @@ weight: 31
 image: /covers/treatise.png
 description: "The sequence of the causation and contiguity, between a physical object in space and a quality that does not exist in space have an effect on the mind."
 contributors: ['Hume']
-icon: /icons/hume.png
+icon: /avatars/hume.png
 ---
 
 
