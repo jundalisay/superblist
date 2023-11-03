@@ -25,9 +25,13 @@ For as its body is twice that of the octahedron inscribed in it, as stated in Ch
 
 Further, since 1:2, the lesser proportion of the cube, is one diapason, and 1-4 the greater proportion of the octahedron is two diapasons, so in this instance 1:8, the greater proportion of the tetrahedron should have been three diapasons. 
 
-Now, it had to have more diapasons than two, because since the lesser tetrahedric harmony must necessarily be the greatest of all the smaller harmonies in the other figures (inasmuch as the proportion of the tetrahedric spheres is the greatest of all those of the figures), the greater tetrahedric harmony also should have exceeded the greater harmonies of the others in its number of diapasons. Last, the threefold nature of the intervals in diapasons has kinship with the triangular type of the tetrahedron, and has a certain perfection in accordance with the universal perfection of the Trinity, since the eightfold also, its term, is the first of the cubic numbers, which are perfect in quantity, that is to say of three dimensions. 
+It had to have more diapasons than two because since the lesser tetrahedric harmony must necessarily be the greatest of all the smaller harmonies in the other figures (inasmuch as the proportion of the tetrahedric spheres is the greatest of all those of the figures), the greater tetrahedric harmony also should have exceeded the greater harmonies of the others in its number of diapasons. 
 
-II. To 1:4, or 6:24, the neighboring harmonies are 5:24, in fact the greater, and the lesser 6:20 or 3'-10. Again, however, 3:10 is of the pentagonic group, which has nothing in common with the tetrahedron. 
+Last, the threefold nature of the intervals in diapasons has kinship with the triangular type of the tetrahedron, and has a certain perfection in accordance with the universal perfection of the Trinity, since the eightfold also, its term, is the first of the cubic numbers, which are perfect in quantity, that is to say of three dimensions. 
+
+II. To 1:4, or 6:24, the neighboring harmonies are 5:24, in fact the greater, and the lesser 6:20 or 3'-10.
+
+Again, however, 3:10 is of the pentagonic group, which has nothing in common with the tetrahedron. 
 
 But 5-'24 on account of the numbers 3 and 4 (of which the numbers 12 and 24 are offspring) has kinship with the tetrahedron. 
 
@@ -46,9 +50,7 @@ motions of Jupiter and Mars.
 
 For let precisely the harmonies 5:24 and 1:8, or 3:24, be attributed in this case to Jupiter and Mars in common, by Proposition 13. 
 
-Divide the lesser, 5:24, into the greater, 3:24. The quotient is 3:5, the product of both planets’
-own proportions. But Jupiter’s own proportion alone was found in fact in Prop­
-osition XI above to be 5:6. Divide that, therefore, into the produvt of their own
+Divide the lesser, 5:24, into the greater, 3:24. The quotient is 3:5, the product of both planets’ own proportions. But Jupiter’s own proportion alone was found in fact in Proposition XI above to be 5:6. Divide that, therefore, into the produvt of their own
 motions, 3:5. That is, divide 25:30 into 18:30. The quotient is Mars’ own pro­
 portion, 18:25, which is greater than 18:24 or 3:4. However it will become
 yet greater, if by the following arguments the greater common proportion 1:8
@@ -76,9 +78,7 @@ apason, by VIII.
 Then by analogy the octahedron ought to have had a proportion of the same size, that is 1:2, as its smaller one, if no diversity is included. 
 
 However, diversity is included, to the extent that in the case of the cubic planets in fact, that is Saturn and Jupiter, their individual motions' own proportions combined produced a total not greater than 2:3. In this case, however, of the
-octahedric planets, Venus and Mercury, their individual motions'own propor­
-tions combined will make a total greater than 2:3, which is easily apparent
-in the following way. 
+octahedric planets, Venus and Mercury, their individual motions'own proportions combined will make a total greater than 2:3, which is easily apparent in the following way. 
 
 For suppose that what was required was the proportion between the cube and the octahedron, if it were the only one: let, I mean, the lesser octahedric proportion be greater than those which have been prescribed
 here, and let it be absolutely as great as was the cubic, that is to say 1:2, whereas

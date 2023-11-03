@@ -7,22 +7,25 @@ description: "This is the Book in which there is no doubt, a guide for the right
 ---
 
 
-{{< s v="1" >}}  Do not take My enemies and your enemies for supporters, offering them affection, when they have disbelieved in what has come to you of the Truth. 
+{{< s v="1" >}}  Do not take My enemies and your enemies for supporters.
 
-They have expelled the Messenger, and you, because you believed in Allah, your Lord. If you have mobilized to strive for My cause, seeking My approval, how can you secretly love them? 
+<!-- , offering them affection, when they have disbelieved in what has come to you of the Truth.  -->
 
-I know what you conceal and what you reveal.
+They have expelled the Messenger and you because you believed in Allah. If you have mobilized to strive for My cause, seeking My approval, how can you secretly love them? 
+
+<!-- I know what you conceal and what you reveal. -->
 
 Whoever among you does that has strayed from the right way.
 
-{{< s v="2" >}}  Whenever they encounter you, they treat you as enemies, and they stretch their hands
-and tongues against you with malice. They wish that you would disbelieve.
 
-{{< s v="3" >}}  Neither your relatives nor your children will benefit you on the Day of Resurrection.
-He will separate between you. 
+{{< s v="2" >}}  Whenever they encounter you, they:
+- treat you as enemies, and
+- stretch their hands and tongues against you with malice
+- wish that you would disbelieve.
 
-{{< s v="4" >}}  You have had an excellent example in Abraham and those with him; when they said to
-their people, “We are quit of you, and what you worship apart from Allah. We denounce you. Enmity and hatred has surfaced between us and you, forever, until you believe in Allah alone.” Except for the words of Abraham to his father, “I will ask forgiveness for you, though I have no power from Allah to do anything for you.” “Our Lord, in You we trust, and to You we repent, and to You is the ultimate resort.
+{{< s v="3" >}}  Neither your relatives nor your children will benefit you on the Day of Resurrection. He will separate between you. 
+
+{{< s v="4" >}}  You have had an excellent example in Abraham and those with him; when they said to their people, “We are quit of you, and what you worship apart from Allah. We denounce you. Enmity and hatred has surfaced between us and you, forever, until you believe in Allah alone.” Except for the words of Abraham to his father, “I will ask forgiveness for you, though I have no power from Allah to do anything for you.” “Our Lord, in You we trust, and to You we repent, and to You is the ultimate resort.
 
 {{< s v="5" >}}  Our Lord, do not make us a target for those who disbelieve, and forgive us, our Lord. You
 are indeed the Mighty and Wise.”

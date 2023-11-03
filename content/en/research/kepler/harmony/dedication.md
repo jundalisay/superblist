@@ -6,6 +6,7 @@ image: /covers/harmony.jpg
 weight: 2
 contributors: ['Kepler']
 icon: /avatars/kepler.png
+draft: true
 ---
 
 

@@ -3,7 +3,7 @@ heading: Chapter 4d
 title: "The origin of third intervals"
 description: "Melodic intervals are defined as being all the differences between consonances which are smaller than the double interval"
 image: /covers/harmony.jpg
-weight: 18
+weight: 24
 contributors: ['Kepler']
 icon: /avatars/kepler.png
 ---

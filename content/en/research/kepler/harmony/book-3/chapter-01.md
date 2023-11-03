@@ -3,7 +3,7 @@ heading: Chapter 1
 title: "The Causes of Consonances"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
 image: /covers/harmony.jpg
-weight: 4
+weight: 6
 contributors: ['Kepler']
 icon: /avatars/kepler.png
 ---

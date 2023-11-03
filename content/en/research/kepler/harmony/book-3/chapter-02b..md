@@ -1,6 +1,6 @@
 ---
-heading: Chapter 2
-title: "Corollaries"
+heading: Chapter 2b
+title: "The 7 Harmonic Divisions of a single string"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
 image: /covers/harmony.jpg
 weight: 14
@@ -9,21 +9,24 @@ icon: /avatars/kepler.png
 ---
 
 
-The harmonic divisions of a single string are seven in number, not more.
 
-II.
+<!-- II. -->
 
-The expansion of the numbers which are characteristic of divisions occurs in the following manner. To begin with, the whole is expressed in the form of a fraction, that is to say with unity above as numerator, and unity below for denominator. Then each number separately is put as a numerator, and the sum of the two is put as denominator in each case.
+The expansion of the numbers which are characteristic of divisions occurs in the following manner. 
 
-Hence from any given fraction two branches arise, until from the sum occurs the number
-which indicates an unconstructible figure. 
+To begin with, the whole is expressed as a fraction.
+- It has unity above as numerator and unity below for denominator.
 
-I. Causes of this
+Each number separately is put as a numerator.
 
-I found these seven divisions of the string first sevenfold
-with hearing as guide, in other words the same number found
-number as there are harmonies not greater than
-successively.
+The sum of the two is put as denominator in each case.
+
+Hence, from any given fraction two branches arise, until from the sum occurs the number which indicates an unconstructible figure. 
+
+## I. Causes of this
+
+I found these seven divisions of the string first sevenfold with hearing as guide, in other words the same number found
+number as there are harmonies not greater than successively.
 
 a single diapason. After that I dug out the causes
 both of the individual divisions and of the num­

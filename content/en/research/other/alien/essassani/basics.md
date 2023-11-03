@@ -11,9 +11,27 @@ The Essassani are a 5th dimensional civilization which is based on unconditional
 
 <!-- Even the Pleiadians look up to the Essassani civilization as being exceptionally spiritually-advanced*. -->
 
+{{< box >}}
+#### Superphysics Note
 
-> *Superphysics note: Superhysics is based on David Hume's maxim that mentality creates reality. This is how the Essassani maxims, such as 'believing is seeing' caught our attention. However, no one seems to be keen enough to notice that their principles are designed for 5th dimensional beings and not 4th dimensional ones like humans.<br><br>Unlike the Essassani, we humans are still very much bound by the Negative force as Maya, just like cats and dogs are even more bound than us.<br><br>We can think of the Essassani as high end quad-core gaming laptops capable of exciting games like multiplayer Call of Duty and DOTA2, while humans being low end Pentium I capable of only Space Invaders.<br><br>Humans who totally follow Essassani principles will likely find themselves disappointed when their excitement fails to procure them the reality that they desire, just as a Pentium I will not be able to play Call of Duty.<br><br>Instead, it would be better if humans *generally* observed their principles in order to maximize practical human excitement, as opposed to ideal excitement. It would be like upgrading a Pentium I to play a superior version of Space Invaders, or a Pentium I version of Call of Duty (like Wolfenstein 3D or Doom).<br><br>The key ingredient that makes the Essassani principles fail in the human frame is the ego that is in all humans. Their solution to this is 'so what?' and 'let it go' and 'relax your definitions'. Humans can upgrade themselves to Essassani by evolving genetically with each generation by following such general principles
+Superhysics is based on David Hume's maxim that mentality creates reality. This is how the Essassani maxims, such as 'believing is seeing' caught our attention. 
 
+However, no one seems to be keen enough to notice that their principles are designed for 5th dimensional beings and not 4th dimensional ones like humans.
+
+Unlike the Essassani, we humans are still very much bound by the Negative force as Maya, just like cats and dogs are even more bound than us.
+
+We can think of the Essassani as high end quad-core gaming laptops capable of playing exciting games like multiplayer Call of Duty and DOTA2, while humans are low end Pentium I capable of only single-player Wolfenstein 3D.
+
+Humans who totally follow Essassani principles will likely find themselves disappointed when their excitement fails to procure them the reality that they desire, just as a Pentium I will not be able to play Call of Duty.
+
+Instead, it would be better if humans *generally* observed their principles in order to maximize practical human excitement, as opposed to the out-of-this-world excitement.
+
+It would be like upgrading a Pentium I to play a Wolfenstein 3D updgraded to be multiplayer. The critical ingredient that makes the Essassani principles fail in the human frame is **the hardened ego that is in all humans**. 
+
+Their solution to this are the mantras: 'so what?' and 'let it go' and 'relax your definitions'. 
+
+Humans can upgrade themselves to Essassani by evolving genetically with each generation while following such general principles.
+{{< /box >}}
 
 
 ## Basic Beliefs
@@ -36,16 +54,26 @@ Lowest | Matter | Ice
 
 ### Frequencies
 
-All things are Spirit vibrating at different frequencies. Matter is solidified energy. Matter is Spirit energy vibrating at a slower frequency. Your body is solidified Spirit, crystallized Spirit. 
+All things are Spirit vibrating at different frequencies. 
 
-Your Spirit is not in your body. Your body is in your Spirit. As you raise your vibrations, you become more Spirit-like, moving closer towards fluid-like Spirit, thereby making your reality creation more malleable and easily changeable.
+Matter is solidified energy.
+- Matter is spirit-energy vibrating at a slower frequency.
 
-All "things" are the same one thing vibrating at different rates
+Your body is solidified, crystallized Spirit. 
+- Your body is in your Spirit.
 
-3 Phases for receiving the "version" of reality you prefer
+Your Spirit is not in your body. As 
+
+you raise your vibrations, you become more Spirit-like, moving closer towards fluid-like Spirit. This makes your reality creation more malleable and easily changeable.
+
+All "things" are the same one thing vibrating at different rates.
+
+<!-- 3 Phases for receiving the "version" of reality you prefer
+
 You ALREADY have everything you desire!
-2 quick Techniques for Manifesting your preferred Reality
 
+2 quick Techniques for Manifesting your preferred Reality
+ -->
 <!-- Visualization - how to do it effectively
 Shifting between Parallel Realities
 Handling challenging situations
@@ -74,14 +102,12 @@ External Reality = Holographic Illusion
 Visualization
  -->
 
-<br>
 
 ## The 5 Laws of Existence 
 
 <!-- The Basic Blueprint of the Structure of Existence  -->
 
-The 5 Basic Laws of Creation which are true Everywhere/Everywhen in the universe -
-including ALL dimensions.
+The 5 Basic Laws of Creation which are true Everywhere/Everywhen in the universe - including ALL dimensions.
 
 1. You exist
 2. Everything is Here/Now [Time and Space are illusions]
@@ -113,12 +139,11 @@ If something undesireable happens, by remaining in a positive state even then, y
 
 If you remain in a positive state, you can discover HOW it can serve you in a beneficial manner.
 
-Any circumstance is actually neutral, with no built-in meaning.    You deteremine whether it has a positive or negative effect, based on the MEANING that you PROJECT into that fundamentally-neutral situation.
+Any circumstance is actually neutral, with no built-in meaning. You determine whether it has a positive or negative effect, based on the MEANING that you PROJECT into that fundamentally-neutral situation.
 
 5. Constantly investigate your belief systems , and release & replace the unpreferred beliefs:
 - The fear-based beliefs you might have.
 - The beliefs that are not in alignement with who you prefer to be.
-
 
 This activates synchronicity which is the organizing principle of the entire universe. Synchronicity is the "networking" and coordination of all parts of the universe with each other - through the one Universal Mind.
 

@@ -9,29 +9,48 @@ icon: /avatars/kepler.png
 ---
 
 
+I superfluously define harmonic proportion as a proportion wherein 3 numbers placed in their natural order, the amounts by which one of a pair of neighbors exceeds the other are in the same proportion as the outer numbers. 
 
+For example, in `3`, `4`, `6`
+- 6 is twice the smallest 3
+- The difference between the greater neighbors `6` and `4` is `2`
+- The difference between the lesser neighbors `4` and `3` is `1`
 
-Method of establishing any mean as musical in the opinion of the ancients.
+Thus, the differemce between the greater is twice that of the lesser.
 
-It is superfluous to define harmonic proportion as that in which, 3 numbers being placed in their natural order, the amounts by which one of a pair of neighbors exceeds the other are in the same proportion as the outer numbers. Thus in the numbers 3, 4, and 6 the greatest, 6, is twice the smallest, 3; and simig - " » - 4- larly the difference, 2, between the two greater neigh­
-bors, 4,6, is twice the difference, 1, between the two smaller
-3 :----
-neighbors, 4, 3.
+Harmonious proportions are called 'musical' when they are applied to ethics and politics. 
 
+## How can we find musical proportions numerically?
 
-However I shall include a method of finding numbers*’^ which contain such a proportion, which is called musical by the authorities, because it is frequently transferred from the theory of harmony to ethics and politics. 
+<!-- However I shall include a method of finding numbers*’^ which contain such a proportion, which is called musical by the authorities, because it is frequently transferred from the theory of harmony to .  -->
 
-The method is as follows. Given two numbers having no common factors, which contain the proportion both of the outer numbers (of 3 which are to be musically combined according to the scheme of the ancients) and of the differences of each from the mean. Multiply each by itself and both by each other.
+<!-- The method is as follows.  -->
+
+Given two numbers having no common factors, which contain the proportion both of the outer numbers (of 3 which are to be musically combined according to the scheme of the ancients) and of the differences of each from the mean. Multiply each by itself and both by each other.
 
 Of the 3 results add together the two smaller for the smallest of the numbers which are to be found; add together the two greater to find the greatest; and double the mean to find the musical mean of the ancients. 
 
-For instance, let there be three numbers to be found in such musical proportion of the ancients that the outer ones are in the proportion of 3 to 5. 
+Let there be 3 numbers in the musical proportion of the ancients. The outer ones are in the proportion of 3 to 5. 
+- 3 * 3 = 9
+- 3 * 5 = 15
+- 5 * 5 = 25
 
-Three times 3 is nine. Three times 3 is 13. Five times 3 is 23. Therefore the results are 9, 13, and 23. Add 9 and 13: the result is 24. Add 13 and 23: the result is 40. Twice 13 makes 30. Therefore the three required numbers are 24, 30, and 40. 
+Therefore, the results are `9`, `15`, and `25`.
+- 9 + 15 = 24
+- 15 + 25 = 40
+- 15 * 2 = 30
 
-Their differences (of the outer numbers from the mean) are 6 and 10. Now as 3 is to 3, so 24 is to 40, and so also is 6 to 10. In the lowest terms which have no common factors, 12, 13, 20.
+Therefore the three required numbers are `24`, `30`, and `40`. 
 
-This indeed is truly a harmonic proportion according to me also, because not only is the proposed proportion between 3 and 5 harmonic, by the Corollary of Proposition VIII, but also the mean number found, 15, makes consonant proportions with the outer numbers 12 and 20 by the same Corollary. But this does not always occur.
+Their differences (of the outer numbers from the mean) are `6` and `10`. 
+
+As 3 is to 3, so 24 is to 40, and 6 is to 10.
+
+In the lowest terms which have no common factors, 12, 13, 20.
+
+I think that this is truly a harmonic proportion because not only is the proposed proportion between 3 and 5 harmonic, by the Corollary of Proposition 8, but also the mean number found, 15, makes consonant proportions with the outer numbers 12 and 20 by the same Corollary. 
+
+But this does not always occur.
 
 Every time that the arithmetic mean, between two numbers proposed on this basis, marks out proportions with the outer numbers which are dissonant, there also emerge from this operation three numbers in a proportion which is in truth not harmonic, though the two originally proposed taken on their own form a proportion which is harmonic. 
 
@@ -39,13 +58,15 @@ That occurs in the case of 1 and 6, of 1 and 8, of 3 and 4, of 4 and 5, of 5 and
 
 For instance, between 2 and 5, that is 4 and 10, the arithmetic mean is 7, which is not harmonic, because 7 is not consonant either with 4 or with 10, by Proposition V. 
 
-Then operate according to the rule. The resulting numbers will be 14, 20, and 35, with the excesses 6 and 15. Thus 20 ought according to the ancients to be declared the harmonic mean, because as 14 is to 25 (that is 2 to 5), so 6 is to 15. But the ears completely repudiate 20^35 (in other words 4:7) and 14:20 (in other words, 7:10).
+Then operate according to the rule.
+
+The resulting numbers will be 14, 20, and 35, with the excesses 6 and 15. Thus 20 ought according to the ancients to be declared the harmonic mean, because as 14 is to 25 (that is 2 to 5), so 6 is to 15. 
+
+But the ears completely repudiate 20^35 (in other words 4:7) and 14:20 (in other words, 7:10).
 
 Therefore in the harmonic divisions of Chapter 2, the number of means emerging is the same as the number of divisions, minus one. 
 
-Also “mean” in those sections is in fact taken in its stricter sense, that in a string harmonically divided into unequal parts, it is the greater part, or the number expressing it. Thus 2 is the harmonic mean be­
-tween 1 and 3; 3 is that between 1 and 4 and 2 and 5; 4 between 1
-and 5; 5 between 1 and 6 and 3 and 8.
+Also “mean” in those sections is in fact taken in its stricter sense, that in a string harmonically divided into unequal parts, it is the greater part, or the number expressing it. Thus 2 is the harmonic mean between 1 and 3; 3 is that between 1 and 4 and 2 and 5; 4 between 1 and 5; 5 between 1 and 6 and 3 and 8.
 
 Apart from these there are also some other means, which are not subject to this law of the division of the whole string into two parts, but are included in our general definition, and divide not a single string, as in the previous Chapter, but the proportion of strings, into lesser consonant proportions.
 
@@ -82,22 +103,17 @@ as it appears in length, breadth and depth; some in the perfection
 of the threefold number; others in the revered Trinity itself of the
 Divinity.
 
-All, I say, vainly. For neither does three-dimensional quantity enter into this affair, since we have learnt that the origin of the harmonic proportions is in plane figures. Also three-dimensional quantity is greatly different, as far as knowledge of it is concerned, from two-dimensional, inasmuch as the former employs two mean proportionals,
-and in knowing them it is impossible for there to be any confusion;
-nor can there be any power in a number, insofar as it is considered
-as a counting number; nor, furthermore, is the origin of this trinity
-immediately from the Divine Being, causing it by imitation, as it has
-been made clear above that the cause of this matter is in the basic
-principles which were expounded, which in no way imply any particu­
-lar number of notes on their own, but by fitting together individual
-notes to individual notes harmonically, and thus while doing some­
-thing else accidentally produce something similar to the Divinities
-on account of the number’s being the same. The same thing also hap­
-pens in very many other matters.
+All, I say, vainly. For neither does three-dimensional quantity enter into this affair, since we have learnt that the origin of the harmonic proportions is in plane figures. Also three-dimensional quantity is greatly different, as far as knowledge of it is concerned, from two-dimensional, inasmuch as the former employs two mean proportionals, and in knowing them it is impossible for there to be any confusion; nor can there be any power in a number, insofar as it is considered
+as a counting number; nor, furthermore, is the origin of this trinity immediately from the Divine Being, causing it by imitation, as it has been made clear above that the cause of this matter is in the basic principles which were expounded, which in no way imply any particular number of notes on their own, but by fitting together individual notes to individual notes harmonically, and thus while doing something else accidentally produce something similar to the Divinities
+on account of the number’s being the same. 
 
+The same thing also happens in very many other matters.
 
-In short, this threefold number is not the efficient cause of the harmonies, but an effect of the cause, or a concomitant of the harmony which is effected. It does not give form to the harmonies, but is a splendor of their form. It is not the matter of the harmonic notes, but is an offspring begotten by material necessity. It is not the end
-“for the sake of which,” but it is an eventual product of the work. 
+In short, this threefold number is not the efficient cause of the harmonies. 
+
+Instead, it is an effect, a concomitant of the harmony effected.
+
+It does not give form to the harmonies, but is a splendor of their form. It is not the matter of the harmonic notes, but is an offspring begotten by material necessity. It is not the end “for the sake of which,” but it is an eventual product of the work. 
 
 Lastly, nothing results from harmony itself, but it is a secondary entity of the reason, and a concept of the mind, by second intention. 
 

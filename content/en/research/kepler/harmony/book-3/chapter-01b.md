@@ -3,7 +3,7 @@ heading: Chapter 1b
 title: "The Sounds of Strings"
 description: "When 2 strings emit identical sounds, a third note which is consonant with one of them will also be consonant with the other"
 image: /covers/harmony.jpg
-weight: 6
+weight: 7
 contributors: ['Kepler']
 icon: /avatars/kepler.png
 ---

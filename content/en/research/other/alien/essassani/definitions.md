@@ -1,5 +1,5 @@
 ---
-title: "Definitions"
+title: "Definitions by the Essassani"
 weight: 100
 image: "/photos/physics/quasar.jpg"
 description: "Definitions by the Essassani"

@@ -8,25 +8,32 @@ contributors: ['Kepler']
 icon: /avatars/kepler.png
 ---
 
-<!-- Considered in Book 4 and 3. -->
-
 <!-- It is quite out of place to prefix a longer dissertation on the importance for sound philosophy of distinguishing the boundaries of things, of comparing things which are akin so that they are not taken for the same, and to contrast opposites to illuminate them. 
 
 Consequently it will be worthwhile to put forward in a single conspectus everything useful for this purpose which up to this point has been stated scantily or too obscurely or in passing, and wherever there is need, to illuminate it further and avowedly to make it fit the theme set out at the head of this chapter.  -->
 
-There is a fivefold distinction between the harmonies studied in Books 3 and 4. 
+There is a fivefold distinction between the harmonies in Books 3 and 4. 
 
-One is the actual matter of the harmony itself, with respect to its amplitude.
+1. The harmony itself, with respect to its amplitude
+2. The harmony in its sensible terms
+3. The cause which links the harmony with its essence
+4. The means by which the harmony is in that cause 
+5. The arrangement of the causes which shape the terms of the harmonic proportion.
 
-The second is in its sensible terms; the third is in the cause which links the harmony with its essence; the fourth is in the means by which it is in it; 
 
-The fifth is in the arrangement of the causes which shape the terms of the harmonic proportion.
+1. The Harmony Itself as a Harmonic Proportion
 
-I. As far as the thing itself is concerned which is called a harmonic proportion, they first arose in the third Book from the divisions of a circle by the regular plane constructible figures. 
+These proportions first arose in Book 3 from the divisions of a circle by the regular plane constructible shapes. 
 
-They were then transferred to straight lines, and when contrasted and combined with each other begot a not inconsiderable amount of harmonic parts (such as the harmonic divisions, tones, kinds, modes, systems, and so forth), and a wonderful commonwealth, so to speak, among them; and almost the whole of that apparatus, extensive as it is, will also be scrutinised and applied in Book V below. Now, however, in this fourth Book, although we have started from the same divisions of the circle indeed, yet we are not going to proceed to straight lines; but we shall confine the whole range of the discussion within the bounds of the circle. 
+They were then transferred to straight lines. When contrasted and combined with each other begot a not inconsiderable amount of harmonic parts (such as the harmonic divisions, tones, kinds, modes, systems, and so forth), and a wonderful commonwealth, among them.
 
-The reason has been stated in the previous Chapter, and will be stated at greater length below in Chapter VI where we shall deal further with their kinship and with the result of this distinction.-^® The harmonies more restricted in this Book.
+Almost the whole of that apparatus will also be scrutinised and applied in Book 5.
+
+Here we have started from the same divisions of the circle. Yet we are not going to proceed to straight lines.
+
+Instead, we shall confine ourselves within the bounds of the circle. 
+
+<!-- The reason has been stated in the previous Chapter, and will be stated at greater length below in Chapter VI where we shall deal further with their kinship and with the result of this distinction.-^® The harmonies more restricted in this Book. -->
 
 II. As far as the terms of those harmonies or their sensible subject are concerned, in Book 3 that was the sounds which differ in height or depth of pitch; and so they were included in the class of motion, and were in a sense shaped motions. On the other hand in this fourth Book it is not notes, as was stated in the preamble, not motions of some kind, between which harmonies are to be recognized; but they are in the angles which pairs of planets, when they give off bright rays, form at the Earth, insofar as such an angle can be compared with four right angles surrounding a single meeting point. Now here the reader needs some excellent advice. For I can indeed explain these terms more clearly for purposes of perception, but I cannot do so without danger of confusion in good philosophical practice, unless I carefully forearm the philosophical reader. 
 

@@ -1,5 +1,6 @@
 ---
 title: "Introduction"
+heading: Part 1
 description: "We must seek the causes of the harmonic proportions in the divisions of a circle into equal aliquot parts, which are made geometrically"
 image: /covers/harmony.jpg
 weight: 2
@@ -7,6 +8,10 @@ contributors: ['Kepler']
 icon: /avatars/kepler.png
 ---
 
+
+{{< q a="Proclus Diadochus" c="Commentary on Euclid Book 1" >}}
+Mathematics contributes very important things to the study of nature. It reveals the orderly nature of the reasoning, in accordance with which the whole has been constructed, and showing that the primary elements took on the appropriate forms and are connected together with symmetry and regularity.
+{{< /q >}}
 
 
 We must seek the causes of the harmonic proportions in the divisions of a circle into equal aliquot parts, which are made geometrically and knowably, that is, from the constructible regular plane shapes. 

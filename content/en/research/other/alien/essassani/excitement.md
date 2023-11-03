@@ -65,32 +65,33 @@ Whatever you are offering, there will be people receptive & appreciative of that
 
 ## Trusting your Timing
 
-We, as our Higher Self (Over-Soul) actually creates Time (as we experience it). Our Higher Self exists outside Time and Space.   
+We, as our Higher Self (Over-Soul) actually creates Time (as we experience it). Our Higher Self exists outside Time and Space. 
+- It projects portions of itself into specific time/space holograms (time/space matrixes), which we then experience as an incarnation. 
 
-It projects portions of itself into specific time/space holograms (time/space matrixes), which we then experience as an incarnation. So, from the point of view of any one incarnation, there is time, there is "past, present, and future". 
+So, from the point of view of any one incarnation, there is time, there is "past, present, and future". 
+- But from the point of view of the Higher Self, there is no Time.
+- It's all happening NOW. 
+- It's just one big Eternal-NOW.
 
-But from the point of view of the Higher Self, there is no Time. It's all happening NOW. It's just one big Eternal-NOW.  So keep in mind that our Higher Self  is creating the actual "time" that we are experiencing in a linear fashion.
+Our Higher Self is creating the actual "time" that we are experiencing in a linear fashion.
 
-When we intensely want to do something now, and it is easily possible to do it, no problem. We just do it.
+<!-- When we intensely want to do something now, and it is easily possible to do it, no problem. We just do it. -->
 
+If we intensely want to do something now but it is NOT possible, we are then at a critical decision-junction:
 
-But if we intensely want to do something now, and it is NOT possible to do it NOW, we are then at a critical decision-junction:
-
-We can choose to interpret this as "I am not getting what I want."
-
-Or, we can choose to interpret this as "I always get what I want. If it's not available yet, then there must be an excellent reason for this."
+1. We can choose to interpret this as "I am not getting what I want", or
+2. We can choose to interpret this as "I always get what I want. If it's not available yet, then there must be an excellent reason for this."
 
 Which of these choices we make is critical in determining the outcome, as this choice is equivalent to selecting a BELIEF, and we then experience the outcome aligned with that belief.
 
-If you choose to interpret the situation as "I am not getting what I want.", then, sure enough, you will continue to not get what you want.
+If you interpret the situation as "I am not getting what I want", then you will continue to not get what you want.
 
-But the alternative is to interpret not being able to do what you want to do NOW as "I always get what I want. If it's not available yet, then my Higher Self must have some experiences it wishes me to have first, so that when I do get what I want, I'll be able to enjoy it even more. I'll be able to enjoy it on a much richer, deeper basis."
+The alternative is to interpret it as "I always get what I want. If it's not available yet, then my Higher Self must have some experiences it wishes me to have first, so that when I do get what I want, I'll be able to enjoy it even more. I'll be able to enjoy it on a much richer, deeper basis."
 
-You see, often our Higher Self "arranges" time in such a way that we do not get what we want when we initially want it, only because it wants us to first accumulate certain experiences, certain skills, certain appreciations, certain connections with other people, certain awarenesses - FIRST!    
+Often, our Higher Self "arranges" time so that we do not get what we want when we initially want it. This is because it wants us to first accumulate certain experiences, skills, appreciations, connections with other people, awarenesses first.    
+- So that when we do get to experience this thing we want, we will appreciate it and enjoying it on a much deeper and more profound level.
 
-So that when we do get to experience this thing we want, we will then be appreciating it and enjoying it on a much deeper and more profound level.
-
-So when you want to do something and it is not immediately available, REMEMBER=  Your Higher Self is merely delaying this experience, so you get some other experiences first, so that you may enjoy and appreciate this thing you want EVEN MORE, when you do get it.
+So when you want to do something and it is not immediately available, REMEMBER that Your Higher Self is merely delaying this experience, so you get some other experiences first, so that you may enjoy and appreciate this thing you want EVEN MORE, when you do get it.
 
 So when you want to do something and it is not immediately available, TRUST YOUR TIMING.
 
@@ -176,5 +177,7 @@ Then acknowledge that this is your current Believe. "Own" it.    (You can not ch
 4. Once you decide what your new preferred Belief is, accept it. Adopt it. Breath it in. TRUST that this new Belief is now active and functioning in your Being. (You don't need to "get rid of" the old Belief. You only need to replace it with your preferred Belief.)
 
 Get into the Mind-Set of the new Belief.
+
 Get into the Emotional-Feeling State of the new Belief.
+
 Get into the Body-Language and Actions of the new Belief.

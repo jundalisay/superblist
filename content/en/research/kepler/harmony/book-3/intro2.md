@@ -3,7 +3,7 @@ heading: Introduction Part 2
 title: "Digression On The Pythagorean Tetractys"
 description: "The Tetractys are the perennial fountain of the human soul by which the Pythagoreans swore"
 image: /covers/harmony.jpg
-weight: 6
+weight: 4
 contributors: ['Kepler']
 icon: /avatars/kepler.png
 ---

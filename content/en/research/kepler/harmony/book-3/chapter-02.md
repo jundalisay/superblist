@@ -12,13 +12,23 @@ icon: /avatars/kepler.png
 
 
 The origin of the harmonic proportions are twofold:
-- one immediate from the constructible figures, the same being also congruent, the other through the mediation of double proportion, on which the identity of consonances depends. 
 
-However since the harmonic proportions are infinite, being as far as our knowledge goes still rough, unpolished, unnoticed, and unnamed, and heaped together or rather scattered like some mass of rough stones or timber, the next thing is for us to proceed to polish them, to attach names to them, and finally to construct from them the splendid edifice of the harmonic system, or musical scale. 
+1. Immediately from the constructible figures, the same being also congruent
 
-Its construction is not arbitrary, as some may suppose, not a human invention which may also be changed, but entirely rational, and entirely natural, so much so that God Himself the Creator has given expression to it in adjusting the heavenly motions to each other. 
+2. Through the mediation of double proportion, on which the identity of consonances depends. 
 
-Now the harmonic proportions are fitted together with them into a single system by the harmonic divisions of the string. How many they are in number will be the subject for investigation in this chapter.
+
+Harmonic proportions are infinite. These, as far as our knowledge goes, are still rough, unpolished, unnoticed, and unnamed, and scattered like rough stones or timber.
+
+We should polish them, attach names to them, and finally to construct from them the splendid edifice of the harmonic system, or musical scale.
+
+Its construction is not arbitrary. It is not a human invention which may be changed. Instead, it is entirely rational and  natural. 
+
+God Himself, the Creator, has given expression to it in adjusting the heavenly motions to each other. 
+
+The harmonic proportions are fitted together with them into a single system by the harmonic divisions of the string.
+
+How many strings are there?
 
 Definition
 
@@ -28,7 +38,7 @@ reater part
 
 If the whole string is divided into parts such that they are individually iu cousonauce both with each other and with the whole, we shall call the division harmonic. 
 
-Now the middle term of this division, in musical (that is, consonant) proportions, is one of two equal parts, or if they are unequal, the greater of them: the outer terms of a consonant proportion are the other, or smaller part, and the whole string. 
+The middle term of this division, in musical (that is, consonant) proportions, is one of two equal parts, or if they are unequal, the greater of them: the outer terms of a consonant proportion are the other, or smaller part, and the whole string. 
 
 Let the geometer note the analogy of the divine proportion, that is the proportion of extreme and mean, in which the whole bears the same proportion to the greater part as the greater bears to the smaller.
 
@@ -196,14 +206,18 @@ I.
 
 After the octagonal, no harmonic division of a string is produced.
 
-For the subsequent divisions either occur through inconstructible figures and their stars, and then although the parts may be consonant with each other, yet they are dissonant with the whole, by Axiom III; or through figures which
-are constructible by an inappropriate construction, such as the pentekaedecagonl [fifteen-sided figure], and parts which belong to this division are in dissonance with the whole, by the Corollary to Axiom 3; or through figures which
-are constructible by an appropriate construction, which after the Pentagon are all figures of an even number of sides: see Book I. 
+This is because the subsequent divisions either occur:
+- through inconstructible shapes and their stars
+  - The parts might be consonant with each other then, yet they are dissonant with the whole, by Axiom 3 or
+- through shapes which are constructible by an inappropriate construction, such as the pentekaedecagonl [fifteen-sided figure], and parts which belong to this division are in dissonance with the whole, by the Corollary to Axiom 3; or
+- through shapes which are constructible by an appropriate construction, which after the Pentagon are all figures of an even number of sides: see Book 1. 
 
-Then the parts which belong to such divisions must consist of an uneven number of portions by the division; for if they were represented by an even number, the part would belong not to this division, but to a previous one. Thus if a string is divided into 10 and you take 4 or 6 portions, it is just as if you were to divide the string into 3 and
+Then the parts which belong to such divisions must consist of an uneven number of portions by the division. If they were represented by an even number, the part would belong not to this division, but to a previous one.
+
+Thus, if a string is divided into 10 and you take 4 or 6 portions, it is just as if you were to divide the string into 3 and
 take 2 or 3 portions. 
 
-Then since the part is of an uneven number, the whole is of an even number, and the part can indeed be in consonance with the whole if it is not greater than fivefold (by Proposition V.) But one consonance is not sufficient for a harmonic division, as is evident from the definition. 
+Since the part is of an uneven number, the whole is of an even number, and the part can indeed be in consonance with the whole if it is not greater than fivefold (by Proposition V.) But one consonance is not sufficient for a harmonic division, as is evident from the definition. 
 
 In that case then the remainder will be in dissonance; for the whole is assumed to have more than 8 portions and the definition of the remainder is that it is greater than half, that is to say greater than 4. Then the smallest remainder in an eightfold division is 5; in those of greater number it is greater than 5.
 
