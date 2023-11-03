@@ -44,11 +44,27 @@ intended by al-Bukhari to interpret the verse of the Qur'an in the sense that it
 
 If (the word in question) is interpreted in the sense of "we established by law," there is no confusion (or contradiction) in the (chapter heading saying that) a man with two little legs will destroy (the House). I learned this explanation from our teacher, Abul-Barakat al-Ballafiqi,149 who had it on the authority of (Ibn Bakkar). Al-Ballafiqi was one of his most important pupils. 
 
-Commentators who do not exhaust such problems do not completely fulfill their duties as commentators. Commentators of this sort include Ibn Battal, 150 Ibn al-Muhallab, 151 Ibn at-Tin, 152 and others. I have heard many of our teachers say= "The Muslims still have the obligation to write a commentary on al-Bukhari." They meant that no Muslim scholar has so far completely fulfilled the task of a commentator in the sense indicated.
+Commentators who do not exhaust such problems do not completely fulfill their duties as commentators.
 
-The Sahih of Muslim has been given much attention by Maghribi scholars. They applied themselves to it and agreed that it was superior to the work of al-Bukhari. Ibn as-Salah said= 153 "It is considered superior (by Maghribis and other scholars) to the work of al-Bukhari, because it is free from admixtures of material that is not sound and that al-Bukhari wrote down disregarding his own conditions (of soundness), mostly in connection with the chapter headings."
+Commentators of this sort include:
+- Ibn Battal,
+- Ibn al-Muhallab,
+- Ibn at-Tin, etc.
 
-The imam al-Mazari, 154 a Malikite jurist, dictated a commentary on the Sahih of Muslim which he entitled al-Mu'lim bi fawa'id Muslim. It contains much important source material from the science of tradition and solid juridical knowledge. 
+Our teachers say: "The Muslims still have the obligation to write a commentary on al-Bukhari." 
+
+They meant that no Muslim scholar has completely fulfilled that task.
+
+The Sahih of Muslim has been given much attention by Maghribi scholars. They applied themselves to it and agreed that it was superior to the work of al-Bukhari. 
+
+
+{{< q a="Ibn as-Salah" >}}
+It is considered superior (by Maghribis and other scholars) to the work of al-Bukhari because:
+- it is free from admixtures of material that is not sound 
+- al-Bukhari wrote down disregarding his own conditions (of soundness), mostly in connection with the chapter headings.
+{{< /q >}}
+
+The imam al-Mazari was a Malikite jurist. He dictated a commentary on the Sahih of Muslim which he entitled al-Mu'lim bi fawa'id Muslim. It contains much important source material from the science of tradition and solid juridical knowledge. 
 
 The work was later on perfected by Judge 'Iyad. 155 He called his work Ikmal al-Mu'lim. The two of them were followed by Muhyi-ad-din an-Nawawl with a commentary containing all the material of the two works and adding to it, thus becoming a complete commentary.
 
@@ -58,7 +74,7 @@ It should be known that, at this time, traditions are classified in grade as "so
 
 The hadith authorities made known the traditions in their various recensions and with their chains of transmitters. They were so thorough in this respect that, if a tradition had been transmitted with a chain of transmitters or in a recension not belonging to it, they would have realized that it had been tampered with. Something of the sort happened to the imam Muhammad b. Ismail 156 al-Bukhari. He came to Baghdad, and the hadith scholars wanted to examine him. 
 
-They asked him about several traditions, transposing the chains of transmitters (cited). He said= "I do not know those traditions, but I was told by so-and-so . . ." and then he repeated all the traditions in the correct order, supplying each text with the chain of transmitters to which it belonged. The hadith scholars (in Baghdad), in consequence, acknowledged (al-Bukhari's) leadership. 157
+They asked him about several traditions, transposing the chains of transmitters (cited). He said: "I do not know those traditions, but I was told by so-and-so . . ." and then he repeated all the traditions in the correct order, supplying each text with the chain of transmitters to which it belonged. The hadith scholars (in Baghdad), in consequence, acknowledged (al-Bukhari's) leadership. 157
 
 Religious leaders of independent judgment differed in the extent of their knowledge of traditions.
 
@@ -70,7 +86,9 @@ Ahmad b.Hanbal has 50,000 traditions in his Musnad.
 
 Each (authority) has as many traditions as his independent judgment in this respect allowed him to have.
 
-A certain biased, unfair person dared to say that some (of the authorities) knew little about traditions and, therefore, did not transmit many. It is impossible to believe such a thing about the great religious leaders. The religious law is derived from the Qur'an and the Sunnah, and those who know little about traditions definitely have to study and transmit them with eagerness and zeal, in order to be able to derive the religion from (its) sound basic principles and to get the laws from their Master (Muhammad) who brought them from God. 
+A certain biased, unfair person dared to say that some (of the authorities) knew little about traditions and, therefore, did not transmit many. It is impossible to believe such a thing about the great religious leaders.
+
+The religious law is derived from the Qur'an and the Sunnah, and those who know little about traditions definitely have to study and transmit them with eagerness and zeal, in order to be able to derive the religion from (its) sound basic principles and to get the laws from their Master (Muhammad) who brought them from God. 
 
 Therefore, the great religious leaders who transmitted only a few traditions, did so (not because they knew little about traditions but) because they might have been attacked with regard to the traditions they transmitted, and because their transmission might have been accused of defects, especially since the majority (of scholars) gives preference tonegative (as against positive) personality criticism. 
 
@@ -81,32 +99,61 @@ Furthermore, the Hijazis transmitted more traditions than the 'Iraqis. Medina wa
 
 The imam Abu Hanifah transmitted only a few traditions, because he was very strict in applying the conditions governing the transmission and retention of traditions. He declared traditions weak when they were contradicted by decisive logical (arguments). 
 
-Therefore, it was difficult for him to transmit traditions, and his traditions are few. However, it can by no means be assumed that he purposely omitted to transmit traditions. He would not have done such a thing. He was one of the greatest scholars of independent judgment in the science of tradition. This is proven by the fact that the hadith scholars follow his school and refer to it and take it into consideration in rejecting or accepting (arguments).
+Therefore, it was difficult for him to transmit traditions, and his traditions are few. However, it can by no means be assumed that he purposely omitted to transmit traditions. He would not have done such a thing. 
+
+He was one of the greatest scholars of independent judgment in the science of tradition. This is proven by the fact that the hadith scholars follow his school and refer to it and take it into consideration in rejecting or accepting (arguments).
 
 Other hadith scholars, that is, the great majority, permitted a certain latitude in applying the conditions (governing the soundness of traditions). They transmitted many traditions, everyone relying on his own independent judgment. The later (Hanafites) permitted a certain latitude in applying the conditions and transmitted many traditions. At-Tahawi 160 was a transmitter who transmitted many traditions. 
 
-He wrote his Musnad, which is an important work. However, it does not have the same value as the two Sahihs, because the conditions applied by al-Bukhari and Muslim in their works are those accepted by the general consensus of all Muslims, as has been said. The conditions applied by at-Tahawi, on the other hand, are not generally agreed upon. For instance, he transmits traditions on the authority of persons whose condition is obscure, and other things. Therefore, the two Sahihs, as, indeed, the other well-known collections of traditions, are preferable to (at-Tahawi), because his conditions are inferior to theirs. 
+He wrote his Musnad, which is an important work.
+
+However, it does not have the same value as the two Sahihs, because the conditions applied by al-Bukhari and Muslim in their works are those accepted by the general consensus of all Muslims, as has been said. 
+
+The conditions applied by at-Tahawi, on the other hand, are not generally agreed upon. For instance, he transmits traditions on the authority of persons whose condition is obscure, and other things. Therefore, the two Sahihs, as, indeed, the other well-known collections of traditions, are preferable to (at-Tahawi), because his conditions are inferior to theirs. 
 
 Therefore it is said that the two Sahihs are accepted by general consensus, as there is general consensus concerning the soundness of the conditions applied in them and generally agreed upon. No one should be in any doubt about this. Of all people, scholars most deserve that one have a good opinion of them and that one be eager to find sound excuses for them.
 
-Another 161 of the sciences of traditions is the application of this canon to the discussion of the traditions, one by one, according to their various chapters and headings, by interpreting these collections of traditions. 162 This was done by the hadith expert Abu Umar b. Abd-al-Barr, 163 by Abu Muhammad b. Hazm, 164 by Judge 'Iyad, by Muhyi-ad-din an-Nawawi, and by Ibn al-'Attar 165 after (Iyad and anNawawi), and by many other leading religious scholars of the West and the East.
+Another of the sciences of traditions is the application of this canon to the discussion of the traditions, one by one, according to their various chapters and headings, by interpreting these collections of traditions. 
 
-It is true that their discussions of the traditions contain other things, such as things that have to do with the text, the lexicography, and the grammar (i'rab) of the traditions. Still, their discussions of the chains of transmitters of the traditions in accordance with the hadith technique, are more comprehensive and longer (than their discussions of other matters). 
+This was done by:
+- the hadith expert Abu Umar b. Abd-al-Barr
+- Abu Muhammad b. Hazm
+- Judge 'Iyad
+- Muhyi-ad-din an-Nawawi
+- Ibn al-'Attar
+- Iyad and anNawawi
+- many other leading religious scholars of the West and the East.
+
+
+Their discussions of the traditions contain other things:
+- things that have to do with the text,
+- the lexicography, and
+- the grammar (i'rab) of the traditions. 
+
+Still, their discussions of the chains of transmitters of the traditions in accordance with the hadith technique, are more comprehensive and longer (than their discussions of other matters). 
 
 These are the various sciences of tradition current among leading contemporary authorities. 166 God guides toward the truth and helps to (find) it.
 
 Another of the sciences of tradition is that concerned with the chains oftransmitters and with knowledge of the traditions in accordance with which one must act because they are provided with chains of transmitters fulfilling all the conditions (of trustworthiness). 
 
-One must act only in accordance with those traditions of the Messenger of God that, in all probability, are true. How it is possible to assume probability must be investigated by independent study. One gets to (the assumption of probability) through knowledge of the probity and accuracy of the transmitters of traditions. Such knowledge is established through information obtained on the authority of religious leaders, which declares a transmitter to be reliable and free from unreliability or negligence. This shows us whether we should accept their (traditions) or reject them.
+One must act only in accordance with those traditions of Mohammad. 
 
-Furthermore, knowledge of the transmitters includes knowing and distinguishing the different ranks of the individual transmitters among the men
-around Muhammad and the men of the second generation.
+How is it possible to assume that probability be investigated by independent study?
 
-The chains of transmitters also differ in respect to continuity or lack of continuity, in that a transmitter may not have known personally the transmitter on whose authority he transmits a tradition. They also differ in respect to their freedom from weaknesses which may affect them adversely. These differences lead to (the designation of) two kinds of chains, and the rule is that the "highest" 115 chain is to
+One gets to (the assumption of probability) through knowledge of the probity and accuracy of the transmitters of traditions. 
+
+Such knowledge is established through information obtained on the authority of religious leaders, which declares a transmitter to be reliable and free from unreliability or negligence. This shows us whether we should accept their (traditions) or reject them.
+
+Knowledge of the transmitters includes knowing and distinguishing the different ranks of the individual transmitters among the men around Muhammad and the men of the second generation.
+
+The chains of transmitters also differ in respect to continuity or lack of continuity, in that a transmitter may not have known personally the transmitter on whose authority he transmits a tradition. 
+
+They also differ in respect to their freedom from weaknesses which may affect them adversely. These differences lead to (the designation of) two kinds of chains, and the rule is that the "highest" 115 chain is to
 be accepted, and the "lowest" chain to be rejected. 
 
-There are differences of opinion with regard to the intermediate kind, according to the transmitted statements of authorities on the subject. They have invented technical terms for (classifying) the various grades (of reliability), such as "sound," "good," "weak," "skipping the first
-transmitter on Muhammad's authority" (mursal), "omitting one link" (munqati'), "omitting two links" (mu'dal), "singular" (shadhdh), "unusual" (gharib), and the other terms in use among them. Each term has been treated by itself, and the existing disagreements or agreements among linguistic authorities concerning each term have been noted.
+There are differences of opinion with regard to the intermediate kind, according to the transmitted statements of authorities on the subject. 
+
+They have invented technical terms for (classifying) the various grades (of reliability), such as "sound," "good," "weak," "skipping the first transmitter on Muhammad's authority" (mursal), "omitting one link" (munqati'), "omitting two links" (mu'dal), "singular" (shadhdh), "unusual" (gharib), and the other terms in use among them. Each term has been treated by itself, and the existing disagreements or agreements among linguistic authorities concerning each term have been noted.
 
 Further, there is the study of how the transmission took place. It may have taken place by reading (gira'ah), by writing (kitabah), by getting the approval of the authority for written material (munawalah), or by obtaining the permission of the
 authority to teach certain traditions (ijizah). One must study the difference in grade assigned to these different types of transmission, and one must also study the differences of opinion among scholars about what is to be accepted here and what to be rejected.

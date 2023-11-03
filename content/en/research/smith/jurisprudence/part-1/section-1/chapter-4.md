@@ -10,7 +10,6 @@ description: "When a country arrives at a certain degree of refinement, it becom
 ---
 
 
-
 We have shown:
 - how republics arose, and
 - how they again became democratic.
@@ -23,28 +22,46 @@ The republics mentioned must either:
 - confine themselves within their ancient boundaries, or
 - enlarge their territory by conquest.
 
-They must either be a defensive republic or a conquering one. The Greek states are a good example of a defensive republic. Rome and Carthage are examples of conquering republics. We first show how the defensive states lost their liberty.
+They must either be a defensive republic or a conquering one. 
+- The Greek states are a good example of a defensive republic.
+- Rome and Carthage are examples of conquering republics.
 
-When a country arrives at a certain degree of refinement, it becomes less fit for war. When the arts arrive at a certain degree of improvement, the population increases, yet that of fighting men becomes less. In a state of shepherds the whole nation can go out to war.
 
-They can send out a great number even when= 
+## How Did the Defensive States Lose their Liberty?
+
+When a country arrives at a certain degree of refinement, it becomes less fit for war. Its population increases, yet the population of fighting men becomes less. 
+
+In a state of shepherds, the whole nation can go out to war. 
+
+Even in an agricultural state they can still send out men. 
+- Their campaigns are always in summer because from seed time until harvest, their young men have nothing to do.
+
+<!-- They can send out many men even when: 
 - it becomes more refined,
 - the division of labour takes place, and
-- everyone has a small farm.
+- everyone has a small farm. -->
 
-In such an age, their campaigns are always in summer. From seed time until harvest, their young men have nothing to do. The whole business at home can be performed by the old men and women. Even these sometimes have beaten the enemy in the absence of their soldiers. 
+<!-- The whole business at home can be performed by the old men and women. Even these sometimes have beaten the enemy in the absence of their soldiers.  -->
 
-In a state of manufacturers and the arts, the people cannot be sent out large numbers because if a weaver or tailor is called away, no clothing gets done in his absence.
+In a state of manufacturers and the arts, the people cannot be sent out in large numbers because if a weaver or tailor is called away, no clothing gets done in his absence.
 
-Scarce 1% can be spared from Britain and Holland. 
+Scarce 1% can be spared from Britain and Holland.
 - Of 100 people, 50 are women. 
 - Of 50 men, 25 are unfit for war. 
 
-In the last war, Britain could not spare so many. One just needs to reflect if he had missed 1 out of 25 of his acquaintances to be convinced of this. According to this principle, Athens could once send out 30,000 fighting men, even if it were a small state.
+In the last war, Britain could not spare so many.  But ancient Athens could once send out 30,000 fighting men, even if it were a small state.
 
-But after the improvement of arts, they could not send out more than 10,000. Despite its refinement, Britain can still send out a very formidable army thanks to the size of its territories.
+<!-- One just needs to reflect if he had missed 1 out of 25 of his acquaintances to be convinced of this. According to this principle,  -->
 
-But a small state necessarily declines. However, slavery has one advantage in a small republic in that it retards the decline of the state. At Rome and Athens, the arts were done by slaves.
+After the improvement of arts, the Greeks could not send out more than 10,000. 
+
+Despite its refinement, Britain can still send out a formidable army thanks to the size of its territories.
+
+But a small state necessarily declines. 
+
+However, slavery has one advantage in a small republic -- it retards the state's decline. 
+
+At Rome and Athens, the arts were done by slaves.
 - The Spartans went so far as not to allow any freeman to be brought up to mechanic employments, because they imagined that they hurt the body.
 - At the battle of Chaeronea, the Athenians became considerably refined.
   - They were able to send out many men because all their trades were done by slaves.
@@ -56,14 +73,14 @@ When, a state becomes opulent because of the improvement of arts, going out to w
   - They were inured to hardships at home. 
   - Therefore, a campaign appeared not dreadful.
 
-But when opulence and luxury increased, the rich would take the field only on the most urgent account. It became necessary to employ mercenaries to serve in war. Such persons could never be trusted in war unless they were= 
+But when opulence and luxury increased, the rich would take the field only on the most urgent account. It became necessary to employ mercenaries to serve in war. Such persons could never be trusted in war unless they were:
 - reduced to the form of a standing army, and
 - subjected to rigid discipline.
 
 Their private interest was but little concerned. Therefore, without such treatment they could not be expected to be very resolute in their undertakings. Gentlemen may carry on a war without much discipline. But this a mob can never do.
 
 
-The Greeks declined because= 
+The Greeks declined because: 
 - they thought it below them to bear arms
   - They entrusted the republic to mercenaries. 
   - Their military force was reduced. 
@@ -75,13 +92,15 @@ The Greeks declined because=
 
 In modern times the besiegers have an advantage over the besieged. A good engineer can force almost any town to surrender in six weeks.
 
-Philip of Macedon made great improvements in engineering. This caused= 
+Philip of Macedon made great improvements in engineering. This caused: 
 - the dissolution of all the Greek governments and
 - their subjection to foreign powers.
 
 Rome stood out much longer than Greece, because its population was increasing daily. At Rome, anyone could be made a citizen. But at Athens the right of citizenship was given to very few, since it was small.
 
-However, Rome itself after opulence and luxury increased, shared the fate of other republics, though in a different way. Until the time of Marius, the better sort of free men made up the army. Marius was the first to recruit freed slaves into his army.
+However, Rome itself after opulence and luxury increased, shared the fate of other republics, though in a different way. 
+
+Until the time of Marius, the better sort of free men made up the army. Marius was the first to recruit freed slaves into his army.
 - He established a rigid military discipline.
 - That army which before had consisted of farmers was now made up of runaway slaves and the lowest of the people.
 - With such an army, Marius conquered and kept the provinces in awe.
@@ -93,11 +112,19 @@ Through Sylla, he was banished from Rome in absentia and a price set on him. Mar
 
 Sylla returned to Rome after conquering Mithridates and then beat the Marian party and changed the government into a monarchy with himself as perpetual Dictator. He afterwards had the generosity and magnanimity to resign it.
 
-Around 40 years after, the same thing happened between Caesar and Pompey. Caesar, just like Sylla, made himself perpetual Dictator, but did not have enough of public spirit to resign it. His veteran troops were settled in Italy. They were mindful of the favours he conferred on them. After his death, they gathered around his adopted son Octavius and invested him with the supreme authority.
+Around 40 years after, the same thing happened between Caesar and Pompey. 
 
-Much the same thing happened in our own country with respect to Oliver Cromwell. When the Parliament became jealous of him and disbanded the army, he applied to them. He got the Parliament turned out and a new one appointed more suitable to his mind, with the whole authority vested in himself.
+Caesar, just like Sylla, made himself perpetual Dictator. But he did not have enough of public spirit to resign it. 
+
+His veteran troops were settled in Italy. 
+- They were mindful of the favours he conferred on them. 
+- After his death, they gathered around his adopted son Octavius and gave him the supreme authority.
+
+The similar thing happened in Britain with respect to Oliver Cromwell.
+
+When the Parliament became jealous of him and disbanded the army, he applied to them. He got the Parliament turned out and a new one appointed more suitable to his mind, with the whole authority vested in himself.
  
-Thus we have seen how small conquering or defensive republics were dissolved by the improvements in= 
+Thus we have seen how small conquering or defensive republics were dissolved by the improvements in:
 - mechanic arts,
 - commerce, and
 - the arts of war.

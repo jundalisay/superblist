@@ -9,9 +9,6 @@ contributors: ['Rene Descartes']
 icon: "/icons/descartes.png"
 ---
 
-<!-- > Superphysics Note: This section is under construction -->
-
-
 
 The comets that are not in the sun's territory send less rays towards the Earth as when they were in the sun's territory. 
 <!-- - This is true even for those that are ready to enter it. -->
@@ -68,7 +65,9 @@ Let:
 
 Imagine the ray coming from `C` toward `B` passes straightaway to point `A`. It begins at point `B` to grow larger and to be divided into many other rays, which extend every which way in all directions. 
 
-Thus, each of them is that much weaker as it is carried farther away from the one in the middle, `BA`, which is the principal ray of all and the strongest. Then, too, when the ray CE is at point `E`, it begins to grow larger and also to be divided into many others, such as `EH`, `EY`, `ES`. 
+Thus, each of them is that much weaker as it is carried farther away from the one in the middle, `BA`, which is the principal ray of all and the strongest.
+
+Then, too, when the ray CE is at point `E`, it begins to grow larger and also to be divided into many others, such as `EH`, `EY`, `ES`. 
 
 The principal and strongest of these, however, is `EH`, and the feeblest is `ES`. In the same way, `CG` passes principally from `G` toward `I`, but in addition it is also carried away from `S` and toward all the spaces between GI and `GS`. 
 
@@ -98,9 +97,8 @@ Since the sphere `EBG` is not always exactly round, nor also any of the others i
 {{< img src="/graphics/physics/world15d.gif" alt="Balls" cap="" >}}
 
 
-The refraction that causes all of this is of a nature very special and very different from all those commonly observed elsewhere. 
+The refraction that causes all of this is of a nature very special and very different from all those commonly observed elsewhere.
 
-<!-- But you will not fail to see clearly that it should take place in the manner I have just described to you if you consider that the  -->
 
 Ball `H` is being pushed toward `I`.
 - This causes `H` to push all those below it down to `K`
@@ -122,7 +120,11 @@ Moreover, the small balls `1`, `2`, `3`, `4`, etc., being thus all pushed at the
 
 Thus, if the whole space `LIM` were full of similar small balls, the rays of their action would be distributed there in the same manner as I have said are those of the comets within the sphere `EBG`.
 
-If to this you object that the inequality between the balls `N`, `P`, `H`, `P` and `1`, `2`, `3`, `4`, etc. is much greater than that which I have supposed between the parts of the air-aether that compose the sphere `EBG` and those that are immediately below them toward the sun, I respond that one can draw no other consequence from this than that there should not take place as much refraction in the sphere `EBG` as in that composed by the balls `1`, `2`, `3`, `4`, etc. 
+You object that the inequality between the balls `N`, `P`, `H`, `P` and `1`, `2`, `3`, `4`, etc. is much greater than that between:
+- the air-aether particles of the sphere `EBG` and
+- those that are immediately below them toward the `sun`.
+
+I reply that one can draw no other consequence from this than that there should not take place as much refraction in the sphere `EBG` as in that composed by the balls `1`, `2`, `3`, `4`, etc. 
 
 However, since there is in turn some inequality between the parts of the air-aether that are immediately below this sphere `EBG` and those that are still lower toward the sun, this refraction increases more and more as the rays penetrate farther. 
 

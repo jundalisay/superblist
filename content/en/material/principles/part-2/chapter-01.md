@@ -5,7 +5,7 @@ date: 2020-01-31
 linkTitle: "Spatial Layer"
 image: "/photos/physics/quasar.jpg"
 description: "The spatial layer is the spacetime in Physics"
-weight: 8
+weight: 2
 contributors: ['Juan']
 icon: /icons/spmat.png
 ---

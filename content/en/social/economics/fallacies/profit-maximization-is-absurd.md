@@ -34,7 +34,7 @@ PLEASURE and pain are undoubtedly the ultimate objects of the Calculus of Econom
 
 ## Math is for Nonliving Things Which Have No Free Will
 
-In essence, this combines a bad philosophy with a mathematical tool that is not meant for humans. Smith wrote a whole chapter explaining the dangers of utility. 
+In essence, Jevons combines a bad philosophy with a mathematical tool that is not meant for humans. Smith wrote a whole chapter explaining the dangers of utility. 
 
 Mathematics applies to physical, unconscious objects which have no free will, and not to human minds which can change drastically. Through math, you can predict precisely where a ball will fall. But you can never accurately predict a person's actions, much less those of a society through numerical data. 
 
@@ -68,13 +68,13 @@ If most of the revenue goes to the merchant class, then:
 
 This often leads to some kind of crisis which the merchant class can avoid by moving overseas, unlike working and ruling classes who stay stuck with the problem.
 
-It would be like a basketball team where all of the salary goes to the star player, such as Lebron James, and the four other members play for food. This would cause the team to fail and Lebron to simply move to another team to continue enjoying his high salary.
+It would be like a basketball team where all of the salary goes to the star player, such as Lebron James, and the four other members play for food. This would cause the team to fail and Lebron to simply move to another team to continue getting a high salary.
 
 > *Update June 2021: We can thus make an analogy that utilitarianism is a kind of virus that infects the merchant class the most, allowing it to spread naturally around the planet. Neo-liberalism then is the resulting pandemic that has infested the earth, destroying societies and the environment along the way.
 
 
 {{< q a="Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 1" >}}
-There is a lot of bullion alternately imported and exported for foreign trade in all great commercial countries. This bullion circulates among commercial countries in the same way as the national coin circulates in every country.This bullion is the money of the great mercantile republic. The national coin receives its movement and direction from the commodities circulated within the country. The mercantile republic’s bullion gets its movement from the circulation between countries.
+There is a lot of bullion alternately imported and exported for foreign trade in all great commercial countries. This bullion circulates among commercial countries in the same way as the national coin circulates in every country. This bullion is the money of the great mercantile republic. The national coin receives its movement and direction from the commodities circulated within the country. The mercantile republic’s bullion gets its movement from the circulation between countries.
 {{< /q >}}
 
 {{< q a="Smith" c="The Wealth of Nations Simplified, Book 4, Chapter 4" >}}
@@ -93,7 +93,11 @@ The monopoly of the colony trade broke that natural balance of British industry.
 
 In the past, big socio-economic disorders have been caused by small 'stops*'. 
 
-For example, the 1997 Asian Financial Crisis was caused by a single country (Thailand) while the 2008 Financial Crisis was caused by a single bank (Lehman Brothers). We predict that a future global crisis after 2018 will likewise arise from a small stop.
+For example:
+- The 1997 Asian Financial Crisis was sparked by a single country, Thailand
+- The 2008 Financial Crisis was caused by a single bank, Lehman Brothers
+
+We predict that a future global crisis after 2018 will likewise arise from a small stop.
 
 > *Update July 2021: The small stop for the current crisis turned out to be the tiny SARS-Cov2 virus
 
@@ -112,8 +116,10 @@ Smith's solution was to establish perfect economic democracy for all three class
 {{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 4, Chapter 7" >}}
 A moderate and gradual relaxation of the British exclusive trade to the colonies, until it is rendered free, is the only expedient which can deliver her from this danger in the future. It can turn her capital towards other employments, **though with less profit**. 
 
-By gradually reducing one industry and increasing the rest, this relaxation can restore her industry to that natural and healthy proportion which perfect liberty necessarily establishes. Perfect liberty can alone preserve this natural balance. <!-- Opening the colony trade all at once to all nations might create some temporary inconvenience. It might create a great permanent loss to most of those presently engaged in it. Even the sudden loss of the employment of the ships which import the surplus tobacco might alone be felt very sensibly. -->
+By gradually reducing one industry and increasing the rest, this relaxation can restore her industry to that natural and healthy proportion which perfect liberty necessarily establishes. Perfect liberty can alone preserve this natural balance.
 {{< /q >}}
+
+ <!-- Opening the colony trade all at once to all nations might create some temporary inconvenience. It might create a great permanent loss to most of those presently engaged in it. Even the sudden loss of the employment of the ships which import the surplus tobacco might alone be felt very sensibly. -->
 
 
 This economic democracy would lead to more competition and lower nominal prices, but greater revenue on the whole. Smith advocated lower profits and the regulation of overgrown industries as a solution to Britain's bad situation then. 
@@ -155,8 +161,6 @@ More generally, this centralization manifests as rising inequality.
 {{< q a="Smith" c="The Wealth of Nations Simplified, Book 4, Chapter 7" >}}
 Such are the unfortunate effects of all the regulations of the mercantile system! They introduce very dangerous disorders into the political body. Those disorders are often difficult to remedy without creating greater short term disorders.
 {{< /q >}}
-
-<br>
 
 
 {{< box >}}

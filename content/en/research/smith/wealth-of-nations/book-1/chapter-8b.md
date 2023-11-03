@@ -104,7 +104,7 @@ The oversupply would reduce wages to the lowest rates, making job-seeking very d
 - Poverty, famine, and mortality would immediately prevail in the lower class.
   - From there it would extend to all upper classes.
 
-Society would soon be reduced to a smaller revenue and stock<!-- which had escaped the calamity that destroyed the rest -->.
+Society would soon be reduced to a smaller revenue and stock.<!-- which had escaped the calamity that destroyed the rest -->.
 
 This perhaps is the present state of Bengal and some English settlements in the East Indies.
 - In a depopulated fertile country where 300,000-400,000 people die of hunger each year, the funds for maintaining the labouring poor are fast decaying.

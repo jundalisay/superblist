@@ -10,60 +10,78 @@ icon: /icons/pantry.png
 ---
 
 
-Our Five Layers are derived from the Five Elements of the Greeks, Hindus, and Chinese. Such a concept is absent in science because science came from the Western civilization which is really just the Roman Empire. 
+The universe is a reality that is made up of 5 Layers that are completely integrated with each other. 
 
+An analogy is a Photoshop image which is made up layers that are on top of each other. 
+
+{{< img src="/graphics/super/layers.jpg" alt="Layers in an image" cap="Reality is made up of 5 Layers which the ancients called the 5 Elements" >}}
+
+These layers were known to the ancient Greeks, Hindus, and Chinese as the 5 Elements. Currently, Modern Physics only knows 3 of the 5 as:
+
+1. Strong Force
+2. Weak Force 
+3. Electromagnetism 
+
+The 4th force as gravity is not yet fully understood by Modern Physics. To understand why, we have to look into the nature of Western thinking.
+
+ <!-- Such a concept is absent in science because science came from the Western civilization which is really just the Roman Empire.  -->
 
 ## The Western Limitation
 
-Physics came from Isaac Newton* who came up with classical mechanics to explain why 17th-century things move. For example, a falling apple immediately includes three of the four forces:
+Modern Physics came from Isaac Newton who came up with classical mechanics to explain why 17th-century things move. For example, a falling apple immediately includes 3 of the 5 forces:
 
 1. Strong force to keep the apple's identity
 2. Gravitational force to make the apple fall
 3. Electromagnetism for the apple to repel the Earth and not fall through the soil  
 
-> *Newton's Principia is written in Latin, the language of the Roman Empire
+<!-- > *Newton's Principia is written in Latin, the language of the Roman Empire -->
 
+Newton was very good at math and so he naturally had little knowledge of metaphysics*. This is because math deals with counting discrete identities and particles such as `1`, `2`, `3` whereas metaphysics deals with abstract waves such as the feelings of `peace`, `prosperity`, and `love`.  
 
-Newton was very good at math and so he naturally had zero knowledge of metaphysics*. This is why he couldn't find the cause of gravity. 
-
-
-{{< q a="socrates" >}}
+{{< q a="Socrates" c="The Republic by Plato Simplified, Book 7" >}}
 Surely the skilled mathematician is not a dialectician.
-<cite>Socrates, The Republic Book 7</cite>
 {{< /q>}}
 
+This is why Newton kept on studying the Bible and making predictions from it, as if they could ever come true. His ignorance of metaphysics is why he could not find the cause of gravity.
 
-{{< q a="newton" >}}
+{{< q a="Newton" c="Principia Mathematica Book 3, General Scholium" >}}
 But I have not been able to discover the cause of gravity from phenomena. I have no hypotheses because hypotheses have no place in experimental philosophy.. To me, it is enough that gravity exists and that it accounts for all the motions of the the celestial bodies, and of our sea. 
-<cite>Newton, Principia Mathematica Book 3, General Scholium</cite>
 {{< /q >}}
 
+The knowledge of metaphysics can be revealed by knowing the nature of the aether just as that of physics can be known revealing the nature of matter. 
+- The aether acts as waves
+  - This is good for music and therefore art and philosophy
+- Matter acts as particles
+  - This is good for quantifying and therefore math and engineering
 
-> *This is because the operation of the mind when doing math and philosophy are different
+The operations of the mind for math and philosophy are very different. A good philosopher often is bad at math, just as an excellent mathematician is awful at philosophy. 
 
+Superphysicists are generally philosophers first, who use data science and computers to augment any deficiency in  mathematics or memorization. 
 
-Over time, physicists classified these forces into a four-force model:
+Modern Physics therefore began with a matter-first paradigm and then jumping to the realm of electromagnetism. Over time, physicists classified forces into four:
 
 1. Strong
 2. Weak
 3. Electromagnetism
 4. Gravitation
 
-Physicists are dumbfounded at the mysteries of gravitation which is supposed to be explained by Einstein's General Relativity (GR). The problem is that they don't know that GR is a sophistry that traps Physics* within  Electromagnetism and away from gravitation. 
+Physicists are dumbfounded at the mysteries of gravitation which has very different dynamics from Matter or Electromagnetism. 
 
-> *The concept of quantum fields comes from magnetic fields which is a property of the Electromagnetic force and not the gravitational force which works on relationships between discrete identities
+Einstein's General Relativity (GR) was supposed to explain it. Like Newton, Einstein was good at math, able to create field equations to explain the structure of spacetime. However, like Newton, he was ignorant of metaphysics and so his [field equations are unsolvable](https://www.forbes.com/sites/startswithabang/2019/12/04/this-is-why-scientists-will-never-exactly-solve-general-relativity/).
+
+The limitations of Modern Physics are therefore caused by the ignorance of metaphysics, something that the West inherited from the Romans who assigned natural phenomena to the actions of gods and goddesses. 
+
+<!--  The problem is that they don't know that GR is a sophistry that traps Physics* within  Electromagnetism and away from gravitation. 
+
+> *The concept of quantum fields comes from magnetic fields which is a property of the Electromagnetic force and not the gravitational force which works on relationships between discrete identities -->
 
 
-
-As proof, physicists concede that [they will never be able to solve GR](https://www.forbes.com/sites/startswithabang/2019/12/04/this-is-why-scientists-will-never-exactly-solve-general-relativity/).
-
-> *We break down Einstein's sophistry set by step by going through his logic in his book [Relativity](/research/einstein/relativity/section-02) 
-
+<!-- > *We break down Einstein's sophistry set by step by going through his logic in his book [Relativity](/research/einstein/relativity/section-02)  -->
 
 
 ## The Asian Model
 
-Superphysics breaks through this barrier that Einstein created by tapping into the knowledge of the civilizations outside of the Roman Empire. Unknown to many, those civlizations, such as the ancient Greeks, Indians, and Chinese all follow a five-force model: 
+Superphysics breaks through the limitations of Modern Physics by adding into it the proper metaphysics from the ancient Greeks, Indians, and Chinese who all follow a five-force or five-layer model: 
 
 
 Greeks (Timaeus) | Hindus | Chinese | Shape
@@ -75,8 +93,7 @@ Water (icosahedron) | Jala | 土 transforming earth | ![](/graphics/physics/icos
 Earth (cube) | Pritvi | 金 solid metal | ![](/graphics/physics/cube.gif)
 
 
-We group all the understandings of the Romans, Greeks, Hindus, and Chinese under the five-model Superphysics classification of Aether, Space, Radiance, Radioactivity, and Matter:
-
+We then unify all the understandings of the Romans, Greeks, Hindus, and Chinese under our 5-Layers model:
 
 Rank | Name | Greek-Hindu | Chinese | Physics Force | Superphysics Force | Force Carrier | Resulting particles in Superphysics | Pythagorean Note
 --- | --- | --- | --- | --- | --- | --- | --- | --- 
@@ -88,30 +105,28 @@ Rank | Name | Greek-Hindu | Chinese | Physics Force | Superphysics Force | Force
 5 | Material | Earth, Pritvi | 金 (solid metal) | Strong | Nuclear force | Gluons (effective qom) | qom (quarks) | Do
 
 
-The five layers solve the mysteries of quantum physics (which is based on the radiant or electromagnetic layer) by extending human knowledge onto the higher gravitational (spatial) and aethereal layers. 
+These 5 layers classify Physical Reality neatly so that it can integrate perfectly with Metaphysical Reality which is made up of life, soul and identity. 
 
+  <!-- mysteries of quantum physics (which is based on the radiant or electromagnetic layer) by extending human knowledge onto the higher gravitational (spatial) and aethereal layers.  -->
 
-
-{{< q a="krishna" >}}
+{{< q a="Krishna" c="Bhagavad Gita" >}}
 My manifest form is made up of:
-
 1. Earth
 2. Water
 3. Flame
 4. Air
 5. Aether
-6. life
-7. mind
-8. Individuality
+6. Life
+7. Mind (Soul)
+8. Individuality (Identity)
 
 These are my lower Nature. Learn my higher Nature that produces this Universe by its principle of life. 
-
-I am that womb. I make and I unmake this Universe.
 {{< /q >}}
 
+<!-- I am that womb. I make and I unmake this Universe. -->
 
 
-![Five layers of Superphysics](/graphics/physics/egllayers.png)
+{{< img src="/graphics/physics/egllayers.png" alt="Five layers of Superphysics" cap="" >}}
 
 
 These layers are immediately implementable in healthcare. For example, Ayurveda has the three doshas (three layers) and Traditional Chinese medicine has wu xing (five layers). 

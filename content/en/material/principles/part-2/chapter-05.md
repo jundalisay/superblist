@@ -1,37 +1,46 @@
 ---
 heading: "Chapter 5"
-title: "Time"
+title: "The Expansion of Spacetime"
 date: 2023-03-10
 weight: 14
 image: /photos/objects/clock.jpg
-# description: "The Elastic Theory is from Descartes and kepler, with important maxim-contributions from Socrates, Taoism, Buddhism, and Hinduism."
+description: "Everything is expanding, even your own atoms."
 icon: /icons/spmat.png
 ---
 
 
+Everything is expanding, even your own atoms. 
 
-In Cartesian Physics, gravity is a force from the gravitational band between masses, stars, or galaxies.
+In the 1630's Descartes wrote about how the universe works. 
 
-The water spins because the energy is transferred to it by the bucket. There is a dip in the center because that is the center of gravity of the bucket, which serves as the anchor for the gravitational band between the water and the bucket and the Earth. 
+According to him, the universe began when spacetime became divided. These divisions led to diverse vortices that later became galaxies, stars, and planets. 
 
-In outer space, the bucket will be a torus and the water will form a donut shape since there is no band with the Earth. 
+This division did not stop after those heavenly bodies were created. It still continues every millisecond. 
 
-Proper Time passes faster on a mountain because it covers more space for the same amount of Coordinate time, so Proper time adjusts accordingly. 
+This now manifests as the expansion of the universe which is revealed by the cosmic red shift.
 
-Let's say 2 mountain proper milliseconds pass for every 1 sea proper millisecond. This is to compensate for the 1 coordinate millisecond taken by the perspective of guy at sealevel who really bases both measurements from the center of the Earth. Proof is that the Hafele–Keating experiment showed difference between East and West travel.
+It means that we are literally physically larger now than a moment ago. We are not able to perceive any change or difference because everything else is also getting larger.
 
-If Proper Time were measured based on the Sun, then their Proper time would be the same: 12 noon sharp.
+We are only able to detect this size-increase not from our own planets or galaxies, but from the gaps between those galaxies where there is no matter to be increased. Descartes calls them 'superficies' (surfaces), which we rename into 'edges'.
 
-Einstein's Relativity only accounts for the gravity between matter and matter, and the gravity between light and stars/galaxies. It does not account for the gravity between galaxies and stars (dark matter), galaxies and galaxies (dark energy).
+These edges are traversed by photons from galaxies to ours. It is there where the photons are stretched (relative to themselves before they entered those edges or gaps) as to become red shifts. 
 
-Cartesian Physics does.
+These edges draw the territorial boundary of the galaxy (gravitational field to Newtonian Physics). This territory is where the size-increase happens internally as a single unit, independent of other galaxies.
 
-In Cartesian Physics, gravity is a force from the gravitational band between masses, stars, or galaxies.
+This is similar to the Earth having a gravitational field or territory which keeps the Earth as a single unit. It explains why we and the atmosphere are not flung away by the rotation of the Earth.  
 
-The water spins because the energy is transferred to it by the bucket. There is a dip in the center because that is the center of gravity of the bucket, which serves as the anchor for the gravitational band between the water and the bucket and the Earth. 
+The territory of a galaxy likewise keeps its contents as a single unit, making the size-increase uniform on its stars and matter. 
 
-In outer space, the bucket will be a torus and the water will form a donut shape since there is no band with the Earth. 
+Descartes assures us that the rate of division of spacetime is also uniform everywhere in the universe. This then leads to the constant speed of light which travels on that spacetime. 
 
-Proper Time passes faster on a mountain because it covers more space for the same amount of Coordinate time, so Proper time adjusts accordingly. Let's say 2 mountain proper milliseconds pass for every 1 sea proper millisecond. 
+This means that if the rate of division were slower, then the top speed of light would also be slower.
 
-This is to compensate for the 1 coordinate millisecond taken by the perspective of guy at sealevel who really both measurements from the center of the Earth. If they were measured based on the Sun, then they would have the same proper time.
+This removes the need for any dark matter or dark energy, since the nature of the spacetime particles already accounts for those phenomena.
+
+This also implies that the speed of light is not really decreed by spacetime, but by the aether that divides that spacetime. 
+
+The division of spacetime is an inexhaustible source of energy which Nikola Tesla tried to tap as cosmic energy. Unlike solar power which comes from a single source as the sun, this spacetime energy is everywhere, though extremely weak.
+
+By processing Descartes' principles, in theory, division-energy can be extracted by creating a vortex with defined edges from where the energy from spacetime division (air-aether) can be downgraded into electrical energy (fire-aether).
+
+This downgrading has metaphysical consequences though. This is why advanced species would predictably rather use the fusion of material hydrogen as their main energy source or base load, and use spacetime-division only as a backup or starter.
