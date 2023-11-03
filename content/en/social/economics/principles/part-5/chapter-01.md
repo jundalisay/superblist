@@ -5,7 +5,6 @@ image: /photos/objects/galleon.jpg
 description : "The widespread use of standardized money, from the rise of peace and order, led to mercantilism and, later, capitalism"
 weight: 16
 date: 2015-04-11
-youtube: "rVP73TV2X0s"
 contributors: ['Juan'] 
 icon: /icons/pantry.png
 ---

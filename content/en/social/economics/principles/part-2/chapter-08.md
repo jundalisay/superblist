@@ -14,7 +14,7 @@ author: Dalisay
 
 
 
-
+## Types of Industry
 
 In Book 2, Chapter 5 of the Wealth of Nations, Adam Smith explained the four industries for goods, as the four employments of capitals:
 

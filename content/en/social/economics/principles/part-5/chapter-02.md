@@ -1,18 +1,27 @@
 ---
 heading: "Chapter 2"
-title: "The Future of Supereconomics"
-
+title: "Economic Systems for Other Planets"
 # date: 2019-10-17
 date: 2015-04-12
+draft: true
 weight: 20
 image: /photos/physics/mars.jpg
 description: "Supereconomics can be used to create economic systems for Mars and other planets"
-youtube: "rVP73TV2X0s"
 contributors: ['Juan']
 icon: /icons/pantry.png
-aliases:
-  /social/economics/economic-system-for-mars
 ---
+
+
+
+Supereconomics and its sister science called Material Superphysics will work together to help each other in 2 ways:
+
+1. Supereconomics will help procure the resources to create the experiments for Material Superphysics
+2. Material Superphysics will help Supereconomics by creating new spacetime technologies so that humans can travel to other planets more easily and spread value there.
+
+<!-- spread itself to other areas with the technologies M By  is based on the four laws of how humans see value.   -->
+
+The first is done through a points-based system that can accept money or barter.
+
 
 
 Jeff Bezos recently announced his vision of moving polluting industries to the moon in order to save the Earth, using his reusable rockets. His logic is that the gravity in the moon is 1/6 of that of the Earth and so moon-based industries will require less energy. 

@@ -1,5 +1,5 @@
 ---
-title: "The reliance of sedentary people on laws destroys their fortitude and power of resistance"
+title: "The Reliance Of Sedentary People On Laws Destroys Their Fortitude And Power Of Resistance"
 description: "The reliance of sedentary people on laws destroys their fortitude and power of resistance"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
@@ -8,9 +8,6 @@ weight: 10
 contributors: ['Ibn Khaldun']
 ---
 
-
-
-<!-- ## 6. The reliance of sedentary people on laws destroys their fortitude and power of resistance -->
 
 This is because not everyone is master of his own affairs. Their leaders are few. 
 
@@ -91,10 +88,23 @@ The religious law became a branch of learning and a craft to be acquired through
 
 Thus, governmental and educational laws destroy fortitude because their restraining influence is something that comes from outside. 
 
-The religious laws, on the other hand, do not destroy fortitude, because their restraining influence is something inherent. Therefore, governmental and educational laws influence sedentary people, in that they weaken their souls and diminish their stamina, because they have to suffer (their authority) both as children and as adults. The Bedouins, on the other hand, are not in the same position, because they live far away from the laws of government, instruction, and education.
+The religious laws, on the other hand, do not destroy fortitude, because their restraining influence is something inherent. 
 
-Therefore, Abu Muhammad b. Abi Zayd,31 in his book on the laws governing teachers and students (Ahkam al-mu'allimin wa-lmuta'allimin), said= "The educator must not strike a boy more than three times (in one punishment) as an educational measure." 32 
+Therefore, governmental and educational laws influence sedentary people, in that they weaken their souls and diminish their stamina, because they have to suffer (their authority) both as children and as adults. 
 
-Ibn Abi Zayd reported this remark on the authority of Judge Shurayh. 33 
+The Bedouins, on the other hand, are not in the same position, because they live far away from the laws of government, instruction, and education.
 
-Certain scholar(s) argued in favor of the procedure mentioned, by referring to the threefold choking mentioned in the tradition concerned with the beginning of revelation. 34 This, however, is a weak argument. (The tradition about the) choking is not suitable proof, because it has nothing to do with ordinary instruction. God "is wise and knowing." 35
+This is why Abu Muhammad b. Abi Zayd wrote:
+
+{{< q a="Abu Muhammad b. Abi Zayd" c="Ahkam al-mu'allimin wa-lmuta'allimin" >}}
+<!-- , in his book on the laws governing teachers and students (), said: " -->
+The educator must not strike a boy more than 3 times in one punishment as an educational measure.
+{{< /q >}}
+
+
+Ibn Abi Zayd reported this remark on the authority of Judge Shurayh.
+
+Certain scholars argued in favor of hurting students by referring to the threefold choking mentioned in the tradition concerned with the beginning of revelation.  
+
+This, however, is a weak argument. The tradition about the choking is not suitable proof, because it has nothing to do with ordinary instruction.
+

@@ -1,8 +1,8 @@
 ---
-heading: Chapter 11
-title: The Future Of Physics
+heading: "Chapter 11"
+title: "The Future Of Physics"
 weight: 60
-description: It would be exceedingly rash and presumptuous to predict the future of physics
+description: "It would be exceedingly rash and presumptuous to predict the future of physics."
 image: "/covers/physics.jpg"
 author: "Lucien Poincare"
 ---
@@ -60,11 +60,15 @@ Then we shifted them later to those chemical atoms which, united together, const
 
 The indivisible is thus rendered, in a way, smaller and smaller, but we are still unacquainted with what its substance may be. The notion of an electric charge which we substitute for that of a material mass will permit phenomena to be united which we thought separate, but it cannot be considered a definite explanation, or as the term at which science must stop. 
 
-It is probable, however, that for a few years still physics will not travel beyond it. The present hypothesis suffices for grouping known facts, and it will doubtless enable many more to be foreseen, while new successes will further increase its possessions.
+It is probable that for a few years physics will not travel beyond it. 
+
+The present hypothesis suffices for grouping known facts. It will enable many more to be foreseen, while new successes will further increase its possessions.
 
 Then the day will arrive when, like all those which have shone before it, this seductive hypothesis will lead to more errors than discoveries. It will, however, have been improved, and it will have become a very vast and very complete edifice which some will not willingly abandon; for those who have made to themselves a comfortable dwelling-place on the ruins of ancient monuments are often too loth to leave it.
 
-In that day the searchers who were in the van of the march after truth will be caught up and even passed by others who will have followed a longer, but perhaps surer road. We also have seen at work those prudent physicists who dreaded too daring creeds, and who sought only to collect all the documentary evidence possible, or only took for their guide a few principles which were to them a simple generalisation of facts established by experiments; and we have been able to prove that they also were effecting good and highly useful work.
+In that day the searchers who were in the van of the march after truth will be caught up and even passed by others who will have followed a longer, but perhaps surer road. 
+
+We also have seen at work those prudent physicists who dreaded too daring creeds, and who sought only to collect all the documentary evidence possible, or only took for their guide a few principles which were to them a simple generalisation of facts established by experiments; and we have been able to prove that they also were effecting good and highly useful work.
 
 Neither the former nor the latter, however, carry out their work in an isolated way, and it should be noted that most of the remarkable results of these last years are due to physicists who have known how to combine their efforts and to direct their activity towards a common object, while perhaps it may not be useless to observe also that progress has been in proportion to the material resources of our laboratories.
 

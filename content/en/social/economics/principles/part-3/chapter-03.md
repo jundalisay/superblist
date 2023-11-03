@@ -41,19 +41,23 @@ For example, the invention of an car or automobile might require:
 
 All these modes lead to the production of a car for society. 
 
+However, we are concerned with the physical means of exchange, and not the metaphysical ones. This is why we will focus on the 3 modes of Exchange:
 
----
-title: "7 Barter Disadvantages Addressed"
-heading: "Why Barter is Advantageous in Certain Conditions"
-description : "We address the 7 disadvantages of barter arising from popular misconceptions"
+1. Money
+2. Barter
+3. Donation in money or kind 
 
----
+When you donate, you get nothing back other than the abstract gratitude of the person you donated to. Therefore, it is an exchange of something physical for something abstract or aethereal. 
+
+
+## 7 Barter Disadvantages Addressed
+
 
 
 The following are the common disadvantages of barter:
 <!-- as listed by the [Russian Supply Chain Management Encyclopedia](http://scm.gsom.spbu.ru/Barter) -->
 
-## 1. Lack of Double Coincidence of Wants
+### 1. Lack of Double Coincidence of Wants
 
 Persons must have matching requirements for barter to work
 
@@ -68,7 +72,7 @@ The following workmen are necessary to make the shears used to clip the wool to 
 
 <!-- ![]("https://socioecons.files.wordpress.com/2015/04/supply-chain-barter-new-page.png") -->
 
-## 2. Lack of any common unit of measure
+### 2. Lack of any common unit of measure
 
 If A has rice, and B has wheat, then how much of rice will exchange for how much of wheat? If there are 500 goods, we will have to work out 124,750 possible ratios of exchange which is an enormously difficult task
 
@@ -90,7 +94,7 @@ But the colonies sell their own produce chiefly to purchase European goods. The 
 
 
 
-## 3. Lack of Means of Subdivision
+### 3. Lack of Means of Subdivision
 
 One coffee mug cannot be exchanged for half a shirt
 
@@ -108,7 +112,7 @@ The man who wanted to buy salt and had nothing but cattle must have been obliged
 {{< /q >}}
 
 
-## 4. Lack of Way for Future Payments
+### 4. Lack of Way for Future Payments
 
 There is no way to write contracts for future payments.
 
@@ -125,7 +129,7 @@ Give me that which I want, and you shall have this which you want, is the meanin
 
 
 
-## 5. Lack of Way to Store Purchasing Power and the Perishable Nature of Some Goods
+### 5. Lack of Way to Store Purchasing Power and the Perishable Nature of Some Goods
 
 Money can be stored but not all goods, such as eggs, can be kept until one retires.
 
@@ -142,7 +146,7 @@ The returns of the fixed capital employed by land improvers are much slower than
 
 
 
-## 6. Possible big difference in delivery times and costs for items involved
+### 6. Possible big difference in delivery times and costs for items involved
 
 Company A might trade a single expensive item for many of Company B's cheap items to be delivered many times, exposing Company A to more risk than Company B.
 
@@ -156,7 +160,7 @@ The labourer’s coarse woollen coat is the produce of the joint labour of many 
 {{< /q >}}
 
 
-## 7. Global Price Fluctuations
+### 7. Global Price Fluctuations
 
 Prices can fluctuate in the world market very quickly.
 
@@ -170,6 +174,6 @@ A public mourning raises the price of black cloth and increases the profits of t
 {{< /q >}}
 
 
-## The Consequence of a Money-only system
+### The Consequence of a Money-only system
 
 By neglecting barter, economic systems lead to a rapid accumulation of fake nominal value which leads to frequent crashes. The next post will explain such a phenomenon as the Skyscraper curse

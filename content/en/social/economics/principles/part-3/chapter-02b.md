@@ -1,14 +1,12 @@
 ---
-heading: "Chapter 2"
+heading: "Chapter 2b"
 title: "The Fallacy of Liquidity Preference"
 # date: 2022-03-27
 date: 2021-12-30
 weight: 20
 image: /covers/keynes.jpg
-# image: /photos/objects/money.jpg
 description: "The most common suffering imposed by Neoclassical Economics on the people, aside from recessions and financial crises, is inequality"
-author: Dalisay
-# draft: true
+author: Juan
 ---
 
 
@@ -22,13 +20,17 @@ This inequality manifests as:
 
 ## How Neoclassical Economics Causes Inequality
 
-The Marginal Revolution enshrined profit maximizatin in the 1870s. This doctrine favors the Business class over the Worker, Warrior, and Thinker. As a result, the Business class gets a bigger share of its society's productivity. This starves the rest:
+The Marginal Revolution enshrined profit maximizatin in the 1870s. This doctrine favors the Business or Trader class over the Worker, Warrior, and Thinker. 
+
+As a result, the Business class gets a bigger share of its society's productivity. This starves the rest:
 
 - Workers (Worker class) find it harder to find good-paying jobs
 - Governments (Warrior class) find themselves getting deeper into debt
 - Researchers (Thinker class) find it more difficult to get research funding
 
-This economic starvation finally manifested itself as the Great Depression of the 1930's, when many people did become unemployed and subsequently went hungry. The British Economist John Maynard Keynes had a chance to fix things by reversing the doctrine of profit maximization. However, instead of getting rid of profit maximization, he permanently cemented it through the doctrine of **liquidity preference** which we call the love of money*!
+This economic starvation finally manifested itself as the Great Depression of the 1930's, when many people did become unemployed and subsequently went hungry.
+
+The British Economist John Maynard Keynes had a chance to fix things by reversing the doctrine of profit maximization. However, instead of getting rid of profit maximization, he permanently cemented it through the doctrine of **liquidity preference** which we call the love of money*!
 
 
 > *Update Oct 2021: The proper and opposite policy is to stifle speculation and excessive growth as what China has done by letting Evergrande collapse and by limiting Alibaba and other Chinese tech giants. This would restore economic balance. These are opposite of what the US did in bailing out Wall Street.
@@ -47,9 +49,8 @@ All of these policies are mercantile and are the opposite to what Adam Smith adv
 
 Keynes advocated to increase the money circulating until prices start increasing, a state which he calls **true inflation**.
 
-{{< q a="keynes" >}}
+{{< q a="Keynes" c="General Theory, Chapter 21" >}}
 When a further increase in effective demand produces no further increase in output and entirely spends itself on an increase in the cost-unit fully proportionate to the increase in effective demand, we have reached a condition which might be appropriately designated as one of true inflation.
-<cite>General Theory, Chapter 21</cite>
 {{< /q >}}
 
 
@@ -67,9 +68,8 @@ For example, if last month I worked for 100 hours at $1 per hour, then at that m
 - If the company has 50 workers, then it gets 100 hours of free work or $100 savings which it can use to hire one new worker if the wages of the 50 were not increased.
 
 
-{{< q a="keynes" >}}
-<p>Every trade union will resist a cut in money-wages. <i>But no trade union would go on strike for every rise in the cost of living.</i> They thus do not create an obstacle to any increase in aggregate employment which is attributed to them by the classical school.</p>
-<cite>Chapter 2, General Theory</cite>
+{{< q a="Keynes" c="Chapter 2, General Theory" >}}
+Every trade union will resist a cut in money-wages. <i>But no trade union would go on strike for every rise in the cost of living.</i> They thus do not create an obstacle to any increase in aggregate employment which is attributed to them by the classical school.
 {{< /q >}}
 
 
@@ -142,9 +142,8 @@ Japan was the first country to implement aggressive quantitative easing and is a
 
 > Update Jan 2021: The failure of Abenomics and the 2020 Olympics, along with the resignation of Abe and the rise of Japanese taxes prove the failure of Keynesian policies
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 5" >}}
 Such improvident anticipations gave birth to the more ruinous practice of perpetual funding. This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come. However, it raises more money than the old practice of anticipation. When men became familiar with funding, it became universally preferred<!--  to anticipation during great state exigencies. Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity. -->
-<cite>Simple Wealth of Nations Book 5</cite>
 {{< /q >}}
 
 <!-- ### Mercantilism is Alive and Kicking in Macroeconomics Too

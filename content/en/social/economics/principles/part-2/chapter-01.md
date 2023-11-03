@@ -147,5 +147,3 @@ The resulting concepts from the Second Law of Value are:
 - Primary arbitrage
 - Wholesale
 - The Philosopher class or cycle
-
-The next post will discuss Exchange as the Third Law.

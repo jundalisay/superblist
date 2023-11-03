@@ -1,12 +1,11 @@
 ---
 heading: "Chapter 5"
-linkTitle: Chapter 5
+# linkTitle: Chapter 5
 title: "Producer's & Consumer's Surplus and Deadweight Loss"
 date: 2019-06-17
 weight: 20
 image: "/charts/econ/prod.png"
 description : "The Producer’s & Consumer’s Surplus and Deadweight Loss in Economics is very different from the ones of Superphysics"
-heading: Economics vs Superphysics
 contributors: ['Juan']
 icon: /icons/pantry.png
 toc: false  
@@ -15,16 +14,21 @@ toc: false
 
 <!-- Update March 2020: Since 2016, our new science has been warning of a global economic crisis to occur in 2019. This is how we predicted it. The crisis is now here, so we will pause Superphysics, as it has already done its part and we have already built the new economic system called Tao to solve it (whether people will use it is another question that is beyond us). We will shift focus on a solution for Covid via its sister science which we call Bio Superphysics to disrupt Western Medicine and create Medical Singularity just as Superphysics aims to disrupt Economics with Economic Singularity. -->
 
-According to Economics, a market dis-equilibrium creates three inefficiencies:
-- [Producer’s Surplus](https://www.investopedia.com/terms/p/producer_surplus.asp) — defined as “the difference between how much of a good the producer is willing to supply versus how much he receives,” or the gain the producer receives
-- [Consumer’s Surplus](https://www.investopedia.com/terms/c/consumer_surplus.asp) —defined as a situation when “the price that consumers pay for a product or service is less than the price they’re willing to pay,” or a bargain
-- [Deadweight loss](https://www.investopedia.com/terms/d/deadweightloss.asp) — defined as “a cost to society created by market inefficiency”. Ideally, there should be no producer’s gain nor consumer’s bargain.
+According to Economics, a market dis-equilibrium creates 3 inefficiencies:
 
-These are traditionally plotted as the red and blue areas in the chart below. 
+Inefficiency | Defintion
+--- | ---
+[Producer’s Surplus](https://www.investopedia.com/terms/p/producer_surplus.asp) | The difference between how much of a good the producer is willing to supply versus how much he receives, or the gain the producer receives
+[Consumer’s Surplus](https://www.investopedia.com/terms/c/consumer_surplus.asp) | A situation when “the price that consumers pay for a product or service is less than the price they’re willing to pay,” or a bargain
+[Deadweight loss](https://www.investopedia.com/terms/d/deadweightloss.asp) | A cost to society created by market inefficiency
+
+Ideally, there should be no producer’s gain nor consumer’s bargain. These are traditionally plotted as the red and blue areas in the chart below. 
 
 ![Surplus](/graphics/econ/deadweight.png)
 
-However, no one seems to have a name for the area on the right side of equilibrium. This is because while the demand curve is real, the supply curve is imaginary, merely representing the desire of suppliers. Since the mind only gives names to real experiences, that area cannot get a name because it is not really experienced — an overpriced product that cannot be sold at that price simply is not sold, and is not plotted at all.
+However, no one seems to have a name for the area on the right side of equilibrium. This is because while the demand curve is real, the supply curve is imaginary, merely representing the desire of suppliers. 
+
+Since the mind only gives names to real experiences, that area cannot get a name because it is not really experienced — an overpriced product that cannot be sold at that price simply is not sold, and is not plotted at all.
 
 
 ## The Proper Surpluses Plotted Realistically
@@ -36,9 +40,9 @@ To eliminate this unreal area, we will show how these ‘surpluses’ naturally 
 
 This shows the following:
 
-- A new tax raises prices (light green dashed line) and has the same effect as a price ceiling in terms of loss (yellow area)
+- A new tax raises prices (blue dashed line) and has the same effect as a price ceiling in terms of loss (red area)
 
-- A new technology lower prices and create real material gains. It makes consumer bargains permanent, while spreading it to more people (purple area).
+- A new technology lower prices and create real material gains. It makes consumer bargains permanent, while spreading it to more people (orange area).
 
 > New production technologies decrease costs. These then either increases profits or allows more to be produced. The former creates a "producer’s surplus" or gain. An example is the iPhone. The latter spreads the consumer's surplus or bargain to more people. An example is the Android phone. 
 
@@ -63,9 +67,8 @@ When an overpriced product cannot be sold, its price is slashed, creating a barg
 
 Our curves also show slight moral similarities and differences with those of Economics. Whereas Economics sees producer’s and consumer’s surplus as bad, Superphysics sees consumer’s surplus as initially good since it is never bad to supply goods and services to all.
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam-Smith" c="Wealth of Nations Book 4" >}}
 Consumption is the sole end and purpose of all production.. the interest of the producer ought to be attended to only so far as it may be necessary for promoting that of the consumer. The maxim is so perfectly self-evident that it would be absurd to attempt to prove it. But in the mercantile system the interest of the consumer is almost constantly sacrificed to that of the producer; it seems to consider production, and not consumption, as the ultimate end and object of all industry and commerce. 
-<cite>Wealth of Nations Book 4</cite>
 {{< /q >}}
 
 

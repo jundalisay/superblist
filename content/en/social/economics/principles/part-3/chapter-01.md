@@ -57,7 +57,9 @@ Thus, the third law leads to **finance and monetary systems** in Economics, and 
 
 The Second Law generates value through *primary arbitrage* or the difference of your skill and passion level versus the skill and passion of others. For example, if guitar-playing costs 1 unit of effort to you and 2 units of effort to another  person, then you can produce twice his value for the same effort. 
 
-The Third Law spreads that value through *secondary arbtirage* or the difference between the market price and the natural price, which will be explained next. For example, if only a few people in your society wanted guitar songs, and most wanted piano songs instead, then you would rather sell your guitar songs to another society that valued it. You would not try to shift to making piano songs, which is not your core competency. 
+The Third Law spreads that value through *secondary arbtirage* or the difference between the market price and the natural price, which will be explained next. 
+
+For example, if only a few people in your society wanted guitar songs, and most wanted piano songs instead, then you would rather sell your guitar songs to another society that valued it. You would not try to shift to making piano songs, which is not your core competency. 
 
 We can say in a sense that primary arbitrage is wholesale while secondary arbitrage is retail. 
 
@@ -72,5 +74,3 @@ The resulting concepts from the Third Law of Value are:
 - Retail, Imports, Exports
 - The Grain Index
 - The Merchant class or cycle
-
-The next post will discuss the Fourth Law.
