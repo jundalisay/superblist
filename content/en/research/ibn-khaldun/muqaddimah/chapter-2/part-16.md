@@ -1,6 +1,6 @@
 ---
 title: "Group Feeling and Royal Authority"
-description: "The goal of group feeling is royal authority. This is because group feeling gives protection and mutual defense and allows the pressing of claims and other kinds of social activity"
+description: "The goal of group feeling is royal authority as it gives protection and mutual defense"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 16"
@@ -71,25 +71,24 @@ This is because when a tribe has achieved a certain measure of superiority with 
 
 The tribe shares in them to the degree of its power and usefulness to the ruling dynasty. 
 
-If the ruling dynasty is so strong that no one would think of depriving it of its power or sharing power with it, the tribe submits to its rule. It is satisfied with whatever share in the dynasty's wealth and tax revenue that it can enjoy. <!-- Hopes would not go so high as to (think of) the royal prerogatives or ways to obtain the (royal authority. -->
+If the ruling dynasty is so strong that no one would think of depriving it of its power or sharing power with it, the tribe submits to its rule. It is satisfied with whatever share in the dynasty's wealth and tax revenue that it can enjoy.
 
 The tribe members are merely concerned with prosperity, gain, and a life of abundance. They are satisfied:
 - to lead an easy, restful life in the shadow of the ruling dynasty
 - to adopt royal habits in building, dress, all the other things that go with luxury
-  - They <!-- a matter they stress and in which they --> take more and more pride in such things, the more luxuries and plenty they
-obtain <!-- as well as  and plenty. -->
+  - They take more and more pride in such things, the more luxuries and plenty they obtain.
 
 As a result:
 - the toughness of desert life is lost
 - group feeling and courage weaken
-- members of the tribe revel in well-being <!-- that God has given them -->.
+- members of the tribe revel in well-being
 - Their children grow up too proud to look after themselves or to attend to their own needs. 
- - They have disdain also for all the other things that are necessary for group feeling. This finally becomes their natural character. 
+  - They have disdain also for all the other things that are necessary for group feeling. This finally becomes their natural character. 
 
 Their group feeling and courage decrease in the next generations. Eventually, group feeling is altogether destroyed. They thus invite their own destruction. 
 
-The greater their luxury and the easier the life they enjoy, the closer they are to extinction, not to mention (their lost chance of obtaining) royal authority. The things that go with luxury and submergence in a life of ease break the vigor of the group feeling, which alone produces superiority. When group feeling is destroyed, the tribe is no longer able to defend or protect itself, let alone press any claims. It will be swallowed up by other nations.
+The greater their luxury and the easier the life they enjoy, the closer they are to extinction, not to mention (their lost chance of obtaining) royal authority. 
 
-It has thus become clear that luxury is an obstacle on the way toward royal authority. <!-- "God gives His kingdom (royal authority) to - whomever He wants to give it." 104 -->
+The things that go with luxury and ease break the vigor of the group feeling, which alone produces superiority. When group feeling is destroyed, the tribe is no longer able to defend or protect itself.
 
-
+It has thus become clear that luxury is an obstacle on the way toward royal authority.

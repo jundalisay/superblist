@@ -7,9 +7,71 @@ description: "The Modern Economic Table is our main tool to determine the real p
 contributors: ['Juan']
 weight: 41
 icon: /icons/pantry.png
-aliases:
-  /social/economics/solutions/modern-economic-table
 ---
+
+
+<!-- ## Why Neoclassical Economics Can Never Arrive at `G` -->
+
+<!-- The focus on population and absolute demand are the two main features of the Supereconomic supply and demand formula that make it different from that of Economics. 
+ -->
+
+
+
+The Eagle in the layer of economics manifests as supply and demand ratios:
+
+{{< img src="https://sorasystem.sirv.com/graphics/pspdD.png" alt="Supply and Demand Equation" >}}
+
+
+The `G` manifests as the effectual demand or `d` of the people.
+
+The layer limit {{< sub v="l" >}} manifests as their absolute demand or `D` (a concept that does not exist in Economics).
+
+This `D` works in the same way as `c` works in `E = mc{{< s v="2" >}}`, where `c` acts as the speed limit of the physical universe.
+
+
+Neoclassical Economics and the commercial system are unable to arrive at the real price of everything because they use money which actually wipes out information with every exchange.
+
+- If you barter 1 bread with 1 potato, then the real price of bread is 1 bread : 1 potato
+- If potato can be bartered for 2 lemons, then the real value of 1 bread is 2 lemons or 1 potato
+- If tomorrow, 1 potato exchanges only for 1 lemon, then the real value of 1 bread is 1 potato or 1 lemon
+  - This means that the price of bread only crashes for the lemon owners but not for the potato owners. 
+  - If the ratio of 1 bread still exchanges for 1 potato, then the real value or economic `G` of bread is more linked to potatoes instead of lemons. 
+
+This prevents our proposed system from crashing because [the ratio of values](/social/economics/principles/intro/chapter-04/) are maintained and not made absolute or constant as in the commercial system. 
+
+We can restore these natural ratios by pulling down money from the supreme pedestal where it currently stands on, just as we by fixed Einstein's General Relativity by removing the constant speed of light `c`, and instead using the other qualities of the star or galaxy where it comes from.
+
+So in order to know a bread's "supereconomic" `G` or real value, we need to know what that bread was exchanged with, and not its money price. This chain of exchanges can then be backpropagated in order to know its relativistic value to other goods or services. 
+
+Once the relative value-motions of goods and services are known, then we can predict the demand for them and so arrange the supply ahead of time in order to address all the demand and achieve constant zero-inflation.
+
+Economics, on the other hand, allows only money-purchases so that 1 bread is equal to 1 dollar, for example. But it has no idea of where that 1 dollar came from. 
+
+Did it come from wages? Or from a sale of a tomato? Was it donated? 
+
+If you use machine-learning to backpropagate all the transactions for bread, you will end up with a dollar price but still not know what that dollar price really represents since the data was never recorded.
+
+The best that they can do is apply stochastic calculus to create "algorithmic trading" and "dynamic stochastic general equilibrium" which have both caused crashes. Economists have no choice but to concede and say that price movements are mysterious, blaming "herd behavior", just as physicists say that gravitation is mysterious, pointing to wormholes that magically defy Physics.
+
+{{< img src="https://sorasystem.sirv.com/cards/receipt.jpeg" cap="Commercial receipts just give the money value and has no information where that money value came from. This is the same problem that leads to tax avoidance and evasion, which then leads to budget deficits, weak governments, and subsequent instability." >}}
+
+
+Our model on the other hand, follows Smith and the Physiocrats, and uses [grain-based valuation](/social/economics/solutions/gdp) to predict price movements from the outside looking in, or the top-down approach. This helped us to correctly predict:
+- The rise of bitcoin in 2017
+- The global economic crisis starting in 2019. It actually started in Q1 2020 and this shows that a bottom-up approach would be more accurate 
+
+This bottom-up approach is exactly what Francois Quesnay had in mind when he created [the Economic Table](/social/economics/solutions/modern-economic-table) to list the exchanges of commodities and trace their final total value or contribution to the economy. 
+
+This system can be backpropagated in order to automate the process so that it can help visualize the map or neural network of the kinetic desire of human society. This then would allow demand to be predicted so that supply can be allocated ahead of time in order to prevent scarcity and the subsequent inequality and poverty that it creates.
+
+
+{{< q a="Riqueti" c="Philosophie Rurale, 1763" >}}
+The third greatest invention of our time is the Economic Table.
+{{< /q >}}
+
+
+
+
 
 
 The Modern Economic Table is a flowchart invented by Francois Quesnay of the Physiocrats in the 18th century. 

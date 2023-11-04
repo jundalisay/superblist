@@ -9,11 +9,6 @@ description: "Everything in existence is created by the two forces"
 contributors: ['Juan']
 icon: /icons/sp.png
 tags: ['Lao Tzu', 'Yin Yang']
-# categories: ['Superphysics']
-comments:
-  - image: "/avatars/huong.jpg"
-    content: "How can we control our desires?"
-    commentdate: 2022-04-01
 ---
 
 
@@ -158,7 +153,7 @@ In business and entrepreneurship, this desire is called *grit*. Successful busin
 
 Back in our novel analogy, the reader might have a strong desire to read. But he can only read what the Novelist has written down. 
 
-Therefore, merely having strong desires in not enough to create a good reality. **What's more important is to align those desires to the desires of the Novelist.** The Hindus call this alignment as Dharma. This dharma comes from The Law of Conservation of Idea explained in Chapter 3. 
+Therefore, merely having strong desires in not enough to create a good reality. **What's more important is to align those desires to the desires of the Novelist.** The Hindus call this alignment as Dharma. This dharma comes from The Law of Conservation of Idea explained in Chapter 3 and is notated as `G` in Chapter 4c. 
 
 This alignment is done by the reader by choosing the right cat-novel to read. The proper alignment does not come instantly but happens through instances of trial and error. The more instances, the better. We call this as *learning experiences*.  
 

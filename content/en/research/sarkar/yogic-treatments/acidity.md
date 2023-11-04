@@ -3,7 +3,7 @@ title: "Natural Remedies for Acidity"
 # heading: "Yogic Treatments and Natural Remedies"
 weight: 3
 author: "PR Sarkar"
-description: "Undigested food and undigested acids create poisonous gas which cause a burning sensation in the stomach. When they rise up to the chest they cause heartburn. When they rise further they cause dizziness"
+description: "Due to this excessive acidity, the blood becomes acid-dominated. This overworks the blood-purifying organs"
 image: "/photos/med/heartburn.jpg"
 icon: "/icons/sarkar.png"
 ---
@@ -17,7 +17,7 @@ icon: "/icons/sarkar.png"
 - Burning stomach
 - Heartburn
 
-![](/photos/med/heartburn.jpg)
+![Heartburn](/photos/med/heartburn.jpg)
 
 
 ## Cause/s of Acidity

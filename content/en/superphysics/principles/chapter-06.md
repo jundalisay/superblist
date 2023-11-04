@@ -53,7 +53,7 @@ To push for heart development, and the increase in common-interest and fellow-fe
 > *Since sight is the main sensor of the brain.
 
 
-{{< img src="/graphics/cartesian.png" cap="Physics visualizes physical movement, Superphysics visualizes metaphysical (aethereal) movement" alt="Visualization of the feelings" >}}
+{{< img src="/graphics/super/cartesian.png" cap="Physics visualizes physical movement, Superphysics visualizes metaphysical (aethereal) movement" alt="Visualization of the feelings" >}}
 
 Humans already do this through TV, movies, powerpoint presentations, branding, packaging, advertising and other bright and shiny things that appeal to the senses located near the brain as the eyes, ears, nose, and tongue.   
 

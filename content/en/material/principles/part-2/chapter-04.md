@@ -109,7 +109,7 @@ A blind observer can know the cloud by the thunder it creates and how it compare
 
 Assuming Trafalgar square has four squares A1, A2, B1, and B2. The person has existed in all squares and has heard thunder above each one, as well as above all the other squares. This leads to 16 total experiences. 
 
-{{< img src="/graphics/clouds.png" alt="The Superphysics way of observing" cap="The Superphysics way of observing" >}}
+{{< img src="/graphics/physics/clouds.png" alt="The Superphysics way of observing" cap="The Superphysics way of observing" >}}
 
 
 In this way, the person in A1 who hears a thunder in B2 will know its location by extracting the relation of the cloud and the area from his memory. This relation is aethereal relativity, which becomes gravitational relativity when applied to the spatial layer. 

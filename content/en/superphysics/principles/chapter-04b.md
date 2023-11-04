@@ -63,7 +63,7 @@ This leads to the same output as the `1 + 1 = 2` of normal math, while imposing 
 - A straight-line equation would imply that the focus is on the line itself. 
 
 The concept of a *focus* is super important as it is the basis of:
-- gravitational signatures
+- [gravitational signatures](/material/principles/intro/chapter-02)
 - the hierarchy of the universe
 - Descartes' [First and Third Rules of Movement](/material/principles/intro/chapter-03) 
 

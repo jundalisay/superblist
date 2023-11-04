@@ -3,7 +3,6 @@ title: "What are Learning Points?"
 heading: "A modular learning system"
 date: 2021-08-18
 image: /photos/idea.jpg
-# image: "https://sorasystem.sirv.com/photos/team.jpg"
 description: "Learning points allow modular learning to make education faster and more efficient. It works with ISAIAH Match"
 contributors: ['Juan']
 icon: /icons/spss.png

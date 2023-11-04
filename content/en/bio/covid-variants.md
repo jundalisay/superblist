@@ -32,7 +32,7 @@ The pattern shows:
 - that Q4 (October to December) is the time for the strongest Covid strains. 
 - those variants follow the "Covid line"
 
-![Covid line and Flu line](/graphics/covidline.jpg)
+![Covid line and Flu line](/graphics/bio/covidline.jpg)
 
 These 13 variants show a regular pattern which coincides which is consistent with a cyclical universe and solar system.
 

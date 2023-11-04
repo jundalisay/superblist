@@ -31,7 +31,7 @@ Similarly, viruses totally depend on their star for everything.
 
 We imagine a Covid star shining on Earth to empower the corona virus which began in China on Dec 24, 2019. We then add the other successful variants as "Covid landings" noting the rotation and revolution of Earth relative to the Covid Star. This creates a "Covid Equator" or "Covid Line" which starts from the UK then goes to China, India, South Africa, and Brazil. 
 
-![The Covid Star](/graphics/covidstar.jpg)
+![The Covid Star](/graphics/bio/covidstar.jpg)
 
 We then apply this technique to influenza. 
 
@@ -39,7 +39,7 @@ According to "[The Latitude Effect](https://www.ncbi.nlm.nih.gov/pmc/articles/PM
 
 From this, we see that Africa is totally exempt from the flu line and is partially exempt from the Covid line (except South Africa). This explains why flu is historically negligible in Africa and Covid is low. 
 
-![The Covid Line and Flu Line](/graphics/covidline.jpg)
+![The Covid Line and Flu Line](/graphics/bio/covidline.jpg)
 
 Southern China, on the other hand, is traversed by both the Covid line and the flu line. This explains why 12th centry historian Chau Ju Kua called Southern China a region of pestilence. This caused Chinese medicine to specialize in flu cases which has helped China to currently have lower cases than the West. 
 

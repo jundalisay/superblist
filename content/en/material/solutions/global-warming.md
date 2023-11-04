@@ -22,7 +22,7 @@ However, despite lobbying by various parties and governments, such solutions sti
 - agricultural problems
 - extinction of certain species
 
-![Amazon rainforest destruction](https://sorasystem.sirv.com/photos/amazon.jpg)
+![Amazon rainforest destruction](/photos/physics/fires.jpg)
 
 
 ## The Solution
@@ -40,7 +40,7 @@ This warming is caused by the cultivation of land which causes woods to be clear
 
 The most sustainable solution is not really green energy nor infrastructure. Rather, it is [the planting of billions of trees in each country](https://www.nationalgeographic.com/environment/article/planting-trees-helps-fight-climate-change-but-we-need-billions-more-seedlings). This would suck both CO2 and store excess water to prevent floods while keeping some for droughts. 
 
-![Nature](https://sorasystem.sirv.com/hero/kalikasan.jpg)
+![Tree](/photos/objects/tree.jpg)
 
 A dam prevents floods and droughts, but does not suck CO2. Solar power reduces CO2 but does not prevent floods or droughts. Both solutions are expensive and have a short lifespan compared to a forest that can sustain itself indefinitely and works for free (until humans come in and destroy it)
 

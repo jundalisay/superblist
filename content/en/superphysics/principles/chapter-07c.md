@@ -63,7 +63,7 @@ Therefore the active mind, which thinks and feels, has 2 kinds of operations:
 
 <!-- Note that memory is a quality of the mind, and not an operation. Remembering is part of the operations of consciousness, just as perception is.  -->
 
-![](/photos/meta/yinyang.jpg)
+![Yin and Yang](/photos/meta/yinyang.jpg)
 
 
 ## The Operations of Thinking 

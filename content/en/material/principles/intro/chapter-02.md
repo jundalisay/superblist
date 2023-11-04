@@ -115,11 +115,11 @@ In this way, the resulting equation E = Gl called [the Eagle](/superphysics/prin
 
 <b>A gravitational signature produces attractive or repulsive motion by its affinity or difference with the signatures of other existing objects, entities, and minds within the same layer*. Lower layers are affected by higher layers, but higher layers are unaffected by the lower. Light is affected by gravity, but gravity is not affected by light.</b>
 
-- In the strong layer, the attraction of the gluons lead to matter. Their repulsion leads to nuclear explosions and the destruction of that matter
-- In the weak layer, the interaction leads to the decay of one particle. The noninteraction leads to its nondecay
-- In the electromagnetic layer, this manifests as the attraction of opposite charges, and the repulsion of like charges
-- In the gravitational layer, this manifests as the attraction to massive objects, and repulsion to immaterial objects         
-- In the aethereal layer, this manifests as the attraction of related ideas and minds, and the replusion of opposing ones through the Law of Conservation of Idea
+- In the Material (strong) layer, the attraction of the gluons lead to matter. Their repulsion leads to nuclear explosions and the destruction of that matter
+- In the Transformative (weak) layer, the interaction leads to the decay of one particle. The noninteraction leads to its nondecay
+- In the Radiant (electromagnetic) layer, this manifests as the attraction of opposite charges, and the repulsion of like charges
+- In the Spatial (gravitational) layer, this manifests as the attraction to massive objects, and repulsion to immaterial objects         
+- In the Aethereal layer, this manifests as the attraction of related ideas and minds, and the replusion of opposing ones through the Law of Conservation of Idea
 
 > *Quantum physics uses fields because it arose from electromagnetism which has magnetic fields. This is not useful in Superphysics because the aether is the most superior layer and we never think that feelings or minds have fields. Instead feelings and minds have layers -- there are deep and shallow minds, feelings, and ideas.   
 

@@ -1,7 +1,7 @@
 ---
 heading: Book 2
 title: "The Water Book"
-description: "Five Rings by Musashi"
+description: "This Water Book explains methods of victory as the long-sword form of the Ichi school"
 image: "/covers/musashi.jpg"
 icon: "/icons/musashi.jpg"
 weight: 6
@@ -28,7 +28,7 @@ the enemy see your spirit.
 
 Small people must be completely familiar with the spirit of large people, and large people must be familiar with the spirit of small people. Whatever your size, do not be misled by the reactions of your own body.
 
-With your spirit open and unconstricted, look at things from a high point of view. You must cultivate your wisdom and spirit. Polish your wisdom=  learn public justice, distinguish between good and evil, study the Ways of different arts one by one. When you cannot be deceived by men you will have realized the wisdom of strategy.
+With your spirit open and unconstricted, look at things from a high point of view. You must cultivate your wisdom and spirit. Polish your wisdom:  learn public justice, distinguish between good and evil, study the Ways of different arts one by one. When you cannot be deceived by men you will have realized the wisdom of strategy.
 
 The wisdom of strategy is different from other things. On the battlefield, even when you are hard-pressed, you should ceaselessly research the principles of strategy so that you can develop a steady spirit.
 
@@ -37,7 +37,7 @@ The wisdom of strategy is different from other things. On the battlefield, even 
 Have your head erect, neither hanging down, nor looking up, nor twisted. Your forehead and the space between your eyes should
 not be wrinkled. Do not roll your eyes nor allow them to blink, but slightly narrow them. With your features composed, keep the line of your nose straight with a feeling of slightly flaring your nostrils. 
 
-Hold the line of the rear of the neck straight=  instill vigour into your hairline, and in the same way from the shoulders down through your entire body. Lower both shoulders and, without the buttocks jutting out, put strength
+Hold the line of the rear of the neck straight:  instill vigour into your hairline, and in the same way from the shoulders down through your entire body. Lower both shoulders and, without the buttocks jutting out, put strength
 into your legs from the knees to the tips of your toes. Brace your abdomen so that you do not bend at the hips. Wedge your companion sword in your belt against your abdomen, so that your belt is not slack - this is called "wedging in".
 
 In all forms of strategy, it is necessary to maintain the combat stance in
@@ -52,7 +52,7 @@ In strategy it is important to see distant things as if they were close and to t
 
 It is necessary in strategy to be able to look to both sides without moving the eyeballs. You cannot master this ability quickly. Learn what is written here; use this gaze in everyday life and do not vary it whatever happens.
 
-### Holding the Long Sword=  Continuous Cut
+### Holding the Long Sword:  Continuous Cut
 
 When you attack and the enemy also attacks, and your swords spring together, in one action cut his head, hands and legs. When you cut several places with one sweep of the long sword, it is the "Continuous Cut".
 
@@ -124,7 +124,7 @@ twenty feet away. It is possible to strike the enemy until he is dead. <!-- Trai
 
 ### Three Ways to Parry His Attack
 
-There are three methods to parry a cut= 
+There are three methods to parry a cut: 
 
 1. By dashing the enemy's long sword to your right, as if thrusting at his eyes, when he makes an attack.
 2. By thrusting the enemy's long sword towards his right eye with the feeling of snipping his neck.
@@ -190,7 +190,7 @@ You can know how to win through strategy with the long sword, but it
 cannot be clearly explained in writing. You must practice diligently in
 order to understand how to win.
 
-Oral tradition=  "The true Way of Strategy is revealed in the long sword."
+Oral tradition:  "The true Way of Strategy is revealed in the long sword."
 
 ### One Cut
 
@@ -202,7 +202,7 @@ You must train diligently.
 ### Direct Communication
 
 This is how the true Way of the Ni To Ichi school is received and handed down.
-Oral tradition=  "Teach your body strategy."
+Oral tradition:  "Teach your body strategy."
 
 Recorded in the above book is an outline of Ichi school sword-fighting.
 

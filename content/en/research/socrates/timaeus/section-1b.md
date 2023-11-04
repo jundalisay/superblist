@@ -142,7 +142,8 @@ Comprehending them in a uniform revolution upon the same axis, he made the one t
 - The motion of the Yin diagonally to the left. 
 - He gave dominion to the motion of the Yang by leaving the left side single and undivided.
 
-<img src="/graphics/yinyangok.png" style="height= 400px">
+
+![Yin Yang](/photos/meta/yinyang.jpg)
 
 
 ## The Seven Chakras within the Monad

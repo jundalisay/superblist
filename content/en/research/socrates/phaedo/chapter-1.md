@@ -1,24 +1,24 @@
 ---
 title: "Socrates in Prison"
-
+heading: Chapter 1
 weight: 4
 image: "/covers/phaedo.png"
-description: "'If one of your own possessions, such as an ox killed itself without your permission then you would be angry with him. You would punish him if you could. And so a man should wait, and not take his own life until God summons him, as he is now summoning me.'"
+description: "The ship was crowned on the day before the trial and this kept Socrates in prison and delayed his execution"
 icon: "/icons/socrates.png"
 ---
 
 
 Persons Of The Dialogue:
 
-| Phaedo, the narrator of the dialogue to Echecrates of Phlius | ![](/avatars/g1.jpg) |
+| Phaedo, the narrator of the dialogue to Echecrates of Phlius | ![Phaedo](/icons/g02.png) |
 | --- | --- |
-| Echecrates | ![Echecrates avatar](/avatars/g1.jpg) |
-| Socrates | ![Socrates avatar](/avatars/g2.jpg) |
-| Apollodorus | ![Apollodorus avatar](/avatars/g3.jpg) |
-| Simmias | ![Simmias avatar](/avatars/g1.jpg) |
-| Cebes | ![Cebes avatar](/avatars/g1.jpg) |
-| Crito | ![Crito avatar](/avatars/g1.jpg) |
-| Attendant of the Prison | ![Attendant avatar](/avatars/g1.jpg) |
+| Echecrates | ![Echecrates avatar](/icons/g01.png) |
+| Socrates | ![Socrates avatar](/icons/socrates.png) |
+| Apollodorus | ![Apollodorus avatar](/icons/g04.png) |
+| Simmias | ![Simmias avatar](/icons/g09.png) |
+| Cebes | ![Cebes avatar](/icons/g08.png) |
+| Crito | ![Crito avatar](/icons/g01.png) |
+| Attendant of the Prison | ![Attendant avatar](/icons/g10.png) |
 | Scene | The Prison of Socrates |
 | Place of Narration | Phlius |
 
@@ -54,22 +54,21 @@ Please tell me how he died.
 {{< /r >}}
 
 {{< l a="Phaedo" >}}
-He died so fearlessly. His words were so noble and gracious, that to me he appeared blessed. I thought he was dying as part of a divine call, and that he was doing it happily. This is why I did not pity him. 
+He died so fearlessly. I thought he was dying as part of a divine call, and that he was doing it happily. This is why I did not pity him. He was soon to die. This double feeling was shared by us all. We were laughing and weeping by turns, especially the excitable Apollodorus.
 
-I did not have the pleasure which I usually feel in philosophical discourse because there was also a strange mixture of pain. He was soon to die, and this double feeling was shared by us all. We were laughing and weeping by turns, especially the excitable Apollodorus. 
+Of native Athenians there were, besides Apollodorus, Critobulus and his father Crito, Hermogenes, Epigenes, Aeschines, Antisthenes, Ctesippus of the deme of Paeania, Menexenus, and some others. Plato was ill. 
 
-Of native Athenians there were, besides Apollodorus, Critobulus and his father Crito, Hermogenes, Epigenes, Aeschines, Antisthenes; likewise Ctesippus of the deme of Paeania, Menexenus, and some others; Plato, if I am not mistaken, was ill. There were non-Athenians like Simmias the Theban, and Cebes, and Phaedondes; Euclid and Terpison, who came from Megara. Aristippus and Cleombrotus were not there as they were said to be in Aegina.
+There were non-Athenians like Simmias the Theban, and Cebes, and Phaedondes. Euclid and Terpison came from Megara. Aristippus and Cleombrotus were not there as they were in Aegina.
 {{< /l >}}
 
 {{< l a="Phaedo" >}}
-On the previous days we had been in the habit of assembling early in the morning at the court in which the trial took place, and which is not far from the prison. There we used to wait talking with one another until the opening of the doors (for they were not opened very early); then we went in and generally passed the day with Socrates. 
+On the previous days, we had assembled early in the morning at the court in which the trial took place. It is not far from the prison. There we used to wait until the opening of the doors. We passed the day with Socrates. 
 
 On the last morning we assembled sooner than usual, having heard on the day before when we quitted the prison in the evening that the sacred ship had come from Delos, and so we arranged to meet very early at the accustomed place. On our arrival the jailer who answered the door, instead of admitting us, came out and told us to stay until he called us. 
 
-<!-- 'For the Eleven,' he said, 'are now with Socrates; they are taking off his chains, and giving orders that he is to die to-day.'  -->
-
 We found Socrates just released from chains. Xanthippe, whom you know, was sitting by him and holding his child in her arms. When she saw us she cried and said
 {{< /l >}}
+
 
 'O Socrates, this is the last time that you will converse with your friends' 
 
@@ -88,11 +87,13 @@ I am glad, Socrates, that you have mentioned Aesop because it reminds me of the 
 {{< /r >}}
 
 {{< l a="Socrates" >}}
-Tell him that I had no idea of rivalling him or his poems as it is no easy task. I wanted to purge away a scruple about the meaning of certain dreams. I have often dreamt that I should compose music. The same dream told me to cultivate and make music. I thought this was only for encouraging me into philosophy, which has been the pursuit of my life, and is the noblest and best of music. 
+Tell him that I had no idea of rivalling him or his poems as it is no easy task. I wanted to settle the meaning of certain dreams. I have often dreamt that I should compose music. I thought this was only for encouraging me into philosophy, which has been the pursuit of my life, and is the noblest and best of music. 
 
-The dream was bidding me do what I was already doing, in the same way that the competitor in a race is bidden by the spectators to run when he is already running. But I was not certain of this, for the dream might have meant music in the popular sense of the word, and being under sentence of death, and the festival giving me a respite, I thought that it would be safer for me to satisfy the scruple, and, in obedience to the dream, to compose a few verses before I departed. 
+The dream was bidding me do what I was already doing, in the same way that a runner in a race is bidden by the spectators to keep on running. 
 
-And first I made a hymn in honour of the god of the festival, and then considering that a poet, if he is really to be a poet, should not only put together words, but should invent stories, and that I have no invention, I took some fables of Aesop, which I had ready at hand and which I knew—they were the first I came upon—and turned them into verse. Tell this to Evenus, Cebes, and bid him be of good cheer; say that I would have him come after me if he be a wise man, and not tarry; and that to-day I am likely to be going, for the Athenians say that I must.
+But I was not sure. The dream might have meant music in the popular sense. Being under sentence of death, and the festival giving me a respite, I thought that it would be safer to satisfy the dream and compose a few verses before I departed. 
+
+First I made a hymn in honour of the god of the festival. Then I took some fables of Aesop, which I knew and turned them into verse. Tell this to Evenus, Cebes, and bid him be of good cheer; say that I would have him come after me if he be a wise man, and not tarry; and that to-day I am likely to be going, for the Athenians say that I must.
 {{< /l >}}
 
 {{< r a="Simmias" >}}

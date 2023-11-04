@@ -1,9 +1,10 @@
 ---
-title: "Solutions (Unified Health Paradigm)"
+title: "Solutions"
 image: "/covers/solutions.png"
-description: "We propose a Unified Health Paradigm"
+description: "Here are solutions from Bio Superphysics"
 type: "featured"
-linkTitle: "Solutions"
-weight: 2
+weight: 4
 date: 2020-10-31
 ---
+
+<!-- (Unified Health Paradigm) -->

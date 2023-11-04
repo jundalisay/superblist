@@ -86,11 +86,11 @@ Superphysics breaks through the limitations of Modern Physics by adding into it 
 
 Greeks (Timaeus) | Hindus | Chinese | Shape
 --- | --- | --- | --- | ---
-Aether (dodecahedron)  | Akasha | 水 still water | ![](/graphics/physics/dode.gif)
-Wind (octahedron) | Vayu | 木 moving wood | ![](/graphics/physics/octa.gif)
-Fire (tetrahedron) | Tejas | 火 radiant fire | ![](/graphics/physics/tetra.gif)
-Water (icosahedron) | Jala | 土 transforming earth | ![](/graphics/physics/icos.gif)
-Earth (cube) | Pritvi | 金 solid metal | ![](/graphics/physics/cube.gif)
+Aether (dodecahedron)  | Akasha | 水 still water | ![Dodecahedron](/graphics/physics/dode.gif)
+Wind (octahedron) | Vayu | 木 moving wood | ![Octahedron](/graphics/physics/octa.gif)
+Fire (tetrahedron) | Tejas | 火 radiant fire | ![Tetrahedron](/graphics/physics/tetra.gif)
+Water (icosahedron) | Jala | 土 transforming earth | ![Icosahedron](/graphics/physics/icos.gif)
+Earth (cube) | Pritvi | 金 solid metal | ![cube](/graphics/physics/cube.gif)
 
 
 We then unify all the understandings of the Romans, Greeks, Hindus, and Chinese under our 5-Layers model:

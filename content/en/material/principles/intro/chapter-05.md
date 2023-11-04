@@ -2,7 +2,7 @@
 heading: "Chapter 5"
 title: "The Kepler Tensor and Removing the Metric Tensor"
 date: 2022-01-03
-image: /graphics/keplert.png
+image: /graphics/super/kepler.png
 description: "The Kepler Tensor plot movements in space or no-space according to universal relativity."
 linkTitle: "Kepler Tensor"
 contributors: ['Juan']
@@ -30,7 +30,7 @@ The motion is then represented by the Kepler tensor made up of:
 - G or the Gravitational Signature of the Identity
 - s or the layer where that identity is moving, set by the Cartesian View
 
-![Kepler Tensor](/graphics/keplert.png)
+![Kepler Tensor](/graphics/super/kepler.png)
 
 
 ## The Five Layers of Superphysics

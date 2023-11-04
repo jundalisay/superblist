@@ -1,6 +1,7 @@
 ---
 title: "The True Philosopher"
 #date: 2015-09-29
+heading: Chapter 2
 weight: 6
 image: "/covers/phaedo.png"
 description: "The true philosopher is known specially for his courage and temperance. The latter is the control and regulation of the passions. It is a virtue belonging to those only who despise the body, and who pass their lives in philosophy"

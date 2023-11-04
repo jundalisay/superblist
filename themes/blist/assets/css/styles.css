@@ -65,13 +65,7 @@
   background-image: url(/icons/aris.png) !important;
 }
 
-.Aristoteles, .Companion {
-  background-image: url(/icons/g09.png) !important;
-}
-
-.Arjuna {
-  background-image: url(/icons/arjuna.png);
-}
+.Arjuna {background-image: url(/icons/arjuna.png);}
 
 .Bacon, .Francis-Bacon {
   background-image: url(/icons/bacon.png) !important;
@@ -189,51 +183,43 @@
 
 .Someone, .No-photo, .m, .Mohammad, .Mun {background-image: url(/avatars/blank.png);}
 
-.kin, .Tsz-Kin, .Lin-Fang, .Iamblichus, .Simon-Peter, .M {background-image: url(/icons/g01.png);}
 
-.ade, .Adeimantus, .Tsz-Hi, .Disciples {background-image: url(/icons/g02.png);}
 
-.asker, .Asker, .Thomas {background-image: url(/icons/g09.png) !important;}
+
+.g, .Glaucon, .Critobulus, .Tsz-Chang, .Callias, .Demea, .kin, .Tsz-Kin, .Lin-Fang, .Echecrates, .Iamblichus, .Simon-Peter, .M {
+  background-image: url(/icons/g01.png);
+}
+
+.ade, .Adeimantus, .Tsz-Hi, .Disciples, .Phaedo, .Zeno, .zeno {background-image: url(/icons/g02.png);}
+
+
+.Parmenides, .Ischomachus, .pole, .Polemarchus, .Critias, .Judge, .Man, .Apollodorus {
+  background-image: url(/icons/g04.png);  
+}
 
 .Wang-Sun-Ki, .Judas, .Tsz-Lu {background-image: url(/icons/g07.png) !important;}
 
-.cle, .Cleitophon, .Simmias, .Duke-Ngai, .Abraham {
-  background-image: url(/icons/g09.png);  
+.ceph, .Cephalus, .Tsz-Kung, .Zechariah, .Cebes, .Hippias-the-Sage, .Protagoras, .angry, .Boomer, .Duke-Ting, .Father-of-Abraham {
+  background-image: url(/icons/g08.png);  
 }
 
-.Protagoras, .angry, .Boomer, .Duke-Ting, .Father-of-Abraham {
-  background-image: url(/icons/g08.png);  
+.asker, .Asker, .Thomas, .cle, .Cleitophon, .Simmias, .Yuen-Sz, .Chung-Kung {
+  background-image: url(/icons/g09.png) !important;
+}
+
+.Tsai-Wo, .Matthew, .Duke-Ngai, .Abraham, .Aristoteles, .Companion, .Tsz-Lu, .Crito {
+  background-image: url(/icons/g10.png);  
 }
 
 .Allah {
   background-image: url(/icons/yellow.png);  
 }
 
-.Tsai-Wo, .Matthew {
-  background-image: url(/icons/g10.png);  
-}
-
-.Parmenides, .Ischomachus {
-  background-image: url(/icons/g04.png);  
-}
-
-.pole, .Polemarchus, .Cebes, .Critias, .Judge, .Man {
-  background-image: url(/icons/g04.png);
-}
 
 .Tsz-Yu, .Min-Tsz-Kienm, .Moses, .thra, .Thrasymachus, .Cleanthes {
   background-image: url(/icons/moses.png);
 }
 
-.g, .Glaucon, .Crito, .Critobulus, .Tsz-Chang, .Callias, .Demea {
-  background-image: url(/icons/g01.png);    
-}
-
-.ceph, .Cephalus, .Tsz-Kung, .Zechariah, .Hippias-the-Sage {
-  background-image: url(/icons/g08.png);  
-}
-
-.Tsz-Lu, .Yuen-Sz, .Chung-Kung {background-image: url(/icons/g09.png);}
 
 .Mary, .Wife {background-image: url(/icons/veil.png);}
 
@@ -247,11 +233,6 @@
 .mang, .Mang-i, .Mang-Wu, .Yen-Yung {
   background-color: mistyrose;  
   background-image: url(/avatars/ava2.jpg);  
-}
-
-.Zeno, .zeno {
-  background-color: bisque;  
-  background-image: url(/icons/g02.png);
 }
 
 

@@ -39,7 +39,7 @@ According to Newton's Second Law, net force equals mass times acceleration. This
 But what about a 50 kilogram Buddhist monk who floats and accelerates 1 meter/second {{< s v="2" >}} without any force? How can `0 = 50 1m/s^2`?   
 
 
-![](/graphics/physics/francis.jpg)
+![A monk levitating](/graphics/physics/francis.jpg)
 
 ## Aethereal Effort
 
@@ -50,7 +50,7 @@ A 2D limiter that splits perceptions into seconds will convert `F = ma` on Earth
 > *Qualimath does away with Greek notation
   
 
-![Newton's second law of motion](/graphics/fma.png)
+![Newton's second law of motion](/graphics/physics/fma.png)
 
 Thus, the monk `m` in location `x1` floats to location `x2` by successfully changing its state or perspective `Gm` relative to that of the Earth `GP`. The new force, as a **metaphysical Effort**, then results or is derived from the difference between the two states, which may be larger or smaller than the old physical Force.  
 
@@ -123,5 +123,3 @@ The `G` of Newton is the general push-force of the Material Aether* onto materia
 It follows that the `G` of the Milky way can be different from the `G` of other galaxies. This gives the diversity of galaxy colors and forms. 
 
 > *The universe has 5 layers and so 5 aethers. We call the material aether occasionally as "Descartes' Earth" or "Stokes Aether" 
-
-

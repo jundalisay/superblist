@@ -144,8 +144,6 @@ Our fellow-feeling gives double tribute to the dead when they are in danger of b
   - all we can do is unavailing
   - even the alleviation of their friends' distress can give them no comfort.
 
-![](/graphics/tms/dead.png)
-
 All these increase our sense of their misery. However, the happiness of the dead, most assuredly, is not affected by these. 
 - The thought of these things can never disturb their repose. 
 

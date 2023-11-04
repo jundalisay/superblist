@@ -109,7 +109,7 @@ From the economic definitions of surpluses, we can create their Supereconomic eq
 A single father (supplier) with two children (demanders) normally supplies his family with 3 meals a day by using public transport.
 
 
-![](https://sorasystem.sirv.com/charts/demsup/prodtao2.jpg)
+![Realistic Chart](https://sorasystem.sirv.com/charts/demsup/prodtao2.jpg)
 
 
 - A Covid crisis hits and his country goes on lockdown (new regulation) and imposes limits on purchases (ceiling), reducing the meals to 2 per day, leading to hungry kids (deadweight loss)

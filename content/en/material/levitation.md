@@ -25,7 +25,7 @@ This is still in line with Nature since Maxwell, Fresnell, Hertz, Lord Kelvin, a
 
 We take a 1 kilogram object then apply a prolonged emission on it in order to reduce its weight by 1 gram. We then use this as the basis for a levitating object propelled by the aether.   
 
-![](/graphics/physics/aethertech.png)
+![Aether technology](/graphics/physics/aethertech.png)
 
 
 This is where `G`, `g`, and the Kepler tensor will be necessary to change the state of an object in order to move it through spacetime without needing contact forces.  

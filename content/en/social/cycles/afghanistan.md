@@ -200,8 +200,7 @@ Establishing democracy in a barbarous country would be like the Romans leaving B
 
 
   democracy is the third phase of the evolution of a society, the first phase being the aristocratic and the second being the oligarchic.
-
-![](https://sorasystem.sirv.com/graphics/4cycles.png)  -->
+ -->
 
 <!-- It seems that the Americans, like most rich people, assume that things can be done by merely throwing money at a problem. They never asked how could they make the Afghans wealthy to begin with. If they did, then they would realize that the imposition of morals is the real first step. This moral imposition is what the Taliban was trying to do with their Shariah law and was the secret sauce that led them to win their civil war in 1996. 
 

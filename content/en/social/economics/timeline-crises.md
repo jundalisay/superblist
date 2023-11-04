@@ -1,16 +1,15 @@
 ---
 title: "The Timeline of Economic Crises"
 image: "https://sorasystem.sirv.com/graphics/dutch.jpg"
-description : "The widespread use of standardized money, from the rise of peace and order, led to mercantilism and, later, capitalism"
+description : "The widespread use of standardized money led to mercantilism and, later, capitalism"
 date: 2015-04-11
 heading: From 1204-2020
-youtube: "rVP73TV2X0s"
 contributors: ['Juan']
 draft: true
 icon: /icons/pantry.png
 ---
 
-![](https://sorasystem.sirv.com/graphics/dutch.jpg)
+![Dutch Mercantilism](https://sorasystem.sirv.com/graphics/dutch.jpg)
 
 
 

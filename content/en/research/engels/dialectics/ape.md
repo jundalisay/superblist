@@ -1,10 +1,10 @@
 ---
-title: The Part played by Labour in the Transition from Ape to Man
+title: Labour in the Transition from Ape to Man
 heading: Part 1
 # Dialectics of Nature
 weight: 2
 # date: 2022-01-31
-description: Dialectics of Nature
+description: The decisive step in the transition from ape to man was the adoption of a more and more erect posture.
 author: "Frederick Engels"
 image: "/covers/nature.jpg"
 icon: /icons/engels.png
@@ -125,8 +125,8 @@ Moreover they have acquired the capacity for feelings such as affection for man,
 
 However, where vocal organs exist, within certain limits even this inability disappears. The buccal organs of birds are as different from those of man as they can be, yet birds are the only animals that can learn to speak; and it is the bird with the most hideous voice, the parrot, that speaks best of all. 
 
-The parrot does not understand what it says. <!-- It is true that for the sheer pleasure of talking and associating with human beings, --> The parrot will chatter for hours at a stretch, continually repeating its whole vocabulary. But within the limits of its range of concepts it can also learn to understand what it is saying. 
+The parrot does not understand what it says. It will chatter for hours, continually repeating its whole vocabulary. But within the limits of its range of concepts it can also learn to understand what it is saying. 
 
-Teach a parrot swear words in such a way that it gets an idea of their meaning (one of the great amusements of sailors returning from the tropics); tease it and you will soon discover that it knows how to use its swear words just as correctly as a Berlin costermonger. 
+Teach a parrot swear words in such a way that it gets an idea of their meaning (one of the great amusements of sailors returning from the tropics). Tease it and you will soon discover that it knows how to use its swear words just as correctly as a Berlin costermonger. 
 
 The same is true of begging for titbits.

@@ -2,11 +2,15 @@
 title: "What is ISAIAH?"
 heading: "Impartial Spectator Automated Intelligence Aggregation Host"
 date: 2015-09-09
+weight: 15
 image: https://sorasystem.sirv.com/AI.jpg
 description: "The money and moneyless transactions are visualized by artificial intelligence (AI) in order to guide policymakers and the public on the real-price trends."
 contributors: ['Juan']
 icon: /icons/pantry.png
+aliases:
+  /superphysics/solutions/isaiah
 ---
+
 
 
 <!-- ISAIAH is the machine learning system for the implementations of Superphysics -->
@@ -17,6 +21,24 @@ linkf: articles/superphysics/meaning-of-red-herring-ad-hominem-occams-razor"
 linkftext: "What is a Red Herring?"
  -->
  
+Chapter 4c explained the Eagle as Superphysics equation for everything. 
+
+{{< img src="/graphics/super/egl.png" alt="E = Gl" >}}
+
+
+When expanded, this manifests as a chain of ratios which matches the interconnectedness of everything in the universe. 
+
+{{< img src="/graphics/super/kepler.png" alt="Kepler Tensor" >}}
+
+This chain describes the dynamics or motions of an object. It can be really long depending on how many factors affected that object. 
+
+We can list this chain as a table, which we derive from Francis Bacon. 
+
+
+This chain 
+
+
+
 Supereconomics (Economic Superphysics) aims to solve all economic problems by adding moneyless donations and exchange (barter), as points-based valuation, to the current money-based valuation. This is similar to how Material Superphysics aims to solve mysteries in Physics by adding the aether-idea onto the idea of "quantum fields". 
 
 The points-based valuation represents [the effort theory of value](/social/economics/principles/effort-theory-of-value) which we derived from Adam Smith:

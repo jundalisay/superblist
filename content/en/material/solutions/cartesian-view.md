@@ -12,12 +12,13 @@ toc: false
 
 In [a previous post](/material/fallacies/general-relativity), we explained our equation for everything as:
 
-![E = gl equation](/graphics/eglrest.png)
+{{< img src="/graphics/super/egl.png" alt="E = gl equation" cap="Our equation for everything has 3 components: Force as Energy, Dharma as G, Element as L" >}}
+
 
 
 In this post we explain its active form as:
 
-![Kepler Tensor](/graphics/keplert.png)
+![Kepler Tensor](/graphics/super/kepler.png)
 
 This is made up of two parts, separated by a colon or ratio sign*;
 - The Kepler Tensor G{{< sub v="(s)" >}} which has:
@@ -115,7 +116,7 @@ We plot their movements in two Cartesian planes:
 2. Aethereal Cartesian Plane: This will be used in visualizations of aethereal movement and quantum mechanics (probabilities) 
 
 
-{{< img src="/graphics/cartesian.png" alt="Cartesian planes" cap="The movement of a country can be physical or aethereal. The left physical Cartesian plane for example can be made to represent the movement of a country from a population of 1 million to 4 million at year 4. The right aethereal Cartesian plane plots movement of the soul of the same society from tyranny or neoconservatism (tetrahedron) into aristocracy or conservatism (octahedron) based on the Socrates' social cycles. Alternately, the left plane can represent Covid infections from 1,000 to 4,000 at the Day 4. The right plane can plot the evolution of the variants that emerge. Lastly, the left plane can represent a ball at [1,1] rolling to [4,4]. The right plane will then plot the changes in the ball's changing gravitational signature at each point [1,1] [2,2] [3,3] [4,4], as three time intervals. This will then be useful for levitating the ball (forceless movement)" >}}
+{{< img src="/graphics/super/cartesian.png" alt="Cartesian planes" cap="The movement of a country can be physical or aethereal. The left physical Cartesian plane for example can be made to represent the movement of a country from a population of 1 million to 4 million at year 4. The right aethereal Cartesian plane plots movement of the soul of the same society from tyranny or neoconservatism (tetrahedron) into aristocracy or conservatism (octahedron) based on the Socrates' social cycles. Alternately, the left plane can represent Covid infections from 1,000 to 4,000 at the Day 4. The right plane can plot the evolution of the variants that emerge. Lastly, the left plane can represent a ball at [1,1] rolling to [4,4]. The right plane will then plot the changes in the ball's changing gravitational signature at each point [1,1] [2,2] [3,3] [4,4], as three time intervals. This will then be useful for levitating the ball (forceless movement)" >}}
 
 
 

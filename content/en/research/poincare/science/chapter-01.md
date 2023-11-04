@@ -3,7 +3,7 @@ title: The Nature Of Mathematical Reasoning
 heading: Chapter 1
 weight: 2
 # date: 2022-02-28
-description: Science and Hypothesis
+description: If mathematics could be reduced to a series of such verifications it would not be a science
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
@@ -68,7 +68,6 @@ All these modes of reasoning, whether or not reducible to the syllogism:
 - retain the analytical character<!-- , and ipso facto, --> 
 - lose their power.
 
-<!-- science and hypothesis -->
 
 ## 2. Mathematical Reasoning
 

@@ -22,11 +22,13 @@ Consumption depends on Aggregate Income and, therefore, on the level of employme
 - Disposable Income for Investment <!-- `D2` -->.
 
 
-4. `Disposable Income for Consumption + Disposable Income for Investment =  Effective Demand = φ(N)` <!-- `D1 + D2 = D = φ(N)` -->
+4. `Disposable Income for Consumption + Disposable Income for Investment =  Effective Demand = φ(N)`
+<!-- `D1 + D2 = D = φ(N)` -->
 
 - `φ` is the aggregate supply function
 
-Item 2 shows that <!-- `D1` --> `Disposable Income` is a function of `N` which we may write `χ(N)`. Depending on the propensity to consume, it follows that <!-- `φ(N) - χ(N) = D2` -->
+Item 2 shows that `Disposable Income` is a function of `N` which we may write `χ(N)`. Depending on the propensity to consume, it follows that
+<!-- `φ(N) - χ(N) = D2` -->
 
 ```bash
 Aggregate Income(N) - Disposable Income(N) = Disposable Income for Investment
@@ -143,4 +145,6 @@ Thus, 3 main gaps in our existing knowledge are:
 > *Superphysics note: This is really the fallacy promoted by Keynesian doctrine
 
 
-The Theory of Prices is subsidiary to our general theory. Money plays an essential part in our theory of the Rate of Interest. <!--  and we shall attempt to disentangle the peculiar characteristics of Money which distinguish it from other things.  -->
+The Theory of Prices is subsidiary to our general theory. Money plays an essential part in our theory of the Rate of Interest.
+
+ <!--  and we shall attempt to disentangle the peculiar characteristics of Money which distinguish it from other things.  -->

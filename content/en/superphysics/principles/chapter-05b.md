@@ -1,43 +1,33 @@
 ---
+title: "Gravitational Territories"
 heading: "Chapter 5b"
-title: "The Elastic Theory of Gravity"
-date: 2023-02-20
+date: 2023-11-02
 weight: 17
-image: "/graphics/physics/bands.jpg"
-description: "The Theory of Elastic Gravitational Bands is part of the details of the Theory Dynamism"
+image: /graphics/physics/helio.jpg
+description: "Everything in existence is created by the two forces"
 contributors: ['Juan']
 icon: /icons/sp.png
 ---
 
 
-Chapter 3 explained how the Law of Conservation of Idea creates dharma, as well as movement and dynamism. 
+Chapter 4c explained the concept of Gravitational Signatures which represent the inherent true nature of an identity, as a particle, thing, person, place, etc.   
 
-Chapter 4c explained the concept of gravitational signatures as notations of svadharma. 
+That signature is a purely metaphysical concept and has no direct physical manifestation. No one will be able to see or hear it. 
 
-Chapter 5 explained how the Two Forces create attraction and repulsion as examples of such movement. 
+Its dynamics in the real world creates the idea of a gravitational territory which is the area where the gravitational signature can express itself and detect or interact with other signatures.
 
-Combining these gives us the Elastic Theory of Gravity which is applicable in many areas such as:
-- Economics as price movements
-- Sociology as international relations and cultural interaction
-- Relationships as marriage and divorce 
-- Physics as gravitation and magnetism
-- Medicine as disease and wellness
+{{< img src="/graphics/physics/helio.jpg" alt="Gravitational Territory" cap="Descartes wrote about how gravitational territories work" >}}
 
+In human life, this territory is the aethereal aura that radiates from people.   
 
-which is the cause of all movement and change in the universe.
+Some people radiate a strong aura which manifest as a strong personality or X-factor, just as a large star or galaxy has a large gravitational field or influence.
 
-All of this movement is caused by the creation or existence of other ideas, which manifest as entities in the physical domain. The rule on uniqueness makes those entities move away from each other. This leads to our Theory of Dynamism. 
+In Physics, a comet or asterod that enters a star's gravitational field will get a tendency to be attracted towards that star. 
 
+Likewise, when we see or come close to a person, we might get a tendency to talk to that person if we feel a curiosity or common interest with that person.
 
+Seeing or being that person is therefore being within that person's gravitational territory just as a body is attracted to a  bigger body that enters its gravitational field.
 
-Here we explain 'The Elastic Theory' or the Theory of Elastic Gravitational Bands which is a consolidation of the theories from:
-
-- Socrates, as the relativity of the motions in the heavens
-- Kepler, as the links of kinship between planetary bodies
-- Descartes, as the aether powering all movement
+This is explained in detail in Material Superphysics. 
 
 
-{{< youtube IMOftV0yfso >}}
-
-
-This is further explained in [Material Superphysics](/material/principles/part-2/chapter-04).

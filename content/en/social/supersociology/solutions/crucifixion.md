@@ -1,8 +1,9 @@
 ---
-title: "The Crucifixion of Jesus"
+title: "The Crucifixion of Jesus According to Social Cycles"
 date: 2023-04-03
+# weight: 
 image: "/covers/jesus.jpg"
-description: ""
+description: "Historical facts will reveal that the crucifixion of Jesus had little to do with spirituality, but everything to do with politics"
 contributors: ['Juan']
 icon: /icons/sp.png
 ---

@@ -35,4 +35,4 @@ The nature of this Mind then forms the subdivisions of Superphysics:
 2. Bio Superphysics - this studies the nature of the Mind of a living being
 3. Social Superphysics - this studies the nature of the Mind of society
 
-![](/graphics/super/5layers.png)
+![The 5 Layers of Superphysics](/graphics/super/5layers.png)

@@ -1,7 +1,7 @@
 ---
 title: "Natural Remedies for Leprosy"
 weight: 46
-description: "The Saḿskrta word Kuśt́ha means skin disease. So in Saḿskrta, prickly heat is also a kind of Kuśt́ha. But what in modern Indian languages we take kuśt́ha (leprosy) to be is called in Saḿskrta, Bátarakta Roga."
+description: "The Sanskrit word Kustha means skin disease. But leprosy is Batarakta Roga, not kustha."
 image: "/photos/med/leprosy.jpg"
 icon: "/icons/sarkar.png"
 ---

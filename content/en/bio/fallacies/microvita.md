@@ -1,11 +1,10 @@
 ---
 title: "The Fallacy of 'Microvita Jumps' by Time Travel"
-heading: "Caused by Dogma on Sarkar quotes"
+# heading: "Caused by Dogma on Sarkar quotes"
 date: 2022-01-20
 image: "/photos/med/covid.jpg"
 description: "Rudolph and Vimalananda interpret Sarkar literally"
 icon: /icons/sp.png
-draft: true
 ---
 
 
@@ -18,17 +17,20 @@ there cannot be steady movement. There must be acceleration – either constant 
 
 The authors ask: what causes those jumps?
 
-Through self-delusion, they answer themselves:  These jumps are brought about by <!-- positive and negative --> Microvita going back in time through "transformations from one space-time into another, i.e. from an imaginary future to the real present."
+Through self-delusion, they answer themselves:  
 
-They base their reasoning in the ability of enyzmes to make biochemical reactions in living organisms (past to present). They then extend this to Microvita which can affect changes from the future onto the present:   
+{{< q >}}
+These jumps are brought about by Microvita going back in time through transformations from one space-time into another, i.e. from an imaginary future to the real present.
+{{< /q >}}
+
+
+They base their reasoning in the ability of enyzmes (past) to make biochemical reactions in living organisms (present). They then extend this to Microvita which can affect changes from the future onto the present:   
 
 {{< q >}}
 enzymes are able to control biochemical reactions forwards-in-time (from real past to present), Microvita are able to do so backwards-in-time, i.e. <i>from an imaginary future to our present conditions of life</i>
 {{< /q >}}
 
 To which we say:
-
-### WHAT THE FLYING F...?!?!
 
 ![WTF!](/graphics/wtf.png)
 
@@ -51,8 +53,10 @@ PR Sarkar likely foresaw in March 1990 that a Negative Microvita wave, as Covid-
 
 With this reasoning, there is no need to create complex 4x4 spacetime matrices to explain the current galloping change. Instead, the change is caused by regular waves of Positive and Negative Microvita hitting the Earth regularly in the normal Galilean spacetime. 
 
-The origin of Covid or Negative Microvita is then the star (which we call [the Covid star](/medical/physical/solutions/covid-flu-star)) which emits the energy to support its wave. This is similar to the sun emitting energies to support us here on earth. 
+The origin of Covid or Negative Microvita is then the star (which we call [the Covid star](/bio/solutions/covid-star)) which emits the energy to support its wave. This is similar to the sun emitting energies to support us here on earth. 
 
-![Covid Star](/graphics/covidstar.jpg)
+![Covid Star](/graphics/bio/covidstar.jpg)
 
-Ideally, the forces of Positive Microvita should have been building up from March 1990 to counteract the current wave of Negative Covid Microvita. Unforunately, the positive force got dogmatized and static. And so there is nothing to stop the Negative force from ravaging the planet. Rudolph and Vimalananda got seduced by the false intellect of Aristotle and Einstein and so were rendered useless by the same Negative force that powers Covid. 
+Ideally, **the forces of Positive Microvita should have been building up from March 1990 to counteract the current wave of Negative Covid Microvita**. Unforunately, the positive force got dogmatized and static. And so there is nothing to stop the Negative force from ravaging the planet.
+
+Rudolph and Vimalananda got seduced by the false intellect of Aristotle and Einstein and so were rendered useless by the same Negative force that powers Covid. 

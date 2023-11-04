@@ -201,7 +201,7 @@ Both of these are extremes which will reduce the probability of them experiencin
 
 This flip is the same as a rescuer securing himself before securing others. The first step is very small and insignificant relative to the second step. 
 
-![](https://sorasystem.sirv.com/graphics/childmask.jpg) -->
+![Child mask](https://sorasystem.sirv.com/graphics/childmask.jpg) -->
 
 
 <!-- We have so far dissected the Experiencer into three:
