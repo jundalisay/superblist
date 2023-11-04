@@ -55,7 +55,7 @@ Is a naturalness problem, like the Hierarchy problem, and not a problem of incon
 **5-6. Dark Energy and Dark Matter**
 
 - Cause of Problem: General Relativity
-- Solution: [Spatial Layer](/material/principles/part-2/chapter-02/), Quanta of Spacetime, and Aethereal Vortices
+- Solution: [Spatial Layer](material/principles/part-2/chapter-04b/), Quanta of Spacetime, and Aethereal Vortices
 
 ![Aether](/graphics/physics/aethertech.png)
 

@@ -7,7 +7,7 @@ description: "The Prophet Mohammad tries to connect the historical Imran family 
 ---
 
 
-{{< s v="28" >}} Believers should not have disbelievers for friends over believers, unless it is to protect yourselves against them.
+{{< s v="28-32" >}} Believers should not have disbelievers for friends over believers, unless it is to protect yourselves against them.
 
 <!-- {{< s v="29" >}} Say, “Whether you conceal what is in your hearts, or disclose it, Allah knows it.” He knows everything in the heavens and the earth. Allah is Powerful over everything.
 
@@ -23,7 +23,7 @@ Himself. Allah is Kind towards the servants.  -->
 But if they turn away then Allah does not love the faithless. -->
 
 
-{{< s v="33" >}} Over all mankind, Allah chose:
+{{< s v="33-34" >}} Over all mankind, Allah chose:
 - Adam
 - Noah
 - the family of Abraham
@@ -66,7 +66,7 @@ My Lord, bestow on me good offspring.
 {{< /l >}}
 
 
-{{< s v="39" >}} Then the angels called out to him, as he stood praying in the sanctuary: 
+{{< s v="39-45" >}} Then the angels called out to him, as he stood praying in the sanctuary: 
 
 {{< r a="Angels" >}}
 John is an honorable, moral prophet.  Allah gives you good news confirming a Word from Allah from John.”
@@ -134,7 +134,7 @@ We are. We believe in Allah and submit.
 We believe what You have revealed through the Messenger, so count us among the witnesses.
 {{< /r >}}
 
-{{< s v="54-57" >}} They planned, and Allah planned; but Allah is the Best of planners.
+{{< s v="54-58" >}} They planned, and Allah planned; but Allah is the Best of planners.
 
 {{< l a="Allah" >}}
 Jesus, I am:
