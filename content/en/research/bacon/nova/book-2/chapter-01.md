@@ -79,25 +79,28 @@ It is by far safest to:
 
 This is because of the dangers of dwelling on abstractions.
 
-What precepts should a person take in order to generate any nature on a given body?
- 
-We must consider what species of precept or guide we should follow if we wanted to:
-- superinduce the yellow color of gold on silver, or
-- an additional weight or transparency on an opaque stone, or
-- tenacity in glass, or
-- vegetation on a substance which is not vegetable
+How can we discover the nature of a given body?
+
+We must have a method to follow if we wanted to induce:
+- the yellow color of gold on silver, or
+- an additional weight or transparency on an opaque stone,
+- tenacity in glass,
+- vegetation on a substance that does not have vegetation
+<!-- which is not vegetable -->
 
 1. We want some method that will neither fail in effect nor deceive us in the trial of it
 2. The prescribed method should not restrict him and tie him down to peculiar means, and certain particular methods of acting
 
  <!-- for he will, perhaps, be at loss, and without the power or opportunity of collecting and procuring such means.  -->
 
-If there were other means and methods of creating such a nature, they will be of such a kind as are in his power. 
-- Yet by the confined limits of the precept, he will be deprived of reaping any advantage from them
+If there were other methods to discover such a nature, we must be capable of them. 
 
-3. He will be anxious to be shown something not so difficult as the required effect itself, but approaching more nearly to practice.
+Yet by the confined limits of the method, we cannot reap any advantage from them.
 
-**Our genuine and perfect rule of practice is that it should be certain, free and preparatory, or having relation to practice.** 
+
+3. We will be anxious to be shown something not so difficult as the required effect itself, but approaching more nearly to practice.
+
+**Our rule of practice is that it should be certain, free and preparatory, or having relation to practice.** 
 - This is the same thing as the discovery of a true form
 - For the form of any nature is such, that when it is assigned the particular nature infallibly follows. 
 
@@ -106,16 +109,14 @@ Form, therefore:
 - universally attests such presence, and
 - is inherent in the whole of it.
 
- is of such a character, that 
-
 If the same form is removed, the particular nature infallibly vanishes. Therefore, it:
 - is absent whenever that nature is absent, and
 - perpetually testifies such absence, and
 - exists in no other nature. 
 
-Lastly, the true form deduces the particular nature from some source of essence existing in many subjects, and more known <!-- (as they term it) --> to nature, than the form itself.
+Lastly, the true form deduces the particular nature from some source of essence existing in many subjects, and more known to nature, than the form itself.
 
-Our genuine and perfect theoretical axiom is that **a nature is convertible with a given nature, yet limits the more known nature, in the manner of a real genus.** 
+Our theoretical axiom is that **a nature is convertible with a given nature, yet limits the more known nature, in the manner of a real genus.** 
 
 But these practical rules and theoretical rules are the[113] same. 
 - That which is most useful in practice is most correct in theory.

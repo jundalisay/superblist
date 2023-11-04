@@ -34,8 +34,12 @@ This chain describes the dynamics or motions of an object. It can be really long
 
 We can list this chain as a table, which we derive from Francis Bacon. 
 
+{{< q a="Francis-Bacon" >}}
+Natural and experimental history is so varied and diffuse. It confounds the understanding unless it is fixed and exhibited in due order. We must, therefore, form tables and co-ordinations of instances..
 
-This chain 
+From a given nature, we first present all the known instances which agree in the same nature. This collection must be made as a mere history, without any premature reflection.
+{{< /q >}}
+
 
 
 

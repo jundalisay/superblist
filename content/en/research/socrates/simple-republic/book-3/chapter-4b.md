@@ -8,12 +8,10 @@ icon: "/icons/socrates.png"
 ---
 
 
-
-
 {{< l a="Socrates" >}}
-The young men whom we before called 'guardians' may be more properly designated as the rulers' auxiliaries and supporters. 
+The young men we called 'guardians' may more properly be designated as the rulers' auxiliaries and supporters. 
 
-An old Phoenician tale told of a useful lie. It said that the earth is our mother where we were manufactured in, and from it we were sent up. We should communicate this useful lie gradually, first to the rulers, then to the soldiers, and lastly to the people. We will tell them that:
+An old Phoenician tale told of a useful lie. It said that the earth is our mother where we were manufactured in, and we were sent up from it. We should telll this useful lie gradually, first to the rulers, then to the soldiers, and lastly to the people. We will tell them that:
 - their youth was a dream,
 - the education and training which they received from us, an appearance only.
 - their land is their mother and nurse which they should defend

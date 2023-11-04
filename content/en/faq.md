@@ -13,7 +13,7 @@ What is Superphysics?
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-Superphysics is the merging of Science and Metaphysics without going into the details of either. This acts as a bridge between ancient metaphysics and modern science, as explained by Francis Bacon.
+Superphysics is the merging of Science and Metaphysics without going into the details of either. It acts as a bridge between ancient metaphysics and modern science, as explained by Francis Bacon.
 {{< /l >}}
 
 {{< q a="Francis-Bacon" c="The Proficience And Advancement Of Learning Simplified, Book 2 Part 7" >}}
@@ -64,7 +64,7 @@ Socratic Dialectics uses timeless metaphysical truths as the quality control for
 
 Its rival Capitalism also embraces Aristotle, as proven by Ayn Rand and the subsequent 2008 Financial Crisis which also caused suffering.
 
-The enlightened philosophers like Hume and Ibn-Khaldun denounced Aristotle. So you can say we are fully in the Plato-Pythagoras-Hinduism-Buddhism-Taoism camp.  
+The enlightened philosophers like Bacon, Hume, and Ibn-Khaldun denounced Aristotle. So you can say we are fully in the Plato-Pythagoras-Hinduism-Buddhism-Taoism camp.  
 {{< /l >}}
 
 {{< r a="Asker" >}}
@@ -112,15 +112,13 @@ We use it to solve all problems.
 {{< /l >}}
 
 {{< r a="Asker" >}}
-So how can that knowledge solve problems? Are you just going to be like the Hindus and solve the problem by ignoring it and the illusion?
+So how can that knowledge solve problems? Are you just going to be like the Hindus and solve the problem by ignoring it as an illusion?
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
 No. Superphysics aims to solve problems by striking at the root cause, which is the 'True Nature' or Dharma or Tao in every thing that leads to its discrete identity, as described by Socrates. 
 
-A problem begins when something goes away from its True Nature, Dharma, or Tao.
-
-Most science just deals with effect and not cause because science is ignorant of metaphysics which is the real cause of anything in physics. The education system is supposed to help children discover their True Nature, Dharma, or Tao so that they can direct their lives towards it. But instead, it just molds them to be industrial workers (the dharma of business and industry). 
+A problem begins when something goes away from its True Nature, Dharma, or Tao. Most sciences just deal with effect and not cause because science is ignorant of metaphysics which is the real cause of anything in physics. The education system is supposed to help children discover their True Nature, Dharma, or Tao so that they can direct their lives towards it. But instead, it just molds them to be industrial workers (the dharma of business and industry). 
 
 Ask anyone what the goal or purpose of their life is, and they will look at you with a blank stare. So the first step is to find the metaphysical true nature.
 {{< /l >}}
@@ -137,7 +135,7 @@ By knowing the root cause of the headache. The cause could be diet, stress, cong
 
 Medical science deals with the headache by masking its pain (usually via Paracetamol) and not really dealing with what is causing the pain. This is to process patients faster since the body has its own natural healing mechanism. However, this also means that the headache can come back. Moreover, the doctor can only work with the data that the patient gives. 
 
-Bio Superphysics gets all the data about the patient to find the pattern on which **[layer](/bio/principles/part-04/chapter-03/)** the cause is in. It then routes that patient to the proper specialist whether it be from Western medicine, yoga, Chinese medicine, homeopathy, etc.  
+Bio Superphysics gets all the data about the patient to find the pattern on which *layer* the cause is in. It then routes that patient to the proper specialist whether it be from Western medicine, yoga, Chinese medicine, homeopathy, etc.  
 {{< /l >}}
 
 <!-- 
@@ -157,7 +155,7 @@ No. Each [medical paradigm](/bio/principles/part-04/chapter-03) is a tool dealin
 
 But people often use alternative medicine for the wrong purpose and so it unfairly gets a bad reputation. 
 
-Western medicine works best in the material layer but is awful at the mental layer. This is why the West has a lot of mental problems that lead to mass shootings. 
+Western medicine works best in the material layer but is awful at the mental layer. This is why the West has a lot of mental problems that lead to riots and mass shootings. 
 
 Yoga is great at the mental layer, but terrible at the material layer. This is why the West is usually so materially rich, while India is so materially poor.
 {{< /l >}}
@@ -170,9 +168,7 @@ But I'm a racist, materialist boomer. I don't like anything Asian and abstract l
 
 I want profits and wealth for myself. I drink my delicious expensive coffee conveniently with plastic straws, and don't care about the sea animals that will die from ingesting them. Sucks to be them.  
 
-The universe was created for us humans, and not us humans created to serve the universe.  
-
-After death, there is nothing. So I say maximize pleasure while alive and don't care about the consequences, even on others! 
+The universe was created for us humans, and not us humans created to serve the universe.  After death, there is nothing. So I say maximize pleasure while alive and don't care about the consequences, even on others! 
 
 So what if there's global warming? In the long-run, we're all dead! At least I've experienced a 5-star lifestyle. Heaven can be on earth, bought by :musical_notes: money money money in a rich man's world :musical_notes:. 
 {{< /r >}}
@@ -252,7 +248,7 @@ I guess you encounter a lot of opposition from humans who think that the limited
 {{< l a="Superphysics" >}}
 Yes. This is now known as 'scientism' propagated by materialists.
 
-For example, alternative medicines that don't pass clinical trials are not medicine, but are just supplements even if they cure some people but not all. 
+For example, alternative medicines that don't pass clinical trials are not classified as medicine even if they cure some people but not all.
 
 Moreover, the gap between experiment and useful invention is huge. For example, the principle of action-reaction can be demonstrated with a $0.10 party balloon releasing air to propel itself. But it takes a lot more effort to convert that principle into a working rocket which costs $1,000.  
 {{< /l >}}

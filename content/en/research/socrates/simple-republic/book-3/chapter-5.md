@@ -1,6 +1,6 @@
 ---
 title: "The Rules for Guardians"
-heading: Chapter 4b
+heading: Chapter 5
 weight: 16
 description: "The guardians should have common children, and not have private property nor riches"
 image: "/covers/republic.jpg"

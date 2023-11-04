@@ -1,5 +1,5 @@
 ---
-title: "Fiotnotes"
+title: "Footnotes"
 heading: 
 weight: 1
 description: ""
@@ -8,14 +8,18 @@ icon: /icons/bacon.png
 ---
 
 
-FOOTNOTES
 [71] Τὸ τὶ ἦν εἶναι, or ἦν οὐσία of Aristotle.—See lib. iii. Metap.
 
 [72] These divisions are from Aristotle’s Metaphysics, where they are termed, 1. ὓλη ἢ τὸ ὑποκείμενον. 2. τὸ τὶ ἦν εἶναι. 3. ὅθεν ἡ ἀρχὴ τῆς κινήσεως. 4. τὸ οὗ ἕνεκεν—καὶ τὸ ἀγαθόν.
 
 [73] See Aphorism li. and second paragraph of Aphorism lxv. in the first book.
 
-[74] Bacon means, that although there exist in nature only individualities, yet a certain number of these may have common properties, and be controlled by the same laws. Now, these homogeneous qualities which distinguish them from other individuals, lead us to class them under one expression, and sometimes under a single term. Yet these classes are only pure conceptions in Bacon’s opinion, and cannot be taken for distinct substances. He evidently here aims a blow at the Realists, who concluded that the essence which united individualities in a class was the only real and immutable existence in nature, inasmuch as it entered into their ideas of individual substances as a distinct and essential property, and continued in the mind as the mold, type or pattern of the class, while its individual forms were undergoing perpetual renovation and decay.—Ed.
+[74] Bacon means, that although there exist in nature only individualities, yet a certain number of these may have common properties, and be controlled by the same laws. 
+
+These homogeneous qualities which distinguish them from other individuals, lead us to class them under one expression, and sometimes under a single term. Yet these classes are only pure conceptions in Bacon’s opinion, and cannot be taken for distinct substances. 
+
+He evidently here aims a blow at the Realists, who concluded that the essence which united individualities in a class was the only real and immutable existence in nature, inasmuch as it entered into their ideas of individual substances as a distinct and essential property, and continued in the mind as the mold, type or pattern of the class, while its individual forms were undergoing perpetual renovation and decay.—Ed.
+
 
 [75] Bacon’s definition is obscure. 
 

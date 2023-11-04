@@ -1,5 +1,5 @@
 ---
-title: "Rule for transforming bodies"
+title: "Rule for Transforming Bodies"
 heading: Chapter 1b
 weight: 4
 description: ""
@@ -24,7 +24,7 @@ Thus, in gold are united the following circumstances:
 - etc
 
 
-An axiom of this kind deduces the subject from the forms of simple natures. 
+<!-- An axiom of this kind deduces the subject from the forms of simple natures.  -->
 
 He who has acquired the forms and methods of superinducing yellowness, weight, ductility, stability, deliquescence, solution, and the like, and their degrees and modes, will contrive how to unite them in any body, so as to transform[76] it into gold.
 
@@ -40,8 +40,6 @@ This method of operating:
 
 2. This rule depends on the discovery of the latent process does not proceed by simple natures,[114] but by concrete bodies, as they are found in nature and in its usual course.
 
-<!-- , and so on of other bodies. -->
-
 The following species of inquiry is not confined to the mere generation of bodies. It is applicable to other changes and labors of nature:
 - From what beginnings, in what manner, and by what process gold or any metal or stone is generated from the original menstruum, or its elements, up to the perfect mineral
 - how are plants generated from seeds? 
@@ -50,10 +48,14 @@ The following species of inquiry is not confined to the mere generation of bodie
 
 For instance, where an inquiry is made into the whole series and continued operation of the nutritive process, from the first reception of the food to its complete assimilation to the recipient;[77] or into the voluntary motion of animals, from the first impression of the imagination, and the continuous effects of the spirits, up to the bending and motion of the joints; or into the free motion of the tongue and lips, and other accessories which give utterance to articulate sounds. 
 
-For all these investigations relate to concrete or associated natures artificially brought together, and take into consideration certain particular and special habits of nature, and not those fundamental and general laws which constitute forms. It must, however, be plainly owned, that this method appears more prompt and easy, and of greater promise than the primary one.
+All these investigations relate to concrete or associated natures artificially brought together. These take into consideration certain special habits of nature, and not those fundamental and general laws which constitute forms. 
+
+This method appears more prompt and easy, and of greater promise than the primary one.
 
 
-The operative branch answers to this contemplative branch. It extends and advances its operation from that which is usually observed in nature, to other subjects immediately connected with it, or not very remote from such immediate connection. 
+The operative branch answers to this contemplative branch.
+
+It extends and advances its operation from that which is usually observed in nature, to other subjects immediately connected with it, or not very remote from such immediate connection. 
 
 But the higher and radical operations upon nature depend entirely on the primary axioms. 
 

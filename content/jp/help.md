@@ -1,8 +1,9 @@
 ---
-title: "Sie können uns helfen"
-description: "Sie können uns helfen Superphysics"
+title: "助けが必要です"
+description: "私たちはより良い現実のための新しい科学と新しいシステムを構築しています"
 image: /covers/solutions.png
 ---
+
 
 私たちはより良い現実のための新しい科学と新しいシステムを構築しています。
 

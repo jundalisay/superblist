@@ -19,14 +19,12 @@ This has 3 divisions:
 
 2. The deriving of new experiments from axioms
 
-<!-- We must first prepare as a foundation for the whole,  -->
-
-A complete and accurate natural and experimental history is first needed. We must<!--  not imagine or invent, but --> discover the acts and properties of nature.
+A complete and accurate natural and experimental history is first needed. We must discover the acts and properties of nature.
 
 But natural and experimental history is so varied and diffuse.
 - It confounds and distracts the understanding unless it is fixed and exhibited in due order.
 
-We must, therefore, form tables and co-ordinations of instances.<!-- , upon[121] such a plan, and in such order that the understanding may be enabled to act upon them. -->
+We must, therefore, form tables and co-ordinations of instances.
 
 <!-- Even when this is done, the understanding, left to itself and to its own operation, is incompetent and unfit to construct its axioms without direction and support. Our third ministration, therefore, -->
 
@@ -52,7 +50,7 @@ Instances agreeing in the Form of Heat:
 7. Ignited solids.
 8. Natural warm baths.
 9. Warm or heated liquids.
-10. Warm vapors and smoke; and the air itself, which admits a most powerful and violent heat if confined, as in reverberating furnaces.[122]
+10. Warm vapors and smoke, and the air itself which admits a most powerful heat if confined, as in reverberating furnaces.
 11. Damp hot weather, arising from the constitution of the air, without any reference to the time of the year.
 12. Confined and subterraneous air in some caverns, particularly in winter.
 13. All shaggy substances, as wool, the skins of animals, and the plumage of birds, contain some heat.
