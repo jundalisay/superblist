@@ -5,12 +5,9 @@ title: "Grain Index"
 weight: 32
 # date: 2022-08-06
 image: "/photos/grains.jpg"
-description: ""
-author: Dalisay
+description: "The Grain Index is the table of ratios of goods and services to grains"
+author: Juan
 ---
 
 
-
-In order to prevent inflation, Superphysics pegs exchangeable value to grains. 
-
-More to come..
+The Grain Index is the table of ratios of goods and services to grains.

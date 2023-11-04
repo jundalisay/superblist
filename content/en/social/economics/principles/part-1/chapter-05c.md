@@ -4,7 +4,7 @@ linkTitle: Chapter 5c
 title: "Maximized Agriculture"
 date: 2023-01-15
 weight: 25
-image: /photos/grains.jpg
+image: /photos/econ/farmer.jpg
 description: "Maximized Agriculture is the agricultural system that implements Agricultural Supereconomics"
 contributors: ['Juan']
 ---

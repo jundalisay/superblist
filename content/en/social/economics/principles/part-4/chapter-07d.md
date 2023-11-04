@@ -14,7 +14,10 @@ contributors: ['Juan']
 
 The industrial revolution in Europe in the 19th century allowed mass production which then allowed huge profits for those who invested in it. 
 
-This prevalence of profits led to concept of profit maximization, taught in universities through the Marginal Revolution of the 1870's.  Previously, Classical Economics warned against the doctrine of profit maximization which was closely associated with destructive system of Mercantilism.
+This prevalence of profits led to concept of profit maximization, taught in universities through the Marginal Revolution of the 1870's. Previously, Classical Economics warned against the doctrine of profit maximization which was closely associated with destructive system of Mercantilism.
+
+{{< img src="/graphics/econ/eq.jpg" alt="Supply demand curves" >}}
+
 
 European colonization was largely fueled by the Mercantile idea of buying cheap commodities from the colonies to be sold at a high price in Europe. Too-big-to-fail mercantile corporations, such as the East India Company, were capitalized exactly for this purpose, to enslave the natives for the sake of those commodities.     
 

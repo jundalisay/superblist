@@ -55,8 +55,8 @@ Competition |  Either cut-throat competition or monopoly | Friendly competition 
 _ | ![Auction](https://socioecons.files.wordpress.com/2015/04/auction-bid.jpg) | ![Market](https://socioecons.files.wordpress.com/2015/04/flea-market.jpg)
 Supply | Big suppliers can cut supply to achieve shortage and high prices, or build demand for unnecessary products | Supply is generated depending on real needs
 Economic Power | Sellers have more economic power. Buyers have no choice of sellers but instead must compete with each other | Buyers have more economic power. Buyers can choose the seller they like
-Success Metric | The success of the producers is the measure of the economy's success, as Gross Domestic Product | The success of the people to buy <br>what they need and want is the measure of<br> the economy's success, as Purchasing Power
-Social View | Human creatures are customers and sellers of each other,<br> isolated by ego, connected by money | Human creatures are friends and family of each other, connected naturally by morals and virtue
+Success Metric | The success of the producers is the measure of the economy's success, as Gross Domestic Product | The success of the people to buy what they need and want is the measure of the economy's success, as Purchasing Power
+Social View | Human creatures are customers and sellers of each other, isolated by ego, connected by money | Human creatures are friends and family of each other, connected naturally by morals and virtue
 
 
 <!-- .<br> Suppliers also have an interest in building demand<br> for expensive but useless products such as the Apple Watch,<br> leading to over-exploitation of natural resources.<br> Small companies have difficulty in entering.</td>
@@ -68,24 +68,20 @@ Without a doubt, it was the spirit of monopoly which originally invented and pro
 {{< /q >}}
 
 
-![Family](/photos/social/fam.jpg)
-
-<!-- In the next post, we shall explain this spirit of monopoly that is in the Producer's motive, as espoused by Jean Baptiste Say -->
-
-{{< q a="Socrates" >}}
+{{< q a="Socrates" c="The Republic By Plato Simplified, Book 8" >}}
 The men of business stoop as they walk. They pretend not to see those whom they have already ruined. They insert their sting—their money—into someone else who is not on his guard against them. They recover the parent amount many times over multiplied into a family of children amounts. And so they make drone and pauper to abound in the State. The evil blazes up like a fire. They could extinguish it by restricting a man's use of his own property and letting everyone enter into voluntary contracts at his own risk. But the men of business will not do this as this will lessen this scandalous money-making.
-<cite>The Simple Republic By Plato, Book 8</cite>
 {{< /q >}}
 
 
 
 
 {{< me date="July 2020" >}}
-We can thus say that the Economics is best for animalistic humans or those who love to prey on others -- a player who wins big in the stock market does not care that his winnings directly come from the losses and suffering of the losing players. He feels that it's alright to prey on others because he himself is fair game for those players if he loses.
+We can say that the Economics is best for animalistic humans or those who love to prey on others -- a player who wins big in the stock market does not care that his winnings directly come from the losses and suffering of the losing players. He feels that it's alright to prey on others because he himself is fair game for those players if he loses.
 
-Superphysics, on the other hand, focuses on loans and real goods and services instead of equity and money (the favorite tools of the gambler).
+Supereconomics, on the other hand, focuses on loans and real goods and services instead of equity and money (the favorite tools of the gambler).
+{{< /me >}}
 
+<!-- 
 It would be extremely difficult to convince a gambler not to gamble, or a wolf not to be a wolf, especially if his society has moral systems that promote gambling or even wolf-like behavior. 
 
-In the Republic, Socrates explained how societies could easily fall into a "might is right" philosophy. He advocated a modular system of city-states that was to be led by incorruptible Guardians who deploy social contracts that can work even without money. In this way, the Guardians can check against predatory behavior while spurring economic activity.
-{{< /me >}}
+In the Republic, Socrates explained how societies could easily fall into a "might is right" philosophy. He advocated a modular system of city-states that was to be led by incorruptible Guardians who deploy social contracts that can work even without money. In this way, the Guardians can check against predatory behavior while spurring economic activity. -->

@@ -2,7 +2,6 @@
 heading: "Chapter 1"
 linkTitle: Chapter 1
 title: "The First Law of Value: Nominal Price"
-linkTitle: 1st Law
 weight: 8
 # date: 2022-08-30
 # date: 2022-03-27

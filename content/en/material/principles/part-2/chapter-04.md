@@ -1,19 +1,18 @@
 ---
 heading: "Chapter 3"
-title: "Spatial Bands -- Gravity"
+title: "Spatial Relativity and Gravitational Relativity"
 # date: 2020-01-31
 date: 2021-12-30
 weight: 12
 image: /graphics/gravrelm.png
-description: "The Source of All Movement is Internal, Not External"
-linkTitle: "Gravitational Relativity"
+description: "This post will explain Spatial Relativity and Gravitational Relativity that deals with the movement of quanta of spacetime (qosts) as galaxies and planets and their subtypes."
 icon: /icons/spmat.png
 ---
 
 
 The previous post, explained aethereal relativity which deals with the movement of quanta of aether (qoas) as ideas, feelings, minds, and societies. 
 
-This post will explain gravitational relativity that deals with the movement of quanta of spacetime (qosts) as galaxies and planets and their subtypes. 
+This post will explain spatial relativity that deals with the movement of quanta of spacetime (qosts) as galaxies and planets and their subtypes.
 
 <!-- Under universal relativity are the five specific relativities:
 
@@ -42,7 +41,8 @@ Metaphysically, his mind imagined the universe from the perspective of light whi
 
 Newton described motion coming from an external force as a single movement. Einstein revised this by making it relative to frames of reference, as well as dividing it into smaller parts as tensors (as measuring rod S).  
 
-![Movement according to Einstein](/graphics/movement.png)
+{{< img src="/graphics/movement.png" alt="Movement according to Einstein" cap="Superphysics uses internal movement to change location in spacetime" >}}
+
 
 But where do all the external forces come from? 
 
@@ -60,15 +60,19 @@ all separated by the simultaniety of time which he pegs to the speed of light wh
 
 The end result is a singularity that defies physics and which no one can explain. It's like hiding dust under the rug, hoping that no one will notice or ask about. -->
 
-Instead, all movement is sourced internally, from the state-change of the object through its [gravitational signature](/material/general-relativity). For example, a man moves from the bed to the kitchen because his internal state changed. His mind switched from a sleep-signature to an eating-signature.  
+Instead, all movement is sourced internally, from the state-change of the object through its [gravitational signature](/material/principles/intro/chapter-02). For example, a man moves from the bed to the kitchen because his internal state changed. His mind switched from a `wanting-to-sleep-signature` to a `wanting-to-eat-signature`.  
 
-A more technical example is how an app changes from one screen to another, such as a red screen changing into a blue one. This done by changing its color-state-variable from <code style="color: red">red</code> into <code style="color: blue">blue</code>. It gives an illusion of moving from a red screen onto a blue one when in fact the same screen is just redrawn to reflect the change in state. 
+A more technical example is how an app changes from one screen to another, such as a red screen changing into a blue one. This done by changing its `color-state-variable` from <code style="color: red">red</code> into <code style="color: blue">blue</code>. It gives an illusion of moving from a red screen onto a blue one when in fact the same screen is just redrawn to reflect the change in state. 
 
 **This means that the universe re-drew itself while the man was traveling from the bed to the kitchen.** This then matches the probabilistic nature of particle spin. 
 
-This paradigm then leads to new technologies for teleportation (instant state-change) and levitation (gradual state-change). It renders quantum fields and some of Einstein's tensors useless, just as Copernicus and Kepler rendered the spheres of Ptolemy useless.
+This paradigm then leads to new technologies as:
+- teleportation (instant state-change) and
+- levitation (gradual state-change). 
 
-More importantly, it discards the sophistical ideas of wormholes, singularities, and dark matter (in its current definition) to be replaced with a more accurate depiction of the universe.
+It renders quantum fields and some of Einstein's tensors useless, just as Copernicus and Kepler rendered the spheres of Ptolemy useless.
+
+More importantly, it discards the sophistical ideas of wormholes, singularities, and dark matter (in its current definition) to be replaced with vortices of the 5 Elements or Layers.
 
 <!-- Sophistry. Quantum physics is at a dead end because it imposes a sophistry called the fabric of spacetime that controls gravity and limits the speed of light. In 
 
@@ -81,13 +85,13 @@ A bucket of water has a moving center of gravity just as a flock of birds have a
 A leaf is blown externally by the wind. But in reality, the wind blows from its own nature which reacts in a certain way to heat. The leaf then has its own nature that agrees to being blown by the wind, as opposed to a tree trunk that comes form the same seed but has different natures relative to the wind.  -->
 
 
-## How does General Relativity lead to absurd wormholes?
-
-<!-- Einstein's logic naturally leads him to the idea of wormholes and arbtirary spacetimes (create your own universe). He starts  -->
+## How does General Relativity lead to Absurd Wormholes?
 
 In his book Relativity, Einstein proposes a strange way to find the space between an observer on Trafalgar square and a cloud above it. He takes a pole, connects it to both the cloud and Trafalgar square PERPENDICULARLY. This then, he claims, would remove the need to have a rigid Trafalgar square as basis. 
 
-![Einstein's Trafalgar Square](/graphics/traf.png)
+
+{{< img src="/graphics/traf.png" alt="Einstein's Trafalgar Square" cap="Einstein uses a perpedicular line to complete a Pythagorean triangle, leading to curves in spacetime" >}}
+
 
 Few people seemed to notice that this method is totally arbitrary. It creates a kind of space (and time) that can bend or be perpendicular to anything the imagination thinks of. 
 
@@ -101,11 +105,12 @@ No one seemed to ask how would Einstein's system work in total darkness. How wou
 ### A different way: Experiential
 
 The proper and natural way to judge the space of a cloud on Trafalgar square is to know the nature of both the cloud and Trafalgar square. In this way, the proper location is determined by the relative differences of those two natures. 
-A blind observer can know the cloud by the thunder it creates and how it compares to other sounds from Trafalgar square which he learns by experience. 
-
-![The Superphysics way of observing](/graphics/clouds.png)
+A blind observer can know the cloud by the thunder it creates and how it compares to other sounds from Trafalgar square which he learns by experience.
 
 Assuming Trafalgar square has four squares A1, A2, B1, and B2. The person has existed in all squares and has heard thunder above each one, as well as above all the other squares. This leads to 16 total experiences. 
+
+{{< img src="/graphics/clouds.png" alt="The Superphysics way of observing" cap="The Superphysics way of observing" >}}
+
 
 In this way, the person in A1 who hears a thunder in B2 will know its location by extracting the relation of the cloud and the area from his memory. This relation is aethereal relativity, which becomes gravitational relativity when applied to the spatial layer. 
 
@@ -125,10 +130,14 @@ Notice how this system is similar to quantum mechanics which assigns a probabili
 
 <!-- As an alternative to general relativity, we present a draft of "gravitational relativity" derived from Kepler, as a subset of a unifying "universal relativity" from his concept of harmonic ratios.  -->
 
-We replace the Einstein tensor with a Kepler tensor and replace equality with a ratio sign. Former constants, such as the Newtonian G, c, and lambda are put under "s" which represents the spatial layer. The stress-energy tensor is then a new G which usually represents mass. 
+We replace the Einstein tensor with a Kepler tensor and replace equality with a ratio sign. Former constants, such as the Newtonian `G`, `c`, and `lambda` are put under `s` which represents the spatial layer. 
+
+The stress-energy tensor is then a new `G` which usually represents mass. 
 
 
-/graphics/urel.png
+{{< img src="/graphics/physics/urel.png" alt="" cap="" >}}
+
+
 
 
 We then apply his for Mercury's precession:
@@ -148,4 +157,4 @@ This shows that Leverrier's solution is valid if Vulcan existed, just as Einstei
 
 <!-- and Einstein's solution is valid if the quality of the core of Mercury is ascertained. The precession of Mercury using spatial relativity is due to its core being 75% of its mass. This gives it the dynamics of a comet more than a planet.  -->
 
-In the next post, we extend gravitational relativity into material relativity to add relativity to Newton's laws while being in line with Nature and observation. However, it needs an explanation of the Cartesian View first. 
+<!-- In the next post, we extend gravitational relativity into material relativity to add relativity to Newton's laws while being in line with Nature and observation. However, it needs an explanation of the Cartesian View first.  -->

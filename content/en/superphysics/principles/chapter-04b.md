@@ -171,7 +171,10 @@ To account for this mind-splitting behavior, <!--  make ratios and relativity pe
 {{< img src="/graphics/physics/math.jpg" alt="Mathematics" >}}
 
 
-We can think of the double colon as a rigid equals sign, while the single colon as a flexible ratio. This ratio represents our theory of  "universal relativity*" which is represented in reality by [gravitational relativity](/material/principles/intro/chapter-04), among others.
+- The double colon is like a rigid equals sign
+- The single colon is like a flexible ratio
+
+This ratio represents our theory of "universal relativity*" which is represented in reality by [gravitational relativity](/material/principles/part-2/chapter-04), among others.
 
 
 > *All philosophers say that everything is connected, even the sophistical pseudo-philosopher John Stuart Mill. The ratio sign signifies this connection. In this way, we can say that the universe is an unending chain of multiple layered ratios, as a matrix, where a change in one part causes a change in the whole universe as a chain-effect. The lower dimensions like ours has more rigid ratios that lead to discrete and 'hardened' identities, while higher dimensions have more flexible ratios that lead to more malleable ones.

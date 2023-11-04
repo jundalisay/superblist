@@ -1,5 +1,5 @@
 ---
-title: "Land Reform Principles of Adam Smith"
+title: "Land Reform Principles"
 heading: Chapter 9b
 weight: 36
 # date: 2022-08-02
@@ -39,3 +39,9 @@ To Smith, the land should be broken up in order to:
 - increased productivity and cost-efficiency by letting the owners micro-manage their land better 
 
 The problem is that, nowadays, land is distributed to anyone regardless of their ability to farm or to make the land productive. This is especially common in socialist countries such as Venezuela wherein its leader, Hugo Chavez, gave land to poor people who didn't know how to farm or maintain irrigation equipment. This policy backfired and led to decreased agricultural production, which then led to hyperinflation.  
+
+
+## Usufruct Land Titles
+
+To solve this we introduce Usufruct Land Titles which are the same as freehold systems. 
+

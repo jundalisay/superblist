@@ -16,8 +16,6 @@ icon: "/icons/spmat.png"
 
 While collating the works of Socrates in order to unify them with those of David Hume to harmonize Superphysics, I came upon his maxims on astrophysics: 
 
-<!-- that referred to the proper way to judge the movement of heavenly bodies: -->
-
 {{< q a="Socrates" c="Simple Republic by Plato, Chapter 7" >}}
 The spangled heavens should be used as a pattern and with a view to that higher knowledge. Any geometrician who saw them would never think that there is a true equal, true double, or true proportion in the spangled heavens. Likewise, a true astronomer..will never imagine that the proportions of night and day, the stars to one another are eternal and subject to no deviation. <!-- It is equally absurd to take so much pains in investigating their exact truth. -->
 {{< /q >}}

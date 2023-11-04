@@ -4,15 +4,16 @@ linkTitle: Chapter 2
 title: "Stores of Value"
 weight: 12
 # date: 2022-08-25
-image: /covers/econsp.jpg
-description: ""
+image: /photos/objects/apples.jpg
+description: "value which is the objectification done by the mind for the sake of processing that idea of value. We divide this store as commodity-based and non commodity-based"
 contributors: ['Juan']
+draft: true
 ---
 
 
 The First Law of Value states that everything has value. 
 
-Here we explain the store of that value which is the objectification done by the mind for the sake of processing that idea of value. We divide this store as commodity-based and non commodity-based 
+Here we explain the store of that value which is the objectification done by the mind for the sake of processing that idea of value. We divide this store as commodity-based and non commodity-based. 
 
 
 ## Non-Commodities 

@@ -18,7 +18,7 @@ As such, we divide this book into four parts, with each part representing a law 
 
 Theme 				| Law 1 						| Law 2 				| Law 3 				| Law 4
 ---- 				| --- 							| --- 					| ---					 | --- 
-1 Name 				 | Nominal 						| Real (Effort Theory) 	| Market 				| Natural 
+1 Name 				 | Nominal (Needs) 		| Real (Effort Theory + Dharma) 	| Market (Exchange)  | Natural (Regulations) 
 2 Energy Manifestation | Commodities and Stores of Value | Fixed Capital 		| Circulating Capital 	| Taxes
 3 Energy Origin 		 | Consumption Motive 			| Force of Capital 		| Tools of Trade 		| GDP and Purchasing Power
 4 Energy Movement      | Absolute Demand Effective Demand | Primary Arbitrage | Secondary Arbitrage 	| Types of Effort

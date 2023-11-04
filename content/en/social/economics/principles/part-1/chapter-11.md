@@ -1,11 +1,16 @@
 ---
 heading: "Chapter 11"
-heading: Chapter 11
-title: "Socialism"
+title: "Socialism and Democracy"
 # date: 2022-07-30
 weight: 42
 image: /photos/team.jpg
-description: ""
-author: Dalisay
+description: "The dominance of the Worker Class usually leads to the Socialist system of economy and the Democratic system of politics"
+author: Juan
 draft: true
 ---
+
+
+The dominance of the Worker Class usually leads to the Socialist system of economy and the Democratic system of politics.    
+
+This happened most notable in Ancient Greece. 
+

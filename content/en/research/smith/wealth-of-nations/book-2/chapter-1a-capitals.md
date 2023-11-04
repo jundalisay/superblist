@@ -34,7 +34,7 @@ His whole stock is made up of 2 parts:
 The stock for immediate consumption can be one or a mix of these three.
 
 
-{{< s v="3" >}} Capital may yield a revenue or profit to its employer in two ways= 
+{{< s v="3" >}} Capital may yield a revenue or profit to its employer in 2 ways:
 
 > 1. {{< s v="4" >}} As Circulating Capital
 

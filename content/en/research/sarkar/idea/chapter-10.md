@@ -90,25 +90,25 @@ Individualistic or laissez-faire sense develops into capitalism when the means o
 
 At this stage, the instinct of acquisition has developed tremendously. 
 
-The thirst for acquisition instigated them to develop the psychology of complete exploitation of the human race. This resulted in a class by itself. 
+The thirst for acquisition instigated them to develop the psychology of complete exploitation of the human race. This resulted in a class by itself.
 
-In the race for greed and acquisition not all could survive. Only a few remained to dominate the society in general and the economic set-up in particular by their capital. 
+In the race for greed and acquisition, not all could survive. Only a few remained to dominate the society in general and the economic set-up in particular by their capital. 
 
-The great majority were either duped into believing that they would be allowed to share such resources, or were neglected and left uncared-for for want of strength and did not survive the race. 
+The great majority were either duped into believing that they would be allowed to share such resources, or were neglected and left uncared-for due to the lack of strength. And so they did not survive the race. 
 
-Such people in society ultimately occupy the place of exploited slaves of the capitalists. 
-
-They are slaves because they have no option other than to serve the capitalists as labourers to earn the means of subsistence.
+Such people in society ultimately become the exploited slaves of the capitalists. 
+- They are slaves because they have no option other than to serve the capitalists as labourers to earn the means of subsistence.
 
 <!-- We may recall the definition of shúdras as persons who live by manual work or labour hard for their livelihood.  -->
 
-This age of capitalism is when the majority of society turns into such shúdras. 
+The psychology of society is essentially dynamic.
+- The mind itself exists as a result of constant clash. 
 
-This develops into dejection and dissatisfaction on a large scale because of an internal clash in the mind, because the psychology of society is essentially dynamic in nature and the mind itself exists as a result of constant clash. 
+This age of capitalism is when the majority of society turns into such shudras. This leads to dejection and dissatisfaction on a large scale because of an internal clash in the mind.
 
 These conditions are necessary and sufficient for labourers, whether manual or mental, to organize and stand up against the unnatural impositions in life. This may be termed “shúdra revolution”. 
 
-The leaders of this revolution, also, are people physically and mentally better-equipped and more capable essentially of overthrowing the capitalistic structure by force. 
+The leaders of this revolution are physically and mentally better-equipped and more capable of overthrowing the capitalistic structure by force.
 
 In other words, they are also kśatriyas. So, after a period of chaos and catastrophe, once more the same cycle – Shúdra Age to Kśatriya to Vipra, and so on – recommences.(1)
 

@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 5b"
-linkTitle: Chapter 5b
+heading: "Chapter 6b"
+linkTitle: Chapter 6b
 title: "The Proper Energy Policy"
 # date: 2022-08-15
-weight: 24
+weight: 29
 # date: 2022-08-09
 image: /photos/physics/light.jpg
 description : "The proper energy policy is to let the government handle energy."
@@ -12,10 +12,24 @@ icon: /icons/pantry.png
 ---
 
 
-The recent high energy prices in Europe has exposed the flaws of the market-model of energy which was adopted from the 1990s*. 
+True economic development needs a proper energy policy to make it sustainable.
+
+At the moment, the energy policies of most countries follow the Capitalist market model from the 1990s* which enshrines shareholder reutrns. 
+
+<!-- The recent high energy prices in Europe has exposed the flaws of the market-model of energy which was adopted .  -->
 
 
-> *The market model, in turn, was caused by Reaganomics shifting policy into corporate stocks in order to solve the 1970's stagflation. This shift manifested as the mergers and acquisitions of the 1990s, and consequentially, the push for privatization to make those mergers viable as an effect of the "force of capital". This is because to make those mergers pay off, those corporations pay lobbyists to penetrate profitable ventures such as utilities, healthcare, and insurance.  This in turn explains the wave of privatizations from the late 1990s and 2000's. After all those profitable ventures are occupied, the force of capital resumes to feed off of oil, making oil prices rise. This is how our model correctly predicted the current stagflation many years ahead of time.
+{{< box >}}
+## *The Flaw of the Market Model
+
+The market model was caused by 'Reaganomics' of the 1980s shifting policy into corporate stocks in order to solve the 1970's stagflation. 
+
+This shift manifested as the mergers and acquisitions of the 1990s, and consequently, the push for privatization to make those mergers viable as an effect of the "force of capital", explained in Part 2. 
+
+This is because to make those mergers pay off, those corporations pay lobbyists to penetrate profitable ventures in utilities, healthcare, and insurance. This led to the wave of privatizations from the late 1990s and 2000's. 
+
+After all those profitable ventures are occupied, the force of capital resumes to feed off of oil, making oil prices rise. This is how our model correctly predicted the current stagflation many years ahead of time.
+{{< /box >}}
 
 <!-- Utilities are a guaranteed revenue stream. This then justifies the pooling of huge capital, and so lobbyists pushed for the privatization of utilities the most.  
  -->
@@ -166,11 +180,13 @@ This is where our Supereconomics switches hats into Material Superphysics to exp
 {{< /box >}}
 
 
-## Overhaul EPIRA
+## How to Get Rid of Privatization
 
 These principles can be applied to any country to fix their energy crisis. For the Philppine context, we suggest the following overhauls to EPIRA:
 
-1. **Mandate that 51% of NGCP shares must be sold back to NAPOCOR through gradual purchase.**  Inspect all Chinese equipment to ensure that the grid cannot be controlled from overseas
+1. **Mandate that 51% of NGCP shares (private corporation) must be sold back to NAPOCOR (state corporation) through gradual purchase.**  
+
+Inspect all Chinese equipment to ensure that the grid cannot be controlled from overseas
 
 2. **Allow NAPOCOR to go back into energy production and distribution, focusing on sustainable base load**:
   - biomass
@@ -178,18 +194,19 @@ These principles can be applied to any country to fix their energy crisis. For t
   - geothermal
   - nuclear 
 
-A corollary reform is to allow majority ownership of SPU*s by foreign entities, under the joint regulation of the local government and ERC (and NCIP**). This requires a constitutional change. 
-
-> *Small Power Utilities
-
-> **National Commission on Indigenous Peoples
-
-3. **Abolish WESM and revert to hybrid Feed-in-Tariffs and bidding** as done in other countries. The WESM* infrastructure can be used by the ERC to predict future shocks and bid electricity 6 months ahead of time. This transfers the burden from WESM onto the ERC
-
-> *Wholesale Electricity Spot Market -- a junk idea borrowed from the California energy market which caused the Enron scandal
+A corollary reform is to allow majority ownership of Small Power Utilities (SPUs) by foreign entities, under the joint regulation of the local government and Energy Regulatory Commission (ERC) and the National Commission on Indigenous Peoples(NCIP). This requires a constitutional change. 
 
 
-4. **Transfer the burden of SPUGs to the local governments**, with NAPOCOR, ERC, and DENR as oversight. This reduces the burden of the "universal charge" and is in preparation for a future federal form of governance. This reduces the need for DTI and DOF because barter will be added to help maintain the system especially in tribal areas which are not used to banking. In such areas, NCIP oversight is more important
+3. **Abolish the Wholesale Electricity Spot Market (WESM) and revert to hybrid Feed-in-Tariffs and bidding** as done in other countries. 
+
+The WESM* infrastructure can be used by the ERC to predict future shocks and bid electricity 6 months ahead of time. This transfers the burden from WESM onto the ERC
+
+> *This is a junk idea borrowed from the California energy market which caused the Enron scandal
+
+
+4. **Transfer the burden of SPUGs to the local governments**, with NAPOCOR, ERC, and the Department of Environment and Natural Resources (DENR) as oversight. 
+
+This reduces the burden of the "universal charge" and is in preparation for a future federal form of governance. This reduces the need for DTI and DOF because barter will be added to help maintain the system especially in tribal areas which are not used to banking. In such areas, NCIP oversight is more important
 
 Policy change 1 and 2 puts back the control of distribution and generation to NAPOCOR. 
 
