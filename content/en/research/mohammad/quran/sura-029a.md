@@ -66,190 +66,139 @@ be restored.
 
 22. You cannot escape, on earth or in the heaven; and you have no protector and no
 savior besides Allah.
-23. Those who disbelieved in Allah’s signs and
-His encounter—these have despaired of My
-mercy. For them is a painful torment.
-24. But the only response from his people was
-their saying, “Kill him, or burn him.” But Al-
+
+23. Those who disbelieved in Allah’s signs and His encounter—these have despaired of My mercy. For them is a painful torment.
+
+24. But the only response from his people was their saying, “Kill him, or burn him.” But Al-
 lah saved him from the fire. Surely in that are
 signs for people who believe.
-25. And he said, “You have chosen idols in-
-stead of Allah, out of affection for one an-
-other in the worldly life. But then, on the Day
-of Resurrection, you will disown one another,
-and curse one another. Your destiny is Hell,
-and you will have no saviors.”
-26. Then Lot believed in him, and said, “I am
-emigrating to my Lord. He is the Noble, the
-Wise.”
-27. And We granted him Isaac and Jacob, and
-conferred on his descendants the
-Prophethood and the Book, and gave him his
-reward in this life; and in the Hereafter he will
-be among the upright.
-28. And Lot, when he said to his people, “You
-are committing an obscenity not perpetrated
-before you by anyone in the whole world.
-29. You approach men, and cut off the way,
-and commit lewdness in your gatherings.”
-But the only response from his people was to
-say, “Bring upon us Allah’s punishment, if
-you are truthful.”
-30. He said, “My Lord, help me against the
-people of corruption.”
-31. And when Our envoys brought Abraham
-the good news, they said, “We are going to
-destroy the people of this town; its people are
-wrongdoers.”
-32. He said, “Yet Lot is in it.” They said, “We
-are well aware of who is in it. We will save
-him, and his family, except for his wife, who
-will remain behind.”
-33. Then, when Our envoys came to Lot, they
-were mistreated, and he was troubled and
-distressed on their account. They said, “Do
-not fear, nor grieve. We will save you and
-your family, except for your wife, who will re-
-main behind.”
-34. “We will bring down upon the people of
-this town a scourge from heaven, because of
+
+25. And he said, “You have chosen idols instead of Allah, out of affection for one an-
+other in the worldly life. But then, on the Day of Resurrection, you will disown one another,
+and curse one another. Your destiny is Hell, and you will have no saviors.”
+26. Then Lot believed in him, and said, “I am emigrating to my Lord. He is the Noble, the Wise.”
+
+27. We granted him Isaac and Jacob, and conferred on his descendants the Prophethood and the Book, and gave him his reward in this life; and in the Hereafter he will be among the upright.
+
+28.  Lot, when he said to his people, “You are committing an obscenity not perpetrated
+before you by anyone in the whole world. 
+
+29. You approach men, and cut off the way, and commit lewdness in your gatherings.”
+
+But the only response from his people was to say, “Bring upon us Allah’s punishment, if you are truthful.”
+
+30. He said, “My Lord, help me against the people of corruption.”
+
+31. And when Our envoys brought Abraham the good news, they said, “We are going to
+destroy the people of this town; its people are wrongdoers.”
+
+32. He said, “Yet Lot is in it.” They said, “We are well aware of who is in it. We will save
+him, and his family, except for his wife, who will remain behind.”
+
+33. Then, when Our envoys came to Lot, they were mistreated, and he was troubled and
+distressed on their account. They said, “Do not fear, nor grieve. We will save you and
+your family, except for your wife, who will remain behind.”
+
+34. “We will bring down upon the people of this town a scourge from heaven, because of
 their wickedness.”
-35. And We left behind a clear trace of it, for
-people who understand.
-36. And to Median, their brother Shuaib. He
-said, “O my people, worship Allah and antic-
-ipate the Last Day, and do not spread corrup-
-tion in the land.”
-37. But they rejected him, so the tremor over-
-took them, and they were left motionless in
-their homes.
-38. And Aad and Thamood. It has become
-clear to you from their dwellings. Satan em-
-bellished for them their deeds, barring them
-from the path, even though they could see.
 
+35. And We left behind a clear trace of it, for people who understand.
 
-And Quaroon, and Pharaoh, and Ha-
-maan—Moses went to them with clear argu-
+36. And to Median, their brother Shuaib. He said, “O my people, worship Allah and anticipate the Last Day, and do not spread corruption in the land.”
+
+37. But they rejected him, so the tremor overtook them, and they were left motionless in
+their homes. 
+
+38. And Aad and Thamood. It has become clear to you from their dwellings. Satan em-
+bellished for them their deeds, barring them from the path, even though they could see.
+
+And Quaroon, and Pharaoh, and Hamaan—Moses went to them with clear argu-
 ments, but they acted arrogantly in the land.
-And they could not get ahead.
 
-40. Each We seized by his sin. Against some
-We sent a sandstorm. Some were struck by
-the Blast. Some We caused the ground to cave
-in beneath them. And some We drowned. It
-was not Allah who wronged them, but it was
-they who wronged their own selves.
+They could not get ahead.
 
-41. The likeness of those who take to them-
-selves protectors other than Allah is that of
-the spider. It builds a house. But the most
-fragile of houses is the spider’s house. If they
+40. Each We seized by his sin. Against some We sent a sandstorm. Some were struck by
+the Blast. Some We caused the ground to cave in beneath them. And some We drowned. It
+was not Allah who wronged them, but it was they who wronged their own selves.
+
+41. The likeness of those who take to themselves protectors other than Allah is that of
+the spider. It builds a house. But the most fragile of houses is the spider’s house. If they
 only knew.
-42. Allah knows what they invoke besides
-Him. He is the Almighty, the Wise.
-43. These examples—We put them forward to
-the people; but none grasps them except the
-learned.
-44. Allah created the heavens and the earth
-with truth. Surely in that is a sign for the be-
-lievers.
-45. Recite what is revealed to you of the Scrip-
-ture, and perform the prayer. The prayer pre-
-vents indecencies and evils. And the remem-
-brance of Allah is greater. And Allah knows
-what you do.
-46. And do not argue with the People of the
-Scripture except in the best manner possible,
-except those who do wrong among them.
-And say, “We believe in what was revealed to
-us, and in what was revealed to you; and our
-God and your God is One; and to Him we are
-submissive.”
+
+42. Allah knows what they invoke besides Him. He is the Almighty, the Wise.
+
+43. These examples—We put them forward to the people; but none grasps them except the learned.
+
+44. Allah created the heavens and the earth with truth. Surely in that is a sign for the believers.
+
+45. Recite what is revealed to you of the Scripture, and perform the prayer. The prayer prevents indecencies and evils. And the remembrance of Allah is greater. And Allah knows what you do.
+
+46. And do not argue with the People of the Scripture except in the best manner possible, except those who do wrong among them. 
+
+And say, “We believe in what was revealed to us, and in what was revealed to you; and our
+God and your God is One; and to Him we are submissive.
+
 47. Likewise, We revealed to you the Scripture.
-Those to whom We gave the Scripture believe
-in it, and some of these believe in it. None re-
-nounce Our communications except the dis-
-believers.
-48. You did not read any scripture before this,
-nor did you write it down with your right
-hand; otherwise the falsifiers would have
-doubted.
-39.
-49. In fact, it is clear signs in the hearts of those
-given knowledge. No one renounce Our signs
-except the unjust.
-50. And they said, “If only a miracle from his
-Lord was sent down to him.” Say, “Miracles
-are only with Allah, and I am only a clear
-warner.”
-51. Does it not suffice them that We revealed
-to you the Scripture, which is recited to them?
-In that is mercy and a reminder for people
-who believe.
-52. Say, “Allah suffices as witness between you
-and me. He knows everything in the heavens
-and the Earth. Those who believe in vanity
-and reject Allah—it is they who are the los-
-ers.”
-53. And they urge you to hasten the punish-
-ment. Were it not for a specified time, the
-punishment would have come to them. But it
-will come upon them suddenly, while they
-are unaware.
+
+Those to whom We gave the Scripture believe in it, and some of these believe in it. None re-
+nounce Our communications except the disbelievers.
+
+48. You did not read any scripture before this, nor did you write it down with your right
+hand; otherwise the falsifiers would have doubted.
+
+49. In fact, it is clear signs in the hearts of those given knowledge. No one renounce Our signs
+except the unjust. 
+
+50. And they said, “If only a miracle from his Lord was sent down to him.” Say, “Miracles
+are only with Allah, and I am only a clear warner.”
+
+51. Does it not suffice them that We revealed to you the Scripture, which is recited to them?
+In that is mercy and a reminder for people who believe.
+
+52. Say, “Allah suffices as witness between you and me. He knows everything in the heavens and the Earth. Those who believe in vanity and reject Allah—it is they who are the losers.”
+
+53. And they urge you to hasten the punishment. Were it not for a specified time, the punishment would have come to them. But it will come upon them suddenly, while they are unaware. 
+
 54. They urge you to hasten the punishment.
+
 But Hell will engulf the disbelievers.
-55. On the Day when the punishment will en-
-velop them, from above them, and from be-
-neath their feet, He will say, “Taste what you
-used to do!”
-56. O My servants who have believed: My
-earth is vast, so worship Me alone.
-57. Every soul will taste death. Then to Us you
-will be returned.
-58. Those who believe and work righteous-
-ness—We will settle them in Paradise, in
-mansions under which rivers flow, dwelling
-therein forever. Excellent is the compensa-
-tion for the workers.
-59. Those who endure patiently, and in their
-Lord they trust.
-60. How many a creature there is that does not
-carry its provision? Allah provides for them,
-and for you. He is the Hearer, the Knowl-
-edgeable.
-61. And if you asked them, “Who created the
-heavens and the earth and regulated the sun and the moon?” They would say, “Allah.”
+
+55. On the Day when the punishment will envelop them, from above them, and from be-
+neath their feet, He will say, “Taste what you used to do!”
+
+56. O My servants who have believed: My earth is vast, so worship Me alone.
+
+57. Every soul will taste death. Then to Us you will be returned.
+
+58. Those who believe and work righteousness—We will settle them in Paradise, in mansions under which rivers flow, dwelling
+therein forever. Excellent is the compensation for the workers.
+
+59. Those who endure patiently, and in their Lord they trust.
+
+60. How many a creature there is that does not carry its provision? Allah provides for them,
+and for you. He is the Hearer, the Knowledgeable.
+
+61. If you asked them, “Who created the heavens and the earth and regulated the sun and the moon?” They would say, “Allah.”
+
 Why then do they deviate?
 
-<!-- 62. Allah expands the provision for whomever He wills of His servants, and restricts it. Allah is Cognizant of all things. -->
-63. And if you asked them, “Who sends water down from the sky, with which He revives the
-earth after it had died?” They would say, “Allah.” Say, “Praise be to Allah.” But most of
-them do not understand.
+62. Allah expands the provision for whomever He wills of His servants, and restricts it.
 
-64. The life of this world is nothing but diver-
-sion and play, and the Home of the Hereafter
-is the Life, if they only knew.
+63. And if you asked them, “Who sends water down from the sky, with which He revives the earth after it had died?” They would say, “Allah.” Say, “Praise be to Allah.” But most of them do not understand.
 
-65. When they embark on a vessel, they pray
-to Allah, devoting their faith to Him; but
-once He has delivered them safely to land,
-they attribute partners to Him.
+64. The life of this world is nothing but diversion and play, and the Home of the Hereafter is the Life, if they only knew. 
 
-66. To be ungrateful for what We have given
-them, and to enjoy themselves. They will
-surely come to know.
-67. Do they not see that We established a Se-
-cure Sanctuary, while all around them the
-people are being carried away? Do they be-
-lieve in falsehood, and reject the blessings of
-Allah?
-68. And who does greater wrong than he who
-fabricates lies and attributes them to Allah, or
+65. When they embark on a vessel, they pray to Allah, devoting their faith to Him; but
+once He has delivered them safely to land, they attribute partners to Him.
+
+66. To be ungrateful for what We have given them, and to enjoy themselves. They will
+surely come to know. 
+
+67. Do they not see that We established a Secure Sanctuary, while all around them the people are being carried away? Do they believe in falsehood, and reject the blessings of Allah?
+
+68. And who does greater wrong than he who fabricates lies and attributes them to Allah, or
 calls the truth a lie when it has come to him?
-Is there not in Hell a dwelling for the blas-
-phemers?
-69. As for those who strive for Us—We will
-guide them in Our ways.
 
+Is there not in Hell a dwelling for the blasphemers?
 
+69. As for those who strive for Us—We will guide them in Our ways.

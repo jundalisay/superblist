@@ -168,7 +168,7 @@ But I'm a racist, materialist boomer. I don't like anything Asian and abstract l
 
 I want profits and wealth for myself. I drink my delicious expensive coffee conveniently with plastic straws, and don't care about the sea animals that will die from ingesting them. Sucks to be them.  
 
-The universe was created for us humans, and not us humans created to serve the universe.  After death, there is nothing. So I say maximize pleasure while alive and don't care about the consequences, even on others! 
+The universe was created for us humans, and not us humans created to serve the universe.  After death, there is nothing. There is no evidence of God, the afterlife, reincarnation, or karma. So I say maximize pleasure while alive and don't care about the consequences, even on others!
 
 So what if there's global warming? In the long-run, we're all dead! At least I've experienced a 5-star lifestyle. Heaven can be on earth, bought by :musical_notes: money money money in a rich man's world :musical_notes:. 
 {{< /r >}}

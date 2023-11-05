@@ -10,9 +10,12 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 <!-- 1. Alif, Lam, Meem. -->
 {{< s v="2" >}}  The Romans have been defeated.
+
 {{< s v="3" >}}  In a nearby territory. But following their defeat, they will be victorious.
+
 {{< s v="4" >}}  In a few years. The matter is up to Allah, in the past, and in the future. On that day, the
 believers will rejoice.
+
 {{< s v="5" >}}  In Allah’s support. He supports whomever He wills. He is the Almighty, the Merciful.
 
 6. The promise of Allah—Allah never breaks His promise, but most people do not know.
@@ -21,27 +24,22 @@ believers will rejoice.
 8. Do they not reflect within themselves? Allah did not create the heavens and the earth,
 and what is between them, except with reason, and for a specific duration. But most
 people, regarding meeting their Lord, are disbelievers.
-{{< s v="9" >}}  Have they not travelled the earth and seen how those before them ended up? They were
-more powerful than them, and they cultivated the land and developed it more than
-they developed it, and their messengers came to them with clear signs. Allah would never
-wrong them, but they used to wrong themselves.
-{{< s v="10" >}}  Then, evil was the end of those who committed evil. That is because they rejected Al-
-lah’s revelations, and used to ridicule them.
+
+{{< s v="9" >}}  Have they not travelled the earth and seen how those before them ended up? They were more powerful than them, and they cultivated the land and developed it more than they developed it, and their messengers came to them with clear signs. Allah would never wrong them, but they used to wrong themselves.
+
+{{< s v="10" >}}  Then, evil was the end of those who committed evil. That is because they rejected Allah’s revelations, and used to ridicule them.
+
 {{< s v="11" >}}  Allah originates creation, and then repeats it. Then to Him you will be returned.
+
 12. On the Day when the Hour takes place, the guilty will despair.
-13. They will have no intercessors from among
-their idols, and they will disown their part-
-ners.
-14. On the Day when the Hour takes place—
-on that Day they will separate.
-15. As for those who believed and did good
-deeds—they will be delighted in meadows.
-{{< s v="16" >}}But as for those who disbelieved, and re-
-jected Our signs and the encounter of the
-Hereafter—those will be hauled into the tor-
-ment.
-17. So glorify Allah when you retire at night,
-and when you rise in the morning.
+
+13. They will have no intercessors from among their idols, and they will disown their partners.
+
+14. On the Day when the Hour takes place—on that Day they will separate.
+15. As for those who believed and did good deeds—they will be delighted in meadows.
+{{< s v="16" >}}But as for those who disbelieved, and rejected Our signs and the encounter of the Hereafter—those will be hauled into the torment.
+
+17. So glorify Allah when you retire at night, and when you rise in the morning.
 
 
 His is the praise in the heavens and on earth, and in the evening, and when you reach midday.
@@ -53,43 +51,34 @@ will be resurrected.
 20. And of His signs is that He created you
 from dust; and behold, you become humans
 spreading out.
-21. And of His signs is that He created for you
-mates from among yourselves, so that you
-may find tranquility in them; and He planted
-love and compassion between you. In this are
+
+21. And of His signs is that He created for you mates from among yourselves, so that you
+may find tranquility in them; and He planted love and compassion between you. In this are
 signs for people who reflect.
-22. And of His signs is the creation of the heav-
-ens and the earth, and the diversity of your
-languages and colors. In this are signs for
-those who know.
-23. And of His signs are your sleep by night
-and day, and your pursuit of His bounty. In
+
+22. And of His signs is the creation of the heavens and the earth, and the diversity of your
+languages and colors. In this are signs for those who know.
+
+23. And of His signs are your sleep by night and day, and your pursuit of His bounty. In
 this are signs for people who listen.
-24. And of His signs is that He shows you the
-lightning, causing fear and hope. And He
-brings down water from the sky, and with it
-He revives the earth after it was dead. In this
-are signs for people who understand.
-25. And of His signs is that the heaven and the
-earth stand at His disposal. And then, when
-He calls you out of the earth, you will emerge
-at once.
-26. To Him belongs everyone in the heavens
-and the earth. All are submissive to Him.
-27. It is He who initiates creation, and then re-
-peats it, something easy for Him. His is the
-highest attribute, in the heavens and the
-earth. He is the Almighty, the Wise.
-28. He illustrates an example for you, from
-your own selves: do you make your servants
-full partners in the wealth We have given
-you? Do you revere them as you revere one
-another? We thus explain the revelations for
-a people who understand.
-29. Yet the wrongdoers follow their desires
-without knowledge. But who can guide
-18.
-whom Allah leaves astray? They will have no
+
+24. And of His signs is that He shows you the lightning, causing fear and hope. And He
+brings down water from the sky, and with it He revives the earth after it was dead. In this
+are signs for people who understand. 
+
+25. And of His signs is that the heaven and the earth stand at His disposal. And then, when
+He calls you out of the earth, you will emerge at once.
+
+26. To Him belongs everyone in the heavens and the earth. All are submissive to Him.
+
+27. It is He who initiates creation, and then repeats it, something easy for Him. His is the highest attribute, in the heavens and the earth. He is the Almighty, the Wise. 
+
+28. He illustrates an example for you, from your own selves: do you make your servants
+full partners in the wealth We have given you? 
+
+Do you revere them as you revere one another? We thus explain the revelations for a people who understand.
+
+29. Yet the wrongdoers follow their desires without knowledge. But who can guide whom Allah leaves astray? They will have no
 helpers.
 
 30. So devote yourself to the religion of monotheism—the natural instinct Allah has in-
@@ -162,18 +151,15 @@ strength gave you weakness and gray hair.
 55. On the Day when the Hour takes place, the sinners will swear they had stayed but an
 hour. Thus they were deluded.
 
-56. But those endowed with knowledge and faith will say, “You remained in Allah’s Book
-until the Day of Resurrection. This is the Day
-of Resurrection, but you did not know.”
+56. But those endowed with knowledge and faith will say, “You remained in Allah’s Book until the Day of Resurrection. This is the Day of Resurrection, but you did not know.”
 
-57. On that Day, the sinners’ excuses will not
-benefit them, nor will they be excused.
-58. We have cited in this Quran for the people
-every sort of parable. But even if you bring
-them a miracle, those who disbelieve will say,
-“You are nothing but fakers.”
-59. Allah thus seals the hearts of those who do not know.
+57. On that Day, the sinners’ excuses will not benefit them, nor will they be excused.
+
+58. We have cited in this Quran for the people every sort of parable. But even if you bring
+them a miracle, those who disbelieve will say, “You are nothing but fakers.”
+
+<!-- 59. Allah thus seals the hearts of those who do not know.
 
 60. So be patient. The promise of Allah is true. And do not let those who lack certainty belittle you.
-
+ -->
 

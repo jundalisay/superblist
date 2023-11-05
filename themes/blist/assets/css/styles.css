@@ -148,6 +148,8 @@
 
 .Sad {background-image: url(/icons/arab2.png) !important;}
 
+.Old-man {background-image: url(/icons/arab5.png) !important;}
+
 .soc, .Socrates, .socrates, .Philo {background-image: url(/icons/socrates.png);}
 
 .Hegel {background-image: url(/avatars/hegel.png);}
@@ -221,7 +223,7 @@
 }
 
 
-.Mary, .Wife {background-image: url(/icons/veil.png);}
+.Mary, .Wife, .Woman {background-image: url(/icons/veil.png);}
 
 .tsang, .Tsang-Sin, .Szma-Niu {background-image: url(/avatars/ava4.jpg);}
 

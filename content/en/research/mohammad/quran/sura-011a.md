@@ -10,46 +10,39 @@ description: "O People of the Book! Our Messenger has come to you, clarifying fo
 <!-- Alif, Lam, Ra. A Scripture whose Verses
 were perfected, then elaborated, from One
 who is Wise and Informed. -->
-{{< s v="2" >}} That you shall worship none but Allah. “Iam a warner to you from Him, and a bearer of good news.”
-{{< s v="3" >}}  “And ask your Lord for forgiveness, and re-
-pent to Him. He will provide you with good
-sustenance until a stated term, and will be-
-stow His grace on every possessor of virtue.
-But if you turn away, then I fear for you the
-punishment of a grievous Day.”{{< s v="4" >}}  “To Allah is your return, and He is Capable
-of all things.”
+
+{{< s v="2" >}} Worship only Allah. “I am a warner to you from Him, and a bearer of good news.”
+
+{{< s v="3" >}}  “And ask your Lord for forgiveness, and repent to Him. He will provide you with good sustenance until a stated term, and will bestow His grace on every possessor of virtue.
+
+But if you turn away, then I fear for you the punishment of a grievous Day.
+
+{{< s v="4" >}}  “To Allah is your return, and He is Capable of all things.”
+
 {{< s v="5" >}}  They wrap their chests to hide from Him.
 
-But even as they cover themselves with their clothes, He knows what they conceal and
-what they reveal. He knows what lies within the hearts.
+But even as they cover themselves with their clothes, He knows what they conceal and what they reveal. He knows what lies within the hearts.
 
-6. There is no moving creature on earth but its sustenance depends on Allah. And He knows
-where it lives and where it rests. Everything is in a Clear Book.
+6. There is no moving creature on earth but its sustenance depends on Allah. And He knows where it lives and where it rests. Everything is in a Clear Book.
 
-7. It is He who created the heavens and the earth in six days—and His Throne was upon
-the waters—in order to test you—which of you is best in conduct. And if you were to say,
-“You will be resurrected after death,” those who disbelieve would say, “This is nothing
-but plain witchcraft.”
+7. He created the heavens and the earth in 6 days. His Throne was upon the waters—in order to test you—which of you is best in conduct. 
 
-8. And if We postponed their punishment un-
-til a stated time, they would say, “What holds
-it back?” On the Day when it reaches them, it
-will not be averted from them, and what they
-used to ridicule will besiege them.{{< s v="9" >}}  If We give the human being a taste of mercy
-from Us, and then withdraw it from him, he
-becomes despairing and ungrateful.{{< s v="10" >}}  And if We give him a taste of prosperity,
-after some adversity has afflicted him, he will
-say, “Troubles have gone away from me.” He
-becomes excited and proud.{{< s v="11" >}}  Except those who are patient and do good
-deeds—these will have forgiveness and a
-great reward.
+And if you were to say, “You will be resurrected after death,” those who disbelieve would say, “This is nothing but plain witchcraft.”
 
-12. Perhaps you wish to disregard some of what is revealed to you, and you may be
-stressed because of it, since they say, “If only a treasure was sent down to him, or an angel
-came with him.” You are only a warner, and Allah is Responsible for all things.
+8. And if We postponed their punishment until a stated time, they would say, “What holds it back?” 
 
-13. Or do they say, “He invented it?” Say, “Then produce ten chapters like it, invented,
-and call upon whomever you can, besides Allah, if you are truthful.”
+On the Day when it reaches them, it will not be averted from them, and what they used to ridicule will besiege them.
+
+{{< s v="9" >}}  If We give the human being a taste of mercy from Us, and then withdraw it from him, he becomes despairing and ungrateful.
+
+{{< s v="10" >}}  And if We give him a taste of prosperity, after some adversity has afflicted him, he will
+say, “Troubles have gone away from me.” He becomes excited and proud.
+
+{{< s v="11" >}}  Except those who are patient and do good deeds—these will have forgiveness and a great reward.
+
+12. Perhaps you wish to disregard some of what is revealed to you, and you may be stressed because of it, since they say, “If only a treasure was sent down to him, or an angel came with him.” You are only a warner.
+
+13. Or do they say, “He invented it?” Say, “Then produce ten chapters like it, invented, and call upon whomever you can, besides Allah, if you are truthful.”
 
 14. But if they fail to answer you, know that it was revealed with Allah’s knowledge, and
 that there is no god but He. Will you then submit?
@@ -57,7 +50,7 @@ that there is no god but He. Will you then submit?
 15. Whoever desires the worldly life and its glitter—We will fully recompense them for
 their deeds therein, and therein they will not be defrauded.
 
-{{< s v="16" >}}These—they will have nothing but the Fire in the Hereafter. Their deeds are in vain
+{{< s v="16" >}} These—they will have nothing but the Fire in the Hereafter. Their deeds are in vain
 therein, and their works are null.
 
 17. Is he who possesses a clear proof from his Lord, recited by a witness from Him, and be-
@@ -205,19 +198,14 @@ We are in serious doubt regarding what you are calling us to.”
 
 63. He said, “O my people, If I stand upon clear evidence from my Lord, and He has given me mercy from Him, who would protect me from Allah, if I disobeyed Him? You add nothing for me except loss.”
 
-64. “O my people, this is the she-camel of Al-
-lah, a sign for you. Let her graze on Allah’s
-land, and do not harm her, lest an imminent
-punishment overtakes you.”
+64. “O my people, this is the she-camel of Allah, a sign for you. Let her graze on Allah’s land, and do not harm her, lest an imminent punishment overtakes you.”
 
 65. But they hamstrung her, and so He said, “Enjoy yourselves in your homes for three
 days. This is a prophecy that is infallible.”
 
-66. Then, when Our command came, We saved Saleh and those who believed with him,
-by a mercy from Us, from the disgrace of that day. Your Lord is the Strong, the Mighty.
+66. Then, when Our command came, We saved Saleh and those who believed with him, by a mercy from Us, from the disgrace of that day. Your Lord is the Strong, the Mighty.
 
-67. And the Scream struck those who transgressed, and they became motionless bodies
-in their homes.
+67. And the Scream struck those who transgressed, and they became motionless bodies in their homes.
 
 68. As if they had never prospered therein. Thamood rejected their Lord, so away with Thamood.
 
@@ -243,20 +231,13 @@ upon you, O people of the house. He is Praiseworthy and Glorious.”
 77. And when Our envoys came to Lot, he was anxious for them, and concerned for them.
 He said, “This is a dreadful day.”
 
-78. And his people came rushing towards him—they were in the habit of committing
-sins. He said, “O my people, these are my daughters; they are purer for you. So fear Al-
-lah, and do not embarrass me before my guests. Is there not one reasonable man
-among you?”
+78. And his people came rushing towards him—they were in the habit of committing sins. He said, “O my people, these are my daughters; they are purer for you. So do not embarrass me before my guests. Is there not one reasonable man among you?”
 
-79. They said, “You know well that we have no right to your daughters, and you know well
-what we want.”
+79. They said, “You know well that we have no right to your daughters, and you know well what we want.”
 
 80. He said, “If only I had the strength to stop you, or could rely on some strong support.”
 
-81. They said, “O Lot, we are the envoys of your Lord; they will not reach you. So set out
-with your family during the cover of the night, and let none of you look back, except
-for your wife. She will be struck by what will strike them. Their appointed time is the
-morning. Is not the morning near?”
+81. They said, “O Lot, we are the envoys of your Lord; they will not reach you. So set out with your family during the cover of the night, and let none of you look back, except for your wife. She will be struck by what will strike them. Their appointed time is the morning. Is not the morning near?”
 
 82. And when Our command came about, We turned it upside down, and We rained down
 on it stones of baked clay.

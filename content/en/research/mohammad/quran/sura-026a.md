@@ -1,116 +1,129 @@
 ---
-title: "The Poets (ash-Shu’ara’)"
+title: Moses Versus the Pharaoh (ash-Shu’ara’)
+# title: "The Poets (ash-Shu’ara’)"
 heading: "Sura 26 "
 weight: 130
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
-
-
 <!-- 1. Ta, Seen, Meem. -->{{< s v="2" >}}  These are the Verses of the Clarifying Book.
 
 {{< s v="3-9" >}}  Perhaps you will destroy yourself with grief, because they do not become believers.
 
-{{< s v="10" >}}  Your Lord called to Moses, “Go to the tyrannical people.
+{{< s v="10-14" >}} 
 
-{{< s v="11" >}}  The people of Pharaoh. Will they not fear?”
+{{< l a="Allah" >}}
+Go to the tyrannical people, the people of Pharaoh. Will they not fear?
+{{< /l >}}
 
-He said, “My Lord, I fear they will rejectme.
+{{< r a="Moses" >}}
+I fear they will rejectme. I become stressed, and my tongue is not fluent, so send Aaron too. They have a charge against me, so I fear they will kill me.
+{{< /r >}}
 
-13. And I become stressed, and my tongue is not fluent, so send Aaron too.
+15-16
 
-14. And they have a charge against me, so I fear they will kill me.”
+{{< l a="Allah" >}}
+No. Go, both of you, with Our proofs. We will be with you, listening. Go to Pharaoh, and say, ‘We are the Messengers of the Lord of the Worlds. Bring it, if you are being truthful.”
+{{< /l >}}
 
-15. He said, “No. Go, both of you, with Our proofs. We will be with you, listening.
+...
 
-{{< s v="16" >}}Go to Pharaoh, and say, ‘We are the Messengers of the Lord of the Worlds.
+17..
+{{< r a="Pharaoh" >}}
+We raised you as a child among us. You stayed among us for many years. Yet you did what you did. You were ungrateful.
+{{< /r >}}
 
-31. He said, “Bring it, if you are being truthful.”
+{{< l a="Moses" >}}
+I did it then, when I was of those astray. I fled from you when I feared you; but my Lord gave me wisdom, and made me one of the messengers. Is that the favor you taunt me with, although you have enslaved the Jews?”
+{{< /l >}}
 
-17. Let So he cast his staff; and it was a serpent, plain to see.
+{{< r a="Pharaoh" >}}
+What is the Lord of the Worlds?
+{{< /r >}}
 
-33. And he pulled his hand; and it was white, for all to see.
+{{< l a="Moses" >}}
+The Lord of the heavens and the earth, and everything between them, Your Lord and the Lord of your ancestors of old.
+{{< /l >}}
 
-34. He said to the dignitaries around him, “This is a skilled magician.
+<!-- [To the people around him:] Do you not hear ? -->
 
-35. He intends to drive you out of your land with his magic, so what do you recommend?”
+{{< r a="Pharaoh" >}}
+You are crazy. If you accept any god other than me, I will imprison you.
+{{< /r >}}
 
-36. They said, “Delay him and his brother, and send recruiters to the cities.
+{{< l a="Moses" >}}
+I will give you proof
+{{< /l >}}
 
+So he cast his staff and it became a serpent. He pulled his hand and it was white, for all to see.
 
-18. He 37. To bring the Jews go with us.'“
-said, “Did we not raise you among us as a child, and you stayed among us for many of your years?
-
-19. And you committed that deed you committed, and you were ungrateful.”
-20. He said, “I did it then, when I was of those astray.
-21. And I fled from you when I feared you; but my Lord gave me wisdom, and made me one of the messengers.
-22. Is that the favor you taunt me with, although you have enslaved the Jews?”
-23. Pharaoh said, “And what is the Lord of the Worlds?”
-24. He said, “The Lord of the heavens and the earth, and everything between them, if you are aware.”
-25. He said to those around him, “Do you not hear?”
-26. He said, “Your Lord and the Lord of your ancestors of old.”
-27. He said, “This messenger of yours, who is sent to you, is crazy.”
-28. He said, “Lord of the East and the West, and everything between them, if you understand.”
-29. He said, “If you accept any god other than me, I will make you a prisoner.”
-30. He said, “What if I bring you something convincing?”
-32. you every experienced magician.”
-
-
-the magicians were gathered for the appointment on a specified day.
-
-39. And it was said to the people, “Are you all gathered?
-40. That we may follow the magicians, if they
-are the winners.”
-41. When the magicians arrived, they said to
-Pharaoh, “Is there a reward for us, if we are
-the winners?”
-42. He said, “Yes, and you will be among those
-favored.”
-43. Moses said to them, “Present what you in-
-tend to present.”
-44. So they threw their ropes and their sticks,
-and said, “By the majesty of Pharaoh, we will
-be the winners.”
-45. Then Moses threw his staff, and behold, it
-began swallowing their trickery.
-38. So
-46. And
-the magicians fell down prostrating.
-They said, “We have believed in the Lord
-of the Worlds.
-47.
-48. The Lord of Moses and Aaron.”
-
-He said, “Did you believe in Him before I have given you permission? He must be your
-chief, who taught you magic. You will soon know. I will cut off your hands and feet on
-opposite sides, and I will crucify you all.”
-
-50. They said, “No problem. To our Lord we will return.
+{{< r a="Pharaoh" >}}
+[To the dignitaries around him:] This is a skilled magician. He intends to drive you out of your land with his magic, so what do you advise?
+{{< /r >}}
 
 
-51. We are eager for our Lord to forgive us our sins, since we are the first of the believers.”
-52. And We inspired Moses: “Travel with My servants by night. You will be followed.”
-53. Pharaoh
-54. “These
-55. And
+36
+
+{{< r a="Dignitaries" >}}
+Delay him and his brother, and send recruiters to the cities to gather magicians. 
+{{< /r >}}
+
+The magicians were gathered for the appointment on a specified day, along with the people to see who will win. 
+
+{{< r a="Magicians" >}}
+[To Pharaoh:] Is there a reward for us, if win?
+{{< /r >}}
+
+42
+
+{{< r a="Pharaoh" >}}
+Yes, you will be among those favored.
+{{< /r >}}
+
+43. Moses said to them, “Present what you intend to present.”
+
+44. So they threw their ropes and their sticks, and said, “By the majesty of Pharaoh, we will be the winners.”
+
+45. Then Moses threw his staff, and behold, it began swallowing their trickery.
+
+The magicians fell down prostrating.
+
+They said, “We have believed in the Lord of the Worlds. The Lord of Moses and Aaron.”
+
+{{< r a="Pharaoh" >}}
+Did you believe in Him before I have given you permission? He must be your chief, who taught you magic. I will cut off your hands and feet on opposite sides, and I will crucify you all.
+{{< /r >}}
+
+{{< r a="Magicians" >}}
+No problem. To our Lord we will return. We are eager for our Lord to forgive us our sins, since we are the first of the believers.”
+{{< /r >}}
+
+{{< l a="Allah" >}}
+[To Moses:] Travel with My servants by night. You will be followed.
+{{< /l >}}
+
+{{< r a="Pharaoh" >}}
 sent heralds to the cities.
-He said, “Have you considered what you
-worship.
-75.
-76. You
-and your ancient ancestors?
-They are enemies to me, but not so the
-Lord of the Worlds.
-77.
-are a small gang. 78. He who created me, and guides me.
-they are enraging us. 79. He who feeds me, and waters me.
+{{< /r >}}
+
+He said, “Have you considered what you worship.
+
+76. You and your ancient ancestors? They are enemies to me, but not so the Lord of the Worlds.
+
+77. are a small gang. 
+
+78. He who created me, and guides me. they are enraging us. 
+
+79. He who feeds me, and waters me.
 56. But 80. And
 57.
 we are a vigilant multitude.”
 So We drove them out of gardens and
 springs.
+
 81. He who makes me die, and then revives me.
+
 58. And
 treasures and noble dwellings.
 59. So it was. And We made the Children of

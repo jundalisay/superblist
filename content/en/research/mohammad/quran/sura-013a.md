@@ -9,8 +9,9 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 <!-- 1. Alif, Lam, Meem, Ra. These are the signs of
 the Scripture. What is revealed to you from
-your Lord is the truth, but most people do not
-believe.{{< s v="2" >}}  Allah is He who raised the heavens without
+your Lord is the truth, but most people do not believe.
+
+{{< s v="2" >}}  Allah is He who raised the heavens without
 pillars that you can see, and then settled on
 the Throne. And He regulated the sun and
 the moon, each running for a specified pe-
@@ -80,13 +81,13 @@ who is blind? Only those who reason will remember. -->
 
 21. Those who join what Allah has commanded to be joined, and fear their Lord, and dread the dire reckoning.
 
-22. And those who patiently seek the presence of their Lord, and pray regularly, and spend
-from Our provisions to them, secretly and openly, and repel evil with good. These will
-have the Ultimate Home.
+22. Those who patiently seek the presence of their Lord, and pray regularly, and spend from Our provisions to them, secretly and openly, and repel evil with good. 
+<!-- These will have the Ultimate Home. -->
 
 23. Everlasting Gardens, which they will enter, along with the righteous among their parents, and their spouses, and their descendants. And the angels will enter upon them from every gate.
 
 24. “Peace be upon you, because you endured patiently. How excellent is the Final Home.”
+
 25. As for those who violate the promise to Allah, after pledging to keep it, and sever what
 Allah has commanded to be joined, and spread corruption on earth—these, the curse
 will be upon them, and they will have the Worst Home.
@@ -94,16 +95,15 @@ will be upon them, and they will have the Worst Home.
 26. Allah dispenses the provisions to whomever He wills, and restricts. And they delight
 in the worldly life; yet the worldly life, compared to the Hereafter, is only enjoyment.
 
-27. Those who disbelieve say, “If only a miracle was sent down to him from his Lord.” Say,
+<!-- 27. Those who disbelieve say, “If only a miracle was sent down to him from his Lord.” Say,
 “Allah leads astray whomever He wills, and He guides to Himself whoever repents.”
 
 28. Those who believe, and whose hearts find comfort in the remembrance of Allah. Surely,
-it is in the remembrance of Allah that hearts find comfort.”
+it is in the remembrance of Allah that hearts find comfort.” -->
 
-29. For those who believe and do righteous deeds—for them is happiness and a beautiful return.
+<!-- 29. For those who believe and do righteous deeds—for them is happiness and a beautiful return. -->
 
-30. Thus We sent you among a community before which other communities have passed
-away, that you may recite to them what We revealed to you. Yet they deny the Benevolent
+30. Thus We sent you among a community before which other communities have passed away, that you may recite to them what We revealed to you. Yet they deny the Benevolent
 One. 
 
 Say, “He is my Lord; there is no god but He; in Him I trust, and to Him is my repentance.”
@@ -139,6 +139,7 @@ appear good to them, and they are averted from the path.
 39. Allah abolishes whatever He wills, and He affirms. With Him is the source of the Scripture.
 
 40. Whether We show you some of what We have promised them, or We cause you to die—your duty is to inform, and Ours is the reckoning.
+
 Do they not see how We deal with the earth, diminishing it at its edges? Allah judges; and nothing can hold back His judg-
 ment. And He is quick to settle accounts.
 
