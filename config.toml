@@ -300,7 +300,7 @@ paginate = 12
       heading = "روح المجتمع"
       title = "الفيزياء الفائقة الاجتماعية"
       sub = "التعاطف بدلاً من النزعة الانانية"
-      youtube = "AfByl9Mywi4"
+      youtube = "TvrMdB0Ceno"
       icon = "/icons/spsoc.png"
     [languages.ar.params.tricon4.items.a]
       url = "/social/supersociology/principles/part-1/chapter-01"
@@ -442,7 +442,7 @@ paginate = 12
       title = "社会的灵魂"
       heading = "社会超物理学"
       sub = "同情而不是自私利益"
-      youtube = "AfByl9Mywi4"
+      youtube = "fC9dH2Du0sM"
       icon = "/icons/spsoc.png"
     [languages.zh.params.tricon4.items.a]
       url = "/social/supersociology/principles/part-1/chapter-01"
@@ -584,7 +584,7 @@ paginate = 12
       heading = "Die Seele der Gesellschaft"
       title = "Social Superphysik"
       sub = "Mitgefühl statt Eigennutz"
-      youtube = "AfByl9Mywi4"
+      youtube = "k4OdiIY_v7M"
       icon = "/icons/spsoc.png"
     [languages.de.params.tricon4.items.a]
       url = "/social/supersociology/principles/part-1/chapter-01"
@@ -726,7 +726,7 @@ paginate = 12
       heading = "L'Âme de la Société"
       title = "Superphysique Sociale"
       sub = "La Compassion plutôt que l'Égoïsme"
-      youtube = "AfByl9Mywi4"
+      youtube = "viIEUJzpn14"
       icon = "/icons/spsoc.png"
     [languages.fr.params.tricon4.items.a]
       url = "/social/supersociology/principles/part-1/chapter-01"
@@ -868,7 +868,7 @@ paginate = 12
       title = "सामाजिक सुपरफिजिक्स। "
       heading = "समाज की आत्मा"
       sub = "स्वार्थ-उत्साह की बजाय सहकारी-भावना"
-      youtube = "AfByl9Mywi4"
+      youtube = "J0bfGdW4U8E"
       icon = "/icons/spsoc.png"
     [languages.hi.params.tricon4.items.a]
       url = "/social/supersociology/principles/part-1/chapter-01"
@@ -926,8 +926,8 @@ paginate = 12
       title = "Fisika"
       sub = "Fisika: 100 % Dapat Diulang= Objektif"
     [languages.id.params.tricon1]
-      title = "Sifat Jiwa"
-      heading = "Semua Adalah Gelombang Yang Manifestasi Sebagai Partikel"
+      title = "Semua Adalah Gelombang Yang Manifestasi Sebagai Partikel"
+      heading = "Sifat Jiwa"
       sub = "Semesta analog mengalir dalam definisi nyata untuk menciptakan kenyataan"
       youtube = "dc4VNkfqs1s"
       icon = "/icons/sp.png"
@@ -953,8 +953,8 @@ paginate = 12
       title = "Apa itu Dialektika Sokratik?"
       sub = "Paradigma berpikir yang memungkinkan keduanya Fisika dan Metafisika"
     [languages.id.params.tricon2]
-      title = "Jiwa dari Alam Semesta Fisik"
-      heading = "SUPERFISIKA MATERI"
+      title = "SUPERFISIKA MATERI"
+      heading = "Jiwa dari Alam Semesta Fisik"
       sub = "Berdasarkan Descartes dan lima lapisan dari Yunani kuno, Hindu, dan Cina"    
       youtube = "3l9J6tH4iD0"
       icon = "/icons/spmat.png"
@@ -980,8 +980,8 @@ paginate = 12
       title = "Elektron Positif, Proton Negatif"
       sub = "Kami menggunakan 'pria-wanita' untuk menghindari kebingungan"
     [languages.id.params.tricon3]
-      title = "Jiwa dari Entitas Hidup"
-      heading = "BIO SUPERFISIKA"
+      title = "BIO SUPERFISIKA"
+      heading = "Jiwa dari Entitas Hidup"
       sub = "Berdasarkan dinamika energi sadar"
       youtube= "Y6YKmtqJak4"
       icon = "/icons/spmed.png"
@@ -1007,10 +1007,10 @@ paginate = 12
       title = "Cara Menghentikan Covid"
       sub = "Ini masih ada! Ilmu pengetahuan masih belum dapat membasminya"
     [languages.id.params.tricon4]
-      title = "Jiwa dari Masyarakat"
-      heading = "SUPERFISIKA SOSIAL"
+      title = "SUPERFISIKA SOSIAL"
+      heading = "Jiwa dari Masyarakat"
       sub = "Perasaan Sejawat Daripada Kepentingan Egois"
-      youtube = "AfByl9Mywi4"
+      youtube = "RCqxWx1zI_c"
       icon = "/icons/spsoc.png"
     [languages.id.params.tricon4.items.a]
       url = "/social/supersociology/principles/part-1/chapter-01"
@@ -1152,7 +1152,7 @@ paginate = 12
       title = "社会スーパーフィジックス。"
       heading = "社会の魂"
       sub = "利己的な利益ではなく共感"
-      youtube = "AfByl9Mywi4"
+      youtube = "c4uXwQqnAD4"
       icon = "/icons/spsoc.png"
     [languages.jp.params.tricon4.items.a]
       url = "/social/supersociology/principles/part-1/chapter-01"
@@ -1195,7 +1195,7 @@ paginate = 12
       intro = "Суперфизика: Парадигма на основе волнового подхода."
       heading = "Новая наука, основанная на метафизике и софистической диалектике"
       sub = "Все знания могут быть разделены на три группы:"
-      youtube= "pJDEDX7DI5Y"
+      youtube= "8bnws4po7ew"
       banner = "/photos/physics/galaxy.jpg"
     [languages.ru.params.cards.a]
       icon = "/icons/tao.png"
@@ -1427,7 +1427,6 @@ paginate = 12
   # [[params.homepage.social.icons]]
   #   website = "behance"
   #   url = "https://behance.net"
-
 
 [build]
   writeStats = true
