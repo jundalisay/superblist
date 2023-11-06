@@ -55,10 +55,6 @@ paginate = 12
         name = "/icons/heart.png"
         url = "help"
         weight = 10
-    [[languages.en.menu.main]]
-        name = "/icons/clock.png"
-        url = "changelog"
-        weight = 11
     [languages.en.params]
       heading = "A New Science Based on Metaphysics and Socratic Dialectics"
       intro = "Superphysics: Wave-based Scientific Paradigm"
