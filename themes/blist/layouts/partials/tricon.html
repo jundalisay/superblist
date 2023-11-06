@@ -7,15 +7,15 @@
         <h2 class="text-4xl font-bold">{{ .Title }}</h2>
         <p class="text-lg mb-6">{{ .Sub }}</small>      
         {{ with .Youtube }}
-          <div class="aspect-w-16 aspect-h-9">
-            <iframe class="mx-auto" width="640" height="360" frameborder="0" src="https://www.youtube.com/embed/{{ . }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture fullscreen" allowfullscreen></iframe>
-          </div>
+      <div class="aspect-w-16 aspect-h-9 py-4 my-2" style="height: max-content !important;">
+        <iframe class="w-full" style="aspect-ratio: 16 / 9 !important;" frameborder="0" src="https://www.youtube.com/embed/{{ . }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
         {{ end }}
       </div>
 
       <br>
 
-       <div class="py-6 mx-auto p-6 grid lg:grid-cols-4 grid-cols-2 gap-4">
+       <div class="py-6 mx-auto p-6 grid lg:grid-cols-4 grid-cols-2 gap-1">
         {{ range .items }}
           <div class="col-span-1 flex flex-col border rounded-xl shadow-xl dark:text-white mx-4 zoom" data-sal="slide-down">
             <a href="{{ .url }}"> 
