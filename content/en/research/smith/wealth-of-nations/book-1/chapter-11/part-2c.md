@@ -1,4 +1,3 @@
-
 ---
 title: "Precious Metals and Stones"
 heading: "Part 2c"
@@ -8,7 +7,6 @@ image: "/covers/wn.jpg"
 description: "The demand for Precious Metals and Stones arises partly from their utility and partly from their beauty"
 icon: "/avatars/smith.png"
 ---
-
 
 
 {{< s v="74" >}} The price of coals in Westmorland or Shropshire can have little effect on their price at Newcastle.
@@ -62,11 +60,12 @@ Rent, therefore, probably makes a greater part of the price of tin at the most f
 After replacing the stock employed with ordinary profits, the remainder is more in the coarse than in the precious metal.
 
 {{< s v="78" >}} The profits of silver miners are not very great in Peru.
+- When anyone undertakes to work a new mine in Peru, he is seen a man destined to ruin.
 
-When anyone undertakes to work a new mine in Peru, he is seen a man destined to ruin.
-He is shunned by everybody.
 Mining is considered as a lottery.
+
 The prizes do not compensate the blanks, though many adventurers are tempted to lose their fortunes in such unprosperous projects.
+
 
 {{< s v="79" >}} New mines are encouraged in Peru because the sovereign derives a big part of his revenue from silver mining.
 
@@ -85,10 +84,12 @@ The king's tax amounts only to 1/20th of gold metal.
 It was once a 1/5, then 1/10.
 
 They found that the mines could not afford even the lowest of these taxes.
+
 According to Frezier and Ulloa, it is much rarer to find a person who has made a fortune by gold than by silver mining.
+
 This 20th part seems to be the whole rent paid by most of the gold mines in Chile and Peru.
-Gold is much more liable to be smuggled than silver.
-Because of its superior value and the way it is produced.
+
+Gold is much more liable to be smuggled than silver because of its superior value and the way it is produced.
 
 The extraction of silver must be done in workhouses inspected by the king's officers.
 Gold, on the contrary, can be extracted easily and privately.
