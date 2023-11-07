@@ -3,8 +3,9 @@ title: "The Raw Produce Which Not Always Affords Rent"
 heading: "Part 2a"
 weight: 8
 image: "/covers/wn.jpg"
-description: "Animal Skin and Timber"
+description: "The Raw Produce Which Not Always Affords Rent are Animal Skin and Timber"
 icon: "/avatars/smith.png"
+author: Adam Smith
 ---
 
 
@@ -16,10 +17,13 @@ icon: "/avatars/smith.png"
 {{< s v="55" >}} In its rude state, land has a super-abundance of the raw materials for clothing and lodging, more than it can feed.
 
 In its improved state, it can sometimes feed more people than it can supply with clothing and lodging.
-There is often a scarcity which then adds to their value.
+- There is often a scarcity which then adds to their value.
+
 In the rude state, most raw materials are of so little value that they are thrown away.
-Since there is very little value, no rent is left to the landlord.
+- Since there is very little value, no rent is left to the landlord.
+
 In the improved state, materials for clothing and lodging are all used.
+
 There is frequently a demand for more, so their price starts to afford rent
 
 
