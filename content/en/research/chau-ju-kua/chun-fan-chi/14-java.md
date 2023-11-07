@@ -2,7 +2,7 @@
 title: "Java (Shopo) Indonesia"
 heading: "Chapter 14"
 weight: 18
-description: "The kingdom of Java"
+description: "The kingdom of Java is also called Pukialung. It is southeast of Canton and can be reached within a month."
 image: "/flags/id.png"
 author: "Chau Ju Kua"
 ---
