@@ -1,9 +1,9 @@
 ---
-title: Motion
-heading: Part 5
+title: "Motion in Attraction and Repulsion"
+heading: Part 5b
 # date: 2022-01-27
 weight: 10
-description: Dialectics of Nature
+description: "How does motion present itself in the interaction of attraction and repulsion?"
 image: "/covers/nature.jpg"
 author: "Frederick Engels"
 icon: /icons/engels.png
