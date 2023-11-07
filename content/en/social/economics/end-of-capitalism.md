@@ -1,16 +1,15 @@
 ---
 title: "The End of Capitalism (Economic Materialism) and Marxism (Dialectical Materialism)"
-heading: "How Points-banking can end stagflation and trade wars for good"
+heading: "Materialistic Systems Have Caused So Many Problems"
 date: 2022-08-01
 image: "/photos/objects/regicide.jpg"
 description: "Here we explain how Points-banking puts an end to commercial (tradeable) equity and, subsequently, Capitalism"
-youtube: "rVP73TV2X0s"
 contributors: ['Juan']
 icon: /icons/pantry.png
 ---
 
 
-In 2017, we predicted that Masayoshi Son would be [the last capitalist](/social/economics/last-capitalist). This is because our model predicted a global economic crisis sparking in 2018, which would then create [a global stagflation by 2019](/social/supersociology/precrisis-years). 
+In 2017, we predicted that Masayoshi Son would be [the last capitalist](/social/economics/last-capitalist). This was because our model predicted a global economic crisis sparking in 2018, which would then create [a global stagflation by 2019](/social/supersociology/precrisis-years). 
 
 The crisis turned out to be Covid and the Russia-Ukraine war which caused the current global stagflation in 2022. 
 
