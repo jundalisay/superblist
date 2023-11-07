@@ -59,23 +59,24 @@ Our rivals will say that this is impossible because:
 - the last of the Maxwell equations*, excludes the existence of charge densities and electrical particles
 
 
-> *This expresses the vanishing of the divergence of the (con‘travariant) electrical ﬁeld density
+> *This expresses the vanishing of the divergence of the (contravariant) electrical ﬁeld density
 
 
 This is why writers have occasionally noted the possibility that material particles might be considered as singularities of the ﬁeld. 
 
-<!-- This point of View, however, we cannot accept at all. -->
-
-
 We reject these because a singularity brings so much arbitrariness into General Relativity that it actually nulliﬁes its laws.
 
-<!-- A pretty conﬁrmation of this was imparted in a letter to one of the authors by  -->
+(L. Silberstein wrote to Albert about this)
 
-L. Silberstein wrote to Albert about this, as Levi—Civita and Weyl gave a way to find axially symmetric static solutions of the gravitational equations.
+Levi—Civita and Weyl gave a way to find axially symmetric static solutions of the gravitational equations.
 
 This gives us a solution which, except for 2 point singularities lying on the axis of symmetry, is everywhere regular and is Euclidean at inﬁnity.
 
-Hence if Newtonian singularities are particles, then in this case, we would have 2 particles not accelerated by their gravitational interaction, which would certainly be excluded physically. We think that every ﬁeld theory must therefore adhere to the fundamental principle that Newtonian singularities of the ﬁeld are to be excluded. We explain how.
+Hence if Newtonian singularities are particles, then in this case, we would have 2 particles not accelerated by their gravitational interaction, which would certainly be excluded physically. 
+
+We think that every ﬁeld theory must therefore adhere to the fundamental principle that Newtonian singularities of the ﬁeld are to be excluded. 
+
+We explain how.
 
 <!-- We answer yes, this can be done in a natural way. -->
                                                  
@@ -96,16 +97,12 @@ d32= ~dx12—dx22~—dx32+a2x12dx42.                 (1)
 ```
 
 
-> *This metric ﬁeld does not represent the whole Minkowski space but only part of it. Thus, the transformation that converts d3? = —— dsi2—d522—d532+d542                   
-into (1) is  51= 36] cosh ax4,    53= 963, .
-            £2=x2s              £4=x1 smh am.                 
-It follows that only those points for which 5123= 5154? corre spond to points for which (1) is the metric.                    
-
+> *Einstein Note: This metric ﬁeld does not represent the whole Minkowski space but only part of it. Thus, the transformation that converts d3? = —— dsi2—d522—d532+d542 into (1) is  51= 36] cosh ax4,    53= 963, £2=x2s              £4=x1 smh am. It follows that only those points for which 5123= 5154? corre spond to points for which (1) is the metric.                    
 
 The g“, of this ﬁeld satisfy in general the equations           
 
 ```elixir
-Rim", = O,                     (2)   
+Rim" = O,                     (2)   
 ```
 
 and hence the equations                                         
@@ -154,12 +151,15 @@ T22 = T23 = aQ/la/(1+a2x12/a)2.
 
 We see then that the smaller one takes a the sigma, the more is the tensor concentrated in the neighborhood of the hypersurface `x1=0`. 
 
-From the standpoint of the original theory the solution (1) contains a singularity which corresponds to an energy or mass concentrated in the surface `x1=0`. From the standpoint of the modiﬁed theory, however, (1) is a solution of (3a), free from singularities, which describes the “ﬁeld-producing mass,” without requiring for this the introduction of any new ﬁeld quantities.
+From the standpoint of the original theory, the solution (1) contains a singularity which corresponds to an energy or mass concentrated in the surface `x1=0`. 
 
+From the standpoint of the modiﬁed theory, however, (1) is a solution of (3a), free from singularities, which describes the “ﬁeld-producing mass,” without requiring for this the introduction of any new ﬁeld quantities.
 
 All equations of the absolute differential calculus can be written in a form free from denominators, whereby the tensors are replaced by tensor densities of suitable weight.                  
 
 In the case of the solution (1) the whole ﬁeld consists of two equal halves, separated by the surface of symmetry x1=0, such that for the corresponding points (x1, x2, x3, x4) and (—x1, x2, x3, x4) the g,;, are equal. 
 
-As a result we ﬁnd that, although we are permitting the determinant g to take on the value 0 (for 961= 0), no change of sign of g and in general no change in the “inertial index” of the quadratic form (1) occurs. These features are of fundamental importanee from the point of View of the physical interpretation, and will be encountered again in the solutions to be considered later.                
+As a result we ﬁnd that, although we are permitting the determinant g to take on the value 0 (for 961= 0), no change of sign of g and in general no change in the “inertial index” of the quadratic form (1) occurs. 
+
+These features are of fundamental importanee from the point of View of the physical interpretation, and will be encountered again in the solutions to be considered later.                
                         
