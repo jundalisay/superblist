@@ -3,7 +3,7 @@ heading: "Chapter 1"
 title: "Shallow Philosophy and Religion as Poetry"
 weight: 2
 image: "/covers/republic.jpg"
-description: "God is the real Creator of everything. All perceptions are reflections and all things are imitations of the original from God. Homer is one of the greatest poets and should be read by all. But shallow, imitative philosophers should not be allowed into the State"
+description: "God is the real Creator of everything. All perceptions are reflections and all things are imitations of the original from God"
 icon: "/icons/socrates.png"
 ---
 
@@ -39,11 +39,9 @@ Yes, but they would be appearances only.
 
 {{< l a="Socrates" >}}
 The painter too is an example of a creator of appearances. He paints a bed, but it is not a real bed. The bedmaker makes a real bed, but not the essence or idea of the bed. He does not create true existence, but only some semblance of existence. Philosophers would then say that he is not speaking the truth because his work is an indistinct expression of truth. Let us assume that there are three beds:
-
 - one existing in nature, which is made by God,
 - one is the work of the carpenter,
 - one is the work of the painter.
-
 {{< /l >}}
 
 
