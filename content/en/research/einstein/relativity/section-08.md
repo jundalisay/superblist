@@ -6,6 +6,7 @@ weight: 16
 description: "To keep both the constancy of light and relativity, Einstein applies the changes onto spacetime itself, as an out-of-the-box thinking that uses light as the judge"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
+author: Albert Einstein
 ---
 
 
@@ -60,7 +61,9 @@ flashes travels along the length A ~T M with the same velocity as along the leng
 
 <!-- After further consideration you cast a somewhat disdainful glance at me — and rightly so — and you declare=  “I maintain my previous definition nevertheless, because in reality it  -->
 
-<span style="color=  red"><b>I answer that this simultaneity of time is only used for us to make empirical decisions.</b>  <!-- There is only one demand to be made of the definition of , namely, that in every real case it must supply us with an empirical decision as to whether or not the conception that has to be defined is fulfilled. That my definition satisfies this demand is indisputable.  -->  Light takes the same time to get from `A` to `M` and `B` to `M`. This is has nothing to do with the physical nature of light. It is something that I use to define simultaneity.</span>
+{{< color color="red" >}}
+<b>I answer that this simultaneity of time is only used for us to make empirical decisions.</b>  <!-- There is only one demand to be made of the definition of , namely, that in every real case it must supply us with an empirical decision as to whether or not the conception that has to be defined is fulfilled. That my definition satisfies this demand is indisputable.  -->  Light takes the same time to get from `A` to `M` and `B` to `M`. This is has nothing to do with the physical nature of light. It is something that I use to define simultaneity.
+{{< /color >}}
 
 ![Einstein Conman](/icons/einbla.png)
 
