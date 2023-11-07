@@ -1,5 +1,6 @@
 ---
-title: "The impediments of knowledge in handling it by parts"
+title: "Circle-Learning and the Impediments of Handling Knowledge by Parts" 
+# title: "The impediments of knowledge in handling it by parts"
 heading: Chapter 8
 weight: 10
 image: "/covers/interpret.jpg"
