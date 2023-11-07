@@ -9,27 +9,36 @@ icon: "/icons/descartes.png"
 ---
 
 
-
-How can the air-aether between the lines `AF` and `DG` advance all together towards `E` when the distance between `A` and `D` is greater than that between `F` and `G`? 
+How can the air-aether between the lines `AF` and `DG` go all together towards `E` when the distance between `A` and `D` is greater than that between `F` and `G`? 
+- This makes them enter a narrower space than where they came from.
 
 {{< img src="/graphics/physics/world-13hhh.jpg" alt="Black Hole" cap="" >}}
 
-
-
-This makes them enter a narrower space.
- <!-- that they must enter narrower than the space that they must leave.  -->
-
-Their motion does not affect the air-aether on their sides [lateral from `S`].
+This is because their motion going out of the the center `s` does not affect the air-aether on their sides [lateral from `S`].
 - It only affects those that are in front of them [those farther from `S`].
 - Those in front then affect those in their front, and so on. 
 
-<!-- If so, consider that the action by which they tend to move away from the center of their heaven does not force them to touch those of their neighbors that are at the same distance as they from that center. They only touch those that are to a degree more distant from it.[58] 
+When they move away from the center, they do not touch their neighbors that are at the same distance from that center. 
+- They only touch those that are a bit more distant from that center.
 
-Thus, the weight of the small balls `1, 2, 3, 4, 5` does not force those marked by the same numerals to touch one another. Instead, they only force those marked `1` or `10` to rest on those marked `2` or `20`. The latter would then rest on those marked `3` or `30`, and so on. 
+An example is the balls below. 
 
-Thus, these small balls can be arranged in many other ways.  -->
+{{< img src="/graphics/physics/world-13-7.jpg" alt="Balls" cap="" >}}
 
-The air-aether moves separately from one another. They cannot ever be arranged like the balls in Figure 7. 
+The weight of the small ball:
+- `1` does not make it exert a force of `10`
+- `2` does not make it exert a force of `20`.
+- `3` does not make it exert a force of `30`.
+- `4` does not make it exert a force of `40`.
+
+Instead, they only force:
+- ball `1` to rest on `2`
+- ball `10` to rest on `20`
+- and so on.
+  
+Thus, these small balls can be arranged in many other ways. 
+
+The air-aether moves separately from one another. They can never be arranged like the balls above. 
 
 Nonetheless, it is only in that mode [of arrangement] that the proposed difficulty manifests itself. 
 
