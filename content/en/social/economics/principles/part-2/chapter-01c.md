@@ -6,7 +6,7 @@ description : "Economic Karma is the cause and effect of economic actions"
 weight: 13
 date: 2016-01-01
 image: /photos/meta/buddhism.jpg
-description: "Smith was one of the few Western intellectuals to hint at the concept of dharma, or the natural and sustainable activities of humans, and apply it both for moral and economic purporses"
+description: "Smith hinted at the concept of dharma, as the personal interest of people"
 contributors: ['Juan']
 ---
 
