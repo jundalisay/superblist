@@ -27,18 +27,17 @@ Those that are at `C` tend of their own inclination toward `G`.
 
 ![Black Holes](/graphics/physics/world-13fff.jpg)
 
-But the resistance of the other parts of the air-aether above them cause them to move along the circle `EF`.
+But the resistance of the other air-aether particles above them cause them to move along the circle `EF`.
 
-This resistance in turn is opposed to the inclination that they have to continue moving in a straight line which would make them move towards `M`. 
-
-This is how they go towards the places that are directly opposite the centre of their heaven.
+This resistance in turn is opposed to their inclination to move in a straight linem, which would make them move towards `M`. 
+- This is how they go towards the places that are directly opposite the centre of their stellar gravitational territory.
 
 
 ## Solar Wind
 
 The stellar air-aether is continually pushed by 2 phenomena:
 
-1. By their fellow air-aether between them and the star at the center of their heaven 
+1. By their fellow air-aether between them and the star at the center of their gravitational territory 
 2. By the fire-aether of that star*.
 
 > *Superhysics note: This is solar wind
@@ -58,8 +57,7 @@ That is why they tend, towards `M`, `L`, `N`, and generally toward all the point
 
 ## Black Holes
 
-Imagine the parts of the air-aether at `E` were all alone and that there was absolutely no light (fire-aether) anywhere, even where the sun is.
-<!-- was surrounded by void, even at where the sun is. -->
+Imagine the air-aether particles at `E` were all alone and that there was absolutely no light (fire-aether) anywhere, even where the sun is.
 
 1. If that air-aether at `E` disappeared, then the air-aether beyond circle `FEG`, say at `M`, will not fill its place since it tends to move away from it.
 
