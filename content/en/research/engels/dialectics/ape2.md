@@ -1,18 +1,14 @@
 ---
-title: Labour and Speech
+title: The Adoption of a Meat Diet Improved Humans
 heading: Part 2
-# Dialectics of Nature
 # date: 2022-01-31
 weight: 4
-description: Dialectics of Nature
+description: "The reaction on labour and speech on brain development increased clarity of consciousness, power of abstraction and decision"
 author: "Frederick Engels"
 image: "/covers/nature.jpg"
 icon: /icons/engels.png
 ---
 
-
-
-<!-- First labour, after it and then with it speech – these were the two most  under --> 
 
 The ape gradually changed into that of man through 2 essential stimuli:
 
@@ -46,15 +42,45 @@ In short, food became more and more varied, as did also the substances entering 
 
 But all that was not yet labour in the proper sense of the word. Labour begins with the making of tools. And what are the most ancient tools that we find – the most ancient judging by the heirlooms of prehistoric man that have been discovered, and by the mode of life of the earliest historical peoples and of the rawest of contemporary savages? 
 
-They are hunting and fishing implements, the former at the same time serving as weapons. But hunting and fishing presuppose the transition from an exclusively vegetable diet to the concomitant use of meat, and this is another important step in the process of transition from ape to man. A meat diet contained in an almost ready state the most essential ingredients required by the organism for its metabolism. By shortening the time required for digestion, it also shortened the other vegetative bodily processes that correspond to those of plant life, and thus gained further time, material and desire for the active manifestation of animal life proper. And the farther man in the making moved from the vegetable kingdom the higher he rose above the animal. Just as becoming accustomed to a vegetable diet side by side with meat converted wild cats and dogs into the servants of man, so also adaptation to a meat diet, side by side with a vegetable diet, greatly contributed towards giving bodily strength and independence to man in the making. The meat diet, however, had its greatest effect on the brain, which now received a far richer flow of the materials necessary for its nourishment and development, and which, therefore, could develop more rapidly and perfectly from generation to generation. 
+They are hunting and fishing implements, the former at the same time serving as weapons. But hunting and fishing presuppose the transition from an exclusively vegetable diet to the concomitant use of meat, and this is another important step in the process of transition from ape to man. A meat diet contained in an almost ready state the most essential ingredients required by the organism for its metabolism.
 
-With all due respect to the vegetarians man did not come into existence without a meat diet, and if the latter, among all peoples known to us, has led to cannibalism at some time or other (the forefathers of the Berliners, the Weletabians or Wilzians, used to eat their parents as late as the tenth century), that is of no consequence to us today.
+By shortening the time required for digestion, it also shortened the other vegetative bodily processes that correspond to those of plant life, and thus gained further time, material and desire for the active manifestation of animal life proper. 
 
-The meat diet led to two new advances of decisive importance – the harnessing of fire and the domestication of animals. The first still further shortened the digestive process, as it provided the mouth with food already, as it were, half-digested; the second made meat more copious by opening up a new, more regular source of supply in addition to hunting, and moreover provided, in milk and its products, a new article of food at least as valuable as meat in its composition. Thus both these advances were, in themselves, new means for the emancipation of man. 
+The farther man in the making moved from the vegetable kingdom the higher he rose above the animal.
+
+Wild cats and dogs became domesticated by being used to a vegetable diet side by side with meat.
+
+Likewise, the human adaptation to a meat diet, side by side with a vegetable diet, greatly contributed towards giving men bodily strength and independence. 
+
+The meat diet had its greatest effect on the brain, which now received a far richer flow of the materials necessary for its nourishment and development. This allowed it to develop more rapidly and perfectly from generation to generation. 
+
+With all due respect to the vegetarians, man did not come into existence without a meat diet.
+
+Some peoples might have been cannibals, such as:
+- the Berliners
+- the Weletabians or Wilzians
+
+These used to eat their parents as late as the 10th century. But this is of no consequence to us today.
+
+The meat diet led to 2 new important advances:
+
+1. The harnessing of fire
+   
+This shortened the digestive process, as it provided the mouth with food already half-digested.
+
+2. The domestication of animals.
+
+This made meat more copious by opening up a new, more regular source of supply in addition to hunting, and moreover provided, in milk and its products, a new article of food at least as valuable as meat in its composition.
+
+Thus both these advances were, in themselves, new means for the emancipation of man. 
 
 It would lead us too far afield to dwell here in detail on their indirect effects notwithstanding the great importance they have had for the development of man and society.
 
-Just as man learned to consume everything edible, he also learned to live in any climate. He spread over the whole of the habitable world, being the only animal fully able to do so of its own accord. The other animals that have become accustomed to all climates – domestic animals and vermin – did not become so independently, but only in the wake of man. And the transition from the uniformly hot climate of the original home of man to colder regions, where the year was divided into summer and winter, created new requirements – shelter and clothing as protection against cold and damp, and hence new spheres of labour, new forms of activity, which further and further separated man from the animal.
+Just as man learned to consume everything edible, he also learned to live in any climate. He spread over the whole of the habitable world, being the only animal fully able to do so of its own accord.
+
+The other animals that have become accustomed to all climates – domestic animals and vermin – did not become so independently, but only in the wake of man.
+
+The transition from the uniformly hot climate of the original home of man to colder regions, where the year was divided into summer and winter, created new requirements – shelter and clothing as protection against cold and damp, and hence new spheres of labour, new forms of activity, which further and further separated man from the animal.
 
 By the combined functioning of hand, speech organs and brain, not only in each individual but also in society, men became capable of executing more and more complicated operations, and were able to set themselves, and achieve, higher and higher aims. The work of each generation itself became different, more perfect and more diversified. Agriculture was added to hunting and cattle raising; then came spinning, weaving, metalworking, pottery and navigation. Along with trade and industry, art and science finally appeared. Tribes developed into nations and states. 
 
@@ -70,7 +96,9 @@ Everything affects and is affected by every other thing, and it is mostly becaus
 
 But animals exert a lasting effect on their environment unintentionally and, as far as the animals themselves are concerned, accidentally. 
 
-The further removed men are from animals, however, the more their effect on nature assumes the character of premeditated, planned action directed towards definite preconceived ends. The animal destroys the vegetation of a locality without realising what it is doing. Man destroys it in order to sow field crops on the soil thus released, or to plant trees or vines which he knows will yield many times the amount planted. 
+The further removed men are from animals, however, the more their effect on nature assumes the character of premeditated, planned action directed towards definite preconceived ends.
+
+The animal destroys the vegetation of a locality without realising what it is doing. Man destroys it in order to sow field crops on the soil thus released, or to plant trees or vines which he knows will yield many times the amount planted. 
 
 He transfers useful plants and domestic animals from one country to another and thus changes the flora and fauna of whole continents. More than this. Through artificial breeding both plants and animals are so changed by the hand of man that they become unrecognisable.
 
