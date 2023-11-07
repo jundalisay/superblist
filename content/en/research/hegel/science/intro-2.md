@@ -1,19 +1,18 @@
 ---
 title: "The Divisions of Logic"
 weight: 6
-description: "Science of Logic"
+description: "People say that logic has 2 main parts -- The theory of elements and Methodology"
 image: /covers/science.png
+author: Hegel
 ---
 
 
-§ 64
+§ 64-65
 
 <!-- In conformity with this method, I would point out that the divisions and headings of the books, sections and chapters given in this work as well as the explanations associated with them, are made to facilitate a preliminary survey and strictly are only of historical value.  -->
 
 <!-- They do not belong to the content and body of the science but are compilations of an external reflection which has already run through the whole of the exposition and consequently knows and indicates in advance the sequence of its moments before these are brought forward by the subject matter itself. -->
 
-
-§ 65
 
 <!-- Similarly in the other sciences, such preliminary definitions and divisions are in themselves nothing else but such external indications; but even within the particular science they are not raised above this status.  -->
 
@@ -128,13 +127,20 @@ But above all, thought acquires thereby self-reliance and independence. It becom
 
 
 General Division of Logic
+
 § 74
 
-From what has been said about the Notion of this science and where its justification is to be found, it follows that the general division of it here can only be provisional, can be given, as it were, only in so far as the author is already familiar with the science and consequently is historically in a position to state here in advance the main distinctions which will emerge in the development of the Notion.
+From what has been said about the Notion of this science and where its justification is to be found, it follows that 
+
+The general division of science can only be provisional until all of it is known. 
+
+<!-- science and consequently is historically in a position to state here in advance the main distinctions which will emerge in the development of the Notion.-->
 
 § 75
 
-Still, the attempt can be made to promote an understanding beforehand of what is requisite for such a division, even though in doing so we must have recourse to an application of the method which will only be fully understood and justified within the science itself. We must therefore point out at the start that we are presupposing that the division must be connected with the Notion, or rather must be implicit in the Notion itself. The Notion is not indeterminate but is in its own self determinate; the division, however, expresses this its determinateness as developed; it is the judgment of the Notion, not a judgment about some object or other picked up from outside, but the judging, that is, determining, of the Notion in its own self.
+Still, the attempt can be made to promote an understanding beforehand of what is requisite for such a division, even though in doing so we must have recourse to an application of the method which will only be fully understood and justified within the science itself. 
+
+We must therefore point out at the start that we are presupposing that the division must be connected with the Notion, or rather must be implicit in the Notion itself. The Notion is not indeterminate but is in its own self determinate; the division, however, expresses this its determinateness as developed; it is the judgment of the Notion, not a judgment about some object or other picked up from outside, but the judging, that is, determining, of the Notion in its own self.
 
 § 76
 
@@ -164,7 +170,7 @@ Recently Kant has opposed to what has usually been called logic another, namely,
 
 His chief thought is to vindicate the categories for self-consciousness as the subjective ego. By virtue of this determination the point of view remains confined within consciousness and its opposition; and besides the empirical element of feeling and intuition it has something else left over which is not posited and determined by thinking self-consciousness, a thing-in-itself, something alien and external to thought — although it is easy to perceive that such an abstraction as the thing-in-itself is itself only a product of thought, and of merely abstractive thought at that. If other disciples of Kant have expressed themselves concerning the determining of the object by the ego in this way, that the objectifying of the ego is to be regarded as an original and necessary act of consciousness, so that in this original act there is not yet the idea of the ego itself — which would be a consciousness of that consciousness or even an objectifying of it — then this objectifying act, in its freedom from the opposition of consciousness, is nearer to what may be taken simply for thought as such. [2]
 
-Footnote ®
+Footnote
 
 1. I would mention that in this work I frequently refer to the Kantian philosophy (which to many may seem superfluous) because whatever may be said, both in this work and elsewhere, about the precise character of this philosophy and about particular parts of its exposition, it constitutes the base and the starting point of recent German philosophy and that its merit remains unaffected by whatever faults may be found in it. The reason too why reference must often be made to it in the objective logic is that it enters into detailed consideration of important, more specific aspects of logic, whereas later philosophical works have paid little attention to these and in some instances have only displayed a crude — not unavenged — contempt for them. The philosophising which is most widespread among us does not go beyond the Kantian results, that Reason cannot acquire knowledge of any true content or subject matter and in regard to absolute truth must be directed to faith. But what with Kant is a result, forms the immediate starting-point in this philosophising, so that the preceding exposition from which that result issued and which is a philosophical cognition, is cut away beforehand. The Kantian philosophy thus serves as a cushion for intellectual indolence which soothes itself with the conviction that everything is already proved and settled. Consequently for genuine knowledge, for a specific content of thought which is not to be found in such barren and arid complacency, one must turn to that preceding exposition.
 
@@ -176,24 +182,36 @@ But this act should no longer be called consciousness; consciousness embraces wi
 
 § 84
 
-Now because the interest of the Kantian philosophy was directed to the so-called transcendental aspect of the categories, the treatment of the categories themselves yielded a blank result; what they are in themselves without the abstract relation to the ego common to all, what is their specific nature relatively to each other and their relationship to each other, this has not been made an object of consideration. Hence this philosophy has not contributed in the slightest to a knowledge of their nature; what alone is of interest in this connection occurs in the Critique of Ideas. But if philosophy was to make any real progress, it was necessary that the interest of thought should be drawn to a consideration of the formal side, to a consideration of the ego, of consciousness as such, i.e. of the abstract relation of a subjective knowing to an object, so that in this way the cognition of the infinite form, that is, of the Notion, would be introduced. But in order that this cognition may be reached, that form has still to be relieved of the finite determinateness in which it is ego, or consciousness. The form, when thus thought out into its purity, will have within itself the capacity to determine itself, that is, to give itself a content, and that a necessarily explicated content in the form of a system of determinations of thought.
+Now because the interest of the Kantian philosophy was directed to the so-called transcendental aspect of the categories, the treatment of the categories themselves yielded a blank result; what they are in themselves without the abstract relation to the ego common to all, what is their specific nature relatively to each other and their relationship to each other, this has not been made an object of consideration. 
+
+Hence this philosophy has not contributed in the slightest to a knowledge of their nature; what alone is of interest in this connection occurs in the Critique of Ideas. But if philosophy was to make any real progress, it was necessary that the interest of thought should be drawn to a consideration of the formal side, to a consideration of the ego, of consciousness as such, i.e. of the abstract relation of a subjective knowing to an object, so that in this way the cognition of the infinite form, that is, of the Notion, would be introduced. 
+
+But in order that this cognition may be reached, that form has still to be relieved of the finite determinateness in which it is ego, or consciousness. The form, when thus thought out into its purity, will have within itself the capacity to determine itself, that is, to give itself a content, and that a necessarily explicated content in the form of a system of determinations of thought.
 
 § 85
 
-The objective logic, then, takes the place rather of the former metaphysics which was intended to be the scientific construction of the world in terms of thoughts alone. If we have regard to the final shape of this science, then it is first and immediately ontology whose place is taken by objective logic — that part of this metaphysics which was supposed to investigate the nature of ens in general; ens comprises both being and essence, a distinction for which the German language has fortunately preserved different terms. But further, objective logic also comprises the rest of metaphysics in so far as this attempted to comprehend with the forms of pure thought particular substrata taken primarily from figurate conception, namely the soul, the world and God; and the determinations of thought constituted what was essential in the mode of consideration. Logic, however, considers these forms free from those substrata, from the subjects of figurate conception; it considers them, their nature and worth, in their own proper character. Former metaphysics omitted to do this and consequently incurred the just reproach of having employed these forms uncritically without a preliminary investigation as to whether and how they were capable of being determinations of the thing-in-itself, to use the Kantian expression — or rather of the Reasonable. Objective logic is therefore the genuine critique of them — a critique which does not consider them as contrasted under the abstract forms of the a priori and the a posteriori, but considers the determinations themselves according to their specific content.
+The objective logic, then, takes the place rather of the former metaphysics which was intended to be the scientific construction of the world in terms of thoughts alone. 
+
+If we have regard to the final shape of this science, then it is first and immediately ontology whose place is taken by objective logic — that part of this metaphysics which was supposed to investigate the nature of ens in general; ens comprises both being and essence, a distinction for which the German language has fortunately preserved different terms. 
+
+But further, objective logic also comprises the rest of metaphysics in so far as this attempted to comprehend with the forms of pure thought particular substrata taken primarily from figurate conception, namely the soul, the world and God; and the determinations of thought constituted what was essential in the mode of consideration. 
+
+Logic, however, considers these forms free from those substrata, from the subjects of figurate conception; it considers them, their nature and worth, in their own proper character.
+
+Former metaphysics omitted to do this and consequently incurred the just reproach of having employed these forms uncritically without a preliminary investigation as to whether and how they were capable of being determinations of the thing-in-itself, to use the Kantian expression — or rather of the Reasonable. 
+
+Objective logic is therefore the genuine critique of them — a critique which does not consider them as contrasted under the abstract forms of the a priori and the a posteriori, but considers the determinations themselves according to their specific content.
 
 § 86
 
-The subjective logic is the logic of the Notion, of essence which has sublated its relation to being or its illusory being [Schein], and in its determination is no longer external but is subjective free, self-subsistent and self-determining, or rather it is the subject itself. Since subjectivity brings with it the misconception of contingency and caprice and, in general, characteristics belonging to the form of consciousness, no particular importance is to be attached here to the distinction of subjective and objective; these determinations will be more precisely developed later on in the logic itself.
+The subjective logic is the logic of the Notion, of essence which has sublated its relation to being or its illusory being [Schein], and in its determination is no longer external but is subjective free, self-subsistent and self-determining, or rather it is the subject itself. 
+
+Since subjectivity brings with it the misconception of contingency and caprice and, in general, characteristics belonging to the form of consciousness, no particular importance is to be attached here to the distinction of subjective and objective; these determinations will be more precisely developed later on in the logic itself.
 
 § 87
 
-Logic thus falls generally into objective and subjective logic, but more specifically it has three parts:
+Logic thus falls generally into objective and subjective logic, but more specifically into:
 
-I   The logic of being
-II  The logic of essence, and
-III The logic of the Notion
-
-With What must Science Begin? - Next Section
-
-Hegel-by-HyperText Home Page @ marxists.org
+1. The logic of being
+2. The logic of essence
+3. The logic of the Notion
