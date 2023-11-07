@@ -2,7 +2,7 @@
 title:  The Eternal Source of Energy of the Universe, Origin and Intensity of Cosmic Rays
 weight: 100
 contributors: ['Tesla']
-image:  "/covers/energy.jpg"
+image:  "/photos/physics/quasar.jpg"
 description: "In the past, I considered the production of electricity by burning coal in a battery as the greatest achievement toward the advancing civilization"
 ---
 
@@ -95,37 +95,55 @@ But if these suns emit rays immensely more penetrative than those of light they 
 If light and heat rays would be as penetrative as the cosmic, so fierce would be the perpetual glare and so scorching the heat that life on this and other planets could not exist.
 
  
-Rays in every respect similar to the cosmic are produced by my vacuum tubes when operated at pressures of ten millions of volts or more, but even if it were not confirmed by experiment, the theory I advanced in 1897 would afford the simplest and most probable explanation of the phenomena. Is not the universe with its infinite and impenetrable boundary a perfect vacuum tube of dimensions and power inconceivable? 
+Rays in every respect similar to the cosmic are produced by my vacuum tubes when operated at pressures of 10,000,000 volts or more. But even if it were not confirmed by experiment, my 1897 theory is the simplest and most probable explanation of the phenomena. 
 
-Are not its fiery suns electrodes at temperatures far beyond any we can apply in the puny and crude contrivances of our making? Is it not a fact that the suns and stars are under immense electrical pressures transcending any that man can ever produce and is this not equally true of the vacuum in celestial space? 
+**The universe, with its infinite and impenetrable boundary, is a perfect vacuum tube of dimensions and power.**
 
-Finally, can there be any doubt that cosmic dust and meteoric matter present an infinitude of targets acting as reflectors and transformers of energy? If under ideal working conditions, and with apparatus on a scale beyond the grasp of the human mind, rays of surpassing intensity and penetrative power would not be generated, then, indeed, nature has made an unique exception to its laws.
+Its fiery suns are electrodes at extrene temperatures.
 
-It has been suggested that the cosmic rays are electrons or that they are the result of creation of new matter in the interstellar deserts. 
+The suns and stars are under immense electrical pressures transcending any that man can ever produce. This is equally true of the vacuum in celestial space. 
 
-These views are too fantastic to be even for a moment seriously considered. 
+Cosmic dust and meteoric matter present an infinitude of targets act as reflectors and transformers of energy.
 
-They are natural outcroppings of this age of deep but unrational thinking, of impossible theories, the latest of which might, perhaps, deal with the curvature of time. What this world of ours would be if time were curved:
+If under ideal working conditions, and with apparatus on a scale beyond the grasp of the human mind, rays of surpassing intensity and penetrative power would not be generated, then nature has made a unique exception to its laws.
 
-As there exists considerable doubt in regard to the manner in which the intensity of the cosmic rays varies with altitude the following simple formula derived from my early experimental data may be welcome to those who are interested in the subject.
+The cosmic rays are electrons or that they are the result of creation of new matter in the interstellar deserts. 
+
+They are natural outcroppings of this age of deep but unrational thinking, of impossible theories, the latest of which might, perhaps, deal with the curvature of time. 
+
+What would our world be if time were curved?
+
+People doubt how the intensity of the cosmic rays varies with altitude.
+
+To them, I offer the following simple formula derived from my early experimental data:
 
 ```
 I = (W+P) / (W+p)
 ```
- 
-In this expression W is the weight in kilograms of a column of lead of one square centimeter cross section and one hundred and eighty centimeters length, P the normal pressure of the atmosphere at sea level in kilograms per square centimeter, p the atmospheric pressure at the altitude under consideration and in like measure and I the intensity of the radiation in terms of that at sea level which is taken as unit. Substituting the actual values for W and P, respectively 1.9809 and 1.0133 kilograms, the formula reduces to
 
+`W` is the kilogram weight of a column of lead of 1 square centimeter wide and 180 centimeters long.
+
+`P` is the normal pressure of the atmosphere at sea level in kilograms per square centimeter.
+
+`p` is the atmospheric pressure at the altitude under consideration.
+
+`I` is the intensity of the radiation in terms of that at sea level taken as unit. 
+
+Substituting the actual values for `W` and `P`, respectively 1.9809 and 1.0133 kilograms, the formula reduces to:
  
 ```
 I = 2.99421 / (1.9809 + p)
 ```
  
-Obviously, at sea level p = P hence the intensity is equal to 1, this being the unit of measurement. On the other hand, at the extreme limit of the atmosphere p = 0 and the intensity I = 1.5115.
+Obviously, at sea level `p = P`. Hence the intensity is equal to 1, this being the unit of measurement. 
 
+On the other hand, at the extreme limit of the atmosphere p = 0 and the intensity I = 1.5115.
 
 The maximum increase with height is, consequently, a little over 51%. 
 
-This formula, based on my finding that the absorption is proportionate to the density of the medium whatever it be, is fairly accurate. Other investigators might find different values for W but they will undoubtedly observe the same character of dependence, namely, that the intensity increases proportionately to the height for a few kilometers and then at a gradually lessening rate.
+This formula, based on my finding that the absorption is proportionate to the density of the medium whatever it be, is fairly accurate. 
+
+Other investigators might find different values for W but they will undoubtedly observe the same character of dependence, namely, that the intensity increases proportionately to the height for a few kilometers and then at a gradually lessening rate.
 
 
 * Tesliana, spec. edition, Belgrade, YU, 1995., p. 56 - 59.
