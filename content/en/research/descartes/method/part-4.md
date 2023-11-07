@@ -2,7 +2,7 @@
 heading: Part 4
 title: I Think Therefore I Am
 weight: 14
-description: Rene Descartes 1635
+description: "I realized that I think, therefore I exist (cogito ergo sum). This was so certain that it could not be doubted."
 image: "/covers/method.png"
 contributors: ['Descartes']
 icon: /icons/descartes.png
@@ -107,21 +107,36 @@ This consent is based on the fact that they are clearly conceived in accordance 
 
 In the next place, I perceived that there was nothing at all in these demonstrations which could assure me of the existence of their object.
 
-Thus, for example, supposing a triangle to be given, I distinctly perceived that its 3 angles were necessarily equal to two right angles. But I did not on that account perceive anything which could assure me that any triangle existed: while, on the contrary, recurring to the examination of the idea of a Perfect Being, I found that the existence of the Being was comprised in the idea in the same way that the equality of its three angles to two right angles is comprised in the idea of a triangle, or as in the idea of a sphere, the equidistance of all points on its surface from the centre, or even still more clearly; and that consequently it is at least as certain that God, who is this Perfect Being, is, or exists, as any demonstration of geometry can be.
+Thus, I distinctly think of a triangle has its 3 angles being equal to 2 right angles. 
+- But it does not mean that any triangle existed in reality. 
 
-But the reason which leads many to persuade themselves that there is a difficulty in knowing this truth, and even also in knowing what their mind really is, is that they never raise their thoughts above sensible objects, and are so accustomed to consider nothing except by way of imagination, which is a mode of thinking limited to material objects, that all that is not imaginable seems to them not intelligible. 
+On the contrary, if my basis is the existence of the idea of 3 angles to 2 right angles, then it follows that the idea of a triangle exists.
 
-The truth of this is sufficiently manifest from the single circumstance, that the philosophers of the schools accept as a maxim that there is nothing in the understanding which was not previously in the senses, in which however it is certain that the ideas of God and of the soul have never been; and it appears to me that they who make use of their imagination to comprehend these ideas do exactly the same thing as if, in order to hear sounds or smell odours, they strove to avail themselves of their eyes;
+If points that are equidistant from the center exists, then it follows that a sphere exists. 
 
-unless indeed that there is this difference, that the sense of sight does not afford us an inferior assurance to those of smell or hearing; in place of which, neither our imagination nor our senses can give us assurance of anything unless our understanding intervene.
+I found existing things in my thoughts. If follows that a Perfect Being that has all these thoughts exists. 
 
-Finally, people who still doubt the <!-- if there be still persons who are not sufficiently persuaded of the --> existence of God and the soul should <!-- , by the reasons I have adduced, I am desirous that they should --> know that all my other propositions. God and the soul exist just as <!-- , of the truth of which they deem themselves perhaps more assured, as that --> we have a body.<!-- , and that there exist stars and an earth, and such like, are less certain; --> 
+Consequently, God, this Perfect Being, exists just as the shapes of geometry exist.
 
-for, although we have a moral assurance of these things, which is so strong that there is an appearance of extravagance in doubting of their existence, yet at the same time no-one, unless his intellect is impaired, can deny, when the question relates to a metaphysical certitude, that there is sufficient reason to exclude entire assurance, in the observation that when asleep we can in the same way imagine ourselves possessed of another body and that we see other stars and another earth, when there is nothing of the kind. 
+People have trouble realizing this because they never raise their thoughts above sensible objects. They are so used to consider only the ideas from material objects, that all that is not materially imaginable seems to them not intelligible. 
+
+Philosophers of the schools accept as a maxim that all our understanding comes from the senses and that the ideas of God and of the soul have never been through our senses.
+
+Thus, those who perceive God and the soul through the material senses are like people who use their eyes to hear sounds or smell odours.
+
+Finally, people who still doubt the existence of God and the soul should learn all my other propositions. 
+
+God and the soul exist just as we have a body and just as the stars and the earth exist.
+
+We have a strong moral assurance of these things. 
+
+Yet at the same time no-one, unless his intellect is impaired, can deny, when the question relates to a metaphysical certitude, that there is sufficient reason to exclude entire assurance, in the observation that when asleep we can in the same way imagine ourselves possessed of another body and that we see other stars and another earth, when there is nothing of the kind. 
 
 For how do we know that the thoughts which occur in dreaming are false rather than those other which we experience when awake, since the former are often not less vivid and distinct than the latter? 
 
-And though men of the highest genius study this question as long as they please, I do not believe that they will be able to give any reason which can be sufficient to remove this doubt, unless they presuppose the existence of God. For, in the first place even the principle which I have already taken as a rule, viz., that all the things which we clearly and distinctly conceive are true, is certain only because God is or exists and because he is a Perfect Being, and because all that we possess is derived from him= whence it follows that our ideas or notions, which to the extent of their clearness and distinctness are real, and proceed from God, must to that extent be true. 
+Genius men study this question as long as they want. But I do not believe that they will be able to give any reason which can remove this doubt, unless they presuppose the existence of God.
+
+For, in the first place even the principle which I have already taken as a rule, viz., that all the things which we clearly and distinctly conceive are true, is certain only because God is or exists and because he is a Perfect Being, and because all that we possess is derived from him= whence it follows that our ideas or notions, which to the extent of their clearness and distinctness are real, and proceed from God, must to that extent be true. 
 
 Accordingly, whereas we not infrequently have ideas or notions in which some falsity is contained, this can only be the case with such as are to some extent confused and obscure, and in this proceed from nothing (participate of negation), that is, exist in us thus confused because we are not wholly perfect.
 
@@ -131,7 +146,7 @@ But after the knowledge of God and of the soul has rendered us certain of this r
 
 For if it happened that an individual, even when asleep, had some very distinct idea, as, for example, if a geometer should discover some new demonstration, the circumstance of his being asleep would not militate against its truth; and as for the most ordinary error of our dreams, which consists in their representing to us various objects in the same way as our external senses, this is not prejudicial, since it leads us very properly to suspect the truth of the ideas of sense; 
 
-for we are not infrequently deceived in the same manner when awake; as when persons in the jaundice see all objects yellow, or when the stars or bodies at a great distance appear to us much smaller than they are. For, in fine, whether awake or asleep, we ought never to allow ourselves to be persuaded of the truth of anything unless on the evidence of our reason. 
+For we are not infrequently deceived in the same manner when awake; as when persons in the jaundice see all objects yellow, or when the stars or bodies at a great distance appear to us much smaller than they are. For, in fine, whether awake or asleep, we ought never to allow ourselves to be persuaded of the truth of anything unless on the evidence of our reason. 
 
 I say of our reason, and not of our imagination or of our senses= thus, for example, although we very clearly see the sun, we ought not therefore to determine that it is only of the size which our sense of sight presents.
 
