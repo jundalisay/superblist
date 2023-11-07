@@ -1,12 +1,11 @@
 ---
 heading: "Chapter 1"
 title: "Fourth Law of Value: Natural Price"
-# date: 2016
 weight: 14
 # dateorig: Originally written in 2016
 image: /graphics/econ/law4.jpg
-description: "The Fourth Law of Value states that economc balance must be maintained to allow natural prices and prevent the economy from being too unequal or unsustainable"
-author: Dalisay
+description: "The Fourth Law of Value states that economic balance must be maintained to allow natural prices"
+author: Juan
 aliases:
   /social/economics/principles/fourth-law
 ---
