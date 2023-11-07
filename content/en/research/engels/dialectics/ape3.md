@@ -1,10 +1,10 @@
 ---
-title: The planned action of Animals
+title: The Planned action of Animals
 heading: Part 3
 # Dialectics of Nature
 # date: 2022-01-31
 weight: 6
-description: Dialectics of Nature
+description: "Our domestic animals are more highly developed thanks to their association with man. They can act as cunning as our children"
 author: "Frederick Engels"
 image: "/covers/nature.jpg"
 icon: /icons/engels.png
@@ -43,7 +43,7 @@ When the Italians of the Alps used up the pine forests on the southern slopes, s
 
 Thus at every step, we are reminded that we by no means rule over nature like a conqueror over a foreign people, like someone standing outside nature – but that we, with flesh, blood and brain, belong to nature, and exist in its midst, and that all our mastery of it consists in the fact that we have the advantage over all other creatures of being able to learn its laws and apply them correctly.
 
-And, in fact, with every day that passes we are acquiring a better understanding of these laws and getting to perceive both the more immediate and the more remote consequences of our interference with the traditional course of nature. In particular, after the mighty advances made by the natural sciences in the present century, we are more than ever in a position to realise, and hence to control, also the more remote natural consequences of at least our day-to-day production activities. 
+With every day that passes we are acquiring a better understanding of these laws and getting to perceive both the more immediate and the more remote consequences of our interference with the traditional course of nature. In particular, after the mighty advances made by the natural sciences in the present century, we are more than ever in a position to realise, and hence to control, also the more remote natural consequences of at least our day-to-day production activities. 
 
 But the more this progresses the more will men not only feel but also know their oneness with nature, and the more impossible will become the senseless and unnatural idea of a contrast between mind and matter, man and nature, soul and body, such as arose after the decline of classical antiquity in Europe and obtained its highest elaboration in Christianity.
 
@@ -53,9 +53,14 @@ But what is scrofula compared to the effects which the reduction of the workers 
 
 When the Arabs learned to distil spirits, it never entered their heads that by so doing they were creating one of the chief weapons for the annihilation of the aborigines of the then still undiscovered American continent. 
 
-When afterwards Columbus discovered this America, he did not know that by doing so he was giving a new lease of life to slavery, which in Europe had long ago been done away with, and laying the basis for the Negro slave trade. The men who in the seventeenth and eighteenth centuries laboured to create the steam-engine had no idea that they were preparing the instrument which more than any other was to revolutionise social relations throughout the world. 
+When Columbus discovered America, he did not know that by doing so he was reviving slavery, which in Europe had long ago been removed. He laid the basis for the Negro slave trade. 
 
-Especially in Europe, by concentrating wealth in the hands of a minority and dispossessing the huge majority, this instrument was destined at first to give social and political domination to the bourgeoisie, but later, to give rise to a class struggle between bourgeoisie and proletariat which can end only in the overthrow of the bourgeoisie and the abolition of all class antagonisms. But in this sphere too, by long and often cruel experience and by collecting and analysing historical material, we are gradually learning to get a clear view of the indirect, more remote social effects of our production activity, and so are afforded an opportunity to control and regulate these effects as well.
+In the 17th and 18th centuries, men laboured to create the steam-engine. It concentrated wealth in the hands of a minority and dispossessed the huge majority.
+
+The steam engine gave social and political domination to the bourgeoisie, Later, it gave rise to a class struggle between bourgeoisie and proletariat. 
+- This struggle can end only in the overthrow of the bourgeoisie and the abolition of all class antagonisms.
+
+By collecting and analysing historical material, we get a clear view of the indirect, more remote social effects of our production activity. This gives us an opportunity to control and regulate these effects as well.
 
 This regulation, however, requires something more than mere knowledge. It requires a complete revolution in our hitherto existing mode of production, and simultaneously a revolution in our whole contemporary social order.
 
