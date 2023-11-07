@@ -1,29 +1,22 @@
 ---
 heading: "Chapter 6"
-title: "Targetted Development"
+title: "Targetted Economic Development"
 date: 2015-08-21
 # date: 2022-01-03
 weight: 28
 image: /photos/city.jpg
-description: "The same maxims given by Adam Smith on economic development which he observed from the Roman times up to his time in 1776 will still apply to humans from 1777 onwards until the human homo-sapiens change into homo-futurus"
-author: Dalisay  
+description: "The same maxims given by Adam Smith on economic development still apply today"
+author: Juan
 ---
 
 
 
 ## Natural Economic Development
 
-<!-- ---
-title: "Economic Development From Zero via Adam Smith"
-subtitle: "How to Save a Country from a Destroyed State"
-image: "https://socioecons.files.wordpress.com/2015/08/chocolate-child-slavery-ivory-coast.jpg"
-description: "Adam Smith explained how to help societies rise from poverty to wealth through natural economic development"
- -->
 
 <!-- {{< me date="April 2021" >}}
 This post was made in 2015 because the model predicted a huge crisis starting in 2019 that could eventually collapse some societies.
 {{< /me >}} -->
-
 
 The main advantage of Supereconomics over Neoclassical Economics is that it is based on the dynamics of the human mind as explained by David Hume. This was later applied by Adam Smith into his *Theory of Moral Sentiments* and *The Wealth of Nations*.
 
@@ -39,7 +32,7 @@ Thus, the same maxims given by Smith on economic development which he observed f
 Currently, the only maxim of Smith on development accepted by modern economists is comparative advantage. His other maxims (mostly in Book 3) have been conveniently disregarded because it goes against the commercial system.
 
 
-### Maxim on The Natural Sequence of Development
+### 1. Maxim on The Natural Sequence of Development
 
 According to Smith, the natural and sustainable progress of economies is from agriculture or extraction first, then processing, and lastly, trade. In Smith's system, the countries where natural resources come from should be the ones to process them as well. 
 
@@ -54,7 +47,7 @@ every prudent master of a family never attempts to make at home what it will cos
 {{< /q >}}
 
 
-### Maxim on Being Backward versus Being Advanced
+### 2. Maxim on Being Backward versus Being Advanced
 
 Adam Smith classified the mentality of societies as either savage, barbaric, or advanced. He classified their economic state as either backward, stagnating, or advancing. 
 
@@ -84,7 +77,7 @@ Generally,the situation of a country, andits improvement in agriculture and trad
 
 
 
-### Maxim on The Use Mercantile Capital to Build Infrastructure
+### 3. Maxim on Using Transitory Mercantile Capital to Build Infrastructure
 
 <!--  to build infrastructure and human capital for sustainable economic development. -->
 
