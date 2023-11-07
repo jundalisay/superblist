@@ -1,11 +1,11 @@
 ---
-heading: "Chapter 3"
+heading: "Chapter 4"
 title: "Spatial Relativity and Gravitational Relativity"
 # date: 2020-01-31
 date: 2021-12-30
 weight: 12
 image: /graphics/gravrelm.png
-description: "This post will explain Spatial Relativity and Gravitational Relativity that deals with the movement of quanta of spacetime (qosts) as galaxies and planets and their subtypes."
+description: "Spatial Relativity and Gravitational Relativity deals with the movement of quanta of spacetime (qosts)"
 icon: /icons/spmat.png
 ---
 
