@@ -3,7 +3,7 @@ title: The Law of Conservation of Energy
 heading: Part 5
 # date: 2022-01-27
 weight: 10
-description: Dialectics of Nature
+description: " Helmholtz's law of the conservation of force is opposite that of the law of conservation of energy."
 image: "/covers/nature.jpg"
 author: "Frederick Engels"
 icon: /icons/engels.png
@@ -12,6 +12,8 @@ icon: /icons/engels.png
 
 <!-- Engels' Dialectics of Nature -->
 
+
+![Baseball](/photos/physics/baseball.jpg)
 
 Motion in the most general sense, conceived as the mode of existence, the inherent attribute of matter, comprehends all changes and processes occurring in the universe, from mere change of place right up to thinking. 
 
