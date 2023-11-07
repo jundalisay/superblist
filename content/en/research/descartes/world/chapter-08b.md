@@ -1,9 +1,9 @@
 ---
 heading: "Chapter 8b"
-title: "The Birth of Aethereal Fire"
+title: "The Birth of Electromgnetism from Spacetime"
 weight: 19
 image: "/covers/world.jpg"
-description: "The matter that came out from around the parts of the aethereal air were broken and had the small points of their angles dulled from rounding off. These necessarily had to go faster than the aethereal air"
+description: "Parts of [spacetime] the air-aether broke off and dulled, making them go faster than the air-aether"
 contributors: ['Rene Descartes']
 icon: "/icons/descartes.png"
 ---
