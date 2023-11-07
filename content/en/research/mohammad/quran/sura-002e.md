@@ -1,13 +1,14 @@
 ---
 title: "Abraham's Submission to the Lord"
-heading: "Sura 2d "
+heading: "Sura 2d"
 weight: 12
+description: "Allah makes Abraham the leader of humanity after testing him."
 image: "/covers/quran.jpg"
 description: "Allah talks to Abraham."
 ---
 
 
-{{< s v="124-12" >}} After the Lord tested Abraham, He said:
+{{< s v="124-126" >}} After the Lord tested Abraham, He said:
 
 {{< l a="Allah" >}}
 I am making you a leader of humanity.
@@ -28,7 +29,6 @@ We commissioned Abraham and Ishmael to sanctify My House for those who:
 - kneel and prostrate.”
 {{< /l >}}
 
-<!-- 126 -->
 {{< r a="Abraham" >}}
 O My Lord, make this a peaceful land, and provide its people with fruits—whoever of them believes in Allah and the Last Day.” 
 {{< /r >}}
@@ -37,7 +37,7 @@ O My Lord, make this a peaceful land, and provide its people with fruits—whoev
 Whoever disbelieves, I will give him a little enjoyment, then I will consign him to the the Fire
 {{< /l >}}
 
-{{< s v="127" >}} Abraham raised the foundations of the House, together with Ishmael.
+{{< s v="127-129" >}} Abraham raised the foundations of the House, together with Ishmael.
 
 {{< r a="Abraham" >}}
 Lord, accept it from us.
