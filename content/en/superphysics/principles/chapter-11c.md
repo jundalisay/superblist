@@ -139,9 +139,20 @@ An example is:
 > Solution: Give real-world examples
 
 
+## An Easy Way to Prevent Errors 
+
+An easy way to prevent errors is to withhold judgement or conclusions until all the relevent information is obtained. This is explained best by Descartes.
+
+{{< q a="Descartes" >}}
+Whenever I do not perceive the truth clearly, I simply suspend judgment in order to avoid error.
+{{< /q >}}
+
+For example, if your spouse or partner does not reply to your messages or answer your calls, do not let your mind jump to a false conclusion that he or she is cheating on you. Instead, calm your feelings down and get more information. 
+
+
 ## How to Counter Sophistry
 
-All of these then imply that all sophistries and fallacies are caused by humans having different feelings.
+All of these then imply that all sophistries and fallacies are caused by humans having different or uncontrolled feelings.
 - “He advocates children’s programs because he loves children.”
 - “Einstein created hidden variables theory because he felt that God shouldn’t play dice with the world.”
 
