@@ -3,7 +3,7 @@ title: The History of European Science
 # date: 2022-02-01
 weight: 12
 image: "/covers/nature.jpg"
-description: Dialectics of Nature
+description: "Natural science declared its independence through revolutionary act as the publication of Copernicus' work"
 author: "Frederick Engels"
 icon: /icons/engels.png
 ---
@@ -109,8 +109,6 @@ Men of the study are the exception – either persons of second or third rank or
 At that time, natural science also developed in the midst of the general revolution and was itself thoroughly revolutionary.
 
 It had to win its right of existence. 
-
- from whom 
 
 Modern philosophy comes from the great Italians. Natural science went side by side with it, providing:
 - its martyrs for the stake
