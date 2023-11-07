@@ -3,10 +3,10 @@ title: "Money Demand and the Ratio of Gold to Silver"
 heading: "Part 3b of Digression 2b"
 weight: 28
 image: "/covers/wn.jpg"
-description: "The consumption of those metals in manufactures is much more rapid and sensible though it may be less than this gradual consumption in coin and plate"
+description: "The consumption of those metals in manufactures is quicker but of smaller volume than its gradual consumption in coin and plate"
 icon: "/avatars/smith.png"
+author: Adam Smith
 ---
-
 
 
 {{< s v="169" >}} The continual consumption of the precious metals is very sensible:
@@ -50,10 +50,15 @@ According to him:
 - The smuggled ones may have been 17 million piastres, at 4s. 6d. the piastre, is £3,825,000
 
 He also wrote of the places where the gold and silver were brought and the quantities of each metal which each place afforded.
+
 The tax of the king of Portugal on gold imports was 20%.
+
 The quantity of gold annually imported from Brazil into Lisbon measured from this tax might be valued at 18 million cruzadoes or 45 million French livres, equal to £2 million.
+
 The amount of smuggled metals is 1/8 more, or £250,000.
+
 The whole amount is £2,250,000.
+
 The whole annual importation of the precious metals into both Spain and Portugal is about £6,075,000.
 
 
