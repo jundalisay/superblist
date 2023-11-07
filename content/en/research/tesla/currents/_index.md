@@ -1,7 +1,6 @@
 ---
-title: "Alternate Currents"
-heading: Enlightened
+title: "Experiment with Alternate Currents"
 description: "Nikola Tesla was a Real Genius"
 image: "/covers/tesla.jpg"
-weight: 110
+weight: 4
 ---
