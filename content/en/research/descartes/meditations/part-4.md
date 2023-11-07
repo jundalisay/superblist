@@ -2,7 +2,7 @@
 title: "Truth and falsehood"
 heading: Part 4
 weight: 14
-description: "None of my ideas of corporeal things is as distinct as my idea of the human mind, considered purely as a thinking thing with no size or shape or other bodily characteristics."
+description: "Whenever I do not perceive the truth clearly, I simply suspend judgment in order to avoid error"
 contributors: ['Descartes']
 image: "/covers/med.png"
 icon: "/icons/descartes.png"
@@ -23,7 +23,9 @@ Previously, I have realized that it is impossible that God would deceive me. <!-
 
 Does this mean that I can never go wrong in my beliefs? 
 
-I make a lot of mistakes, which cannot have come from God. <!-- Well, I know by experience that I am greatly given to errors; but when I focus on God to the exclusion of everything else, I find in him no cause of error or falsity. In looking for the cause of my errors, I am helped by this thought= as well as having a real and positive idea of God (a being who is supremely perfect), I also have what you might call a negative idea of nothingness (that which is furthest from all perfection). --> I realize that I am somewhere in between God and nothingness, or between supreme being and non-being.
+I make a lot of mistakes, which cannot have come from God. <!-- Well, I know by experience that I am greatly given to errors; but when I focus on God to the exclusion of everything else, I find in him no cause of error or falsity.
+
+In looking for the cause of my errors, I am helped by this thought= as well as having a real and positive idea of God (a being who is supremely perfect), I also have what you might call a negative idea of nothingness (that which is furthest from all perfection). --> I realize that I am somewhere in between God and nothingness, or between supreme being and non-being.
 
 Now, the positive reality that I have been given by the supreme being contains nothing that could lead me astray in my beliefs. 
 
