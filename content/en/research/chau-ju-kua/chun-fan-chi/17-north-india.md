@@ -2,7 +2,7 @@
 title: "Northern India: Gujarat and Malwa"
 heading: "Chapter 17"
 weight: 22
-description: "Gujarat's capital has a four-fold wall and rules over 100 cities.Its people are white and clean looking. Both men and women wear double rings hanging down from holes in their ears"
+description: "Gujarat's capital has a four-fold wall and rules over 100 cities"
 image: "/flags/in.png"
 author: "Chau Ju Kua"
 ---
@@ -115,6 +115,7 @@ supra, p. 91, n. 16. -->
 
 
 ## 18. Malwa, Punjab
+
 
 Malwa (Malohua) is next to Gujarat. It has over 60 cities and land routes. 
 
