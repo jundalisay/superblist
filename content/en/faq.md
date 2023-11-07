@@ -4,8 +4,6 @@ description: "FAQs about Superphysics, Socrates-style"
 image: /covers/spblack.jpg
 ---
 
-
-
 ## Basics 
 
 {{< r a="Asker" >}}
@@ -104,6 +102,8 @@ This is similar to the idea that Descartes and Hegel had, despite them using non
 {{< r a="Asker" >}}
 The real-time creation is like the movie "The Matrix", huh?
 {{< /r >}}
+
+{{< youtube OKpHHMi3yZU >}}
 
 {{< l a="Superphysics" >}}
 Yes. It's more commonly known as theories that say that we exist in a simulation. Knowing how this simulation is sustained allows the possibility to tap into that inexhaustible creative or sustaining mechanism. 
