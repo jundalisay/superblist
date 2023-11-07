@@ -25,8 +25,9 @@
 
       <div class="">
           {{ with .Params.contributors }}          
+            by 
             {{- range . }}
-              by {{ . }}
+              {{ . }}
             {{- end }}
           {{- end }}
           {{ with .Params.author }}          
