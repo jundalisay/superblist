@@ -2,7 +2,7 @@
 title: "Material things and the real distinction between mind and body"
 heading: Part 6
 weight: 18
-description: "I perceive them clearly and distinctly as the subject matter of pure mathematics. So I at least know that they could exist, because anything that I perceive in that way could be created by God"
+description: "I perceive them clearly as the subject matter of pure mathematics. So I at least know that they could exist"
 contributors: ['Descartes']
 image: "/covers/med.png"
 icon: "/icons/descartes.png"
