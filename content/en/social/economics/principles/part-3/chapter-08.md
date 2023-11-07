@@ -7,13 +7,9 @@ description: "The Modern Economic Table is our main tool to determine the real p
 contributors: ['Juan']
 weight: 41
 icon: /icons/pantry.png
+aliases:
+  /social/economics/solutions/modern-economic-table/
 ---
-
-
-<!-- ## Why Neoclassical Economics Can Never Arrive at `G` -->
-
-<!-- The focus on population and absolute demand are the two main features of the Supereconomic supply and demand formula that make it different from that of Economics. 
- -->
 
 
 
