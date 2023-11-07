@@ -17,7 +17,9 @@ Current Cycle | Years per Cycle | Social Age
 Negative Thinker  | 12 | 
 
 
-Hamas attacked Israel, as Operation Al-Aqsa Flood, on October 7, 2023. It came as a shock that they could penetrate so easily into Israel and kill so many innocent people. 
+![Israeli Flag](/flags/il.png)
+
+Hamas attacked Israel, in Operation Al-Aqsa Flood, on October 7, 2023. It came as a shock that they could penetrate so easily into Israel and kill so many innocent people. 
 
 It was a huge blow against Israeli ego, and so they respond totally disproportionately by invading Gaza and killing so many Palestinians in revenge. 
 
@@ -60,14 +62,36 @@ But this doesn't work because Palestinian productivity is nowhere close to that 
 
 The best and only real solution is to unify the 2 states into a single state of Israel where both peoples will have equal rights. 
 
+### A Key Solution: A Unified Book
+
+The problem between the Jews and Arabs spring from the opposing ideas that have been programmed to them by their foundational books:
+- The Torah
+- The Quran
+
+These opposing ideas and feelings exist in the metaphysical domain of the abstract mind or soul and obviously have take hostage of the Jewish and Arab souls, to the point that they sacrifice their physical lives for those metaphysical ideas and feelings.
+
+Although the Israel-Palesting conflict manifests as a physical land grab problem, it is first a metaphysical conflict arising from the difficulties of physical desert life. 
+
+Why are their ideas so contrary?
+
+Before the invention of printing, the principles of society were not so well known. Society was glued by arbitrary laws made by strong personalities. For example, the Jews had their own laws in the Torah, just as the Muslims had their own laws in the Quran. 
+
+Laws are just encapsulations of the feelings of the leaders at the time when they were created. So those laws are really the feelings of those leaders. 
+
+Printing allowed people to express their feelings and make policy suggestions. This led to the representative form of lawmaking. 
+
+So the key solution to the conflict is to make a new book that has both the feelings of the Torah and the Quran. We will call it as the "Unified Book". It will have the important principles in both Judaism and Islam such as God, civil law, Judgement Day, etc.  
+
+It will not be a religious book, but rather a moral or philosophical one. 
 
 
 Phase: Year | Policy 
 --- | ---
-Phase 1: 2024 | Sanctions are placed on Israel for crimes against humanity until One State Solution is ratified
-Phase 2: 2050 | Sanctions are lifted. All historical land titles from the records of the Ottoman empire, Britain, and Jordan will be collected. Lands will be given back to descendants of owners as usufruct rights. A lot of clashes will happen at this period.   
-Phase 3: 2060 | Most of the clashes will die down. The Palestinian refugees in Jordan, Lebanon, Syria, Egypt, etc. can gradually return.
-Phase 4: 2070 | Zionism will have a mini-resurgence and cause clashes with the returning refugees. 
+Phase 1: 2024 | Sanctions are placed on Israel for crimes against humanity until One State Solution is ratified. Work on the new Constitution, as well as the Unified Book begins.
+Phase 2: 2036 | The Constitution abd Unified Book are ratified and taught to all. 
+Phase 3: 2048 | Sanctions are lifted. All historical land titles from the records of the Ottoman empire, Britain, and Jordan will be collected. Lands will be given back to descendants of owners as usufruct rights. A lot of clashes will happen at this period.   
+Phase 4: 2060 | Most of the clashes will die down. The Palestinian refugees in Jordan, Lebanon, Syria, Egypt, etc. can gradually return.
+Phase 5: 2072 | Zionism will have a mini-resurgence and cause clashes with the returning refugees. 
 
 
 <!-- The quick ceasefire in 2021 shows Israel transitioning from the Warrior to the Philosopher cycle  -->
