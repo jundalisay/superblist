@@ -1,9 +1,8 @@
 ---
-title: "Socratic FAQ"
-description: "FAQs about Superphysics, Socrates-style"
+title: "スーパーフィジックスに関するよくある質問"
+description: "ソクラテス風のFAQ。スーパーフィジックスとその目標に関するFAQ。"
 image: /covers/spblack.jpg
 ---
-
 
 
 ## Basics 
