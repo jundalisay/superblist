@@ -3,7 +3,7 @@ title: "The Idea Of Time In Physics"
 heading: "Section 8"
 weight: 16
 # date: 2022-04-16
-description: "To keep both the constancy of light and relativity, Einstein applies the changes onto spacetime itself, as an out-of-the-box thinking that uses light as the judge"
+description: "Einstein uses light as the judge for spacetime itself, instead of spacetime judging light."
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
 author: Albert Einstein
@@ -61,9 +61,9 @@ flashes travels along the length A ~T M with the same velocity as along the leng
 
 <!-- After further consideration you cast a somewhat disdainful glance at me — and rightly so — and you declare=  “I maintain my previous definition nevertheless, because in reality it  -->
 
-{{< color color="red" >}}
+{{< c v="red" >}}
 <b>I answer that this simultaneity of time is only used for us to make empirical decisions.</b>  <!-- There is only one demand to be made of the definition of , namely, that in every real case it must supply us with an empirical decision as to whether or not the conception that has to be defined is fulfilled. That my definition satisfies this demand is indisputable.  -->  Light takes the same time to get from `A` to `M` and `B` to `M`. This is has nothing to do with the physical nature of light. It is something that I use to define simultaneity.
-{{< /color >}}
+{{< /c >}}
 
 ![Einstein Conman](/icons/einbla.png)
 
