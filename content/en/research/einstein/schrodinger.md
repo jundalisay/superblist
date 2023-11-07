@@ -1,35 +1,62 @@
 ---
-title: "Schrodinger"
-description: "The recent work by E. Fermi and L. Szilard leads me to expect that uranium may be turned into a new and important source of energy in the immediate future."
+title: "Does Schrödinger’s Wave Mechanics Completely Determine a System's Motion, or Only Statistically?"
+description: "The recent work by E. Fermi and L. Szilard leads me to expect that uranium may be turned into a new and important source of energy"
 image: "/covers/einstein.jpg"
 weight: 41
+author: Albert Einstein
 ---
 
-“Does Schrödinger’s Wave Mechanics Completely Determine the Motion of a System, or Only Statistically?”[1] [Berlin, 5 May 1927][2] 
+Berlin, 5 May 1927
 
-It is known that currently the opinion prevails that a complete temporal-spatial description of the motion of a mechanical system according to quantum mechanics does not exist. 
+The opinion prevails that a complete temporal-spatial description of the motion of a mechanical system according to quantum mechanics does not exist. 
 
-It should supposedly make no sense, for instance, to specify the instantaneous configuration and the instantaneous velocities of an atom’s electrons.[3] In contrast, it will be shown in the following that Schrödinger’s wave mechanics does suggest unambiguous assignment of the system’s motions to any solution to the wave equation. 
+It does not make sense to specify the instantaneous configuration and the instantaneous velocities of an atom’s electrons.
 
-Whether these assignments do justice to the facts can then be investigated by the computation of special cases. Let ψ be a solution to a Schrödinger equation belonging to a given potential en- ergy function Φ … (1) ¢If a system with just one degree of freedom is involved, then ψ defines at every point of the trajectory the kineti² If ψ is given, then by (1), is defined at each configuration point, i.e., the ki- netic energy L. 
+In contrast, Schrödinger’s wave mechanics suggests unambiguous assignment of the system’s motions to any solution to the wave equation. 
 
-If a system of just one degree of freedom is involved, then L defines the velocity only ambiguously. The motion is fully defined if the condition is added that the velocity should change only continuously. 
+Do these assignments do justice?
+
+Let `ψ` be a solution to a Schrödinger equation belonging to a given potential energy function Φ … (1) 
+
+If a system with just one degree of freedom is involved, then `ψ` defines at every point of the trajectory the kinetic.
+
+If `ψ` is given, then by (1), is defined at each configuration point, i.e., the kinetic energy `L`. 
+
+If a system of just one degree of freedom is involved, then `L` defines the velocity only ambiguously. The motion is fully defined if the condition is added that the velocity should change only continuously. 
 
 For systems with several degrees of freedom, this method fails, because the direction of the motion is not known. However, the following consideration leads to the goal. 
 
-We assume that it is possible to assign unambiguously different directions to function ψ at each point of the n-dimensional configuration space n, and to decom- pose the kinetic energy into n summands, each of which is unambiguously assigned to one of those directions. 
+We assume that it is possible to assign unambiguously different directions to function `ψ` at each point of the n-dimensional configuration space `n`, and to decompose the kinetic energy into `n` summands, each of which is unambiguously assigned to one of those directions. 
 
 One could then also assign to each of these directions a velocity in that direction corresponding to that summand. The resultant of all these velocities would then be the system’s velocity vector in configuration space. 
 
-Now I would like to follow this thought through. 
+The symbol in (1), according to Schrödinger, refers to a metric of the configuration space, which is characterized by 
 
-The symbol in (1), according to Schrödinger, refers to a metric of the con- figuration space, which is characterized[4] by . … (2) Then Δψ 8π2- h2 --------( E Φ)ψ – + 0. = E Φ – Δψ 2L gμνqμqν · · ds2 dt2 ------- - = 
+```
+. … (2)
+```
 
+Then
 
+```
+Δψ 8π2- h2 --------( E Φ)ψ – + 0. = E Φ – Δψ 2L gμνqμqν · · ds2 dt2 ------- - =  (3)
+```
 
-… (3) holds, where signifies the second covariant spatial differential quotient of ψ in configuration space, . … (3a) We want to denote as the “tensor of the ψ-curvature,” as the scalar of this tensor, as the “scalar of the ψ-curvature.”[5] 
+holds, where signifies the second covariant spatial differential quotient of ψ in configuration space,
 
-Our first task is then to assign unambiguously n directions to the tensor of the ψ-curvature. If is a unit vector, which accordingly satisfies the equation , … (4) then this direction vector together with defines the scalar . 
+```
+. … (3a) 
+```
+
+We want to denote as the “tensor of the ψ-curvature,” as the scalar of this tensor, as the “scalar of the ψ-curvature.”
+
+Our first task is then to assign unambiguously n directions to the tensor of the `ψ`-curvature. If is a unit vector, which accordingly satisfies the equation
+
+```
+… (4)
+```
+
+then this direction vector together with defines the scalar. 
 
 We ask about the directions for which becomes an extremum. Lagrange’s method produces for this the conditions[6] . … (5) 
 
@@ -78,13 +105,14 @@ Mr. Bothe[7] has meanwhile calculated the example of an anisotropic two-dimensio
 
 Stimulated by this, I found out that this schema does not prop- erly take into account one general condition that must be set for a general law of motion of the systems. 
 
-Specifically, a system Σ is considered, which consists of two energetically mutually independent partial systems and this means that the potential energy as well as the kinetic energy are composed additively of two parts, the first of which contains only quantities with reference to the second, only quantities with ref- erence to Then, as is known, , where depends only on the coordinates of depends only on the coordi- nates of In this case it must be required that the motions of the total system be combinations of possible motions of the partial systems.[8] 
+Specifically, a system Σ is considered, which consists of two energetically mutually independent partial systems and this means that the potential energy as well as the kinetic energy are composed additively of two parts, the first of which contains only quantities with reference to the second, only quantities with reference to Then, as is known, , where depends only on the coordinates of depends only on the coordi- nates of In this case it must be required that the motions of the total system be combinations of possible motions of the partial systems.[8] 
 
 The indicated schema does not correspond to this condition. Namely, let μ be an index that belongs to one of the coordinates of ν be an index belonging to a coordinate of Then does not vanish. This is consequently connected (comp. 5a) to that the of Σ do not agree with the of and provided each of these systems is subjected to observation as an isolated system. 
 
-Mr. Grommer[9] has pointed out that this objection could be addressed by a mod- ification of the presented reasoning, in which not the scalar ψ itself is applied to the definition of the principal directions, but the scalar .[10] The implementa- tion poses no difficulty, but will be given when it has been confirmed by examples. qμ · h 2π¦±© ------ λα ψ -----· -– ¹ § A(μα) α = λα- ψ ----- Σ1 Σ2 Σ1, Σ2. ψ ψ1 ψ2 ⋅ = ψ1 Σ1 ψ2 Σ2. Σ1, Σ2. ψμν λ(α)’s λ(α)’s Σ1 Σ2, χ lgψ
+Mr. Grommer[9] has pointed out that this objection could be addressed by a modification of the presented reasoning, in which not the scalar `ψ` itself is applied to the definition of the principal directions, but the scalar.
 
- 
- 
- 
+The implementation poses no difficulty, but will be given when it has been confirmed by examples. 
 
+```
+qμ · h 2π¦±© ------ λα ψ -----· -– ¹ § A(μα) α = λα- ψ ----- Σ1 Σ2 Σ1, Σ2. ψ ψ1 ψ2 ⋅ = ψ1 Σ1 ψ2 Σ2. Σ1, Σ2. ψμν λ(α)’s λ(α)’s Σ1 Σ2, χ lgψ
+```
