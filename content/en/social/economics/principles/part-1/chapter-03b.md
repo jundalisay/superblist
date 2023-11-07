@@ -1,14 +1,11 @@
 ---
 title: "Basic Points Revenue"
 heading: "Chapter 3b"
-# Alternative to Universal Basic Income"
-# BPR is our New Store of Value and a
 weight: 18
 date: 2020-08-20
 # date: 2017-04-26
 image: /photos/econ/bake.jpg
-description: "The points-based system is implemented as a points-for-food system that creates wealth by tapping the unemployed. This leads to full employment even during a financial or economic crisis"
-# type: "featured"
+description: "The points-based system is implemented as a points-for-food system that creates wealth by tapping the unemployed."
 author: "Juan"
 icon: "/icons/pantry.png"
 ---
