@@ -1,9 +1,8 @@
 ---
-title: "Socratic FAQ"
-description: "FAQs about Superphysics, Socrates-style"
+title: "أسئلة مكررة حول السوبرفيزيكس"
+description: "أسئلة متكررة على طريقة سقراط. أسئلة شائعة حول السوبرفيزيكس وأهدافه"
 image: /covers/spblack.jpg
 ---
-
 
 
 ## Basics 
@@ -96,11 +95,11 @@ image: /covers/spblack.jpg
 
 
 {{< l a="Superphysics" >}}
-Ok boomer, so Superphysics isn't for you.
+إذاً، السوبرفيزيكس ليست مناسبة لك.
 {{< /l >}}
 
 {{< r a="Boomer" >}}
-What makes you so absolutely sure that you know the nature of the universe? What is your qualification? I have a PhD from a top Western unviersity.
+لماذا أنت متأكد تمامًا أنك تعرف كيف يعمل الكون؟ ما هو مؤهلك؟ لدي درجة الدكتوراه من جامعة غربية رفيعة المستوى.
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
