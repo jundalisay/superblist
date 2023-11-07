@@ -1,7 +1,8 @@
 ---
 title: "Electricity"
 description: "Address during the Commemoration of the Introduction of Niagara Falls Power in Buffalo January 12, 1897."
-image: "/covers/tesla.jpg"
+image: "/photos/physics/elec.jpg"
+# date: 1897-01-27
 author: Nikola Tesla
 weight: 4
 ---
@@ -185,25 +186,35 @@ But the stores are being more and more exhausted; the labor is getting dearer an
 
 A great deal is expected from a more economical utilization of the stored energy of the carbon in a battery; but while the attainment of such a result would be hailed as a great achievement; it would not be as much of an advance towards the ultimate and permanent method of obtaining power as some engineers seem to believe. 
 
-By reasons both of economy and convenience we are driven to the general adoption of a system of energy supply from central stations, and for such purposes the beauties of the mechanical generation of electricity can not be exaggerated. The advantages of this universally accepted method are certainly so great that the probability of replacing the engine dynamos by batteries is, in my opinion, a remote one, the more so as the high-pressure steam engine and gas engine give promise of a considerably more economical thermodynamic conversion. 
+By reasons both of economy and convenience we are driven to the general adoption of a system of energy supply from central stations, and for such purposes the beauties of the mechanical generation of electricity can not be exaggerated. 
+
+The advantages of this universally accepted method are certainly so great that the probability of replacing the engine dynamos by batteries is, in my opinion, a remote one, the more so as the high-pressure steam engine and gas engine give promise of a considerably more economical thermodynamic conversion. 
 
 Even if we had this day such an economical coal battery, its introduction in central stations would by no means be assured, as its use would entail many inconveniences and drawbacks. Very likely the carbon could not be burned in its natural form as in a boiler, but would have to be specially prepared to secure uniformity in the current generation. There would be a great many cells needed to make up the electro-motive force usually required. 
 
 The process of cleaning and renewal, the handling of nasty fluids and gases and the great space necessary for so many batteries would make it difficult, if not commercially unprofitable, to operate such a plant in a city or densely populated district. 
 
-Again if the station be erected in the outskirts, the conversion by rotating transformers or otherwise would be a serious and unavoidable drawback. Furthermore, the regulating appliances and other accessories which would have to be provided would probably make the plant fully as much, if not more, complicated than the present. We might, of course, place the batteries at or near the coal mine, and from there transmit the energy to distant points in the form of high-tension alternating currents obtained from rotating transformers, but even in this most favorable case the process would be a barbarous one, certainly more so than the present, as it would still involve the consumption of material, while at the same time it would restrict the engineer and mechanic in the exercise of their beautiful art. As to the energy supply in small isolated places as dwellings, I have placed my confidence in the development of a light storage battery, involving the use of chemicals manufactured by cheap water power, such as some carbide or oxygen-hydrogen cell.
+If the station be built in the outskirts, the conversion by rotating transformers or otherwise would be a serious and unavoidable drawback. 
+- The regulating appliances and other accessories which would have to be provided would probably make the plant fully as much, if not more, complicated than the present.
 
-But we shall not satisfy ourselves simply with improving steam and explosive engines or inventing new batteries; we have something much better to work for, a greater task to fulfill. We have to evolve means for obtaining energy from stores which are forever inexhaustible, to perfect methods which do not imply consumption and waste of any material whatever. 
+We could place the batteries at or near the coal mine, and from there transmit the energy to distant points in the form of high-tension alternating currents obtained from rotating transformers.
 
-Upon this great possibility, which I have long ago recognized, upon this great problem, the practical solution of which means so much for humanity, I have myself concentrated my efforts since a number of years, and a few happy ideas which came to me have inspired me to attempt the most difficult, and given me strength and courage in adversity. Nearly six years ago my confidence had become strong enough to prompt me to an expression of hope in the ultimate solution of this all dominating problem. 
+But even in this most favorable case, the process would be a barbarous one as it would involve the consumption of material. 
 
-I have made progress since, and have passed the stage of mere conviction such as is derived from a diligent study of known facts, conclusions and calculations. 
+It would restrict the engineer and mechanic in the exercise of their beautiful art. 
 
-I now feel sure that the realization of that idea is not far off. But precisely for this reason I feel impelled to point out here an important fact, which I hope will be remembered. Having examined for a long time the possibilities of the development I refer to, namely, that of the operation of engines on any point of the earth by the energy of the medium, I find that even under the theoretically best conditions such a method of obtaining power can not equal in economy, simplicity and many other features the present method, involving a conversion fo the mechanical energy of running water into electrical energy and the transmission of the latter in the form of currents of very high tension to great distances. 
+The development of a light storage battery can supply energy in small isolated places such as houses. 
+- This involves the use of chemicals manufactured by cheap water power, such as some carbide or oxygen-hydrogen cell.
 
-Provided, therefore, that we can avail ourselves of currents of sufficiently high tension, a waterfall affords us the most advantageous means of getting power from the sun sufficient for all our wants, and this recognition has impressed me strongly with the future importance of the water power, not so much because of its commercial value, though it may be very great, but chiefly because of its bearing upon our safety and welfare. 
+We should go beyond improving steam and explosive engines or inventing new batteries. We have to evolve means for obtaining energy from inexhaustible stores and perfect methods which do consume nor waste any material. 
 
-I am glad to say that also in this latter direction my efforts have not been unsuccessful, for I have devised means which will allow us the use in power transmission of electromotive forces much higher than those practicable with ordinary apparatus. 
+<!-- Upon this great possibility, which I have long ago recognized, upon this great problem, the practical solution of which means so much for humanity, I have myself concentrated my efforts since a number of years, and a few happy ideas which came to me have inspired me to attempt the most difficult, and given me strength and courage in adversity. Nearly six years ago my confidence had become strong enough to prompt me to an expression of hope in the ultimate solution of this all dominating problem. I have made progress since, and have passed the stage of mere conviction such as is derived from a diligent study of known facts, conclusions and calculations.  I now feel sure that the realization of that idea is not far off. But precisely for this reason I feel impelled to point out here an important fact, which I hope will be remembered. Having examined for a long time the possibilities of the development I refer to, namely, that of  -->
+
+I have spent many years researching on the operation of engines anywhere on earth by the energy of the medium. But this method cannot equal the economy, simplicity of converting the mechanical energy of running water into electrical energy. But that method needs currents of very high tension sent to great distances. 
+
+A waterfall affords us the most advantageous means of getting power from the sun for all our wants. This is why water power is important because of its bearing on our safety and welfare. 
+
+With water power, I have devised means which will allow us the use in power transmission of electromotive forces much higher than those practicable with ordinary apparatus. 
 
 In fact, progress in this field has given me fresh hope that I shall see the fulfillment of one of my fondest dreams; namely, the transmission of power from station to station without the employment of any connecting wire. Still, whatever method of transmission be ultimately adopted, nearness to the source of power will remain an important advantage.
 
