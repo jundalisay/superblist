@@ -1,9 +1,9 @@
 ---
 heading: "Chapter 13c"
-title: "Vibratory in Nature"
+title: "Supermassive Black Holes as Galactic Vortices"
 weight: 29
 image: "/covers/world.jpg"
-description: "This stone is similar to the aetheral air that compose the heavens"
+description: "Descartes explains Supermassive Black Holes as Galactic Vortices using the dynamics of the air-aether"
 contributors: ['Rene Descartes']
 icon: "/icons/descartes.png"
 ---
@@ -42,7 +42,7 @@ The air-aether moves separately from one another. They can never be arranged lik
 
 Nonetheless, it is only in that mode [of arrangement] that the proposed difficulty manifests itself. 
 
-For one could not suppose between those of its parts that are the same distance from the center of their heaven an interval so small that it would not suffice to conceive that the inclination they have to move away from that center must cause those between the lines `AF` and `DG` to advance all together toward the space E when it is void. 
+For one could not suppose between those of its parts that are the same distance from the center of their territory an interval so small that it would not suffice to conceive that the inclination they have to move away from that center must cause those between the lines `AF` and `DG` to advance all together toward the space E when it is void. 
 
 Thus you see in Figure 9, compared with Figure 10, that the weight of the small balls 40, 30, etc. must cause them to fall all together toward the space occupied by that marked 50 as soon as the latter can leave it.	
 
