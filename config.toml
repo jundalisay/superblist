@@ -120,13 +120,13 @@ paginate = 12
     [languages.en.params.tricon2.items.c]
       url= "material/principles/part-2/chapter-04b/"
       img = "/photos/physics/quasar.jpg"
-      title = "Aethereal Propulsion"
+      title = "The Elastic Theory of Gravity"
       sub = "We bring back the theory of gravity from Kepler and Descartes"
     [languages.en.params.tricon2.items.d]
-      url = "/material/principles/part-3/chapter-02/"
+      url = "/material/solutions/fusion/"
       img= "/photos/physics/elec.jpg"
-      title = "Electrons are Positive, Protons are Negative"
-      sub= "We use male-female to avoid confusion"
+      title = "The Fusion Solution"
+      sub= "We propose anti-gravity from Cartesian spacetime vortices"
     [languages.en.params.tricon3]
       heading = "The Soul of Living Entities"
       title = "Bio Superphysics"
@@ -164,7 +164,7 @@ paginate = 12
       url = "/social/supersociology/principles/part-1/chapter-01"
       img = "/photos/vanity.jpg"
       title = "The Ego is the Cause of Problems in Society"
-      sub = "See how supersociology aims to fix it"
+      sub = "See how Supersociology aims to fix it"
     [languages.en.params.tricon4.items.b]
       url = "/social/economics/principles/intro/chapter-03"
       img = "/photos/grains.jpg"
@@ -265,10 +265,10 @@ paginate = 12
       title = "نظرية الجاذبية المرنة"
       sub = "نستعيد نظرية الجاذبية من كيبلر وديكارت"
     [languages.ar.params.tricon2.items.d]
-      url = "/material/principles/part-3/chapter-02/"
+      url = "/material/solutions/fusion"
       img= "/photos/physics/elec.jpg"
-      title = "الإلكترونات إيجابية والبروتونات سالبة"
-      sub = "نستخدم الذكور والإناث لتجنب الارتباك"
+      title = " كيفية جعل الاندماج النووي يعمل. "
+      sub = "نقترح استخدام مضاد الجاذبية لجعل الاندماج النووي يعمل."
     [languages.ar.params.tricon3]
       heading = "روح الكائنات الحية"
       title = "الفيزياء الفائقة البيولوجية"
@@ -407,10 +407,10 @@ paginate = 12
       title = "引力的弹性理论"
       sub = "我们从开普勒和笛卡尔重新引入引力理论"
     [languages.zh.params.tricon2.items.d]
-      url = "/material/principles/part-3/chapter-02/"
+      url = "/material/solutions/fusion/"
       img= "/photos/physics/elec.jpg"
-      title = "电子是正的，质子是负的"
-      sub = "我们使用男性和女性来避免混淆"
+      title = "如何使核聚变运行。"
+      sub = "我们建议使用反重力来实现核聚变。"
     [languages.zh.params.tricon3]
       heading = "生物超物理学"
       title = "生命体的灵魂"
@@ -549,10 +549,10 @@ paginate = 12
       title = "Die Elastische Gravitationstheorie"
       sub = "Wir bringen die Gravitationstheorie von Kepler und Descartes zurück"
     [languages.de.params.tricon2.items.d]
-      url = "/material/principles/part-3/chapter-02/"
+      url = "/material/solutions/fusion"
       img= "/photos/physics/elec.jpg"
-      title = "Elektronen sind positiv, Protonen sind negativ"
-      sub = "Wir verwenden männlich-weiblich, um Verwirrung zu vermeiden"
+      title = "Wie man die Kernfusion zum Funktionieren bringt."
+      sub = "Wir schlagen vor, Antischwerkraft zu verwenden, um die Kernfusion zum Funktionieren zu bringen."
     [languages.de.params.tricon3]
       heading = "Die Seele lebender Wesen"
       title = "Bio Superphysik"
@@ -691,10 +691,10 @@ paginate = 12
       title = "Un Meilleur Moyen d'Atteindre les Étoiles"
       sub = "Comment la propulsion éthérée peut-elle permettre aux humains de rejoindre d'autres étoiles et galaxies?"
     [languages.fr.params.tricon2.items.d]
-      url = "/material/principles/part-3/chapter-02/"
+      url = "/material/solutions/fusion/"
       img= "/photos/physics/elec.jpg"
-      title = "Les Électrons sont Positifs, les Protons sont Négatifs"
-      sub = "Nous utilisons 'masculin-féminin' pour éviter la confusion"
+      title = "Comment faire fonctionner la fusion nucléaire"
+      sub = "Nous proposons d'utiliser l'antigravité pour faire fonctionner la fusion nucléaire."
     [languages.fr.params.tricon3]
       heading = "L'Âme des Entités Vivantes"
       title = "Bio Superphysique"
@@ -833,10 +833,10 @@ paginate = 12
       title = "आध्यात्मिक प्रेरणा। "
       sub = "हम केपलर और देस्कार्टेस से भार से गुरुत्वाकर्षण की सिद्धांती वापस लाते हैं"
     [languages.hi.params.tricon2.items.d]
-      url = "/material/principles/part-3/chapter-02/"
+      url = "/material/solutions/fusion/"
       img= "/photos/physics/elec.jpg"
-      title = "इलेक्ट्रॉन पॉजिटिव होते हैं, प्रोटॉन नेगेटिव होते हैं। "
-      sub = "हम भ्रांति से बचने के लिए पुरुष-महिला का उपयोग करते हैं"
+      title = "न्यूक्लियर फ्यूजन को कैसे काम में लाया जा सकता है। "
+      sub = "हम प्रस्तावित करते हैं कि न्यूक्लियर फ्यूजन को काम में लाने के लिए एंटी-ग्रॅविटी का उपयोग किया जा सकता है।"
     [languages.hi.params.tricon3]
       title = "जैविक सुपरफिजिक्स।"
       heading = "जीवन प्राणियों की आत्मा"
@@ -975,10 +975,10 @@ paginate = 12
       title = "Teori Elastis Gravitasi"
       sub = "Kami mengembalikan teori gravitasi dari Kepler dan Descartes"
     [languages.id.params.tricon2.items.d]
-      url = "/material/principles/part-3/chapter-02/"
+      url = "/material/solutions/fusion"
       img= "/photos/physics/elec.jpg"
-      title = "Elektron Positif, Proton Negatif"
-      sub = "Kami menggunakan 'pria-wanita' untuk menghindari kebingungan"
+      title = "Bagaimana membuat fusi nuklir berhasil"
+      sub = "Kami mengusulkan penggunaan anti-gravitasi untuk membuat fusi nuklir berhasil."
     [languages.id.params.tricon3]
       title = "BIO SUPERFISIKA"
       heading = "Jiwa dari Entitas Hidup"
@@ -1117,10 +1117,10 @@ paginate = 12
       title = "エーテリアル推進。"
       sub = "私たちはケプラーとデカルトから重力理論を復活させます"
     [languages.jp.params.tricon2.items.d]
-      url = "/material/principles/part-3/chapter-02/"
+      url = "/material/solutions/fusion/"
       img= "/photos/physics/elec.jpg"
-      title = "電子は陽子です。"
-      sub = "私たちは男性と女性を使って混乱を避けます"
+      title = "核融合を実現する方法。"
+      sub = "核融合を実現するために反重力を使用することを提案します。"
     [languages.jp.params.tricon3]
       title = "バイオスーパーフィジックス。"
       heading = "生きた実体の魂"
@@ -1259,10 +1259,10 @@ paginate = 12
       title = "Эфирная тяга"
       sub = "Мы возвращаем теорию гравитации от Кеплера и Декарта"
     [languages.ru.params.tricon2.items.d]
-      url = "/material/principles/part-3/chapter-02/"
+      url = "/material/solutions/fusion/"
       img= "/photos/physics/elec.jpg"
-      title = "Электроны положительные, протоны отрицательные"
-      sub = "Мы используем мужской-женский для избежания путаницы"
+      title = "Как добиться работы ядерного синтеза"
+      sub = "Мы предлагаем использовать антигравитацию для обеспечения работы ядерного синтеза"
     [languages.ru.params.tricon3]
       heading = "ДУША ЖИВЫХ СУЩЕСТВ"
       title = "Био Суперфизика"
