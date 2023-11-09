@@ -24,46 +24,83 @@ A body that 'tends' towards some direction does not mean that there is a thought
 
 'Tend' here means that the body is doing an effort to counteract such a <!-- resis  presupposes some --> resistance. 
 
-**The body thus tends towards different directions at the same time** [according to different points of view.]
+**The body thus tends towards different directions at the same time**
+
+<!-- [according to different points of view.] -->
 
 There are often diverse causes that act together on the same body. 
 - These impede each other's effect.
 - The same body can be thought of as tending in different directions at the same time. 
 
-Thus, the parts of the earth-aether have 3 movements or tendencies:
 
-1. **They move away from the center** [of the earth-aether in totality] when they are considered:
-  - all alone*
-  - as opposed to other parts of the earth that make up more massive physical bodies  <!-- than they are -->
-2. **They move closer to its center** when one considers the force of the air-aether <!--  parts of the heaven --> pushing them there
-3. **They move away from the center** if they are less massive 
+## Centrifugal and Centripetal Forces
+
+Similarly, parts of the Earth:
+
+1. **moves towards the center** when they pushed to the center by the external [invisible spacetime particles] air-aether
+
+For example, the stone curving in a sling along the circle `AB` would tend circularly from `A` to `B`, if the cord remained and **its length** regulated and determined the stone's motion.
+
+![Centripetal Force](/graphics/physics/world-13ccc.jpg)
+
+
+2. **moves away from the center** when they are considered as a separate identity from that center.
+
+<!-- ,alone  or when compared to more massive parts -->
+
+The same stone will tend towards `C` from point `A` if the cord uniting it to the center disappeared. 
+
+<!-- it were agitated alone [and ]. -->
+
+![Centrifugal Force](/graphics/physics/world-13bbb.jpg)
+
+
+
+3. **moves away from the center** when considered less massive than the other more massive parts [have more difference from the center-identity]
+
+The stone would tend towards `E` if the circular agitation was ignored and it broke free from the sling's force. 
+
+<!-- its energy were totally not affected or impeded by the sling.  -->
+
+![1](/graphics/physics/world-13aaa.jpg)
+
+
+<!-- > *Superphysics note: In Superphysics, this is the Law of Conservation of Idea applied to the Material Layer. Cartesian inertia and the creation of centrifugal forces therefore have their origin on that law -->
+
+<!-- 2. **They move closer to its center** when one considers the force of the air-aether pushing them there*
+
+> *Superphysics note: This means that centripetal forces have their origin outside of the identity. In this case, material centripetal forces is from the external spacetime exerting a force on the body. This is different from centrifugal forces which are inherent.  
+
+In Superphysics, this is the Law of Conservation of Idea applied to the Material Layer. Cartesian inertia and the creation of centrifugal forces therefore have their origin on that law
+
+
+3. **They move away from the center** if they are less  -->
 <!-- due to those other bodies being influence of other more massive bodies [in the background].   -->
 <!-- when one considers the force of the aethereal air -->
 
 
- > *Superphysics note: In Superphysics, this is the Law of Conservation of Idea applied to the Material Layer
-
-
 <!-- , and- move away from its center if one considers them . -->
 
-![AB curve](/graphics/physics/world13a.png)
-
-For example:
-
-<!-- , if we consider only its agitation all alone. -->
-
-1. The stone curving in a sling along the circle `AB` will tend toward `C` from point `A` if it were agitated alone [and the cord was lost].
-
-![2](/graphics/physics/world-13bbb.jpg)
-
-2. But it would tend circularly from `A` to `B`, if the cord remained and **its length** regulated and determined the motion of the stone.
-
-![3](/graphics/physics/world-13ccc.jpg)
+<!-- ![AB curve](/graphics/physics/world13a.png) -->
 
 
-3. The stone would tend toward `E` if its energy were totally not affected or impeded by the sling. 
+{{< box >}}
+### Superphysics Note:
 
-![1](/graphics/physics/world-13aaa.jpg)
+It follows that centripetal force is from:
+- the unity of 2 identities 
+- the external force to unite them
+
+Centrifugal force is from:
+- the difference between 2 identities
+- the internal force to separate them
+
+In Hinduism and Taoism, centrifugal forces are from the Negative Force or Shakti or Yin, while centripetal is from the Positive Force or Shiva or Yang. 
+
+In education, this is why external pressure has to be applied to learners who do not want to learn a certain topic. But this pressure is not needed when the topic is something that learners can easily and naturally identify with.
+
+Therefore, parents should ask their children what topics they are naturally interested in, instead of forcing topics that they cannot identify with 
+{{< /box >}}
 
 
 <!-- both the resistance of the sling and the [background] agitation from other bodies are negated. -->
@@ -79,7 +116,9 @@ To understand why the body leaves the center, imagine that the inclination of th
 1. Circular inclination along the circle `AB`
 2. Repelling inclination along the line `DY`
 
-![1](/graphics/physics/world-13ddd.jpg)
+
+{{< img src="/graphics/physics/world-13ddd.jpg" cap="In Cartesian Physics, 'Centrifugal Force' is a result of " alt="Centrifugal Force" >}}
+
 
 <!-- ### 3. Inertia from the Background Influence of Other Bodies -->
 
@@ -118,9 +157,8 @@ From this point of view, the stone at `A` tends (makes an effort) only to move d
 We can easily make a mistake and think that the stone would move either to `H` or `I` if we forgot the difference between:
 - the motion that it already has going away from `D` and
  <!-- [unaffected by other bodies not D] and  -->
-- its to move inherently 
+- its inherent inclination to move  
 <!-- that remains with it [from D]. -->
-
 
 <!-- 1. Straight line movement away (Law Conservation Idea)
 2. Circular movement from gravity based on sling of 2nd object
@@ -137,7 +175,7 @@ The air-aether [invisible spacetime particles] should be thought of as being the
 
 {{< img src="/graphics/physics/world-11.jpg" cap="In Cartesian Physics, the revolution of invisible spacetime particles around the Earth causes the tides and its oblate spheroid shape" alt="The gravitational territory of the Earth" >}}
 
-Those that are at `E` tend of their own inclination toward `P`.
+Those that are at `E` tend of their own inclination towards `P`.
 <!-- Those that are at `E` tend of their own inclination toward `P`. -->
 
 <!-- ![Black Holes](/graphics/physics/world-13fff.jpg) -->

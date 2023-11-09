@@ -2,7 +2,7 @@
 heading: "Chapter 13b"
 title: "Solar Wind and Black Holes"
 weight: 29
-image: "/covers/world.jpg"
+image: "/photos/physics/quasar.jpg"
 description: "This stone is similar to the aetheral air that compose the heavens"
 contributors: ['Rene Descartes']
 icon: "/icons/descartes.png"
