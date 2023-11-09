@@ -16,22 +16,30 @@ Light pushes on our eyes. The principal properties of light are:
 
 1. It travels in all directions around "luminous" bodies
 
-This is due to the circular motion of their parts.
+This is due to the circular motion of their particles.
 
 2. It travels to any distance
 
-If the air-aether between `AF` and `DG` are already disposed to advance toward `E`, the force with which the sun pushes those at `ABCD` should also extend out to `E`. This is even though there is a greater distance from the one to the other than there is from the highest stars of the firmament down to us.
+
+If the air-aether between `AF` and `DG` are already disposed to advance towards `E`, the force with which the sun pushes those at `ABCD` should also extend out to `E`. 
+
+{{< img src="/graphics/physics/world-13ggg.jpg" cap="" alt="Solar Winds" >}}
+
+This is even though there is a greater distance from the one to the other than there is from the highest stars of the firmament down to us.
 
 
 3. It travels instantly
 
-The parts of the air-aether between `AF` and `DG` all touch and press one another as much as possible. 
+The air-aether particles between `AF` and `DG` all touch and press one another as much as possible. 
 
 The push on the first ones must pass in an instant out to the last one. 
 
 This is the same as:
 - the force that pushes one end of a stick passes to the other end at the same instant.
-- The `50 ball` falls toward `6 ball`. The `10 balls` also fall toward `6 ball` at the same instant.
+- Ball `50` falls toward ball `6`. The `10` balls also fall towards the ball `6` at the same instant.
+
+{{< img src="/graphics/physics/balls.png" cap="" alt="Balls" >}}
+
 
 <!-- ; or rather (so you make no difficulty on the basis that the parts of the heaven are not attached to one another as are those of a stick) in just the same way that, as the small ball marked  -->
 
@@ -41,13 +49,14 @@ This straight-line motion is different from the straight-line motion of the air-
 
 Thus, the lines of light are exactly straight even though its air-aether medium do not completely form straight lines.
 
-{{< img src="/graphics/physics/world-14a.gif" alt="World" >}}
 
 This is similar to hand `A` pushing the body `E` along the straight line `AE` even though it pushes it with a twisted stick `BCD`. 
 
-{{< img src="/graphics/physics/world-14b.gif" alt="World" >}}
+{{< img src="/graphics/physics/world-14a.gif" alt="World" >}}
 
 In the same way, `Ball 1` pushes `Ball 7` through `Balls 5`, as directly as through the other balls.
+
+{{< img src="/graphics/physics/world-14b.gif" alt="World" >}}
 
 
 
@@ -57,15 +66,37 @@ In the same way, `Ball 1` pushes `Ball 7` through `Balls 5`, as directly as thro
 
 6. These rays from the same point can go out toward different points
 
-Figure 6 shows several of them come from the points `A, B, C, D` and come together at point `L`. Several come from the single point D and extend, one toward `E`, another toward `K`, and thus toward an infinity of other places. 
 
-In the same way, the diverse forces with which one pulls the cords 1, 2, 3, 4, 5 all come together in the pulley, and the resistance of this pulley extends to all the diverse hands that are pulling those cords.	
+Several of them come from the points `A, B, C, D` and come together at point `L`. 
+
+{{< img src="/graphics/physics/world-13ggg.jpg" cap="" alt="Light from the Sun" >}}
+
+Several come from the single point `D` and extend, one toward `E`, another toward `K`, and thus toward an infinity of other places.
+
+
+In the same way, the diverse forces with which one pulls the cords `1, 2, 3, 4, 5` all come together in the pulley.
+
+{{< img src="/graphics/physics/fig14.gif" cap="" alt="Pulley" >}}
+
+The resistance of this pulley extends to all the diverse hands that are pulling those cords.	
+
 
 7. These rays coming from diverse points and going toward diverse points, can pass through the same point without impeding one another
 
-This is just as in Figure 6 the two rays AN and DL pass through point `E`, one must consider that each of the parts of the second element is capable of receiving several diverse motions at the same time. Thus, the part at point `E` can be pushed as a whole toward `L` by the action coming from the place on the sun marked D and, at the same time, toward `N` by that coming from the place marked `A`. 
+The two rays `AN` and `DL` pass through point `E`. The air-aether can receive several diverse motions at the same time. 
 
-One can push the air at the same time from F toward G, from H toward I, and from K toward L, through the three tubes `FG`, `HI`, and `KL`, even if those tubes are so joined at point N that all the air that passes through the middle of each of them must necessarily also pass through the middle of the other two.
+Thus, the air-aether at point `E` can be pushed as a whole toward `L` by the action coming from `D` near the sun and, at the same time, towards `N` by that coming from `A`. 
+
+
+
+Through the three tubes `FG`, `HI`, and `KL`, one can push the air at the same time from:
+- `F` towards `G`
+- `H` towards `I`
+- `K` towards `L`
+
+{{< img src="/graphics/physics/fig15.gif" cap="" alt="Tubes" >}}
+
+Those tubes are joined at point `N` so that all the air that passes through the middle of each of them also passes through the middle of the other two.
 
 
 8. They can also sometimes impede one another
@@ -107,5 +138,3 @@ In the same way, the speed of a ball or a stone one is pushing in the air can be
 
 
 <!-- the inclination to move that is transmitted from one place to another through several bodies that touch one another and that continuously fill all the space follows exactly the same path along which this same action could cause the first of those bodies to move if the others were not in its way.[61]  -->
-
-

@@ -117,7 +117,7 @@ To understand why the body leaves the center, imagine that the inclination of th
 2. Repelling inclination along the line `DY`
 
 
-{{< img src="/graphics/physics/world-13ddd.jpg" cap="In Cartesian Physics, 'Centrifugal Force' is a result of " alt="Centrifugal Force" >}}
+{{< img src="/graphics/physics/world-13ddd.jpg" alt="Centrifugal Force" >}}
 
 
 <!-- ### 3. Inertia from the Background Influence of Other Bodies -->
