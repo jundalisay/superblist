@@ -115,9 +115,35 @@ If there were no sling, the stone, with the agitation that would move it along t
 From this point of view, the stone at `A` tends (makes an effort) only to move directly away from the center `D` and towards `E`.
 - It is not at all more disposed to move toward `H` than toward `I`.
 
-We can easily make a mistake and think that the stone would move either to `H` or `I`if we forgot the difference between:
+We can easily make a mistake and think that the stone would move either to `H` or `I` if we forgot the difference between:
 - the motion that it already has going away from `D` and
  <!-- [unaffected by other bodies not D] and  -->
 - its to move inherently 
 <!-- that remains with it [from D]. -->
 
+
+<!-- 1. Straight line movement away (Law Conservation Idea)
+2. Circular movement from gravity based on sling of 2nd object
+3. Straying movement from Background influence   -->
+<!-- alone [wit
+
+
+## Spacetime Expansion
+
+This stone is similar to the aetheral air that compose the heavens.
+<!-- - The aethereal air that are at `E` tend of their own inclination only towards `P`. -->
+
+The air-aether [invisible spacetime particles] should be thought of as being the same as this stone `R`.
+
+{{< img src="/graphics/physics/world-11.jpg" cap="In Cartesian Physics, the revolution of invisible spacetime particles around the Earth causes the tides and its oblate spheroid shape" alt="The gravitational territory of the Earth" >}}
+
+Those that are at `E` tend of their own inclination toward `P`.
+<!-- Those that are at `E` tend of their own inclination toward `P`. -->
+
+<!-- ![Black Holes](/graphics/physics/world-13fff.jpg) -->
+
+- But the resistance of the other air-aether particles above them cause them to move along the circle `ER`.
+  - This resistance is opposed to their inclination to move in a straight line. 
+- This resistance when alone would make them move towards `M` which is the near the center `T`.
+
+This is how they go towards the places that are directly opposite the center `T` of their gravitational territory.

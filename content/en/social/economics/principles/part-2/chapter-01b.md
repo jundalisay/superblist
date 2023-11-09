@@ -106,6 +106,22 @@ The Way (or Tao) of Heaven can be compared to the bending a bow. The part of the
 
 
 
+{{< box >}}
+## How It Works
+
+The Effort Theory of Value can be derived by asking: What is stressful to others that is not stressful to you?
+
+By focusing on that task, then you are able to produce something that relieves the stress of others at less stress for yourself. 
+
+Those others might then want to give you something for it. They will give you something that is stressful to you to make, but not stressful for them. 
+
+For example, a farmer might find it difficult to make a website to advertise his potato harvest for sale. So he asks a web developer or programmer to make his website or social media page to let people know of his harvest. 
+
+The programmer finds it difficult to grow potatoes so he gets the potatoes of the farmer as part of the payment. 
+{{< /box >}}
+
+
+
 ## Matching Interest and Action 
 
 The matching of interest and action or occupation is the key to wealth. This is why Socrates put it as the core requirement of his ideal city-state and even for life itself:

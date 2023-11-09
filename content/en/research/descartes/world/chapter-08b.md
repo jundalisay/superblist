@@ -1,9 +1,9 @@
 ---
 heading: "Chapter 8b"
-title: "The Birth of Electromgnetism from Spacetime"
+title: "The Birth of Electromagnetism from Spacetime"
 weight: 19
 image: "/covers/world.jpg"
-description: "Parts of [spacetime] the air-aether broke off and dulled, making them go faster than the air-aether"
+description: "In Cartesian Physics, Electromagnetism is created from Spacetime when spacetime particles break off"
 contributors: ['Rene Descartes']
 icon: "/icons/descartes.png"
 ---
