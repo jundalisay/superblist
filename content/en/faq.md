@@ -47,8 +47,14 @@ Superstitious narrations of sorceries, witchcrafts, dreams, divinations, and the
 {{< /q >}}
 
 {{< l a="Superphysics" >}}
-**Socratic Dialectics** makes up the core of this 'super' upgrade as part of the process of data gathering, probing, and experimenting. 
+**Socratic Dialectics** makes up the core of this 'super' upgrade as part of the process of data gathering, probing, and experimenting that adds the 6th sense of intuition or higher mind which Socrates called the 'higher principle'.
 {{< /l >}}
+
+
+{{< q a="Socrates" c="The Republic Simplified" >}}
+He leaves this higher principle in pure abstraction when the lower and higher principle clash. He rouses up the third principle which is reason... The intellectual sphere has a lower part where the soul uses the shapes given by the higher part as images. Enquiries here does not go upwards to a higher principle.
+{{< /q >}}
+
 
 {{< r a="Asker" >}}
 How is Socratic Dialectics different from Dialectics?
@@ -164,9 +170,9 @@ Yoga is great at the mental layer, but terrible at the material layer. This is w
 ## Bigots
 
 {{< r a="Boomer" >}}
-But I'm a racist, materialist boomer. I don't like anything Asian and abstract like Brahma, Yin-Yang, human unity, circular economy and all that mumbo-jumbo. 
+But I'm a racist, materialist boomer. I don't like anything Asian and abstract like Brahma, Yin-Yang, human unity, circular economy and all that mumbo-jumbo. :shit:
 
-I want profits and wealth for myself. I drink my delicious expensive coffee conveniently with plastic straws, and don't care about the sea animals that will die from ingesting them. Sucks to be them.  
+I want profits and wealth for myself. I drink my expensive coffee with plastic straws. I don't care about the sea animals that will die from ingesting them. Sucks to be them.  
 
 The universe was created for us humans, and not us humans created to serve the universe.  After death, there is nothing. There is no evidence of God, the afterlife, reincarnation, or karma. So I say maximize pleasure while alive and don't care about the consequences, even on others!
 
@@ -178,13 +184,11 @@ So what if there's global warming? In the long-run, we're all dead! At least I'v
 
 
 {{< l a="Superphysics" >}}
-Ok boomer, so Superphysics isn't for you.
+Ok boomer, so Superphysics isn't for you. We reject selfishness, vice, and the lack of virtue. You should stay in some dogmatic religion that sees itself superior, or in Modern Physics and Economics that is limited to the 5 senses. 
 
-That's actually one of the attractions of Superphysics -- it rejects selfishness, vice, and the lack of virtue. You should stay in some dogmatic religion that sees itself superior than others, or in Modern Physics and Economics that is limited to the 5 senses. 
+People who ascribe to Superphysics are open-minded and lovers of philosophy, nature, and the Supreme Entity, as explained by Socrates. These allow the 6th sense of intuition and fellow-feeling, on top of the usual math and 5-sense cognitive abilities in IQ tests.
 
-People who ascribe to Superphysics are open-minded and lovers of philosophy, nature, and the Supreme Entity, as explained by Socrates. These allow and develop the 6th sense of intuition and fellow-feeling, on top of the usual math and 5-sense cognitive abilities usually in IQ tests.
-
-We are targetting young people for this because they are the ones stuck with warmed-world destroyed by the previous generation. Notice how we use graphics and the chat format to appeal to young people. The important thing is for the Boomer mentality to die with the Boomer generation and not cross over to Gen Z. 
+We are targetting young people because they are the ones stuck with warmed-world destroyed by the previous generation. Notice how we use emojis and the chat format to appeal to young people. The Boomer mentality should die with the Boomer generation and not cross over to Gen Z.
 {{< /l >}}
 
 {{< r a="Boomer" >}}
@@ -192,7 +196,7 @@ What makes you so absolutely sure that you know the nature of the universe? What
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-We've had samadhi, after going through the necessary rigors.
+We've had samadhi :high_brightness:, after going through the necessary rigors.
 {{< /l >}}
 
 {{< r a="Boomer" >}}
@@ -206,12 +210,12 @@ All we can say is "No Samadhi, No Honey" (i.e. Without samadhi, you won't get a 
 {{< /l >}}
 
 {{< r a="Asker" >}}
-That's like when Neo in *The Matrix* movie realizing that he was in a giant computer when he saw the code running behind his reality. (I like that movie)
+That's like when Neo in *The Matrix* movie realizing that he was in a giant computer when he saw the code running behind his reality. (I like that movie :innocent:)
 {{< /r >}}
 
-{{< l a="Superphysics" >}}
+<!-- {{< l a="Superphysics" >}}
 Instead of revealing the code, we try to reveal the aether in each phenomenon. 
-{{< /l >}}
+{{< /l >}} -->
 
 {{< r a="Asker" >}}
 What does the Superphysics symbol mean?
@@ -242,7 +246,7 @@ But we still need to prove that Bio Superphysics and Material Superphysics also 
 {{< /l >}}
 
 {{< r a="Asker" >}}
-I guess you encounter a lot of opposition from humans who think that the limited 5-sense science is perfect and superior to 6-sense science which to them is invalid pseudo-science.  
+I guess you encounter a lot of opposition from humans who think that the limited 5-sense science is perfect and superior to 6-sense science which to them is invalid pseudo-science. :sweat:
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
