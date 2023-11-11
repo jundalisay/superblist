@@ -98,4 +98,4 @@ The spatial layer is why Superphysics morals focuses on maximum people and maxim
 
 ## Morals are Sensed by the Moral Sense as Conscience and the Common Interest
 
-We defined "moral" as a quality that produces lasting happiness. If physical beauty is a quality that produces aesthetic satisfaction sensed through our eyes, and melody is a quality that produces audible pleasure sensed through our ears, how do we sense what is moral or immoral? [Our post on Supersociology](/social/supersociology/principles/common-interest) explains this sense. 
+We defined "moral" as a quality that produces lasting happiness. If physical beauty is a quality that produces aesthetic satisfaction sensed through our eyes, and melody is a quality that produces audible pleasure sensed through our ears, how do we sense what is moral or immoral? [Our post on Supersociology](/social/supersociology/principles/part-1/chapter-03/) explains this sense. 

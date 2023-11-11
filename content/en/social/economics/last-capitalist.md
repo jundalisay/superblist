@@ -14,7 +14,7 @@ toc: false
 
 In a [previous post](/social/supersociology/precrisis-years), we mentioned that our model designated **2019** as the start of the crisis years which will be a general economic downturn culminating as a global stagflation. 
 
-This period will lead to a change in mentality, specifically with the capitalist system, which is really just the old mercantile system in a perfected form. The main difference is that [Capitalism 'arbitrages' equity while mercantilism 'arbitrages' commodities](/social/economics/capitalism).
+This period will lead to a change in mentality, specifically with the capitalist system, which is really just the old mercantile system in a perfected form. The main difference is that [Capitalism 'arbitrages' equity while mercantilism 'arbitrages' commodities](/social/economics/principles/part-3/chapter-11b).
 
 
 ## First, Some History..

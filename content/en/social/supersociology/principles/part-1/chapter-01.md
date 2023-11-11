@@ -219,7 +219,7 @@ In addition, Facebook has no active regulator to keep its users united or preven
 
 <!-- Because Facebook has no regulator, anyone can add users according to their whim. Therefore, it is really a personal network instead of a real social network since personal interest, and not common interest, dominates. This creates a  -->
 
-> In order to earn more from ads, some social networks focus on user quantity instead of user quality. Our system is different because it earns primarily from a tax, as [Pointtax](https://pantrypoints.com/tax), and only secondarily from advertising.
+> In order to earn more from ads, some social networks focus on user quantity instead of user quality. Our system is different because it earns primarily from a tax, as [Pointtax](https://www.pantrypoints.com/services/tax/), and only secondarily from advertising.
 
 A true social network therefore is one that encourages personal interest as long as it is within the common interest. This necessitates a regulator, just as an early society has a chieftain and a modern society has a President or Prime Minister. The key qualification of this regulator is his understanding of the common interest as to keep the society unified and whole. His whole moral authority depends on this. 
 

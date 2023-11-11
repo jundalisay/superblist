@@ -72,7 +72,7 @@ So an inverted yield curve means that people are flocking to buy long term bonds
 
 But that's normal: the yield on US long term bonds have been on the downward trend since the 80s. <!-- so its low yield is nothing new. --> 
 
-The new thing is the rise of the [3-month yield](https://www.cnbc.com/qs/?symbol=US3M). If that 3-month yield coincides with other indicators, then a recession follows. These curves and indicators are merely effects that point to a cause which is the lack of profitable uses of capital, which is the essence of both Capitalism and Mercantilism.
+The new thing is the rise of the 3-month yield. If that 3-month yield coincides with other indicators, then a recession follows. These curves and indicators are merely effects that point to a cause which is the lack of profitable uses of capital, which is the essence of both Capitalism and Mercantilism.
 
 The problem is that people think that an inverted yield curve is the sole indicator. In reality there are many. 
 
@@ -83,7 +83,7 @@ The problem with bonds is that they lock in money for too long for use by the go
 
 Superphysics proposes [clearing funds](/research/schumacher/pool-clearing/part-1) as an alternative to bonds. These funnel money into to financing exports and imports as the main enabler of Adam Smith's proposed free trade system. In this way, value-creation is emphasized. Moreover, foreign commerce will no longer need letters of credit nor trade financing because all purchases are paid cash in advance. 
 
-People can have money to pay in cash because their local purchases can be transacted by points (as [basic universal revenue](/social/economics/principles/part-1/chapter-03b/)) or barter.
+People can have money to pay in cash because their local purchases can be transacted by points (as [basic points revenue](/social/economics/principles/part-1/chapter-03b/)) or barter.
 
 
 <!-- replaces bonds with  My research is into what is the basket of key indicators that can best predict such crises, building on the data that Adam Smith established (his data set starts in the 13th century, which I continued). It has predicted a future crisis year since all these indicators come from factors or causes that are cyclical in nature. The economic crisis periods in human history are when all these cycles coincide to create a perfect storm.

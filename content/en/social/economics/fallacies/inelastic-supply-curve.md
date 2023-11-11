@@ -4,7 +4,6 @@ heading: How Vaccine Prices Expose it
 date: 2021-01-15
 image: /graphics/econ/eq.jpg
 description: "The prices of vaccines expose the fallacy of the inelastic supply curve of Economics"
-type: "featured"
 contributors: ['Juan']
 icon: /icons/pantry.png
 toc: false
@@ -22,7 +21,7 @@ The inelastic supply curve is the child-idea of the sophistry called the [Equili
 
 {{< q a="Paul-Samuelson" >}}
 If the amount supplied is perfectly fixed, as in perishable fish for sale at whatever price, we face the perfectly inelastic supply. 
-<cite>Samuelson, Economics, Chapter 20: Determination Of Price By Supply And Demand</cite>
+Economics, Chapter 20: Determination Of Price By Supply And Demand
 {{< /q >}}
 
 All Economics books use the auction scenario to justify both the upward-sloping and the vertical inelastic supply curve. 
@@ -61,7 +60,7 @@ However, it also shows that there are three makers selling 60,000 doses at varyi
 This 50% truth of Economics is what Adam Smith says of the Commercial or Mercantile system --the businessmen and merchants take half-truths and then impose that as the truth onto everyone.
 
 {{< q a="Adam-Smith" >}}
-<p>Those arguments were partly solid and partly sophistical.. However, they convinced the parliaments.. Those arguments were created by those who were supposed to understand trade for those who knew nothing about trade. Experience demonstrated that foreign trade enriched the country. But how it enriched the country, none of them knew well. The merchants knew perfectly how it enriched themselves. <!-- It was their business to know it. --> But to know how it enriched the country was none of their business.</p>
+Those arguments were partly solid and partly sophistical.. However, they convinced the parliaments.. Those arguments were created by those who were supposed to understand trade for those who knew nothing about trade. Experience demonstrated that foreign trade enriched the country. But how it enriched the country, none of them knew well. The merchants knew perfectly how it enriched themselves. <!-- It was their business to know it. --> But to know how it enriched the country was none of their business.
 <cite>The Simple Wealth Of Nations, Book 4</cite>
 {{< /q >}}
 
@@ -96,7 +95,7 @@ The supply shows a consistent shortage and clearly slopes downward, different fr
 
 {{< q a="Paul-Samuelson" >}}
 When the rich man's dog gets the milk that the poor man's child needs to avoid rickets, is the system working badly? No. It is working as it is designed to do - putting goods in the hands of those with the most money or dollar votes.
-<cite>Paul Samuelson, Economics</cite>
+<cite>Economics</cite>
 {{< /q >}}
 
 
@@ -156,6 +155,6 @@ Without these, prices would have been kept secret and there would be no data to 
 
 However, the upward-sloping supply curve of Economics is only prevented by the existence of the cheap Astra Zeneca vaccines from Britain and India. The rest of the suppliers are still working under selfish-interest. This clearly means that the greed virus is still out there working behind the scenes to create the current crisis, as well as ensure future ones. This sureness is actually how we were able to [predict the current crisis](/social/supersociology/precrisis-years).
 
-We have workarounds, such as our proposed [Points Banking](https://pantrypoints.com/banking), [World Trade system](https://pantrypoints.com/world), and [Points-based Taxation](https://pantrypoints.com/pointtax). However, the most lasting solution or antidote is to teach and practice fellow-feeling, as espoused by Adam Smith. This is actually imbued in [Superphysics](/social/economics), most fundamentally in our downward-sloping supply curve.
+We have workarounds, such as our proposed [Points Banking](https://www.pantrypoints.com/trisactions/banking/), [World Trade system](https://www.pantrypoints.com/trisactions/world/), and [Points-based Taxation](https://www.pantrypoints.com/services/tax/). However, the most lasting solution or antidote is to teach and practice fellow-feeling, as espoused by Adam Smith. This is actually imbued in [Superphysics](/social/economics), most fundamentally in our downward-sloping supply curve.
 
 In the next post, we shall see another sophistry created by economists as the producer's and consumer's surplus

@@ -199,7 +199,7 @@ This upgrade manifests as the huge amounts of data and information absorbed and 
   
 Dialectics is unbiased and so it can take this mass of ideas to be churned in order to extract common patterns that can lead to more solid principles. For example, it takes the observations on the levitation of Buddhist monks and the zipping of UFOs to add new possibilities of movement and propulsion to benefit space travel. These observations are then put into the black box of dialectical principles in order to create new ones. 
 
-For example, we run [Einstein's General Relativity](/material/fallacies/general-relativity/) through Socrates' principles or black box to reveal its fatal flaws. We run it again through Descartes principles in order to come up with [The Elastic Theory of Gravity](/material/principles/part-2/chapter-04.md:) that matches Quantum Mechanics.
+For example, we run [Einstein's General Relativity](/material/fallacies/general-relativity/) through Socrates' principles or black box to reveal its fatal flaws. We run it again through Descartes principles in order to come up with [The Elastic Theory of Gravity](/material/principles/part-2/chapter-04) that matches Quantum Mechanics.
 
 This system of collecting all possible data and then churning them with principles in order to come up with solutions is then called **Superphysics**. 
 

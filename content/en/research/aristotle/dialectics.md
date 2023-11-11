@@ -8,9 +8,6 @@ icon: "/icons/aris.png"
 ---
 
 
-
-<!-- Our treatise proposes to find a line of inquiry whereby we shall be able to reason from opinions that are generally accepted about every problem propounded to us, and also shall ourselves, when standing up to an argument, avoid saying anything that will obstruct us.  -->
-
 ## What is Dialectical reasoning?
 
 Dialectical reasoning can be explained by understanding what is reasoning and its varieties.

@@ -61,7 +61,7 @@ The problem is that the rule of the few also is in tyranny, timocracy, and arist
 
 After the French Revolution, the aristocrats were lumped by later writers into the word 'capitalists' because of the industrial revolution wherein industry suddenly became capital-intensive instead of labor-intensive because of expensive machines. 
 
-Our [other post](/social/economics/capitalism) explains why even the modern word 'capitalist' is wrong because it originally meant profit-earners, which include farmers and peddlers -- people that did not use expensive machinery. 
+Our [other post](/social/economics/principles/part-3/chapter-11b/) explains why even the modern word 'capitalist' is wrong because it originally meant profit-earners, which include farmers and peddlers -- people that did not use expensive machinery. 
 
 Adam Smith never used the word 'capitalist'. The classical term for capitalism was "stock-jobbing" which emphasized the growth of paper stock-price. This price would then allow the purchase of expensive machines.  
 
@@ -113,7 +113,7 @@ But the Cold war is more recent than the French Revolution, so it would be naive
 
 ## Our Solution: The Social Republic
 
-As a workaround, we've created a new term called [social networkism](/social/supersociology/principles/part-01/chapter-01) to bring back the original French idea (social) <!-- with the addition of the new concept of the soul of society (dialectical) --> which can manifest as a social network (networkism). 
+As a workaround, we've created a new term called [social networkism](/social/supersociology/principles/part-1/chapter-01) to bring back the original French idea (social) <!-- with the addition of the new concept of the soul of society (dialectical) --> which can manifest as a social network (networkism). 
 
 It distances itself from anarchism or laissez-faire liberalism by espousing the unity of society over the unity of the self*. Rather, it assumes that the self has already been unified according to the principles of Bio Superphysics. 
 

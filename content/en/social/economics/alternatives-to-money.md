@@ -165,9 +165,9 @@ Trade began with barter between tribes. It evolved into using coins, which later
 This new system creates a whole new set of measures, transaction methods, and investment vehicles that fund productive labour directly and eliminate both inequality and employment:
 
 - [Clearing Funds as an alternative to Bonds](/research/schumacher/pool-clearing)
-- [Purchasing Power as an alterative to GDP](/social/economics/solutions/gdp) 
+- [Purchasing Power as an alterative to GDP](/social/economics/principles/part-4/chapter-07c) 
 - Basic Universal Revenue as an alternative to money
-- [The Effort Theory of Value](/social/economics/principles/effort-theory-of-value) as an alternative to Marginal Pricing
+- [The Effort Theory of Value](/social/economics/principles/part-2/chapter-01b/) as an alternative to Marginal Pricing
 
 <!-- The next post will explain how Grain-based Valuation can be implemented as Basic Universal Revenue. This will be very useful during [the coming Great Stagflation](/social/supersociology/precrisis-years) which is supposed to spark this year. -->
 

@@ -128,7 +128,7 @@ Similarly, in our basketball team and entrepreneur example, we don't need to men
 
 Smith likewise explains that the cause that drives public benefit in a free society is the <b>personal interest or passion</b>* of the person to work on something that both he and the society are BOTH interested in or passionate about. 
 
-> *This is our [second law of value](/social/economics/principles/second-law)
+<!-- > *This is our [second law of value](/social/economics/principles/second-law) -->
 
 
 If society were not interested in Jim's product, then that product would not be sold. There would be no public benefit. 

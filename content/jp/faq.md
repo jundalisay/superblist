@@ -123,5 +123,5 @@ image: /covers/spblack.jpg
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-ヘルプページをご覧ください[Help Page](help)
+ヘルプページをご覧ください[Help Page](/help)
 {{< /l >}}
