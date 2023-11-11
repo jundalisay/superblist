@@ -20,7 +20,7 @@ The inelastic supply curve is the child-idea of the sophistry called the [Equili
 ![Inelastic Supply Curve](https://sorasystem.sirv.com/charts/inelastic.png)
 
 
-{{< q a="sam" >}}
+{{< q a="Paul-Samuelson" >}}
 If the amount supplied is perfectly fixed, as in perishable fish for sale at whatever price, we face the perfectly inelastic supply. 
 <cite>Samuelson, Economics, Chapter 20: Determination Of Price By Supply And Demand</cite>
 {{< /q >}}
@@ -94,7 +94,7 @@ Combining the actual supply with the actual demand by Britain and Belgium as rep
 The supply shows a consistent shortage and clearly slopes downward, different from the assertion of modern Economics. The only solution to make the supply curve shift to the right, and quench all the demand, is to open-source the technology and production techniques so that supply can be increased at a lower cost in order to meet the demand and save lives. However, this would go against the profit-maximization motive taught by Economics which prefers money over life, as explained by Samuelson:
 
 
-{{< q a="sam" >}}
+{{< q a="Paul-Samuelson" >}}
 When the rich man's dog gets the milk that the poor man's child needs to avoid rickets, is the system working badly? No. It is working as it is designed to do - putting goods in the hands of those with the most money or dollar votes.
 <cite>Paul Samuelson, Economics</cite>
 {{< /q >}}

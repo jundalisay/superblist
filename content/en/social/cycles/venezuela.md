@@ -45,13 +45,14 @@ We need to find out the specific policy changes in that time period that led to 
 
 1. Price controls from 2003
 
-> These were enacted from 2003 and have gradually drained production. In Superphysics, price controls are a short-term emergency measure during shortages such as famine, wars, and disasters which hamper [the natural price](/pantrynomics/four-laws-of-value). Long-term price controls are dangerous because they hinder the natural price from coming back.
+> These were enacted from 2003 and have gradually drained production. In Superphysics, price controls are a short-term emergency measure during shortages such as famine, wars, and disasters which hamper [the natural price](/social/economics/principles/part-4/chapter-01/). Long-term price controls are dangerous because they hinder the natural price from coming back.
 
 <!-- can mask the real supply situation, since uncontrolled prices indicate the actual supply available. Instead of letting prices rise, the government shuts down or nationalized companies, leading to even lesser production.
  -->
+
 2. Expropriations from 2001 and 2007
 
-> In a socialist effort to redistribute wealth to the poor, Chavez nationalized many industries and redistributed land to people who were not skilled in making them productive. From productive people, such assets went to bureaucrats and rent-seekers whose main skill is to gain favor and popular support. We see that this has the biggest impact of all. In fact, price controls were merely the effect of nationalizations. While price controls hinder the natural price, expropriations destroy the real price by giving the tools for production to those who are not able to produce. This violates [the invisible hand of the Tao](/pantrynomics/invisible-hand-of-tao) which manifests as non-farmers getting the lands of expert farmers, for example, which then naturally leads to fewer crops.
+> In a socialist effort to redistribute wealth to the poor, Chavez nationalized many industries and redistributed land to people who were not skilled in making them productive. From productive people, such assets went to bureaucrats and rent-seekers whose main skill is to gain favor and popular support. We see that this has the biggest impact of all. In fact, price controls were merely the effect of nationalizations. While price controls hinder the natural price, expropriations destroy the real price by giving the tools for production to those who are not able to produce. This violates [the invisible hand of Dharma](/social/economics/invisible-hand) which manifests as non-farmers getting the lands of expert farmers, for example, which then naturally leads to fewer crops.
 
 
 ## How Venezuela Lost Its Fixed Capital

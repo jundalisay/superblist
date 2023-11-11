@@ -25,7 +25,7 @@ This is fully in line with our <i>dialectical</i>* model that [predicted this cr
 
 The original prediction in 2015 (from the model made in 2012) was that a crisis was supposed to spark in Q1 2018 which will start a stagflation process by 2019. This spark would be small. Back in 2015, we were looking at the following possibilities:
 
-1. A tiny* country like Greece sparking a global financial crisis a second time. This is why we prototyped [a free trade system that allowed foreign trade even without money](https://pantrypoints.com/world/)
+1. A tiny* country like Greece sparking a global financial crisis a second time. This is why we prototyped [a free trade system that allowed foreign trade even without money](https://www.pantrypoints.com/trisactions/world/)
 2. A tiny thing called Bitcoin or cryptocurrency creating a financial crisis. A precedent is the 'flash crash'. For this, we prototyped [Points Banking](https://pantrypoints.com/banking/) that allowed used points as a store of value
 3. A tiny incident in the Middle East sparking a war between Iran and Saudi Arabia. A precedent is the Yom-Kipur war.  For this, we made a [Disaster Relief app](https://circle.pantrypoints.com/)
 4. A tiny fungus that affects grain that would cause a global food crisis. A precedent is potato blight that caused the Irish Famine. For this, we made an [Agricultural app](https://pantrypoints.com/farm)

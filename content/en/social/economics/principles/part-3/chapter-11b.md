@@ -135,7 +135,7 @@ The Dutch Author of Mare Liberum cannot entitle the Dutch to fish in His Majesty
 
 From Britain, the seed ideas of modern capitalism went to France, as seen in JB Say, a French businessman and proto-capitalist, who wrote *A Treatise on Political Economy (1803)*. However, the single idea that sparked the growth of those seed ideas was James Mill who, in *Elements of Political Economy (1821)*, defined a capitalist as someone who owns the produce of the work of others, without actually working himself :
 
-{{< q a="mill" >}}
+{{< q a="John-Stuart-Mill" >}}
 In this sense of the term "owners of labour," the parties, concerned about production, are divided into two classes, that ofcapitalists, the rich men who supply the materials and instruments of production; and that of the workmen, who supply the labour.
 <cite>Mill, Chapter 1, Section 2</cite>
 {{< /q >}}
@@ -146,7 +146,7 @@ In this sense of the term "owners of labour," the parties, concerned about produ
 
 Note that in this sense,capitalist can only apply if the workers are **ACTUALLY SLAVES**:
 
-{{< q a="mill" >}}
+{{< q a="John-Stuart-Mill" >}}
 The labourer, who receives wages, sells his labour for a day.. The manufacturer, who pays these wages, buys the labour for the day..He is equally therefore the owner of the labour, with the manufacturer who operates with slaves.. the capitalist is the owner of both instruments of production: and the whole of the produce is his.
 <cite>Elements of Political Economy Chapter 1, section 2, emphasis added</cite>
 {{< /q >}}

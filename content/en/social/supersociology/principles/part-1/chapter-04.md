@@ -12,7 +12,7 @@ icon: /icons/spsoc.png
 
 
 
-In [a previous post](/social/economics/principles/invisible-hand), we explained that everything in existence has a dharma which represents the design or plan made by its inventor or creator. 
+In [a previous post](/social/economics/invisible-hand), we explained that everything in existence has a dharma which represents the design or plan made by its inventor or creator. 
 - A smartphone is designed to withstand being dropped a few feet, but not many meters
 - A basketball, on the other hand, is designed to withstand being dropped from long distances 
 
@@ -80,7 +80,7 @@ By forcing the mind to think into the future and into other entities, the mind w
 
 The John Stuart Mill also advocated a principle of happiness similar to Epicurus and Benhtam:
 
-{{< q a="mill" >}}
+{{< q a="John-Stuart-Mill" >}}
 The Greatest Happiness Principle says that actions which promote happiness are moral, actions which produce the reverse of happiness are immoral 
 <cite>Utilitarianism Simplified</cite>
 {{< /q >}}

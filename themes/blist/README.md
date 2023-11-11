@@ -1,3 +1,13 @@
+Effort Theory
+social/economics/principles/part-2/chapter-01b/
+
+BPR
+social/economics/principles/part-1/chapter-03b/
+
+4 Laws
+social/economics/principles/intro/chapter-04/
+
+
 Transalte to Nihongo:
 Superphysics: Wave-based Scientific Paradigm. A New Science Based on Metaphysics and Socratic Dialectics
 All Knowledge Can Be Grouped Into Three: 

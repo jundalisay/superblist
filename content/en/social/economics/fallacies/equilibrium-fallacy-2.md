@@ -21,7 +21,7 @@ We combine both curves to come up with a Supply and Demand model.
 Samuelson justifies the unnatural supply curve with buying and selling through an auctioneer scenario. This is the same sophistical technique used by Jevons and Marshall, in their attempt to justify equilibrium.
 
 
-{{< q a="sam" >}}
+{{< q a="Paul-Samuelson" >}}
 Which level will the price actually go? And how much will then be produced and consumed?.. Let us proceed what an auctioneer would do, i.e. proceed by trial and error.
 {{< /q >}}
 
@@ -32,7 +32,7 @@ In reality, we as shoppers, have freedom to choose where we do our groceries and
 From trial and error, Samuelson ends up with an equilibrium point where both curves intersect:
 
 
-{{< q a="sam" >}}
+{{< q a="Paul-Samuelson" >}}
 The equilibrium price, i.e. the only price that can last, is that at which amount willingly supplied and willingly demanded are equal. Competitive equilibrium must be at the intersection point of supply and demand curves.
 {{< /q >}}
 
@@ -40,7 +40,7 @@ The equilibrium price, i.e. the only price that can last, is that at which amoun
 
 However, it is interesting to note what he says about what happens at low prices:
 
-{{< q a="sam" >}}
+{{< q a="Paul-Samuelson" >}}
 Can that price ($1 per bushel) persist? Again, obviously not-for a comparison of Columns (2) and (3) shows that consumption will exceed production at that price. Storehouses will begin to empty, disappointed demanders who can't get wheat will tend to bid up the too-low price. This upward pressure on P is shown by Column (4)'s rising arrow.
 {{< /q >}}
 
@@ -61,17 +61,14 @@ In fact, there are many cases of crops being overproduced and merely dumped. If 
 
 Like economist's supply curve, the mercantilist's supply curve also slopes upward.
 
-{{< q a="mun" >}}
+{{< q a="Thomas-Mun" >}}
 If we send £100,000 in money to Amsterdam to buy Pepper then send it to Italy, it must yield £200,000, doubling the money. If we send the £100,000 to India to buy Pepper and sell it to Italy, we can earn £700,000 gross. But where the voyages are short & the supply plentiful, the profit will be far less. If our consumption of foreign goods stays the same and our exports increased, the overbalance must return as money or foreign goods from our re-exportation, and increase our revenue more.
-<cite>Thomas Mun</cite>
 {{< /q >}}
 
-{{< q a="mun" >}}
+{{< q a="Thomas-Mun" >}}
 [The forex dealer in Amsterdam who imports British coins] has the same effect as if a Dutch Merchant had carried away those coins, which he must do if Dutch goods are overbalanced which makes our money undervalued. And on the contary, when the forex dealer brings in Dutch coins into England, he does the same thing that the English Merchant does when our British commodities overbalance Dutch goods.
-<cite>Thomas Mun</cite>
 {{< /q >}}
 
-<!-- <img src="https://sorasystem.sirv.com/charts/balance.png" width="300px"> -->
 
 
 Similarly, the mercantilist advocates reducing supply to increase the selling price, and cutting costs to increase profits. 
@@ -95,17 +92,15 @@ The natural price is the lowest price that a dealer can sell his goods.. The mar
 When the commodities fall short of the effectual demand, the shortage will cause some of the buyers give more for those few commodities. This will create a competition among buyers which will raise the market price. When the amount sold exceeds the effectual demand, the excess will remain unsold. To dispose of it, it must be sold to those who are willing to pay less.
 {{< /q >}}
 
-> *Instead of profit maximization as producer's surplus, buyers are interested in bargains as [consumer's surplus](/social/economics/fallacies/surplus)
+> *Instead of profit maximization as producer's surplus, buyers are interested in bargains as [consumer's surplus](/social/economics/principles/part-2/chapter-05/)
 
 ![Natural Price Economics](https://sorasystem.sirv.com/charts/demsup/righttao.png)
 
 Unlike the curves of the manufacturer and merchant, Smith's curves slope downwards to create low prices because it views economic activity as ultimately for the demanders or consumers, and not for the suppliers or sellers.
 
 
-{{< q a="lao" >}}
-It is the Way of Heaven to reduce superabundance and to supplement deficiency. It is not so with the way of man. He takes away from those who have not enough to add to his own superabundance.
-<br>
-Who can take his own superabundance and use it to serve all under heaven? Only he who is in possession of the Tao!
+{{< q a="Lao-tzu" >}}
+It is the Way of Heaven to reduce superabundance and to supplement deficiency. It is not so with the way of man. He takes away from those who have not enough to add to his own superabundance. Who can take his own superabundance and use it to serve all under heaven? Only he who is in possession of the Tao!
 <cite>The Simple Tao Te Ching, Part 16</cite>
 {{< /q >}}
 
@@ -123,7 +118,9 @@ Worse is that the ecconomists and policymakers had no idea that their policies a
 
 
 {{< q a="Socrates" >}}
-When a potter becomes rich he will not think of you as much as before, grow more and more indolent and careless, and become a worse potter. But, on the other hand, if he has no money, he cannot provide himself with tools or instruments, he will not work well, and he will not teach his sons or apprentices to work well. Then, under the influence either of poverty or of wealth, workers can degenerate. Here, then, is a discovery of new evils of wealth and poverty, against which the guardians will have to watch, or they will creep into the city unobserved. Wealth is the parent of luxury and indolence. Poverty is the parent of meanness and viciousness. Both are parents of discontent.
+When a potter becomes rich he will not think of you as much as before, grow more and more indolent and careless, and become a worse potter. But, on the other hand, if he has no money, he cannot provide himself with tools or instruments, he will not work well, and he will not teach his sons or apprentices to work well.
+
+Then, under the influence either of poverty or of wealth, workers can degenerate. Here, then, is a discovery of new evils of wealth and poverty, against which the guardians will have to watch, or they will creep into the city unobserved. Wealth is the parent of luxury and indolence. Poverty is the parent of meanness and viciousness. Both are parents of discontent.
 <cite>Simple Republic Book 4</cite>
 {{< /q >}}
 
@@ -154,7 +151,7 @@ Rather than reform a system with a corrupt base, it would be better to take its 
 
 For this reason, we introduce alternatives to every major economic concept as the foundation of Superphysics:
 
-- [Natural Price Theory](/social/economics/principles/four-laws-of-value) replaces Equilibrium Theory of Microeconomics
-- [The Effort Theory of Value](/social/economics/principles/effort-theory-of-value) replaces Profit Maximization
-- [Purchasing Power](/social/economics/solutions/gdp) replaces GDP of Macroeconomics
-- [Economic Balance](/social/economics/principles/dcti) replaces GDP growth
+- [Natural Price Theory](/social/economics/principles/intro/chapter-04/) replaces Equilibrium Theory of Microeconomics
+- [The Effort Theory of Value](/social/economics/principles/part-2/chapter-01b/) replaces Profit Maximization
+- [Purchasing Power](/social/economics/principles/part-4/chapter-07c/) replaces GDP of Macroeconomics
+- [Economic Balance](/social/economics/principles/part-4/chapter-07/) replaces GDP growth

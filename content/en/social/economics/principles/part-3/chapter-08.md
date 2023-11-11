@@ -97,7 +97,7 @@ We do not mean the small-scale cultivation carried on with oxen. This ungrateful
 
 
 - While Economics supports the cause of merchants and money, the Physiocrats supported the cause of farmers and food. 
-- While Economics advocates liberalism so that money can circulate freely, Physiocracy, along with Smith, advocates the regulation of money-arbitrage which we call [secondary arbitrage](/social/economics/principles/part-3/chapter-04).
+- While Economics advocates liberalism so that money can circulate freely, Physiocracy, along with Smith, advocates the regulation of money-arbitrage which we call **secondary arbitrage**.
 
 <!-- By using, the social cycles of Socrates, we can classify the modern economists as part of the oligarch class, and the Physiocrats as the democrat class. Adam Smith would be the aristocratic class of philosophers, while Communism would be the tyranny class which started out as the democrat class.
  -->
@@ -114,7 +114,7 @@ Maxim 24 Balance of Money in Trade is Illusory: Let no one be deceived by an app
 
 <!-- Leads to Real Prices and Fair (Non-commercial) Taxation -->
 
-This regulation is done through the Economic Table which lists the chain of transactions that are involved in turning a raw material into a finished product which then manifests as wealth. The chain shows the increase in the market value and the natural price of a commodity as it is processed subsequently by [human effort](/social/economics/principles/effort-theory-of-value). 
+This regulation is done through the Economic Table which lists the chain of transactions that are involved in turning a raw material into a finished product which then manifests as wealth. The chain shows the increase in the market value and the natural price of a commodity as it is processed subsequently by [human effort](/social/economics/principles/part-2/chapter-01b/). 
 
 We then implement this transaction system as a ledger of points-transactions.
 

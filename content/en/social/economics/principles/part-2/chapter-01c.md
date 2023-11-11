@@ -38,7 +38,7 @@ Smith and the Physiocrats discovered the principles of wealth created by knowing
 
 Those merchants merely brushed aside the warnings by Smith against the pursuit of utility and avarice that the principles might bring. Later economists such as John Stuart Mill and Jean Baptiste Say even built economic theories around selfishness instead of dharma or morality:
 
-{{< q a="mill" >}}
+{{< q a="John-Stuart-Mill" >}}
 The doctrine that the basis of morals is utility, or the greatest happiness principle, holds that actions are right in proportion as they tend to promote happiness, wrong in proportion as they tend to produce the reverse of happiness. By ‘happiness’ is meant pleasure and the absence of pain; by ‘unhappiness’ is meant pain and the lack of pleasure.
 <cite>Mill, Utilitarianism</cite>
 {{< /q >}}

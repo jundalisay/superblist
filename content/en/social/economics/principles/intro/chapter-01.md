@@ -88,7 +88,7 @@ Our above explanation, if applied in physics, can help explain the strange and s
 However, our interest here is socio-economics, specifically, how waves of desires cause recessions, price fluctuations etc., so that we can build more stable socio-economic systems. By looking at the movement of commodity prices we can say that peaks in prices are represent a time of high desire for that commodity and troughs as a time of low desire*.
 
 
-> *This is fully explained in [the Metaphysics of Prices](/social/economics/principles/four-laws-of-value)
+> *This is fully explained in [the Metaphysics of Prices](/social/economics/principles/intro/chapter-04/)
 
 
 Sometimes you want a thing, sometimes you don't. But normally, your number of desires increase through time, unless you are going towards the end of your life, when the energy to achieve desires seem to wane.
@@ -104,7 +104,7 @@ However, since the 2008 financial crisis, the global economy has not risen as fa
 
 The Marginal Revolution overturned Classical Economics (which we are advancing) and introduced ideas that led to the following corrupted concepts:
 
-- [Profit Maximization](/social/economics/fallacies/profit-maximization-is-absurd) and [Equity Trading](/social/economics/capitalism) in Microeconomics
+- [Profit Maximization](/social/economics/fallacies/profit-maximization-is-absurd) and [Equity Trading](/social/economics/principles/part-3/chapter-11b/) in Microeconomics
 - [Liquidity Preference](/research/keynes/general-theory/chapter-02) in Macroeconomics
 
 <!-- As discussed [in a previous post](),  and the ownership of the work of others (outside equity) are artificial ideas all invented in the 19th century by businessmen or economists-who-thought-like-businessmen.  -->
@@ -138,10 +138,10 @@ Unfortunately for the world, Smith and Hume (and even Marx in a way) said that p
 Since waves are continuous, they cannot be removed, but only 'toned down'. Ideas on the other hand can be dislodged. Since particles are dislodged by other particles, then the bad ideas of profit maximization and outside equity can be dislodged by more sustainable ideas that are in Superphysics such as:
 
 - [A model of supply and demand](/social/economics/fallacies/supply-demand) to replace the law of supply and demand
-- [Dharma](/social/economics/principles/invisible-hand) and [the effort theory of value ](/social/economics/principles/effort-theory-of-value) instead of Utility, marginal utility, and profit maximization
+- [Dharma](/social/economics/principles/part-2/chapter-01b/) instead of Utility, marginal utility, and profit maximization
 - [Wealth preference](/social/economics/why-qe-failed) and the DCIT model instead of Liquidity preference and the IS-LM curve 
-- [Purchasing Power](/social/economics/solutions/gdp) instead of GDP
-- Debt and Limited Partnerships instead of [Equity and corporations](/social/economics/capitalism)
+- [Purchasing Power](/social/economics/principles/part-4/chapter-07c/) instead of GDP
+- Debt and Limited Partnerships instead of [Equity and corporations](/social/economics/end-of-capitalism/)
 
 
 These then convert an economy from being a static system for creating treasure-particles, into a dynamic one where there is a constant creation and flow of value-waves. 

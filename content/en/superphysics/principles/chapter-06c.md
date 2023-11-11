@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 6b"
+heading: "Chapter 6c"
 title: "Critical Feelings"
 date: 2020-12-12
 # date: 2020-05-26

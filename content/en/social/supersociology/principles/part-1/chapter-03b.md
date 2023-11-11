@@ -5,11 +5,8 @@ date: 2021-07-21
 weight: 14
 image: /photos/objects/king.jpg
 description: "The Self-Regulation espoused by Adam Smith and David Hume requires fellow-feeling"
-youtube: "J6F2_PF2wbo"
 contributors: ['Juan']
 icon: /icons/spss.png
-aliases:
-  /articles/supersociology/self-regulation-adam-smith
 ---
 
 
@@ -43,7 +40,7 @@ Thus, Adam Smith's liberalism requires self-regulation which in turn requires th
 
 ## How our Personal Moral Sense as our Conscience Regulates the Ego through Fellow-feeling with our Future Self
 
-According to David Hume, [each perception of our selves](/articles/social/david-hume-idea-of-self) is a discrete identity which is separate from our other selves. It means that the you of now is a different entity from the you 1 second from now and the you 2 minutes ago. 
+According to David Hume, [each perception of our selves](/bio/principles/intro/chapter-01/) is a discrete identity which is separate from our other selves. It means that the you of now is a different entity from the you 1 second from now and the you 2 minutes ago.
 
 The conscience corrects our current self X by projecting the mind onto our future selves Y and Z which will bear the consequences of the actions of our self X. This then makes us correct our actions to avoid future pain. 
 
@@ -60,16 +57,10 @@ A druglord knows that drugs are bad. But the pleasure from easy riches contradic
 
 Hitler probably knew that invading other countries and killing innocents was bad. But the pleasure of seeing Germans dominate other people was far stronger than any pain from losing the war or sensing the suffering of foreigners and even his fellow Germans towards the end of the war. 
 
-  
-
-<!-- Taonomics will use machine learning on the Tao Network in order to provide supportive moral regulation.  -->
-
-
 <!-- An example of a proper self-regulating economy is the family or tribal clan. They do not view money as wealth and therefore keep their internal trade subjective (according to feeling) instead of objective (according to numbers). No one ever saw a mother charge her children money for the dinner she cooks for them. Instead, the mother expects her children to do good in school and behave well in exchange. 
 
-These are subjective measures based on ‘the impartial spectator’ and not objective ones based on the ego. In time, the tribal clan merged with other clans to become nations and naturally developed the division of labour which were called ‘castes’ in India and ‘hukou’ in China, allowing them to become great empires that were later studied by Smith.
+These are subjective measures based on ‘the impartial spectator’ and not objective ones based on the ego. In time, the tribal clan merged with other clans to become nations and naturally developed the division of labour which were called ‘castes’ in India and ‘hukou’ in China, allowing them to become great empires that were later studied by Smith.-->
 
- -->
 <!-- Smith lived in a time when selfishness, utility, and profit maximization were not dominant ideas. Some people like Mandeville tried to advance them, but they were always successfully opposed by enlightened writers like David Hume. 
 
 But somehow after the Enlightenment, the positive force that countered such shallow ideas grew weak, so that by the mid-19th century, you have no one countering Engels, Marx, and Nietzsche, nor Ayn Rand in the 1960's. So the word 'self-regulating' in enlightened 1779 is different from 'self-regulating' from 1850-2017 (the period when selfishness, marginal utility, and profit maximization became dominant ideas, as enshrined by the marginal revolution).

@@ -53,7 +53,7 @@ Economics was created from Mercantilism which is based on money. Superphysics is
 
 As such, it allows alternatives to money such as direct barter or indirect barter via points which are based on grains. Direct Barter is anything for anything now. Indirect Barter is anything for anything eventually.
 
-Thus, the third law leads to **finance and monetary systems** in Economics, and [points-based valuation](/pantrynomics/alternatives-to-money) and [points-banking](/solutions/pantrynomics/points-banking) to Superphysics. 
+Thus, the third law leads to **finance and monetary systems** in Economics, and [points-based valuation](/social/economics/alternatives-to-money) and [points-banking](https://www.pantrypoints.com/trisactions/banking/) to Superphysics. 
 
 The Second Law generates value through *primary arbitrage* or the difference of your skill and passion level versus the skill and passion of others. For example, if guitar-playing costs 1 unit of effort to you and 2 units of effort to another  person, then you can produce twice his value for the same effort. 
 

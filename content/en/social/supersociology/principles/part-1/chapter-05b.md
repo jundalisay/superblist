@@ -1,7 +1,6 @@
 ---
 title: "Examples of Societies According to Social Cycles"
 heading: "Chapter 5b"
-# title: "What is the Society Organism and Social Networkism?" # heading: "The System to Harmonize Minds Into a Society"
 image: "/photos/team.jpg"
 date: 2021-07-01
 weight: 4

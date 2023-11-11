@@ -113,11 +113,11 @@ But the Cold war is more recent than the French Revolution, so it would be naive
 
 ## Our Solution: The Social Republic
 
-As a workaround, we've created a new term called [social networkism](/social/social-networkism) to bring back the original French idea (social) <!-- with the addition of the new concept of the soul of society (dialectical) --> which can manifest as a social network (networkism). 
+As a workaround, we've created a new term called [social networkism](/social/supersociology/principles/part-01/chapter-01) to bring back the original French idea (social) <!-- with the addition of the new concept of the soul of society (dialectical) --> which can manifest as a social network (networkism). 
 
 It distances itself from anarchism or laissez-faire liberalism by espousing the unity of society over the unity of the self*. Rather, it assumes that the self has already been unified according to the principles of Bio Superphysics. 
 
-> *Recall that, in our system, [a person has 3 billion selves](/medical/idea-of-self).
+> *Recall that, in our system, [a person has 3 billion selves](/bio/principles/intro/chapter-01).
 
 
 When systematized as a government, it becomes a 'social network republic' which we shorten to 'social republic'. Countries which adopt this system will then be named 'The Social Republic of Wakanda', for example. 

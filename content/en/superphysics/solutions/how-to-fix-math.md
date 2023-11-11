@@ -15,7 +15,7 @@ A major turn-off in math is the use of arbitrary variables in equations, usually
 To make math fun again, we can create a method called decon notation, which deconstructs those arbitrary Greek variables back into plain English. For example, John Maynard Keynes’ uses `ΣQrdr` to define the “marginal efficiency of capital”:
 
 
-{{< q a="keynes" c="General Theory of of Employment, Interest and Money" >}}
+{{< q a="John-Maynard-Keynes" c="General Theory of of Employment, Interest and Money" >}}
 If `Qr` is the prospective yield from an asset at time `r`, and `dr` is the present value of £1 deferred `r` years at the current rate of interest, `ΣQrdr`, is the demand price of the investment.
 {{< /q >}}
 

@@ -104,7 +104,7 @@ The populations whom the Spaniards have conyerted to Catholicism have lost all o
 
 <!--  and Maharlikan Constitutional Virtues -->
 
-To convert a nation of slaves and employees into a respectable one of productive pioneers and innovators (and [be relevant on the world stage](https://www.youtube.com/watch?v=589s6x9pjhU), we change the identity of the Philippines into [Maharlika](/maharlikanism). 
+To convert a nation of slaves and employees into a respectable one of productive pioneers and innovators (and [be relevant on the world stage](https://www.youtube.com/watch?v=589s6x9pjhU), we change the identity of the Philippines into [Maharlika](https://maharlika.superphysics.org). 
 
 The very first step is to establish a moral system based on [constitutional virtues](/social/supersociology/solutions/constitutional-virtues) chosen by the people. We suggest 8 virtues:
 
@@ -127,7 +127,7 @@ France has its own version of constitutional virtues as:
 
 With this new identity, the people stop being Filipinos or subjects or employees of King Philip, and become Maharlikan, an independent people with their own mind.  
 
-{{<img src="/photos/medieval/lapu.jpg" alt="Lapu Lapu" cap="Lapu Lapu is the first Western-recorded person to exhibit Maharlikan virtues. Datu Puti and the Negrito king who welcomes him are also pre-colonial examples." >}}
+{{< img src="/photos/medieval/lapu.jpg" alt="Lapu Lapu" cap="Lapu Lapu is the first Western-recorded person to exhibit Maharlikan virtues. Datu Puti and the Negrito king who welcomes him are also pre-colonial examples." >}}
 
 These virtues can lead to a new culture and rules that can replace the morals of Spanish Catholicism and American liberalism. They will be the template for policy-changes that can be implemented until the 2050's when our model predicts a big social change to happen. 
 
@@ -203,7 +203,7 @@ In 2006, Mrs Arroyo issued an executive order legalising the informal private "a
 
 This contributes to rent-seeking and low productivity since the people are under a leader that owes his rule to Manila instead of the locals.
 
-Maharlikanism suggests a [federation of 27 states](/maharlika/governance/federalism) that will spur and maximize the productivity of the people. 
+Maharlikanism suggests a federation of 27 states that will spur and maximize the productivity of the people. 
 
 The federal government will then be in charge of semi-state owned corporations that will build dams, power generation, and transportation infrastructure for the states. This is because large inftrastructure often crosses state lines.  
 - For example, each province should have its own powerplant run by the federal government with 10-90 to 30-70 equity split, with the larger belonging to investors who will provide the equipment and expertise. This will replace the centralized baseload configuration of the energy sector into a more diversified and independent one that can use solar, wind, geothermal, or hydro.   
@@ -233,9 +233,9 @@ The  representatives will have all the legislative power. The votes on legislati
 
 <!-- The Chinese traders respected the barter economy of Maharlika for its fidelity.    -->
 
-The federalized system will be ideal for our proposed bayanihan barter economy which is based on [points as a store of value](/social/economics/solutions/bur/).
+The federalized system will be ideal for our proposed bayanihan barter economy which is based on [points as a store of value](/social/economics/principles/part-1/chapter-03b/).
 
-A point is pegged to 1 kilogram of NFA rice. This will implement Adam Smith's [grain-based valuation](/social/economics/principles/effort-theory-of-value). This is superior to cryptocurrency and which is pegged to nothing. In fact, the chronic inflation from 2020 is caused by crypto*.
+A point is pegged to 1 kilogram of NFA rice. This will implement Adam Smith's [grain-based valuation](/social/economics/principles/part-2/chapter-01b/). This is superior to cryptocurrency and which is pegged to nothing. In fact, the chronic inflation from 2020 is caused by crypto*.
 
 
 > *Instead of people putting their money in the bank which the bank can lend to producers, they put their money into crypto which produces nothing and even wastes electricity. This waste and lack of production contributes to inflation. 
@@ -264,7 +264,6 @@ In Schumacher's system, the exports of Country A to Country B is paid for by the
 
 {{< q a="EF-Schumacher" >}}
 Compared to free international convertibility of currencies, Pool Clearing offers one outstanding advantage: its inner mechanism overcomes temporary disequilibrium situations in international exchange by expansion instead of restriction.
-<cite>EF Schumacher</cite>
 {{< /q >}}
 
 <!-- in the pool act as one country   A competing with Country B, the foreign trade of both countries are unified as to act like local trade. In this way, a country can   -->
@@ -381,7 +380,7 @@ The government can barter food and other non-monetary items in exchange for the 
 
 {{< q a="David-Hume" >}}
 Strabo says that the northern parts of Spain are ill inhabited because of the great cold. This means that Europe is become warmer than before. This warming is caused by the cultivation of land which causes woods to be cleared. The woods formerly shaded the earth and kept the rays of the sun from penetrating to it. Our northern colonies in America become more temperate as the woods are felled. 
-<cite>David Hume, Essay 11: The Populousness Of Ancient Nations</cite>
+<cite>Essay 11: The Populousness Of Ancient Nations</cite>
 {{< /q >}}
 
 <!--  General Goal: Sustainable Industrialization -->

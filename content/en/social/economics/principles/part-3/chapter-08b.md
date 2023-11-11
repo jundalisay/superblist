@@ -61,7 +61,7 @@ Motive | Production | Profit Maximization
 Important people | entrepreneurs and industrialists | banks and financers
 
 
-By focusing on cash and interest rates instead of actual factories or production, the Neoclassical System gives so much attention to the banking industry. **The problem is that finance is actually** [unproductive labor](/social/economics/principles/6-efforts)! 
+By focusing on cash and interest rates instead of actual factories or production, the Neoclassical System gives so much attention to the banking industry. **The problem is that finance is actually** [unproductive labor](/social/economics/principles/part-4/chapter-04/)! 
 
 Banks and financiers do not create goods or commodities. They merely circulate the fund that will be used by workers and producers. This is opposite of the Classical System that focused on the workers and producers. 
 
@@ -74,13 +74,13 @@ Banks and financiers do not create goods or commodities. They merely circulate t
 
 The influence of profit and money makes its way in Keynes' definition of interest rate as **the reward for letting go of cash**:
 
-{{< q a="keynes" c="The General Theory of the Rate of Interest" >}}
+{{< q a="John-Maynard-Keynes" c="The General Theory of the Rate of Interest" >}}
 The rate of interest at any time is the reward for parting with liquidity.. It is the “price” which equilibrates the desire to hold wealth as cash..
 {{< /q >}}
 
 This leads to his mistake in asserting that interest rates can never be negative:
 
-{{< q a="keynes" c="The General Theory of the Rate of Interest, Chapter 13" >}}
+{{< q a="John-Maynard-Keynes" c="The General Theory of the Rate of Interest, Chapter 13" >}}
 But the rate of interest is never negative. 
 {{< /q >}}
 
@@ -282,7 +282,7 @@ Barter-credits are pegged to the value of grains which are not subject to intere
 Other minor solutions are:
 
 - replacing the profit maximization doctrine of Marginalism with the [Effort Theory of Value](/social/economics/principles/part-2/chapter-01b)
-- a machine learning system called [ISAIAH](/superphysics/solutions/isaiah) to guesstimate the credit-worthiness of people. 
+- a machine learning system called [ISAIAH](/superphysics/principles/chapter-04d/) to guesstimate the credit-worthiness of people. 
 
 <!-- . This is already done by fintech companies that use AI to predict credit scores. Our innovation will be to extend it to everyone through a barter-credit system. -->
 

@@ -27,8 +27,7 @@ An advanced economy will have so much competition and so many products which wil
 An easy proof is the [Vision Fund of Softbank](/social/economics/last-capitalist) which invests in non-Japanese companies like WeWork and Uber, and the [huge overseas investments by Japanese banks](https://www.japantimes.co.jp/news/2020/06/18/business/economy-business/banks-overseas-investments/) before and after the pandemic
 
 {{< q a="Adam-Smith" >}}
-<p>In a country fully peopled.. the competition for employment would necessarily be so great as to reduce the wages of labour.. In a country fully stocked in proportion to all the business it had to transact.. the competition.. would everywhere be as great, and consequently the ordinary profit as low as possible.</p>
-<cite>Adam Smith</cite>
+In a country fully peopled.. the competition for employment would necessarily be so great as to reduce the wages of labour.. In a country fully stocked in proportion to all the business it had to transact.. the competition.. would everywhere be as great, and consequently the ordinary profit as low as possible
 {{< /q >}}
 
 
@@ -95,7 +94,7 @@ In fact, the 3 arrows of Abenomics looks as though someone copy-pasted Keynes on
 
 A deflation is caused by a population that is ageing or declining. No matter how much money you throw at an old man, his productivity and consumption will never improve to be like that of a young man. The best solution* is to [get more young men into the economy](https://www.japantimes.co.jp/news/2014/05/18/national/success-abenomics-hinges-immigration-policy/).
 
-> *Some Japanese have pointed out that Japanese cities like Tokyo are already overpopulated and cannot handle any more humans. They do not realize that the overcrowding is the natural result of commercialization wherein humans compete for the money from profit-earners, concentrated in one place. Superphysics advocates balanced [urban-rural development](/social/economics/principles/development) through the effort theory of value 
+> *Some Japanese have pointed out that Japanese cities like Tokyo are already overpopulated and cannot handle any more humans. They do not realize that the overcrowding is the natural result of commercialization wherein humans compete for the money from profit-earners, concentrated in one place. Superphysics advocates balanced [urban-rural development](/social/economics/principles/part-4/chapter-06/) through the effort theory of value 
 
 <!-- That is why  fail to point out that the historical solution was free movement, such as the Japanese to emigrating to Brazil in the 19th century.   -->
 

@@ -35,7 +35,7 @@ World | 2019: A global financial crisis will emerge in a certain year between 20
 ![Philippine flag](/flags/ph.png) | 2022: Bongbong Marcos will win the elections | {{< color val="Correct" >}}
 ![Cuba flag](/flags/cu.png) | 2022: The US will reduce sanctions during its mid-philosopher cycle | {{< c v="orange" >}}Pending{{< /c >}}
 ![Hungary flag](/flags/hu.png) | 2022 Hungary: Orban will win the elections | {{< color val="Correct" >}}
-![Japan flag](/flags/jp.png) | 2021: Probing prediction--Kono will be Prime Minister. In reality, Kishida won. This proves that Japanese political system is [a society within a society](/social/cycles/how-to-fix-japan/) that represents itself and not the people, just like China's Communist party. To predict Japan's elections, the model has to be applied to the LDP | {{< color color="Navy" val="Null" >}}
+![Japan flag](/flags/jp.png) | 2021: Probing prediction--Kono will be Prime Minister. In reality, Kishida won. This proves that Japanese political system is [a society within a society](/social/cycles/japan/) that represents itself and not the people, just like China's Communist party. To predict Japan's elections, the model has to be applied to the LDP | {{< color color="Navy" val="Null" >}}
 ![US flag](/flags/us.png) | 2008 & 2012 Obama will win the elections, 2016 Clinton will win the popular vote, 2020 Biden will win the popular vote | {{< color val="Correct" >}}
 ![Russian flag](/flags/ru.png) | 2021: Navalny's protests will not bear fruit and will fizzle out, while Russia will increase its militarization [This is especially true in 12/2021 with Russia amassing troops near Ukraine -- it will only get worse!] | {{< color val="Correct" >}}
 ![Israel flag](/flags/il.png) | 2021: Netanyahu will lose power after 2020 | {{< color val="Correct" >}}
@@ -51,7 +51,7 @@ World | 2019: A global financial crisis will emerge in a certain year between 20
 ![Philippine flag](/flags/ph.png) | 2016: Roxas will win the elections | {{< color color="red" val="Wrong" >}}
 ![Iran flag](/flags/ir.png) | 2016: The US will slowly lift more sanctions (In reality, Trump imposed new sanctions) | {{< c v="red" >}}Wrong{{< /c >}}
 ![Great Britain flag](/flags/gb.png) | 2016: Scotland will want to leave the UK | {{< color val="Semi-correct" >}}
-![Syria flag](/flags/sy.png) | 2015: Assad will start losing ground to rebels by late 2016 (Update 2022: This is explained by the concept of [the balance of power](/social/cycles/how-to-fix-russia) | {{< color color="red" val="Wrong" >}}
+![Syria flag](/flags/sy.png) | 2015: Assad will start losing ground to rebels by late 2016 (Update 2022: This is explained by the concept of [the balance of power](/social/cycles/russia) | {{< color color="red" val="Wrong" >}}
 ![Saudi flag](/flags/sa.png) | 2015: The Jeddah Tower will not be completed on time | {{< color val="Correct" >}}
 ![Greek flag](/flags/gr.png) | 2015: The Greek debt crisis will continue | {{< color val="Correct" >}}
 

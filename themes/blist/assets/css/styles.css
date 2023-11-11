@@ -94,9 +94,9 @@
 
 .kant, .Kant {background-image: url(/avatars/kant.png);}
 
-.kepler, .Kepler {background-image: url(/avatars/kepler.jpg);}
+.kepler, .Kepler, .Johannes-Kepler {background-image: url(/avatars/kepler.jpg);}
 
-.keynes, .Keynes {background-image: url(/avatars/keynes.png);}
+.keynes, .Keynes, .John-Maynard-Keynes {background-image: url(/avatars/keynes.png);}
 
 .Krishna {background-image: url(/avatars/krishna.png);}
 
@@ -114,7 +114,7 @@
 
 .marx, .Marx {background-image: url(/icons/marx.png);}
 
-.mill, .Mill {background-image: url(/icons/mill.png);}
+.mill, .Mill, .John-Stuart-Mill {background-image: url(/icons/mill.png);}
 
 .Pythagoras {background-image: url(/icons/py.png);}
 
@@ -140,7 +140,7 @@
 
 .say, .Say {background-image: url(/avatars/say.png);}
 
-.sam, .Samuelson {background-image: url(/icons/sam.png);}
+.sam, .Samuelson, .Paul-Samuelson {background-image: url(/icons/sam.png);}
 
 .Sarkar, .PR-Sarkar {background-image: url(/icons/sarkar.png) !important;}
 
@@ -148,7 +148,7 @@
 
 .smith, .Smith, .Adam-Smith {background-image: url(/avatars/smith.png) !important;}
 
-.Someone, .Blasphemer, .No-photo, .m, .Mohammad, .Mun {background-image: url(/avatars/blank.png);}
+.Someone, .Blasphemer, .No-photo, .m, .Mohammad, .Mun, .Thomas-Mun {background-image: url(/avatars/blank.png);}
 
 .roger {background-image: url(/avatars/roger.jpg) !important;}
 

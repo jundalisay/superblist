@@ -40,7 +40,7 @@ The different mentalities of different economists has led to different meanings 
 
 
 
-The failure of quantitative easing, both in the US under Obama and in Japan as [Abenomics](/social/cycles/how-to-fix-japan), is proof that the operations of banking cannot directly and immediately lead to economic growth, as explained by Adam Smith:  
+The failure of quantitative easing, both in the US under Obama and in Japan as [Abenomics](/social/cycles/japan), is proof that the operations of banking cannot directly and immediately lead to economic growth, as explained by Adam Smith:  
 
 {{< q a="Adam-Smith" >}}
 The judicious operations of banking can increase a country’s industry, not by augmenting the country’s capital, but by rendering most of that capital productive.
@@ -50,7 +50,7 @@ The judicious operations of banking can increase a country’s industry, not by 
 This is opposite the notion of Keynes that interest rates, set by banks, are the key to growing an economy:
 
 
-{{< q a="keynes" >}}
+{{< q a="John-Maynard-Keynes" >}}
 The interest rate policy of the central bank can alter the money supply. This makes it a real determinant of the economic scheme.
 <cite>Simplified General Theory, Chapter 14 Appendix</cite>
 {{< /q >}}
@@ -78,7 +78,7 @@ From here, we can explain the affinities and oppositions of different beliefs an
 - Classical economics is the polar opposite of Marginalism which enshrines math and science. Xenophon and Smith have no equations at all, which makes them unacceptable as the basis of Economic 'science'* which currently has econometrics, derivative equations, and stochastic calculus
 - Keynesian economics** and Marxism are the opposite of the Austrian economics of Von Mises, Hayek, and Lbertarianism
 
-> *Superphysics understands all these definitions, but is based on Classical ones since it views the society as a [metaphysical organism](/social/social-networkism). The mathematical analyses will be done by machine learning. Economist will predictably say that Smith's invisible hand is pseudo-science, and so we put Superphysics in its own field as Dialectics, which is above Science but under Metaphysics or Philosophy
+> *Superphysics understands all these definitions, but is based on Classical ones since it views the society as a [metaphysical organism](/social/supersociology/principles/part-1/chapter-01). The mathematical analyses will be done by machine learning. Economist will predictably say that Smith's invisible hand is pseudo-science, and so we put Superphysics in its own field as Dialectics, which is above Science but under Metaphysics or Philosophy
 
 
 > **Update Nov 2021: Japan's Liberal Democratic party is similar to the Chinese Communist Party in the sense that they both have a single-party rule. It's no wonder that Japan implemented Keynes' plan fully
@@ -103,14 +103,14 @@ Among the Mongols and shepherd nations who are ignorant of the use of money, cat
 
 This is even supported by Ricardo, which was actually praised by Keynes:
 
-{{< q a="ric" >}}
+{{< q a="Ricardo" >}}
 The interest of money is not regulated by the rate at which the Bank will lend, whether it be whatever percent, but by the rate of profit which can be made by the employment of capital. This is totally independent of the quantity or of the value of money.
 <cite>Principles of Political Economy (p.511)</cite>
 {{< /q >}}
 
 This is **directly opposite** the belief of Keynes who established the love of cash as being fundamental to Economics, as liquidity-preference:
 
-{{< q a="keynes" >}}
+{{< q a="John-Maynard-Keynes" >}}
 The psychological time-preferences of an individual need two sets of decisions.<br>1. The time-preference which I call the "propensity to consume" -- this determines for each individual how much of his income he will consume and save.<br>2. His liquidity preference -- How long does he intend to have his money savings and not spend it?<br>The mistake of previous theories on the rate of interest is that they neglect the liquidity preference. This neglect is what we are repairing.
 <cite>Simplified General Theory</cite>
 {{< /q >}}

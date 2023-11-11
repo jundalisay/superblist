@@ -9,7 +9,7 @@ icon: /icons/pantry.png
 ---
 
 
-**Adam Smith** said that the differences in wages are due to [five factors](/reearch/smith/wealth-of-nations/book-1/chapter-10/part-1a):
+**Adam Smith** said that the differences in wages are due to [five factors](/research/smith/wealth-of-nations/book-1/chapter-10/part-1a):
 
 1. Agreeableness
 2. Trust

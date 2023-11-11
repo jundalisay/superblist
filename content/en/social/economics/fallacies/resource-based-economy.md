@@ -27,7 +27,7 @@ It hopes to do this by using technology to reduce scarcity. This makes it seem c
 
 
 {{< q a="David-Hume" >}}
-<p>Increase the benevolence of men or the bounty of nature, and you render justice unnecessary</p>
+Increase the benevolence of men or the bounty of nature, and you render justice unnecessary.
 <cite>Simple Treatise of Human Nature, Book 3, Part 2, Section 3</cite>
 {{< /q >}}
 
@@ -62,6 +62,6 @@ Unlike RBE, Superphysics is based on metaphysics. It has its own theory of value
 
 Like RBE, it relies much on technology to scale itself. However, unlike RBE, it can work with old tech such as pen and paper as the tool to build economic agreements between humans. 
 
-Unlike the AI of RBE, [the AI of Superphysics](/superphysics/solutions/isaiah), does not impose on the people. Rather, it learns what people need and then suggests the appropriate transactions. 
+Unlike the AI of RBE, [the AI of Superphysics](/superphysics/principles/chapter-04d/), does not impose on the people. Rather, it learns what people need and then suggests the appropriate transactions. 
 
 RBE suffers from the same flaws as Marxism which is a sign of the confused feelings of its founder. In the next post, we shall compare the feelings of Adam Smith with Karl Marx to see what constitutes 'solid' or dharmic feelings.

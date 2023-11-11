@@ -43,7 +43,7 @@ From the time of Say and Ricardo, the classical economists have taught that supp
 
 J. S. Mill’s Principles of Political Economy explains this doctrine:
 
-{{< q a="mill" >}}
+{{< q a="John-Stuart-Mill" >}}
 The means of payment for commodities is simply commodities. Each person pays for the productions of other people with his own. All sellers are inevitably buyers. 
 
 If we could suddenly double the country's productivity, we would double the supply of commodities in every market. We would also double the purchasing power. Everybody would bring a double demand as well as supply. Everybody would be able to buy twice as much, because every one would have twice as much to offer in exchange. 

@@ -283,15 +283,15 @@ This would happen if such caveman preferred easy skills such as hunting, gatheri
 
 
 {{< box >}}
-<h3>Qosts in Physics: Schwarzschild Radii or Centers of Gravity</h3>
+### Qosts in Physics: Schwarzschild Radii or Centers of Gravity
 
 Qosts in Physics manifest as the Schwarzschild Radius or the event horizon of a black hole. The Schwarzschild Radius of the Earth is 1 centimeter, while that of the sun is 3 kilometers.    
 
-Superhysics arrives at the qost of an object by flipping the Schwarzschild Radius to make the mass dependent on a [gravitational variable G](/material/general-relativity) (not a constant) and by using a limiting tensor <code>s</code> instead of a constant speed of light <code>c</code>`. 
+Superhysics arrives at the qost of an object by flipping the Schwarzschild Radius to make the mass dependent on a [gravitational variable G](/material/fallacies/general-relativity) (not a constant) and by using a limiting tensor <code>s</code> instead of a constant speed of light <code>c</code>`. 
 
 From here we can make important logical assertions:
 
-<h4> 1. The mass and size* of a qost is dependent on its gravitational signature</h4>
+#### 1. The mass and size* of a qost is dependent on its gravitational signature
 
 Since a qost represents a complex idea, then a small Schwarzschild Radius represents a small idea while large one represents a large one. 
 
@@ -299,13 +299,14 @@ Since a qost represents a complex idea, then a small Schwarzschild Radius repres
 
 
 
-<h4> 2. The universe did not start from a material singularity</h4>
+#### 2. The universe did not start from a material singularity
 
 Rather, it began as an infinite number of discrete ideas streaming through onto physical reality via qosts. This is similar to your TV screen having no single starting point.
 
 <!-- In this analogy, the LED bulb would represent a star or galaxy qost that emits its idea or feeling as the physical color and material from the star or galaxy. -->
 
-<h4> 3. The expansion of spacetime really represents the development of those original potential ideas into actual ones </h4>
+
+#### 3. The expansion of spacetime really represents the development of those original potential ideas into actual ones
 
 The universe can expand infinitely just as ideas can be developed, and mixed and matched into other ideas infinitely. The physical expansion does not mean that the universe started from a singularity or will collapse back into one. That kind of thinking arises from materialist thinking, by thinking that the material universe came from a material cause.  
 {{< /box >}}

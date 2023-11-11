@@ -113,7 +113,6 @@ The cause of spacetime therefore is the cognition of this appearance of qosts wh
 
 {{< img src="/graphics/traf.png" cap="To get the position of the cloud over Trafalgar square, Einstein's system uses vectors and tensors. In Superphysics, the same result is obtained by knowing the nature of both the cloud and that of Trafalgar square. In this way, the Pythagorean theorem is not applied to spacetime, but to the differences between the changing natures of the cloud relative to Trafalgar square." alt="Trafalgar Square" >}}
 
-<!-- pepsi 7up game -->
 
 ## Replacing Einstein's "Time"
 
@@ -164,10 +163,10 @@ These two make objects appear to move, depending on the rules of their layer and
 Name | Physics Name | Manifestation | Practical Goal
 --- | --- | --- | ---
 [Aethereal Bands](/material/principles/part-2/chapter-03) | Pseudo-science | Movement and transformation for qoas (ideas) between probabilities or multiverses inside minds | Bio Superphysics: know whether a person is moving towards disease so his course can be changed<br>Supersociology: know where the feeling of society is heading, so it doesn't go into anarchy<br>Economics: know whether the economy is moving towards poverty and inequality
-[Spatial Bands](/material/principles/part-3/chapter-03) | General Relativity | Movement of supermassive blackholes (qosts) as the expansion of the universe and galaxy rotation | [Allow fusion](/articles/material/fusion) by levitating plasma, and allow teleportation to other galaxies
-[Radiant Bands](/material/principles/part-4/chapter-03) | Special Relativity | Movement and transformation for photons (quanta of light or qol) and electrons (quanta of electromagnetism or qoe) | Make [light-based computing](/material/solutions/light-based-computing) more practical
-[Transformative Bands](/material/principles/part-5/chapter-03) | Feynman Diagrams | Movement and transformation for neutrons | Allow alchemy 
-[Material Bands](/material/principles/part-6/chapter-03) | Newton's Laws | Movement and transformation sourced externally | Enable teleportation and levitation technologies
+[Spatial Bands](/material/principles/part-2/chapter-04b) | General Relativity | Movement of supermassive blackholes (qosts) as the expansion of the universe and galaxy rotation | [Allow fusion](/material/solutions/fusion) by levitating plasma, and allow teleportation to other galaxies
+Radiant Bands | Special Relativity | Movement and transformation for photons (quanta of light or qol) and electrons (quanta of electromagnetism or qoe) | Make [light-based computing](/material/solutions/light-based-computing) more practical
+Transformative Bands | Feynman Diagrams | Movement and transformation for neutrons | Allow alchemy 
+[Material Bands](/material/principles/part-5/chapter-03) | Newton's Laws | Movement and transformation sourced externally | Enable teleportation and levitation technologies
 
 
 When combined with each other, <!-- , together with the metaphysical relativity (not discussed here), --> these are called **universal relativity**. External movement seems most obvious in the material layer. This manifests as a ball being moved by an external push, or a floating asteroid being moved by being hit by another asteroid. But on closer inspection, these are still sourced internally from their mass. 

@@ -85,7 +85,7 @@ Rather than break up big capital and force competition and innovation among busi
 
 Worse is that Keynes wasn't really sure if his theory could lead to stable money supply and prices:
 
-{{< q a="keynes" >}}
+{{< q a="John-Maynard-Keynes" >}}
 <p>Mdp/pdM = ep.ed.. this last expression gives us the proportionate change in prices in response to a change in the quantity of money, it can be regarded as a generalised statement of the Quantity Theory of Money. <i>I do not myself attach much value to manipulations of this kind; and I would repeat my warning that they involve just as much tacit assumption as to what variables are taken as independent</i>.. the best purpose served by writing them is to exhibit the extreme complexity of the relationship between prices and the quantity of money</p>
 {{< /q >}}
 

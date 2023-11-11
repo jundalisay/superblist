@@ -14,7 +14,7 @@ toc: false
 <!-- ### The Second Law of Value: The Invisible Hand of Dharma as Real Prices -->
 
 [The First Law of Value](/social/economics/principles/part-1/chapter-01) introduced Exchangeable Value which is seen as Nominal Price to the Buyer. The Second Law of Value introduces **Real Price** which is the Exchangeable Value to the Seller. 
-- Real value is the value of the effort, trouble, hardship, and sentimentalism that is put into the Item by its owner or seller. This leads to [the Effort theory of value](/articles/pantrynomics/the-effort-theory-of-value) that we derived from Adam Smith, which is opposite of the Labor theory of value of Karl Marx
+- Real value is the value of the effort, trouble, hardship, and sentimentalism that is put into the Item by its owner or seller. This leads to [the Effort theory of value](/social/economics/principles/part-2/chapter-01b/) that we derived from Adam Smith, which is opposite of the Labor theory of value of Karl Marx
 - Nominal value is the value of the Item to its buyer/s who may or may not have idea of its real value to its owner
 
 The Second Law of Value states that **value goes from areas with high value to areas with low value in order to spread out the value and remove the lack in society**. This mirrors the Second Law of Thermodynamics that states that energy goes from hot to cold to equalize the heat, or that organized systems become unstable as time passes. It also leads to the concept of economic development just as the thermodynamics law leads to the concept of time*. 

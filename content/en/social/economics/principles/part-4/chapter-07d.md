@@ -94,11 +94,11 @@ The 2 main solutions of the British economist John Maynard Keynes to the Great D
 
 Deficit spending is when the government gets in debt in order to prop up employment or the economy. We can say that this is a fiscal solution. This now manifests as big public works projects.
 
-{{< q a="keynes" c="The General Theory Simplified, Chapter 10" >}}
+{{< q a="John-Maynard-Keynes" c="The General Theory Simplified, Chapter 10" >}}
 It follows that if the people choose to consume, then the multiplier `k` is 10, and the total employment caused by increased public works, for example, will be 10 times the primary employment provided by the public works themselves
 {{< /q >}}
 
-{{< q a="keynes" c="The General Theory Simplified, Chapter 8" >}}
+{{< q a="John-Maynard-Keynes" c="The General Theory Simplified, Chapter 8" >}}
 A big decline in income due to a decline in the level of employment may even cause consumption to exceed income. In the case of the Government, it will run into a budget deficit by providing unemployment relief by borrowing money. 
 {{< /q >}}
 
@@ -107,7 +107,7 @@ A big decline in income due to a decline in the level of employment may even cau
 
 Open-market operations is when the central bank buys or sells government bonds in order to control the money supply. We can say that this is a monetary solution. This now manifests as quantitative easing.
 
-{{< q a="keynes" c="The General Theory Simplified, Chapter 15" >}}
+{{< q a="John-Maynard-Keynes" c="The General Theory Simplified, Chapter 15" >}}
 The aggregate demand for money to satisfy the speculative-motive continually responds to changes in the rate of interest, as a curve. These changes are in the changing prices of bonds and debts of various maturities. This is why “open market operations” are done...
 
 Open-market operations may influence the interest rate since they may change the volume of money and change expectations on the future policy of the Central Bank or the Government. 

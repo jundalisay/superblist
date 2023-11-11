@@ -153,10 +153,10 @@ Smith wrote that governments must understand the invisible hand of svadharma in 
 
 {{< q a="Adam-Smith" >}}
 The man of system is.. often so enamoured with.. his own ideal plan of government.. He imagines that he can arrange the members of a great society with as much ease asthe hand arranges the different pieces on a chess-board.
-<br><br>
+
 He does not consider that the pieces.. have no other principle of motion besides that which the hand impresses upon them.But that, in the great chess-board of human society, every single piece has a principle of motion of its own, altogether different from that which the legislature might choose to impress on it.
-<br><br>
 If those two principles.. act in the same direction, the game of human society will go on easily and harmoniously, and is very likely to be happy and successful. If they are opposite or different, the game will go on miserably, and the society must be at all times in the highest degree of disorder. 
+
 <cite>Simple Theory of Moral Sentiments, Part 6, Chapter 2</cite>
 {{< /q >}}
 
@@ -164,7 +164,7 @@ If those two principles.. act in the same direction, the game of human society w
 {{< img src="https://sorasystem.sirv.com/photos/Radha-Krishna_chess.jpg" cap="The Hindu god Krishna playing chess with goddess Radha" alt="Krishna playing chess" >}}
 
 
-The best laws are those that match the collective svadharma of their society and not just the personal interests of a few people. Thus, the invisble hand is never an external imposition, but rather [an internal principle of movement](/social/economics/principles/eagle) -- the same principles that make a fire burn or the wind blow. 
+The best laws are those that match the collective svadharma of their society and not just the personal interests of a few people. Thus, the invisble hand is never an external imposition, but rather [an internal principle of movement](/superphysics/principles/chapter-04c/) -- the same principles that make a fire burn or the wind blow. 
 
 The West eventually discovered the way to find this internal principle through suffrage or by asking everyone to express who should be their nation's leader. 
 

@@ -31,7 +31,7 @@ Examples or precusors of dynamic wavelength technologies are:
 
 ## Why Light-based Computing is Important to Superphysics
 
-The lofty goals and solutions of Superphysics are best achieved through the use of machine learing and [automated intelligence](/superphysics/ai-is-autonomous) which will manifest as [ISAIAH](/articles/superphysics/what-is-isaiah):
+The lofty goals and solutions of Superphysics are best achieved through the use of machine learing and [automated intelligence](/superphysics/principles/chapter-12/) which will manifest as [ISAIAH](/superphysics/principles/chapter-04d/):
 
 
 Branch | Goal | ISAIAH Feature

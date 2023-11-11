@@ -59,7 +59,9 @@ An easy example is the high price of iPhones wherein Apple works hard to protect
 
 ## High Prices Lead to Bad Things
 
-High market prices have led to povert, inequality, and revolution ever since money was invented. The high market prices of assets such as stocks and property have led to stock and real estate crashes which destroy value and savings, which then destroy the accumulated work done. This regular destruction of wealth and low purchasing power of savings then implies that people are really just working everyday for food, rent, and utilities in order to keep on working for food, rent, and utilities -- not so different from a slave.
+High market prices have led to povert, inequality, and revolution ever since money was invented. The high market prices of assets such as stocks and property have led to stock and real estate crashes which destroy value and savings, which then destroy the accumulated work done. 
+
+This regular destruction of wealth and low purchasing power of savings then implies that people are really just working everyday for food, rent, and utilities in order to keep on working for food, rent, and utilities -- not so different from a slave.
 
 ![Wage gap](https://sorasystem.sirv.com/graphics/wagegap.png)
 
@@ -72,7 +74,9 @@ The natural price is the lowest..he is likely to sell them for any considerable 
 
 ## The Goal of Superphysics: Zero Inflation
 
-All of these then lead us to create one of the main goals of Superphysics which is zero inflation. This is different from the goal of Economics which is an inflation of 2-4%. To explain why a 2% inflation target is bad, we first have to define inflation and deflation [in Part 2](/social/economics/inflation-deflation) and show why the 2% inflation target of Economics naturally leads to inequality by favoring the business class, at the expense of the working class. 
+All of these then lead us to create one of the main goals of Superphysics which is zero inflation. This is different from the goal of Economics which is an inflation of 2-4%. 
+
+To explain why a 2% inflation target is bad, we first have to define inflation and deflation [in Part 2](/social/economics/principles/part-1/chapter-07/) and show why the 2% inflation target of Economics naturally leads to inequality by favoring the business class, at the expense of the working class. 
 
 These then explain why economic crises, poverty, and inequality still persist despite over 100 years of Economics --because its principles actually create crises, poverty, and inequality.
 

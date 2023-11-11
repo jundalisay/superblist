@@ -9,13 +9,11 @@ icon: /icons/spmat.png
 ---
 
 
-The previous post explained the concept of [Qosts or the quantum of space time](/material/principles/qost). These are points in spacetime that gather energy to create mass in order to create discrete things. These create spacetime by their mutual repulsion and, thus, are essential in levitation and teleportation. 
+The previous post explained the concept of [Qosts or the quantum of space time](/material/principles/part-2/chapter-03). These are points in spacetime that gather energy to create mass in order to create discrete things. These create spacetime by their mutual repulsion and, thus, are essential in levitation and teleportation. 
 
-<br>
 
 {{< youtube F5rqnidVUkY >}}
 
-<br>
 
 These can also be employed to harness energy in two ways:  
 
@@ -25,7 +23,6 @@ These can also be employed to harness energy in two ways:
 
 Physicists are going for the second approach after learning how to extract atomic energy in the 1940's through nuclear fission reactions, as a consequence of atomic theory. However, fission is limited and dangerous. This led physicists to go for fusion which is supposed to be clean and safe. 
 
-<br>
 
 ## The Fusion Solution
 
@@ -122,7 +119,7 @@ So what is missing in the human version?
 The main problem is that physicists haven't discovered the underlying principles for gravitation. 
 
 
-Currently, this is supposed to be done by Einstein's General Relativity (GR)*. However, upon closer inspection of [his theory](/solutions/material/how-to-fix-general-relativity), it's clear that GR is merely Special Relativity (SR) applied to cosmic objects. 
+Currently, this is supposed to be done by Einstein's General Relativity (GR)*. However, upon closer inspection of [his theory](/material/fallacies/general-relativity), it's clear that GR is merely Special Relativity (SR) applied to cosmic objects. 
 
 
 **It is a theory of light applied to outerspace. It is not a theory of gravity!**
@@ -133,12 +130,6 @@ The proof is the necessity of light to prove GR:
 - gravitational lensing is detected by light from other stars
 
 > *The blame for the dominance of Einstein's GR really falls on Lorentz who was not able to properly defend the concept of the all-pervading aether (which now is called the Higgs field)  
-
-
-
-
-
-
 
 
 
@@ -161,11 +152,10 @@ One of these powers is to levitate using their center of gravity.
 
 {{< youtube ufORgD0s2Mo >}}
 
-# 
 
 This shows how low energy input as metaphysical Effort*, without any physical fuel source or physical Force, can produce "work" as to physically lift a man by altering his [gravitational signature](/material/fallacies/general-relativity). 
 
-> *This concept is one of the basis for our [Effort Theory of Value](/social/economics/principles/effort-theory-of-value), derived from Adam Smith, and is the foundation of Supereconomics. It is opposite of the 'scarcity' embraced by Economics which makes it into a dismal science. 
+> *This concept is one of the basis for our [Effort Theory of Value](/social/economics/principles/part-2/chapter-01b/), derived from Adam Smith, and is the foundation of Supereconomics. It is opposite of the 'scarcity' embraced by Economics which makes it into a dismal science. 
 
 
 This is the same technique used by UFO's to lift themselves without needing boosters nor bulky fuel tanks. It implies that their ships are sentient* just as the monk is sentient or has his own ability to express metaphysical ideas and do effort by himself.
@@ -178,7 +168,7 @@ This is the same technique used by UFO's to lift themselves without needing boos
 Fusion is thus created when a sentient computer manipulates the gravitational signature of hydrogen, as deuterium, as to both confine and levitate them. This is the same thing that stars ([stellar qosts](/material/principles/qost)) naturally do to clouds of gas and dust in a galaxy to start fusion and actually become stars*.
 
 
-> *This implies that stars are sentient. This sentience is [the origin of life](/medical/physical/solutions/covid-flu-star) in the universe and is the connection point between Material and Bio Superphysics
+> *This implies that stars are sentient. This sentience is [the origin of life](/bio/solutions/covid-star) in the universe and is the connection point between Material and Bio Superphysics
 
 
 
@@ -205,20 +195,21 @@ Since artificial gravitation is the key ingredient to sustainable fusion, the fi
 The use of trumpets by the Israelites is consistent with Kepler who wrote about the Harmony of the Universe, consistent with Socrates and Pythagoras:
 
 
-{{< q a='kepler' >}}
-a great distinction exists between the consonances of the single planets which have been unfolded and the consonances of the planets in pairs. The single ones cannot exist at the same moment, but the pairs absolutely can. This is because the same planet, moving at its aphelion, cannot be at the opposite perihelion at the same time. But of two planets, one can be at its aphelion and the other at its perihelion. <br><br>And so the ratio of plain-song or monody, which we call "choral music" and which alone was known to the ancients, 1 to polyphony—called "figured song,"; 2 the invention of the latest generations—is the same as the ratio of the consonances which the single planets designate to the consonances of the planets taken together.
-<cite>Johanes Kepler</cite>
+{{< q a='Johannes-Kepler' >}}
+A great distinction exists between:
+- the consonances of the single planets which have been unfolded and
+- the consonances of the planets in pairs. 
+
+The single ones cannot exist at the same moment, but the pairs absolutely can. This is because the same planet, moving at its aphelion, cannot be at the opposite perihelion at the same time. But of two planets, one can be at its aphelion and the other at its perihelion. And so the ratio of plain-song or monody, which we call "choral music" and which alone was known to the ancients, 1 to polyphony—called "figured song,"; 2 the invention of the latest generations—is the same as the ratio of the consonances which the single planets designate to the consonances of the planets taken together.
 {{< /q >}}
 
 
-{{< q a='socrates' >}}
+{{< q a='Socrates' c="The Republic by Plato Simplified, Book 3, Chapter 2" >}}
 Therefore, musical training is a more potent instrument than any other, because rhythm and harmony find their way into the inward places of the soul.
-<cite>The Simple Republic, Book 3, Chapter 2</cite>
 {{< /q >}}
 
 
 {{< img src="/photos/medieval/trumpets.jpg" alt="Trumpets of the ancient Egyptians" cap="The two trumpets found in King Tut's tomb match the use of trumpets used by the Israelites to collapse the walls of Jericho" >}}
-
 
 
 Material Superphysics builds on Kepler's Laws to rebuild the principles of the material Universe based on sound from the perspective of the Supreme Entity instead of the shallow human view based on sight. This bypasses everything from Aristotle to Ptolemy, and Newton to Einstein, who created Physics principles from a shallow observation of cause and effect:
@@ -234,8 +225,6 @@ Newton, Einstein (Mass creates gravity) | Kepler, Galileo (Gravity is from the f
 > *Material Superphysics develops Kepler's foci concept into qosts
 
 
-
-
 <!-- 
 500MW for 50MW infused 
 
@@ -245,11 +234,7 @@ mini tokamak
 
 linear reactors 
 
-TAE reactors doesnt' use mea
-
-stellarator
-
- -->
+TAE reactors doesnt' use mea stellarator -->
 
  
 So the steps towards sustainable fusion are:

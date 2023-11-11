@@ -67,7 +67,7 @@ It was only formalized in the 1870's* through the marginal revolution or Margina
 
 The main difference between Keynes and Marshall was, while Marshall valued real productivity as the cause of wealth, Keynes valued money as 'liquidity preference':
 
-{{< q a="keynes" >}}
+{{< q a="John-Maynard-Keynes" >}}
 The psychological time-preferences of an individual need two sets of decisions.. the "propensity to consume".. and his liquidity preference: How long does he intend to have his money savings and not spend it? The mistake of previous theories on the rate of interest is to neglect the liquidity preference. This neglect is what we are repairing. The ratio ofthe amount of moneyand the liquidity-preference determines the actual rate of interest in given circumstances.
 <cite>Chapter 13. The General Theory of the Rate of Interest</cite>
 {{< /q >}}

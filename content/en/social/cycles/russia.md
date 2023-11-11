@@ -91,17 +91,25 @@ Normally, the heightened opposition of the two mentalities leads to war:
 
 
 {{< box >}}
-<h3>Both Liberalism and Non-Liberalism are Natural</h3>
+### Both Liberalism and Non-Liberalism are Natural
 
-<p>According to Adam Smith, which makes up our principle of <a href="/social/supersociology/principles/social-topographic-behavior">Social Topographic Behavior</a>, Liberalism is the natural effect of living in a fertile land with a nice climate. Non-liberalism is the natural effect of living in a barren land with a harsh climate. This is matched by biology wherein peaceful banobos are observed to live in food-rich areas, whereas warlike chimpanzees live in food-scarce areas.</p>
+According to Adam Smith:
+- Liberalism is the natural effect of living in a fertile land with a nice climate
+- Non-liberalism is the natural effect of living in a barren land with a harsh climate
 
-<p>Accordingly, we see that the free societies such as those in Italy, France, and England have good, fertile lands. The non-free societies such as Afghanistan and Japan have non-arable lands, while Arabia and Russia have hot and frozen climates respectively. The inland parts of China are desert or flooded, creating a naturally non-liberal society.</p>
+This principle is matched by biology wherein peaceful banobos are observed to live in food-rich areas, whereas warlike chimpanzees live in food-scarce areas.
 
-<p>Fertile lands reward hard work generously. Planting a wheat in a fertile land leads to a bountiful harvest if the planter is hardworking. Thus, free enterprise and the freedom to work make sense.</p> 
+Accordingly, we see that:
+- the free societies such as those in Italy, France, and England have good, fertile lands. 
+- the non-free societies such as Afghanistan and Japan have non-arable lands, while Arabia and Russia have hot and frozen climates respectively. 
 
-<p>Barren lands, on the other hand, do not reward hard work at all. No matter how hard a desert-person irrigates a desert, Nature will not reward him. In fact, it would make more sense for him to invade a fertile land where his work will be rewarded by loot. This then leads to harsh laws. A proof is Moses punishing the Levites severely in the desert.</p> 
+The inland parts of China are desert or flooded, creating a naturally non-liberal society.
 
-<p>The problem begins when a liberal person imposes liberalism on a non-liberal land, and when a non-liberal person imposes non-liberalism on a liberal land. This was former was done by the US in Iraq, Afghanistan, and Libya. The latter was done by Al-Qaeda onto the US, France, and England as terrorist attacks. </p>
+This is because fertile lands reward hard work generously. Planting a wheat in a fertile land leads to a bountiful harvest if the planter is hardworking. Thus, free enterprise and the freedom to work make sense.
+
+Barren lands, on the other hand, do not reward hard work at all. No matter how hard a desert-person irrigates a desert, Nature will not reward him. In fact, it would make more sense for him to invade a fertile land where his work will be rewarded by loot. This then leads to harsh laws. A proof is Moses punishing the Levites severely in the desert.
+
+The problem begins when a liberal person imposes liberalism on a non-liberal land, and when a non-liberal person imposes non-liberalism on a liberal land. This was former was done by the US in Iraq, Afghanistan, and Libya. The latter was done by Al-Qaeda onto the US, France, and England as terrorist attacks.
 {{< /box >}}
 
 

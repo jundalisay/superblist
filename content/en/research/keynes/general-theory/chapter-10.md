@@ -53,8 +53,8 @@ Real income, measured in terms of product, might be incapable of precise numeric
 
 My normal psychological law is:
 
-{{< q a="keynes" >}}
-<p>When the real income of the community changes, its consumption will also change, but not so fast.</p> 
+{{< q a="John-Maynard-Keynes" >}}
+When the real income of the community changes, its consumption will also change, but not so fast.
 {{< /q >}}
 
 This is translate into:
@@ -112,11 +112,11 @@ It follows that if the people choose to consume, then:
 
 <!-- 's consumption psychology of the community is such that they will choose to consume, e.g., nine-tenths of an increment of income,[2] then  -->
 
-
-
 Only in the event of the community maintaining their consumption unchanged in spite of the increase in employment and hence in real income, will the increase of employment be restricted to the primary employment provided by the public works. 
 
-If, on the other hand, they seek to consume the whole of any increment of income, there will be no point of stability and prices will rise without limit. With normal psychological suppositions, an increase in employment will only be associated with a decline in consumption if there is at the same time a change in the propensity to consume — as the result, for instance, of propaganda in time of war in favour of restricting individual consumption; and it is only in this event that the increased employment in investment will be associated with an unfavourable repercussion on employment in the industries producing for consumption.
+If, on the other hand, they seek to consume the whole of any increment of income, there will be no point of stability and prices will rise without limit.
+
+With normal psychological suppositions, an increase in employment will only be associated with a decline in consumption if there is at the same time a change in the propensity to consume — as the result, for instance, of propaganda in time of war in favour of restricting individual consumption; and it is only in this event that the increased employment in investment will be associated with an unfavourable repercussion on employment in the industries producing for consumption.
 
 This only sums up in a formula what should by now be obvious to the reader on general grounds. An increment of investment in terms of wage-units cannot occur unless the public are prepared to increase their savings in terms of wage-units. Ordinarily speaking, the public will not do this unless their aggregate income in terms of wage-units is increasing, Thus their effort to consume a part of their increased incomes will stimulate output until the new level (and distribution) of incomes provides a margin of saving sufficient to correspond to the increased investment. 
 
@@ -125,8 +125,16 @@ The multiplier:
 
 If saving is the pill and consumption is the jam, the extra jam has to be proportioned to the size of the additional pill. Unless the psychological propensities of the public are different from what we are supposing, we have here established the law that increased employment for investment must necessarily stimulate the industries producing for consumption and thus lead to a total increase of employment which is a multiple of the primary employment required by the investment itself.
 
-It follows from the above that, if the marginal propensity to consume is not far short of unity, small fluctuations in investment will lead to wide fluctuations in employment; but, at the same time, a comparatively small increment of investment will lead to full employment. If, on the other hand, the marginal propensity to consume is not much above zero, small fluctuations in investment will lead to correspondingly small fluctuations in employment; but, at the same time, it may require a large increment of investment to produce full employment. In the former case involuntary unemployment would be an easily remedied malady, though liable to be troublesome if it is allowed to develop. 
+It follows that, if the marginal propensity to consume is not far short of unity, small fluctuations in investment will lead to wide fluctuations in employment; but, at the same time, a comparatively small increment of investment will lead to full employment. 
 
-In the latter case, employment may be less variable but liable to settle down at a low level and to prove recalcitrant to any but the most drastic remedies. In actual fact the marginal propensity to consume seems to lie somewhere between these two extremes, though much nearer to unity than to zero; with the result that we have, in a sense, the worst of both worlds, fluctuations in employment being considerable and, at the same time, the increment in investment required to produce full employment being too great to be easily handled. Unfortunately the fluctuations have been sufficient to prevent the nature of the malady from being obvious, whilst its severity is such that it cannot be remedied unless its nature is understood.
+If, on the other hand, the marginal propensity to consume is not much above zero, small fluctuations in investment will lead to correspondingly small fluctuations in employment; but, at the same time, it may require a large increment of investment to produce full employment. In the former case involuntary unemployment would be an easily remedied malady, though liable to be troublesome if it is allowed to develop. 
+
+In the latter case, employment may be less variable but liable to settle down at a low level and to prove recalcitrant to any but the most drastic remedies.
+
+In actual fact, the marginal propensity to consume seems to lie somewhere between these two extremes, though much nearer to unity than to zero. The result is that we have the worst of both worlds:
+- fluctuations in employment being considerable 
+- the increment in investment required to produce full employment being too great to be easily handled.
+
+Unfortunately, the fluctuations have been sufficient to prevent the nature of the malady from being obvious, whilst its severity is such that it cannot be remedied unless its nature is understood.
 
 When full employment is reached, any attempt to increase investment still further will set up a tendency in money-prices to rise without limit, irrespective of the marginal propensity to consume; i.e. we shall have reached a state of true inflation.[4] Up to this point, however, rising prices will be associated with an increasing aggregate real income.
