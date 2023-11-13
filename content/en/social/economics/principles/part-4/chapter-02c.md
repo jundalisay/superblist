@@ -10,7 +10,7 @@ icon: /icons/pantry.png
 ---
 
 
-[Pointtax](https://pantrypoints.com/tax) is a taxation system that is based on points which represent barter-credits pegged to the value of grains such as rice.
+[Pointtax](https://pantrypoints.com/services/tax) is a taxation system that is based on points which represent barter-credits pegged to the value of grains such as rice.
 
 
 For example, John, an apple farmer,  purchases 1 cake slice from Martha worth $2. Assuming 1 kilo of rice is $1, then John owes Martha 2 points. 

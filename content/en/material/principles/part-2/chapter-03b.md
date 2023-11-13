@@ -2,8 +2,6 @@
 heading: "Chapter 2b"
 title: "Descartes' Quantum Tunneling and Nuclear Fusion"
 date: 2020-01-31
-linkTitle: "Qost"
-# image: /photos/physics/galaxy.jpg
 image: "https://sorasystem.sirv.com/photos/sun800.jpg"
 description: "In the 1630's, Descartes wrote about cosmology based on the aether-first paradigm which is opposite of Newton's matter-first paradigm"
 contributors: ['Juan']

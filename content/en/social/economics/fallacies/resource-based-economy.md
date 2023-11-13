@@ -10,7 +10,7 @@ toc: false
 ---
 
 
-Another flawed economic paradigm, aside from [the Steady State Economy](/social/economics/fallacies/steady-state-economy-fallacy) is the [Resource Based Economy](https://www.resourcebasedeconomy.org/about/global-resource-based-economy/) (RBE) by [Jacque Fresco](https://en.m.wikipedia.org/wiki/Jacque_Fresco). 
+Another flawed economic paradigm, aside from [the Steady State Economy](/social/economics/fallacies/steady-state-economy) is the [Resource Based Economy](https://www.resourcebasedeconomy.org/about/global-resource-based-economy/) (RBE) by [Jacque Fresco](https://en.m.wikipedia.org/wiki/Jacque_Fresco). 
 
 It is implemented as [The Venus Project](https://www.thevenusproject.com) which is a tech-urban master plan. This is a necessary consequence of Mr. Fresco being a designer by trade, as opposed to being a practicing scientist or civil engineer.  
 

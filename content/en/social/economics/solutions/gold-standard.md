@@ -9,7 +9,7 @@ icon: /icons/pantry.png
 ---
 
 
-Our proposed [Multilateral Clearing system](https://pantrypoints.com/world), derived from EF Schumacher and Adam Smith, can prevent currency attack and commodity speculation by:
+Our proposed [Multilateral Clearing system](https://pantrypoints.com/trisactions/world), derived from EF Schumacher and Adam Smith, can prevent currency attack and commodity speculation by:
 - making forward contracts not transferrable
 - not allowing private currency trading
 

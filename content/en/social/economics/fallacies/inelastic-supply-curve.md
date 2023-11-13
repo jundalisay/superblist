@@ -149,7 +149,10 @@ The miniscule effect of the Panics of the 1890s are nowhere near the damage infl
 
 ## Conclusion
 
-It took two key elements to reveal this truth about Economics: the internet and a pandemic. 
+It took two key elements to reveal this truth about Economics: 
+
+1. The internet
+2. A pandemic
 
 Without these, prices would have been kept secret and there would be no data to disprove the most fundamental models of Neoclassical Economics. Taoist tradition encourages people to see the positive in the negative, and we can say that this is one of the positive revalations to come from the pandemic.
 

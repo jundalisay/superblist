@@ -141,7 +141,7 @@ When the price of any commodity is neither more nor less than what is sufficient
 
 ![Real Downward Supply Curve](https://socioecons.files.wordpress.com/2015/08/image002.jpg)
 
-Unlike the producer's or mercantile supply curves which slope upwards, Smith's [supereconomic](/social/economics/principles/second-law) supply curve slopes downward to represent less effort and energy expense while production increases. This phenomenon is called **economies of scale or division of labour**. 
+Unlike the producer's or mercantile supply curves which slope upwards, Smith's [supereconomic](/social/economics/principles/part-2/chapter-01b/) supply curve slopes downward to represent less effort and energy expense while production increases. This phenomenon is called **economies of scale or division of labour**. 
 
 
 Why does Samuelson's costs go up with more production, while Smith's costs go down, properly leading to lower prices? This is simply because Smith and Samuelson's costs **are seen from different positions**:

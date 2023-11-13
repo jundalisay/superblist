@@ -3,7 +3,7 @@ heading: "Chapter 5"
 title: "The Expansion of Spacetime"
 date: 2023-03-10
 weight: 14
-image: /photos/objects/clock.jpg
+image: /graphics/physics/expansion.jpg
 description: "Everything is expanding, even your own atoms."
 icon: /icons/spmat.png
 ---
@@ -18,6 +18,9 @@ According to him, the universe began when spacetime became divided. These divisi
 This division did not stop after those heavenly bodies were created. It still continues every millisecond. 
 
 This now manifests as the expansion of the universe which is revealed by the cosmic red shift.
+
+{{< img src="/graphics/physics/expansion.jpg" alt="Expansion of the Universe" cap="Dark Matter and Dark Energy are unnecessary because they are accounted for by properties of spacetime" >}}
+
 
 It means that we are literally physically larger now than a moment ago. We are not able to perceive any change or difference because everything else is also getting larger.
 
@@ -44,3 +47,12 @@ The division of spacetime is an inexhaustible source of energy which Nikola Tesl
 By processing Descartes' principles, in theory, division-energy can be extracted by creating a vortex with defined edges from where the energy from spacetime division (air-aether) can be downgraded into electrical energy (fire-aether).
 
 This downgrading has metaphysical consequences though. This is why advanced species would predictably rather use the fusion of material hydrogen as their main energy source or base load, and use spacetime-division only as a backup or starter.
+
+
+<!-- In Cartesian Physics, the expansion is accelerating because spacetime is being divided at a constant rate. 
+
+However, the diversity within those divisions is increasing. 
+
+So it leads to the perception that the expansion is accelerating. 
+
+Note that the accelerated expansion is only through the red shift in the macro scale, and conversely by length contraction by Lorentz Relativity.   -->

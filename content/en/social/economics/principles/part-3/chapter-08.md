@@ -52,7 +52,7 @@ The best that they can do is apply stochastic calculus to create "algorithmic tr
 {{< img src="https://sorasystem.sirv.com/cards/receipt.jpeg" cap="Commercial receipts just give the money value and has no information where that money value came from. This is the same problem that leads to tax avoidance and evasion, which then leads to budget deficits, weak governments, and subsequent instability." >}}
 
 
-Our model on the other hand, follows Smith and the Physiocrats, and uses [grain-based valuation](/social/economics/solutions/gdp) to predict price movements from the outside looking in, or the top-down approach. This helped us to correctly predict:
+Our model on the other hand, follows Smith and the Physiocrats, and uses [grain-based valuation](/social/economics/principles/part-4/chapter-07c) to predict price movements from the outside looking in, or the top-down approach. This helped us to correctly predict:
 - The rise of bitcoin in 2017
 - The global economic crisis starting in 2019. It actually started in Q1 2020 and this shows that a bottom-up approach would be more accurate 
 

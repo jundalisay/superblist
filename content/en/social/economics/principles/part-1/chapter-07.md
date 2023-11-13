@@ -7,7 +7,7 @@ title: "Demand Inflation Deflation"
 weight: 28
 image: /photos/econ/crash.jpg
 description: "Neoclassical Economics shallowly defines 'inflation' as a rise in prices, and 'deflation' as its decline"
-author: Dalisay
+author: Juan
 toc: false
 ---
 
