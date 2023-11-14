@@ -11,7 +11,7 @@ You can help by:
 - adding links to our posts or books on your website
   - [https://pantrypoints.com](https://pantrypoints.com). This is the practical aspect
   - [https://superphysics.org](https://superphysics.org). This is the theoretical aspect
-- clikcing the ads on this website, to give us a tiny ad revenue
+- cliching the ads on this website, to give us a tiny ad revenue
 <!-- - going to [pantrypoints.com](https://pantrypoints.com) and submitting a contact form under 'Join the Change' -->
 - referring organizations, universities, or volunteers who might be interested. At the moment, we have volunteers in the following cities where we have tested our system:
   - Hanoi

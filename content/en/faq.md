@@ -206,7 +206,7 @@ What's samadhi?
 {{< l a="Superphysics" >}}
 Google it.
 
-All we can say is "No Samadhi, No Honey" (i.e. Without samadhi, you won't get a solid understanding of how the universe is structured and generated in real-time)
+All we can say is "No Samadhi, No Honey" :thumbsdown: (i.e. Without samadhi, you won't get a solid understanding of how the universe is structured and generated in real-time)
 {{< /l >}}
 
 {{< r a="Asker" >}}
@@ -224,9 +224,9 @@ What does the Superphysics symbol mean?
 {{< l a="Superphysics" >}}
 The blue triangle represents the metapyhsical dimension. The green triangle represents the physical dimension. These go in opposite directions. 
 
-The yellow center is perception which balances both dimensions. 
+The yellow center is perception which balances both dimensions. :sunny:
 
-Some people get filthy rich but lose their morals, while others are super spiritual but are dirt poor. For example, Baby-Boomers mindlessly push for GDP or ROI growth even if Nature is hitting them back with global warming caused by that very GDP and ROI from investments. 
+Some people get filthy rich but lose their morals, :frowning: while others are super spiritual but are dirt poor :confused:. For example, Baby-Boomers mindlessly push for GDP or ROI growth even if Nature is hitting them back with global warming caused by that very GDP and ROI from investments. 
 
 Spiritual people, on the other hand, give donations and service, often unsustainably while creating a culture of dependence and poverty. 
 
@@ -254,13 +254,13 @@ Yes. This is now known as 'scientism' propagated by materialists.
 
 For example, alternative medicines that don't pass clinical trials are not classified as medicine even if they cure some people but not all.
 
-Moreover, the gap between experiment and useful invention is huge. For example, the principle of action-reaction can be demonstrated with a $0.10 party balloon releasing air to propel itself. But it takes a lot more effort to convert that principle into a working rocket which costs $1,000 and even more to make an Atlas rocket worth $100m.  
+Moreover, the gap between experiment and useful invention is huge. For example, the principle of action-reaction can be demonstrated with a $0.10 party balloon releasing air to propel itself. But it takes a lot more effort to convert that principle into a working rocket which costs $1,000 and even more to make an Atlas rocket :rocket: worth $100m.
 {{< /l >}}
 
 <!-- This is why, until 2030, most of our work is on Social Superphysics. The work on Bio and Material Superphysics will mostly be theoretical for now, though we've done [rudimentary experiments on pre-levitation](/material/levitation) and preventing cancers from getting worse via alternative medicine. -->
 
 {{< r a="Asker" >}}
-How can we help?
+How can we help? :heart:
 {{< /r >}}
 
 
