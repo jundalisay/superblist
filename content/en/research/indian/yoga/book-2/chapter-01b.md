@@ -3,7 +3,7 @@ title: "Bondage to Sorrow"
 heading: "Chapter 1b"
 weight: 6
 author: "Patanjali"
-description: ""
+description: "The burden of bondage to sorrow has its root in these hindrances."
 image: "/covers/yoga.png"
 icon: "/flags/in.png"
 ---

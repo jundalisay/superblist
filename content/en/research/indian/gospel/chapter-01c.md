@@ -3,7 +3,7 @@ title: "M.'s first argument"
 image: "/covers/rama.jpg"
 heading: "Chapter 1c"
 weight: 5
-description: "IT WAS ON A SUNDAY in spring, a few days after Sri Ramakrishna's birthday, that M. met him the first time"
+description: "This was M.'s first argument with the Master, and happily his last"
 ---
 
 

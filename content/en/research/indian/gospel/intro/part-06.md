@@ -1,9 +1,10 @@
 ---
+heading: Part 6
 title: "Tantra"
 image: "/covers/rama.jpg"
 weight: 12
 author: "Swāmi Nikhilānanda"
-description: "In 1858, Sri Ramakrishna's cousin Haladhāri came to Dakshineśwar and stayed there for 8 years"
+description: "According to the Tantra, the Ultimate Reality is Chit, or Consciousness"
 ---
 
 

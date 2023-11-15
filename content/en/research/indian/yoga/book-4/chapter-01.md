@@ -3,7 +3,7 @@ title: "Psychic and spiritual powers"
 heading: "Chapter 1"
 weight: 6
 author: "Patanjali"
-description: "Through these powers, the spiritual man stands, sees, hears, speaks, in the spiritual world, as the physical man stands, sees, hears, speaks in the natural world"
+description: "Through these powers, the spiritual man stands, sees, hears, speaks, in the spiritual world"
 image: "/covers/yoga.png"
 icon: "/flags/in.png"
 ---
@@ -107,4 +107,3 @@ It is all a question of the states of consciousness; all a question of raising t
 Here is the splendid teaching of oneness that lies at the heart of the Eastern wisdom. Consciousness is ultimately One, everywhere and forever. The Eternal, the Father, is the One Self of All Beings.
 
 And so, in each individual who is but a facet of that Self, Consciousness is One. Whether it breaks through as the dull fire of physical life, or the murky flame of the psychic and passional, or the radiance of the spiritual man, or the full glory of the Divine, it is ever the Light, naught but the Light. The one Consciousness is the effective cause of all states of consciousness, on every plane.
-

@@ -1,9 +1,9 @@
 ---
-title: "Dharana"
+title: "Dharana or Attention"
 heading: "Chapter 1"
 weight: 4
 author: "Patanjali"
-description: ""
+description: "The binding of the perceiving consciousness to a certain region is dharana"
 image: "/covers/yoga.png"
 icon: "/flags/in.png"
 ---

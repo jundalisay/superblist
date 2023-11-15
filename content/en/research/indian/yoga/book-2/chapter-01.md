@@ -3,7 +3,7 @@ title: "Yogic Practices"
 heading: "Chapter 1"
 weight: 4
 author: "Patanjali"
-description: ""
+description: "The yogic practices are fervent aspiration, spiritual reading, complete obedience to the Master"
 image: "/covers/yoga.png"
 icon: "/flags/in.png"
 ---

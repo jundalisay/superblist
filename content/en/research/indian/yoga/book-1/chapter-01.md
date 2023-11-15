@@ -3,15 +3,13 @@ title: "Yoga"
 heading: "Chapter 1"
 weight: 2
 author: "Patanjali"
-description: ""
+description: "Yoga, spiritual consciousness, is gained through control of the versatile psychic nature"
 image: "/covers/yoga.png"
 icon: "/flags/in.png"
 ---
 
 <!-- Charles Johnston
 
-
-Contents
 INTRODUCTION TO BOOK I
 BOOK I
 INTRODUCTION TO BOOK II
@@ -40,9 +38,9 @@ In the second part of the first book, the problem of the emergence of the spirit
  -->
 
 
-{{< s v="1">}} OM: Here are the  Instructions for Union.
+{{< s v="1">}} OM: Here are the  Instructions for Yoga or Union.
 
-Union [yoga] means union of:
+Yoga means union of:
 - the individual soul with the Oversoul
 - the personal consciousness with the Divine Consciousness
 
@@ -53,7 +51,7 @@ Therefore, salvation is:
 - then a divine and eternal well-being, wherein the soul partakes of the being, the wisdom and glory of God.
 
 
-{{< s v="2">}} Union, spiritual consciousness, is gained through control of the versatile psychic nature.
+{{< s v="2">}} Yoga, spiritual consciousness, is gained through control of the versatile psychic nature.
 
 The goal is the full consciousness of the spiritual man, illumined by the Divine Light. Nothing except the obdurate resistance of the psychic nature keeps us back from the goal. 
 
@@ -103,5 +101,3 @@ Thus the mind-image of an indulgence suggests and invites to a new indulgence; t
 We have here a list of mental and emotional powers; of powers that picture and observe, and of powers that picture and feel.
 
 But the power to know and feel is spiritual and immortal. What is needed is, not to destroy it, but to raise it from the psychical to the spiritual realm.
-
-

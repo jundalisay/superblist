@@ -1,11 +1,10 @@
 ---
-title: "Visit To Vidyasagar"
+title: "Visit To Pundit Vidyasagar"
 image: "/covers/rama.jpg"
 heading: "Chapter 3"
 weight: 12
-description: ""
+description: "Pundit Iswar Chandra Vidyasagar was born in the village of Beersingh"
 ---
-
 
 
 August 5, 1882
@@ -174,5 +173,4 @@ Once, when M. had asked him his opinion of it, Vidyasagar had said,
 
 But in his daily life he followed all the rituals of Hindu religion and wore the sacred thread of a brahmin.
 
-About God he had once declared: "It is indeed impossible to know Him. What, then, should be our duty? It seems to me that we should live in such a way that, if others followed our example, this very earth would be heaven. Everyone should try to do good
-to the world."
+About God he had once declared: "It is indeed impossible to know Him. What, then, should be our duty? It seems to me that we should live in such a way that, if others followed our example, this very earth would be heaven. Everyone should try to do good to the world."

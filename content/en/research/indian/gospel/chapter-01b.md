@@ -3,22 +3,18 @@ title: "Second visit"
 image: "/covers/rama.jpg"
 heading: "Chapter 1b"
 weight: 4
-description: "IT WAS ON A SUNDAY in spring, a few days after Sri Ramakrishna's birthday, that M. met him the first time"
+description: "M.'s second visit to Sri Ramakrishna took place on the southeast verandah at 8PM"
 ---
-
 
 
 M.'s second visit to Sri Ramakrishna took place on the southeast verandah at 8PM. 
 
-The Master was about to be shaved, the barber having just arrived. As the cold season still lingered he had put on a moleskin shawl bordered with
-red. Seeing M., the Master said: "So you have come. That's good. Sit down here." He
-was smiling. He stammered a little when he spoke.
+The Master was about to be shaved, the barber having just arrived. As the cold season still lingered he had put on a moleskin shawl bordered with red. 
 
 
 {{< l a="Ramakrishna" >}}
-(to M.) Where do you live?
+(to M. smiling) So you have come. Where do you live?
 {{< /l >}}
-
 
 {{< r a="M" >}}
 In Calcutta, sir, at Baranagore at my older sister's-Ishan Kaviraj's house

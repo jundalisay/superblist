@@ -2,7 +2,7 @@
 title: "Efficacy of Earnest Japa"
 image: "/covers/rama.jpg"
 heading: "Chapter 8b"
-weight: 35
+weight: 40
 description: "SRI RAMAKRISHNA arrived at Govinda Mukherji's house at Belgharia, near Calcutta."
 ---
 

@@ -1,9 +1,10 @@
 ---
+heading: Part 11
 title: "Relation with His Wife"
 image: "/covers/rama.jpg"
 weight: 22
 author: "Swāmi Nikhilānanda"
-description: "Sri Ramakrishna was born at Kāmārpukur, a village in the Hooghly District in rural Bengāl."
+description: "The Master took up the duty of instructing his young wife"
 ---
 
 
@@ -19,7 +20,7 @@ come too late. My Mathur is no longer here to look after you."
 
 Mathur had passed away the previous year.
 
-The Master took up the duty of instructing his young wife, and this included everything from housekeeping to the Knowledge of Brahman. He taught her how to trim a lamp, how to behave toward people according to their differing temperaments, and how to conduct herself before visitors. He instructed her in the mysteries of spiritual life - prayer, meditation, japa, deep contemplation, and Samādhi. 
+The Master took up the duty of instructing his young wife. This included everything from housekeeping to the Knowledge of Brahman. He taught her how to trim a lamp, how to behave toward people according to their differing temperaments, and how to conduct herself before visitors. He instructed her in the mysteries of spiritual life - prayer, meditation, japa, deep contemplation, and Samādhi. 
 
 The first lesson that Sāradā Devi received was: "God is everybody's Beloved, just as the moon is dear to every child.
 

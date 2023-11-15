@@ -3,7 +3,7 @@ title: "Eight Means of Yoga"
 heading: "Chapter 2"
 weight: 8
 author: "Patanjali"
-description: ""
+description: "Four of the eight means of Yoga are Commandments, Rules, Right Poise, Right Control of the life-force"
 image: "/covers/yoga.png"
 icon: "/flags/in.png"
 ---
@@ -130,4 +130,6 @@ When the spirit is thus cleansed and pure, it becomes at one in essence with its
 
 {{< s v="42" >}} From acceptance, the disciple gains happiness supreme.
 
-One of the wise has said: accept conditions, accept others, accept yourself. This is the true acceptance, for all these things are what they are through the will of the higher Self, except their deficiencies, which come through thwarting the will of the higher Self, and can be conquered only through compliance with that will. By the true acceptance, the disciple comes into oneness of spirit with the overruling Soul; and, since the own nature of the Soul is being, happiness, bliss, he comes thereby into happiness supreme.
+One of the wise has said: accept conditions, accept others, accept yourself. This is the true acceptance, for all these things are what they are through the will of the higher Self, except their deficiencies, which come through thwarting the will of the higher Self, and can be conquered only through compliance with that will.
+
+By the true acceptance, the disciple comes into oneness of spirit with the overruling Soul; and, since the own nature of the Soul is being, happiness, bliss, he comes thereby into happiness supreme.

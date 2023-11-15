@@ -3,7 +3,7 @@ title: "Meditation"
 heading: "Chapter 1b"
 weight: 6
 author: "Patanjali"
-description: ""
+description: "Attention, Meditation, Contemplation, is more interior than the means of growth previously described"
 image: "/covers/yoga.png"
 icon: "/flags/in.png"
 ---
@@ -105,4 +105,6 @@ By the power defined in the preceding sutra, the inherent character, distinctive
 
 {{< s v="14" >}} Every object has its characteristics which are already quiescent, those which are active, and those which are not yet definable.
 
-Every object has characteristics belonging to its past, its present and its future. In a fir tree, for example, there are the stumps or scars of dead branches, which once represented its foremost growth; there are the branches with their needles spread out to the air; there are the buds at the end of each branch and twig, which carry the still closely packed needles which are the promise of the future. In like manner, the chrysalis has, as its past, the caterpillar; as its future, the butterfly. The man has, in his past, the animal; in his future, the angel. Both are visible even now in his face. So with all things, for all things change and grow.
+Every object has characteristics belonging to its past, its present and its future. In a fir tree, for example, there are the stumps or scars of dead branches, which once represented its foremost growth; there are the branches with their needles spread out to the air; there are the buds at the end of each branch and twig, which carry the still closely packed needles which are the promise of the future.
+
+In like manner, the chrysalis has, as its past, the caterpillar; as its future, the butterfly. The man has, in his past, the animal; in his future, the angel. Both are visible even now in his face. So with all things, for all things change and grow.

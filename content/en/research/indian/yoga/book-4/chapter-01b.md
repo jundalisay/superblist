@@ -3,7 +3,7 @@ title: "Psychic and spiritual powers"
 heading: "Chapter 1b"
 weight: 6
 author: "Patanjali"
-description: "Through these powers, the spiritual man stands, sees, hears, speaks, in the spiritual world, as the physical man stands, sees, hears, speaks in the natural world"
+description: "With the psychic, the alternation between prize and penalty is swifter"
 image: "/covers/yoga.png"
 icon: "/flags/in.png"
 ---

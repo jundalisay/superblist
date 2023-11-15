@@ -3,8 +3,7 @@ title: "Is it possible to see God?"
 image: "/covers/rama.jpg"
 heading: "Chapter 1d"
 weight: 6
-description: "Living in solitude now and then, repeating God's name and singing His glories, and discriminating between the Real and the unreal - these are the
-means to employ to see Him"
+description: "Under what conditions does one see God?"
 ---
 
 

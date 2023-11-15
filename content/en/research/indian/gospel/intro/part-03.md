@@ -4,7 +4,7 @@ title: "Kāli Temple at Dakshineśwar"
 image: "/covers/rama.jpg"
 weight: 6
 author: "Swāmi Nikhilānanda"
-description: "Sri Ramakrishna was born at Kāmārpukur, a village in the Hooghly District in rural Bengāl."
+description: "The Kali temple garden stands directly on the east bank of the Ganges"
 ---
 
 
@@ -18,11 +18,15 @@ In 1847, the Rāni purchased 20 acres of land at Dakshineśwar, a village about 
 
 Her Ishta, or Chosen Ideal, was the Divine Mother, Kāli.
 
-The temple garden stands directly on the east bank of the Ganges. The northern section of the land and a portion to the east contain an orchard, flower gardens, and two small reservoirs. The southern section is paved with brick and mortar. The visitor arriving by boat ascends the steps of an imposing bathing-Ghāt, which leads to the Chāndni, a roofed terrace, on either side of which stand in a row six temples of Śiva. 
+The temple garden stands directly on the east bank of the Ganges. 
 
-East of the terrace and the Śiva temples is a large court, paved, rectangular in shape, and running north and south. Two temples stand in the centre of this court, the larger one, to the south and facing south, being dedicated to Kāli, and the smaller one, facing the Ganges, to Radhākānta, that is, Krishna, the Consort of Rādhā. Nine domes with spires surmount
-the temple of Kāli, and before it stands the spacious Natmandir, or music hall, the
-terrace of which is supported by stately pillars. 
+The northern section of the land and a portion to the east contain an orchard, flower gardens, and two small reservoirs. 
+
+The southern section is paved with brick and mortar. The visitor arriving by boat ascends the steps of an imposing bathing-Ghāt, which leads to the Chāndni, a roofed terrace, on either side of which stand in a row six temples of Śiva. 
+
+East of the terrace and the Śiva temples is a large court, paved, rectangular in shape, and running north and south. Two temples stand in the centre of this court, the larger one, to the south and facing south, being dedicated to Kāli.
+
+The smaller one, facing the Ganges, to Radhākānta, that is, Krishna, the Consort of Rādhā. Nine domes with spires surmount the temple of Kāli, and before it stands the spacious Natmandir, or music hall, the terrace of which is supported by stately pillars. 
 
 At the northwest and southwest corners of the temple compound are two Nahabats, or music towers, from which music flows at
 different times of day, especially at sunup, noon, and sundown, when the worship is
@@ -35,6 +39,7 @@ The chamber in the northwest angle, just beyond the last of the Śiva temples, i
 In front of the porch runs a foot-path, north and south, and beyond the path is a large garden and, below the garden, the Ganges. The orchard to the north of the buildings contains the Panchavati, the banyan, and the bel-tree, associated with Sri Ramakrishna's spiritual practices. Outside and to the north of the temple compound proper is the Kuthi, or bungalow, used by members of Rāni Rāsmani's family visiting the garden.
 
 North of the temple garden, separated from it by a high wall, is a powder-magazine belonging to the British Government.
+
 Śiva In the twelve Śiva temples are installed the emblems of the Great God of renunciation in His various aspects, worshipped daily with proper rites. Śiva requires few articles of worship. White flowers and bel-leaves and a little Ganges water offered with devotion are enough to satisfy the benign Deity and win from Him the boon of liberation.
 
 
@@ -138,4 +143,3 @@ Mathur begged Sri Ramakrishna to take charge of the worship in the Kāli temple.
 In the end, Sri Ramakrishna had to yield to Mathur's request. He became the priest of Kāli.
 
 In 1856 Rāmkumār breathed his last. Sri Ramakrishna had already witnessed more than one death in the family. He had come to realize how impermanent is life on earth. The more he was convinced of the transitory nature of worldly things, the more eager he became to realize God, the Fountain of Immortality.
-

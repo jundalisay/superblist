@@ -3,14 +3,13 @@ title: "Perfectly Concentrated Meditation"
 heading: "Chapter 2c"
 weight: 12
 author: "Patanjali"
-description: "The personal self seeks to feast on life, through a failure to perceive the distinction between the personal self and the spiritual man"
+description: "The personal self seeks to feast on life by failing to perceive the distinction between the personal self and the spirit"
 image: "/covers/yoga.png"
 icon: "/flags/in.png"
 ---
 
 
-
-35. The personal self seeks to feast on life, through a failure to perceive the distinction between the personal self and the spiritual man. 
+{{< s v="35" >}} The personal self seeks to feast on life, through a failure to perceive the distinction between the personal self and the spiritual man. 
 
 All personal experience really exists for the sake of another: namely, the spiritual man. By perfectly concentrated Meditation on experience for the sake of the Self, comes a knowledge of the spiritual man.
 
@@ -22,37 +21,52 @@ Rightly understood, therefore, the whole life of the personal man is for another
 
 When he does understand this, and lives for the Higher Self, setting his heart and thought on the Higher Self, then his sacrifice bears divine fruit, the spiritual man is built up, consciousness awakes in him, and he comes fully into being as a divine and immortal individuality.
 
-36. Thereupon are born the divine power of intuition, and the hearing, the touch, the vision, the taste and the power of smell of the spiritual man.
+
+{{< s v="36" >}} Thereupon are born the divine power of intuition, and the hearing, the touch, the vision, the taste and the power of smell of the spiritual man.
 
 When, in virtue of the perpetual sacrifice of the personal man, daily and hourly giving his life for his divine brother the spiritual man, and through the radiance ever pouring down from the Higher Self, eternal in the Heavens, the spiritual man comes to birth,-there awake in him those powers whose physical counterparts we know in the personal man. The spiritual man begins to see, to hear, to touch, to taste. 
 
-And, besides the senses of the spiritual man, there awakes his mind, that divine counterpart of the mind of the physical man, the power of direct and immediate knowledge, the power of spiritual intuition, of divination. This power, as we have seen, owes its virtue to the unity, the continuity, of consciousness, whereby whatever is known to any consciousness, is knowable by any other consciousness. Thus the consciousness of the spiritual man, who lives above our narrow barriers of separateness, is in intimate touch with the consciousness of the great Companions, and can draw on that vast reservoir for all real needs. Thus arises within the spiritual man that certain knowledge which is called intuition, divination, illumination.
+Besides the senses of the spiritual man, there awakes his mind, that divine counterpart of the mind of the physical man, the power of direct and immediate knowledge, the power of spiritual intuition, of divination. 
+
+This power, as we have seen, owes its virtue to the unity, the continuity, of consciousness, whereby whatever is known to any consciousness, is knowable by any other consciousness. Thus the consciousness of the spiritual man, who lives above our narrow barriers of separateness, is in intimate touch with the consciousness of the great Companions, and can draw on that vast reservoir for all real needs. Thus arises within the spiritual man that certain knowledge which is called intuition, divination, illumination.
 
 
+{{< s v="37" >}} These powers stand in contradistinction to the highest spiritual vision. In manifestation they are called magical powers.
 
-37. These powers stand in contradistinction to the highest spiritual vision. In manifestation they are called magical powers.
+The divine man is destined to supersede the spiritual man, as the spiritual man supersedes the natural man. Then the disciple becomes a Master.
 
-The divine man is destined to supersede the spiritual man, as the spiritual man supersedes the natural man. Then the disciple becomes a Master. The opened powers of tile spiritual man, spiritual vision, hearing, and touch, stand, therefore, in contradistinction to the higher divine power above them, and must in no wise be regarded as the end of the way, for the path has no end, but rises ever to higher and higher glories; the soul’s growth and splendour have no limit. So that, if the spiritual powers we have been considering are regarded as in any sense final, they are a hindrance, a barrier to the far higher powers of the divine man. But viewed from below, from the standpoint of normal physical experience, they are powers truly magical; as the powers natural to a four-dimensional being will appear magical to a three-dimensional being.
+The opened powers of tile spiritual man, spiritual vision, hearing, and touch, stand, therefore, in contradistinction to the higher divine power above them, and must in no wise be regarded as the end of the way, for the path has no end, but rises ever to higher and higher glories; the soul’s growth and splendour have no limit. 
+
+So that, if the spiritual powers we have been considering are regarded as in any sense final, they are a hindrance, a barrier to the far higher powers of the divine man. But viewed from below, from the standpoint of normal physical experience, they are powers truly magical; as the powers natural to a four-dimensional being will appear magical to a three-dimensional being.
 
 
+{{< s v="38" >}} Through the weakening of the causes of bondage, and by learning the method of sassing, the consciousness is transferred to the other body.
 
-38. Through the weakening of the causes of bondage, and by learning the method of sassing, the consciousness is transferred to the other body.
+In due time, after the spiritual man has been formed and grown stable through the forces and virtues already enumerated, and after the senses of the spiritual man have awaked, there comes the transfer of the dominant consciousness, the sense of individuality, from the physical to the spiritual man.
 
-In due time, after the spiritual man has been formed and grown stable through the forces and virtues already enumerated, and after the senses of the spiritual man have awaked, there comes the transfer of the dominant consciousness, the sense of individuality, from the physical to the spiritual man. Thereafter the physical man is felt to be a secondary, a subordinate, an instrument through whom the spiritual man works; and the spiritual man is felt to be the real individuality. This is, in a sense, the attainment to full salvation and immortal life; yet it is not the final goal or resting place, but only the beginning of the greater way.
+Thereafter the physical man is felt to be a secondary, a subordinate, an instrument through whom the spiritual man works; and the spiritual man is felt to be the real individuality. This is, in a sense, the attainment to full salvation and immortal life; yet it is not the final goal or resting place, but only the beginning of the greater way.
 
-The means for this transfer are described as the weakening of the causes of bondage, and an understanding of the method of passing from the one consciousness to the other. The first may also be described as detach meet, and comes from the conquest of the delusion that the personal self is the real man. When that delusion abates and is held in check, the finer consciousness of the spiritual man begins to shine in the background of the mind. The transfer of the sense of individuality to this finer consciousness, and thus to the spiritual man, then becomes a matter of recollection, of attention; primarily, a matter of taking a deeper interest in the life and doings of the spiritual man, than in the pleasures or occupations of the personality. Therefore it is said: “Lay not up for yourselves treasures upon earth, where moth and rust cloth corrupt, and where thieves break through and steal: but lay up for yourselves treasures in heaven, where neither moth nor rust cloth corrupt, and where thieves do not break through nor steal: for where your treasure is, there will your heart be also.”
+The means for this transfer are described as the weakening of the causes of bondage, and an understanding of the method of passing from the one consciousness to the other. The first may also be described as detach meet, and comes from the conquest of the delusion that the personal self is the real man.
 
-39. Through mastery of the upward-life comes freedom from the dangers of water, morass, and thorny places, and the power of ascension is gained.
+When that delusion abates and is held in check, the finer consciousness of the spiritual man begins to shine in the background of the mind. The transfer of the sense of individuality to this finer consciousness, and thus to the spiritual man, then becomes a matter of recollection, of attention; primarily, a matter of taking a deeper interest in the life and doings of the spiritual man, than in the pleasures or occupations of the personality.
+
+Therefore it is said: “Lay not up for yourselves treasures upon earth, where moth and rust cloth corrupt, and where thieves break through and steal: but lay up for yourselves treasures in heaven, where neither moth nor rust cloth corrupt, and where thieves do not break through nor steal: for where your treasure is, there will your heart be also.”
+
+
+{{< s v="39" >}} Through mastery of the upward-life comes freedom from the dangers of water, morass, and thorny places, and the power of ascension is gained.
 
 Here is one of the sentences, so characteristic of this author, and, indeed, of the Eastern spirit, in which there is an obvious exterior meaning, and, within this, a clear interior meaning, not quite so obvious, but far more vital.
 
 The surface meaning is, that by mastery of a certain power, called here the upward-life, and akin to levitation, there comes the ability to walk on water, or to pass over thorny places without wounding the feet.
 
-But there is a deeper meaning. When we speak of the disciple’s path as a path of thorns, we use a symbol; and the same symbol is used here. The upward-life means something more than the power, often manifested in abnormal psychical experiences, of levitating the physical body, or near-by physical objects. It means the strong power of aspiration, of upward will, which first builds, and then awakes the spiritual man, and finally transfers the conscious individuality to him; for it is he who passes safely over the waters of death and rebirth, and is not pierced by the thorns in the path. Therefore it is said that he who would tread the path of power must look for a home in the air, and afterwards in the ether.
+But there is a deeper meaning. When we speak of the disciple’s path as a path of thorns, we use a symbol; and the same symbol is used here.
+
+The upward-life means something more than the power, often manifested in abnormal psychical experiences, of levitating the physical body, or near-by physical objects. It means the strong power of aspiration, of upward will, which first builds, and then awakes the spiritual man, and finally transfers the conscious individuality to him; for it is he who passes safely over the waters of death and rebirth, and is not pierced by the thorns in the path. Therefore it is said that he who would tread the path of power must look for a home in the air, and afterwards in the ether.
 
 Of the upward-life, this is written in the Katha Upanishad: “A hundred and one are the heart’s channels; of these one passes to the crown. Going up this, he comes to the immortal.” This is the power of ascension spoken of in the Sutra.
 
-40. By mastery of the binding-life comes radiance.
+
+{{< s v="40" >}} By mastery of the binding-life comes radiance.
 
 In the Upanishads, it is said that this binding-life unites the upward-life to the downward-life, and these lives have their analogies in the “vital breaths” in the body. The thought in the text seems to be, that, when the personality is brought thoroughly under control of the spiritual man, through the life-currents which bind them together, the personality is endowed with a new force, a strong personal magnetism, one might call it, such as is often an appanage of genius.
 
@@ -60,23 +74,27 @@ But the text seems to mean more than this and to have in view the “vesture of 
 
 In both these passages, the teaching seems to be, that the body of the full-grown spiritual man is radiant or luminous,-for those at least, who have anointed their eyes wit! eye-salve, so that they see.
 
-41. From perfectly concentrated Meditation on the correlation of hearing and the ether, comes the power of spiritual hearing.
 
-Physical sound, we are told, is carried by the air, or by water, iron, or some medium on the same plane of substance. But then is a finer hearing, whose medium of transmission would seem to be the ether; perhaps no that ether which carries light, heat and magnetic waves, but, it may be, the far finer ether through which the power of gravity works. For, while light or heat or magnetic waves, travelling from the sun to the earth, take eight minutes for the journey, it is mathematically certain that the pull of gravitation does not take as much as eight seconds, or even the eighth of a second. The pull of gravitation travels, it would seem “as quick as thought”; so it may well be that, in thought transference or telepathy, the thoughts travel by the same way, carried by the same “thought-swift” medium.
+{{< s v="41" >}} From perfectly concentrated Meditation on the correlation of hearing and the ether, comes the power of spiritual hearing.
+
+Physical sound, we are told, is carried by the air, or by water, iron, or some medium on the same plane of substance. But then is a finer hearing, whose medium of transmission would seem to be the ether; perhaps no that ether which carries light, heat and magnetic waves, but, it may be, the far finer ether through which the power of gravity works.
+
+For, while light or heat or magnetic waves, travelling from the sun to the earth, take eight minutes for the journey, it is mathematically certain that the pull of gravitation does not take as much as eight seconds, or even the eighth of a second. The pull of gravitation travels, it would seem “as quick as thought”; so it may well be that, in thought transference or telepathy, the thoughts travel by the same way, carried by the same “thought-swift” medium.
 
 The transfer of a word by telepathy is the simplest and earliest form of the “divine hearing” of the spiritual man; as that power grows, and as, through perfectly concentrated Meditation, the spiritual man comes into more complete mastery of it, he grows able to hear and clearly distinguish the speech of the great Companions, who counsel and comfort him on his way. They may speak to him either in wordless thoughts, or in perfectly definite words and sentences.
 
-42. By perfectly concentrated Meditation em the correlation of the body with the ether, and by thinking of it as light as thistle-down, will come the power to traverse the ether.
 
-It has been said that he who would tread the path of power must look for a home in the air, and afterwards in the ether. This would seem to mean, besides the constant injunction to detachment, that he must be prepared to inhabit first a psychic, and then an etheric body; the former being the body of dreams; the latter, the body of the spiritual man, when he wakes up on the other side of dreamland. The gradual accustoming of the consciousness to its new etheric vesture, its gradual acclimatization, so to speak, in the etheric body of the spiritual man, is what our text seems to contemplate.
+{{< s v="42" >}} By perfectly concentrated Meditation em the correlation of the body with the ether, and by thinking of it as light as thistle-down, will come the power to traverse the ether.
 
-43. When that condition of consciousness is reached, which is far-reaching and not confined to the body, which is outside the body and not conditioned by it, then the veil which conceals the light is worn away.
+He who would tread the path of power must look for a home in the air, and afterwards in the ether. This would seem to mean, besides the constant injunction to detachment, that he must be prepared to inhabit first a psychic, and then an etheric body; the former being the body of dreams; the latter, the body of the spiritual man, when he wakes up on the other side of dreamland. The gradual accustoming of the consciousness to its new etheric vesture, its gradual acclimatization, so to speak, in the etheric body of the spiritual man, is what our text seems to contemplate.
+
+{{< s v="43" >}} When that condition of consciousness is reached, which is far-reaching and not confined to the body, which is outside the body and not conditioned by it, then the veil which conceals the light is worn away.
 
 Perhaps the best comment on this is afforded by the words of Paul: “I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knoweth;) such a one caught up to the third heaven. And I knew such a man, (whether in the body, or out of the body, I cannot tell: God knoweth;) how that he was caught up into paradise, and heard unspeakable [or, unspoken] words, which it is not lawful for a man to utter.”
 
 The condition is, briefly, that of the awakened spiritual man, who sees and hears beyond the veil.
 
-44. Mastery of the elements comes from perfectly concentrated Meditation on their five forms: the gross, the elemental, the subtle, the inherent, the purposive.
+{{< s v="44" >}} Mastery of the elements comes from perfectly concentrated Meditation on their five forms: the gross, the elemental, the subtle, the inherent, the purposive.
 
 These five forms are analogous to those recognized by modern physics: solid, liquid, gaseous, radiant and ionic. When the piercing vision of the awakened spiritual man is directed to the forms of matter, from within, as it were, from behind the scenes, then perfect mastery over the “beggarly elements” is attained. This is, perhaps, equivalent to the injunction: “Inquire of the earth, the air, and the water, of the secrets they hold for you. The development of your inner senses will enable you to do this.”
 
@@ -116,10 +134,12 @@ The Upanishads say of the liberated that “he has passed beyond the triad of ti
 
 Here, as also in the preceding Sutra, we are close to the doctrine that distinctions of order, time and space are creations of the mind; the threefold prism through which the real object appears to us distorted and refracted. When the prism is withdrawn, the object returns to its primal unity, no longer distinguishable by the mind, yet clearly knowable by that high power of spiritual discernment, of illumination, which is above the mind.
 
-54. The wisdom which is born of discernment is starlike; it discerns all things, and all conditions of things, it discerns without succession: simultaneously.
+{{< s v="54" >}} The wisdom which is born of discernment is starlike; it discerns all things, and all conditions of things, it discerns without succession: simultaneously.
 
-That wisdom, that intuitive, divining power is starlike, says the commentator, because it shines with its own light, because it rises on high, and illumines all things. Nought is hid from it, whether things past, things present, or things to come; for it is beyond the threefold form of time, so that all things are spread before it together, in the single light of the divine. This power has been beautifully described by Columba: “Some there are, though very few, to whom Divine grace has granted this: that they can clearly and most distinctly see, at one and the same moment, as though under one ray of the sun, even the entire circuit of the whole world with its surroundings of ocean and sky, the inmost part of their mind being marvellously enlarged.”
+That wisdom, that intuitive, divining power is starlike, says the commentator, because it shines with its own light, because it rises on high, and illumines all things. Nought is hid from it, whether things past, things present, or things to come; for it is beyond the threefold form of time, so that all things are spread before it together, in the single light of the divine. 
 
-55. When the vesture and the spiritual man are alike pure, then perfect spiritual life is attained.
+This power has been beautifully described by Columba: “Some there are, though very few, to whom Divine grace has granted this: that they can clearly and most distinctly see, at one and the same moment, as though under one ray of the sun, even the entire circuit of the whole world with its surroundings of ocean and sky, the inmost part of their mind being marvellously enlarged.”
+
+{{< s v="55" >}} When the vesture and the spiritual man are alike pure, then perfect spiritual life is attained.
 
 The vesture, says the commentator, must first be washed pure of all stains of passion and darkness, and the seeds of future sorrow must be burned up utterly. Then, both the vesture and the wearer of the vesture being alike pure, the spiritual man enters into perfect spiritual life.

@@ -1,5 +1,6 @@
 ---
-title: "Ramlālā"
+heading: Part 7
+title: "Ramlālā the Deity"
 image: "/covers/rama.jpg"
 weight: 14
 author: "Swāmi Nikhilānanda"

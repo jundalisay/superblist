@@ -3,7 +3,7 @@ title: "Perfectly Concentrated Meditation"
 heading: "Chapter 2b"
 weight: 10
 author: "Patanjali"
-description: ""
+description: "By perfectly concentrated Meditation on sympathy, compassion and kindness is gained"
 image: "/covers/yoga.png"
 icon: "/flags/in.png"
 ---
@@ -122,5 +122,6 @@ It is by this process, through which the rational mind brings questions to the i
 
 {{< s v="34" >}} By perfectly concentrated Meditation on the heart, the interior being, comes the knowledge of consciousness.
 
-The heart here seems to mean, as it so often does in the Upanishads, the interior, spiritual nature, the consciousness of the spiritual man, which is related to the heart, and to the wisdom of the heart. By steadily seeking after, and finding, the consciousness of the spiritual man, by coming to consciousness as the spiritual man, a perfect knowledge of consciousness will be attained. For the consciousness of the spiritual man has this divine quality: while being and remaining a truly individual consciousness, it at the same time flows over, as it were, and blends with the Divine Consciousness above and about it, the consciousness of the great Companions; and by showing itself to be one with the Divine Consciousness, it reveals the nature of all consciousness, the secret that all consciousness is One and Divine.
+The heart here seems to mean, as it so often does in the Upanishads, the interior, spiritual nature, the consciousness of the spiritual man, which is related to the heart, and to the wisdom of the heart. By steadily seeking after, and finding, the consciousness of the spiritual man, by coming to consciousness as the spiritual man, a perfect knowledge of consciousness will be attained. 
 
+For the consciousness of the spiritual man has this divine quality: while being and remaining a truly individual consciousness, it at the same time flows over, as it were, and blends with the Divine Consciousness above and about it, the consciousness of the great Companions; and by showing itself to be one with the Divine Consciousness, it reveals the nature of all consciousness, the secret that all consciousness is One and Divine.

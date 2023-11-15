@@ -3,9 +3,8 @@ title: "Master And Disciple"
 image: "/covers/rama.jpg"
 heading: "Chapter 1"
 weight: 3
-description: "IT WAS ON A SUNDAY in spring, a few days after Sri Ramakrishna's birthday, that M. met him the first time"
+description: "M noticed that the Master seemed to become absent-minded. Later he learnt that he was in ecstasy"
 ---
-
 
 
 February 1882

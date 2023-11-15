@@ -3,7 +3,7 @@ title: "The Precepts of Patanjali"
 heading: "Chapter 2b"
 weight: 10
 author: "Patanjali"
-description: "The perfection of the powers of the bodily vesture comes through the wearing away of impurities, and through fervent aspiration"
+description: "The perfection of the powers comes through fervent aspiration and the wearing away of impurities"
 image: "/covers/yoga.png"
 icon: "/flags/in.png"
 ---
@@ -14,7 +14,9 @@ icon: "/flags/in.png"
 
 This is true of the physical powers, and of those which dwell in the higher vestures. There must be, first, purity; as the blood must be pure, before one can attain to physical health. But absence of impurity is not in itself enough, else would many nerveless ascetics of the cloisters rank as high saints. 
 
-There is needed, further, a positive fire of the will; a keen vital vigour for the physical powers, and something finer, purer, stronger, but of kindred essence, for the higher powers. The fire of genius is something more than a phrase, for there can be no genius without the celestial fire of the awakened spiritual will.
+There is needed, further, a positive fire of the will; a keen vital vigour for the physical powers, and something finer, purer, stronger, but of kindred essence, for the higher powers.
+
+The fire of genius is something more than a phrase, for there can be no genius without the celestial fire of the awakened spiritual will.
 
 
 {{< s v="44" >}} Through spiritual reading, the disciple gains communion with the divine Power on which his heart is set.

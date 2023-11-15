@@ -1,10 +1,9 @@
 ---
 title: "The Parable of the Snake; Four CLasses of Men"
 image: "/covers/rama.jpg"
-heading: "Chapter 1d"
+heading: "Chapter 1e"
 weight: 7
-description: "Living in solitude now and then, repeating God's name and singing His glories, and discriminating between the Real and the unreal - these are the
-means to employ to see Him"
+description: "The snake became a mere skeleton covered with a skin"
 ---
 
 
@@ -28,8 +27,7 @@ Some days passed and the cowherd boys noticed that the snake would not bite. The
 
 One day one of the boys came close to it, caught it by the tail, and, whirling it round and round, dashed it again and again on the ground and threw it away. The snake vomited blood and became unconscious. It was stunned. It could not move. So, thinking it dead, the boys went their way.
 
-Late at night the snake regained consciousness. Slowly and with great difficulty it dragged itself into its hole; its bones were broken and it could scarcely move. Many
-days passed. The snake became a mere skeleton covered with a skin. 
+Late at night the snake regained consciousness. Slowly and with great difficulty it dragged itself into its hole; its bones were broken and it could scarcely move. Many days passed. The snake became a mere skeleton covered with a skin. 
 
 Now and then, at night, it would come out in search of food. For fear of the boys it would not leave its
 hole during the day-time. Since receiving the sacred word from the teacher, it had given up doing harm to others. It maintained its life on dirt, leaves, or the fruit that dropped from the trees.

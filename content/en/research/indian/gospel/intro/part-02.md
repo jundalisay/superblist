@@ -4,7 +4,7 @@ title: "Coming to Calcutta"
 image: "/covers/rama.jpg"
 weight: 4
 author: "Swāmi Nikhilānanda"
-description: "Sri Ramakrishna was born at Kāmārpukur, a village in the Hooghly District in rural Bengāl."
+description: "At the age of 16 Gadādhar was summoned to Calcutta by his elder brother Rāmkumār"
 ---
 
 

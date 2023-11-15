@@ -2,7 +2,7 @@
 title: "The Master's Birthday Celebration At Dakshineswar"
 image: "/covers/rama.jpg"
 heading: "Chapter 8"
-weight: 34
+weight: 38
 description: "SRI RAMAKRISHNA arrived at Govinda Mukherji's house at Belgharia, near Calcutta."
 ---
 

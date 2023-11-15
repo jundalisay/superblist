@@ -1,9 +1,10 @@
 ---
+heading: Part 9
 title: "Kāli and Māyā"
 image: "/covers/rama.jpg"
 weight: 18
 author: "Swāmi Nikhilānanda"
-description: "Sri Ramakrishna was born at Kāmārpukur, a village in the Hooghly District in rural Bengāl."
+description: "Māyā, the mighty weaver of the garb, is none other than Kāli, the Divine Mother"
 ---
 
 

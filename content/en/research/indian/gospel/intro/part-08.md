@@ -1,9 +1,10 @@
 ---
+heading: Part 8
 title: "Vedanta and Totapuri"
 image: "/covers/rama.jpg"
 weight: 16
 author: "Swāmi Nikhilānanda"
-description: "Sri Ramakrishna was born at Kāmārpukur, a village in the Hooghly District in rural Bengāl."
+description: "Totāpuri taught the non-dualistic Vedānta philosophy to Sri Ramakrishna"
 ---
 
 

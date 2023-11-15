@@ -1,9 +1,9 @@
 ---
-title: "THE MASTER WITH THE BRAHMO DEVOTEES"
+title: "The Master With The Brahmo Devotees"
 image: "/covers/rama.jpg"
 heading: "Chapter 6"
-weight: 23
-description: ""
+weight: 27
+description: "The semi-annual Brahmo festival, celebrated each autumn and spring, was held in Benimadhav Pal's house at Sinthi"
 ---
 
 

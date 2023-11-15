@@ -1,9 +1,10 @@
 ---
+heading: Part 10
 title: "Practicing Different Religions"
 image: "/covers/rama.jpg"
 weight: 20
 author: "Swāmi Nikhilānanda"
-description: "Sri Ramakrishna was born at Kāmārpukur, a village in the Hooghly District in rural Bengāl."
+description: "Toward the end of 1866 he began to practise Islam"
 ---
 
 

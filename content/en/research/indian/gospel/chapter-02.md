@@ -3,9 +3,10 @@ title: "With Devotees"
 image: "/covers/rama.jpg"
 heading: "Chapter 2"
 weight: 8
-description: ""
+description: "The devotees and the Master sang and danced in a state of divine fervour"
 date: 1882-03-11
 ---
+
 
 <!-- March 11, 1882 -->
 
@@ -15,10 +16,10 @@ Around 8 AM, Sri Ramakrishna went as planned to Balaram Bose's house in Calcutta
 
 Ram, Manomohan, Rakhal, Nityagopal, and other devotees were with him. M., too, came, as bidden by the Master.
 
+
 ## Devotees in trance
 
-The devotees and the Master sang and danced in a state of divine fervour. Several of them were in an ecstatic mood. Nityagopal's chest glowed with the upsurge of emotion,
-and Rakhal lay on the floor in ecstasy, completely unconscious of the world. 
+The devotees and the Master sang and danced in a state of divine fervour. Several of them were in an ecstatic mood. Nityagopal's chest glowed with the upsurge of emotion, and Rakhal lay on the floor in ecstasy, completely unconscious of the world. 
 
 The Master put his hand on Rakhal's chest and said: "Peace. Be quiet." This was Rakhal's first experience of ecstasy. He lived with his father in Calcutta and now and then visited the Master at Dakshineswar. 
 
@@ -71,6 +72,7 @@ Krishna went away to Mathura, the cowherds roamed about weeping bitterly because
 Saying this the Master sang, with his eyes turned upward:
 
 Just now I saw a youthful cowherd With a young calf in his arms;
+
 There he stood, by one hand holding
 The branch of a young tree.
 "Where are You, Brother Kanai?" he cried;
