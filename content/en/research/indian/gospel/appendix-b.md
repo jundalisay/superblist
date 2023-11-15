@@ -1,11 +1,10 @@
 ---
-title: "A LETTER"
+title: "A Letter"
 image: "/covers/rama.jpg"
 heading: "Appendix B"
-weight: 87
-description: ""
+weight: 400
+description: "Written to M. from by Ashwini Kumar Dutta"
 ---
-
 
 
 (Written to M. from by Ashwini Kumar Dutta)
@@ -14,10 +13,7 @@ My beloved brother M.,
 
 I received Part 4 of the Sri Sri Râmakrishna Kathāmrita 3 days ago sent by you. Today, I have finished reading it. You are blessed indeed. What heavenly nectar you have sprinkled all over the country! 
 
-A long time ago you wanted me to set down my conversations with the Master. Now I shall try to write them for you. But I was not born
-under the lucky star of an M., that I might jot down the days, the dates, and the hours
-of my visits with the Master and note down correctly all the words uttered by his holy
-lips. 
+A long time ago you wanted me to set down my conversations with the Master. Now I shall try to write them for you. But I was not born under the lucky star of an M., that I might jot down the days, the dates, and the hours of my visits with the Master and note down correctly all the words uttered by his holy lips. 
 
 In this letter I am giving you as many of my experiences as I remember. 
 

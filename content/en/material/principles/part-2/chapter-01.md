@@ -1,6 +1,6 @@
 ---
 title: "The Spatial Layer of Superphysics"
-heading: Spacetime and Gravitation
+heading: Chapter 1
 date: 2020-01-31
 linkTitle: "Spatial Layer"
 image: "/photos/physics/quasar.jpg"

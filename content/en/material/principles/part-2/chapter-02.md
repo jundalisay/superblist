@@ -6,6 +6,6 @@ linkTitle: "Qost"
 image: /photos/physics/galaxy.jpg
 description: "The Quantum of Spacetime or Qost is the smallest unit of spacetime"
 contributors: ['Juan']
-weight: 10
+weight: 6
 icon: /icons/spmat.png
 ---

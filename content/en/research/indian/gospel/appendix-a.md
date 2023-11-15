@@ -2,7 +2,7 @@
 title: "KESHAB AT DAKSHINESWAR"
 image: "/covers/rama.jpg"
 heading: "Appendix A"
-weight: 87
+weight: 300
 description: ""
 ---
 

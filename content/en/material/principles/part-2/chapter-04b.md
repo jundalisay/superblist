@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 4"
+heading: "Chapter 4b"
 title: "Theory of Elastic Gravitational Bands"
 linkTitle: "Elastic Theory"
 # date: 2020-01-31

@@ -1,6 +1,6 @@
 ---
 heading: Chapter 27
-title: AT DAKSHINESWAR
+title: At Dakshineswar
 image: "/covers/rama.jpg"
 heading: "Chapter 20"
 weight: 110
@@ -10,15 +10,26 @@ description: "The Master was sitting in his room at Dakshineswar."
 
 Sunday, September 7, 1884
 
-IT WAS ABOUT 11AM. The Master was sitting in his room at Dakshineswar.
+It was around 11am. The Master was sitting in his room at Dakshineswar.
 
 He had not yet taken his midday meal.
 
-Arrangements had been made with the musician Shyamdas to entertain the Master and the devotees with his kirtan. Baburam, M., Manomohan, Bhavanath, Kishori, Chunilal,
-Haripada, the Mukherji brothers, Ram, Surendra, Tārak, Niranjan, and others arrived at the temple garden. Lātu, Harish, and Hazra were staying with the Master.
-When M. saluted Sri Ramakrishna, the Master asked: "Where is Narendra? Isn't he coming?" 
+Arrangements had been made with the musician Shyamdas to entertain the Master and the devotees with his kirtan. 
 
-M. told him that Narendra could not come.
+Baburam, M., Manomohan, Bhavanath, Kishori, Chunilal, Haripada, the Mukherji brothers, Ram, Surendra, Tārak, Niranjan, and others arrived at the temple garden. 
+
+Lātu, Harish, and Hazra were staying with the Master.
+
+When M. saluted Sri Ramakrishna, the Master asked: 
+
+{{< l a="Ramakrishna" >}}
+"Where is Narendra? Isn't he coming?" 
+{{< /l >}}
+
+{{< r a="M" >}}
+Narendra could not come
+{{< /r >}}
+
 
 A brahmin devotee was reading to the Master from a book of devotional songs by Ramprasad. Sri Ramakrishna asked him to continue. The brahmin read a song, the first
 line of which was: "O Mother, put on Thy clothes."

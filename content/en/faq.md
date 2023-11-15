@@ -196,7 +196,7 @@ What makes you so absolutely sure that you know the nature of the universe? What
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-We've had samadhi :high_brightness:, after going through the necessary rigors.
+We've had low-level samadhi :high_brightness:, after going through the necessary rigors.
 {{< /l >}}
 
 {{< r a="Boomer" >}}
