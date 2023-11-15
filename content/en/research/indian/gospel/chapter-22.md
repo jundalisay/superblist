@@ -3,9 +3,8 @@ title: "Passions should be directed to God"
 image: "/covers/rama.jpg"
 heading: "Chapter 22"
 weight: 88
-description: ""
+description: "One cannot completely get rid of the 6 passions: lust, anger, greed, and the like"
 ---
-
 
 
 Saturday, May 24, 1884
@@ -47,7 +46,7 @@ MASTER: "Lust is like the root of the tree, and desires are branches and twigs.
 
 ## Passions should be directed to God
 
-One cannot completely get rid of the six passions: lust, anger, greed, and the like.
+One cannot completely get rid of the 6 passions: lust, anger, greed, and the like.
 
 Therefore one should direct them to God. If you must have desire and greed, then you 459should desire love of God and be greedy to attain Him. If you must be conceited and egotistic, then feel conceited and egotistic thinking that you are the servant of God, the child of God.
 
@@ -229,8 +228,7 @@ MASTER (to the devotees): "I want to tell you something. A change has been comin
 The Master came down a step and sat near the devotees. It seemed that he intended to communicate some of his deeper experiences to them.
 
 MASTER: "You are devotees. I have no hesitation in telling you this. Nowadays I don't see the Spirit-form of God. He is revealed to me in human form. It is my nature to see the form of God, to touch and embrace Him. God is saying to me, 'You have assumed a body; therefore enjoy God through His human forms.'
-"God no doubt dwells in all, but He manifests Himself more through man than through other beings. Is man an insignificant thing? He can think of God, he can think of the Infinite, while other living beings cannot. God exists in other living beings-animals,
-plants, nay, in all beings-, but He manifests Himself more through man than through
+"God no doubt dwells in all, but He manifests Himself more through man than through other beings. Is man an insignificant thing? He can think of God, he can think of the Infinite, while other living beings cannot. God exists in other living beings-animals, plants, nay, in all beings-, but He manifests Himself more through man than through
 these others. Fire exists in all beings, in all things; but its presence is felt more in wood.
 Rāma said to Lakshmana: 'Look at the elephant, brother. He is such a big animal, but he
 cannot think of God.'

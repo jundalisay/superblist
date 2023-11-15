@@ -1,9 +1,9 @@
 ---
-title: "A DAY AT DAKSHINESWAR"
+title: "A Day At Dakshineswar"
 image: "/covers/rama.jpg"
 heading: "Chapter 21"
 weight: 86
-description: ""
+description: "That morning he had hired a boat and invited M. to accompany him to Dakshineswar"
 ---
 
 
@@ -13,23 +13,19 @@ Saturday, April 5, 1884
 M. arrived at the temple garden around 8 AM. 
 
 He found Sri Ramakrishna seated on the small couch in his room. A few devotees were sitting on the floor. The Master was talking to them. Prankrishna Mukherji was there.
+
 Prankrishna belonged to an aristocratic family and lived in the northern part of Calcutta.
 
-He held a high post in an English business firm. He was very much devoted to Sri  Ramakrishna and, though a householder, derived great pleasure from the study of
-Vedānta philosophy. He was a frequent visitor at the temple garden. 
+He held a high post in an English business firm. He was very much devoted to Sri  Ramakrishna and, though a householder, derived great pleasure from the study of Vedānta philosophy. He was a frequent visitor at the temple garden. 
 
-Once he invited the Master to his house in Calcutta and held a religious festival. Every day, early in the
-morning, he bathed in the holy water of the Ganges. Whenever it was convenient, he
-would come to Dakshineswar in a hired country boat.
+Once he invited the Master to his house in Calcutta and held a religious festival. Every day, early in the morning, he bathed in the holy water of the Ganges. Whenever it was convenient, he would come to Dakshineswar in a hired country boat.
 
 That morning he had hired a boat and invited M. to accompany him to Dakshineswar.
-The boat had hardly left shore when the river became choppy. M. had become
-frightened and begged Prankrishna to put him back on land. In spite of assurances, M.
-had kept saying: "You must put me ashore. I shall walk to Dakshineswar." And so M.
+
+The boat had hardly left shore when the river became choppy. M. had become frightened and begged Prankrishna to put him back on land. In spite of assurances, M. had kept saying: "You must put me ashore. I shall walk to Dakshineswar." And so M.
 came on foot and found Sri Ramakrishna talking to Prankrishna and the others.
 
-MASTER (to Prankrishna): "But there is a greater manifestation of God in man. You may ask, 'How is it possible for God to be incarnated as a man who suffers from hunger, thirst, and the other traits of an embodied being, and perhaps also from disease and
-grief?' 
+MASTER (to Prankrishna): "But there is a greater manifestation of God in man. You may ask, 'How is it possible for God to be incarnated as a man who suffers from hunger, thirst, and the other traits of an embodied being, and perhaps also from disease and grief?' 
 
 The reply is, 'Even Brahman weeps, entrapped in the snare of the five elements.'
 
@@ -83,9 +79,10 @@ unsubstantial. The ego, like a stick, lies across the Ocean of Satchidananda.
 
 The signs of a Jnāni
 
-(To Prankrishna) But there are signs that distinguish the man of Knowledge. Some people think they have Knowledge. What are the characteristics of Knowledge? A Jnāni
-cannot injure anybody. He becomes like a child. If a steel sword touches the philosopher's stone, it is transformed into gold. Gold can never cut. It may seem from
-the outside that a Jnāni also has anger or egotism, but in reality he has no such thing.
+(To Prankrishna) But there are signs that distinguish the man of Knowledge. Some people think they have Knowledge. What are the characteristics of Knowledge? 
+
+A Jnāni cannot injure anybody. He becomes like a child. If a steel sword touches the philosopher's stone, it is transformed into gold. Gold can never cut. It may seem from the outside that a Jnāni also has anger or egotism, but in reality he has no such thing.
+
 
 ## The ego of a Jnāni 
 
@@ -95,8 +92,7 @@ the outside that a Jnāni also has anger or egotism, but in reality he has no su
 
 But the next moment you can cajole him away from it with a toy. He will go away with you, leaving the cloth behind.
 
-These are the characteristics of a Jnāni. Perhaps he has many luxuries at home―couch, chairs, paintings, and equipage. But any day he may leave all these and
-go off to Benares.
+These are the characteristics of a Jnāni. Perhaps he has many luxuries at home―couch, chairs, paintings, and equipage. But any day he may leave all these and go off to Benares.
 
 Jnāni looks on the world as illusory
 
@@ -113,4 +109,3 @@ The princes were becoming well versed in letters and military arts. I was secure
 real as is my being a wood-cutter. 
 
 If being a wood-cutter is real, then being a king in a dream is real also.' "
-

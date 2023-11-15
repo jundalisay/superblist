@@ -7,6 +7,9 @@ social/economics/principles/part-1/chapter-03b/
 4 Laws
 social/economics/principles/intro/chapter-04/
 
+Social Cycles
+social/supersociology/principles/part-1/chapter-05/
+
 Self
 
 Capitalism

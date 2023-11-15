@@ -3,29 +3,30 @@ title: "The Three Gunas"
 image: "/covers/rama.jpg"
 heading: "Chapter 22c"
 weight: 91
-description: ""
+description: "The three gunas―sattva, rajas, and tamas―have men under their control"
 ---
 
 
 Sunday, May 25, 1884
 
-Sri Ramakrishna was sitting on the cement platform that encircled the trunk of the old banyan-tree in the Panchavati. Vijay, Surendra, Bhavanath, Rākhāl , and other devotees were present, a few of them sitting with the Master on the platform, the rest on the ground below. The devotees had thought of celebrating the Master's birthday, which had had to be put off because of his illness. Since Sri Ramakrishna now felt much better, the devotees wanted to have the celebration that day. A woman musician, a famous singer of kirtan, was going to entertain them with devotional songs.
+Sri Ramakrishna was sitting on the cement platform that encircled the trunk of the old banyan-tree in the Panchavati. Vijay, Surendra, Bhavanath, Rākhāl , and other devotees were present, a few of them sitting with the Master on the platform, the rest on the ground below. 
 
-It was one o'clock in the afternoon. M. had been looking for Sri Ramakrishna in the Master's room. When he did not find him there, he went to the Panchavati and eagerly asked the devotees, "Where is he?" He was standing right in front of the Master but in
-his excitement did not notice him.
+The devotees had thought of celebrating the Master's birthday, which had had to be put off because of his illness. Since Sri Ramakrishna now felt much better, the devotees wanted to have the celebration that day. A woman musician, a famous singer of kirtan, was going to entertain them with devotional songs.
+
+It was 1pm. M. had been looking for Sri Ramakrishna in the Master's room. When he did not find him there, he went to the Panchavati and eagerly asked the devotees, "Where is he?" He was standing right in front of the Master but in his excitement did not notice him.
 
 The devotees laughed loudly. A moment later M. saw Sri Ramakrishna and felt very much embarrassed. He prostrated himself before the Master, who sat there facing the south and smiling happily. Kedār and Vijay were sitting at his left. These two devotees had had a misunderstanding recently when Kedār had cut off his connexion with the Brahmo Samaj.
 
-MASTER (to M., with a smile): "You see how I have united them?" The Master had brought a mādhavi creeper from Vrindāvan in the year 1868 and had planted it in the
-Panchavati. The creeper had grown big and strong. Some children were jumping and swinging from it. The Master observed them and laughed. He said: "They are like young
-monkeys. They will not give up swinging even though they sometimes fall to the ground." 
+MASTER (to M., with a smile): "You see how I have united them?" The Master had brought a mādhavi creeper from Vrindāvan in the year 1868 and had planted it in the Panchavati.
 
-Noticing that Surendra was standing before him, the Master said to him affectionately: "Come up and sit with us on the platform. Then you can dangle your feet
-comfortably." Surendra went up and took his seat. Bhavanath had his coat on. Surendra said to him, "Are you going to England?"
+The creeper had grown big and strong. Some children were jumping and swinging from it. The Master observed them and laughed. He said: "They are like young monkeys. They will not give up swinging even though they sometimes fall to the ground." 
+
+Noticing that Surendra was standing before him, the Master said to him affectionately: "Come up and sit with us on the platform. Then you can dangle your feet comfortably." Surendra went up and took his seat. Bhavanath had his coat on. Surendra said to him, "Are you going to England?"
 
 MASTER (smiling): "God is our England. Now and then I used to leave off my clothes and joyfully roam about naked. Once Sambhu said to me: 'It is very comfortable to walk about naked. That is why you do it. Once I did it myself.' "
 
-SURENDRA: "On returning from the office, as I put away my coat and trousers, I say to the Divine Mother, 'O Mother, how tightly You have bound me to the world!' "
+SURENDRA: "On returning from the office, as I put away my coat and trousers, I say to the Divine Mother, 'O Mother, how tightly You have bound me to the world!'
+
 MASTER: "There are eight fetters with which man is bound: shame; hatred, fear, pride of caste, hesitation, the desire to conceal, and so forth."
 
 Sri Ramakrishna sang:
@@ -61,7 +62,7 @@ MASTER: "'Māyā's string' means wife and children. Upon the kite-strings Thou h
 
 ## The Three Gunas 
 
-"The three gunas―sattva, rajas, and tamas―have men under their control. They are like three brothers: As long as sattva exists, it calls on rajas for help; and rajas can get help from tamas. The three gunas are so many robbers. Tamas kills and rajas binds. Sattva no doubt releases man from his bondage, but it cannot take him to God."
+The three gunas―sattva, rajas, and tamas―have men under their control. They are like three brothers: As long as sattva exists, it calls on rajas for help; and rajas can get help from tamas. The three gunas are so many robbers. Tamas kills and rajas binds. Sattva no doubt releases man from his bondage, but it cannot take him to God."
 
 VIJAY (smiling): "It is because sattva, too, is a robber."
 
@@ -238,6 +239,3 @@ The sannyasi must renounce 'woman and gold' for his own welfare. Even if he is u
 he must not keep 'woman and gold' near him. The sannyasi, the man of renunciation, is a world teacher. It is his example that awakens the spiritual consciousness of men."
 
 It was nearly dusk. The devotees saluted the Master and took their leave.
-
-
-
