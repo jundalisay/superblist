@@ -1,33 +1,99 @@
+---
+title: "The Conservation of Energy"
+heading: Part 5c
+# date: 2022-01-27
+weight: 10
+description: "How does motion present itself in the interaction of attraction and repulsion?"
+image: "/covers/nature.jpg"
+author: "Frederick Engels"
+icon: /icons/engels.png
+---
 
-In the phenomena of static electricity and magnetism, we have a polar division of attraction and repulsion. Whatever hypothesis may be adopted of the modus operandi of these two forms of motion, in view of the facts no one has any doubt that attraction and repulsion, in so far as they are produced by static electricity or magnetism and are able to develop unhindered, completely compensate one another, as in fact necessarily follows from the very nature of the polar division.
 
-Two poles whose activities did not completely compensate each other would indeed not be poles, and also have so far not been discovered in nature. For the time being we will leave galvanism out of account, because in its case the process is determined by chemical reactions, which makes it more complicated. Therefore, let us investigate rather the chemical processes of motion themselves.
 
-When two parts by weight of hydrogen combine with 15.96 parts by weight of oxygen to form water vapour, an amount of heat of 68,924 heat units is developed during the process. Conversely, if 17.96 parts by weight of water vapour are to be decomposed into 2 parts by weight of hydrogen and 15.96 parts by weight of oxygen, this is only possible on condition that the water vapour has communicated to it an amount of motion equivalent to 68,924 heat units - whether in the form of heat itself or of electrical motion. The same thing holds for all other chemical processes.
+A polar division of attraction and repulsion is observed in the phenomena of static electricity and magnetism. 
 
-In the overwhelming majority of cases, motion is given off on combination and must be supplied on decomposition. Here, too, as a rule, repulsion is the active side of the process more endowed with motion or requiring the addition of motion, while attraction is the passive side producing a surplus of motion and giving off motion. On this account, the modern theory also declares that, on the whole, energy is set free on the combination of elements and is bound up on decomposition. And Helmholtz declares:
+Whatever hypothesis may be adopted of the modus operandi of these two forms of motion, in view of the facts no one has any doubt that attraction and repulsion, in so far as they are produced by static electricity or magnetism and are able to develop unhindered, completely compensate one another, as in fact necessarily follows from the very nature of the polar division.
 
-"This force (chemical affinity) can be conceived as a force of attraction.... This force of attraction between the atoms of carbon and oxygen performs work quite as much as that exerted on a raised weight by the earth in the form of gravitation.... When carbon and oxygen atoms rush at one another and combine to form carbonic acid, the newly-formed particles of carbonic acid must be in very violent molecular motion, i.e. in heat motion.... When after they have given up their heat to the environment, we still have in the carbonic acid all the carbon, all the oxygen, and in addition the affinity of both continuing to exist just as powerfully as before. But this affinity now expresses itself solely in the fact that the atoms of carbon and oxygen stick fast to one another, and do not allow of their being separated" (Helmholtz, loc. cit., p. 169).
+Two poles whose activities did not completely compensate each other would indeed not be poles, and also have so far not been discovered in nature. 
 
-It is just as before: Helmholtz insists that in chemistry as in mechanics force consists only in attraction, and therefore is the exact opposite of what other physicists call energy and which is identical with repulsion.
+For now, we will ignore Galvanism because it uses chemical reactions which makes it more complicated.
 
-Hence we have now no longer the two simple basic forms of attraction and repulsion, but a whole series of sub-forms in which the winding up and running down process of universal motion goes on in opposition to both attraction and repulsion.
+Instead, let us investigate the chemical processes of motion themselves.
 
-It is, however, by no means merely in our mind that these manifold forms of appearance are comprehended under the single expression of motion. On the contrary, they themselves prove in action that they are forms of one and the same motion by passing into one another under given conditions. 
+Two parts by weight of hydrogen combine with 15.96 parts by weight of oxygen to form water vapour. It creates heat of 68,924 heat units. 
 
-Mechanical motion of masses passes into heat, into electricity, into magnetism; heat and electricity pass into chemical decomposition; chemical combination in turn develops heat and electricity and, by means of the latter, magnetism; and finally, heat and electricity produce once more mechanical movement of masses. 
+Conversely, 17.96 parts by weight of water vapour are decomposed into 2 parts by weight of hydrogen and 15.96 parts by weight of oxygen by removing 68,924 heat units.
 
-Moreover, these changes take place in such a way that a given quantity of motion of one form always has corresponding to it an exactly fixed quantity of another form. Further, it is a matter of indifference which form of motion provides the unit by which the amount of motion is measured, whether it serves for measuring mass motion, heat, so-called electromotive force, or the motion undergoing transformation in chemical processes.
+<!-- , this is only possible on condition that the water vapour has communicated to it an amount of motion equivalent to  - whether in the form of heat itself or of electrical motion.  -->
 
-We base ourselves here on the theory of the "conservation of energy" established by J. R. Mayer [1] in 1842 and afterwards worked out internationally with such brilliant success, and we have now to investigate the fundamental concepts nowadays made use of by this theory. These are the concepts of "force", "energy", and "work".
+The same thing holds for all other chemical processes.
 
-It has been shown above that according to the modern view, now fairly generally accepted, energy is the term used for repulsion, while Helmholtz generally uses the word force to express attraction. 
+Thus:
+- combination gives off motion
+- decomposition needs motion
 
-One could regard this as a mere distinction of form, inasmuch as attraction and repulsion compensate each other in the universe, and accordingly it would appear a matter of indifference which side of the relation is taken as positive and which as negative, just as it is of no importance in itself whether the positive abscissae are counted to the right or the left of a point in a given line. Nevertheless, this is not absolutely so.
+<!-- In the overwhelming majority of cases, motion is given off on  and must be supplied on . Here, too,  -->
 
-For we are concerned here, first of all, not with the universe, but with phenomena occurring on the earth and conditioned by the exact position of the earth in the solar system, and of the solar system in the universe. At every moment, however, our solar system gives out enormous quantities of motion into space, and motion of a very definite quality, viz. the sun's heat, i.e. repulsion. 
+As a rule:
+- repulsion is the active side, needing the addition of motion
+- attraction is the passive side, producing a surplus of motion and giving off motion. 
 
-But our earth itself allows of the existence of life on it only owing to the sun's heat, and it in turn finally radiates into space the sun's heat received, after it has converted a portion of this heat into other forms of motion. Consequently, in the solar system and above all on the earth, attraction already considerably preponderates over repulsion. Without the repulsive motion radiated to us from the sun, all motion on the earth would cease.
+The modern theory declares that energy is:
+- set free during the combination of elements
+- bound up during decomposition.
+
+Helmholtz declares:
+
+{{< q a="Helmholtz" c="loc. cit., p. 169" >}}
+"This force (chemical affinity) can be conceived as a force of attraction.... This force of attraction between the atoms of carbon and oxygen performs work quite as much as that exerted on a raised weight by the earth in the form of gravitation.... 
+
+When carbon and oxygen atoms rush at one another and combine to form carbonic acid, the newly-formed particles of carbonic acid must be in very violent molecular motion, i.e. in heat motion.... 
+
+When after they have given up their heat to the environment, we still have in the carbonic acid all the carbon, all the oxygen, and in addition the affinity of both continuing to exist just as powerfully as before. But this affinity now expresses itself solely in the fact that the atoms of carbon and oxygen stick fast to one another, and do not allow of their being separated".
+{{< /q >}}
+
+
+Helmholtz insists that, in chemistry and mechanics, force consists only in attraction. Therefore force is:
+- the exact opposite of energy
+- identical with repulsion.
+
+Hence we, no longer use the simple forms of attraction and repulsion. Instead, we use a whole series of sub-forms wherein universal motion goes through winding up and running down processes. These, in opposition to each other, manifest as attraction and repulsion.
+
+These manifold forms of appearance are comprehended under the single expression of motion. 
+
+On the contrary, they themselves prove in action that they are forms of one and the same motion by passing into one another. 
+
+- mechanical motion of masses passes into heat, into electricity, into magnetism
+- heat and electricity pass into chemical decomposition
+- chemical combination in turn develops heat and electricity and, by means of the latter, magnetism
+- heat and electricity produce once more mechanical movement of masses. 
+
+These changes take place in such a way that a given quantity of motion of one form always has an exactly fixed quantity of another form.
+
+It is irrelevant which form the motion takes or is measured in, whether it is for measuring mass motion, heat, electromotive force, or the motion in chemical processes.
+
+My basis is the theory of the "conservation of energy" established by J. R. Mayer [1] in 1842. This has led to fundamental concepts of "force", "energy", and "work".
+
+ <!-- and afterwards worked out internationally with such brilliant success, and we have now to investigate the fundamental concepts nowadays made use of by this theory. These are the  -->
+
+"Energy" is the word used for repulsion.
+
+Helmholtz uses the word "force" to express attraction. 
+
+One could regard this as a mere distinction of form, inasmuch as attraction and repulsion compensate each other in the universe.
+
+Accordingly, it would appear a matter of indifference which side of the relation is taken as positive and which as negative, just as it is of no importance in itself whether the positive abscissae are counted to the right or the left of a point in a given line. Nevertheless, this is not absolutely so.
+
+We are not concerned here with the universe, but with phenomena on the earth and conditioned by:
+- the earth's position in the solar system, and
+- the solar system in the universe.
+
+At every moment, however, our solar system gives out enormous quantities of motion into space, and motion of a very definite quality, viz. the sun's heat, i.e. repulsion. 
+
+But our earth itself allows of the existence of life on it only owing to the sun's heat, and it in turn finally radiates into space the sun's heat received, after it has converted a portion of this heat into other forms of motion. 
+
+Consequently, in the solar system and above all on the earth, attraction already considerably preponderates over repulsion. Without the repulsive motion radiated to us from the sun, all motion on the earth would cease.
 
 If tomorrow the sun were to become cold, the attraction on the earth would still, other circumstances remaining the same, be what it is to-day. 
 

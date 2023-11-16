@@ -47,6 +47,8 @@ Charles Darwin has given us an approximate description of these ancestors of our
 Their hands had different functions than the feet when climbing. They began to lose the habit of using their hands to walk and adopted a more and more erect posture. 
 - This was the decisive step in the transition from ape to man.
 
+![Monkey](/photos/social/monkey.jpg)
+
 All extant anthropoid apes can stand erect and move about on their feet alone, but only in case of urgent need and in a very clumsy way. 
 - Their natural gait is in a half-erect posture and includes the use of the hands. 
 - The majority rest the knuckles of the fist on the ground and, with legs drawn up, swing the body through their long arms. 
@@ -69,39 +71,52 @@ It is in this that one sees the great gulf between the undeveloped hand of apes 
 - The number and general arrangement of the bones and muscles are the same in both hands.
 - But the hand of the lowest savage can perform hundreds of operations that no simian hand can imitate – no simian hand has ever fashioned even the crudest stone knife.
 
-The first operations for which our ancestors gradually learned to adapt their hands during the many thousands of years of transition from ape to man could have been only very simple ones. 
-
-The lowest savages, even those in whom regression to a more animal-like condition with a simultaneous physical degeneration can be assumed, are nevertheless far superior to these transitional beings. 
+Our ancestors learned to adapt their hands through very simple operations during the transition from ape to man. The lowest savages are nevertheless far superior to these transitional beings.
+<!-- , even those in whom regression to a more animal-like condition with a simultaneous physical degeneration can be assumed,   -->
 
 Before the first flint could be fashioned into a knife by human hands, a period of time probably elapsed in comparison with which the historical period known to us appears insignificant. 
 
-But the decisive step had been taken, the hand had become free and could henceforth attain ever greater dexterity; the greater flexibility thus acquired was inherited and increased from generation to generation.
+<!-- But the decisive step had been taken, the hand had become free and could henceforth -->
 
-Thus the hand is not only the organ of labour, it is also the product of labour.
+In time, hands gained ever greater dexterity. Greater flexibility thus was acquired and increased from generation to generation.
 
-Only by labour, by adaptation to ever new operations, through the inheritance of muscles, ligaments, and, over longer periods of time, bones that had undergone special development and the ever-renewed employment of this inherited finesse in new, more and more complicated operations, have given the human hand the high degree of perfection required to conjure into being the pictures of a Raphael, the statues of a Thorwaldsen, the music of a Paganini.
+Thus, the hand is not only the organ of labour, it is also the product of labour.
 
-But the hand did not exist alone, it was only one member of an integral, highly complex organism. 
+<!-- bones that had undergone special development and the ever-renewed employment of this inherited finesse in new, more and more complicated operations, -->
 
-What benefited the hand, benefited also the whole body it served; and this in two ways.
+The human hand was perfected only through labour. This led to:
+- adaptation to ever new operations
+- improvement of muscles, ligaments, and bones
 
-In the first place, the body benefited from the law of correlation of growth, as Darwin called it. 
+<!-- required to conjure into being the pictures of a Raphael, the statues of a Thorwaldsen, the music of a Paganini. -->
 
-This law states that the specialised forms of separate parts of an organic being are always bound up with certain forms of other parts that apparently have no connection with them. 
+But the hand did not exist alone. It was only one member of an integral, highly complex organism. 
 
-Thus, all animals that have red blood cells without cell nuclei, and in which the head is attached to the first vertebra by means of a double articulation (condyles), also without exception possess lacteal glands for suckling their young. 
+What benefited the hand, benefited also the whole body in 2 ways.
 
-Similarly, cloven hoofs in mammals are regularly associated with the possession of a multiple stomach for rumination. Changes in certain forms involve changes in the form of other parts of the body, although we cannot explain the connection. 
+1. The body benefited from the Darwinian law of correlation of growth
 
-Perfectly white cats with blue eyes are almost always deaf. 
+This law states that the specialised parts of a plants and animals are connected to other non-specialized parts that apparently unconnected with them. 
 
-The gradually increasing perfection of the human hand, and the commensurate adaptation of the feet for erect gait, have undoubtedly, by virtue of such correlation, reacted on other parts of the organism. 
+Thus, all animals, without exception, have lacteal glands for suckling their young if they meet the following criteria:
+- have red blood cells without cell nuclei
+- have their heads attached to the first vertebra by means of a double articulation (condyles)
+
+Similarly:
+- a mammal which has a multiple stomach for rumination always has cloven hoofs.
+- perfectly white cats with blue eyes are almost always deaf.
+
+Changes in certain forms will change the other parts of the body, although we cannot explain the connection. 
+
+2. It changed other parts of the organism
+
+<!-- The gradually increasing perfection of the human hand, and the commensurate adaptation of the feet for erect gait, have undoubtedly, by virtue of such correlation, reacted on .  -->
 
 <!-- However, this action has not as yet been sufficiently investigated for us to be able to do more here than to state the fact in general terms. -->
 
-Much more important is the direct, demonstrable influence of the development of the hand on the rest of the organism. It has already been noted that our simian ancestors were gregarious; 
+<!-- Much more important is the direct, demonstrable influence of the development of the hand on the rest of the organism. It has already been noted that our simian ancestors were gregarious; 
 
-It is impossible to seek the derivation of man, the most social of all animals, from non-gregarious immediate ancestors.
+It is impossible to seek the derivation of man, the most social of all animals, from non-gregarious immediate ancestors. -->
 
 Mastery over nature began with the development of the hand, with labour, and widened man’s horizon at every new advance. He was continually discovering new, hitherto unknown properties in natural objects. 
 

@@ -1,6 +1,6 @@
 ---
 title: William Crookes
-
+heading: Part 7b
 # date: 2022-02-01
 weight: 20
 description: The second eminent adept among English natural scientists is Mr. William Crookes. He discovered the chemical element thallium and the radiometer
@@ -31,7 +31,9 @@ The spirit proved to be a quite sturdy damsel, it defended itself vigorously, th
 
 Nevertheless, Mr. Volckmann is said to maintain up to the present day that he had seized hold of Miss Cook and nobody else. In order to establish this scientifically, Mr. Varley, a well-known electrician, on the occasion of a new experiment, arranged for the current from a battery to flow through the medium, Miss Cook, in such a way that she could not play the part of the spirit without interrupting the current. Nevertheless, the spirit made its appearance. 
 
-It was, therefore, indeed a being different from Miss Cook. To establish this further was the task of Mr. Crookes. His first step was to win the confidence of the spiritualistic lady. This confidence, so he says himself in the Spiritualist, June 5, 1874, “increased gradually to such an extent that she refused to give a séance unless I made the arrangements. She said that she always wanted me to be near her and in the neighbourhood of the cabinet.
+It was, therefore, indeed a being different from Miss Cook. To establish this further was the task of Mr. Crookes. His first step was to win the confidence of the spiritualistic lady.
+
+This confidence, so he says himself in the Spiritualist, June 5, 1874, “increased gradually to such an extent that she refused to give a séance unless I made the arrangements. She said that she always wanted me to be near her and in the neighbourhood of the cabinet.
 
 I found that – when this confidence had been established and she was sure that I would not break any promise made to her – the phenomena increased considerably in strength and there was freely forthcoming evidence that would have been unobtainable in any other way. 
 

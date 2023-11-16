@@ -1,5 +1,6 @@
 ---
 title: Natural Science and the Spirit World
+heading: Part 7
 # date: 2022-01-20
 weight: 18
 description: Modern dialectics is split into 2 extremes

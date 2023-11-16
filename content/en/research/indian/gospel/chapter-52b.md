@@ -1,9 +1,9 @@
 ---
-title: "AFTER THE PASSING AWAY"
+title: "After The Death of Ramakrishna"
 image: "/covers/rama.jpg"
 heading: "Chapter 52"
 weight: 212
-description: ""
+description: "Narendra went to Calcutta to look after a lawsuit that involved his family since the death of his father"
 ---
 
 
@@ -11,7 +11,9 @@ Monday, February 21, 1887
 
 Narendra, Rākhāl, Niranjan, Sarat, Śaśi, Kāli, Baburam, Tārak, and Sarada Prasanna were living in the monastery. All day the members had been fasting in observance of the Sivaratri. Sarat, Kāli, Niranjan, and Sarada were planning to go to Puri, the following Saturday, on a pilgrimage to the sacred Jagannath. Jogin and Lātu were at Vrindāvan and had not yet seen the new place.
 
-Narendra had gone to Calcutta that morning to look after a lawsuit in which his family had been involved since the death of his father. At nine o'clock in the morning M. arrived at the Math. Tārak saw him and began to sing in praise of Śiva, Rākhāl joining him: There Śiva dances, striking both His cheeks; and they resound, Ba-ba-bom!
+Narendra had gone to Calcutta that morning to look after a lawsuit in which his family had been involved since the death of his father. At 9am, M. arrived at the Math.
+
+Tārak saw him and began to sing in praise of Śiva, Rākhāl joining him: There Śiva dances, striking both His cheeks; and they resound, Ba-ba-bom!
 
 Dimi-dimi-dimi! sounds His drum; a garland of skulls from His neck is hanging!
 
@@ -87,37 +89,33 @@ The devotees shouted joyfully, "Jai Guru Mahārāj"!
 
 Monday, March 25, 1887
 
-M. arrived at the Baranagore Math to visit his brother disciples. Devendra accompanied
-him. M. had been coming to the monastery very frequently and now and then had spent
-a day or two. The previous week he had spent three days at the Math. He was very
-eager to observe the spirit of intense renunciation of these young men.It was evening. M. intended to spend the night in the monastery. Śaśi lighted the lamp
-in the worship room and chanted the name of God. Next he burnt incense before all the
-pictures of gods and goddesses in the various rooms. The evening service began. Śaśi
-conducted the worship. The members of the Math, with M. and Devendra, stood with
-folded hands and sang the hymn of the Ārati.
-Narendra's reminiscences of the Master
-When the worship was over, Narendra and M. became engaged in conversation.
-Narendra was recalling his various meetings with Sri Ramakrishna.
-NARENDRA: "One day, during one of my early visits, the Master in an ecstatic mood said
-to me, 'You have come!' 'How amazing!' I said to myself. 'It is as if he had known me a
-long time.' Then he said to me, 'Do you ever see light?' I replied: 'Yes, sir. Before I fall
-asleep I feel something like a light revolving near my forehead.' "
+M. arrived at the Baranagore Math with Devendra to visit his brother disciples and spend the night in the monastery. The previous week he had spent three days at the Math. He was very eager to observe the spirit of intense renunciation of these young men. 
+
+Śaśi lit the lamp in the worship room and chanted the name of God. Next he burnt incense before all the pictures of gods and goddesses in the various rooms. The evening service began. 
+
+Śaśi conducted the worship. The members of the Math, with M. and Devendra, stood with folded hands and sang the hymn of the Ārati.
+
+## Narendra's reminiscences of the Master
+
+After the worship, Narendra recalled to M. his various meetings with Sri Ramakrishna.
+
+NARENDRA: "One day, during one of my early visits, the Master in an ecstatic mood said to me, 'You have come!' 'How amazing!' I said to myself. 'It is as if he had known me a long time.' Then he said to me, 'Do you ever see light?' I replied: 'Yes, sir. Before I fall asleep I feel something like a light revolving near my forehead.' "
+
 M: "Do you see it even now?"
-NARENDRA:"I used to see it frequently. In Jadu Mallick's garden house the Master one
-day touched me and muttered something to himself. I became unconscious. The effect of
-the touch lingered with me a month, like an intoxication.
-"When he heard that a proposal had been made about my marriage, he wept, holding
-the feet of the image of Kāli. With tears in his eyes he prayed to the Divine Mother: 'O
-Mother, please upset the whole thing! Don't let Narendra be drowned.'
-"After my father's death my mother and my brothers were starving. When the Master
-met Annada Guha one day, he said to him: 'Narendra's father has died. His family is in a
-state of great privation. It would be good if his friends helped him now with money.'
+
+NARENDRA:"I used to see it frequently. In Jadu Mallick's garden house the Master one day touched me and muttered something to himself. I became unconscious. The effect of the touch lingered with me a month, like an intoxication.
+"When he heard that a proposal had been made about my marriage, he wept, holding the feet of the image of Kāli. With tears in his eyes he prayed to the Divine Mother: 'O Mother, please upset the whole thing! Don't let Narendra be drowned.'
+
+"After my father's death my mother and my brothers were starving. When the Master met Annada Guha one day, he said to him: 'Narendra's father has died. His family is in a state of great privation. It would be good if his friends helped him now with money.' 
+
 "After Annada had left I scolded him. I said, 'Why did you say all those things to him?'
+
 Thus rebuked, he wept and said, 'Alas! for your sake I could beg from door to door.'
 "He tamed us by his love. Don't you think so?"
+
 M: "There is not the slightest doubt about it. His love was utterly unselfish."
-NARENDRA: "One day when I was alone with him he said something to me. Nobody else
-was present. Please don't repeat it to anyone here,"
+
+NARENDRA: "One day when I was alone with him he said something to me. Nobody else was present. Please don't repeat it to anyone here,"
 M: "No, I shall not. What did he say?"
 NARENDRA: "He said: 'It is not possible for me to exercise occult powers; but I shall do
 so through you. What do you say?' 'No,' I replied, 'you can't do that.'
@@ -138,50 +136,57 @@ said, 'What has happened to me?' The elder Gopal went to the Master's room and s
 'Narendra is crying.'
 "When I saw the Master he said to me: 'Now you have known. But I am going to keep
 the key with me.'
+
 "I said to him, 'What is it that happened to me?'
+
 "Turning to the devotees, he said: 'He will not keep his body if he knows who he is. But I
 have put a veil over his eyes.'
-"One day he said to me, 'You can see Krishna in your heart if you want.' I replied, 'I
-don't believe in Krishna or any such nonsense!' (Both M. and Narendra laugh.)
-Narendra's foreknowledge of things
-"I have noticed a peculiar thing. Some men, objects, or places make me feel as if I had
-seen them before, in a previous birth. They appear familiar to me. One day I went to
-Sarat's house in Calcutta, on Amherst Street. Immediately I said to Sarat: 'This house
-seems familiar to me. It seems to me that I have known the rooms, the passages, and
+
+"One day he said to me, 'You can see Krishna in your heart if you want.' I replied, 'I don't believe in Krishna or any such nonsense!' (Both M. and Narendra laugh.) Narendra's foreknowledge of things
+
+"I have noticed a peculiar thing. Some men, objects, or places make me feel as if I had seen them before, in a previous birth. They appear familiar to me. One day I went to Sarat's house in Calcutta, on Amherst Street. Immediately I said to Sarat: 'This house seems familiar to me. It seems to me that I have known the rooms, the passages, and
 the rest of the house for many, many days.
+
 "I used to follow my own whims in everything I did. The Master never interfered. You
 know that I became a member of the Sadharan Brahmo Samaj."
+
 M: "Yes, I know that."
-NARENDRA: "The Master knew that women attended the meetings of the Brahmo Samaj.
-A man cannot meditate with women sitting in front of him; therefore he criticized the
-meditation of the Brahmo Samaj. But he didn't object to my going there. But one day he
-said to me, 'Don't tell Rākhāl about your being a member of the Brahmo Samaj, or he
-too will feel like becoming one.'"M: "You have greater strength of mind. That is why the Master didn't prevent your going
-to the Samaj."
-NARENDRA: "I have attained my present state of mind as a result of much suffering and
-pain. You have not passed through any such suffering. I now realize that without trials
-and tribulations one cannot resign oneself to God and depend on Him absolutely.
-Narendra's ego
+
+NARENDRA: "The Master knew that women attended the meetings of the Brahmo Samaj. 
+
+A man cannot meditate with women sitting in front of him; therefore he criticized the meditation of the Brahmo Samaj. But he didn't object to my going there. But one day he said to me, 'Don't tell Rākhāl about your being a member of the Brahmo Samaj, or he too will feel like becoming one.'"M: "You have greater strength of mind. That is why the Master didn't prevent your going to the Samaj."
+
+NARENDRA: "I have attained my present state of mind as a result of much suffering and pain. You have not passed through any such suffering. I now realize that without trials and tribulations one cannot resign oneself to God and depend on Him absolutely.
+
+
+## Narendra's ego
+
 "Well, X- is so modest and humble! He is totally self-effacing. Can you tell me how I can
 develop humility?"
+
 M: "Speaking about your ego, the Master said, 'Whose ego is it?'"
+
 NARENDRA: "What did he mean?"
-M: "A friend one day said to Rādhika: 'You are egotistic. That is why you insulted
-Krishna.' Whereupon another friend said to the first: 'Yes, Rādhika is egotistic, no doubt.
-But whose ego is it?' What she meant was that Radha was egotistic because she
-regarded Krishna as her Lord. It was Krishna Himself who kept that ego in Radha.
-"What the Master meant was that it is God alone who has kept this ego in you, so that
-He may accomplish many things through you.
+
+M: "A friend one day said to Rādhika: 'You are egotistic. That is why you insulted Krishna.' Whereupon another friend said to the first: 'Yes, Rādhika is egotistic, no doubt.
+
+But whose ego is it?' What she meant was that Radha was egotistic because she regarded Krishna as her Lord. It was Krishna Himself who kept that ego in Radha.
+
+"What the Master meant was that it is God alone who has kept this ego in you, so that He may accomplish many things through you.
+
 NARENDRA: "But my ego loudly proclaims to all that I have no suffering."
+
 M. (smiling): "You may loudly proclaim it, if that be your sweet will."
+
 The conversation turned to other devotees.
+
 NARENDRA: "The Master said about Vijay Goswami, 'He is knocking at the door.' "
-M: "That is to say, he has not yet entered the room. At Syampukur Vijay said to the
-Master, 'I saw you at Dāccā in this tangible form, in this very body.' You were there too."
-NARENDRA: "Devendra Babu and Ram Babu want to renounce the World. They are
-trying hard. Ram Babu told me privately that he would give up the world after two
-years."
+
+M: "That is to say, he has not yet entered the room. At Syampukur Vijay said to the Master, 'I saw you at Dāccā in this tangible form, in this very body.' You were there too." 
+
+NARENDRA: "Devendra Babu and Ram Babu want to renounce the World. They are trying hard. Ram Babu told me privately that he would give up the world after 2 years."
+
 M: "After two years? After making provision for his children?"
-NARENDRA: "Besides, he will rent his present house and buy a small house. Other
-relatives will arrange his daughter's marriage."
+
+NARENDRA: "Besides, he will rent his present house and buy a small house. Other relatives will arrange his daughter's marriage."
 

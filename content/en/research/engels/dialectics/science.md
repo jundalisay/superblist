@@ -1,5 +1,6 @@
 ---
-title: The History of European Science 
+title: The History of European Science
+heading: Part 6
 # date: 2022-02-01
 weight: 12
 image: "/covers/nature.jpg"

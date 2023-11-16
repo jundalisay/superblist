@@ -59,3 +59,5 @@ For example:
 - instead of creating conflict between Ukraine and Russia, constitutional virtues and multilateral clearing can be used to find a common ground between liberal economies and centrally-controlled economies
 - instead of doing nothing against global warming, the concept of investing and operating in commercially non-viable, but morally viable, ventures can be introduced in order to prevent the bigger loss from climate change that hurts everyone's investments
 
+
+<!-- How does this deal with gravitational waves.  -->

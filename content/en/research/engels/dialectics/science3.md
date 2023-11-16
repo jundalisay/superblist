@@ -1,5 +1,6 @@
 ---
-title: Kant's Contribution 
+title: Kant's Contribution
+heading: Part 6c
 # date: 2022-02-01
 weight: 16
 image: "/covers/nature.jpg"

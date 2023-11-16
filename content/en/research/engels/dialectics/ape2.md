@@ -1,5 +1,5 @@
 ---
-title: The Adoption of a Meat Diet Improved Humans
+title: The Predatory Economy and the Meat Diet
 heading: Part 2
 # date: 2022-01-31
 weight: 4
@@ -9,6 +9,8 @@ image: "/covers/nature.jpg"
 icon: /icons/engels.png
 ---
 
+
+## The Adoption of a Meat Diet Improved Humans
 
 The ape gradually changed into that of man through 2 essential stimuli:
 
@@ -20,33 +22,81 @@ These influenced the brain. Labour is <!-- , which, for all its similarity --> i
 
 Together with the brain development came sensory development. <!--  of the brain went the development of its most immediate instruments – the senses.  -->
 
-Just as the gradual development of speech is inevitably accompanied by a corresponding refinement of the organ of hearing, so the development of the brain as a whole is accompanied by a refinement of all the senses. 
+The gradual development of speech is inevitably accompanied by a refinement in hearing
+- Likewise, brain development is accompanied by a refinement of all the senses. 
 
-The eagle sees much farther than man, but the human eye discerns considerably more in things than does the eye of the eagle. The dog has a far keener sense of smell than man, but it does not distinguish a hundredth part of the odours that for man are definite signs denoting different things. And the sense of touch, which the ape hardly possesses in its crudest initial form, has been developed only side by side with the development of the human hand itself, through the medium of labour.
+The eagle sees much farther than man. But the human eye discerns considerably more in things than the eagle's eye.
 
-The reaction on labour and speech of the development of the brain and its attendant senses, of the increasing clarity of consciousness, power of abstraction and of conclusion, gave both labour and speech an ever-renewed impulse to further development. 
+The dog has a keener sense of smell than man, but it does not distinguish a hundredth part of the smells that men use to denote things.
 
-This development did not reach its conclusion when man finally became distinct from the ape, but on the whole made further powerful progress, its degree and direction varying among different peoples and at different times, and here and there even being interrupted by local or temporary regression. This further development has been strongly urged forward, on the one hand, and guided along more definite directions, on the other, by a new element which came into play with the appearance of fully-fledged man, namely, society.
+The ape hardly possesses the sense of touch. But humans have developed a sense of touch from through development of the human hand itself, through the medium of labour.
 
-Hundreds of thousands of years – of no greater significance in the history of the earth than one second in the life of man [Engels note: A leading authority in this respect, Sir William Thomson, has calculated that little more than a hundred million years could have elapsed since the time when the earth had cooled sufficiently for plants and animals to be able to live on it.] – certainly elapsed before human society arose out of a troupe of tree-climbing monkeys. Yet it did finally appear. And what do we find once more as the characteristic difference between the troupe of monkeys and human society? Labour. 
+Labour developed speech, the brain and its attendant senses. It increased:
+- the clarity of consciousness
+- power of abstraction and of conclusion
 
-The ape herd was satisfied to browse over the feeding area determined for it by geographical conditions or the resistance of neighbouring herds; 
+These then gave both labour and speech an ever-renewed impulse to further development. 
 
-it undertook migrations and struggles to win new feeding grounds, but it was incapable of extracting from them more than they offered in their natural state, except that it unconsciously fertilised the soil with its own excrement. As soon as all possible feeding grounds were occupied, there could be no further increase in the ape population; the number of animals could at best remain stationary. 
+This development did end when man became distinct from the ape. Instead, it continued. Its degree and direction varying among different peoples and at different times.
 
-But all animals waste a great deal of food, and, in addition, destroy in the germ the next generation of the food supply. Unlike the hunter, the wolf does not spare the doe which would provide it with the young the next year; the goats in Greece, that eat away the young bushes before they grow to maturity, have eaten bare all the mountains of the country. 
+<!-- , but on the whole made further powerful progress, , and here and there even being interrupted by local or temporary regression. This further development has been strongly urged forward, on the one hand, and guided along more definite directions, on the other, by a new element which came into play with the appearance of fully-fledged man, namely, society. -->
 
-This “predatory economy” of animals plays an important part in the gradual transformation of species by forcing them to adapt themselves to other than the usual food, thanks to which their blood acquires a different chemical composition and the whole physical constitution gradually alters, while species that have remained unadapted die out. There is no doubt that this predatory economy contributed powerfully to the transition of our ancestors from ape to man. In a race of apes that far surpassed all others in intelligence and adaptability, this predatory economy must have led to a continual increase in the number of plants used for food and the consumption of more and more edible parts of food plants. 
+Hundreds of thousands of years is of no greater significance in Earth's history than one second in the life of man*.
 
-In short, food became more and more varied, as did also the substances entering the body with it, substances that were the chemical premises for the transition to man.
+> *Engels note: A leading authority in this respect, Sir William Thomson, has calculated that little more than 100 million years could have elapsed since the time when the earth had cooled sufficiently for plants and animals to be able to live on it.
 
-But all that was not yet labour in the proper sense of the word. Labour begins with the making of tools. And what are the most ancient tools that we find – the most ancient judging by the heirlooms of prehistoric man that have been discovered, and by the mode of life of the earliest historical peoples and of the rawest of contemporary savages? 
 
-They are hunting and fishing implements, the former at the same time serving as weapons. But hunting and fishing presuppose the transition from an exclusively vegetable diet to the concomitant use of meat, and this is another important step in the process of transition from ape to man. A meat diet contained in an almost ready state the most essential ingredients required by the organism for its metabolism.
+<!-- certainly elapsed before human society arose out of a troupe of tree-climbing monkeys. Yet it did finally appear. And what do we find once more as the characteristic difference between the troupe of monkeys and human society? Labour.  -->
 
-By shortening the time required for digestion, it also shortened the other vegetative bodily processes that correspond to those of plant life, and thus gained further time, material and desire for the active manifestation of animal life proper. 
+<!-- The ape herd was satisfied to browse over the feeding area determined for it by geographical conditions or the resistance of neighbouring herds;  -->
 
-The farther man in the making moved from the vegetable kingdom the higher he rose above the animal.
+The ape herd undertook migrations and struggles to win new feeding grounds. But it was incapable of extracting from them more than they offered in their natural state.
+
+<!-- , except that it unconsciously fertilised the soil with its own excrement.  -->
+
+As soon as all feeding grounds were occupied, the ape population could no longer increase. 
+ <!-- in the ; the number of animals could at best remain stationary.  -->
+
+
+All animals:
+- waste a lot of food
+- destroy in the germ the next generation of the food supply.
+
+Unlike the hunter, the wolf does not spare the doe which would provide it with a new deer next year.
+
+The goats in Greece eat away the young bushes before they grow to maturity.
+<!-- , have eaten bare all the mountains of the country.  -->
+
+This “predatory economy” of animals forces animals to adapt to survive. The unadapted ones die out.  
+
+ <!-- themselves to other than the usual food, thanks to which their blood acquires a different chemical composition and the whole physical constitution gradually alters, while species that have remained unadapted die out. -->
+
+This predatory economy contributed powerfully to the transition of our ancestors from ape to man.
+
+<!-- In a race of apes that far surpassed all others in intelligence and adaptability,  -->
+
+Among humans, this predatory economy must have led to a continual increase in the plants used for food.
+
+ <!-- and the consumption of more and more edible parts of food plants.  -->
+
+In short, food became more and more varied. This caused a variety in the chemical substances entering men's bodies. These substances led to the transition to modern man.
+
+<!-- But all that was not yet labour in the proper sense of the word.  -->
+
+Labour begins with the making of tools such as hunting and fishing implements.
+
+<!-- . And what are the most ancient tools that we find – the most ancient judging by the heirlooms of prehistoric man that have been discovered, and by the mode of life of the earliest historical peoples and of the rawest of contemporary savages?  -->
+
+<!-- They are , the former at the same time serving as weapons. But  -->
+
+Hunting and fishing presuppose the transition from an exclusively vegetable diet to the use of meat.
+
+<!-- , and this is another important step in the process of transition from ape to man.  -->
+
+A meat diet has the most essential ingredients required by the organism for its metabolism.
+- It shortens the time required for digestion, it also shortened the other vegetative bodily processes that correspond to those of plant life, and thus gained further time, material and desire for the active manifestation of animal life proper. 
+
+The farther man moved away from vegetables, the higher he rose above the animal.
 
 Wild cats and dogs became domesticated by being used to a vegetable diet side by side with meat.
 
@@ -86,7 +136,11 @@ By the combined functioning of hand, speech organs and brain, not only in each i
 
 Law and politics arose, and with them that fantastic reflection of human things in the human mind – religion. In the face of all these images, which appeared in the first place to be products of the mind and seemed to dominate human societies, the more modest productions of the working hand retreated into the background, the more so since the mind that planned the labour was able, at a very early stage in the development of society (for example, already in the primitive family), to have the labour that had been planned carried out by other hands than its own. 
 
-All merit for the swift advance of civilisation was ascribed to the mind, to the development and activity of the brain. Men became accustomed to explain their actions as arising out of thought instead of their needs (which in any case are reflected and perceived in the mind); and so in the course of time there emerged that idealistic world outlook which, especially since the fall of the world of antiquity, has dominated men’s minds. It still rules them to such a degree that even the most materialistic natural scientists of the Darwinian school are still unable to form any clear idea of the origin of man, because under this ideological influence they do not recognise the part that has been played therein by labour.
+All merit for the swift advance of civilisation was ascribed to the mind, to the development and activity of the brain. 
+
+Men became accustomed to explain their actions as arising out of thought instead of their needs (which in any case are reflected and perceived in the mind). In time, there emerged that idealistic world outlook which, especially since the fall of the world of antiquity, has dominated men’s minds.
+
+It still rules them to such a degree that even the most materialistic natural scientists of the Darwinian school are still unable to form any clear idea of the origin of man, because under this ideological influence they do not recognise the part that has been played therein by labour.
 
 Animals, as has already been pointed out, change the environment by their activities in the same way, even if not to the same extent, as man does, and these changes, as we have seen, in turn react upon and change those who made them. In nature nothing takes place in isolation. 
 
@@ -103,4 +157,3 @@ The animal destroys the vegetation of a locality without realising what it is do
 He transfers useful plants and domestic animals from one country to another and thus changes the flora and fauna of whole continents. More than this. Through artificial breeding both plants and animals are so changed by the hand of man that they become unrecognisable.
 
 The wild plants from which our grain varieties originated are still being sought in vain. There is still some dispute about the wild animals from which our very different breeds of dogs or our equally numerous breeds of horses are descended.
-
