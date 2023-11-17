@@ -80,7 +80,7 @@ Modern economics tries to maximise consumption through **the optimal pattern of 
 ![sad](/photos/sad.jpg)
 
 
-> *Superphysics Note: This matches our [Effort Theory of Value](/social/economics/principles/effort-theory-of-value) which aims for minimizing toil and trouble, while maximizing happiness
+> *Superphysics Note: This matches our [Effort Theory of Value](/social/economics/principles/part-2/chapter-01b/) which aims for minimizing toil and trouble, while maximizing happiness
 
 
 Simplicity and non-violence are obviously closely related.
