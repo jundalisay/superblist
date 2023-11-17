@@ -6,6 +6,7 @@ weight: 58
 description: "Einstein believes the universe is a finite quasi-sphere"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
+author: Albert Einstein
 ---
 
 

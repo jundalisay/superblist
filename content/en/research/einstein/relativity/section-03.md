@@ -6,6 +6,7 @@ weight: 8
 description: "All trajectories or movements depend on a viewpoint"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
+author: Albert Einstein
 ---
 
 

@@ -3,11 +3,10 @@ heading: "Section 1"
 title: "Physical Meaning Of Geometrical Propositions"
 weight: 4
 # date: 2022-04-12
-author: Einstein (simplified)
-linkTitle: "EPR Paradox"
 description: "Our perceptions of geometrical shapes are Relative and Dynamic and Not Absolute and Static"
 icon: "/icons/einbla.png"
 image: "/covers/rel.jpg"
+author: Albert Einstein
 ---
 
 

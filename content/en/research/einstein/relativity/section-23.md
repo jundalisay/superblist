@@ -6,6 +6,7 @@ weight: 40
 description: "Einstein explains the behaviour Of Clocks And Measuring-rods On A Rotating Body Of Reference"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
+author: Albert Einstein
 ---
 
 

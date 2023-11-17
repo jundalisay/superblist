@@ -3,9 +3,10 @@ title: "The System Of Co–ordinates"
 heading: "Section 2"
 weight: 6
 # date: 2022-04-28
-description: "To solve the relativity of our perceptions, we use a quantum as our measuring rod which we add to itself in increments as we build our whole perception"
+description: "To solve the relativity of our perceptions, we use a quantum as our measuring rod which we add to itself"
 icon: "/icons/einbla.png"
 image: "/covers/rel.jpg"
+author: Albert Einstein
 ---
 
 

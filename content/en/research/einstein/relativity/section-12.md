@@ -6,6 +6,7 @@ weight: 20
 description: "Einstein uses the Lorentz Transformation to show time dilation and length contraction"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
+author: Albert Einstein
 ---
 
 

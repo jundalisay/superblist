@@ -6,6 +6,7 @@ weight: 50
 description: "Einstein explains General Relativity"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
+author: Albert Einstein
 ---
 
 
@@ -14,8 +15,7 @@ icon: "/icons/einbla.png"
 
 Our provisional formulation was:
 
-
-{{< q a="einbla" >}}
+{{< q a="Einstein-sophist" >}}
 All bodies of reference `K`, `K'`, etc., are equivalent for the description of natural phenomena (formulation of the general laws of nature), whatever may be their state of motion
 {{< /q >}}
 
@@ -23,7 +23,7 @@ This now cannot be maintained because it required rigid reference-bodies as foll
 
 In Section 27, we replaced it with Gauss co-ordinates. <!--  system as the new body of reference. --> This creates a new statement for General Relativity (GR):
 
-{{< q a="einbla">}}
+{{< q a="Einstein-sophist" >}}
 All Gaussian co-ordinate systems are essentially equivalent for the formulation of the general laws of nature.
 {{< /q >}}
 

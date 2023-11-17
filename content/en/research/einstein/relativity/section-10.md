@@ -6,6 +6,7 @@ weight: 18
 description: "Since time is not absolute, then distance is also not absolute, but varies depending on viewpoint. This will allow length contraction via the Lorentz Transformation in Section 12"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
+author: Albert Einstein
 ---
 
 

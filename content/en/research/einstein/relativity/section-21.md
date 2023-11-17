@@ -6,6 +6,7 @@ weight: 36
 description: "Einstein Claims that General Relativity can solve the insufficiencies of Classical Mechanics"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
+author: Albert Einstein
 ---
 
 

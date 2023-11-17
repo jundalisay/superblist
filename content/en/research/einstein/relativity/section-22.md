@@ -6,6 +6,7 @@ weight: 38
 description: "Einstein separates Special Relativity from General Relativity"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
+author: Albert Einstein
 ---
 
 

@@ -6,7 +6,9 @@ weight: 26
 description: "Special Relativity is proven by Starlight, Electrons, and the lack of Aether drift"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
+author: Albert Einstein
 ---
+
 
 
 Is special relativity supported by experience? 

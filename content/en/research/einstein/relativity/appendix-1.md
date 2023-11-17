@@ -6,6 +6,7 @@ date: 2022-01-12
 description: "Einstein explains the Lorentz Transformation"
 icon: "/icons/einbla.png"
 image: "/covers/rel.jpg"
+author: Albert Einstein
 ---
 
 

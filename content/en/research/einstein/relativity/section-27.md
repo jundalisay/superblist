@@ -6,6 +6,7 @@ weight: 48
 description: "Einstein splits General Relativity from Special Relativity by creating an arbitrary, malleable spacetime"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
+author: Albert Einstein
 ---
 
 
@@ -43,4 +44,4 @@ The following statements hold generally:
 
 "Every physical description resolves itself into a number of statements, each of which refers to the spacetime coincidence of two events A and B"
 
-In terms of Gaussian co-ordinates, every such statement is expressed by the agreement of their four co-ordinates `x1, x2, x3, x4`. Thus in reality, the description of the time-space continuum by means of Gauss co-ordinates completely replaces the description with the aid of a body of reference, without suffering from the defects of the latter mode of description; it is not tied down to the Euclidean character of the continuum which has to be represented.
+In terms of Gaussian co-ordinates, every such statement is expressed by the agreement of their four co-ordinates `x1, x2, x3, x4`. Thus in reality, the description of the time-space continuum by means of Gauss co-ordinates completely replaces the description with the aid of a body of reference, without suffering from the defects of the latter mode of description. It is not tied down to the Euclidean character of the continuum which has to be represented.

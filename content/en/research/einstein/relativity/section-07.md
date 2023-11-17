@@ -6,6 +6,7 @@ weight: 14
 description: "The constancy of the speed of light makes classical mechanics not universal"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
+author: Albert Einstein
 ---
 
 

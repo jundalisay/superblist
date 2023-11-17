@@ -6,6 +6,7 @@ weight: 44
 description: "Einstein uses Gaussian co-ordinates to explain movement in 4D spacetime."
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
+author: Albert Einstein
 ---
 
 
