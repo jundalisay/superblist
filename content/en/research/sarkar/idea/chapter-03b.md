@@ -111,11 +111,11 @@ The aethereal body has the singular characteristic of transmitting sound waves.
 
 Name | Function
 --- | ---
-1. cakśuh (eye) | darshana (to see)
-2. karńa (ear) | shravańa (to hear)
-3. násiká (nose) | ághráńa (to smell)
-4. jihvá (tongue) | ásvádana (to taste)
-5. tvak (skin) | sparshana (to touch)
+cakśuh (eye) | darshana (to see)
+karńa (ear) | shravańa (to hear)
+násiká (nose) | ághráńa (to smell)
+jihvá (tongue) | ásvádana (to taste)
+tvak (skin) | sparshana (to touch)
 
 These help the mind in assimilating the <!-- tanmátras --> quantum-perceptions.
 
@@ -123,11 +123,11 @@ The motor organs <!-- or karmendriyas -->:
 
 Name | Function
 --- | ---
-1. vák (vocal cord) | kathana (to speak)
-2. páńi (hand) | shilpana (to work)
-3. páda (leg) | carańa (to move)
-4. páyu (anus) | varjana (to let out waste)
-5. upastha (genitary organ) | janana (to give birth)
+vák (vocal cord) | kathana (to speak)
+páńi (hand) | shilpana (to work)
+páda (leg) | carańa (to move)
+páyu (anus) | varjana (to let out waste)
+upastha (genitary organ) | janana (to give birth)
 
 
 Organ | Passage	| Controlling nerve

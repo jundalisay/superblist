@@ -5,7 +5,8 @@ heading: "Chapter 5"
 weight: 26
 description: "Consciousness is the supreme subjectivity and all other, mundane, subjectivities or objectivities are mere blendings of the absolute subjectivity"
 image: "/covers/ideology.jpg"
-icon: /flags/in.png
+icon: "/icons/sarkar.png"
+author: PR Sarkar
 ---
 
 
@@ -18,7 +19,7 @@ Therefore, the mind is not an absolute entity.
 - Afferent and efferent nerves, in their turn, act as direct agents of these organs.
 
 The nerves:
-- convey the quantum-perceptions <!-- tanmátras --> from objects into the mind, and
+- convey the quantum-perceptions (tanmátras) from objects into the mind, and
 - activate the objects with the force that they get from the mental structure
 
 Thus, they:
@@ -53,7 +54,7 @@ In terms of the efferent nerves, the activating (radiating) capacity of the ego 
 
 Thus, the mind acts through the organs and nerves to receive or radiate the quantum-perceptions. 
 
-The portion of mind which deals with the sense-organs is called the crude stage.
+The portion of mind which deals with the sense-organs is called the crude portion.
 <!-- kamamaya  -->
 - This controls the physical longings of the microcosm.
 
@@ -61,7 +62,7 @@ The portion of mind which deals with the sense-organs is called the crude stage.
 
 Hence, in the stage of  -->
 
-The mindstuff has an Identity-layer and an Ego-layer <!-- we get Mahattattva and Ahaḿtattva --> as well.
+The mindstuff has an Identity-layer and an Ego-layer (Mahattattva and Ahaḿtattva) as well.
 
 In the crudification <!-- cycle, extroversial saiṋcara --> process, mindstuff gradually crudifies under the influence of static Activity until the crude solid is created. 
 
@@ -71,15 +72,13 @@ These 5 portions are the crude portion of the Macrocosmic Mind where it displays
 
 The 5 portions from the initial portion are:
 
-1. Causal 1 <!-- hirańmaya -->
+1. Causal 1 (hirańmaya)
   - this is called “causal” or “astral” mind collectively with the vijiṋánamaya and atimánasa kosas
-2. Causal 2 
-<!-- Vijiṋanamaya -->
-3. Causal 3
-<!-- Atimanasa -->
-4. Subtle <!-- manomaya  -->
+2. Causal 2 (vijiṋanamaya)
+3. Causal 3 (atimanasa)
+4. Subtle (manomaya)
 <!-- - this is known as the “subtle mind” or súkśma manah -->
-5. Crude <!-- kámamaya kośa. --> 
+5. Crude (kámamaya kośa) 
 <!--   - this is the crudest in structure and is called the “crude mind” or sthúla manah in dealing with the 5 layers. -->
 
 <!--   -  and in the case of the microcosm dealing with the external paiṋcabhútas,   -->
@@ -117,13 +116,13 @@ The subtle portion <!-- manomaya, --> is capable of <!-- performing the function
 
 
 
-## Atimánasa, Vijiṋánamaya, Hirańmaya
+## The Causal Portions (Atimánasa, Vijiṋánamaya, Hirańmaya)
 
 These are the causal portion of both the Macrocosm and the microcosm. 
 
 <!-- The remaining 3 kośas are still more subtle and also being the rudimental stages of sthúla and súkśma manah, are .  -->
 
-But the causal stage <!-- portion --> <!-- division --> of the microcosmic mind is merely theoretical. 
+But the causal portion <!-- division --> of the microcosmic mind is merely theoretical. 
 - There is no separate existence of the unit causal mind from the Cosmic causal mind. 
 - There is no causal difference between the microcosm and the Macrocosm.
 
@@ -153,11 +152,9 @@ Yet because of the inclusion of the 5 layers<!--  bhútas --> within its mind, 
 
 <!-- - Ahaḿtattva and Mahattattva of Paramátman are known as Its astral or causal body. -->
 
- 
-
 This is because philosophy says that the moment the Macrocosmic Nucleus<!--  Puruśottama --> was influenced by His immanent sentient principle:
 - the seed of creation was expressed
-- His bodies and lokas were created.
+- His bodies and worlds (lokas) were created.
 
 Thus, the whole portion <!-- annamaya kośa --> of the unit mind is the crude body of the Macrocosm <!--  (sthúla deha) -->. 
 
@@ -168,7 +165,7 @@ The subtle body of the unit's mind is made up of the following portions:
 - causal
 
 
-Above the scope of the causal portion <!-- hirańmaya --> until the merger into the Macrocosmic Nucleus, the unit certainly has a body. 
+Above the scope of the causal portion (hirańmaya) until the merger into the Macrocosmic Nucleus, the unit certainly has a body. 
 - But that body cannot be called causal. <!-- It, being the last phase, is known as sámánya deha. -->
 
 By its very nature, if the mind is to possess objectivity, it must also have a witnessing entity. 

@@ -74,7 +74,7 @@ The átman witnesses the mind itself. The ultimate residence of the mind is the
 
 
 
-## Structural Dissociation [Big Bang] from the Lack of Vital Energy
+## Structural Dissociation [Supernova] from the Lack of Vital Energy
 
 Structural Dissociation (jadasphota) happens when celestial bodies lose vital energy. This can be:
 - instantaneous, or
