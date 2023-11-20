@@ -6,7 +6,7 @@ title: "The Operational Ratios of the Points-based System"
 date: 2023-04-19
 weight: 42
 image: /photos/buy.jpg
-description: "Our ratios determine the useful productivity just as capitalism has ratios such as Earning per Share, ROI, Return on Assets, etc."
+description: "Our ratios determine the useful productivity just as capitalism has ratios such as Earning per Share, ROI, etc."
 contributors: ['Juan']
 icon: "/icons/pantry.png"
 ---

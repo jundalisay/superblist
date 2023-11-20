@@ -2,7 +2,6 @@
 title: "Hardness and Liquidity"
 heading: "Chapter 3"
 weight: 8
-contributors: ['Descartes']
 image: "/covers/world.jpg"
 description: "There is an infinity of diverse motions that endure perpetually in the world"
 contributors: ['Rene Descartes']

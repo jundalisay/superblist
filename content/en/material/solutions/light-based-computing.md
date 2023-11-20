@@ -2,7 +2,7 @@
 heading: "Using the advantages of light for computing"
 title: "Light-based Computing"
 image: /photos/physics/light.jpg
-description: "Sequential Light based Computing is one of the technologies that can be developed from Material Superphysics. It aims to complement non-linear quantum computing"
+description: "Sequential Light based Computing is one of the technologies that can be developed from Material Superphysics"
 date: "2020-01-01"
 contributors: ['Juan']
 linkTitle: "Light Based Computing"
@@ -19,7 +19,7 @@ This principle was recently proven to be realizable [in Germany](http://www.fv-b
 This tapping onto the dynamic wave-nature of light is a marked advancement over the use of lasers which are of a fixed or single wavelength. Examples of the latter technologies are:
 
 - [the space laser satellites planned by Facebook](https://spectrum.ieee.org/tech-talk/aerospace/satellites/facebooks-secret-space-lasers). 
-- [using lasers in silicon chips](https://www.networkworld.com/article/3047099/hardware/want-faster-systems-grow-a-laser-on-the-chip.html)
+- [using lasers in silicon chips](https://spectrum.ieee.org/lasers-on-silicon)
 
 Examples or precusors of dynamic wavelength technologies are: 
 

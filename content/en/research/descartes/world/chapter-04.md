@@ -2,7 +2,6 @@
 title: "The Void--Why are we not Aware of Certain Bodies?"
 heading: "Chapter 4"
 weight: 10
-contributors: ['Descartes']
 image: "/covers/world.jpg"
 description: "All bodies, both hard and liquid, are made from the same matter"
 contributors: ['Rene Descartes']

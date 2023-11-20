@@ -4,8 +4,9 @@ title: "Economic Science"
 date: 2015-09-09
 contributors: ['Piketty']
 image: "/covers/cap21.jpg"
-description: "Piketty says that his conclusions are by nature tenuous and deserve to be questioned and debated. Social science does not produce mathematical certainties that substitute open debate"
+description: "The expression 'economic science' is terribly arrogant because it suggests that economics has attained a higher scientific status than the other social sciences"
 ---
+
 
 
 Economics is a subdiscipline of the social sciences. It is alongside:

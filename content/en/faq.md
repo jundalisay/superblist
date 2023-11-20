@@ -47,7 +47,7 @@ Superstitious narrations of sorceries, witchcrafts, dreams, divinations, and the
 {{< /q >}}
 
 {{< l a="Superphysics" >}}
-**Socratic Dialectics** makes up the core of this 'super' upgrade as part of the process of data gathering, probing, and experimenting that adds the 6th sense of intuition or higher mind which Socrates called the 'higher principle'.
+**Socratic Dialectics** makes up the core of this 'super' upgrade as part of the process of data gathering, probing, and experimenting that adds the 6th sense of intuition or higher mind which Socrates called the 'higher principle'. You could say that the 5 senses detect visible particles and objects, while the 6th sense detects invisible waves and patterns. Most people only use the 5 senses. A very few use all 6 senses. Of those very few, only a handful have the intellect to connect everything. 
 {{< /l >}}
 
 
@@ -64,12 +64,18 @@ How is Socratic Dialectics different from Dialectics?
 
 
 {{< l a="Superphysics" >}}
-Socratic Dialectics uses timeless metaphysical truths as the quality control for logic. Its rival is Aristotlean and Marxist dialectics which uses either the ego or materialism. These led to **Dialectical Materialism** which has caused a lot of problems in the world via Marxism and Communism. The goals of Marxism of freedom and justice are very good and noble, but its underlying metaphysics is totally junk. This leads to suffering instead of goodness.
+Socratic Dialectics uses timeless metaphysical truths as the quality control for logic. Its rival is Aristotlean and Marxist dialectics which uses either the ego or matter (materialism). These led have to Economic Materialism, Dialectical Materialism, Scientism, etc. 
+- Economic Materialism has led to financial crises and poverty.
+- Dialectical Materialism has led to Marxism and Communism. 
+- Scientism has limited Physics to the 3 Elements (Strong Force, Weak Force, Electromagnetism) and has kept the 2 higner Elements (Spacetime, and Aether) out of reach, undiscovered.  As a result, humans are unable to spread themselves to Mars or even to the Moon.
 
-Its rival Capitalism also embraces Aristotle, as proven by Ayn Rand and the subsequent 2008 Financial Crisis which also caused suffering.
-
-The enlightened philosophers like Bacon, Hume, and Ibn-Khaldun denounced Aristotle. So you can say we are fully in the Plato-Pythagoras-Hinduism-Buddhism-Taoism camp.  
+The enlightened philosophers like Bacon, Hume, and Ibn-Khaldun denounced Aristotle. So you can say we are fully in the Plato-Pythagoras-Hinduism-Buddhism-Taoism camp.
 {{< /l >}}
+
+<!--  which has caused a lot of problems in the world via Marxism and Communism. The goals of Marxism of freedom and justice are very good and noble, but its underlying metaphysics is totally junk. This leads to suffering instead of goodness.
+
+Its rival Capitalism also embraces Aristotle, as proven by Ayn Rand and the subsequent  which also caused suffering.
+ -->
 
 {{< r a="Asker" >}}
 How sure are you that Superphysics can solve what Science cannot?
@@ -88,25 +94,43 @@ How do you weed out junk ideas like faeries and pixie dust?
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-By finding consistent patterns. If all five continents have oral tradition of faeries and pixie dust that survive up to modern times as to be testable, then there's some reality to it. But we find that there are none, so we cross it out as untrue.
-
-Truth is the equality of perceptions. We're after true patterns that lead to the single truth, as the cause behind an issue or problem. This single truth represents the totality of perception. 
-
-The most common pattern in all human societies is the belief in an afterlife or another type of reality, and so we drill down on that.  
+By finding consistent patterns from data. The patterns are then extrapolated and interpolated to lead to predictions that can be tested in the real world. Do you have data on faeries and pixie dust?
 {{< /l >}}
+
+{{< r a="Asker" >}}
+I don't have any. 
+{{< /r >}}
+
+{{< l a="Superphysics" >}}
+So there's nothing to test. We reject its reality until we can test it. But unlike close-minded science that automatically rejects its possible existence, we do not deny its possibility. Perhaps they are real in another universe which has different Physics from ours, but only their aether-components cross over into the aethereal (abstract) minds of some people as aethereal ideas.
+{{< /l >}}
+
+<!--  If all five continents have oral tradition of faeries and pixie dust that survive up to modern times as to be testable, then there's some reality to it. But we find that there are none, so we cross it out as untrue.
+
+Truth is the equality of perceptions. We're after true patterns that lead to the single truth, as the cause behind an issue or problem. This single truth represents the totality of perception.  -->
+
+{{< r a="Asker" >}}
+So the consistency of people around the world (who don't talk to each other) having common, innate, abstract, aethereal, or spiritual ideas is proof of a different reality or universe or dimension above ours?
+{{< /r >}}
+
+
+{{< l a="Superphysics" >}}
+Yes. All cultures have similar a belief in an afterlife or another type of reality, and of a Supreme Being that administers that reality, as well as ours. We use their data to test that reality and that Being.  
+{{< /l >}}
+
 
 {{< r a="Asker" >}}
 So what have you found?
 {{< /r >}}
 
-{{< l a="Superphysics" >}}
-That there is a Supreme Entity, called as God, Allah, Jehovah, Yahweh, Brahma, Amaterasu, etc. and that we are inside It. Parmenides calls It The One, and the Chinese call It The Tao.
+ <!-- etc. and that  It. Parmenides calls It The One, and the Chinese call It The Tao. This is similar to the idea that Descartes and Hegel had, despite them using non-Asian techniques. -->
 
-This is similar to the idea that Descartes and Hegel had, despite them using non-Asian techniques. This One then generates everything **in real-time**. Again this is very different from the Roman or Jewish belief that the universe was pre-created, usually in 7 days.
+{{< l a="Superphysics" >}}
+We found that we are actually **inside** the Supreme Being that they call God, Allah, Jehovah, Yahweh, Brahma, or whatever, and that everything inside it is generated **in real-time**. This is similar to how a computer can generate anything that it wants in its virtual reality. Again this is very different from the Roman or Jewish belief that the universe was pre-created, usually in 7 days.
 {{< /l >}}
 
 {{< r a="Asker" >}}
-The real-time creation is like the movie "The Matrix", huh?
+Ah, the real-time creation is the same idea in the movie "The Matrix".
 {{< /r >}}
 
 {{< youtube OKpHHMi3yZU >}}
@@ -114,7 +138,9 @@ The real-time creation is like the movie "The Matrix", huh?
 {{< l a="Superphysics" >}}
 Yes. It's more commonly known as theories that say that we exist in a simulation. Knowing how this simulation is sustained allows the possibility to tap into that inexhaustible creative or sustaining mechanism. 
 
-We use it to solve all problems. 
+It means existence was not meant to be suffered. In our case, we use this knowledge to solve all problems.
+
+In the beginning, we used it to solve personal problems of others. In time, we saw everyone having the same pattern of problems. So we organized everything into Superphysics principles to make problem-solving more efficient. We saw that David Hume, in his Treatise of Human Nature, was already ahead in this regard. So we organized our principles into three (Material, Bio, and Social) to match his three books.  
 {{< /l >}}
 
 {{< r a="Asker" >}}
@@ -167,20 +193,39 @@ Yoga is great at the mental layer, but terrible at the material layer. This is w
 {{< /l >}}
 
 
+## Social Superphysics
+
+{{< r a="Muslim" >}}
+How would Superphysics solve the Israel-Hamas conflict?
+{{< /r >}}
+
+{{< l a="Social-Superphysics" >}}
+By writing a new law-book that unifies the Torah and the Quran. The root cause of the conflict is that:
+- The Jews program their minds according to the Torah.
+- The Muslims program their minds according to the Quran, which denounces the Torah.   
+
+The difference in programming creates a perpetual conflict which eats us the attention and resources of the rest of the world. This is similar to how the fight between malware and anti-virus on your computer eats up resources that makes other programs slower. The world has to push for such a new law-book, as the core of a one-state solution, for its own sake. 
+
+{{< /l >}}
+
+
+
 ## Bigots
 
 {{< r a="Boomer" >}}
-But I'm a racist, materialist boomer. I don't like anything Asian and abstract like Brahma, Yin-Yang, human unity, circular economy and all that mumbo-jumbo. :shit:
+But I'm a racist, materialist boomer. I don't like anything Asian and abstract like Brahma, Yin-Yang, human unity, circular economy and all that mumbo-jumbo. :shit: 
 
-I want profits and wealth for myself. I drink my expensive coffee with plastic straws. I don't care about the sea animals that will die from ingesting them. Sucks to be them.  
+I want profits and wealth for myself. I drink my expensive coffee with plastic straws. I don't care about the sea animals that will die from ingesting them. Sucks to be them.
 
-The universe was created for us humans, and not us humans created to serve the universe.  After death, there is nothing. There is no evidence of God, the afterlife, reincarnation, or karma. So I say maximize pleasure while alive and don't care about the consequences, even on others!
+You are nuts to propose a one-state solution that unites Jews and Palestinians -- Muslims are terrorists! 
+
+The universe was created for us humans. After death, there is nothing. There is no evidence of God, the afterlife, reincarnation, or karma. So I say maximize pleasure while alive!
 
 So what if there's global warming? In the long-run, we're all dead! At least I've experienced a 5-star lifestyle. Heaven can be on earth, bought by :musical_notes: money money money in a rich man's world :musical_notes:. 
 {{< /r >}}
 
 
-<!-- Go ahead and exhaust your brain theorizing wormholes and dark matter that will never exist, or quantitative easing that either bloats the debt and shuts down governments or causes stagflation. -->
+<!--  and don't care about the consequences, even on others! Go ahead and exhaust your brain theorizing wormholes and dark matter that will never exist, or quantitative easing that either bloats the debt and shuts down governments or causes stagflation. -->
 
 
 {{< l a="Superphysics" >}}

@@ -2,7 +2,8 @@
 title: The Cause Of A Phenomenon
 heading: Part 11
 weight: 11
-description: If all the parts of the universe are interchained in a certain measure, any one phenomenon will not be the effect of a single cause, but the resultant of causes infinitely numerous
+description: If all the parts of the universe are interchained in a certain measure, any one phenomenon will not be the effect of a single cause
+# but the resultant of causes infinitely numerous
 image: "/covers/time.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png

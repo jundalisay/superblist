@@ -3,7 +3,7 @@ heading: "Chapter 10b"
 title: "How are the Orbits of the Moons Formed?"
 weight: 23
 image: "/covers/world.jpg"
-description: "If two planets are at the same orbit, with one much larger and more massive than the other, then the smaller will be faster than the larger"
+description: "If two planets are at the same orbit, the smaller will be faster than the larger"
 contributors: ['Rene Descartes']
 icon: "/icons/descartes.png"
 ---

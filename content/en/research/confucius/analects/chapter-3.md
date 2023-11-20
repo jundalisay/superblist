@@ -1,10 +1,11 @@
 ---
 heading: "Chapter 3"
 title: "Abuse of Proprieties in Ceremonies and Music"
-description: "Abuse of Proprieties in Ceremonies and Music"
+description: "Confucius describes the ceremonial adopted and enforced by the Hi dynasty"
 weight: 6
 image: "/covers/analects.png"
 ---
+
 
 
 Confucius alluded to the head of the Ki family, and the eight lines of posturers before their ancestral hall. The Chief of the Ki clan was virtually the Duke of Lu, under whom Confucius for a time held office.
@@ -147,8 +148,6 @@ The Chow Dynasty looks back on 2 other dynasties. What a rich possession it has 
 {{< /l >}}
 
 
-# 
-
 On his first entry into the grand temple, he asked about every matter connected with its usages. Someone thereupon remarked:
 
 {{< r a="Someone" >}}
@@ -247,7 +246,6 @@ The warden of the border-town of I requested an interview with Confucius.
 When great men have come here, I have never yet failed to obtain a sight of them." The followers introduced him; and, on leaving, he said to them, "Sirs, why grieve at his loss of office? The empire has for long been without good government; and Heaven is about to use your master as its edict-announcer.
 {{< /l >}}
 
-#
 
 Confucius compared the music of the emperor Shun with the music of King Wu: 
 

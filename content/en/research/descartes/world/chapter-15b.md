@@ -4,7 +4,7 @@ title: "Comets"
 weight: 36
 contributors: ['Descartes']
 image: "/covers/world.jpg"
-description: "The comets that are not in the same heaven as the sun are unable to send out as many rays toward the earth as the comets in the heaven of the sun"
+description: "The comets that are not in the same heaven as the sun are unable to send out as many rays toward the earth"
 contributors: ['Rene Descartes']
 icon: "/icons/descartes.png"
 ---

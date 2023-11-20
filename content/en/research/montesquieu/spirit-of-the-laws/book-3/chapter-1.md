@@ -2,7 +2,7 @@
 heading: "Chapters 1-4"
 title: "The Laws from the Nature of Government"
 weight: 4
-description: "Commerce was transferred to Jews who were covered with infamy. It soon ranked with the most shameful usury with monopolies, the levying of subsidies, and all the dishonest means of acquiring wealth"
+description: "Commerce was transferred to Jews who were covered with infamy."
 image: "/covers/spirit.jpg"
 contributors: ['Montesquieu']
 icon: /icons/mont.png

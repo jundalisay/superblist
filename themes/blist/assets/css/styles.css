@@ -66,6 +66,8 @@
 
 .Arjuna {background-image: url(/icons/arjuna.png);}
 
+.asker, .Asker {background-image: url(/icons/teacher.png);}
+
 .Bacon, .Francis-Bacon {background-image: url(/icons/bacon.png) !important;}
 
 .boni, .Bonifacio {background-image: url(/avatars/boni.png) !important;}
@@ -117,6 +119,8 @@
 .marx, .Marx {background-image: url(/icons/marx.png);}
 
 .mill, .Mill, .John-Stuart-Mill {background-image: url(/icons/mill.png);}
+
+.Muslim {background-image: url(/icons/arab4.png) !important;}
 
 .Pythagoras {background-image: url(/icons/py.png);}
 
@@ -188,7 +192,7 @@
   background-image: url(/icons/g08.png);  
 }
 
-.asker, .Asker, .Thomas, .cle, .Cleitophon, .Simmias, .Yuen-Sz, .Chung-Kung {
+.Thomas, .cle, .Cleitophon, .Simmias, .Yuen-Sz, .Chung-Kung {
   background-image: url(/icons/g09.png) !important;
 }
 

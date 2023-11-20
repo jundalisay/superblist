@@ -4,7 +4,6 @@ heading: "A Brave New Year"
 date: 2021-12-06
 image: "/graphics/greet/bravenewyear.jpg"
 description: "As we go through the first parts of the crisis years, we wish everyone a strong Christmas and a Brave New Year ahead!"
-youtube: "J6F2_PF2wbo"
 contributors: ['Juan']
 icon: /icons/xmastree.png
 ---
@@ -34,12 +33,13 @@ The original prediction in 2015 (from the model made in 2012) was that a crisis 
 > *The 'tiny-ness' of the spark for the crisis is [explained by Adam Smith](/social/economics/fallacies/profit-maximization-is-absurd). The concept is known as 'the straw that breaks the camel's back' and is similar to the 'butterfly effect'. However, the butterfly effect is not so accurate because it is not based on patterns and is just based on chance.   
 
 
-The spark turned out to be tiny Covid-19 which sparked in Q4 2019, 7 quarters away from our original prediction. This led to our [Health app prototype](https://pantrypoints.com/health) in Q2 2020. 
+The spark turned out to be tiny Covid-19 which sparked in Q4 2019, 7 quarters away from our original prediction. This led to our [Health app prototype](https://pantrypoints.com/trisactions/health) in Q2 2020. 
+
 
 <!-- > *Our failure criteria would be 8 quarters. This means if the crisis did not spark by Q1 2020, then the whole prediction would be random chance. -->
 
 
-According to the model, that spark would cause a long, drawn out global stagflation, climaxing in some kind of conflict, similar to how the Crash of 1929 led to a Great Depression which ended up as World War II. The first years would seem dire, but are actually better than the years to follow. 
+According to the model, that spark would cause a long, drawn out global stagflation, climaxing in some kind of conflict, similar to how the Crash of 1929 led to a Great Depression which ended up as World War II. The first years would seem dire, but are actually better than the years to follow.
 
 After the crisis years are over, then things become happier than before the crisis years, since the job of the crisis years was to remove the prevailing human dogmas that caused so much suffering not only for humans but also for plants and animals. This is similar to how the European Union came about from the horrors of World War II. 
 

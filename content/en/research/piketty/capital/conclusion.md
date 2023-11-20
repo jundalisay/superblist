@@ -4,7 +4,7 @@ title: "Conclusion of Piketty's Capital in the 21st Century"
 date: 2015-09-09
 contributors: ['Piketty']
 image: "/covers/cap21.jpg"
-description: "Piketty says that his conclusions are by nature tenuous and deserve to be questioned and debated. Social science does not produce mathematical certainties that substitute open debate"
+description: "Piketty says that his conclusions are by nature tenuous and deserve to be questioned and debated."
 ---
 
 <!-- I have presented the current state of our historical knowledge concerning the dynamics of the distribution of wealth and income since the eighteenth century, and I have attempted to draw from this knowledge whatever lessons can be drawn for the century ahead.

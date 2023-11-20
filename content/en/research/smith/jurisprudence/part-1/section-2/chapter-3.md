@@ -6,7 +6,7 @@ weight: 14
 contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
-description: "The power over the servants was arbitrary. A slave could have no property because the master had the disposal of his liberty"
+description: "The power over the servants was arbitrary. A slave could have no property"
 ---
 
 
@@ -36,6 +36,7 @@ A polytheist slave is not protected by religion. He has no God any more than lib
 The polytheistic religion has many local deities.
 Every place has its own divinity.
 The slaves do not belong to the country.
+
 Therefore, its gods are not concerned with them.
 Besides, a heathen can never approach a deity empty handed.
 The slaves had nothing to offer.

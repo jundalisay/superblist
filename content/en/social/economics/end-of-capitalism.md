@@ -56,7 +56,7 @@ The current economic system only uses money, and commercial morals, and fails wi
 
 ## Points Quantify Effort
 
-Unlike money which quantifies **utility**, our points system quantifies [**the effort**](/social/economics/principles/effort-theory-of-value) put by the producer, according to the viewpoint of both the producer and the buyer. 
+Unlike money which quantifies **utility**, our points system quantifies [**the effort**](/social/economics/principles/part-2/chapter-01b/) put by the producer, according to the viewpoint of both the producer and the buyer. 
 - Utility is the effect
 - Effort is the cause
 
@@ -138,11 +138,10 @@ The borrowed money, which would not be repaid for several years, should not be b
 {{< /q >}}
 
 
-{{< q a="Socrates" >}}
+{{< q a="Socrates" c="Phaedo by Plato Simplified, Chapter 10" >}}
 [The man who gave him the poison looked at his feet and legs now and then. After a while, he pressed Socrates' foot hard, and asked him if he could feel. Socrates said, No. He repeated this with his leg, and so upwards and upwards. Socrates showed us that he was cold and stiff. He felt them himself, and said:]
 
-<p>When the poison reaches the heart, that will be the end. Crito, I owe a cock to Asclepius. Will you remember to pay the debt?</p>
-<cite>Phaedo Simplified, Chapter 10</cite>
+When the poison reaches the heart, that will be the end. Crito, I owe a cock to Asclepius. Will you remember to pay the debt?
 {{< /q >}}
 
 
@@ -176,7 +175,7 @@ How can such a trade gap be solved?
 
 ## Pool Clearing to the Rescue
 
-The economist EF Schumacher thought about this in the 1940's and proposed a [Pool Clearing system](https://centerforneweconomics.org/publications/multilateral-clearing/) as a solution. 
+The economist EF Schumacher thought about this in the 1940's and proposed a [Pool Clearing system](https://centerforneweconomics.org/publications/multilateral-clearing/) as a solution.
 
 Instead of world trade being done in an unregulated way all in US dollars, each country joins the global pool which mandates them to set up a **National Clearing Fund**. 
 

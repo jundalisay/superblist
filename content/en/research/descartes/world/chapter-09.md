@@ -3,7 +3,7 @@ heading: "Chapter 9"
 title: "The Origin of Matter and the Stars"
 weight: 20
 image: "/covers/world.jpg"
-description: "In Cartesian Physics, matter begins when the churning of spacetime particles caused some to acquire a low frequency as to become large and perceptible"
+description: "In Cartesian Physics, matter begins when the churning of spacetime particles caused some to acquire a low frequency"
 contributors: ['Rene Descartes']
 icon: "/icons/descartes.png"
 ---

@@ -5,4 +5,5 @@ title: "Jose Silva"
 image: /covers/silva.jpg
 # date: 2022-04-25
 weight: 94
+draft: true
 ---

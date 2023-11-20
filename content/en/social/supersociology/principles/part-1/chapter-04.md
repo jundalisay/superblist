@@ -1,7 +1,7 @@
 ---
 title: "What is Morality?"
 heading: Chapter 4
-# heading: "Doing what is correct and avoiding the wrong"
+# heading: "Doing what is dharmic and avoiding the adharmic"
 date: 2019-12-17
 weight: 16
 image: "/photos/phone.jpg"

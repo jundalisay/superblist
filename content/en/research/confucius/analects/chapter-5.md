@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 5"
 title: "The Disciples of Confucius"
-description: "Confucius pronounced Kung-ye Ch'ang, a disciple, to be a marriageable person; for although lying bound in criminal fetters he had committed no crime"
+description: "Confucius pronounced Kung-ye Ch'ang, a disciple, to be a marriageable person"
 weight: 10
 contributors: ['Confucius']
 image: "/covers/analects.png"
@@ -86,7 +86,6 @@ How shall I dare even to look at Hwi? Only let him hear one particular, and from
 Yes, you are not a match for him.
 {{< /l >}}
 
-# 
 
 Tsai-Yu, a disciple, used to sleep in the daytime. 
 
@@ -128,7 +127,7 @@ Tsz-Lu, after once hearing him upon some subject, and feeling himself as yet inc
 Because, though a man of an active nature, he was yet fond of study, and he was not ashamed to stoop to put questions to his inferiors." 
 {{< /l >}}
 
-# 
+
 
 Tsz-Chan was a great statesman of Confucius's time.
 
@@ -167,7 +166,9 @@ I am not sure. How would I know that?
 {{< /l >}}
 
 {{< r a="Tsz-Chang" >}}
-After the assassination of the prince of Ts'i by the officer Ts'ui, the latter's fellow-official Ch'in Wan, who had half a score teams of horses, gave up all, and turned his back upon him. On coming to another State, he observed, 'There are here characters somewhat like that of our minister Ts'ui,' and he turned his back upon them. Proceeding to a certain other State, he had occasion to make the same remark, and left. What say you of him?
+After the assassination of the prince of Ts'i by the officer Ts'ui, the latter's fellow-official Ch'in Wan, who had half a score teams of horses, gave up all, and turned his back upon him. 
+
+On coming to another State, he observed, 'There are here characters somewhat like that of our minister Ts'ui,' and he turned his back upon them. Proceeding to a certain other State, he had occasion to make the same remark, and left. What say you of him?
 {{< /r >}}
 
 {{< l a="Confucius" >}}

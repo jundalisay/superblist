@@ -3,7 +3,7 @@ heading: "Chapter 16-18"
 title: "The Muslim Conquest and Tax Exemption"
 linkTitle: "Chapter 16-18"
 weight: 12
-description: "The Muslim conquest induced our princes to keep up an exorbitant number of troops. As soon as one prince augments his forces, the others do the same"
+description: "The Muslim conquest induced our princes to keep up an exorbitant number of troops"
 image: "/covers/spirit.jpg"
 icon: "/icons/mont.png"
 ---

@@ -3,7 +3,7 @@ heading: "Chapter 11b"
 title: "The Balance Between the Aethers"
 weight: 25
 image: "/covers/world.jpg"
-description: "The whole mass of the Earth is caused by the presence of the moon, and also about some particular things that depend on that motion"
+description: "The whole mass of the Earth is caused by the presence of the moon, and also about some particular things"
 contributors: ['Rene Descartes']
 icon: "/icons/descartes.png"
 ---

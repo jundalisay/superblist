@@ -6,7 +6,6 @@ image: "/photos/buy.jpg"
 description : "Points Banking integrates Basic Universal Revenue and Resource Credits to create a new value circulation system"
 contributors: ['Juan']
 icon: /icons/pantry.png
-youtube: "OV1JHTiDdkQ"
 ---
 
 

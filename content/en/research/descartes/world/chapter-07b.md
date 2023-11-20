@@ -1,6 +1,7 @@
 ---
 heading: "Chapter 7b"
-title: "Rule 3: Angular Momentum -- Curved or Rotating Contraint, Straight Freedom"
+title: "Rule 3: Angular Momentum"
+# -- Curved or Rotating Contraint, Straight Freedom
 weight: 17
 image: "/covers/world.jpg"
 description: "How could Nature untangle the confusion of the chaos after creation? What are the laws of nature that God has imposed on her?"

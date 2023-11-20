@@ -27,8 +27,7 @@ Material Relativtiy | Classical mechanics | do   -->
 
 ## The Newtonian and Einsteinian movement
 
-<!-- In [another post](/solutions/material/how-to-fix-general-relativity), we explained the flaws in General Relativity:
-
+<!-- We explained the flaws in General Relativity:
 - it is limited to visible movement
 - it cannot extend to explain the cause of spacetime
 

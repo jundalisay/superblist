@@ -3,7 +3,7 @@ title: "Criminals Due to Poverty"
 heading: "Part 4"
 weight: 10
 image: "/covers/discourses.jpg"
-description: "Most crimes throughout the world are committed due to poverty, except in countries where the minimum necessities of life have been met"
+description: "Most crimes throughout the world are committed due to poverty"
 icon: "/icons/sarkar.png"
 contributors: ['PR Sarkar']
 keywords: [Criminals]

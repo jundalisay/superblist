@@ -1,8 +1,8 @@
 ---
-title: "The Difference Between Our Sensations and the Things That Produce Them"
+# title: "The Difference Between Our Sensations and the Things That Produce Them"
+title: "Our Sensations and the Things That Produce Them"
 heading: "Chapter 1"
 weight: 4
-contributors: ['Descartes']
 image: "/covers/world.jpg"
 description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"
 contributors: ['Rene Descartes']
