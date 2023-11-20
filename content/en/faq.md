@@ -102,7 +102,7 @@ I don't have any.
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-So there's nothing to test. We reject its reality until we can test it. But unlike close-minded science that automatically rejects its possible existence, we do not deny its possibility. Perhaps they are real in another universe which has different Physics from ours, but only their aether-components cross over into the aethereal (abstract) minds of some people as aethereal ideas.
+So there's nothing to test. We reject its reality until we can test it. But unlike close-minded science that automatically rejects its possible existence, we do not deny its possibility. Perhaps they are real in another universe which has different Physics from ours, but only their aether-components cross over into the aethereal (abstract) minds of some people as aethereal ideas. Their brains then interpret those ideas as faeries and pixie dust.
 {{< /l >}}
 
 <!--  If all five continents have oral tradition of faeries and pixie dust that survive up to modern times as to be testable, then there's some reality to it. But we find that there are none, so we cross it out as untrue.
@@ -115,7 +115,7 @@ So the consistency of people around the world (who don't talk to each other) hav
 
 
 {{< l a="Superphysics" >}}
-Yes. All cultures have similar a belief in an afterlife or another type of reality, and of a Supreme Being that administers that reality, as well as ours. We use their data to test that reality and that Being.  
+Yes. All cultures have similar a belief in an afterlife or another type of reality, and of a Supreme Being that administers that reality as well as ours. We use their data to test that reality and that Being.  
 {{< /l >}}
 
 
@@ -163,11 +163,11 @@ Can you give an example? How would Superphysics solve a headache?
 ## Bio Superphysics
 
 {{< l a="Bio-Superphysics" >}}
-By knowing the root cause of the headache. The cause could be diet, stress, congenital problem, bacteria, etc. The person might be doing something that is too stressful for his brain. 
+By knowing the root cause of the headache. It could be diet, stress, congenital problem, bacteria, etc. The person might be doing something that is too stressful for his brain. 
 
 Medical science deals with the headache by masking its pain (usually via Paracetamol) and not really dealing with what is causing the pain. This is to process patients faster since the body has its own natural healing mechanism. However, this also means that the headache can come back. Moreover, the doctor can only work with the data that the patient gives. 
 
-Bio Superphysics gets all the data about the patient to find the pattern on which *layer* the cause is in. It then routes that patient to the proper specialist whether it be from Western medicine, yoga, Chinese medicine, homeopathy, etc.  
+Bio Superphysics gets all the data about the patient to find the pattern on which *layer* the cause is in. It then routes that patient to the proper specialist whether it be from Western medicine, yoga, Chinese medicine, homeopathy, etc. For chronic headache, you could try accupuncture.
 {{< /l >}}
 
 <!-- 
@@ -189,7 +189,7 @@ But people often use alternative medicine for the wrong purpose and so it unfair
 
 Western medicine works best in the material layer but is awful at the mental layer. This is why the West has a lot of mental problems that lead to riots and mass shootings. 
 
-Yoga is great at the mental layer, but terrible at the material layer. This is why the West is usually so materially rich, while India is so materially poor.
+Yoga is great at the mental layer, but terrible at the material layer. This is why India is so materially poor.
 {{< /l >}}
 
 
@@ -201,10 +201,10 @@ How would Superphysics solve the Israel-Hamas conflict?
 
 {{< l a="Social-Superphysics" >}}
 By writing a new law-book that unifies the Torah and the Quran. The root cause of the conflict is that:
-- The Jews program their minds according to the Torah.
-- The Muslims program their minds according to the Quran, which denounces the Torah.   
+- The Jews program their minds according to the Torah
+- The Muslims program their minds according to the Quran, which denounces the Torah 
 
-The difference in programming creates a perpetual conflict which eats us the attention and resources of the rest of the world. This is similar to how the fight between malware and anti-virus on your computer eats up resources that makes other programs slower. The world has to push for such a new law-book, as the core of a one-state solution, for its own sake. 
+The difference in programming creates a perpetual conflict which eats up the attention and resources of the world. This is similar to how the fight between malware and anti-virus on your computer eats up resources that slows down other programs. The world has to push for such a new law-book, as the core of a one-state solution, for its own sake. 
 
 {{< /l >}}
 
@@ -213,9 +213,9 @@ The difference in programming creates a perpetual conflict which eats us the att
 ## Bigots
 
 {{< r a="Boomer" >}}
-But I'm a racist, materialist boomer. I don't like anything Asian and abstract like Brahma, Yin-Yang, human unity, circular economy and all that mumbo-jumbo. :shit: 
+But I'm a racist, materialist boomer. I don't like anything Asian and abstract like Brahma, Yin-Yang, human unity, circular economy blah blah blah. :shit: 
 
-I want profits and wealth for myself. I drink my expensive coffee with plastic straws. I don't care about the sea animals that will die from ingesting them. Sucks to be them.
+I want profits and wealth for myself. I drink my expensive coffee with plastic straws. I don't care about the turtles that will die from ingesting them. Sucks to be them. It's just survival of the fittest.
 
 You are nuts to propose a one-state solution that unites Jews and Palestinians -- Muslims are terrorists! 
 
@@ -262,7 +262,7 @@ That's like when Neo in *The Matrix* movie realizing that he was in a giant comp
 Instead of revealing the code, we try to reveal the aether in each phenomenon. 
 {{< /l >}} -->
 
-{{< r a="Asker" >}}
+{{< r a="Muslim" >}}
 What does the Superphysics symbol mean?
 {{< /r >}}
 
