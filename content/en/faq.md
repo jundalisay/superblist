@@ -126,7 +126,7 @@ So what have you found?
  <!-- etc. and that  It. Parmenides calls It The One, and the Chinese call It The Tao. This is similar to the idea that Descartes and Hegel had, despite them using non-Asian techniques. -->
 
 {{< l a="Superphysics" >}}
-We found that we are actually **inside** the Supreme Being that they call God, Allah, Jehovah, Yahweh, Brahma, or whatever, and that everything inside it is generated **in real-time**. This is similar to how a computer can generate anything that it wants in its virtual reality. Again this is very different from the Roman or Jewish belief that the universe was pre-created, usually in 7 days.
+We found that we are actually **inside** the Supreme Being that they call God, Allah, Jehovah, Yahweh, Brahma, or whatever, and that everything inside it is generated **in real-time** through the wave function collapse in Quantum Mechanics. This is similar to how a computer can generate anything that it wants in its virtual reality. Again this is very different from the Roman or Jewish belief that the universe was pre-created, usually in 7 days.
 {{< /l >}}
 
 {{< r a="Asker" >}}
