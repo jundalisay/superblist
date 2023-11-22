@@ -237,7 +237,7 @@ We are targetting young people because they are the ones stuck with warmed-world
 {{< /l >}}
 
 {{< r a="Boomer" >}}
-What makes you so absolutely sure that you know the nature of the universe? What is your qualification? I have a PhD from a top Western university.
+What makes you so absolutely sure that you know the nature of the universe? What is your qualification? I have a PhD from a top Western university with dozens of peer-reviewed papers published.
 {{< /r >}}
 
 {{< l a="Superphysics" >}}

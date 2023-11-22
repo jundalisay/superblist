@@ -19,86 +19,101 @@ By looking at his work, we can see that he never understood the metaphysics behi
 Adam Smith said that the value of all things was relative to the amount of labour bestowed on their production. He sometimes used wheat, sometimes labour, as a standard measure.
 {{< /q >}}
 
-{{< box >}}
-Our Comment: Smith uses wheat and labour for real value, and precious metals for nominal value.
-{{< /box >}}
+
+**Our Comment**
+
+Smith uses wheat and labour for real value, and precious metals for nominal value.
 
 
 {{< q a="Ricardo" >}}
 If it were true that worker's reward was always proportional to what he produced, then he could buy other things of equal value. But they are not equal. The measure of value is an invariable standard, whereas the price of commodities varies. Adam Smith, said that the value of gold and silver varies, so he chose wheat or labour as an invariable medium.
 {{< /q >}}
 
-{{< box >}}
-Our Comment: Here it is so obvious that Ricardo misunderstands Smith. Although he correctly mentions Smith having precious metals as a variable measure (nominal value) and wheat as an invariable measure (real value), he does not understand that both are **not to be used together**, just as you do not compare apples to oranges if you want to get the relative value of an apple. Instead, you compare it with other apples.
-{{< /box >}}
+**Our Comment**
+
+Here it is so obvious that Ricardo misunderstands Smith. Although he correctly mentions Smith having precious metals as a variable measure (nominal value) and wheat as an invariable measure (real value), he does not understand that both are **not to be used together**, just as you do not compare apples to oranges if you want to get the relative value of an apple. Instead, you compare it with other apples.
 
 {{< q a="Ricardo" >}}
 Gold and silver are subject to fluctuations, but why is wheat exempted?
 {{< /q >}}
 
-{{< box >}}
-Our Comment: Because of that very basic misunderstanding, Ricardo asks many silly questions. Wheat is exempted because it is a type of food which leads to *life* which cannot be quantified. This absurd question can be thrown back by asking: 'What is the price of your existence and how does it fluctuate?' The existential price of wheat or rice is a ratio of the wheat or rice needed for a human to grow wheat or rice in general. If a human needs a minimum of 300 grams rice per day to live and it takes 120 days to grow and harvest rice, then the price of whatever was harvested is 36 kilograms of rice. Human wealth and population therefore is ultimately determined by the productivity of food as the requirement for life. As proof, there is no food production in Mars, the Sahara, or Antartica and so those places have no population, wealth, nor GDP.
-{{< /box >}}
+**Our Comment**
+
+Because of that very basic misunderstanding, Ricardo asks many silly questions. Wheat is exempted because it is a type of food which leads to *life* which cannot be quantified. This absurd question can be thrown back by asking: 'What is the price of your existence and how does it fluctuate?' The existential price of wheat or rice is a ratio of the wheat or rice needed for a human to grow wheat or rice in general. If a human needs a minimum of 300 grams rice per day to live and it takes 120 days to grow and harvest rice, then the price of whatever was harvested is 36 kilograms of rice. Human wealth and population therefore is ultimately determined by the productivity of food as the requirement for life. As proof, there is no food production in Mars, the Sahara, or Antartica and so those places have no population, wealth, nor GDP.
 
 {{< q a="Ricardo" >}}
 Double the work may be required to produce food and necessaries at one time, than another time, but the worker's reward could be reduced. If the worker's prior wages were in food and necessaries, he probably could not have subsisted if that amount was reduced. Food and necessaries would have risen 100% or to 2n if it were estimated by the amount of labour needed to produce them. They would not have increased in value, if measured by the amount of labour for which they will exchange.
 {{< /q >}}
 
-{{< box >}}
-Our Comment: This actually happens during hyperinflation wherein nominal prices even of wages can increase 100%, but the real value is halved.
-{{< /box >}}
+**Our Comment**
+
+This actually happens during hyperinflation wherein nominal prices even of wages can increase 100%, but the real value is halved.
 
 
 {{< q a="Ricardo" >}}
 The same is true between countries. In America and Poland, a year's labour will produce much more wheat than in England. But the amount of wheat awarded to the worker is not proportional to the produce in each country.
 {{< /q >}}
 
-{{< box >}}
-Our Comment: Both the real and nominal reward for Polish wheat is less than England because the English economy has more manufactures to give for its wheat. The last sentence of Ricardo can be overturned by a global free trade on wheat which will lower wheat prices globally
-{{< /box >}}
+**Our Comment**
+
+Both the real and nominal reward for Polish wheat is less than England because the English economy has more manufactures to give for its wheat. The last sentence of Ricardo can be overturned by a global free trade on wheat which will lower wheat prices globally
 
 
 {{< q a="Ricardo" >}}
-If the worker's shoes and clothing could be produced at 25% of the cost in labour, they would probably fall 75%. But it is not true that:<ul><li>the worker would be able to permanently consume four coats, or four shoes instead of one</li><li>his wages would not change because of competition</li></ul><br><br>If such cost reductions extended to all the worker's consumed goods, we would find him only having a few additional enjoyments, even if cost of those commodities were reduced significantly and the work needed to produce them were also reduced.
+If the worker's shoes and clothing could be produced at 25% of the cost in labour, they would probably fall 75%. But it is not true that:
+- the worker would be able to permanently consume four coats, or four shoes instead of one
+- his wages would not change because of competition
+
+If such cost reductions extended to all the worker's consumed goods, we would find him only having a few additional enjoyments, even if cost of those commodities were reduced significantly and the work needed to produce them were also reduced.
 {{< /q >}}
 
-{{< box >}}
-Our Comment: If web development were outsourced to India from the US at 25% cost, then the cost of website-making as a whole can be reduced significantly. The Indian programmer will certainly enjoy more, but the American programmer might not. This is because their wages are nominal and not measured in rice or wheat or wheat or Big Macs (the Big Mac index is similar in essence to Smith's wheat valuation).]*
-{{< /box >}}
+**Our Comment**
+
+If web development were outsourced to India from the US at 25% cost, then the cost of website-making as a whole can be reduced significantly. The Indian programmer will certainly enjoy more, but the American programmer might not. This is because their wages are nominal and not measured in rice or wheat or wheat or Big Macs (the Big Mac index is similar in essence to Smith's wheat valuation).]*
 
 
 {{< q a="Ricardo" >}}
 Adam Smith is therefore wrong  in saying, "that as labour may sometimes buy a varying amount of goods, it is their value which varies, not the value of the labour which buys them;" and therefore, "that labour alone never varying in its own value, is alone the ultimate and real standard by which the value of all commodities can at all times and places be estimated and compared"
 {{< /q >}}
 
-{{< box >}}
-Our Comment: No, Smith is not wrong, it is Ricardo's understanding that is wrong. This quote is about real value or the store of value which is based on food which represents one's life having a potential to create utility
-{{< /box >}}
+**Our Comment**
+
+No, Smith is not wrong, it is Ricardo's understanding that is wrong. This quote is about real value or the store of value which is based on food which represents one's life having a potential to create utility
 
 {{< q a="Ricardo" >}}
 But he is correct in saying "that the proportion between the amounts of labour needed to acquire objects provides the rules for exchange;" In other words, it is the comparative amount of commodities produced by labour which that determines their relative value, and not the comparative amounts of commodities given to the labourer in exchange for his labour.
 {{< /q >}}
 
-{{< box >}}
-Our Comment: This quote is about nominal value or the tool of trade (money). Yes, Smith is correct about nominal value. Unfortunately, businessmen, merchants, and capitalists, only agree with nominal value because to them money = wealth, which is the most basic fallacy that the whole Wealth of Nations was attacking, which Ricardo exposes himself as having in the very first chapter of his book.
-{{< /box >}}
 
-{{< q a="Ricardo" >}}
-Thing A's value is different from that of Thing B now, but was the same in the past. Thing A has the same value as Thing X + Thing Y + Thing Z, then and now. Thing B had the same value from the combined values of Thing X + Thing y + Thing Z in the past, but has a different value now. We can infer that the variation is in Thing B. If the cost of producing Thing X, Y, and Z has not changed, then it means that the change happened in the production cost of Thing B.
-{{< /q >}}
+**Our Comment**
 
-{{< box >}}
-Our Comment: Here, Ricardo is talking about nominal value in production.
-{{< /box >}}
+This quote is about nominal value or the tool of trade (money). Yes, Smith is correct about nominal value. Unfortunately, businessmen, merchants, and capitalists, only agree with nominal value because to them money = wealth, which is the most basic fallacy that the whole Wealth of Nations was attacking, which Ricardo exposes himself as having in the very first chapter of his book.
 
 
 {{< q a="Ricardo" >}}
-If an ounce of gold exchange for fewer commodities, the cause of the change in the value of gold relative to other commodities, was its abundant production, or the fewer labour needed to obtain it.
+The value of `Thing A` and `Thing B` was the same in the past [100], but is different now. 
+
+`Thing A` has the same value as `Thing X + Thing Y + Thing Z` [50 + 30 + 20], then and now. 
+
+`Thing B` had the same value from the combined values of `Thing X + Thing Y + Thing Z` in the past, but has a different value now [110].
+
+We can infer that the variation is in `Thing B`. If the cost of producing `Thing X, Y, and Z` has not changed, then it means that the change happened in the production cost of `Thing B`.
 {{< /q >}}
 
-{{< box >}}
-Our Comment: This is nominal inflation
-{{< /box >}}
+
+**Our Comment**
+
+Here, Ricardo is talking about nominal value in production.
+
+
+{{< q a="Ricardo" >}}
+If an ounce of gold exchanges for fewer commodities, the cause of the change in the value of gold relative to other commodities, was its abundant production, or the fewer labour needed to obtain it.
+{{< /q >}}
+
+
+**Our Comment**
+
+This is nominal inflation
 
 
 {{< q a="Ricardo" >}}
@@ -106,9 +121,10 @@ Similarly, if labour fell in value because of an abundance of labour caused by c
 {{< /q >}}
 
 
-{{< box >}}
-Comment: This is the reduction of nominal/real wages.
-{{< /box >}}
+
+**Comment**
+
+This is the reduction of nominal/real wages.
 
 
 {{< q a="Ricardo" >}}
@@ -116,20 +132,23 @@ Smith and Malthus say no. In the case of the gold, the variation is a fall of it
 {{< /q >}}
 
 
-{{< box >}}
-Our Comment: Here, Ricardo is complaining why nominal value of gold falls, while real value doesn't. He shows his failure to understand that real value is a store of value. Even if an oversupply of workers causes a reduction in nominal wages, their real value stays the same (their knowledge, skills, passions, stay the same and can increase during better conditions, and can only decrease through constant calamities)
-{{< /box >}}
+**Our Comment**
+
+Here, Ricardo is complaining why nominal value of gold falls, while real value doesn't. He shows his failure to understand that real value is a store of value. Even if an oversupply of workers causes a reduction in nominal wages, their real value stays the same (their knowledge, skills, passions, stay the same and can increase during better conditions, and can only decrease through constant calamities)
+
 
 
 {{< q a="Ricardo" >}}
 I protest this. The cause of the variation between wheat and other things, is the fewer labour needed to produce it. The variation of wheat and labour is 'a fall in their value', and not a rise in the value of the other things. If I hire a labourer for a week, and pay him 8 shillings instead of ten, the labourer can get more food and necessaries if the value of consumable things fall. This fall [price deflation?] is called a fall in the real value of wages. This is not reconcileable with the true principles of the science. This is unusual for me.
 {{< /q >}}
 
-{{< box >}}
-Our Comment: Ricardo protests Smith because it appears that value is inherently subjective and not objective to Smith. Unfortunately, businessmen, merchants, and academics always want it to be objective, because objectivity is the foundation of business, trade, and 'sciences.' 
+
+**Our Comment**
+
+Ricardo protests Smith because it appears that value is inherently subjective and not objective to Smith. Unfortunately, businessmen, merchants, and academics always want it to be objective, because objectivity is the foundation of business, trade, and 'sciences.' 
 
 (Note: That is why our proposed new science from Smith is in a new field called Superphysics  based in turn on David Hume's Treatise of Human Nature, balancing the subjectivity and objectivity of nature)
-{{< /box >}}
+
 
 
 {{< q a="Ricardo" >}}
@@ -155,9 +174,10 @@ Smith will also say fallen "because the value of a thing depends on the power of
 {{< /q >}}
 
 
-{{< box >}}
-Our Comment: From this example alone, one cannot say whether the worker's real value has risen or fallen. If wheat were the only commodity, then yes, the labourer's value has risen because 9 is higher than 8. But if other commodities also rose, such as a shoe costing 8 quarters rising to 16 quarters, then the laborer's value has fallen by the difference or by 44% [(16-9)/16].
-{{< /box >}}
+**Our Comment**
+
+From this example alone, one cannot say whether the worker's real value has risen or fallen. If wheat were the only commodity, then yes, the labourer's value has risen because 9 is higher than 8. But if other commodities also rose, such as a shoe costing 8 quarters rising to 16 quarters, then the laborer's value has fallen by the difference or by 44% [(16-9)/16].
+
 
 <!-- . because the nominal price of the other goods must be known. If the prices of other goods fall enabling the worker to buy more, then his labour's value has increased. If not, then it has fallen. It's very simple. -->
 

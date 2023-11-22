@@ -4,7 +4,6 @@ linkTitle: Chapter 1
 title: "The Material Layer of Superphysics"
 date: 2020-01-27
 image: /photos/objects/engine.jpg
-# image: https://sorasystem.sirv.com/photos/egg.jpg
 description: "The material layer is the final layer in the journey of dynamic energy and entropy towards stasis"
 linkTitle: "Material Layer"
 weight: 2

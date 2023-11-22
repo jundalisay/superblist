@@ -2,7 +2,7 @@
 title: "15 Reasons Why People Study Geoscience"
 date: 2023-11-02
 image: /photos/physics/fires.jpg
-description: "Studying Geoscience is a multidisciplinary field that tackles various aspects of the Earth and its processes. Here we give you 15 reasons why people choose to study Geoscience"
+description: "Studying Geoscience is a multidisciplinary field that tackles various aspects of the Earth and its processes"
 contributors: ['Brad Mitchell']
 icon: /icons/spmat.png
 ---

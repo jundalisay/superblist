@@ -3,13 +3,12 @@ heading: "Chapter 5"
 title: The Mental Universe
 description: The Universe is Mental—held in the Mind of THE ALL
 image: /covers/kybalion.jpg
-
 weight: 10
 ---
 
 
-{{< q >}}
-"The Universe is Mental—held in the Mind of THE ALL."—The Kybalion.
+{{< q c="The Kybalion" >}}
+The Universe is Mental—held in the Mind of THE ALL
 {{< /q >}}
 
 
@@ -74,7 +73,7 @@ In the first place there would be a taking away, and in the second case a multip
 
 The correct answer is that Man creates MENTALLY! He uses no outside materials, nor does he reproduce himself, and yet his Spirit pervades the Mental Creation*.
 
-> *Superphysics note: This answer is from the perspective of the Absolute. It implies that the universe is an illusion, similar to Vedanta philosophy. Superphysics rejects this as it is a problem-solving framework for the real world. And so it has to accept the reality of existence and its effects in order to solve them. 
+> *Superphysics note: This answer is from the perspective of the Absolute. It implies that the universe is an illusion, similar to Vedanta philosophy. Superphysics rejects this as ours is a problem-solving framework for the real world. And so it has to accept the reality of existence and its effects in order to solve them. The effect of Kybalion Philosophy is to imagine the problem to go away. This is similar to how Vedanta 'solves' problems by ignoring them. Too much materialism is bad. But too much mentalism is bad too.    
 
 
 Following the Principle of Correspondence, THE ALL creates the Universe MENTALLY just as how Man creates Mental Images. <!-- And, here is where the report of Reason tallies precisely with the report of the Illumined, as shown by their teachings and writings. Such are the teachings of the Wise Men. Such was the Teaching of Hermes. -->
@@ -88,15 +87,13 @@ But your Universe is the mental creation of a Finite Mind, whereas that of THE A
 **THE UNIVERSE, AND ALL IT CONTAINS, IS A MENTAL CREATION OF THE ALL. Verily indeed, ALL IS MIND!**
 
 
-{{< q >}}
-"THE ALL creates in its Infinite Mind countless Universes, which exist for aeons of Time. 
-
-Yet, to THE ALL, the creation, development, decline and death of a million Universes is as the time of the twinkling of an eye."—The Kybalion.
+{{< q c="The Kybalion" >}}
+THE ALL creates in its Infinite Mind countless Universes, which exist for aeons of Time. Yet, to THE ALL, the creation, development, decline and death of a million Universes is as the time of the twinkling of an eye.
 {{< /q >}}
 
 
-{{< q >}}
-"The Infinite Mind of THE ALL is the womb of Universes."—The Kybalion.
+{{< q c="The Kybalion" >}}
+The Infinite Mind of THE ALL is the womb of Universes
 {{< /q >}}
 
 

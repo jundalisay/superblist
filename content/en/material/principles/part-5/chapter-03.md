@@ -2,11 +2,9 @@
 heading: Chapter 3
 linkTitle: Chapter 3
 title: "Material Bands -- Contact Forces"
-# heading: "Putting Newton under Kepler and Descartes"
 date: 2020-01-31
 image: /photos/physics/baseball.jpg
 description: "The Principles for Movement in the Material Layer which is the lowest and crudest layer"
-linkTitle: "Material Bands"
 weight: 4
 icon: /icons/spmat.png
 ---

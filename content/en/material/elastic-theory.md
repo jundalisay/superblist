@@ -2,7 +2,7 @@
 title: "The Elastic Theory of Gravity"
 date: 2023-07-16
 image: /photos/physics/galaxy.jpg
-description: ""
+description: "Our theory of gravity is called the Elastic theory derived from the theories of Kepler, Descartes, and Socrates"
 contributors: ['Juan']
 icon: /icons/spmat.png
 ---
