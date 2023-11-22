@@ -3,6 +3,7 @@ title: "The Feedback Loop"
 weight: 9
 image: "/photos/physics/quasar.jpg"
 description: "Your external physical reality is a feedback loop, to let you know what your beliefs are"
+author: Consolidated from Bashar
 ---
 
 

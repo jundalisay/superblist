@@ -2,9 +2,9 @@
 title: "What is Time?"
 weight: 14
 image: "/photos/physics/quasar.jpg"
-description: "How the Essassani view time as an illusion created by consciousness"
+description: "Time is an illusion created by consciousness"
+author: Consolidated from Bashar
 ---
-
 
 
 There is only ONE MOMENT in all creation - the eternal NOW.

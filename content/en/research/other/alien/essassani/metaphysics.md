@@ -1,8 +1,9 @@
 ---
-title: "Metaphysics"
+title: "The Metaphysics of the Reality you Desire"
 weight: 8
 image: "/photos/physics/quasar.jpg"
 description: "The Metaphysics followed by the Essassani"
+author: Consolidated from Bashar
 ---
 
 

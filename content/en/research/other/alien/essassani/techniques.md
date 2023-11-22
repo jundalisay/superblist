@@ -1,8 +1,9 @@
 ---
-title: "Techniques"
+title: "Techniques for Manifesting your Preferred Reality"
 weight: 12
 image: "/photos/physics/quasar.jpg"
-description: "The Metaphysics followed by the Essassani"
+description: "Here are 2 Quick Techniques for Manifesting your Preferred Reality"
+author: Consolidated from Bashar
 ---
 
 

@@ -1,9 +1,9 @@
 ---
 title: "Neutrality, Positivity, and Negativity"
-
 weight: 10
 image: "/photos/physics/quasar.jpg"
-description: "Neutrality, Positivity, and Negativity are the mindsets that are possible. The Essassani advocate Positivity and Neutrality, never Negativity"
+description: "Neutrality, Positivity, and Negativity are the mindsets that are possible."
+author: Consolidated from Bashar
 ---
 
 

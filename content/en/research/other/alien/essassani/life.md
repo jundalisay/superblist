@@ -2,7 +2,8 @@
 title: "Life"
 weight: 6
 image: "/photos/physics/quasar.jpg"
-description: "The Essassani mantra is to 'Follow your excitement' and 'So what?'"
+description: "Your life becomes whatever you focus your attention on."
+author: Consolidated from Bashar
 ---
 
 
@@ -83,7 +84,7 @@ So the recommendation is:
 
 **Select what you prefer, WITHOUT judging (invalidating) what you do NOT prefer.**
 
-You become whatever you focus your attention on. To assign any meaning to anything - either a positive meaning or a negative meaning - is to invite that into your life. 
+You become whatever you focus your attention on. To assign any meaning to anything, either a positive or negative meaning, is to invite that into your life. 
 
 Being neutral about something - assigning it no meaning - is the way to not attract that reality into your life.
 
@@ -144,11 +145,9 @@ Both are equally "real". Both are equally a "dream".
 
 As you ascend into higher and higher dimensions, you repeatedly "wake up" from that dream, into a more awake reality. But that is also a dream, which you will realize when you ascend into an even higher dimension.
 
-Thoughts are the only reality.
-
-Dreams are the only reality.
-
-Consciousness is the only reality.
+- Thoughts are the only reality.
+- Dreams are the only reality.
+- Consciousness is the only reality.
 
 For example: The chair you are sitting on is not actually "real". But your EXPERIENCE of that chair is "real".
 

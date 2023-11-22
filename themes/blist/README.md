@@ -16,6 +16,24 @@ Capitalism
 http://localhost:1313/social/economics/principles/part-3/chapter-11b/
 
 
+How Cartesian Physics explains Saturn's rings.
+
+The rings of Saturn is one of the last mysteries in our solar system. Why does Saturn have rings, while Jupiter and has none
+
+Saturn has a liquid center-votex leading to a gaseous core (center area). This leads to a liquid mantle (slow area). This leads to a solid outer area, manifesting as rings made of solid rocks and ice. This is similar to our sun having a kuiper belt made of rocks in its outer area instead of a stellar halo made of photons.    
+
+These 4 areas of inner, slow, outer, and edge in any system are therefore effects of the vortex. You can know the vortex by knowing these 4 parts. This can make finding habitable planets easier, after teleportation technology is developed by Cartesian Physics.   
+
+Cassini
+
+Accordingly Neutron 
+
+Weak Force is the standard representative particle of the 
+
+At the moment, NASA is unsure why the inner ring has less energy than the outer rings. 
+
+Neutron exosphere. 
+
 
 French:
 Quel est votre rôle ? Pantrypoints est pour tout le monde.
