@@ -3,7 +3,10 @@ title: "Injustice"
 description: "Injustice should not be understood to imply only the confiscation of money or other property from the owners, without compensation and without cause"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 40"
+heading: "Part 41"
+writer:
+  - name: Ibn Khaldun
+    url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 weight: 116
 ---
 
@@ -58,28 +61,25 @@ This is an opinion held by many. The punishment applies only after one has gaine
 injustice that the person has a free hand and there is no rival power, which means that he has (a power to) bring about (complete) ruin. 
 
 The ability of the highway robber is merely an ability to cause fear. (This fear) then enables the highway robber to take away the property of others. Everyone may defend himself against it, according to both the religious and the political law. It is not, then, an ability that could bring about (complete) ruin.
-<!-- God has power to do what He wishes. -->
 
 
 ## Forced labor and Expropriations
 
-One of the greatest injustices and one which contributes most to the
-destruction of civilization is the unjustified imposition of tasks and the use of the
-subjects for forced labor. 
+One of the greatest injustices is:
+- the unjustified imposition of tasks and
+- the use of forced labor
 
-This is so because labor belongs to the things that constitute capital, as we shall explain in the chapter on sustenance. 681 Gain and sustenance represent the value realized from labor among civilized people. 
+These contribute most to the destruction of civilization. Labor belongs to the things that constitute capital. The labor of civilized people result in their gain and sustenance. 
 
-All their efforts and all their labors are (means) for them (to acquire) capital and (to make a)
-profit. They have no other way to make a profit except (through labor). 
+All their efforts and labors let them acquire capital and profit. They have no other way to make a profit except through labor. 
 
 Subjects employed in cultural enterprises gain their livelihood and profit from such activities.
 
-If they are obliged to work outside their own field and are used for forced labor unrelated to their (ordinary ways of) making a living, they no longer have any profit and are thus deprived of the price of their labor, which is their capital (asset).
+If they are obliged to work outside their own field and are used for forced labor unrelated to their ordinary ways of making a living, they no longer have any profit and are thus deprived of the price of their labor, which is their capital asset.
+
 They suffer, and a good deal of their livelihood is gone, or even all of it. 
 
 If this occurs repeatedly, all incentive to cultural enterprise is destroyed, and they cease utterly to make an effort. This leads to the destruction and ruin of civilization. 
-
-<!-- "God gives sustenance to whomever He wishes to give it, withoutaccounting." 682 -->
 
 An injustice that is even more destructive of civilization and the dynasty is the appropriation of people's property by buying their possesions as cheaply as possible and then reselling them at the highest possible prices through forced sales and purchases.
 
@@ -107,19 +107,15 @@ Merchants who come from elsewhere for the purchase and sale of merchandise are s
 Therefore, if no (trading) is being done in the markets, they have no livelihood, and the tax revenue of the ruler
 decreases or deteriorates, since, in the middle (period) of a dynasty and later on, most of the tax revenue comes from customs duties on commerce, as we have stated before. 685 This leads to the dissolution of the dynasty and the decay of urban civilization. The disintegration comes about gradually and imperceptibly.
 
-This happens whenever the ways and means of seizing property described above are used. On the other hand, if (the property) is taken outright and if the hostile acts are extended to affect the property, the wives, the lives, the skins,685a
-and the honor of people, it will lead to sudden disintegration and decay and the
-quick destruction of the dynasty. 
+This happens whenever the ways and means of seizing property described above are used. On the other hand, if (the property) is taken outright and if the hostile acts are extended to affect the property, the wives, the lives, the skins, and the honor of people, it will lead to sudden disintegration and decay and the quick destruction of the dynasty.
 
 It will result in disturbances leading to complete destruction.
 
 On account of these evil (consequences), all such (unfair activities) are prohibited by the religious law. 
 
-The religious law legalizes the use of cunning in trading, but forbids depriving people of their property illegally. The purpose is to prevent such evil (consequences), which would lead to the destruction of civilization
-through disturbances or the lack of opportunity to make a living.
+The religious law legalizes the use of cunning in trading, but forbids depriving people of their property illegally. The purpose is to prevent such evil (consequences), which would lead to the destruction of civilization through disturbances or the lack of opportunity to make a living.
 
-All these practices are caused by the need for more money by the dynasty and ruler, because they have become used to
-luxurious living. 
+All these practices are caused by the need for more money by the dynasty and ruler, because they have become used to luxurious living. 
 
 Their expenditures increase, and much spending is done. The ordinary income does not meet (the expenditures). Therefore, the ruler invents new sorts and kinds of taxes, in order to increase the revenues and to be able to balance the budget. 
 
