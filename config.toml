@@ -56,8 +56,8 @@ paginate = 12
         url = "help"
         weight = 10
     [languages.en.params]
-      heading = "A New Science Based on Metaphysics and Socratic Dialectics"
-      intro = "Superphysics: Wave-based Scientific Paradigm"
+      heading = "A New Science Based on Waves and Socratic Dialectics for Solving Problems"
+      intro = "Superphysics: Science Merged with Metaphysics"
       sub = "All Knowledge Can Be Grouped Into Three"
       banner = "/photos/physics/galaxy.jpg"
       youtube = "8bnws4po7ew"
