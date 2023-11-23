@@ -6,8 +6,10 @@ date: 2019-01-01
 weight: 4
 image: /photos/tech/mac.jpg
 description: "All that we perceive is in the universe which is a matrix of the ideas of the Creator of existence"
-contributors: ['Juan']
 icon: /icons/sp.png
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 
