@@ -5,8 +5,8 @@ image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 41"
 writer:
-  - name: Ibn Khaldun
-    url: https://en.wikipedia.org/wiki/Ibn_Khaldun
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 weight: 116
 ---
 
