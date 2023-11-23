@@ -33,7 +33,7 @@
           {{ with .Params.author }}          
               by {{ . }}
           {{- end }}          
-          {{ with .Params.writer }}          
+          {{ if .Params.writer }}          
               by <a href="{{ .Url }}">{{ .Name }}</a>
           {{- end }}
 
