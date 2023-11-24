@@ -24,10 +24,22 @@
 
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}" />
   
-  {{- if .Params.Author }}
-    <meta name="author" content="{{ .Params.Author}}" />
+  {{- with .Params.Author }}
+    <meta name="author" content="{{ . }}" />
   {{ end -}}
   
+  {{- with .Params.Writer }}
+    <meta name="author" content="{{ .name }}" />
+  {{ end -}}
+
+  {{ with .Params.contributors }}          
+    {{- range . }}
+      <meta name="author" content="{{ . }}" />
+    {{- end }}
+  {{- end }}
+
+
+
   {{- $styles := resources.Get "css/styles.css" | postCSS (dict "config" "./assets/css/postcss.config.js") -}}
   {{- $styles := $styles| minify | fingerprint | resources.PostProcess -}}
   <link
