@@ -6,7 +6,9 @@ date: 2023-08-24
 weight: 3
 image: /photos/physics/light.jpg
 description: "In Descartes' Physics, the Photoelectric Effect is the downgrading of high energy light and cosmic energy (high fire-aether) into electrons (low fire-aether)"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 ---
 

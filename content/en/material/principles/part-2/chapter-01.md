@@ -6,7 +6,9 @@ linkTitle: "Spatial Layer"
 image: "/photos/physics/quasar.jpg"
 description: "The spatial layer is the spacetime in Physics"
 weight: 2
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
 ---
 

@@ -5,6 +5,9 @@ date: "2023-03-14"
 contributors: ['Juan']
 image: "/photos/objects/clock.jpg"
 categories: ["Material Superphysics"]
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: "/icons/spmat.png"
 ---
 

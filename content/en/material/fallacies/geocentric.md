@@ -6,7 +6,9 @@ date: 2023-03-24
 weight: 3
 image: /graphics/physics/geocentric.jpg
 description: "The Europeaans Stuck to the Geocentric Model because of the wrong 5 Elements of the Greeks"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 ---
 

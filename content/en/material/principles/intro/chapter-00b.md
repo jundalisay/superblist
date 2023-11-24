@@ -4,7 +4,9 @@ title: "The Theoretical Organization of the 5 Layers"
 date: 2023-11-02
 image: /photos/econ/writer.jpg
 # description: "The common conclusion of the ancient Greeks, Hindus, and Chinese"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 5
 icon: /icons/pantry.png
 draft: true

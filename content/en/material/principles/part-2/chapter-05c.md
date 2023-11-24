@@ -6,6 +6,9 @@ weight: 20
 image: /graphics/physics/quasar.jpg
 description: "The ratio of galaxies and quasars should be roughly similar. It means that some bright galaxies should be reclassified as quasars"
 icon: /icons/spmat.png
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

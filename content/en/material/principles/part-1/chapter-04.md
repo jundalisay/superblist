@@ -5,6 +5,9 @@ date: 2020-11-11
 image: /graphics/physics/doremi.png
 description: "Harmonic Ratios Create Movement and Attraction or Repulsion by their harmony or discord with other sounds"
 icon: /spmat.png
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 14
 ---
 

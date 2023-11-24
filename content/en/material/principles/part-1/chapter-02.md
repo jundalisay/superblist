@@ -3,8 +3,10 @@ heading: "Chapter 2"
 title: "The Quantum of Aether or Qoa"
 date: 2020-01-31
 image: "/graphics/flipbook.gif"
-description: "A Quantum of Aether or Qoa is the seed or starting point for a universe in the multiverse in the Matrix of Existence or the Mind of Brahma"
-contributors: ['Juan']
+description: "A Quantum of Aether or Qoa is the seed or starting point for a universe in the multiverse in the Matrix of Existence"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 10
 icon: /icons/spmat.png
 ---

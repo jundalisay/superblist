@@ -3,8 +3,10 @@ heading: "Chapter 4"
 title: "Universal Bands and Relativity"
 date: 2022-01-03
 image: /graphics/traf.png
-description: "We replace Einstein's Relativity with Universal Elastic Relational Bands as a template for all the movements in the universe, whether physical or metaphysical"
-contributors: ['Juan']
+description: "We replace Einstein's Relativity with Universal Elastic Relational Bands as a template for all the movements, whether physical or metaphysical"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 10
 icon: /icons/spmat.png
 ---

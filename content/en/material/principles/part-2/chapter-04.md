@@ -7,6 +7,9 @@ weight: 12
 image: /graphics/gravrelm.png
 description: "Spatial Relativity and Gravitational Relativity deals with the movement of quanta of spacetime (qosts)"
 icon: /icons/spmat.png
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

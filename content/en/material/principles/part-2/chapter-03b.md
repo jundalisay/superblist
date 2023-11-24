@@ -4,7 +4,9 @@ title: "Descartes' Quantum Tunneling and Nuclear Fusion"
 date: 2023-10-31
 image: "/graphics/physics/tunnel.jpg"
 description: "Descartes wrote about cosmology based on the aether-first paradigm, opposite of Newton's matter-first paradigm"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 11
 icon: /icons/spmat.png
 ---

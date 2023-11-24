@@ -4,7 +4,9 @@ title: "How the Harmonic Ratios Create Movement and Gravity"
 date: 2023-11-10
 image: "/graphics/physics/egllayers.png"
 description: "The common conclusion of the ancient Greeks, Hindus, and Chinese"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 4
 icon: /icons/pantry.png
 ---

@@ -5,6 +5,9 @@ date: 2020-01-31
 image: /graphics/qoaprices.png
 description: "Aethereal Bands explain the Principles for Movement in the Aethereal Layer which is above the Spatial Layer"
 icon: /spmat.png
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 12
 ---
 

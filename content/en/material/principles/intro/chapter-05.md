@@ -5,7 +5,9 @@ date: 2022-01-03
 image: /graphics/super/kepler.png
 description: "The Kepler Tensor plot movements in space or no-space according to universal relativity."
 linkTitle: "Kepler Tensor"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 12
 icon: /icons/spmat.png
 toc: false

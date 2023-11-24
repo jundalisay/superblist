@@ -4,7 +4,9 @@ date: 2023-04-22
 weight: 3
 image: /covers/tesla.jpg
 description: "Relativity is merely a test of equipment."
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 ---
 

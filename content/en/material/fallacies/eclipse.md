@@ -3,8 +3,10 @@ title: "The 1919 Eclipse"
 # date: 2023-04-22
 weight: 13
 image: /photos/physics/star.jpg
-description: "In his book Relativity, Einstein says that the changing of the place of a star observed during the 1919 eclipse is due to spacetime being curved around the sun"
-contributors: ['Juan']
+description: "In his book Relativity, Einstein says that the changing of a star's place during the 1919 eclipse is due to spacetime being curved around the sun"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 toc: false
 ---

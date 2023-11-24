@@ -5,7 +5,9 @@ date: 2023-02-05
 image: /graphics/physics/michelson.png
 # image: /photos/meta/buddhism.jpg
 description: "The aether drag is a fallacy created by post-Descartes physicists, probably by Fresnel"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 9
 icon: /icons/spmat.png
 ---
