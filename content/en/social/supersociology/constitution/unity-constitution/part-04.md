@@ -3,7 +3,9 @@ title: Articles 1-12
 heading: "Part 4: Non-Fundamental Social Human Rights"
 description: "Perpetual Unity allows for Non-Human Rights."
 image: "/covers/unity.jpg"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 8
 ---
 

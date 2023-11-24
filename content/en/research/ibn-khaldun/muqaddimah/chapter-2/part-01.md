@@ -1,19 +1,20 @@
 ---
 title: "The Bedouins"
-description: "Social organization enables the Bedouins to cooperate toward that end and to start with the simple necessities of life, before they get to conveniences and luxuries"
+description: "Social organization enables the Bedouins to cooperate and start with the simple necessities of life, before they get to conveniences and luxuries"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 1"
 weight: 6
-contributors: ['Ibn Khaldun']
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 
+<!-- BEDOUIN CIVILIZATION, SAVAGE NATIONS AND TRIBES AND THEIR CONDITIONS (OF LIFE) -->
 
-<!-- BEDOUIN CIVILIZATION, SAVAGE NATIONS
-AND TRIBES AND THEIR CONDITIONS (OF LIFE) -->
 
-## 1. Both Bedouins and sedentary people are natural groups.
+## 1. Both Bedouins and sedentary people are natural groups
 
 Their differences are from the different ways in which they make their living. 
 

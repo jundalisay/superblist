@@ -4,7 +4,9 @@ heading: "A new value-circulation system"
 date: 2020-07-05
 image: "/photos/buy.jpg"
 description : "Points Banking integrates Basic Universal Revenue and Resource Credits to create a new value circulation system"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

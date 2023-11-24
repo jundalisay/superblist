@@ -4,10 +4,11 @@ linkTitle: Chapter 5b
 title: "The Proper Energy Policy"
 # date: 2022-08-15
 weight: 24
-# date: 2022-08-09
 image: /photos/physics/light.jpg
 description : "The proper energy policy is to let the government handle energy."
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

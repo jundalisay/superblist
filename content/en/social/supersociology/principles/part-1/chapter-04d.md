@@ -4,7 +4,9 @@ description: "According to Ibn Khaldun, all nobility and prestige ends after fou
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Chapter 4c"
-author: "Juan"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 20
 ---
 

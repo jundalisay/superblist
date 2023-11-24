@@ -6,8 +6,9 @@ date: 2015-01-01
 weight: 46
 image: /photos/objects/ship.jpg
 description : "Import Substitution is for austere, while Export Promotion is for liberal nations"
-youtube: "rVP73TV2X0s"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 aliases:
   /social/economics/import-substitution-vs-export-promotion

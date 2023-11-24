@@ -4,7 +4,9 @@ date: 2023-04-03
 # weight: 
 image: "/covers/jesus.jpg"
 description: "Historical facts will reveal that the crucifixion of Jesus had little to do with spirituality, but everything to do with politics"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 ---
 

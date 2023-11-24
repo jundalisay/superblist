@@ -7,7 +7,9 @@ date: 2023-04-19
 weight: 42
 image: /photos/buy.jpg
 description: "Our ratios determine the useful productivity just as capitalism has ratios such as Earning per Share, ROI, etc."
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: "/icons/pantry.png"
 ---
 

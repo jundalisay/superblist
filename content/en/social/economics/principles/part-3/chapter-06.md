@@ -5,13 +5,16 @@ date: 2021-12-24
 weight: 32
 image: /covers/econsp.jpg
 description: ""
-author: Dalisay
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 draft: true
 ---
 
+
 ## Business Cycle
 
-## Profit Cycle
+### Profit Cycle
 
 Figure 1. The Money Cycle by the people who live by profits (purple), the Budget Deficit Cycle by the people who live by rent [taxes] (blue), and the Poverty Cycle by the people who live by wages (red).
 

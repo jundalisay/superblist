@@ -2,9 +2,10 @@
 title: "Socio-economic Suggestions for the Tasmanian Economy"
 date: 2014-07-23
 image: "/photos/objects/money.jpg"
-description : "Economics uses money both as a store of value and tool of trade. Superphysics uses three tools--money, points, and barter--in order to have more avenues of wealth creation and less chance of circulation blockage. This then makes financial crises and debt slavery obsolete"
-youtube: "OV1JHTiDdkQ"
-contributors: ['Juan']
+description : "Economics uses money both as a store of value and tool of trade. Superphysics uses three tools--money, points, and barter"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

@@ -6,7 +6,9 @@ date: 2021-07-21
 weight: 22
 image: "/graphics/social/ideology.png"
 description: "The four laws of value of Superphysics leads to the four classes of Workers, Warriors, Thinkers, and Traders"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spss.png
 aliases:
   /superphysics/solutions/ideology-matrix

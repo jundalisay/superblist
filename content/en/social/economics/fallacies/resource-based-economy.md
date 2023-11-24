@@ -4,7 +4,9 @@ heading: "Why The Venus Project Will Never Be Realized"
 date: 2020-09-01
 image: "/photos/tech/rbe.jpg"
 description: "The Resource Based Economy is similar to Marxism and will fail just the same"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 toc: false
 ---
@@ -26,9 +28,8 @@ Its most striking feature is that it aims to distribute goods and services witho
 It hopes to do this by using technology to reduce scarcity. This makes it seem consistent with David Hume's assertion that the two factors that cause human problems are selfishness and scarcity:
 
 
-{{< q a="David-Hume" >}}
+{{< q a="David-Hume" c="Treatise of Human Nature Simplified, Book 3, Part 2, Section 3" >}}
 Increase the benevolence of men or the bounty of nature, and you render justice unnecessary.
-<cite>Simple Treatise of Human Nature, Book 3, Part 2, Section 3</cite>
 {{< /q >}}
 
 
@@ -47,7 +48,7 @@ Resource allocation in an RBE is done through rationing done by artificial intel
 
 
 
-## The fundemanetal flaw of RBE: No Metaphysics
+## The Fundamental Flaw of RBE: No Metaphysics
 
 Both RBE and Marxism lacks metaphysics which is the secret to the success of an economy. Communism failed while Capitalism flourished simply because the latter was more in line with the dharma of individual humans--the love for freedom and the need for industry. 
 

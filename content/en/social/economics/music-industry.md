@@ -4,7 +4,9 @@ heading: "How Superphysics Can Aid Struggling Musicians"
 date: 2019-10-17
 image: /photos/econ/singer.jpg
 description : "The fellow-feeling advocated by Superphysics can help artists survive in the music industry"
-youtube: "rVP73TV2X0s"
+writer:
+  name: Lam
+  url: https://www.linkedin.com/in/baolamnguyen/
 icon: /icons/pantry.png
 toc: false
 ---

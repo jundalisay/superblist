@@ -6,7 +6,9 @@ date: 2019-04-17
 weight: 30
 image: /graphics/econ/yield.jpg
 description : "People think that an inverted yield curve is the sole indicator of a coming crisis. In reality there are many."
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

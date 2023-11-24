@@ -3,7 +3,9 @@ title: "Keynesian Economics is Socialism for Wall Street"
 date: 2023-02-17
 image: /graphics/econ/circular.png
 description : "Chapter 2 of Keynes' General Theory exposes his corruption of Classical Economics in order to promote his Neoclassical hacks"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

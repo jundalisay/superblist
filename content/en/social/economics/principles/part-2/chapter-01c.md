@@ -7,7 +7,9 @@ weight: 13
 date: 2016-01-01
 image: /photos/meta/buddhism.jpg
 description: "Smith hinted at the concept of dharma, as the personal interest of people"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

@@ -5,7 +5,9 @@ date: 2021-12-
 weight: 34
 image: /covers/econsp.jpg
 description: ""
-author: Dalisay
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 draft: true
 ---
 

@@ -6,7 +6,9 @@ date: 2023-11-03
 weight: 14
 image: /covers/econsp.jpg
 description: "In Supereconomics, capital is anything that creates value"
-author: Juan
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 draft: true
 ---
 

@@ -6,7 +6,9 @@ date: 2016-01-01
 weight: 36
 image: /photos/econ/bake.jpg
 description : "Rent, Wages, Profit, and Donations are the four revenue types of Classical Economics which matches the four classes of people"
-author: Dalisay
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

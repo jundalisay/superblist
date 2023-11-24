@@ -6,7 +6,9 @@ date: 2019-06-17
 weight: 20
 image: "/charts/econ/prod.png"
 description : "The Producer’s & Consumer’s Surplus and Deadweight Loss in Economics is very different from the ones of Superphysics"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 toc: false  
 ---

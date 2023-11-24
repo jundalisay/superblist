@@ -5,14 +5,15 @@ image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 22-24"
 weight: 32
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
-
 
 
 
 ## 22. The vanquished always want to imitate the victor in his distinctive marks, dress, etc
 
-<!-- occupation, and all his other conditions and customs -->
 
 This is because the soul always sees perfection in the person who is superior to it and to whom it is subservient. It considers him perfect, either because:
 - its respect for him impresses it, or
@@ -77,7 +78,7 @@ Such (disintegration as befell the Persians) is in human nature. It happens when
 
 Therefore, the Negro nations are submissive to slavery because they have little human attributes. Instead, they are quite similar to those of dumb animals. 137
 
-Or,138 there are those who by accepting slavery hope to obtain high rank or to get money or power. This was the case with the Turks in the East, and with the Galician infidels and European Christians in Spain. Such people are customarily claimed by the dynasty for itself. 
+Or, there are those who by accepting slavery hope to obtain high rank or to get money or power. This was the case with the Turks in the East, and with the Galician infidels and European Christians in Spain. Such people are customarily claimed by the dynasty for itself. 
 
 Thus, they are not ashamed to be slaves, because they hope to be chosen for high position by the dynasty. And God knows better.
 

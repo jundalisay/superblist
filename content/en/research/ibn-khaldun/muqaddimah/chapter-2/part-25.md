@@ -3,8 +3,10 @@ title: "The Arabs"
 description: "Places that succumb to the Arabs are quickly ruined"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 25-26
-"
+heading: "Part 25-26"
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 weight: 34
 ---
 
@@ -27,7 +29,6 @@ This removes any political power to protect property, and so, civilization is ru
 
 They force craftsmen and professional workers to work for them without pay. <!-- do their work, they do not see any value in it and do not pay them for it. -->
 
-<!-- Now, as we shall mention, 140  -->
 
 **Labor is the real basis of profit.** 
 
@@ -41,7 +42,7 @@ They often level fines on property because they want to get some advantage, some
 
 It does not help to prevent misdeeds or to deter those who undertake to commit (misdeeds). 
 
-On the contrary, it increases (misdeeds), because as compared to getting what one wants, the (possible financial) loss (through fines) is insignificant.141 
+On the contrary, it increases (misdeeds), because as compared to getting what one wants, the (possible financial) loss (through fines) is insignificant.
 
 Under Arab rule, the subjects live as in a state of anarchy, without law. Anarchy destroys mankind and ruins civilization, since the existence of royal authority is a natural quality of man. It alone guarantees their existence and social organization. That was mentioned above at the beginning of the chapter. 142
 
@@ -74,4 +75,6 @@ This is achieved by the common religion they now have. It causes rudeness and pr
 
 Besides, no people are as quick (as the Arabs) to accept (religious) truth and right guidance, because their natures have been preserved free from distorted habits and uncontaminated by base character qualities. 
 
-The only (difficulty) lies in the quality of savagery, which, however, is easily taken care of and which is ready to admit good (qualities), as it has remained in its first natural state and remote from the ugly customs and bad habits that leave their impress upon the soul. "Every infant is born in the natural state," as is stated in the tradition that was quoted above.
+The only (difficulty) lies in the quality of savagery, which, however, is easily taken care of and which is ready to admit good (qualities), as it has remained in its first natural state and remote from the ugly customs and bad habits that leave their impress upon the soul. 
+
+"Every infant is born in the natural state," as is stated in the tradition that was quoted above.

@@ -5,7 +5,9 @@ date: 2017-04-26
 weight: 12
 image: "/photos/objects/gavel.jpg"
 description: "We propose a Fourth Branch of Government called the Resources branch to make procurement and audit more systematic"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spss.png
 ---
 

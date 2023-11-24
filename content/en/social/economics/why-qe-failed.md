@@ -4,8 +4,9 @@ heading: "Keynes Liquidity Preference Mistake and Our Alternative GR Model"
 date: 2020-09-24
 image: /covers/keynes.jpg
 description: "QE failed because profit maximization prevents money from going to not-so-profitable activities and employment even if it would energize the economy"
-youtube: "rVP73TV2X0s"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 toc: false  
 ---

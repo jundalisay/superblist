@@ -3,7 +3,9 @@ title: "Ligo and the Aether Drag"
 date: 2023-05-08
 image: /graphics/physics/aether.jpg
 description: "The aether drag has always been in the measurements done by physicists on light"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
 ---
 

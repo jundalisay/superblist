@@ -5,7 +5,9 @@ date: 2015-08-15
 weight: 8
 image: "https://sorasystem.sirv.com/graphics/selftrump2.jpg"
 description: "Conflicts are a sign of injustice and no conflict on Earth is longer or more complicated than the Israeli-Palestinian conflict which has been said to originate from ancient times"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 draft: true
 icon: /icons/spsoc.png
 ---

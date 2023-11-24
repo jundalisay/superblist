@@ -5,7 +5,9 @@ date: 2021-06-26
 weight: 30
 image: "/graphics/econ/dcti.jpg"
 description: "The Demand Capital Trade Industry Tool is for Troubleshooting Economies according to the Fourth Law of Value"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

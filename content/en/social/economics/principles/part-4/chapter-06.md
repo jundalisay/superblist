@@ -6,7 +6,9 @@ date: 2015-08-21
 weight: 28
 image: /photos/city.jpg
 description: "The same maxims given by Adam Smith on economic development still apply today"
-author: Juan
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

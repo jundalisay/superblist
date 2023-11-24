@@ -3,7 +3,9 @@ title: "Levitation via Material Bands"
 date: 2022-08-04
 image: /graphics/physics/aethertech.png
 description: "Here, we explain Effort as implemented to create action-at-a-distance, something that is not known in Physics"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
 ---
 

@@ -4,7 +4,9 @@ heading: "Ban Crypto and NFT"
 date: 2021-07-27
 image: "/photos/buy.jpg"
 description : "Ban Crypto and NFT to reduce the inflation of 2020"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: "/icons/pantry.png"
 ---
 

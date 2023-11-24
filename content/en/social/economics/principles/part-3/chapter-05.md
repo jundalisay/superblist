@@ -6,7 +6,9 @@ weight: 28
 draft: true
 image: /covers/econsp.jpg
 description: ""
-author: Dalisay
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

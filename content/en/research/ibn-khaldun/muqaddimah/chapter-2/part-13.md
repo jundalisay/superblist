@@ -4,9 +4,12 @@ description: "All nobility and prestige ends after four successive generations"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Parts 13-15"
-author: "Ibn Khaldun"
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 weight: 20
 ---
+
 
 ## Prestige lasts at best four generations in one lineage
 

@@ -6,7 +6,9 @@ weight: 34
 # date: 2022-08-04
 image: /photos/medieval/camels.jpg
 description: "In The Lectures on Jurisprudence, Adam Smith enumerated the 7 obstacles to agriculture"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

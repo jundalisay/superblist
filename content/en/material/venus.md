@@ -4,7 +4,9 @@ date: 2022-12-13
 image: /photos/physics/venus.jpg
 description: A possible answer is that a mini-planet gave it a glancing blow from south to north around 3 billion years ago causing it to flip
 # description: "The aether drag has always been in the measurements done by physicists on light"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
 ---
 

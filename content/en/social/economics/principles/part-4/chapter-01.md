@@ -5,7 +5,9 @@ weight: 14
 # dateorig: Originally written in 2016
 image: /graphics/econ/law4.jpg
 description: "The Fourth Law of Value states that economic balance must be maintained to allow natural prices"
-author: Juan
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 aliases:
   /social/economics/principles/fourth-law
 ---

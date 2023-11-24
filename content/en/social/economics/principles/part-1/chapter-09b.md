@@ -6,8 +6,9 @@ weight: 36
 # date: 2016-02-07
 description: "According to Adam Smith, Land Reform should focus on the productivity of the land"
 image: /photos/objects/egypt.jpg
-youtube: "rVP73TV2X0s"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

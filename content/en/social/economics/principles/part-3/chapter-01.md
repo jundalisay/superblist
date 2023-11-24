@@ -6,7 +6,9 @@ date: 2021-12-31
 dateorig: Originally written in 2016
 image: /graphics/econ/law3.jpg
 description: "The Third Law of Value states that value is circulated through the economy through fair exchanges."
-author: Dalisay
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 weight: 12
 toc: false

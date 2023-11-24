@@ -5,7 +5,9 @@ weight: 38
 image: "/photos/happysuccess.jpg"
 description: "Adam Smith laid down 5 factors that affect wages and profits that can be useful for employees and businesses"
 heading: Agreeableness, Difficulty, Constancy, Trust, Success
-contributors: ['Juan'] 
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 toc: false
 ---

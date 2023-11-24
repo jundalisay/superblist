@@ -3,7 +3,9 @@ title: "10 Solutions to the Biggest Problems in Physics"
 date: 2022-05-12
 image: /graphics/physics/box.jpg
 description: "We use Superphysics to solve the biggest problems in Physics "
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
 ---
 

@@ -2,12 +2,12 @@
 title: A Story of Jewish Politics
 heading: Chapter 11
 weight: 12
-
 date: 2021-07-21
 image: /photos/medieval/arab.jpg
 description: "Jesus was Defeated by the Pharisees because of their connection to the Emperor"
-youtube: "J6F2_PF2wbo"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spss.png
 ---
 

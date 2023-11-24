@@ -5,15 +5,22 @@ date: 2019-12-17
 weight: 12
 image: "/photos/meta/buddhism.jpg"
 description: "The Common Interest is the conscience of society and is part of bhagavad dharma (human dharma)"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spss.png
 ---
 
 
-A soul manifests in the physical dimension through a physical body which can be thought of as its vehicle. To maintain itself, the soul develops two things: 
+A soul manifests in the physical dimension through a physical body which can be thought of as its vehicle. To maintain itself, the soul develops 2 things: 
 
-- an ego which is needed to drive action in physical existence
-- a sense called a conscience to regulate that ego to keep it within its [dharma](/social/economics/invisible-hand). This sense leads to personal morals or personal do's and dont's while the soul is in the duality of physical existence
+1. An ego
+
+This is needed to drive action in physical existence
+
+2. A sense called a conscience
+
+This regulates that ego to keep it within its [dharma](/social/economics/invisible-hand). This sense leads to personal morals or personal do's and dont's while the soul is in the duality of physical existence
 
 Souls can then bind themselves into a new entity called a **society** which gets its own soul from the individual souls that make it up. This soul-of-society also acquires its own conscience, known as **the common interest**, that it uses to regulate the individual egos that are contained in it. **This interest is based on feelings or the heart, as a feeling-sense, and not on the intellect or the brain**. This sense leads to **social morals** to guide each individual soul on what is right and wrong. 
 

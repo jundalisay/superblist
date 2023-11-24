@@ -4,12 +4,16 @@ heading: "Simplified Version"
 date: 2022-08-07
 image: "/photos/meta/buddhism.jpg"
 description : "Buddhist Economics focuses on optimal consumption, Economics focuses on optimal production"
-contributors: ['EF Schumacher']
+writer:
+  name: EF Schumacher
+  # url: https://www.linkedin.com/in/jundalisay/
 icon: /avatars/ef.png
 toc: false
 ---
 
+
 > Superphysics Note: Here, we condense [Buddhist Economics by EF Schumacher](/research/schumacher/buddhist-economics/part-1). 
+
 
 ## Buddhist Economics vs Modern Economics
 

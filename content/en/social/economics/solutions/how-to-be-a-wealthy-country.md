@@ -3,7 +3,9 @@ title: "How to be a Wealthy Country"
 description : "Morals, skill, and access to the ocean are essential to being a wealthy country"
 date: 2015-01-01
 image: "/photos/objects/king.jpg"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

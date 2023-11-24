@@ -4,7 +4,9 @@ heading: "Economic Social Contracts as a Tool for Trade"
 date: 2020-09-24
 image: /photos/objects/money.jpg
 description: "Supereconomics uses Economic Social Contracts to spread value in a society. This makes it resilient to financial and currency crises"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 toc: false
 ---

@@ -31,13 +31,11 @@ How can we modify Section 6 [addition of velocities] to unify space and time<!--
 <!-- This question leads to a general one. In the discussion of Section 6 we have to do with places and times
 relative both to the train and to the embankment. 
 
-How are we to find the place and time of an event in relation to the train, when we know the place and time of the event with respect to the railway embankment? Is there a thinkable answer to this question of such a nature that the law of transmission of light in vacuo does not contradict the principle of relativity? 
-
-In other words=   -->
+How are we to find the place and time of an event in relation to the train, when we know the place and time of the event with respect to the railway embankment? Is there a thinkable answer to this question of such a nature that the law of transmission of light in vacuo does not contradict the principle of relativity?  -->
 
 Referring to my example of an event viewed from a moving train and an embankment=  How should we think of the place and time of individual events relative to both reference-bodies [train and embankment], so that light has the velocity `c` relative to the embankment and to the train? 
 
-![Train](/graphics/train.png)
+![Train](/graphics/physics/train.png)
 
 This is answered by a perfectly definite transformation law for the space-time magnitudes of an event when changing over from one viewpoint to <!--  body of reference to --> another.  <!-- Before we deal with this, we shall introduce the following incidental consideration.  --> <!-- Up to now, we have only considered events taking place along the embankment, which had mathematically to assume the function of a straight line. --> The horizontal embankment is a viewpoint supplemented horizontally and vertically through a framework of rods as mentioned in Section 2. In this way, an event anywhere can be localised through such rods. 
 

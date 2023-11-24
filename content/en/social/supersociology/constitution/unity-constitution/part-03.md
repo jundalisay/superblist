@@ -3,7 +3,9 @@ title: Articles
 heading: "Part 3: Fundamental Human Social Rights"
 description: "Perpetual Unity allows for Non-Human Rights."
 image: "/covers/unity.jpg"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 6
 ---
 

@@ -92,7 +92,7 @@ A leaf is blown externally by the wind. But in reality, the wind blows from its 
 In his book Relativity, Einstein proposes a strange way to find the space between an observer on Trafalgar square and a cloud above it. He takes a pole, connects it to both the cloud and Trafalgar square PERPENDICULARLY. This then, he claims, would remove the need to have a rigid Trafalgar square as basis. 
 
 
-{{< img src="/graphics/traf.png" alt="Einstein's Trafalgar Square" cap="Einstein uses a perpedicular line to complete a Pythagorean triangle, leading to curves in spacetime" >}}
+{{< img src="/graphics/physics/traf.png" alt="Einstein's Trafalgar Square" cap="Einstein uses a perpedicular line to complete a Pythagorean triangle, leading to curves in spacetime" >}}
 
 
 Few people seemed to notice that this method is totally arbitrary. It creates a kind of space (and time) that can bend or be perpendicular to anything the imagination thinks of. 
@@ -104,7 +104,7 @@ This arbitrariness, established as a science, then necessarily leads to fanciful
 No one seemed to ask how would Einstein's system work in total darkness. How would a blind man erect a pole to a cloud that he couldn't see?
 
 
-### A different way: Experiential
+### A Different Way: Experiential
 
 The proper and natural way to judge the space of a cloud on Trafalgar square is to know the nature of both the cloud and Trafalgar square. In this way, the proper location is determined by the relative differences of those two natures. 
 A blind observer can know the cloud by the thunder it creates and how it compares to other sounds from Trafalgar square which he learns by experience.

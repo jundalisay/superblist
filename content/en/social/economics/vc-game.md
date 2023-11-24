@@ -5,7 +5,9 @@ date: 2015-01-01
 image: /avatars/smithstatue.jpg
 description : "Adam Smith suggested some policies in the Wealth of Nations which produced bad effects"
 youtube: "rVP73TV2X0s"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 draft: true
 ---

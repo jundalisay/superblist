@@ -4,8 +4,9 @@ title: "How the Effort Theory of Value Naturally Creates a Revenue Limit"
 date: 2023-05-19
 image: "/photos/econ/bake.jpg"
 description: "The Effort Theory of Value creates maximum wages and revene, a concept difficult to realize in the money system"
-# youtube: "rVP73TV2X0s"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

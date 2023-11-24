@@ -6,7 +6,9 @@ date: 2021-12-30
 weight: 20
 image: /covers/keynes.jpg
 description: "The most common suffering imposed by Neoclassical Economics on the people, aside from recessions and financial crises, is inequality"
-author: Juan
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

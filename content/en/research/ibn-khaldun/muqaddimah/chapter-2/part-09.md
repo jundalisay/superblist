@@ -3,10 +3,11 @@ title: "Group Feeling and Purity of Lineage"
 description: "Purity of lineage is found only among the savage because of the poor life, hard conditions, and bad habitats that are peculiar to the Arabs"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 9
-"
+heading: "Part 9"
 weight: 14
-contributors: ['Ibn Khaldun']
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 

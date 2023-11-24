@@ -3,7 +3,9 @@ title: Part 2
 heading: "Part 2: Human Rights"
 description: "Perpetual Unity is based on feelings."
 image: "/covers/unity.jpg"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 4
 ---
 

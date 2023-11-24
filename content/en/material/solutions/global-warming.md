@@ -4,7 +4,9 @@ subtitle: "Plant A LOT of trees"
 date: 2021-06-14
 image: "/photos/objects/tree.jpg"
 description: "We explain David Hume's solution to global warming based on his observations of climate patterns in ancient Europe"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
 ---
 

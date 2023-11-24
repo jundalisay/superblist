@@ -3,11 +3,14 @@ title: "Alternatives to Money as Store of Value"
 heading: "Grain-based Valuation"
 date: 2019-10-17
 image: "/photos/objects/money.jpg"
-description : "Economics uses money both as a store of value and tool of trade. Superphysics uses three tools--money, points, and barter--in order to have more avenues of wealth creation and less chance of circulation blockage. This then makes financial crises and debt slavery obsolete"
-contributors: ['Juan']
+description : "Economics uses money both as a store of value and tool of trade. Supereconomics uses three tools--money, points, and barter"
+writer:
+  name: Lam
+  url: https://www.linkedin.com/in/baolamnguyen/
 icon: /icons/pantry.png
 toc: false
 ---
+
 
 <!-- Superphysics uses economic social contracts as the tool of trade in order to circulate value to solve the following problems with the current 
  -->

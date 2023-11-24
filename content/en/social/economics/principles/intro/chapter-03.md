@@ -6,15 +6,18 @@ linkTitle: Chapter 3
 dateorig: Originally written in 2016
 weight: 10
 image: /photos/econ/bake.jpg
-description: "To prevent economic disorder, we correct the mistakes of Economics by introducing he Four Laws of Value derived from Adam Smith. In line with Superphysics, Superphysics sees value as a wave and price as a particle"
-contributors: ['Juan']
+description: "To prevent economic disorder, we correct the mistakes of Economics by introducing he Four Laws of Value derived from Adam Smith"
+# In line with Superphysics, Superphysics sees value as a wave and price as a particle
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 toc: false
 ---
 
 
 {{< q a="Smith" c="Book 1, Chapter 3 of The Wealth of Nations Simplified" >}}
-<p>I shall explain [exchangable value] as fully as I can. I earnestly hopefor the reader's patience to examine something tedious, and his attention to understand what may still be obscure after the fullest explication.</p>
+I shall explain [exchangable value] as fully as I can. I earnestly hopefor the reader's patience to examine something tedious, and his attention to understand what may still be obscure after the fullest explication.
 {{< /q >}}
 
 <!-- I am always willing to run some hazard of being tedious in order to be sure that I am perspicuous; and after taking the utmost pains that I can to be perspicuous, some obscurity may still appear to remain upon a subject in its own nature extremely abstracted. -->

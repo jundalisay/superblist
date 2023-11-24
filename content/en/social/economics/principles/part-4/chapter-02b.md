@@ -5,7 +5,9 @@ weight: 20
 date: 2017-12-20
 image: "/avatars/smithstatue.jpg"
 description : "Adam Smith gave 4 maxims on taxation that have been largely forgotten. We bring them back to help solve tax evasion and budget deficits"
-author: Dalisay
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

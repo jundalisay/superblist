@@ -6,11 +6,13 @@ weight: 13
 # date: 2022-08-27
 image: /photos/objects/cake.jpg
 description: "The HS Code is administered by the World Customs Organization (WCO) and is updated every 5 years"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
-Human needs can be simplified into the following: 
 
+Human needs can be simplified into the following: 
 
 1. Clean air
 2. Clean water

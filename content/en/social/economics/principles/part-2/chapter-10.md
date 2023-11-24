@@ -5,7 +5,9 @@ date: 2022-01-11
 weight: 30
 image: /photos/econ/writer.jpg
 description: ""
-author: Juan
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

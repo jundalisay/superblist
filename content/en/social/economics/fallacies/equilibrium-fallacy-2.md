@@ -1,12 +1,14 @@
 ---
 heading: "How Economics Leads to Crises"
 title: "The Market Equilibrium Fallacy Part 2"
-description: We combine both curves to come up with a Supply and Demand model. Samuelson justifies the unnatural supply curve with buying and selling through an auctioneer scenario
+description: We combine both curves to come up with a Supply and Demand model
 # date: 2015-08-21
 # date: 2021-10-14
 date: 2022-01-06
 image: "/photos/grains.jpg"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

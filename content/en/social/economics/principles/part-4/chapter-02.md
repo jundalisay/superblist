@@ -4,10 +4,13 @@ title: "Taxes and Taxation systems"
 weight: 18
 date: 2015-01-25
 image: "/photos/tax.jpg"
-description : "Adam Smith gave 4 maxims on taxation in The Wealth of Nations that have been largely forgotten today. We bring them back to help solve tax evasion and budget deficits"
-author: Dalisay
+description : "Adam Smith gave 4 maxims on taxation in The Wealth of Nations that can solve the tax evasion and budget deficits of today"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 draft: true
 ---
+
 
 (Under construction)
 

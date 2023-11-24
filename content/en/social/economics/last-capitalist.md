@@ -4,8 +4,9 @@ heading: "The Failure of the Vision Fund"
 date: 2017-01-15
 image: "/photos/econ/masa.jpg"
 description: "We predict a failure of Softbank's Vision Fund as it is based on Mercantile ideas"
-youtube: "rVP73TV2X0s"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 toc: false
 ---

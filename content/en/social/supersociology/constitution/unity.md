@@ -3,7 +3,9 @@ title: Declaration of Perpetual Unity
 linkTitle: "Declaration"
 description: The Declaration of Perpetual Unity
 image: /flags/us.png
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 draft: true 
 ---
 

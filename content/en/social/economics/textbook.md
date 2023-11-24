@@ -3,9 +3,11 @@ title: "Superphysics Textbook"
 heading: "A Rough Outline"
 date: 2021-06-28
 image: /graphics/econ/pantrynomicsbook.jpg
-description : "Here is the outline of our proposed textbook on Superphysics. Unlike Economics which is messily organized under micro, macro, behavioral, welfare, econometrics, etc., Superphysics is organized under the Four Laws of Value"
-youtube: "rVP73TV2X0s"
-contributors: ['Juan']
+description : "Here is the outline of our proposed textbook on Supereconomics"
+# Unlike Economics which is messily organized under micro, macro, behavioral, welfare, econometrics, etc., Superphysics is organized under the Four Laws of Value
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 draft: true
 ---

@@ -5,8 +5,10 @@ title: "The Second Law of Value"
 # date: 2022-01-03
 # date: 2022-01-31
 image: "/graphics/econ/law2.jpg"
-description: "The Second Law states that real value emerges from nominal value and is maximized by following one's true interests or true nature or dharma. Unlike Economics which imposes the interests of others, Superphysics encourages everyone to know true interest or purpose of their lives that has value to society"
-contributors: ['Juan'] 
+description: "The Second Law states that real value emerges from nominal value and is maximized by following one's true interests or dharma."
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 10
 toc: false
 ---

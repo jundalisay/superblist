@@ -6,7 +6,9 @@ weight: 12
 # date: 2022-08-25
 image: /photos/objects/apples.jpg
 description: "value which is the objectification done by the mind for the sake of processing that idea of value. We divide this store as commodity-based and non commodity-based"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 draft: true
 ---
 

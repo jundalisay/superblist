@@ -6,7 +6,9 @@ date: 2023-01-15
 weight: 25
 image: /photos/econ/farmer.jpg
 description: "Maximized Agriculture is the agricultural system that implements Agricultural Supereconomics"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

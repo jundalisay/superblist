@@ -5,6 +5,9 @@ image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 8"
 weight: 18
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
  
 
@@ -57,16 +60,14 @@ If the group feeling is strong, the dynasty's temper likewise is strong, and its
 
 Large dynasties last longer because when collapse comes, it begins in the outlying regions. The large dynasty has many such provinces far from its center. 
 
-Each defection that occurs necessarily requires a certain time. The
-time required for collapse of the dynasty will be long in such cases, because there are many provinces, each of which collapses in its own good time.
+Each defection that occurs necessarily requires a certain time. The time required for collapse of the dynasty will be long in such cases, because there are many provinces, each of which collapses in its own good time.
 
 The duration of a large dynasty, therefore, is long. This is observed in the Arab Muslim dynasty. 
 
 It lasted the longest of all Muslim dynasties, counting both the Abbasids in the center and the Umayyads far away in Spain. Their rule collapsed only after the 10th century.
 
-The 'Ubaydid-Fatimids lasted about 280 years. The Sinhajah dynasty did not last as long as that of the Ubaydid-Fatimids, namely, from the time when Ma'add al-Mu'izz entrusted Ifrigiyah to Buluggin b. Zirt in 969 up to the time when the Almohads took possession of al-Qal'ah 49 and Bougie in 1162. 
+The 'Ubaydid-Fatimids lasted about 280 years. The Sinhajah dynasty did not last as long as that of the Ubaydid-Fatimids, namely, from the time when Ma'add al-Mu'izz entrusted Ifrigiyah to Buluggin b. Zirt in 969 up to the time when the Almohads took possession of al-Qal'ah and Bougie in 1162.
 
 The contemporary Almohad (Hafsid) dynasty has lasted nearly 270 years.
 
 Thus, the life of a dynasty depends on the number of its supporters. 
-

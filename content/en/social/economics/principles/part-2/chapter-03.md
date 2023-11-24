@@ -6,7 +6,9 @@ weight: 18
 date: 2023-11-03
 image: /photos/objects/gold.jpg
 description: "The Force of Capital pushes us to use our capital or value-producing assets."
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

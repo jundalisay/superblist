@@ -4,7 +4,9 @@ title: "The Modern Economic Table"
 date: 2021-06-26
 image: "/graphics/econ/table.jpg"
 description: "The Modern Economic Table is our main tool to determine the real price of things"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 41
 icon: /icons/pantry.png
 aliases:

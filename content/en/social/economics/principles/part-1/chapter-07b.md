@@ -7,7 +7,9 @@ weight: 30
 # date: 2022-08-08
 image: /photos/buy.jpg
 description: "The industrial revolution in Europe allowed mass production which then allowed huge profits for those who invested in them."
-contributors: ['Juan'] 
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

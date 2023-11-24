@@ -3,8 +3,10 @@ title: "The Iron Law of Wages of David Ricardo"
 heading: "See What's Wrong With It"
 date: 2015-01-01
 image: /covers/ricardo.jpg
-description : "Ricardo said that wages will fall eventually, just as Marx said profits will fall eventually. They were both semi-correct and semi-incorrect"
-contributors: ['Juan']
+description : "Ricardo said that wages will fall eventually, just as Marx said profits will fall eventually"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

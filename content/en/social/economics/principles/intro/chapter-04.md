@@ -5,8 +5,10 @@ title: "The Four Laws of Exchangeable Value"
 # date: 2022-03-26
 image: /covers/econsp.jpg
 weight: 12
-description: "Unlike Economics, Superphysics takes into account cultural value and sentimental value. There are other values like environmental value, historical value, moral value, etc. which will be explained in future editions."
-author: Juan
+description: "Unlike Economics, Superphysics takes into account cultural value and sentimental value"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 
@@ -138,11 +140,11 @@ Adam can ask for the cake as a donation by appealing to the baker's benevolence.
 {{< q c="The Analects Simplified, Chapter 2" >}}
 The disciple Yen-Yu applied for some grain on behalf of his mother. 
 
-<p>Confucius: Give her 3 pecks.</p>
+Confucius: Give her 3 pecks.
 
 He applied for more. 
 
-<p>Confucius: Give her 8, then.</p>
+Confucius: Give her 8, then.
 
 Yen-Yu gave his mother 50 times that amount.
 {{< /q >}}

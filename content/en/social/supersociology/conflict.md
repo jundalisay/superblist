@@ -4,7 +4,9 @@ heading: ""
 # date: 2015-08-15
 image: "https://sorasystem.sirv.com/graphics/selftrump2.jpg"
 description: ""
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 draft: true
 icon: /icons/spsoc.png
 ---

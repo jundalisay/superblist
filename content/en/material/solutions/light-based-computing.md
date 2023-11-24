@@ -4,7 +4,9 @@ title: "Light-based Computing"
 image: /photos/physics/light.jpg
 description: "Sequential Light based Computing is one of the technologies that can be developed from Material Superphysics"
 date: "2020-01-01"
-contributors: ['Juan']
+writer:
+  name: Michael
+  url: https://www.linkedin.com/in/catch2t8/  
 linkTitle: "Light Based Computing"
 icon: "/icons/spmat.png"
 toc: false

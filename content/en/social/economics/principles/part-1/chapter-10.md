@@ -6,7 +6,9 @@ title: "The Worker Class"
 weight: 40
 image: /photos/medieval/slave.jpg
 description: "The Worker Class is called the Shudras in Hinduism"
-author: Dalisay
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

@@ -5,7 +5,9 @@ title: "Socialism and Democracy"
 weight: 42
 image: /photos/team.jpg
 description: "The dominance of the Worker Class usually leads to the Socialist system of economy and the Democratic system of politics"
-author: Juan
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 draft: true
 ---
 

@@ -5,7 +5,9 @@ date: 2021-01-15
 weight: 40
 image: /covers/keynes.jpg
 description: We explain the different notions of interest of Ricardo, Marshall, Pigou, Von Mises, and Keynes
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

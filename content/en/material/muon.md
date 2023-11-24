@@ -3,7 +3,9 @@ title: "How Muons Disprove Einstein's Relativity"
 date: 2023-08-15
 image: /graphics/physics/muon.jpg
 description: "The aether drag has always been in the measurements done by physicists on light"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
 ---
 

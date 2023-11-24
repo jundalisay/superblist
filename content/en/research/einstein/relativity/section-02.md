@@ -6,7 +6,8 @@ weight: 6
 description: "To solve the relativity of our perceptions, we use a quantum as our measuring rod which we add to itself"
 icon: "/icons/einbla.png"
 image: "/covers/rel.jpg"
-author: Albert Einstein
+writer:
+  name: Albert Einstein
 ---
 
 
@@ -23,7 +24,6 @@ Assuming there is Point A and B are on a rigid body. We can draw a line joining 
 
 {{< img alt="Einstein's movement" cap="Einstein's innovation was to chop up a single perception into smaller ones, which eventually became quanta. Superphysics views all movement as being sourced internally and so the the movement is actually a change in location from a change in internal volition from Volition A into Volition B. For non-living identities, we replace 'volition' with 'gravitational signature" src="/graphics/movement.png" >}}
 
-<br>
 
 This is the basis of all measurement of length*.
 
@@ -47,7 +47,7 @@ of the earth by erecting a pole perpendicularly on the Square, so that it reache
 The pole's length measured with the standard measuring-rod, combined with the location of the pole's base, gives us a complete measurement. 
 
 
-{{< img alt="Trafalgar square" cap="Einstein lays the sophistical belief that the source of movement is external and so he has to measure this external movement through tensors. This is opposite of the Superphysics belief that all movement is sourced internally. To get the location of the cloud on Trafalgar square in Superphysics, the observer assumes (knows) the nature of the cloud and that of Trafalgar square. This will let him 'teleport' his cognition to that location as to know the coodinates of that location more or less, from memory or any other perception" src="/graphics/traf.png" >}}
+{{< img alt="Trafalgar square" cap="Einstein lays the sophistical belief that the source of movement is external and so he has to measure this external movement through tensors. This is opposite of the Superphysics belief that all movement is sourced internally. To get the location of the cloud on Trafalgar square in Superphysics, the observer assumes (knows) the nature of the cloud and that of Trafalgar square. This will let him 'teleport' his cognition to that location as to know the coodinates of that location more or less, from memory or any other perception" src="/graphics/physics/traf.png" >}}
 
 
 This gives us a better way to view position:

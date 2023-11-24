@@ -2,7 +2,7 @@
 heading: "Chapter 4"
 title: "Universal Bands and Relativity"
 date: 2022-01-03
-image: /graphics/traf.png
+image: /graphics/physics/traf.png
 description: "We replace Einstein's Relativity with Universal Elastic Relational Bands as a template for all the movements, whether physical or metaphysical"
 writer:
   name: Juan
@@ -113,7 +113,7 @@ The cause of spacetime therefore is the cognition of this appearance of qosts wh
 
 
 
-{{< img src="/graphics/traf.png" cap="To get the position of the cloud over Trafalgar square, Einstein's system uses vectors and tensors. In Superphysics, the same result is obtained by knowing the nature of both the cloud and that of Trafalgar square. In this way, the Pythagorean theorem is not applied to spacetime, but to the differences between the changing natures of the cloud relative to Trafalgar square." alt="Trafalgar Square" >}}
+{{< img src="/graphics/physics/traf.png" cap="To get the position of the cloud over Trafalgar square, Einstein's system uses vectors and tensors. In Superphysics, the same result is obtained by knowing the nature of both the cloud and that of Trafalgar square. In this way, the Pythagorean theorem is not applied to spacetime, but to the differences between the changing natures of the cloud relative to Trafalgar square." alt="Trafalgar Square" >}}
 
 
 ## Replacing Einstein's "Time"

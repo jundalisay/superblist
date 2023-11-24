@@ -5,7 +5,9 @@ date: 2021-07-21
 weight: 14
 image: /photos/objects/king.jpg
 description: "The Self-Regulation espoused by Adam Smith and David Hume requires fellow-feeling"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spss.png
 ---
 

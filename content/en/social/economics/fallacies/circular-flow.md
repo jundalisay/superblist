@@ -4,7 +4,9 @@ heading: "Profits vs Balance"
 date: 2019-10-17
 image: /graphics/econ/circular.png
 description : "The Circular Flow of Economics emphasizes Businesses. That of Superphysics emphasizes balance and the natural price"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 toc: false
 ---

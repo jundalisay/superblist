@@ -4,7 +4,9 @@ linkTitle: Steady-State Economy
 heading: "Clearing Up Adam Smith's 200-year Limit"
 image: /graphics/econ/steady.jpg
 description : "The Steady State Economy is a fallacy that leads to draconian policies"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 
@@ -26,7 +28,7 @@ An economy with constant stocks of people and artifacts, maintained at some desi
 With the absurdity of the first definition, other steady state sites offer alternatives:
 
 {{< q >}}
-<p>'steady state' economy has a roughly constant output of goods and services or a sustainable economy with stabilized population and consumption.</p>
+'steady state' economy has a roughly constant output of goods and services or a sustainable economy with stabilized population and consumption.
 {{< /q >}}
 
 
@@ -46,7 +48,7 @@ Stabilize population | this requires draconian policies
 To justify the limitations to growth, they cite Smith saying that growth is limited to 200 years:
 
 {{< q >}}
-<p>But Smith recognized a limit to economic growth. He predicted that in the long run, population growth would push wages down, natural resources would become increasingly scarce, and division of labor would approach the limits of its effectiveness. He even predicted 200 years as the longest period of growth, followed by population stability.</p>
+But Smith recognized a limit to economic growth. He predicted that in the long run, population growth would push wages down, natural resources would become increasingly scarce, and division of labor would approach the limits of its effectiveness. He even predicted 200 years as the longest period of growth, followed by population stability.
 {{< /q >}}
 
 
@@ -70,9 +72,8 @@ Change the system, balance the classes naturally, then such a situation can be a
 
 Another misinterpretation is the 200-year limit:
 
-{{< q a="Adam-Smith" >}}
-<p>What would it have been had the law given no direct encouragement to agriculture besides what arises indirectly from the progress of commerce, and had left the yeomanry in the same condition as in most other countries of Europe?It is now more than 200 years since the beginning of the reign of Elizabeth,a period as long as the course of human prosperity usually endures.</p> 
-<cite>Book 3, Chapter 4, Paragraph 20</cite>
+{{< q a="Adam-Smith" c="Book 3, Chapter 4, Paragraph 20" >}}
+What would it have been had the law given no direct encouragement to agriculture besides what arises indirectly from the progress of commerce, and had left the yeomanry in the same condition as in most other countries of Europe?It is now more than 200 years since the beginning of the reign of Elizabeth,a period as long as the course of human prosperity usually endures.
 {{< /q >}}
 
 That paragraph was taken from a chapter on how commerce contributes to wealth. Smith merely said that with zero agriculture or land investments (fixed capital), commercial wealth (circulating capital) can only last around 200 years. This observation is true when applied to societies that only use commerce or circulating capital -- mercantile companies. 

@@ -4,7 +4,9 @@ heading: "According to Adam Smith"
 date: 2019-10-17
 image: "/photos/sad.jpg"
 description: "Adam Smith talked about stagnation in Book 1 Chapter 9 of the Wealth of Nations"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

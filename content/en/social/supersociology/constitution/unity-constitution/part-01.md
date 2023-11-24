@@ -3,7 +3,9 @@ title: Articles 1-4
 heading: "Part 1"
 description: "Perpetual Unity is based on feelings."
 image: "/covers/unity.jpg"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 2
 ---
 

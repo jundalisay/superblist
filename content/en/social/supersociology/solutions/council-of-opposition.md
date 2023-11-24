@@ -4,7 +4,9 @@ heading: "David Hume's Court of Competitors or Opposition Bloc"
 date: 2021-09-07
 image: "/photos/objects/regicide.jpg"
 description: "The Council of Opposition is David Hume's solution to prevent tyranny in a democratic government"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spss.png
 ---
 
@@ -28,7 +30,6 @@ It has 2 main jobs:
 
 If the senators do not win by landslide, then the natural opposition within the senate will create regular accusations and there is less need for a Council of Opposition. 
 
-<br>
 
 ### Solving the Audit Problem
 

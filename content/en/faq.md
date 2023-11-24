@@ -4,6 +4,7 @@ description: "FAQs about Superphysics, Socrates-style"
 image: /covers/spblack.jpg
 ---
 
+
 ## Basics 
 
 {{< r a="Asker" >}}

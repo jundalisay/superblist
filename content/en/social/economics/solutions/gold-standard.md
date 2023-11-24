@@ -3,9 +3,10 @@ title: "How to Restore the Gold Standard through Clearing Funds"
 date: 2020-12-14
 image: "/photos/handshake.jpg"
 description : "The Gold Standard can be restored through EF Schumacher's Clearing Funds which are part of Pool Clearing"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
-# youtube: "H0tUf35JB44"
 ---
 
 

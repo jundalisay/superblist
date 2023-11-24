@@ -4,7 +4,9 @@ title: How Qosts Can Make Fusion a Reality
 date: 2020-01-31
 image: /graphics/physics/michelson.png
 description: "Fusion can be realized by artificial gravity just as stars use gravity for their fusion"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
 ---
 

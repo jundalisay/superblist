@@ -5,7 +5,9 @@ weight: 26
 date: 2022-01-07
 image: /covers/econsp.jpg
 description: "This section explains the Governance features"
-author: Dalisay
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 draft: true
 ---
 

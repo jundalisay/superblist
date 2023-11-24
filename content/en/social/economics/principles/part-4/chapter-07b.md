@@ -6,8 +6,9 @@ date: 2021-12-25
 weight: 36
 image: "/photos/medieval/cave.jpg"
 description : "Here are two Scenarios viewed according to the DCTI model"
-youtube: "rVP73TV2X0s"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

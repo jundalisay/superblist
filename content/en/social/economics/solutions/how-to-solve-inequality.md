@@ -4,6 +4,9 @@ heading: "Taxation and Structural Reform to Protect the Lower Class from the Wea
 date: 2018-12-30
 image: /photos/social/poverty.jpg
 description : "We explain Socrates' solution to inequality"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

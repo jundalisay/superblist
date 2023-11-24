@@ -6,7 +6,9 @@ date: 2015-09-09
 weight: 20
 image: /photos/psych/freedom.jpg
 description: Omnitheism is the knowledge of how different types of people view the Creator of Existence. Its goal is to bring harmony to the different religions"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 aliases:
   /superphysics/principles/god

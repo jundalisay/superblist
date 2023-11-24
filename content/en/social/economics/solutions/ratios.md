@@ -4,9 +4,12 @@ title: "The Operational Ratios of the Points-based System"
 date: 2023-04-19
 image: "/photos/buy.jpg"
 description : ""
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: "/icons/pantry.png"
 ---
+
 
 For the past few months, we have been testing the operations of our proposed points-based economic system. 
 

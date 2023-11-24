@@ -5,7 +5,9 @@ date: 2015-07-09
 image: /graphics/econ/profit.jpg
 type: "featured"
 description: "Profit Maximization is Absurd just as Wage Maximization and Tax Maximization are"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 toc: false
 ---
@@ -45,7 +47,7 @@ According to [David of Libertas Bella](https://blog.libertasbella.com/john-stuar
 Once a person has tasted pleasures, he wants them more and more, eventually leading to excess:
 
 {{< q a="Adam-Smith" >}}
-<p>In every civilized society which has the distinction of ranks, there were always two systems of morality: the strict or austere and the liberal or loose system. The austere is generally admired and revered by the common people. The loose is commonly more esteemed and adopted by people of fashion. The vices of levity is apt to arise from great prosperity. It leads to the excess of gaiety and good humour.</p>
+In every civilized society which has the distinction of ranks, there were always two systems of morality: the strict or austere and the liberal or loose system. The austere is generally admired and revered by the common people. The loose is commonly more esteemed and adopted by people of fashion. The vices of levity is apt to arise from great prosperity. It leads to the excess of gaiety and good humour.
 {{< /q >}}
 
 

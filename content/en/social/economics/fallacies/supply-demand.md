@@ -4,11 +4,15 @@ date: 2019-04-07
 image: /graphics/econ/eq.jpg
 description : "We expose the fallacy of the law of supply and demand of Microeconomics by applying Socratic Dialectics"
 heading: "Mankiw is wrong"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 toc: false
 ---
-social/economics/fallacies/inelastic-supply-curve
+
+<!-- social/economics/fallacies/inelastic-supply-curve -->
+
 
 {{< me date="April 2021" >}}
 [The actual supply prices of Covid vaccines](/social/economics/fallacies/inelastic-supply-curve) are consistent with our assertions here that the supply curve cannot be naturally vertical, and is the final proof of the sophistry of the equilibrium theory of Economics
@@ -98,7 +102,7 @@ Even if a terminal cancer patient was sold a life-saving drug in exchange for al
 
  
  
-me date="10/2015"
+<!-- me date="10/2015" -->
 
 Looking back, we can see that Smith did mention in The Wealth of Nations that a commodity can be 'perfectly inelastic' if it matches the following conditions:
 

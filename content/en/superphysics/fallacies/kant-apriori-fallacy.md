@@ -4,7 +4,9 @@ heading: It's a German Thing
 date: 2019-06-10
 image: /covers/kant.jpg
 description: "Kant's A Priori is a Fallacy caused by his arbitrary definition of it"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 toc: true
 ---

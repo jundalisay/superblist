@@ -6,7 +6,9 @@ date: 2022-01-09
 weight: 32
 image: /photos/meta/buddhism.jpg
 description: ""
-author: Dalisay
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 draft: true
 ---
 

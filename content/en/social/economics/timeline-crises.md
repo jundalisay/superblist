@@ -4,13 +4,14 @@ image: "https://sorasystem.sirv.com/graphics/dutch.jpg"
 description : "The widespread use of standardized money led to mercantilism and, later, capitalism"
 date: 2015-04-11
 heading: From 1204-2020
-contributors: ['Juan']
-draft: true
+writer:
+  name: Lam
+  url: https://www.linkedin.com/in/baolamnguyen/
 icon: /icons/pantry.png
 ---
 
-![Dutch Mercantilism](https://sorasystem.sirv.com/graphics/dutch.jpg)
 
+![Dutch Mercantilism](https://sorasystem.sirv.com/graphics/dutch.jpg)
 
 
 Year | Event
@@ -68,106 +69,33 @@ Year | Event
 1980–1994 | Brazilian hyperinflation 
 1982 | Chilean crisis
 1983 | Black Saturday
-
-
-1986–1995</td>
-          <td>Savings and loan crisis</td>
-      </tr>         
-      <tr>
-          <td>1987</td>
-          <td>Black Monday</td>
-      </tr>
-      <tr>
-          <td>1988–1992</td>
-          <td>Norwegian banking crisis</td>
-      </tr>
-      <tr>
-          <td>1990–1992</td>
-          <td>Japanese asset price bubble crash</td>
-      </tr> 
-      <tr>
-          <td>1991</td>
-          <td>Indian economic crisis</td>
-      </tr>     
-      <tr>
-          <td>1991–1992</td>
-          <td>Swedish financial crisis</td>
-      </tr>
-      <tr>
-          <td>1992-1993</td>
-          <td>Finnish banking crisis</td>
-      </tr>      
-      <tr>
-          <td>1992</td>
-          <td>Black Wednesday</td>
-      </tr>                         
-      <tr>
-          <td>1992–1994</td>
-          <td>Yugoslav hyperinflation</td>
-      </tr>         
-      <tr>
-          <td>1992–1994</td>
-          <td>Yugoslav hyperinflation</td>
-      </tr>
-      <tr>
-          <td>1994</td>
-          <td>Bond market crisis</td>
-      </tr>                     
-      <tr>
-          <td>1994</td>
-          <td>Venezuelan banking crisis</td>
-      </tr>                            
-      <tr>
-          <td>1994–1996</td>
-          <td>Mexican peso crisis</td>
-      </tr> 
-      <tr>
-          <td>1997</td>
-          <td>Asian financial crisis</td>
-      </tr>                      
-      <tr>
-          <td>1998</td>
-          <td>1998 Russian financial crisis</td>
-      </tr> 
-      <tr>
-          <td>1998–99</td>
-          <td>Ecuador financial crisis</td>
-      </tr>   
-      <tr>
-          <td>2000–2004</td>
-          <td>Dot-com bubble crash</td>
-      </tr>                       
-      <tr>
-          <td>2001</td>
-          <td>Turkish economic crisis</td>
-      </tr>                                              
-      <tr>
-          <td>2002</td>
-          <td>South American economic crisis</td>
-      </tr>
-      <tr>
-          <td>2002</td>
-          <td>Uruguay banking crisis</td>
-      </tr>
-      <tr>
-          <td>2003</td>
-          <td>Myanmar banking crisis</td>
-      </tr>
-      <tr>
-          <td>2004</td>
-          <td>Argentine energy crisis</td>
-      </tr>   
-      <tr>
-          <td>2007</td>
-          <td>Chinese stock bubble crash</td>
-      </tr>   
-      <tr>
-          <td>2007–</td>
-          <td>Zimbabwean hyperinflation</td>
-      </tr>        
-      <tr>
-          <td>2007–2008</td>
-          <td>Global Financial crisis</td>
+1986–1995 | Savings and loan crisis
+1987 | Black Monday
+1988–1992 | Norwegian banking crisis
+1990–1992 | Japanese asset price bubble crash
+1991 | Indian economic crisis
+1991–1992 | Swedish financial crisis
+1992-1993 | Finnish banking crisis
+1992 | Black Wednesday
+1992–1994 | Yugoslav hyperinflation
+1992–1994 | Yugoslav hyperinflation
+1994 | Bond market crisis
+1994 | Venezuelan banking crisis
+1994–1996 | Mexican peso crisis
+1997 | Asian financial crisis
+1998 | 1998 Russian financial crisis
+1998–99 | Ecuador financial crisis
+2000–2004 | Dot-com bubble crash
+2001 | Turkish economic crisis
+2002 | South American economic crisis
+2002 | Uruguay banking crisis
+2003 | Myanmar banking crisis
+2004 | Argentine energy crisis
+2007 | Chinese stock bubble crash
+_ | Zimbabwean hyperinflation
+2007–2008 | Global Financial crisis
+2022 | FTX collapse
+2023 | Banking Crisis
 
 
 <!-- Souk Al-Manakh stock market crash (1982) -->

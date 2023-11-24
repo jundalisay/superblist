@@ -5,7 +5,9 @@ date: 2020-12-14
 weight: 38
 image: /photos/grains.jpg
 description : "Supereconomics uses 2 measures combined to replace GDP as a measure of a country's wealth: Purchasing Power and the Grain Index"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

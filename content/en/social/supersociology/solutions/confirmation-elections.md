@@ -4,7 +4,9 @@ heading: "An election system based on data science"
 date: 2021-08-18
 image: "/photos/handshake.jpg"
 description: "Confirmation Elections are Adam Smith's solution to votes being split in countries that have no primaries"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spss.png
 toc: false
 ---

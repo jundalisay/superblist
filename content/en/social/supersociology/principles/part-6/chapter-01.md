@@ -5,7 +5,9 @@ image: https://sorasystem.sirv.com/charts/matrix2.png
 # keywords: ["Marxism", "Social Cycles", "David Hume", "Socrates", "Varnas"]
 description: "A social republic unifies left and right wing into a single harmony that alternates in leadership, while balancing personal freedom and state control."
 heading: Clearing up Left Wing and Right Wing
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 ---
 

@@ -4,7 +4,9 @@ heading: "A New Transaction Type"
 date: 2022-01-12
 image: "/photos/social/pantry.jpg"
 description : "Swap Donations are in between Profits and Donations, following the four revenues of rent, wages, profits, and donations"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

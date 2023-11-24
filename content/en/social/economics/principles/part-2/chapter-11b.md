@@ -4,9 +4,10 @@ title: "Neoclassical Economics vs Classical Economics"
 # date: 2020-01-16
 weight: 34
 image: "/covers/keynes.jpg"
-description : "Superphysics is our revival of Classical Economics, backed up by actual data which is visualized through data science and analytics. This data spans 2,500 years, from Xenophon's The Economist up to the latest GDP data"
-youtube: "rVP73TV2X0s"
-contributors: ['Juan']
+description : "Superphysics is our revival of Classical Economics, backed up by actual data which is visualized through data science and analytics"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 toc: false
 ---
@@ -25,7 +26,7 @@ In contrast, Modern Economics only began from the Marginal Revolution of the 187
 Idea | Economics | Superphysics
 --- | --- | ---
 Material Goal | Private Wealth separate from government and morality {{< q a="Say" >}}To me, these two very distinct inquiries have been..separated, the term political economy being now confined to the science..of wealth,<br> and that of politics, ..the relations.. between a government and its people"{{< /q >}} | Wealth of Society integrated with government & morality {{< q a="Adam-Smith" c="The Wealth Of Nations" >}} Political œconomy..proposes to enrich both the peopleand the sovereign."{{< /q >}}
-Moral Basis | Uncertain morality {{< q a="say" >}} progress has..(questioned) whether it is.. impossible that all should start in the world with a fair chance.. The question cannot be fully answered by economic science. For the answer depends.. on the moral and political capabilities of human nature (which) the economist has no.. special.. information"<cite>Alfred Marshall</cite>{{< /q >}} | Fellow-feeling (Theory of Moral Sentiments) {{< q a="Adam-Smith" >}} In every civilized society..there were always two..systems of morality.." <cite>The Wealth Of Nations Book 5</cite>{{< /q >}}
+Moral Basis | Uncertain morality {{< q a="say" >}} progress has..(questioned) whether it is.. impossible that all should start in the world with a fair chance.. The question cannot be fully answered by economic science. For the answer depends.. on the moral and political capabilities of human nature (which) the economist has no.. special.. information"<cite>Alfred Marshall</cite>{{< /q >}} | Fellow-feeling (Theory of Moral Sentiments) {{< q a="Adam-Smith" c="The Wealth Of Nations Book 5" >}} In every civilized society..there were always two..systems of morality.."{{< /q >}}
 Psychological Goal | Pleasure {{< q a="Jevons" >}} to maximise pleasure,is the problem of Economics"<cite>William Stanley Jevons</cite>{{< /q >}} | Peace of Mind {{< q a="Adam-Smith" >}} In what constitutes the real happiness of human life..<br>In ease of body and peace of mind, all the different ranks of life are nearly upon a level" <cite>Theory Of Moral Sentiments</cite>{{< /q >}}
 How To Achieve Goals | Through Competition and Profit Maximization | Through Working Together or the Division of Labour and Stock
 Main Interest | Business Interests (Society Works for Businessmen) | Societal Interests (Business Works for Society)

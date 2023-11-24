@@ -7,7 +7,9 @@ date: 2015-08-20
 weight: 10
 image: /photos/meta/buddhism.jpg
 description : "Economics enshrines Utility as the foundation of value, while Supereconomics emphasizes Dharma or the Tao or one's life purpose."
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

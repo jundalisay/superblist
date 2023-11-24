@@ -7,7 +7,9 @@ weight: 8
 # date: 2022-03-27
 image: /graphics/econ/law1.jpg
 description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

@@ -5,7 +5,9 @@ date: 2019-11-17
 weight: 21
 image: "/photos/tax.jpg"
 description : "Pointtax is a taxation system that is based on points which represent barter-credits pegged to the value of grains such as rice"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

@@ -4,7 +4,9 @@ heading: "The Physical and Aethereal Planes"
 date: 2022-01-02
 image: /covers/descartes.jpg
 description: "The Cartesian View adds the causal aethereal visualization which creates physical movements."
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
 toc: false
 ---

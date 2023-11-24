@@ -6,7 +6,9 @@ date: 2020-08-20
 # date: 2017-04-26
 image: /photos/econ/bake.jpg
 description: "The points-based system is implemented as a points-for-food system that creates wealth by tapping the unemployed."
-author: "Juan"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: "/icons/pantry.png"
 ---
 

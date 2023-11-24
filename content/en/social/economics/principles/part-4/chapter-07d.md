@@ -6,7 +6,9 @@ date: 2021-12-27
 # date: 2022-03-06
 image: /photos/econ/crash.jpg
 description: "The prevalence of profits led to concept of profit maximization taught in universities under the Marginal Revolution of the 1870's"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

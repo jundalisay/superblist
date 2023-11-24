@@ -8,7 +8,9 @@ date: 2022-01-25
 weight: 18
 image: "/photos/buy.jpg"
 description: "Primary and Secondary Arbitrage are incentives to value creation and circulation in Superphysics"
-contributors: ['Juan'] 
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 toc: false
 ---
 

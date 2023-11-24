@@ -1,18 +1,22 @@
 ---
-title: "Only those who share in the group feeling can have a 'house' and nobility"
+title: "Only Those Who Share In The Group Feeling Can Have 'House' and Nobility"
 description: "This nobility is in the basic and real sense. Others will have it only in a metaphorical and figurative sense"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 12"
 weight: 18
-contributors: ['Ibn Khaldun']
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 
 
 This nobility is in the basic and real sense. Others will have it only in a metaphorical and figurative sense.
 
-This is because nobility and prestige are the result of personal qualities. A "house" 67 means that a man counts noble and famous men among his forebears. The fact that he is their progeny and descendant gives him great standing among his fellows, for his fellows respect the great standing and nobility that his ancestors acquired through their (personal) qualities.
+This is because nobility and prestige are the result of personal qualities. A "house" means that a man counts noble and famous men among his forebears. 
+
+The fact that he is their progeny and descendant gives him great standing among his fellows, for his fellows respect the great standing and nobility that his ancestors acquired through their (personal) qualities.
 
 With regard to their growth and propagation, human beings can be compared to minerals. Muhammad said= "Men are minerals. The best ones in pre-Islamic times are also the best ones in Islam, if they are understanding." 68 "Prestige" in its proper meaning refers to (family) descent.
 
@@ -70,7 +74,11 @@ His own descent and birth are of no help as regards the group feeling of (the ma
 
 In the event a number of his ancestors also shared the group feeling of these people, he comes to enjoy among (these other people) a certain nobility and "house," in keeping with his position as their client and follower. However, he does not come to be as noble as they are, but remains inferior to them.
 
-This is the case with clients of dynasties and with all servants. They acquire nobility by being firmly rooted in their client relationship, and by their service to their particular dynasty, and by having a large number of ancestors who had been under the protection of (that dynasty). One knows that the Turkish clients of the 'Abbisids and, before them, the Barmecides, as well as the Bane Nawbakht, thus achieved "house" and nobility and created glory and importance for themselves by being firmly rooted in their relationship to the ('Abbisid) dynasty. Ja'far b. Yahyi b. Khilid had the greatest possible "house" and nobility. This was the result of his position as a client of ar-Rashid and his family. It was not the result of his own (noble) descent among the Persians. The same is the case with clients and servants under any dynasty. 
+This is the case with clients of dynasties and with all servants. They acquire nobility by being firmly rooted in their client relationship, and by their service to their particular dynasty, and by having a large number of ancestors who had been under the protection of that dynasty.
+
+One knows that the Turkish clients of the 'Abbisids and, before them, the Barmecides, as well as the Bane Nawbakht, thus achieved "house" and nobility and created glory and importance for themselves by being firmly rooted in their relationship to the ('Abbisid) dynasty. 
+
+Ja'far b. Yahyi b. Khilid had the greatest possible "house" and nobility. This was the result of his position as a client of ar-Rashid and his family. It was not the result of his own (noble) descent among the Persians. The same is the case with clients and servants under any dynasty. 
 
 They have "house" and prestige by being firmly rooted in their client relationship with a particular dynasty and by being its faithful followers. Their original descent disappears (and means nothing), if it is not that of (the dynasty). It remains under cover and is not considered in connection with their importance and glory. The thing that is considered is their position as clients and followers, because this accords with the secret of group feeling which (alone) produces "house" and nobility.
 

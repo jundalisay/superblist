@@ -5,7 +5,9 @@ weight: 54
 date: 2021-12-12
 image: /covers/marx.jpg
 description: "Karl Marx and Frederick Engels listed the 10 demands of Communism in The Communist Manifesto"
-author: Dalisay
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

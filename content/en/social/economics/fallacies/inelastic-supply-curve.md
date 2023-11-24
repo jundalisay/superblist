@@ -1,10 +1,12 @@
 ---
 title: "The Inelastic Supply Curve Sophistry"
-heading: How Vaccine Prices Expose it
+# heading: How Vaccine Prices Expose it
 date: 2021-01-15
 image: /graphics/econ/eq.jpg
 description: "The prices of vaccines expose the fallacy of the inelastic supply curve of Economics"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 toc: false
 ---

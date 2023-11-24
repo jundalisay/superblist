@@ -4,8 +4,9 @@ heading: "How it is Similar to the 2008 Financial Crisis"
 date: 2020-07-02
 image: "/photos/econ/crash.jpg"
 description: "The 1772 credit crunch was resolved naturally because it did not have profit maximization "
-youtube: "rVP73TV2X0s"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

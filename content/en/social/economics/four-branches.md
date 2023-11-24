@@ -4,10 +4,10 @@ heading: "From the 4 Laws of Value"
 date: 2019-08-02
 image: "/photos/happysuccess.jpg"
 description : "The 4 branches of Superphysics are Personal, Social, Micro, Macro, These based on the 4 laws of value"
-youtube: "rVP73TV2X0s"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
-draft: true
 toc: false
 ---
 
@@ -59,7 +59,7 @@ This explains the maintenance of the economic system. This includes regulations,
 
 This is measured by the Industry factor in the DCTI model. 
 
-<br>
+
 
 ## The Four Classes
 

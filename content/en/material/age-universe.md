@@ -3,7 +3,9 @@ title: "The Age of the Universe"
 date: 2023-01-08
 image: /photos/physics/galaxy.jpg
 description: "The age of the Universe depends on which layer you are in, as the effect of the confinement of the Negative Force"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
 ---
 

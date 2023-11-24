@@ -6,7 +6,9 @@ title: "The Socio-Economy"
 weight: 16
 image: /photos/grains.jpg
 description: "Supereconomics is concerned with the material well-being of society."
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

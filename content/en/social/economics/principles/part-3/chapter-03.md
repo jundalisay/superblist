@@ -7,7 +7,9 @@ date: 2021-12-29
 weight: 22
 image: /photos/buy.jpg
 description: ""
-author: Dalisay
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 toc: false
 ---
 

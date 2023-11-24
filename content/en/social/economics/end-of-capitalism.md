@@ -4,7 +4,9 @@ heading: "Materialistic Systems Have Caused So Many Problems"
 date: 2022-08-01
 image: "/photos/objects/regicide.jpg"
 description: "Here we explain how Points-banking puts an end to commercial (tradeable) equity and, subsequently, Capitalism"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

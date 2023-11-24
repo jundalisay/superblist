@@ -1,12 +1,12 @@
 ---
 title: "The Earth Government"
-
 date: 2020-07-02
 weight: 14
 image: "/photos/objects/gavel.jpg"
 description: "The 1772 credit crunch was resolved naturally because it did not have profit maximization "
-youtube: "rVP73TV2X0s"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

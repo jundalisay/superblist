@@ -5,7 +5,9 @@ linkTitle: Chapter 1
 # date: 2015-09-09
 image: "/photos/social/pageant.jpg"
 description: "The Collective Wave of Human Desire explains how cycles maninfest in Economics"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 6
 toc: false
 ---

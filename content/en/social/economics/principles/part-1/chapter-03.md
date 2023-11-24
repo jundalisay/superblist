@@ -7,9 +7,10 @@ date: 2020-04-07
 weight: 16
 image: /photos/social/family.jpg
 description: "The Consumption Motive is the opposite of the Production Motive advocated by Capitalism and Mercantilism"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
-
 
 
 ## The Consumer is King
@@ -37,9 +38,8 @@ This propensity is rooted in ego and is seen in the animal nature of survival of
 
 It's common to hear that investment bankers (the ones that fund production) being called wolves, as in 'The Wolf of Wall Street'. Smith very clearly explains that such a Production Motive is a mercantile sophistry:
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam-Smith" c="The Wealth Of Nations Book 4, Chapter 3" >}}
 By such maxims as these, nations have been taught that their interest consisted in beggaring all their neighbours. Each nation has been made to look with an invidious eye upon the prosperity of all the nations with which it trades, and to consider their gain as its own loss. Commerce, which ought naturally to be, among nations,as among individuals,a bond of union and friendship, has become the most fertile source of discord and animosity.. But the mean rapacity, the monopolizing spirit of merchants and manufacturers,who neither are, nor ought to be, the rulers of mankind, though it cannot perhaps be corrected may very easily be prevented from disturbing the tranquillity of anybody but themselves.
-<cite>The Wealth Of Nations Book 4, Chapter 3</cite>
 {{< /q >}}
 
 

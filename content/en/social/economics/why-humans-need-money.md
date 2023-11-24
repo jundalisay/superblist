@@ -4,8 +4,9 @@ heading: Due to the lack of fellow-feeling
 date: 2015-01-01
 image: /photos/objects/money.jpg
 description : Humans need money because of naturally limited cognition of the human mind
-youtube: "rVP73TV2X0s"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 --- 
 

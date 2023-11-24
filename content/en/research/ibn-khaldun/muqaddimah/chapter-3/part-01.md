@@ -5,6 +5,9 @@ image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 1"
 weight: 8
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 
@@ -167,4 +170,3 @@ At-Turtushi thus saw only the kind of ruler who had independent royal authority 
 Therefore, his (royal authority) was not contested, and he could rely for maintenance of his power upon a soldiery with fixed pay. 
 
 At-Turtushi did not realize how a dynasty originally comes to power, nor that only those who share in a group feeling are able to accomplish the formation of a dynasty.
-

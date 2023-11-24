@@ -5,6 +5,9 @@ image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Parts 5-6"
 weight: 14
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 
@@ -169,9 +172,11 @@ They pretended to be, either he himself, or one of his missionaries, despite the
 
 They believe that such claims will be instrumental in bringing to them the fulfillment of their hopes. They do not consider the disaster that will overtake them in consequence. The trouble they create will speedily cause their death and bring their trickery to a bitter end.
 
-At the beginning of this century, a man of Sufi leanings, by name at-Tuwayziri, appeared in as-Sus. He went to the Mosque of Massah 34 on the shore of the Mediterranean and pretended to be the Expected Fatimid. 
+At the beginning of this century, a man of Sufi leanings, by name at-Tuwayziri, appeared in as-Sus. He went to the Mosque of Massah  on the shore of the Mediterranean and pretended to be the Expected Fatimid. 
 
-He was taking advantage of the common people's firm belief in predictions to the effect that the Fatimid was about to appear and that his mission would originate at that Mosque. A number of ordinary Berber groups were attracted to him like moths (to the flame). 35Their chiefs then feared that the revolt might spread. 
+He was taking advantage of the common people's firm belief in predictions to the effect that the Fatimid was about to appear and that his mission would originate at that Mosque. A number of ordinary Berber groups were attracted to him like moths (to the flame). 
+
+Their chiefs then feared that the revolt might spread. 
 
 The leader of the Masmudah at that time, 'Umar asSaksiwi, secretly sent someone to him, who killed him in his bed.
 

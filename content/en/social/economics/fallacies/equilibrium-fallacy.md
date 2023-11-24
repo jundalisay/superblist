@@ -8,7 +8,9 @@ date: 2022-01-06
 type: "featured"
 image: "/photos/grains.jpg"
 heading: "How Economics Leads to Crises"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
 

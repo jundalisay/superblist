@@ -6,8 +6,9 @@ date: 2015-08-15
 weight: 6
 image: "/photos/objects/egypt.jpg"
 description: "A society is abtract, Nation refers to physical birth or race, State refers to a formalized society"
-youtube: "J6F2_PF2wbo"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spsoc.png
 ---
 

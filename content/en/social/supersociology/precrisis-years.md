@@ -4,7 +4,9 @@ heading: "How We Predict a Crisis Starting in 2019"
 description: "Our models predict a Great Stagflation beginning in 2020, to be sparked in 2019"
 date: 2016-01-01
 image: "/photos/econ/crash.jpg"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 linkTitle: Precrisis Years
 ---
 

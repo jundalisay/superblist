@@ -1,10 +1,14 @@
 ---
 title: "A Royal Family Can Found A Dynasty That Can Dispense With Group Feeling"
-description: "The group feeling in which a member of a royal family shares may have much power over nations and races, and the inhabitants of remote regions who support his power may be obedient (to that family) and submissive"
+description: "The group feeling in which a member of a royal family shares may have much power over nations and races"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 3"
 weight: 12
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
+# , and the inhabitants of remote regions who support his power may be obedient (to that family) and submissive
 ---
 
 
