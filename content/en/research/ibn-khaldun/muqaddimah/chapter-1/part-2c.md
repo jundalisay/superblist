@@ -1,12 +1,14 @@
 ---
 title: "The Seven Zones"
-description: "The ancient philosophers divided the cultivated part of the earth in the north into seven zones by means of imaginary lines running from west to east"
+description: "The ancient philosophers divided the cultivated part of the earth in the north into 7 zones by east-west lines"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 2c"
 weight: 8
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
-
 
 
 

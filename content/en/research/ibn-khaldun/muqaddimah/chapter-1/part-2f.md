@@ -1,10 +1,13 @@
 ---
 title: "Zone 3"
-description: "Opposite its western limit in the Surrounding Sea are two of Canary Islands. At the southernmost part of the first and second sections of the second zone, there is the land of Qamnuriyah"
+description: "Opposite its western limit in the Surrounding Sea are two of Canary Islands"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 2f"
 weight: 14
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 

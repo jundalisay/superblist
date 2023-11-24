@@ -1,10 +1,14 @@
 ---
-title: "Differences in food supply in the inhabited regions"
-description: "In some parts, the inhabitants enjoy an abundance of grain, seasonings, wheat, and fruits, because the soil is well balanced and good for plants and there is an abundant civilization"
+# title: "Differences in food supply in the inhabited regions"
+title: "The Benefits of a Low Calorie Diet"
+description: "In some parts, the inhabitants enjoy an abundance of grain, seasonings, wheat, and fruits, because the soil is well balanced"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 5"
 weight: 28
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 
@@ -15,50 +19,71 @@ Not all the temperate zones:
 - are abundant with food, nor
 - have inhabitants with a comfortable life
 
-In some parts, the inhabitants enjoy an abundance of grain, seasonings, wheat, and fruits, because the soil is well balanced and good for plants and there is an abundant civilization. 
+In some parts, the people enjoy an abundance of grain, seasonings, wheat, and fruits, because the soil is well balanced and good for plants and there is an abundant civilization.
 
-In other parts, the land is strewn with rocks, and no seeds or herbs grow at all. There, the inhabitants have a very hard time. Instances of such people are the inhabitants of the Hijaz and the Yemen, or the Veiled Sinhajah who
-live in the desert of the Maghrib on the fringes of the sandy deserts which lie between the Berbers and the Sudanese Negroes. All of them lack all grain and seasonings. 
+In other parts, the land is strewn with rocks, and no seeds or herbs grow at all. There, the people have a very hard time.
 
-Their nourishment and food is milk and meat. Another such people is the Arabs who roam the waste regions. They may get grain and seasonings from the hills, but this is the case only at certain times and is possible only under the eyes of the militia which protects (the hill country). Whatever they get is little, because they have little money. 
+Examples are those of the Hijaz and Yemen, or the Veiled Sinhajah who live in the desert of the Maghrib on the fringes of the sandy deserts between the Berbers and the Sudanese Negroes. 
 
-They obtain no more than the bare necessity, and sometimes less, and in no case enough for a comfortable or abundant life. They are mostly found restricted to milk, which is for them a very good substitute for wheat. In spite of
-this, the desert people who lack grain and season body and better in character than the hill people who have plenty of everything.
+All of them lack all grain and seasonings. 
+
+Their nourishment and food is milk and meat. Another such people is the Arabs who roam the waste regions. They may get grain and seasonings from the hills, but this is the case only at certain times and is possible only under the eyes of the militia which protects the hill country. 
+
+Whatever they get is little, because they have little money. 
+
+They obtain no more than the bare necessity, and sometimes less.
+
+<!-- , and in no case enough for a comfortable or abundant life.  -->
+
+They are mostly found restricted to milk, which is for them a very good substitute for wheat. Despite this, the desert people who lack grain and season body and better in character than the hill people who have plenty of everything.
 
 Their complexions are clearer, their bodies cleaner, their figures more perfect and better, their characters less intemperate, and their minds keener as far as knowledge and perception are concerned. 
 
 This is attested by experience in all these groups.
 
-There is a great difference in this respect between the Arabs and Berbers (on the one hand), and the Veiled (Berbers) 234 and the inhabitants of the hills (on the other). This fact is known to those who have investigated the matter.
+There is a great difference in this respect between:
+- the Arabs and Berbers and
+- the Veiled Berbers and the people of the hills
 
-As to the reason for it, it may be tentatively suggested that a great amount of food and the moisture it contains generate pernicious superfluous matters in the body, which, in turn, produce a disproportionate widening of the body, as well as many corrupt, putrid humors. The result is a pale complexion and an ugly figure, because the person has too much flesh, as we have stated. When the moisture with its evil vapors ascends to the brain, the mind and the ability to think are dulled. 
+This is because a lot of food and the moisture it contains generate pernicious superfluous matters in the body. These produce:
+- a disproportionate widening of the body
+- many corrupt, putrid humors.
 
-The result is stupidity, carelessness, and a general intemperance. This can be exemplified by comparing the animals of waste regions and barren habitats, such as gazelles, wild cows (maha), ostriches, giraffes, onagers, and (wild) buffaloes (cows, bagar), with their counterparts among the animals that live in hills, coastal plains, and fertile pastures. There is a big difference between them with regard to the glossiness of their coat, their shape and appearance, the proportions of their limbs, and their sharpness of perception. 235 
+The result is a pale complexion and an ugly figure, because the person has too much flesh. 
 
-The gazelle is the counterpart of the goat, and the giraffe that of the camel; the onagers and (wild) buffaloes (cows) are identical with (domestic) donkeys and oxen (and cows). Still, there is a wide difference between them. 
+**When the moisture with its evil vapors ascends to the brain, the mind and the ability to think are dulled.** 
 
-The only reason for it is the fact that the abundance of food in the hills produces pernicious superfluous matters and corrupt humors in the bodies of the domestic animals, the influence of which shows on them. Hunger, on the otherhand, may greatly improve the physique and shape of the animals of the waste regions.
+The result is stupidity, carelessness, and a general intemperance. This is seen by comparing the animals of waste and barren regions, such as gazelles, wild cows (maha), ostriches, giraffes, onagers, and wild buffaloes (cows, bagar), with their counterparts which live in hills, coastal plains, and fertile pastures. 
 
-The same applies to human beings. The inhabitants of fertile zones <!-- where the products of agriculture and animal husbandry as well as seasonings and fruits are plentiful, are, as a rule, --> are described as stupid in mind and
-coarse in body. This is the case with those Berbers who have plenty of seasonings and wheat, as compared with those who lead a frugal life and are restricted to barley or durra, such as the Masmudah Berbers and the inhabitants of as-Sus and the Ghumarah. The latter are superior both intellectually and physically. 
+There is a big difference between them with regard to:
+- the glossiness of their coat
+- their shape and appearance
+- the proportions of their limbs
+- their sharpness of perception.
+
+The gazelle is the counterpart of the goat. The giraffe that of the camel, The onagers and (wild) buffaloes (cows) are identical with (domestic) donkeys and oxen (and cows). There is a wide difference between them. 
+
+The abundance of food in the hills produces pernicious superfluous matters and corrupt humors in the bodies of the domestic animals.
+
+Hunger, on the other hand, may greatly improve the physique and shape of the animals of the waste regions.
+
+The same applies to human beings. The inhabitants of fertile zones <!-- where the products of agriculture and animal husbandry as well as seasonings and fruits are plentiful, are, as a rule, --> are described as stupid in mind and coarse in body.
+
+This is the case with those Berbers who have plenty of seasonings and wheat, as compared with those who lead a frugal life and are restricted to barley or durra, such as the Masmudah Berbers and the inhabitants of as-Sus and the Ghumarah. The latter are superior both intellectually and physically. 
 
 The same applies in general to the inhabitants of the Maghrib who have plenty of seasonings and fine wheat, as compared with the inhabitants of Spain in whose country butter is altogether lacking and whose principal food is durra. The Spaniards are found to have a sharpness of intellect, a nimbleness of body, and a receptivity for instruction such as no one else has. 
 
-The same also applies to the inhabitants of rural regions of the Maghrib as compared with the inhabitants of settled areas and cities. Both use many seasonings and live in abundance, but the town dwellers only use them after
-they have been prepared and cooked and softened by admixtures. 
+The same also applies to the inhabitants of rural regions of the Maghrib as compared with the inhabitants of settled areas and cities. Both use many seasonings and live in abundance, but the town dwellers only use them after they have been prepared and cooked and softened by admixtures. 
 
-They thus lose their heaviness and become less substantial. Principal foods are the meat of sheep
-and chickens. They do not use butter because of its tastelessness. Therefore the
-moisture in their food is small, and it brings only a few pernicious superfluous
-matters into their bodies. Consequently, the bodies of the urban population are found
-to be more delicate than those of the inhabitants of the desert who live a hard life.
-Likewise, those inhabitants of the desert who are used to hunger are found to have
-in their bodies no superfluous matters, thick or thin.
+They thus lose their heaviness and become less substantial. Principal foods are the meat of sheep and chickens. They do not use butter because of its tastelessness. 
+
+Therefore the moisture in their food is small, and it brings only a few pernicious superfluous matters into their bodies. Consequently, the bodies of the urban population are found to be more delicate than those of the inhabitants of the desert who live a hard life. 
+
+Likewise, those inhabitants of the desert who are used to hunger are found to have in their bodies no superfluous matters, thick or thin.
 
 The influence of abundance upon the body is apparent even in matters of religion and divine worship. The frugal inhabitants of the desert and those of settled areas who have accustomed themselves to hunger and to abstinence from pleasures are found to be more religious and more ready for divine worship than people who live in luxury and abundance. 
 
-There are few religious people in towns and cities, in as much as people there are for the most part obdurate and careless, which is connected with the use of much meat, seasonings, and fine wheat. The existence of pious men and
-ascetics is, therefore, restricted to the desert, whose inhabitants eat frugally.
+There are few religious people in towns and cities, in as much as people there are for the most part obdurate and careless, which is connected with the use of much meat, seasonings, and fine wheat. The existence of pious men and ascetics is, therefore, restricted to the desert, whose inhabitants eat frugally.
 
 Likewise, the condition of the inhabitants within a single city can be observed to differ according to the different distribution of luxury and abundance.
 
@@ -99,26 +124,24 @@ suddenly to return to his original diet, he might die.
 
 Therefore, he must end the training as he started it, that is, gradually.
 
-We personally saw a person who had taken no food for forty or more consecutive days. Our shaykhs were present at the court of Sultan Abul-Hasan 237
+We saw a person who had not eaten for more than 40 consecutive days. Our shaykhs were present at the court of Sultan Abul-Hasan when 2 women from Algeciras and Ronda were presented to him, They had abstained from all food for years. 
 
-when two women from Algeciras and Ronda were presented to him, who had for
-years abstained from all food. Their story became known. They were examined, and
-the matter was found to be correct. The women continued this way until they died.
-Many persons we used to know restricted themselves to (a diet of) goat's milk. They
-drank from the udder sometime during the day or at breakfast. 237a This was their
-only food for fifteen years. There are many others (who live similarly). It should not
-be considered unlikely.
+<!-- Their story became known. They were examined, and
+the matter was found to be correct.  -->
 
-It should be known that everybody who is able to suffer hunger or eat only
-little, is physically better off if he stays hungry than if he eats too much. Hunger has
-a favorable influence on the health and well-being of body and intellect, as we have
-stated. This may be exemplified by the different influence of various kinds of food
-upon the body. We observe that those persons who live on the meat of strong, large-
-bodied animals grow up as a (strong and large-bodied) race. Comparison of the
-inhabitants of the desert with those of settled areas shows this. The same applies to
-persons who live on the milk and meat of camels. This influences their character, so
-that they become patient, persevering, and able to carry loads, as is the case with
-camels. 238 
+The women continued this way until they died.
+
+Many persons we used to know restricted themselves to (a diet of) goat's milk. They drank from the udder sometime during the day or at breakfast. 
+
+This was their only food for fifteen years. There are many others who live similarly. It should not be considered unlikely.
+
+**Everybody who is able to suffer hunger or eat only little, is physically better off if he stays hungry than if he eats too much.** 
+
+Hunger has a favorable influence on the health and well-being of body and intellect.
+
+This may be exemplified by the different influence of various kinds of food upon the body. We observe that those persons who live on the meat of strong, large-bodied animals grow up as a (strong and large-bodied) race. 
+
+Comparison of the inhabitants of the desert with those of settled areas shows this. The same applies to persons who live on the milk and meat of camels. This influences their character, so that they become patient, persevering, and able to carry loads, as is the case with camels.
 
 Their stomachs also grow to be healthy and tough as the stomachs ofcamels. They are not beset by any feebleness or weakness, nor are they affected by unwholesome food, as others are. They may take strong (alkaloid) cathartics unadulterated to purify their bellies, such as, for instance, unripe colocynths, Thapsia garganica, and Euphorbia. Their stomachs do not suffer any harm from them. 
 

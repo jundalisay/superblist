@@ -1,10 +1,13 @@
 ---
 title: "Zone 1: Egypt, Yemen, Sri Lanka, Korea"
-description: "The ancient philosophers divided the cultivated part of the earth in the north into seven zones by means of imaginary lines running from west to east"
+description: "The first zone contains only a part of China to the east and the whole of the Yemen"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 2d"
 weight: 10
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 
@@ -70,7 +73,7 @@ This is a mountain which rises to a great height on the Egyptian side but is muc
 
 Cargoes from the Sudanese boats are taken off and carried on pack animals to Assuan at the entrance to Upper Egypt. In the same way, the cargoes of the boats from Upper Egypt are carried over the cataracts. The distance from the cataracts to Assuan is a twelve day's journey. 
 
-The oases on the west bank of the Nile there are now in ruins. They show traces of ancientsettlement.
+The oases on the west bank of the Nile there are now in ruins. They show traces of ancient settlement.
 
 In the middle of the first zone, in its fifth section, is the country of the Abyssinians, through which a river flows, which comes from beyond the equator and 8 5 flows toward the land of the Nubah, where it flows into the Nile and so on down into Egypt. 
 

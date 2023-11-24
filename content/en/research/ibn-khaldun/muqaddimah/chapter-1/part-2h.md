@@ -1,10 +1,13 @@
 ---
 title: "Zone 5"
-description: "Most of the first section of the fifth zone is covered by water, except a small portion of the south and of the east. In this western region, the Surrounding Sea enters into the fifth, sixth, and seventh zones from the circle it describes around the zones"
+description: "Most of the first section of the fifth zone is covered by water, except a small portion of the south and of the east"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 2h"
 weight: 18
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 
@@ -89,22 +92,32 @@ the land of the Khazars reaching the northeast corner of this section, between t
 
 ### Section 7
 
-This is entirely covered in the west by the Caspian Sea, a portion of which protrudes into the fourth zone to the south. On (the shores of) this portion are situated, as we have mentioned in connection with the (fourth zone), the country of Tabaristin and the mountains of the Daylam up to Qazwin. 
+This is entirely covered in the west by the Caspian Sea, a portion of which protrudes into Zone 4 to the south.
 
-In the west of this portion and connecting with it, there is the small portion that lies in the sixth section of the fourth zone. Connecting with it in the north is the portion that lies in the eastern part of the sixth section above. A part of the northwest corner of this section, where the Volga flows into it, is not covered by the Caspian Sea. In the eastern region of this section there (also) remains a part which is not covered by the Caspian Sea. It consists of desert plains in which the Ghuzz, a Turk nation, roam. They are also called the Khtiz. (Ghuzz) looks like an Arabization, with kh becoming gh, and doubling of the z.184 
+On the shores of this portion are the country of Tabaristin and the mountains of the Daylam up to Qazwin. 
 
-This part is surrounded by a mountain range to the south that enters the eighth section, runs not quite halfway
-through the western part, turns north, eventually touches the Caspian Sea, hugs it closely
-all the way through its remaining portion in the sixth zone, then turns at its end, and
-separates from it. 
+In the west is the small portion that lies in Section 6 of Zone 4. 
 
-There, it is called Mount Shiyah. 185 It runs westward to the sixth section of the sixth zone, then turns back south to the sixth section of the fifth zone. It is this end of the mountain (range) that lies in this section between the land of the Sarir and the land of the Khazars. The land of the Khazars extends along the slopes of the mountain calledMount Shiyah in the sixth and seventh sections, as will be mentioned.
+Connecting with it in the north is the portion that lies in the eastern part of the Section 6 above.
+
+A part of the northwest corner of this section, where the Volga flows into it, is not covered by the Caspian Sea. In the eastern region of this section there (also) remains a part which is not covered by the Caspian Sea. It consists of desert plains in which the Ghuzz, a Turk nation, roam. They are also called the Khtiz. (Ghuzz) looks like an Arabization, with kh becoming gh, and doubling of the z.184 
+
+This part is surrounded by a mountain range to the south that enters the eighth section, runs not quite halfway through the western part, turns north, eventually touches the Caspian Sea, hugs it closely all the way through its remaining portion in the sixth zone, then turns at its end, and separates from it. 
+
+There, it is called Mount Shiyah. It runs westward to Section 6 of Zone 6, then turns back south to Section 6 of Zone 5. 
+
+It is this end of the mountain (range) that lies in this section between the land of the Sarir and the land of the Khazars. The land of the Khazars extends along the slopes of the mountain calledMount Shiyah in the sixth and seventh sections, as will be mentioned.
+
 
 ### Section 8
 
-This contains desert plains where the Ghuzz, a Turkish nation, roam. In the southwest is Lake Aral, into which the Oxus flows. Its circumference is three hundred miles. Many rivers flow into it from these desert plains. In the northeast is the Lake of Ghurghun, 186 a fresh-water lake. Its circumference is 400 miles. 
+This contains desert plains where the Ghuzz, a Turkish nation, roam.
 
-In the northern region of this section stands Mount Murghar, 187 which means "Snow Mountain," because the snow on it never melts. It lies at the far end of the section. South of the Lake of Ghurghun there is a mountain of solid stone where nothing grows. It is called Ghurghun Mountain. The lake is named after it. In the Ghurghun and Murghar Mountains north of the lake, innumerable rivers have their origin. They flow into the lake from both sides.
+In the southwest is Lake Aral, into which the Oxus flows. Its circumference is 300 miles. Many rivers flow into it from these desert plains. In the northeast is the Lake of Ghurghun, a fresh-water lake. Its circumference is 400 miles. 
+
+In the northern region of this section stands Mount Murghar, which means "Snow Mountain," because the snow on it never melts. It lies at the far end of the section. South of the Lake of Ghurghun there is a mountain of solid stone where nothing grows. It is called Ghurghun Mountain. The lake is named after it. 
+
+In the Ghurghun and Murghar Mountains north of the lake, innumerable rivers have their origin. They flow into the lake from both sides.
 
 
 ### Section 9

@@ -1,19 +1,29 @@
 ---
-title: "Prophecy"
-description: "This world with all the created things in it has a certain order and solid construction. It shows nexuses between causes and things caused, combinations of some parts of creation with others"
+title: "The 5 Elements"
+description: "Each one of the elements is prepared to be transformed into the next higher or lower one, and sometimes is transformed"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 6b"
 weight: 32
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 
 
-## Prophecy 
+<!-- ## Prophecy  -->
 
-This world with all the created things in it has a certain order and solid construction. It shows nexuses between causes and things caused, combinations of some parts of creation with others, and transformations of some existent things into others, in a pattern that is both remarkable and endless. 
+This world has a certain order and solid construction. It shows nexuses between:
+- causes and effect
+- combinations of some parts of creation with others
+- transformations of some existent things into others
 
-Beginning with the world of the body and sensual perception, and therein first with the world of the visible elements, (one notices) how these elements are arranged gradually and continually in an ascending order, from earth to water, (from water) to air, and (from air) to fire. Each one of the elements is prepared to be transformed into the next higher or lower one, and sometimes is transformed. 
+These patterns are remarkable and endless. 
+
+Beginning with the world of the body and sensual perception, and therein first with the world of the visible elements, one notices how these elements are arranged gradually and continually in an ascending order, from earth to water, from water to air, and from air to fire. 
+
+Each one of the elements is prepared to be transformed into the next higher or lower one, and sometimes is transformed. 
 
 The higher one is always finer than the one preceding it. Eventually, the world of the spheres is reached. They are finer than anything else. They are in layers which are interconnected, in a shape which the senses are able to perceive only through the existence of motions. 
 
@@ -32,12 +42,13 @@ The animal world then widens, its species become numerous, and, in a gradual pro
 The higher stage of man is reached from the world of the monkeys, in which both sagacity and perception are found, but which has not reached the stage of actual reflection and thinking. At this point we come to the first stage of man after
 (the world of monkeys). 
 
-This is as far as our (physical) observation extends. Now, in 270 the various worlds we find manifold influences. In the world of
-sensual perception there are certain influences of the motions of the spheres and the
-elements. In the world of creation there are certain influences of the motions of
-growth and perception. All this is evidence of the fact that there is something that
-exercises an influence and is different from the bodi(ly substances). This is
-something spiritual. 
+This is as far as our physical observation extends. The various worlds have manifold influences.
+
+In the world of sensual perception, there are certain influences of the motions of the spheres and the elements.
+
+In the world of creation there are certain influences of the motions of growth and perception. 
+
+All this is evidence of the fact that there is something that exercises an influence and is different from the bodi(ly substances). This is something spiritual. 
 
 It is connected with the created things, because the various worlds must be connected in their existence. This spiritual thing is the soul, which has perception and causes motion. Above the soul there must exist something else
 that gives the soul the power of perception and motion, and that is also connected with it. 
@@ -92,7 +103,7 @@ In this manner, people acquire perceptive and apperceptive 275 knowledge, which 
 Also, if they are corrupt, everything beyond them is also corrupt. 276 This, as a rule, is the  extent of human corporeal perception. It is the goal of the perceptions of scholars. It is in it that scholars are firmly grounded.
 
 A (second) kind (of soul), through thinking, moves in the direction of spiritual intellection and (a type of) perception that does not need the organs of the body, because of its innate preparedness for it. The perceptions of this kind of soul
-extend beyond the primary (intelligibilia) to which primary human perception is restricted, and cover the ground of inward observations, which are all intuitive 2 77 
+extend beyond the primary (intelligibilia) to which primary human perception is restricted, and cover the ground of inward observations, which are all intuitive.
 
 They are unlimited as to their beginning and their end. They are the perceptions of saints, of men of mystical learning and divine knowledge. The blessed obtain them after death, in Purgatory (barzakh). 278
 
@@ -105,10 +116,10 @@ He did this by means of 'ismah (immunity from sin and error, infallibility) and 
 
 (The prophets) move in that direction, slough off their humanity, and, once among the highest group (of angels), learn all that may there be learned. They then bring what they have learned back down to the level of the powers of human perception, as this is the way in which it can be transmitted to human beings. 
 
-At times, this may happen in the form of a noise the prophet hears. It is like indistinct words from which he derives the idea conveyed to him. As soon as the noise has stopped, he retains and understands (the idea). At other times, the angel who conveys (the message) to the prophet appears to him in the form of a man who talks to him, and the prophet comprehends what he says. Learning the message from the angel, reverting to the level of human perception, and understanding the message conveyed to him - all this appears to take place in one moment, or rather, in a flash. 
+At times, this may happen in the form of a noise the prophet hears. 
+
+It is like indistinct words from which he derives the idea conveyed to him. As soon as the noise has stopped, he retains and understands (the idea). 
+
+At other times, the angel who conveys (the message) to the prophet appears to him in the form of a man who talks to him, and the prophet comprehends what he says. Learning the message from the angel, reverting to the level of human perception, and understanding the message conveyed to him - all this appears to take place in one moment, or rather, in a flash. 
 
 It does not take place in time, but everything happens simultaneously. Therefore, it appears to happen very quickly. For this reason, it is called wahy ("revelation"), because the root why has the meaning "to hasten." 280
-
-
-
-

@@ -1,10 +1,13 @@
 ---
 title: "Prophect versus Soothsaying"
-description: "The highest rank of soothsaying is the state in which rhymed prose is used, because the support derived from rhymed prose is lighter than any other support"
+description: "The highest rank of soothsaying is the state in which rhymed prose is used"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 6d"
 weight: 36
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 
@@ -30,10 +33,9 @@ This happens at each occurrence of prophecy.
 
 2. That the existence of prophecy needs a particular constellation that makes it necessary
 
-The perfection of that constellation coincides with the perfection of the particular prophecy to which the constellation has reference. As long as the constellation is imperfect, it requires the existence of some imperfect related element. This is the
-meaning of "soothsayer". 
+The perfection of that constellation coincides with the perfection of the particular prophecy to which the constellation has reference. As long as the constellation is imperfect, it requires the existence of some imperfect related element. This is the meaning of "soothsayer". 
 
-The perfect state of the constellation is preceded by an imperfect one, which requires the existence of one or more soothsayers. When the constellation reaches perfection, the prophet's existence reaches perfection. The constellations that point to the existence of a(n inferior) element such as soothsaying have passed by, and soothsaying ceases to exist. 297
+The perfect state of the constellation is preceded by an imperfect one, which requires the existence of one or more soothsayers. When the constellation reaches perfection, the prophet's existence reaches perfection. The constellations that point to the existence of a(n inferior) element such as soothsaying have passed by, and soothsaying ceases to exist.
 
 This theory is based upon the assumption that any part of a constellation must exercise part of the influence that the constellation (in its perfect state) would exercise. This assumption is not fully acceptable.
 

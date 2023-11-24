@@ -5,7 +5,11 @@ image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 1"
 weight: 2
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
+
 
 <!-- FIRST PREFATORY DISCUSSION -->
 

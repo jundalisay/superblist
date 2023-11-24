@@ -1,10 +1,13 @@
 ---
 title: "Prophecy"
-description: "This world with all the created things in it has a certain order and solid construction. It shows nexuses between causes and things caused, combinations of some parts of creation with others"
+description: "This world with all the created things in it has a certain order and solid construction."
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 6c"
 weight: 34
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 
@@ -49,11 +52,11 @@ Before this, when he was in Mecca, part of one of the shortest surahs in the lat
 Before this, in Mecca, the verses revealed were short, like those of the surahs ar-Rahman, adh-Dhariyat, al-Muddaththir, ad-Duha, and al-`Alaq,289 and similar surahs. This may serve as criterion for distinguishing the Meccan surahs and verses from the Medinese.
 
 
-God leads to that which is correct. This is the quintessence of prophecy. Soothsaying (kahanah) is also one of the particular qualities of the human soul. This is as follows.
+God leads to that which is correct. This is the quintessence of prophecy. Soothsaying (kahanah) is also one of the particular qualities of the human soul.
 
-The human soul is prepared to exchange its humanity for the spirituality that lies above (humanity).
+The human soul is prepared to exchange its humanity for the spirituality that lies above humanity.
 
-Human beings have an intimation of that (exchange) in prophets who are by nature fitted to achieve it. It has been established that they neither need acquired qualities for that (exchange), nor are they dependent on any help from perceptions, notions (tasawwur), bodily activities, be they speech or motion, or anything else. 
+Human beings have an intimation of that exchange in prophets who are by nature fitted to achieve it. It has been established that they neither need acquired qualities for that (exchange), nor are they dependent on any help from perceptions, notions (tasawwur), bodily activities, be they speech or motion, or anything else.
 
 It is (with them) a natural change from humanity to angelicality in the flash of a moment.
 

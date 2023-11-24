@@ -1,10 +1,13 @@
 ---
 title: "The Earth"
-description: "Philosophers speculated about the condition of the world in the books. They say that the earth is a sphere enveloped by water, like a grape floating on water"
+description: "Philosophers speculated that the earth is a sphere enveloped by water, like a grape floating on water"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 2a"
 weight: 4
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 
@@ -122,26 +125,21 @@ The largest rivers are:
 
 The Nile begins at a large mountain, 16 degrees beyond the equator at the boundary of the fourth section of the first zone. This mountain is called the Mountain of the Qumr. 35 No higher mountain is known on earth. Many springs issue from the mountain, some of them flowing into one lake there, and some of them into another lake.
 
-From these two lakes, several rivers branch off, and all of them flow into a lake at the
-equator which is at the distance of a ten days' journey from the mountain. From that lake,
-two rivers issue. One of them flows due north, passing through the country of the Nubah
-and then through Egypt. Having traversed Egypt, it divides into many branches lying close
-to each other. Each of these is called a "channel." All flow into the Mediterranean at
-Alexandria. This river is called the Egyptian Nile. It is bordered by Upper Egypt on theeast, and by the oases on the west. The other river turns westward, flowing due west until
-it flows into the Surrounding Sea. This river is the Sudanese Nile. 36 All the Negro nations
-live along its borders.
+From these two lakes, several rivers branch off, and all of them flow into a lake at the equator which is at the distance of a ten days' journey from the mountain. From that lake, two rivers issue. One of them flows due north, passing through the country of the Nubah and then through Egypt. Having traversed Egypt, it divides into many branches lying close to each other.
+
+Each of these is called a "channel." All flow into the Mediterranean at Alexandria. This river is called the Egyptian Nile. It is bordered by Upper Egypt on theeast, and by the oases on the west. 
+
+The other river turns westward, flowing due west until it flows into the Surrounding Sea. This river is the Sudanese Nile.  All the Negro nations live along its borders.
 
 The Euphrates begins in Armenia in the sixth section of the fifth zone. It flows south through Byzantine territory (Anatolia) past Malatya to Manbij, and then passes Siflin, ar-Raggah, and al-Kufah until it reaches the Marsh (alBatha') between al-Basrah and Wasit. From there it flows into the Indian Ocean. 
 
 Many rivers flow into it along its course. Other rivers branch off from it and flow into the Tigris.
+
 The Tigris originates in a number of springs in the country of Khilat, which is also in Armenia. 
 
-It passes on its course southward through Mosul, Azerbaijan, and Baghdad to
-Wasit. There, it divides into several channels, all of which flow into the Lake of al-Basrah
-and join the Persian Gulf. The Tigris flows east of the Euphrates. Many large rivers flow
-into it from all sides. The region between the Euphrates and the Tigris, where it is first
-formed, is the Jazirah of Mosul, facing Syria on both banks of the Euphrates, and facing
-Azerbaijan on both banks of the Tigris.
+It passes on its course southward through Mosul, Azerbaijan, and Baghdad to Wasit. There, it divides into several channels, all of which flow into the Lake of al-Basrah and join the Persian Gulf. The Tigris flows east of the Euphrates. Many large rivers flow into it from all sides. 
+
+The region between the Euphrates and the Tigris, where it is first formed, is the Jazirah of Mosul, facing Syria on both banks of the Euphrates, and facing Azerbaijan on both banks of the Tigris.
 
 The Oxus originates at Balkh, in the 9th section of the 3rd zone, in many springs there. 
 
@@ -153,8 +151,7 @@ In length as in width, it extends the distance of one month's journey. The river
 
 West of the Oxus lie Khurasan and Khuwarizm.
 
-East of it lie the cities of Bukhari, at-Tirmidh, and Samarkand. Beyond that are the country
-of the Turks, Farghanah, the Kharlukh, 38 and (other) non-Arab nations.
+East of it lie the cities of Bukhari, at-Tirmidh, and Samarkand. Beyond that are the country of the Turks, Farghanah, the Kharlukh, 38 and (other) non-Arab nations.
 
 <!-- (All) this was mentioned by Ptolemy in his work and by the Sharaf (al-Idrisi) in the
 Book of Roger. All the mountains, seas, and rivers to be found in the cultivated part of the

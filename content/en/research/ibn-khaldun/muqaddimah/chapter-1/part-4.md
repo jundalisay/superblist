@@ -1,10 +1,13 @@
 ---
 title: "The influence of climate on human character"
-description: "Negroes live in the earth's hot zone. Heat dominates their temperament and formation. Therefore, they have in their spirits an amount of heat corresponding to that in their bodies"
+description: "Negroes live in the earth's hot zone. Heat dominates their temperament and formation"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 4"
 weight: 26
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 

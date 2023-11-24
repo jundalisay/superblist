@@ -1,16 +1,19 @@
 ---
 title: "Zone 7"
-description: "Half of this section is mostly covered by the sea, which stretches eastward in a curving line along the northern part, then runs southward along the eastern part, and ends near the southern part of the section"
+description: "The Surrounding Sea covers most of Zone 7 in the north from the beginning to the middle of Section 5"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 2j"
 weight: 22
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 
 
 
-The Surrounding Sea covers most of the seventh zone in the north (from the beginning) to the middle of the fifth section, where it touches the Qufaya Mountains that surround Gog and Magog.
+The Surrounding Sea covers most of Zone 7 in the north from the beginning to the middle of Section 5, where it touches the Qufaya Mountains that surround Gog and Magog.
 
 ### Sections 1 and 2
 

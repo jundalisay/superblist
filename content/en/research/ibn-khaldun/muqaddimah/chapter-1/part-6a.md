@@ -1,10 +1,13 @@
 ---
 title: "The types of human beings who have supernatural perception"
-description: "God has chosen certain individuals so that they might know Him. He made them connecting links between Himself and His servants"
+description: "God has chosen certain individuals so that they might know Him"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 6a"
 weight: 30
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 
