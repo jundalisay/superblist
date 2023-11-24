@@ -6,10 +6,12 @@ date: 2020-01-02
 weight: 6
 image: /photos/idea.jpg
 description: "Everything is an idea of the Creator of that existence"
-contributors: ['Juan']
 icon: /icons/sp.png
 tags: ['Lao Tzu', 'Yin Yang']
 toc: false
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

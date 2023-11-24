@@ -16,25 +16,48 @@ Capitalism
 http://localhost:1313/social/economics/principles/part-3/chapter-11b/
 
 
-How Cartesian Physics explains Saturn's rings.
 
-The rings of Saturn is one of the last mysteries in our solar system. Why does Saturn have rings, while Jupiter and has none
+Einstein admitted that his whole theory was a scam from the start, as circular reasoning. 
 
-Saturn has a liquid center-votex leading to a gaseous core (center area). This leads to a liquid mantle (slow area). This leads to a solid outer area, manifesting as rings made of solid rocks and ice. This is similar to our sun having a kuiper belt made of rocks in its outer area instead of a stellar halo made of photons.    
+"Your definition would be right, if the light by means of which the observer at M perceives the lightning flashes travels along the length A -> M with the same velocity as along the length B -> M. But an examination of this supposition would only be possible if we already had at our disposal the means of measuring time. It would thus appear as though we were moving here in a logical circle. (On the Idea of Time)"
 
-These 4 areas of inner, slow, outer, and edge in any system are therefore effects of the vortex. You can know the vortex by knowing these 4 parts. This can make finding habitable planets easier, after teleportation technology is developed by Cartesian Physics.   
+There is no need to rack your brain trying to disprove or expose a scam. 
 
-Cassini
+There is no need to cite Veritasium either. 
 
-Accordingly Neutron 
+We have solved it by using Cartesian (Descartes') Physics which has Lorentz-Poincare Relativity instead of Einstein's scam Relativity.
 
-Weak Force is the standard representative particle of the 
+The core of the problem is that Einstein used light (electromagnetism) to measure spacetime. The great big problem is that electromagnetism is INFERIOR to spacetime. So using light to measure space is to lock space and make it fixed and rigid. You will notice that they use atomic clocks to test Relativity and it always passes the test. 
 
-At the moment, NASA is unsure why the inner ring has less energy than the outer rings. 
+This is like asking Trump supporters to judge Trump. Of course, they will always give Trump the highest marks. 
 
-Neutron exosphere. 
+Einstein's Relativity is destroyed by using either material time or mental time. This is like asking a Democrat to judge Trump.
 
+For example, use a sand clock in a fast airplane to measure material time relative to a stationary sand clock at the airport. 
 
+Or have a person sleep in the fast airplane and wake him up upon touchdown and ask him how many hours he thinks he slept. Do it also for a guy sleeping in the airport.   
+
+https://www.superphysics.org/material/fallacies/general-relativity/
+
+How Artificial Intelligence Can Prevent Banking Crisis
+
+Last week, Vietnam was rocked by the scandal between Saigon Commercial Bank (SCB) and property developer Van Thinh Phat group (VTP) wherein SCB lent $44 billion of its deposits to the group through Truong My Lan who gained ownership of SCB through dummies.
+
+She bribed Central Bank officials to allow her illegal ploy. 
+
+Banking crises and scandals are not new. Back in the 18th century, many banks collapsed due to speculation and imprudent practices. Adam Smith said that one of the best preventatives for such crises was to create strict rules. These rules are usually implemented by the government through the Central Bank.
+
+The problem is that the Central Bank itself is made up of humans which are corruptible, as proven by the SCB scandal. 
+
+To solve this, it would be better to implement the rules through artificial intelligence 
+
+ 
+
+ 
+
+ 
+
+ 
 French:
 Quel est votre rôle ? Pantrypoints est pour tout le monde.
 Je suis propriétaire d'une micro-petite entreprise. J'ai besoin d'une présence en ligne sous la forme d'un site web, d'une application web, d'une application mobile ou sur les médias sociaux.

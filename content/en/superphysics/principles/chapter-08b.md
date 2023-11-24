@@ -7,7 +7,9 @@ date: 2023-03-19
 weight: 32
 image: /graphics/meta/dscfd.png
 description: "SMART also does not allow tweaking of the goal itself to match the changing reality"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 ---
 

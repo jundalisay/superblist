@@ -4,9 +4,11 @@ heading: "Impartial Spectator Automated Intelligence Aggregation Host"
 date: 2015-09-09
 weight: 15
 image: https://sorasystem.sirv.com/AI.jpg
-description: "The money and moneyless transactions are visualized by artificial intelligence (AI) in order to guide policymakers and the public on the real-price trends."
-contributors: ['Juan']
+description: "The money and moneyless transactions are visualized by artificial intelligence (AI) in order to guide policymakers"
 icon: /icons/pantry.png
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 aliases:
   /superphysics/solutions/isaiah
 ---

@@ -3,8 +3,10 @@ title: "The Fallacy of Assembly Theory"
 date: 2023-07-15
 weight: 300
 image: /photos/psych/bore.jpg
-description: "Assembly Theory is a monstrosity that happens when the material concept of non-conscious entropy and the emergent 'arrow of time' (physical time) are merged with conscious biology (mental time)"
-contributors: ['Juan']
+description: "Assembly Theory is a monstrosity that combines the material concept of non-conscious entropy, the emergent 'arrow of time' (physical time), and conscious biology (mental time)"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 toc: false
 ---

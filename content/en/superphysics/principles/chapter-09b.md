@@ -6,7 +6,9 @@ date: 2020-11-28
 weight: 34
 image: /photos/meta/buddhism.jpg
 description: "The Impartial Spectator of Adam Smith is the moral sense in all humans"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spsoc.png
 ---
 

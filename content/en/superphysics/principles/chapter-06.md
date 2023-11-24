@@ -2,10 +2,12 @@
 heading: "Chapter 6"
 title: "The Nature of Feelings"
 date: 2020-12-15
-weight: 20
+weight: 19
 image: /photos/psych/freedom.jpg
 description: "Active sensing is the foundation of critical thinking (as intellect), as well as critical feeling (as kindness and fellow-feeling)"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 ---
 

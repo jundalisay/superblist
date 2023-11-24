@@ -6,7 +6,9 @@ date: 2020-11-20
 weight: 36
 image: /covers/treatise.png
 description: "Superphysics unifies Physics and Metaphysics to solve the problems unsolved by science"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 ---
 

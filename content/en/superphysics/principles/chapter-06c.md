@@ -6,7 +6,9 @@ date: 2020-12-12
 weight: 21
 image: "/photos/psych/heart.jpg"
 description: "Critical feeling is done by the heart as a sixth or intuitional sense to catch the ego (the feeling of the self)"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 ---
 

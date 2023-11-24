@@ -5,7 +5,9 @@ date: "2019-07-21"
 weight: 52
 image: /photos/physics/ai.jpg
 description: "Consciousness is the perception of ideas and feelings"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 draft: true
 icon: /icons/sp.png
 ---

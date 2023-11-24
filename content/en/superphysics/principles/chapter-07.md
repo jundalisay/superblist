@@ -6,17 +6,17 @@ date: 2020-12-10
 weight: 24
 image: /photos/physics/ai.jpg
 description: "Everything in existence is an idea of the Creator of that existence"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 ---
 
 
-{{< q >}}
+{{< q c="The Kybalion" >}}
 "Then," you ask, "do you mean to tell us that THE ALL is LIFE and MIND?" 
-<br/>
-Yes! and No! is our answer.
 
-<cite>The Kybalion</cite>
+Yes! and No! is our answer.
 {{< /q >}}
 
 
@@ -48,7 +48,7 @@ Thus, an experiencer has 2 parts:
 - mind as the container for experiences
 - consciousness as the perceiver of that container
 
-![Audience](https://sorasystem.sirv.com/photos/audience.jpg)
+{{< img src="https://sorasystem.sirv.com/photos/audience.jpg" alt="A show" cap="The mind is the stage where perceptions and thoughts get processed and exoperienced by consciousness" >}}
 
 
 ## Metaphysical Mind, Physical Mind

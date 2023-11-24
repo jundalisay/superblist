@@ -5,7 +5,9 @@ date: "2022-05-13"
 image: /photos/physics/ai.jpg
 description: ""
 weight: 50
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 draft: true
 ---

@@ -6,7 +6,9 @@ image: /photos/econ/writer.jpg
 # date: 2020-12-10
 weight: 28
 description: "Everything in existence is an idea of the Creator of that existence"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 ---
 

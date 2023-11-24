@@ -4,7 +4,9 @@ date: 2023-07-15
 image: /photos/phone.jpg
 description: "An economic system that 'streams' value in order to make blockages obsolete."
 # heading: A Tool to Classify Human Ideologies
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 draft: true
 ---

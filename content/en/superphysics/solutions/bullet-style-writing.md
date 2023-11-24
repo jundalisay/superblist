@@ -4,7 +4,9 @@ subtitle: "Short and concise for the Internet"
 date: 2020-09-21
 image: /photos/econ/writer.jpg
 description : "We propose Bullet-style Writing style for writing content that is better for the internet and SEO"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 ---
 

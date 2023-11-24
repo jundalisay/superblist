@@ -2,13 +2,15 @@
 title: "Morality"
 heading: "Chapter 5c"
 date: 2020-01-02
-weight: 18
+weight: 20
 image: /photos/meta/yinyang.jpg
 description: "Everything in existence is created by the two forces"
 contributors: ['Juan']
 icon: /icons/sp.png
 draft: true
-tags: ['Lao Tzu', 'Yin Yang']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

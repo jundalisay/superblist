@@ -3,7 +3,9 @@ title: "Was Epicurus an Atheist?"
 date: 2023-02-03
 image: "/covers/epi.jpg"
 description: "Epicurus believed in gods, but those gods did not control or micromanage reality in real-time."
-author: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 ---
 

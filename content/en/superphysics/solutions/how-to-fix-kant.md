@@ -4,7 +4,9 @@ title: "How to Fix Kant"
 date: 2020-09-21
 image: /covers/kant.jpg
 description : "To prove that Kant's system is useless, let's translate his definitions into ordinary English"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 ---
 

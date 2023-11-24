@@ -5,7 +5,9 @@ date: 2019-01-02
 weight: 40
 image: "/covers/socrates.jpg"
 description: "The Dialectics of Socrates unifies metaphysics and science into a single body of understanding"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 ---
 

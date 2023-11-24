@@ -4,7 +4,9 @@ linkTitle: Kant-Hume
 date: 2020-05-26
 image: /covers/kant.jpg
 description: "David Hume's philosophy is the opposite of that of Kant. Hume already said that there was no such thing as a priori knowledge, but Kant refuted this"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 ---
 
@@ -24,9 +26,8 @@ There are a posteriori beliefs that are instilled in you.
 
 Belief is not knowledge, but Kant confounds belief and knowledge as one, just as John Locke (the other shallow philosopher) used the word 'idea' to mean both 'ideas' and 'feelings'.
 
-{{< q >}}
+{{< q a="Kant" >}}
 Holding for true, or the subjective validity of a judgement in relation to conviction (which is, at the same time, objectively valid), has the three following degrees: opinion, belief, and knowledge.
-<cite>Kant</cite>
 {{< /q >}}
 
 
@@ -47,9 +48,8 @@ I can make a synthetic judgment that “Donald is an idiot” and under Kant’s
 
 Kant’s intellectual dictatorship then manifests as the funny concept of the *Transcendental Logic* and *Transcendental Analytic* and the destruction of dialectics.
 
-{{< q >}}
+{{< q a="Kant" >}}
 As a safe and useful warning, that general logic, considered as an organon, must always be a logic of illusion, that is, be dialectical, for it teaches us nothing whatever respecting the content of our cognitions
-<cite>Kant</cite>
 {{< /q >}}
 
 
@@ -59,9 +59,9 @@ In a nutshell, Kant has the same dark ages mentality that created the intellectu
 
 So we can say that Kant brought back the natural darkness that was temporarily removed by the Enlightenment, and so Europe went back to war as usual, manifesting as World War I and II afterwards.
 
-{{< q >}}
+{{< q a="Kant" >}}
 Seek ye first the kingdom of pure practical reason and its righteousness, and the object of your endeavour, the blessing of perpetual peace, will be added unto you.” For the science of morals generally has this peculiarity,—and it has it also with regard to the moral principles of public law, and therefore with regard to a science of politics knowable a priori,” 
-<cite><a href="https://en.wikipedia.org/wiki/Perpetual_Peace:_A_Philosophical_Sketch">Perpetual Peace: A Philosophical Sketch</a>, Kant</cite>
+<cite><a href="https://en.wikipedia.org/wiki/Perpetual_Peace:_A_Philosophical_Sketch">Perpetual Peace: A Philosophical Sketch</a></cite>
 {{< /q >}}
 
 

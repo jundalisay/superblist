@@ -5,7 +5,9 @@ date: 2019-01-01
 weight: 4
 image: /photos/tech/mac.jpg
 description: "我们通过对事物的感知来了解其存在。每种感知都有两个方面"
-author: Juan
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 ---
 

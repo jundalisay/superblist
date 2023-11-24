@@ -6,7 +6,9 @@ image: "https://sorasystem.sirv.com/graphics/datascience.png"
 description: "AI is autonomous and not artificial because it is derived from natural intelligence"
 draft: true
 weight: 46
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 ---
 

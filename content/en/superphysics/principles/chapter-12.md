@@ -5,7 +5,9 @@ title: "Artificial Intelligence as Autonomous Intelligence"
 date: 2020-11-05
 image: /photos/tech/ai.jpg
 description: "AI is autonomous and not artificial because it is derived from natural intelligence"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 48
 icon: /icons/sp.png
 ---

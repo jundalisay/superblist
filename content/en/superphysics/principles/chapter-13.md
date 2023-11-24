@@ -3,7 +3,9 @@ title: "The Superphysics Future"
 date: 2022-01-22
 image: "/photos/psych/binoculars.jpg"
 description: "Superphysics opens up a new course for the future that is impossible with the current science"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 icontext: Superphysics icon
 ---

@@ -6,9 +6,12 @@ weight: 10
 image: /photos/meta/buddhism.jpg
 description: The Sanskrit word karma implies a complete loop from cause and effect
 # description: "Moral Consequentialism is the effect of actions that are made obscure by fleeting human memory because of the passage of time"
-contributors: ['Juan']
 icon: /icons/sp.png
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
+
 
 
 The interaction between ideas and the dharma of those ideas create a reaction which arises when ideas are brought near, made to interact, or are added or introduced to each other. 

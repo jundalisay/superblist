@@ -3,7 +3,9 @@ title: "Enlightenment"
 date: 2015-08-17
 image: "https://sorasystem.sirv.com/photos/grav.jpg"
 description: "Everything is a Mind"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 42
 icon: /icons/sp.png
 draft: true

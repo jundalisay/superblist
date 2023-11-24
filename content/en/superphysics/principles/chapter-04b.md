@@ -6,9 +6,11 @@ date: 2020-12-27
 weight: 12
 image: "/graphics/physics/math.jpg"
 description: "Qualimath is Math for operating on Qualities instead of Quantities"
-contributors: ['Juan']
 icon: /icons/sp.png
 math: true
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

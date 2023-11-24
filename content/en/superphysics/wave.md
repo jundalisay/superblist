@@ -3,9 +3,10 @@ title: "Superphysics and Waves"
 date: 2020-08-31
 image: "/graphics/physics/wave.jpg"
 description: "Superphysics is the paradigm that sees the universe as being made up of waves. This is derived from David Hume"
-contributors: ['Juan']
 icon: /icons/sp.png
-icontext: Superphysics icon
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

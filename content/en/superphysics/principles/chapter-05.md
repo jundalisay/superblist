@@ -6,9 +6,11 @@ date: 2020-01-02
 weight: 16
 image: /photos/meta/yinyang.jpg
 description: "Everything in existence is created by the two forces"
-contributors: ['Juan']
 icon: /icons/sp.png
 tags: ['Lao Tzu', 'Yin Yang']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

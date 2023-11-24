@@ -4,7 +4,9 @@ title: "The Meaning of Red Herring, Ad Hominem, etc"
 date: 2020-09-29
 image: /photos/wtf.jpg
 description: "We explain the meaning of common fallacies by removing the jargon"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 44
 icon: /icons/sp.png
 aliases:

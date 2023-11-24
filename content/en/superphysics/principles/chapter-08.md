@@ -7,7 +7,9 @@ date: 2020-12-03
 weight: 30
 image: /graphics/super/5layers.png
 description: "We are inside the Mind of the Supreme Entity, as its thoughts in Existence"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 ---
 

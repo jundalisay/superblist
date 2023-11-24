@@ -6,8 +6,10 @@ weight: 14
 # date: 2021-06-23
 image: "/graphics/econ/eagle.jpg"
 description: "The Eagle is our Equation for the movement of Everything in the physical dimension"
-contributors: ['Juan']
 icon: /icons/pantry.png
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

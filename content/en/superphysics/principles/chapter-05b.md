@@ -5,8 +5,10 @@ date: 2023-11-02
 weight: 17
 image: /graphics/physics/helio.jpg
 description: "Everything in existence is created by the two forces"
-contributors: ['Juan']
 icon: /icons/sp.png
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

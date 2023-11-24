@@ -4,7 +4,9 @@ subtitle: "Decon Notation to Make Math Fun Again"
 date: 2020-09-21
 image: /photos/psych/bore.jpg
 description : "We propose Decon Notation to make math easier to understand"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 draft: true
 ---
