@@ -4,7 +4,9 @@ heading: Section 9
 description: "We must turn the subject of belief on every side to find some new points of view from which we may illustrate such fundamental principles"
 image: /covers/treatise.png
 weight: 18
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

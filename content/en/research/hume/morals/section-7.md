@@ -1,12 +1,15 @@
 ---
 title: "Qualities Immediately Agreeable To Ourselves"
 heading: "Section 7"
-description: "A sad group of people sometimes has a lively member who suddenly animates their conversation. Such a cheerfulness carries great merit with it and most more readily communicates itself all around"
+description: "A sad group of people sometimes has a lively member who suddenly animates their conversation"
 image: /covers/morals.png
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 weight: 22
 ---
+
 
 
 A sad group of people sometimes has a lively member who suddenly animates their conversation. Such a cheerfulness carries great merit with it and most more readily communicates itself all around. The flame spreads through the whole circle; and the most sullen and morose are often caught by it.
@@ -17,28 +20,49 @@ A sad group of people sometimes has a lively member who suddenly animates their 
 
 ; because no one has a greater propensity to display itself, in jovial talk and pleasant entertainment.  -->
 
-Horace says that sad people hate happy people. However, I do not believe so. I see that serious people are more delighted where the happiness is moderate and decent. It dissipates their usual gloom and so gives them an unusual enjoyment.
+Horace says that sad people hate happy people. However, I do not believe so.
 
-From this influence of cheerfulness, both to communicate itself and to engage approbation, we may perceive that there is another set of mental qualities, which, without any utility or any tendency to farther good, either of the community or of the possessor, diffuse a satisfaction on the beholders, and procure friendship and regard. 
+I see that serious people are more delighted where the happiness is moderate and decent. It dissipates their usual gloom and so gives them an unusual enjoyment.
 
-Their immediate sensation, to the person possessed of them, is agreeable. Others enter into the same humour, and catch the sentiment, by a contagion or natural sympathy; and as we cannot forbear loving whatever pleases, a kindly emotion arises towards the person who communicates so much satisfaction. He is a more animating spectacle; his presence diffuses over us more serene complacency and enjoyment; our imagination, entering into his feelings and disposition, is affected in a more agreeable manner than if a melancholy, dejected, sullen, anxious temper were presented to us. Hence the affection and probation which attend the former=  the aversion and disgust with which we regard the latter.
+<!-- From this influence of , both to communicates itself and to engage approbation, we may perceive that  -->
+Cheerfulness spreads itself and is generally approved. **This means that there is another set of mental qualities which diffuse a satisfaction on the beholders, and procure friendship and regard. These mental qualities do not aim for  any utility or any tendency to farther the good either of the community or of the possessor.** 
 
-[Footnote=  There is no man, who, on particular occasions, is not affected with all the disagreeable passions, fear, anger, dejection, grief, melancholy, anxiety, &c. But these, so far as they are natural, and universal, make no difference between one man and another, and can never be the object of blame. 
+Their immediate sensation, to the person possessed of them, is agreeable.
+
+Others enter into the same humour, and catch the sentiment, by a contagion or natural sympathy; and as we cannot forbear loving whatever pleases, a kindly emotion arises towards the person who communicates so much satisfaction. He is a more animating spectacle. 
+
+His presence diffuses over us more serene complacency and enjoyment. Our imagination enters into his feelings and disposition. It is affected in a more agreeable manner than if a melancholy, dejected, sullen, anxious temper were presented to us. 
+
+Hence the affection and probation which attend the former=  the aversion and disgust with which we regard the latter.
+
+{{< box >}}
+### Hume Footnote
+
+There is no man, who, on particular occasions, is not affected with all the disagreeable passions, fear, anger, dejection, grief, melancholy, anxiety, etc. 
+
+But these, so far as they are natural, and universal, make no difference between one man and another, and can never be the object of blame. 
+{{< /box >}}
+
 
 It is only when the disposition gives a PROPENSITY to any of these disagreeable passions, that they disfigure the character, and by giving uneasiness, convey the sentiment of disapprobation to the spectator.]
 
+Few men would envy the character which Caesar gives of Cassius:
 
-Few men would envy the character which Caesar gives of Cassius= 
-
-He loves no play,
-As thou do'st, Anthony=  he hears no music= 
+{{< q a="Caesar" >}}
+He loves no play, Like, Anthony, he hears no music. 
 Seldom he smiles; and smiles in such a sort,
 As if he mock'd himself, and scorn'd his spirit
 That could be mov'd to smile at any thing.
+{{< /q >}}
 
-Not only such men, as Caesar adds, are commonly DANGEROUS, but also, having little enjoyment within themselves, they can never become agreeable to others, or contribute to social entertainment. In all polite nations and ages, a relish for pleasure, if accompanied with temperance and decency, is esteemed a considerable merit, even in the greatest men; and becomes still more requisite in those of inferior rank and character. 
 
-It is an agreeable representation, which a French writer gives of the situation of his own mind in this particular, VIRTUE I LOVE, says he, WITHOUT AUSTERITY=  PLEASURE WITHOUT EFFEMINACY=  AND LIFE, WITHOUT FEARING ITS END. [Footnote=  'J'aime la vertu, sans rudesse; J'aime le plaisir, sans molesse; J'aime la vie, et n'en crains point la fin.'-ST. EVREMONT.]
+Not only such men, as Caesar adds, are commonly DANGEROUS, but also, having little enjoyment within themselves, they can never become agreeable to others, or contribute to social entertainment. 
+
+In all polite nations and ages, a relish for pleasure, if accompanied with temperance and decency, is esteemed a considerable merit, even in the greatest men; and becomes still more requisite in those of inferior rank and character. 
+
+It is an agreeable representation, which a French writer gives of the situation of his own mind in this particular, VIRTUE I LOVE, says he, WITHOUT AUSTERITY=  PLEASURE WITHOUT EFFEMINACY=  AND LIFE, WITHOUT FEARING ITS END. 
+
+[Footnote=  'J'aime la vertu, sans rudesse; J'aime le plaisir, sans molesse; J'aime la vie, et n'en crains point la fin.'-ST. EVREMONT.]
 
 Who is not struck with any signal instance of greatness of mind or dignity of character; with elevation of sentiment, disdain of slavery, and with that noble pride and spirit, which arises from conscious virtue? 
 
@@ -112,4 +136,3 @@ Can it be doubted, that this talent itself of poets, to move the passions, this 
 The very sensibility to these beauties, or a delicacy of taste, is itself a beauty in any character; as conveying the purest, the most durable, and most innocent of all enjoyments.
 
 These are some instances of the several species of merit, that are valued for the immediate pleasure which they communicate to the person possessed of them. No views of utility or of future beneficial consequences enter into this sentiment of approbation; yet is it of a kind similar to that other sentiment, which arises from views of a public or private utility. The same social sympathy, we may observe, or fellow-feeling with human happiness or misery, gives rise to both; and this analogy, in all the parts of the present theory, may justly be regarded as a confirmation of it.
-

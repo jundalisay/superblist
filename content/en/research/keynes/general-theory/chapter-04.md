@@ -6,6 +6,9 @@ image: "/covers/general.jpg"
 # date: 2020-12-17
 weight: 16
 icon: "/avatars/keynes.png"
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 ---
 
 > Superphysics note: In Economic Superphysics, units are under the 1st Law of Value as Energy Manifestation

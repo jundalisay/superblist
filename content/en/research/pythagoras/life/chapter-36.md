@@ -1,7 +1,7 @@
 ---
 title: "The Successors to Pythagoras"
 heading: "Chapter 36"
-description: "Aristæus was the successor of Pythagoras. He was the son of Damophon the Crotonian, who lived at the same time as Pythagoras, was seven ages prior to Plato"
+description: "Aristæus was the successor of Pythagoras. He was the son of Damophon the Crotonian"
 weight: 52
 author: "Iamblichus"
 image: "/covers/lifepyi.png"

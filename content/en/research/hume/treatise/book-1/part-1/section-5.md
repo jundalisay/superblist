@@ -4,7 +4,9 @@ title: "Relations"
 weight: 12
 image: /covers/treatise.png
 description: "Complex Ideas are Connected by Seven Kinds of Philosophical Relations"
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

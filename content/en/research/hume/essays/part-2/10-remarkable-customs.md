@@ -3,8 +3,10 @@ title: "Some Remarkable Customs"
 heading: "Essay 10"
 description: "Some Remarkable Customs"
 image: /covers/essays.jpg
-contributors: ['Hume']
 icon: /avatars/hume.png
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 weight: 22
 --- 
 

@@ -4,7 +4,9 @@ heading: "Essay 16"
 description: "The Stoic"
 image: /covers/essays.jpg
 weight: 34
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icons: /avatars/hume.png
 --- 
 

@@ -4,7 +4,9 @@ heading: Section 3b
 description: "The true philosophy approaches nearer to the feelings of the vulgar, than to those of a mistaken knowledge."
 image: /covers/treatise.png
 weight: 9
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

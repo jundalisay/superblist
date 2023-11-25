@@ -1,11 +1,13 @@
 ---
 title: "Variable Land Taxes"
-heading: "Chapter 2 Part 2c"
+heading: "Chapter 2b-03  Article 1"
 weight: 14
 image: "/covers/wn.jpg"
 description: "The cost of levying a variable land-tax would be greater than levying a fixed land-tax"
 icon: "/avatars/smith.png"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 
@@ -22,8 +24,11 @@ All this cost might be below the cost incurred by many other taxes which bring a
 {{< s v="47" >}} The most important objection to a variable land-tax is the discouragement of land improvement.
 
 The landlord would certainly be less disposed to improve when the sovereign, who contributed nothing to the expence, was to share in the improvement's profits.
+
 This objection might be removed by allowing the landlord to ascertain the actual value of his lands with the revenue officers before he began his improvement.
+
 This valuation would be based on the equitable arbitration of landlords and farmers in the neighbourhood, equally chosen by both parties.
+
 The landlord would be rated according to this valuation for a number of years sufficient for his indemnification.
 
 This variable land-tax aims to draw the sovereign's attention towards land improvement because it will increase his own revenue.
@@ -34,6 +39,7 @@ It is better to be too long than too short.
 
 No incitement to the sovereign's attention can ever counterbalance the smallest discouragement to the landlord's attention.
 At best, the sovereign's attention has a very general and vague consideration of what is likely to contribute to the better cultivation of his dominions.
+
 The landlord's attention is a small consideration of what will likely be the most advantageous use of his estate.
 The sovereign's principal attention should be to encourage the landlord's and the farmer's attention.
 

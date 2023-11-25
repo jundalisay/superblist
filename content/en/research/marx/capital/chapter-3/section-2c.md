@@ -1,7 +1,9 @@
 ---
 title: "Coin and Symbols of Value"
 heading: "Section 2c"
-contributors: ['Marx']
+writer:
+  name: Karl Marx
+  url: https://en.wikipedia.org/wiki/Karl_Marx
 image: "/covers/daskapital.jpg"
 description: "Money takes the shape of coin because it is the circulating medium"
 weight: 8

@@ -1,12 +1,13 @@
-
 ---
 title: "Justice Fees from Gifts to Gratis"
 heading: "Chapter 1 Part 2c"
 weight: 20
-contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "Justice never was in reality administered gratis in any country"
 icon: "/avatars/smith.png"
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

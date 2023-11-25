@@ -70,21 +70,19 @@ If, after all this, the applicant was found to be still sluggish and of a dull i
 
 If afterwards they happened to meet with such a one, they conceived him to be any other person, than him who according to them was dead. 
 
-Hence also Lysis, blaming a certain person named Hipparchus, because he had communicated the doctrines of the Pythagoreans to the profane, and to those who acceded to them without disciplines and theory, says as follows:
+Hence also Lysis, blamed Hipparchus because he had communicated the doctrines of the Pythagoreans to the profane, and to those who acceded to them without disciplines and theory, says as follows:
 
-{{< q >}}
-You, Hipparchus, philosophize publicly with everyone you meet. Pythagoras did not think fit to do so. 
+{{< box >}}
+You, Hipparchus, philosophize publicly with everyone you meet. Pythagoras did not think fit to do so.
 
-You learnt philosophy diligently. But you did not preserve it because you tasted Sicilian delicacies, <!-- 54 --> which you should not have tasted a second time. 
+You learnt philosophy diligently. But you did not preserve it because you tasted Sicilian delicacies, which you should not have tasted a second time.
 
-I will be happy if you abandon these. But if not, you will be dead in my opinion. 
+Please abandon these. But if not, you will be dead in my opinion. 
 
-It will be pious to call to mind the divine and human precepts of Pythagoras, and not to make the goods of wisdom common to those, who have not even in a dream their soul purified. 
+It will be pious to call to mind the divine and human precepts of Pythagoras, and not to make the goods of wisdom common to those, who have not even in a dream their soul purified.
 
 It is not lawful to extend to every casual person, things which were obtained with such great labors, and such diligent assiduity, nor to divulge the mysteries of the Eleusinian Goddesses to the profane. For those who do either of these, are equally unjust and impious. 
-{{< /q >}}
 
-{{< q >}}
 But it will be well to consider what a great length of time we consumed in wiping away the stains which had insinuated themselves into our breasts, till, after the lapse of some years, we became fit recipients of the doctrines of Pythagoras. 
 
 For as dyers previously purify garments, and then fix in the colors with which they wish them to be imbued, in order that the dye may not be washed away, and may never become evanescent; after the same manner also that divine man prepared the souls of those that were lovers of philosophy, so that they might not deceive him in any of those beautiful and good qualities which he hoped they would possess. 
@@ -94,9 +92,7 @@ For he did not impart spurious doctrines, nor snares, in which most of the sophi
 Hence they render their auditors noxious and precipitate. 
 
 For they infuse theorems and divine doctrines into confused and turbid manners. Just as if some one should pour pure and clear water into a deep well full of mud; for he would disturb the mud, and destroy the clear water. The same thing likewise takes place between those who teach and those who are taught after this manner. For dense thickets and which are full of briars surround the intellect and heart of those who have not been purely initiated in disciplines, obscure the mild, tranquil, and reasoning power of the soul, and openly impede the intellective part from becoming increased and elevated.
-{{< /q >}}
 
-{{< q >}}
 It is requisite likewise to call intemperance and avarice the mothers of these thickets; both which are naturally prolific. From intemperance, therefore, unlawful marriages, [unjust] desires, corruptions, intoxication, preternatural pleasures, and certain vehement appetites blossom forth, and which impel their possessors into profundities and precipices. 
 
 For now desires have compelled some not to abstain either from their mothers or their daughters, and violating law, their country, city, and king, with their hands as it were bound behind them, they are violently dragged along like slaves to extreme destruction. But from avarice germinate rapine, robbery, parricide, sacrilege, sorcery, 56 and such other evils at are the sisters of these. 
@@ -107,4 +103,5 @@ In the first place, it is necessary to purify the woods in which these passions 
 So great and so necessary was the attention which, according to Pythagoras, ought to be paid to disciplines prior to philosophy. 
 
 He likewise ordained that a singular honor, and the most accurate investigation, should be given to the teaching and participation of his dogmas, as he judiciously examined the conceptions of those that came to him, by various documents, and 10,000 forms of scientific theory.
-{{< /q >}}
+{{< /box >}}
+

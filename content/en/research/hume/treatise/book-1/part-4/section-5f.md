@@ -4,7 +4,9 @@ title: "The Mind's Substance"
 weight: 34
 image: /covers/treatise.png
 description: "There appears no connection between motion or thought just as there appears no connection between all other causes and effects."
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

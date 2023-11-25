@@ -1,11 +1,13 @@
 ---
 title: "Private Copartneries vs Joint Stock Companies"
-heading: "Part 3g"
+heading: "Part 3i"
 weight: 38
 image: "/covers/wn.jpg"
 description: "Joint stock companies, established by royal charter or by act of parliament, differ from regulated companies and private copartneries"
-contributors: ['Adam Smith']
 icon: /avatars/smith.png
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 
@@ -35,7 +37,6 @@ In a joint stock company, on the contrary, each member:
 {{< s v="106" >}} 2. In a private co-partnery, each partner is bound for the debts of the company to the extent of his fortune.
 
 In a joint stock company, on the contrary, each partner is bound only to the extent of his share.
-
 
 
 {{< s v="107" >}} The joint stock company's <!-- trade --> business is always managed by an executive board (court of directors)<!-- court of directors --> which is managed by a board of investors <!-- directors --> (court of proprietors).

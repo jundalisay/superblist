@@ -5,7 +5,9 @@ description: "In any given state of expectation, a fall in `r` will be associate
 image: "/covers/general.jpg"
 # date: 2020-10-26
 weight: 68
-contributors: ['Keynes']
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 icon: "/avatars/keynes.png"
 ---
 

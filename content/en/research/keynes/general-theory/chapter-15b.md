@@ -5,10 +5,10 @@ description: "Keynes explains Open Market Operations"
 image: "/covers/general.jpg"
 # date: 2020-10-28
 weight: 66
-contributors: ['Keynes']
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 icon: "/avatars/keynes.png"
-# linkbook= https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Wealth of Nations
 ---
 
 

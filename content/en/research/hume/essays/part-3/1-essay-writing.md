@@ -4,7 +4,9 @@ heading: "Essay 1"
 description: "The elegant people who are not immersed in the animal Life, employ themselves in the Operations of the Mind"
 image: /covers/essays.jpg
 weight: 4
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

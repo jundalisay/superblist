@@ -1,16 +1,22 @@
 ---
 title: "Civil Liberty"
 heading: "Essay 12"
-description: "Civil Liberty"
+description: "Civil liberty has great advantages over absolute governments"
 image: /covers/essays.jpg
 weight: 24
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icons: /avatars/hume.png
 --- 
 
 
 
-Political writers who are free from party-prejudices cultivate a science that contributes most to public utility, of all sciences. They get a private satisfaction from it. However, I suspect that the world is still too young to establish many general universal truths in politics.
+Political writers who are free from party-prejudices cultivate a science that contributes most to public utility, of all sciences.
+
+<!-- They get a private satisfaction from it.  -->
+
+However, I suspect that the world is still too young to establish many general universal truths in politics.
 
 We still have not experienced 3,000 years and so the art of reasoning is still imperfect in this science, as in all others. We even lack sufficient materials to reason on. We do not fully know:
 - how refined humans can be in either virtue or vice,
@@ -20,16 +26,24 @@ Machiavel was certainly a great genius. But he confined his study to:
 - the tyrannical governments of ancient times, or
 - the little disorderly principalities of Italy.
 
-His reasonings, especially on monarchy, were extremely defective. His maxims in The Prince have been entirely refuted. He says that a weak prince is incapable of receiving good counsel. If he consult with several, he will not be able to choose among their different counsels. If he chooses only one, that minister might have capacity. But he will not long be a minister. He will be sure to dispossess his master, and place himself and his family on the throne.
+His reasonings, especially on monarchy, were extremely defective.
+- His maxims in *The Prince* have been entirely refuted. 
 
-This is one of Machiavel's many errors from him living in too early an age of the world, to be a good judge of political truth. Almost all the princes of Europe are at present governed by their ministers for nearly 200 years. Yet no such event has ever happened, or can possibly happen.
+He says that a weak prince is incapable of receiving good counsel.
+
+If he consult with several, he will not be able to choose among their different counsels. If he chooses only one, that minister might have capacity. But he will not long be a minister. He will be sure to dispossess his master, and place himself and his family on the throne.
+
+This is one of Machiavel's many errors from him living in too early an age of the world, to be a good judge of political truth.
+
+Almost all the princes of Europe are at present governed by their ministers for nearly 200 years. Yet no such event has ever happened, or can possibly happen.
+
 Sejanus might project dethroning the Cæsars. But Fleury, though ever so vicious, could not think of dispossessing the Bourbons.
 
 Trade only became an affair of the state from the 17th century. Few ancient political writers have mentioned trade. Even the Italians have kept a profound silence with regard to it, though it has now engaged the chief attention of ministers and speculative reasoners.
 
 People were taught of the importance of an extensive commerce by the great opulence, grandeur, and military achievements of Holland and England.
 
-I intended to show the great advantages of civil liberty over absolute governments.
+Civil liberty has great advantages over absolute governments.
 
 I then began to suspect that no man in this age was sufficiently qualified for such an undertaking.
 

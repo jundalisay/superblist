@@ -1,11 +1,13 @@
 ---
 title: "The British East India Joint Stock Company (1600-1874)"
-heading: "Part 3o"
+heading: "Part 3m"
 weight: 46
 image: "/covers/wn.jpg"
 description: "The old English East India Company was established in 1600 by a charter from Queen Elizabeth"
-contributors: ['Adam Smith']
 icon: /avatars/smith.png
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

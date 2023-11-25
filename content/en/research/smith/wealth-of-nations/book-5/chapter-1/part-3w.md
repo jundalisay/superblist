@@ -4,8 +4,10 @@ heading: "Part 3w"
 weight: 66
 image: "/covers/wn.jpg"
 description: "The educational institutions for people of all ages are chiefly those for religious instruction."
-contributors: ['Adam Smith']
 icon: /avatars/smith.png
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

@@ -5,8 +5,10 @@ description: "My Treatise on Money suggested that they bore some affinity to the
 image: "/covers/general.jpg"
 # date: 2020-12-02
 weight: 30
-contributors: ['Keynes']
 icon: "/avatars/keynes.png"
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 ---
 
 
@@ -98,4 +100,5 @@ This is the vital difference between:
 
 1. My method there was to regard the current realised profit as determining the current expectation of profit. 
 
-2. Vide Mr. Robertson’s article “Saving and Hoarding” (Economic Journal, September 1933, p. 399) and the discussion between Mr. Robertson, Mr. Hawtrey and myself (Economic Journal, December 1933, p. 658). 3. Quarterly Journal of Economics, Nov. 1932, p. 123. 4. Loc. cit. p. 125. Contents | Chapter 8 | Keynes Archive
+2. Vide Mr. Robertson’s article “Saving and Hoarding” (Economic Journal, September 1933, p. 399) and the discussion between Mr. Robertson, Mr. Hawtrey and myself (Economic Journal, December 1933, p. 658). 3. Quarterly Journal of Economics, Nov. 1932, p. 123. 4. Loc. cit. p. 125
+

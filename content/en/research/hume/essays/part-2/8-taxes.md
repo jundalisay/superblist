@@ -3,8 +3,10 @@ title: "Taxes"
 heading: "Essay 8"
 description: "Taxes are made lighter by spreading them to more people"
 image: /covers/essays.jpg
-contributors: ['Hume']
 icon: /avatars/hume.png
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 weight: 18
 ---
 

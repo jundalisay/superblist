@@ -4,7 +4,9 @@ heading: "Section 1"
 description: Dr. Tillotson argues against the real presence of miracles. His argument is the most concise, elegant, and strong against miracles
 image: /covers/morals.png
 weight: 4
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

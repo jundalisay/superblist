@@ -4,7 +4,9 @@ heading: "Essay 5"
 description: "The Allegory of the Hymen"
 image: /covers/essays.jpg
 weight: 15
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

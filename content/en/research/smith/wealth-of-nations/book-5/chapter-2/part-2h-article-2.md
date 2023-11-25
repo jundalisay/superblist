@@ -1,11 +1,13 @@
 ---
 title: "Taxes on the Profit of Particular Employments"
-heading: "Chapter 2h of Part 1b"
+heading: "Chapter 2b-08 Article 2"
 weight: 24
 image: "/covers/wn.jpg"
 description: "In some countries, extraordinary taxes are imposed on profits when employed in particular trades, and in agriculture"
 icon: "/avatars/smith.png"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

@@ -4,7 +4,9 @@ title: "A Feeling or Perception Cannot Be Bound By Dimensions"
 weight: 30
 image: /covers/treatise.png
 description: "a thought, feeling, or perception is an inseparable and indivisible being."
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

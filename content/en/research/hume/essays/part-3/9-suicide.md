@@ -4,7 +4,9 @@ heading: "Essay 9"
 description: "The Three arguments for the immortality of the soul"
 image: /covers/essays.jpg
 weight: 20
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

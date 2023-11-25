@@ -4,7 +4,9 @@ heading: "Essay 6"
 description: "Political writers have  a maxim: In contriving any system of government and fixing the checks and controls of the constitution, every man should be supposed a knave, and have only private interest in all his actions"
 image: /covers/essays.jpg
 weight: 12
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icons: /avatars/hume.png
 ---
 

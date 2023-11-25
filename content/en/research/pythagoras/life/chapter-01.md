@@ -4,11 +4,9 @@ heading: "Chapter 1-2"
 weight: 2
 author: "Iamblichus"
 image: "/covers/lifepyi.png"
-description: "Pythagoras' soul was sent to mankind from the empire of Apollo, either as an attendant on the God, of co-arranged with him in some other more familiar way"
+description: "Pythagoras' soul was sent to mankind from Apollo"
 icon: "/icons/py.png"
 ---
-
-
 
 
 All men of sound understandings call on divinity when entering any philosophic discussion. 
@@ -28,37 +26,78 @@ The will of the Gods is sufficient for us, in conjunction with which it is possi
 
 ## Chapter 2: The Early Days
 
-Ancæus dwelt in Samos in Cephallenia and was begot by Jupiter, whether he derived the fame of such an honorable descent through virtue, or through a certain greatness of soul. 
+Ancæus dwelt in Samos in Cephallenia and was begot by Jupiter.
+<!-- , whether he derived the fame of such an honorable descent through virtue, or through a certain greatness of soul.  -->
 
 He surpassed the rest of the Cephallenians in wisdom and renown. 
 
-This Ancæus, therefore, was ordered by the Pythian oracle to form a colony from Arcadia and Thessaly; and that besides this, taking with him some of the inhabitants of Athens, Epidaurus, and Chalcis, and placing himself at their head, he should render an island habitable, which from the virtue of the soil and land should be called Melamphyllos;[8] and that he should call the city Samos, on account of 3 Same in Cephallenia. 
+He was ordered by the Pythian oracle to form and lead a colony from Arcadia and Thessaly. He took with him some of the inhabitants of Athens, Epidaurus, and Chalcis to make the island, which they called Melamphyllos, habitable. On that island would be founded the city of Samos.
+<!-- , on account of 3 Same in Cephallenia.  -->
 
-The oracle given to him, was as follows= 
+The oracle given to him, was:
 
-“I order you, Ancæus, to colonise the marine island Samos instead of Same, and to call it Phyllas.” But that a colony was collected from these places, is not only indicated by the honors and sacrifices of the Gods, transferred into those regions together with the inhabitants, but also by the kindred families that dwell there, and the associations of the Samians with each other.
+{{< q a="Oracle" >}}
+Ancæus, colonise the islan d of Samos instead of Same, then call it Phyllas.
+{{< /q >}}
 
-Mnesarchus and Pythaïs, who were the parents of Pythagoras, descended from the family and alliance of this Ancæus, who founded the colony. In consequence, however, of this nobility of birth being celebrated by the citizens, a certain Samian poet says, that Pythagoras was the son of Apollo. For thus he sings,
+But that a colony was collected from these places, is not only indicated by the honors and sacrifices of the Gods, transferred into those regions together with the inhabitants, but also by the kindred families that dwell there, and the associations of the Samians with each other.
 
+
+Mnesarchus and Pythaïs were the parents of Pythagoras. They descended from the family and alliance of Ancæus. A Samian poet says, that Pythagoras was the son of Apollo:
+
+<!-- In consequence, however, of this nobility of birth being celebrated by the citizens, 
+. For thus he sings, -->
+
+{{< q a="Poet" >}}
 Pythaïs, fairest of the Samian tribe,
-
 Bore from th’embraces of the God of day
-
 Renown’d Pythagoras, the friend of Jove.
+{{< /q >}}
 
-The Pythian oracle then had predicted to this Mnesarchus (who came to Delphi for the purposes of merchandize, with his wife not yet apparently pregnant, and who inquired of the God concerning the event of his voyage to Syria) that his voyage would be lucrative and most conformable to his wishes, but that his 4 wife was now pregnant, and would bring forth a son surpassing in beauty and wisdom all that ever lived, and who would be of the greatest advantage to the human race in every thing pertaining to the life of man. 
+Mnesarchus came to Delphi to sell merchandize, with his wife not yet apparently pregnant.
+- He asked the oracle of his voyage to Syria.
 
-But, when Mnesarchus considered with himself, that the God, without being interrogated concerning his son, had informed him by an oracle, that he would possess an illustrious prerogative, and a gift truly divine, he immediately named his wife Pythaïs, from her son and the Delphic prophet, instead of Parthenis, which was her former appellation; and he called the infant, who was soon after born at Sidon in Phœnicia, Pythagoras; signifying by this appellation, that such an offspring was predicted to him by the Pythian Apollo. For we must not regard the assertions of Epimenides, Eudoxus, and Xenocrates, who suspect that Apollo at that time, becoming connected with Parthenis, and causing her to be pregnant from not being so, had in consequence of this predicted concerning Pythagoras, by the Delphic prophet= for this is by no means to be admitted.[9] 
+The Pythian oracle predicted that:
+- his voyage would be lucrative and most conformable to his wishes
+- his 4 wife was now pregnant and would have a son surpassing in beauty and wisdom all that ever lived, and who would be of the greatest advantage to the human race in every thing pertaining to the life of man. 
 
-Pythagoras' soul was sent to mankind from the empire of Apollo, either as an attendant on the God, of co-arranged with him in some other more familiar way= for this may be inferred both from his birth, and the all-various wisdom of his soul. And thus much concerning the nativity of Pythagoras.
+But, when  considered with himself, that the God, without being interrogated concerning his son, had informed him by an oracle, that he would possess an illustrious prerogative, and a gift truly divine, he 
 
-But after his father Mnesarchus had returned from Syria to Samos, with great wealth, which he had collected from a prosperous navigation, he built a temple to Apollo, with the inscription of Pythius; and took care to have his son nourished with various and the best disciplines, at one time by Creophilus, at another by Pherecydes the Syrian, and at another by almost all those who presided over sacred concerns, to whom he earnestly recommended Pythagoras, that he might be as much as possible sufficiently instructed in divine concerns. 
+Mnesarchus immediately changed the name of his wife from Parthenis to Pythaïs.
+<!-- , from her son and the Delphic prophet, instead of , which was her former appellation;  -->
 
-He  was educated in such a manner, as to be fortunately the most beautiful and godlike of all those that have been celebrated in the annals of history. 
+His child was soon born at Sidon in Phœnicia. Mnesarchus named him Pythagoras as predicted to him by the Pythian Apollo.
 
-His father died when he was still a youth, his aspect was most venerable, and his habits most temperate, so that he was even reverenced and honored by elderly men; and converted the attention of all who saw and heard him speak, on himself, and appeared to 7 be an admirable person to every one who beheld him. 
+; signifying by this appellation, that such an offspring was . For we must not regard the assertions of 
 
-Hence it was reasonably asserted by many, that he was the son of a God. 
+Epimenides, Eudoxus, and Xenocrates suspected that Apollo at that time was connected with Parthenis and caused her to be pregnant. They say that this led to the birth of Pythagoras. This is wrong. 
+
+<!-- , by the Delphic prophet= for this is by no means to be admitted.[9]  -->
+
+Pythagoras' soul was sent to mankind from Apollo, either:
+- as an attendant on Apollo, or 
+- co-arranged with him in another more familiar way
+
+This may be inferred from:
+- his birth, and
+- the all-various wisdom of his soul
+ <!-- And thus much concerning the nativity of Pythagoras. -->
+
+His father Mnesarchus returned from Syria to Samos with great wealth, collected from a prosperous navigation.
+- He then built a temple to Apollo, with the inscription of Pythius.
+- He took care to have his son nourished with various and the best disciplines, by:
+  - Creophilus, then
+  - Pherecydes the Syrian, then
+  - almost all those who presided over sacred concerns
+
+Mnesarchus earnestly recommended Pythagoras to them, that he might be instructed in divine concerns. 
+
+<!-- He  was educated in such a manner, as to be fortunately the most beautiful and godlike of all those that have been celebrated in the annals of history.  -->
+
+His father died when he was still a youth. His aspect was most venerable, and his habits most temperate, that he was even reverenced by elderly men. He caught the attention of all those who saw and heard him speak.
+<!-- , on himself, and appeared to be an admirable person to every one who beheld him.  -->
+
+Hence, people reasonably asserted that he was the son of a God. 
 
 But he being corroborated by renown of this kind, by the education which he had received from his infancy, and by his natural deiform appearance, in a still greater degree evinced that he deserved his present prerogatives. He was also adorned by piety and disciplines, by a mode of living transcendency good, by firmness of soul, and by a body in due subjection to the mandates of reason. 
 

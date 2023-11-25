@@ -4,7 +4,9 @@ heading: "Essay 11c"
 description: "The Ancients were populous"
 image: /covers/essays.jpg
 weight: 28
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

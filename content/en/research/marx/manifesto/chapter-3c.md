@@ -4,7 +4,9 @@ title: "Critical-Utopian Socialism and Communism"
 weight: 18
 image: /covers/manifesto.png
 description: "The first direct attempts of the proletariat to attain its own ends was during the overthrow of feudal society"
-author: Karl Marx
+writer:
+  name: Karl Marx
+  url: https://en.wikipedia.org/wiki/Karl_Marx
 icon: /icons/marx.png
 ---
 

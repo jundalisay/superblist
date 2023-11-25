@@ -4,7 +4,9 @@ heading: "Essay 6"
 description: "The Study of History is good for women"
 image: /covers/essays.jpg
 weight: 16
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

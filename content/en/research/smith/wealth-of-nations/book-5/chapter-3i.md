@@ -65,13 +65,16 @@ For some time, great indulgence would be due to those provinces which were subje
 - Even when the same taxes were levied as exactly as possible everywhere, they would not produce a revenue proportional to the population size.
 
 In a poor country, the consumption of the principal commodities subject to customs duties and excise is very small.
-    In a thinly inhabited country, smuggling opportunities are very great.
+
+In a thinly inhabited country, smuggling opportunities are very great.
 
 The consumption of malt liquors among the lower class in Scotland is very small.
-    The excise on malt, beer, and ale there produces less than in England in proportion to= 
-        the population, and
-        the rate of the duties.
-            The duty on malt is different because of a supposed difference of quality.
+
+The excise on malt, beer, and ale there produces less than in England in proportion to:
+- the population, and
+- the rate of the duties.
+
+The duty on malt is different because of a supposed difference of quality.
 
 In these particular branches of the excise, there is not much more smuggling in the one country than in the other.
 
@@ -83,7 +86,7 @@ In Ireland, the lower class is still poorer than in Scotland.
 
 It is almost as thinly inhabited.
 In Ireland, therefore, the consumption of the taxed commodities might be still less than Scotland,in proportion to its population size.
-    Smuggling is nearly the same.
+- Smuggling is nearly the same.
 
 In America and the West Indies, the lowest class of white people are in much better circumstances than the lowest class in England.
 - Their consumption of all their usual luxuries is probably much greater.
@@ -95,12 +98,14 @@ The blacks who make most of the southern colonies and those of the West India is
   - their consumption of articles subjected to moderate duties is less than that of the English lower class
 
 In order that they may work well, their master's interest is to feed them well and keep them in good heart in the same way as his working cattle.
+
 Almost everywhere, the blacks accordingly have their allowance of rum and molasses or spruce beer in the same manner as the white servants.
-    This allowance would probably not be withdrawn though those articles should be subjected to moderate duties.
+- This allowance would probably not be withdrawn though those articles should be subjected to moderate duties.
 
 The consumption of the taxed commodities, relative to the population size, would probably be as great in America and the West Indies as in any part of the British empire.
 
 The opportunities of smuggling would be much greater because America is much less populated than Scotland or Ireland, relative to its area.
+
 Smuggling opportunities in the most important branch of the excise can be almost entirely removed if the revenue presently raised by the malt and malt liquor duties were levied by a single malt duty.
 
 Smuggling opportunities would be very much reduced if:

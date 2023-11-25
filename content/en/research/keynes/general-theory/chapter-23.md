@@ -1,11 +1,13 @@
 ---
 title: "Mercantilism, Usury Laws, Stamped Money, Under-Consumption Theories"
-description: "For 200 years, people saw a national advantage in a favourable balance of trade, and grave danger in an unfavourable balance, particularly if it results in an efflux of the precious metals"
+description: "For 200 years, people saw a national advantage in a favourable balance of trade, and grave danger in an unfavourable balance"
 image: "/covers/general.jpg"
 # date: 2019-09-20
 weight: 104
 icon: "/avatars/keynes.png"
-contributors: ['Keynes']
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 ---
 
 

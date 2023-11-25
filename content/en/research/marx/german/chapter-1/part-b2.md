@@ -2,10 +2,13 @@
 title: "Summary of the Materialist Conception of History"
 heading: Part B2-7
 description:  "The ideas of the ruling class are in every epoch the ruling ideas, i.e. the class which is the ruling material force of society, is at the same time its ruling intellectual force"
-author:  "Karl Marx"
+writer:
+  name: Karl Marx
+  url: https://en.wikipedia.org/wiki/Karl_Marx
 icon: /icons/marx.png
 image: "/covers/german.jpg"
 ---
+
 
 This conception of history depends on our ability to expound the real process of production, starting out from the material production of life itself, and to comprehend the form of intercourse connected with this and created by this mode of production (i.e. civil society in its various stages), as the basis of all history; and to show it in its action as State, to explain all the different theoretical products and forms of consciousness, religion, philosophy, ethics, etc. etc. and trace their origins and growth from that basis; by which means, of course, the whole thing can be depicted in its totality (and therefore, too, the reciprocal action of these various sides on one another). 
 

@@ -4,7 +4,9 @@ heading: "Essay 19a"
 description: "Polygamy increases barbarism"
 image: /covers/essays.jpg
 weight: 40
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icons: /avatars/hume.png
 --- 
 

@@ -4,7 +4,9 @@ heading: Section 4
 description: "The fundamental principle of Descartes' philosophy is its opinion that colours, sounds, tastes, smells, and temperature are nothing but impressions in the mind"
 image: /covers/treatise.png
 weight: 10
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

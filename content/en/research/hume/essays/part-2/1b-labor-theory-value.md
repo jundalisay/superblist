@@ -1,15 +1,14 @@
 ---
 title: "Labor Theory of Value"
-heading: "Essay 1b Part 2"
+heading: "Essay 1b"
 description: "Labor Theory of Value leads to Manufactures and Commerce. Manufactures Add to Wealth by Storing Labor. Commerce Adds to Wealth by Circulating Manufactures"
 image: /covers/essays.jpg
-linkb: "/research/hume/essays/part-2/1-commerce"
-linkbtext: "Commerce"
-linkf: "/research/hume/essays/part-2/2-luxury"
-linkftext: "Luxury"
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 ---
 
-> *Translator's Note: These are mirrored by Book 1 Chapter 5 and Book 3 of The Wealth of Nations by Adam Smith
+> *Superphysics Note: These are mirrored by Book 1 Chapter 5 and Book 3 of The Wealth of Nations by Adam Smith
  
 
 Everything in the world is purchased by labour. The only cause of our labour are our passions. When a nation abounds in manufactures and mechanic arts, the proprietors of land and the farmers study agriculture as a science. They redouble their industry and attention. 

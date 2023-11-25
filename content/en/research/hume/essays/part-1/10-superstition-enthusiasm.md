@@ -4,7 +4,9 @@ heading: "Essay 10"
 description: "Three reasons against superstition"
 image: /covers/essays.jpg
 weight: 20
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icons: /avatars/hume.png
 --- 
 

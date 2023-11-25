@@ -1,7 +1,9 @@
 ---
 title: "The Currency of Money"
 heading: "Section 2b"
-contributors: ['Marx']
+writer:
+  name: Karl Marx
+  url: https://en.wikipedia.org/wiki/Karl_Marx
 image: "/covers/daskapital.jpg"
 description: "The change of form, C—M—C, by which the circulation of the material products of labour is brought about, requires that a given value in the shape of a commodity shall begin the process"
 weight: 8

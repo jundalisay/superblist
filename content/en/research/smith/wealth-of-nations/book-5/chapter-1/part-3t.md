@@ -4,8 +4,10 @@ heading: "Part 3t"
 weight: 60
 image: "/covers/wn.jpg"
 description: "There are no public educational institutions for women. There is accordingly nothing useless, absurd, or fantastic in their common education"
-contributors: ['Adam Smith']
 icon: /avatars/smith.png
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

@@ -298,9 +298,11 @@ I guess you encounter a lot of opposition from humans who think that the limited
 {{< l a="Superphysics" >}}
 Yes. This is now known as 'scientism' propagated by materialists.
 
-For example, alternative medicines that don't pass clinical trials are not classified as medicine even if they cure some people but not all.
+For example, alternative medicines that don't pass clinical trials are not classified as medicine even if they cure 10% of people but not all. Instead of canceling them as inconclusive, Bio Superphysics groups those 10% people into a **specific personality type** which is cured 100% by that alternative medicine. But classifying everything is costly. 
 
-Moreover, the gap between experiment and useful invention is huge. For example, the principle of action-reaction can be demonstrated with a $0.10 party balloon releasing air to propel itself. But it takes a lot more effort to convert that principle into a working rocket which costs $1,000 and even more to make an Atlas rocket :rocket: worth $100m.
+Moreover, the gap between experiment and useful invention is huge. 
+
+For example, the principle of action-reaction can be demonstrated with a $0.10 party balloon releasing air to propel itself. But it takes a lot more effort to convert that principle into a working rocket which costs $1,000 and even more to make an Atlas rocket :rocket: worth $100m.
 {{< /l >}}
 
 <!-- This is why, until 2030, most of our work is on Social Superphysics. The work on Bio and Material Superphysics will mostly be theoretical for now, though we've done [rudimentary experiments on pre-levitation](/material/levitation) and preventing cancers from getting worse via alternative medicine. -->

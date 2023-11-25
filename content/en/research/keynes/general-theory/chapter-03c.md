@@ -5,11 +5,11 @@ description: "Output minus factor cost equals profit or entrepreneur's income"
 image: "/covers/general.jpg"
 # date: 2020-12-19
 weight: 14
-contributors: ['Keynes']
 icon: "/avatars/keynes.png"
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 ---
-
-
 
 
 Ricardo’s doctrine <!-- Ricardian economics --> fundamentally believes that:

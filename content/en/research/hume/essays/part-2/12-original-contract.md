@@ -4,7 +4,9 @@ heading: "Essay 12 Part 2"
 description: "Hume disputes the social contract"
 image: /covers/essays.jpg
 weight: 40
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

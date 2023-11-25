@@ -3,9 +3,11 @@ heading: "1892 Polish and 1893 Italian Editions"
 title: "Preface"
 weight: 5
 image: /covers/manifesto.png
-description: ""
-author: Karl Marx
-icon: /icons/marx.png
+description: "The new Polish edition of the Communist Manifesto has shown that it has become an index of the development of large-scale industry in Europe
+"
+writer:
+  name: Engels
+icon: /avatars/engels.jpg
 ---
 
 

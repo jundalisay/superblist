@@ -4,8 +4,9 @@ heading: "Essay 2"
 description: "Great Britain enjoys the Freedom of the Press because its government is mixed"
 image: /covers/essays.jpg
 weight: 4
-# youtube: "UpwdTIAcLVY"
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

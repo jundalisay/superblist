@@ -6,11 +6,13 @@ image: "/covers/general.jpg"
 # date: 2020-10-10
 weight: 84
 icon: "/avatars/keynes.png"
-contributors: ['Keynes']
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 ---
 
 
-<!-- ## Book V Money-Wages and Prices  -->
+## Book 5: Money-Wages and Prices 
 
 <!-- What are the effects of a change in money-wages?
 

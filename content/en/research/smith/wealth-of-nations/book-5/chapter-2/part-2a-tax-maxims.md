@@ -1,11 +1,13 @@
 ---
 title: "The Four Taxation Maxims"
-heading: "Chapter 2 Part 2a"
+heading: "Chapter 2b-01"
 weight: 10
 image: "/covers/wn.jpg"
 description: "Every tax must ultimately be paid from any or all of those three kinds of revenue"
 icon: "/avatars/smith.png"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

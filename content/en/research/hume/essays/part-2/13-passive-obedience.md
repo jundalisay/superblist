@@ -4,7 +4,9 @@ heading: "Essay 13 Part 2"
 description: "Passive Obedience"
 image: /covers/essays.jpg
 weight: 42
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

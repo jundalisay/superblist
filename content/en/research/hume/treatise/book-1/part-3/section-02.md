@@ -4,7 +4,9 @@ title: "Probability and the Idea of Cause and Effect"
 weight: 4
 image: /covers/treatise.png
 description: "The Limitation of the Mind Limits our Cognition of the Existence of Objects"
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

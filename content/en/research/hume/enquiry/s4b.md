@@ -4,8 +4,10 @@ description: All the objects of human reason or enquiry may naturally be divided
 image: "/covers/enquiry.jpg"
 weight: 14
 heading: "Section 4"
-contributors: ['Hume']
 icon: /avatars/hume.png
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 ---
 
 

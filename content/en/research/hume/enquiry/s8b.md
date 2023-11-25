@@ -1,106 +1,114 @@
 ---
-title: Freedom and Consequence
-description: We would expect that in most disputed questions since the first origin of philosophy, that the meaning of all the terms, at least, should have been agreed upon among the disputants
+title: Past Present and Future
+description: From past experience, we draw all inferences about the future, and as we conclude that objects will always be conjoined
+# description: We would expect that in most disputed questions since the first origin of philosophy, that the meaning of all the terms, at least, should have been agreed upon among the disputants
 image: /covers/enquiry.jpg
-# date: "2020-01-01"
-weight: 26
+weight: 24
 heading: "Section 8"
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 ---
 
 
-## Part 2
+69. 
 
-It is very common for people to refute a philosophical hypothesis by saying that it will have dangerous consequences to religion and morality. 
+The conjunction between motives and voluntary actions is as regular and uniform as that between the cause and effect in any part of nature. 
 
-<!-- There is no method of reasoning more common, and yet none more blameable, than, in philosophical disputes, to endeavour the refutation of any , by a pretence of its . -->
+This regular conjunction has been universally acknowledged among mankind, and has never been disputed, either in philosophy or common life. 
 
-Opinions that lead to absurdities are certainly false. But opinions are not false because of their dangerous consequences. 
+From past experience, we draw all inferences about the future, and as we conclude that objects will always be conjoined together which we find to have always been conjoined.
 
-Such topics, therefore, ought entirely to be forborne; as serving nothing to the discovery of truth, but only to make the person of an antagonist odious. This I observe in general, without pretending to draw any advantage from it. 
+This experienced uniformity in human actions is a source whence we draw inferences concerning them.
 
-<!-- I frankly submit to an examination of this kind, and shall venture to affirm that  -->
+But in order to throw the argument into a greater variety of lights we shall also insist, though briefly, on this latter topic. The mutual dependence of men is so great in all societies that scarce any human action is entirely complete in itself, or is performed without some reference to the actions of others, which are requisite to make it answer fully the intention of the agent.
 
-The doctrines, both of necessity and of liberty, as above explained, are:
-- consistent with morality
-- absolutely essential to its support
+The poorest artificer, who labours alone, expects at least the protection of the magistrate, to ensure him the enjoyment of the fruits of his labour. 
 
-Necessity has 2 definitions, which are the same in the end: 
-<!-- -  two ways, conformably to the two definitions of cause, of which it makes an essential part. 
-It consists either in  -->
+He also expects that, when he carries his goods to market, and offers them at a reasonable price, he shall find purchasers, and shall be able, by the money he acquires, to engage others to supply him with those commodities which are requisite for his subsistence. 
 
-1. The constant conjunction of like objects
-2. The inference of the understanding from one object to another
+In proportion as men extend their dealings, and render their intercourse with others more complicated, they always comprehend, in their schemes of life, a greater variety of voluntary actions, which they expect, from the proper motives, to co-operate with their own.
 
-<!-- Now necessity, in both these senses, (which, indeed, are at bottom the same) has universally, though tacitly, in the schools, in the pulpit, and in common life, been allowed to  -->
+In all these conclusions they take their measures from past experience, in the same manner as in their reasonings concerning external objects; and firmly believe that men, as well as all the elements, are to continue, in their operations, the same that they have ever found them. 
 
-Necessity belongs to the willpower. 
+A manufacturer reckons upon the labour of his servants for the execution of any work as much as upon the tools which he employs, and would be equally surprised were his expectations disappointed. In short, this experimental inference and reasoning concerning the actions of others enters so much into human life that no man, while awake, is ever a moment without employing it. Have we not reason, therefore, to affirm that all mankind have always agreed in the doctrine of necessity according to the foregoing definition and explication of it? 70. Nor have philosophers ever entertained a different opinion from the people in this particular. 
 
- of man; and no one has ever pretended to deny that we can draw inferences concerning human actions, and that those inferences are founded on the experienced union of like actions, with like motives, inclinations, and circumstances.
+For, not to mention that almost every action of their life supposes that opinion, there are even few of the speculative parts of learning to which it is not essential. What would become of history, had we not a dependence on the veracity of the historian according to the experience which we have had of mankind? How could politics be a science, if laws and forms of goverment had not a uniform influence upon society? 
 
-The only particular in which any one can differ, is, that either, perhaps, he will refuse to give the name of necessity to this property of human actions: 
+Where would be the foundation of morals, if particular characters had no certain or determinate power to produce particular sentiments, and if these sentiments had no constant operation on actions?
 
-But as long as the meaning is understood, I hope the word can do no harm: Or that he will maintain it possible to discover something farther in the operations of matter. 
+And with what pretence could we employ our criticism upon any poet or polite author, if we could not pronounce the conduct and sentiments of his actors either natural or unnatural to such characters, and in such circumstances? It seems almost impossible, therefore, to engage either in science or action of any kind without acknowledging the doctrine of necessity, and this inference from motive to voluntary actions, from characters to conduct. And indeed, when we consider how aptly natural and moral evidence link together, and form only one chain of argument, we shall make no scruple to allow that they are of the same nature, and derived from the same principles. 
 
-But this, it must be acknowledged, can be of no consequence to morality or religion, whatever it may be to natural philosophy or metaphysics. 
+A prisoner who has neither money nor interest discovers the impossibility of his escape. He thinks of the obstinacy of:
+- the guard 
+<!-- gaoler -->
+- the walls and bars that surrounds him
 
-We may here be mistaken in asserting that there is no idea of any other necessity or connexion in the actions of body: But surely we ascribe nothing to the actions of the mind, but what everyone does, and must readily allow of. We change no circumstance in the received orthodox system with regard to the will, but only in that with regard to material objects and causes. Nothing, therefore, can be more innocent, at least, than this doctrine. 
+To try to be free, he rather works on the guard, than the inflexible nature of stone and iron. 
 
-<!-- 76.  -->
+The same prisoner, when conducted to the scaffold, foresees his death as certainly from the constancy and fidelity of his guards, as from the operation of the axe or wheel. 
 
-All laws are founded on rewards and punishments. The motives for reward and punishment is a fundamental principle which has a regular and uniform influence on the mind. These both produce the good and prevent the evil actions. 
+His mind runs along a certain train of ideas: 
 
-We may give to this influence what name we please; but, as it is usually conjoined with the action, it must be esteemed a cause, and be looked upon as an instance of that necessity, which we would here establish. 
+1. The refusal of the soldiers to consent to his escape
+2. The action of the executioner
+3. The separation of the head and body; bleeding, convulsive motions, and death.
 
-The only proper object of hatred or vengeance is a person or creature, endowed with thought and consciousness; and when any criminal or injurious actions excite that passion, it is only by their relation to the person, or connexion with him. 
+Here is a connected chain of natural causes and voluntary actions.
 
-Actions are, by their very nature, temporary and perishing; and where they proceed not from some cause in the character and disposition of the person who performed them, they can neither redound to his honour, if good; nor infamy, if evil. 
+But the mind feels no difference between them in passing from one link to another: Nor is less certain of the future event than if it were connected with the objects present to the memory or senses, by a train of causes, cemented together by what we are pleased to call a physical necessity. 
 
-The actions themselves may be blameable; they may be contrary to all the rules of morality and religion: But the person is not answerable for them; and as they proceeded from nothing in him that is durable and constant, and leave nothing of that nature behind them, it is impossible he can, upon their account, become the object of punishment or vengeance. 
+The same experienced union has the same effect on the mind, whether the united objects be motives, volition, and actions; or figure and motion. 
 
-According to the principle, therefore, which denies necessity, and consequently causes, a man is as pure and untainted, after having committed the most horrid crime, as at the first moment of his birth, nor is his character anywise concerned in his actions, since they are not derived from it, and the wickedness of the one can never be used as a proof of the depravity of the other. 
+We may change the name of things; but their nature and their operation on the understanding never change. 
 
-Men are not blamed for such actions as they perform ignorantly and casually, whatever may be the consequences. Why? but because the principles of these actions are only momentary, and terminate in them alone. 
+If my honest and opulent close friend comes into my house, I know that he will not stab me to rob me of my silver standish, just as I know that my house will not collapse by itself. 
 
-Men are less blamed for such actions as they perform hastily and unpremeditately than for such as proceed from deliberation. This is because a hasty temper: <!-- though a constant cause or principle in the mind, --> 
-- operates only by intervals
-- infects not the whole character. 
+He might do so if he were seized with a sudden and unknown frenzy, just as my house could collapse if there was a sudden earthquake.
 
-Again, repentance wipes off every crime, if attended with a reformation of life and manners. How is this to be accounted for? 
+I shall therefore change the suppositions. 
 
-but by asserting that actions render a person criminal merely as they are proofs of criminal principles in the mind; and when, by an alteration of these principles, they cease to be just proofs, they likewise cease to be criminal. But, except upon the doctrine of necessity, they never were just proofs, and consequently never were criminal. 
+I know with certainty that he is not to put his hand into the fire and hold it there till it be consumed. If he throws himself out at the window, and meet with no obstruction, he will not remain a moment suspended in the air. 
 
-77. It will be equally easy to prove, and from the same arguments, that liberty, according to that definition above mentioned, in which all men agree, is also essential to morality, and that no human actions, where it is wanting, are susceptible of any moral qualities, or can be the objects either of approbation or dislike. 
+No suspicion of an unknown frenzy can give the least possibility to the former event, which is so contrary to all the known principles of human nature. 
 
-For as actions are objects of our moral sentiment, so far only as they are indications of the internal character, passions, and affections; it is impossible that they can give rise either to praise or blame, where they proceed not from these principles, but are derived altogether from external violence. 78. I pretend not to have obviated or removed all objections to this theory, with regard to necessity and liberty. 
+A man who at noon leaves his purse full of gold on the pavement at Charing-Cross, may as well expect that it will fly away like a feather, as that he will find it untouched an hour after. Above one half of human reasonings contain inferences of a similar nature, attended with more or less degrees of certainty proportioned to our experience of the usual conduct of mankind in such particular situations.
 
-I can foresee other objections, derived from topics which have not here been treated of. It may be said, for instance, that, if voluntary actions be subjected to the same laws of necessity with the operations of matter, there is a continued chain of necessary causes, pre-ordained and pre-determined, reaching from the original cause of all to every single volition of every human creature. 
 
-No contingency anywhere in the universe; no indifference; no liberty. While we act, we are, at the same time, acted upon. The ultimate Author of all our volitions is the Creator of the world, who first bestowed motion on this immense machine, and placed all beings in that particular position, whence every subsequent event, by an inevitable necessity, must result. Human actions, therefore, either can have no moral turpitude at all, as proceeding from so good a cause; or if they have any turpitude, they must involve our Creator in the same guilt, while he is acknowledged to be their ultimate cause and author. 
+71. I have frequently considered, what could possibly be the reason why all mankind, though they have ever, without hesitation, acknowledged the doctrine of necessity in their whole practice and reasoning, have yet discovered such a reluctance to acknowledge it in words, and have rather shown a propensity, in all ages, to profess the contrary opinion. 
 
-For as a man, who fired a mine, is answerable for all the consequences whether the train he employed be long or short; so wherever a continued chain of necessary causes is fixed, that Being, either finite or infinite, who produces the first, is likewise the author of all the rest, and must both bear the blame and acquire the praise which belong to them. Our clear and unalterable ideas of morality establish this rule, upon unquestionable reasons, when we examine the consequences of any human action; and these reasons must still have greater force when applied to the volitions and intentions of a Being infinitely wise and powerful. 
+The matter, I think, may be accounted for after the following manner. If we examine the operations of body, and the production of effects from their causes, we shall find that all our faculties can never carry us farther in our knowledge of this relation than barely to observe that particular objects are constantly conjoined together, and that the mind is carried, by a customary transition, from the appearance of one to the belief of the other. 
 
-Ignorance or impotence may be pleaded for so limited a creature as man; but those imperfections have no place in our Creator. He foresaw, he ordained, he intended all those actions of men, which we so rashly pronounce criminal. And we must therefore conclude, either that they are not criminal, or that the Deity, not man, is accountable for them. But as either of these positions is absurd and impious, it follows, that the doctrine from which they are deduced cannot possibly be true, as being liable to all the same objections. An absurd consequence, if necessary, proves the original doctrine to be absurd; in the same manner as criminal actions render criminal the original cause, if the connexion between them be necessary and evitable. This objection consists of two parts, which we shall examine separately; 
+But though this conclusion concerning human ignorance be the result of the strictest scrutiny of this subject, men still entertain a strong propensity to believe that they penetrate farther into the powers of nature, and perceive something like a necessary connexion between the cause and the effect. When again they turn their reflections towards the operations of their own minds, and feel no such connexion of the motive and the action; they are thence apt to suppose, that there is a difference between the effects which result from material force, and those which arise from thought and intelligence. 
 
-First, that, if human actions can be traced up, by a necessary chain, to the Deity, they can never be criminal; on account of the infinite perfection of that Being from whom they are derived, and who can intend nothing but what is altogether good and laudable. Or, Secondly, if they be criminal, we must retract the attribute of perfection, which we ascribe to the Deity, and must acknowledge him to be the ultimate author of guilt and moral turpitude in all his creatures. 
+But being once convinced that we know nothing farther of causation of any kind than merely the constant conjunction of objects, and the consequent inference of the mind from one to another, and finding that these two circumstances are universally allowed to have place in voluntary actions; we may be more easily led to own the same necessity common to all causes. And though this reasoning may contradict the systems of many philosophers, in ascribing necessity to the determinations of the will, we shall find, upon reflection, that they dissent from it in words only, not in their real sentiment. 
 
-79. The answer to the first objection seems obvious and convincing. There are many philosophers who, after an exact scrutiny of all the phenomena of nature, conclude, that the WHOLE, considered as one system, is, in every period of its existence, ordered with perfect benevolence; and that the utmost possible happiness will, in the end, result to all created beings, without any mixture of positive or absolute ill or misery. Every physical ill, say they, makes an essential part of this benevolent system, and could not possibly be removed, even by the Deity himself, considered as a wise agent, without giving entrance to greater ill, or excluding greater good, which will result from it. 
+Necessity, according to the sense in which it is here taken, has never yet been rejected, nor can ever, I think, be rejected by any philosopher. It may only, perhaps, be pretended that the mind can perceive, in the operations of matter, some farther connexion between the cause and effect; and connexion that has not place in voluntary actions of intelligent beings. Now whether it be so or not, can only appear upon examination; and it is incumbent on these philosophers to make good their assertion, by defining or describing that necessity, and pointing it out to us in the operations of material causes. 
 
-From this theory, some philosophers, and the ancient Stoics among the rest, derived a topic of consolation under all afflictions, while they taught their pupils that those ills under which they laboured were, in reality, goods to the universe; and that to an enlarged view, which could comprehend the whole system of nature, every event became an object of joy and exultation. But though this topic be specious and sublime, it was soon found in practice weak and ineffectual. You would surely more irritate than appease a man lying under the racking pains of the gout by preaching up to him the rectitude of those general laws, which produced the malignant humours in his body, and led them through the proper canals, to the sinews and nerves, where they now excite such acute torments. 
+72. Men begin at the wrong end of this question on liberty and necessity, when they enter on it by examining:
+- the faculties of the soul
+- the influence of the understanding
+- the operations of the will. 
 
-These enlarged views may, for a moment, please the imagination of a speculative man, who is placed in ease and security; but neither can they dwell with constancy on his mind, even though undisturbed by the emotions of pain or passion; much less can they maintain their ground when attacked by such powerful antagonists. The affections take a narrower and more natural survey of their object; and by an economy, more suitable to the infirmity of human minds, regard alone the beings around us, and are actuated by such events as appear good or ill to the private system. 80. The case is the same with moral as with physical ill. 
+Let them first discuss a more simple question, namely, the operations of body and of brute unintelligent matter; and try whether they can there form any idea of causation and necessity, except that of a constant conjunction of objects, and subsequent inference of the mind from one to another. 
 
-It cannot reasonably be supposed, that those remote considerations, which are found of so little efficacy with regard to one, will have a more powerful influence with regard to the other. The mind of man is so formed by nature that, upon the appearance of certain characters, dispositions, and actions, it immediately feels the sentiment of approbation or blame; nor are there any emotions more essential to its frame and constitution. The characters which engage our approbation are chiefly such as contribute to the peace and security of human society; as the characters which excite blame are chiefly such as tend to public detriment and disturbance: 
+If these circumstances form, in reality, the whole of that necessity, which we conceive in matter, and if these circumstances be also universally acknowledged to take place in the operations of the mind, the dispute is at an end; at least, must be owned to be thenceforth merely verbal. But as long as we will rashly suppose, that we have some farther idea of necessity and causation in the operations of external objects; at the same time, that we can find nothing farther in the voluntary actions of the mind; there is no possibility of bringing the question to any determinate issue, while we proceed upon so erroneous a supposition. 
 
-Whence it may reasonably be presumed, that the moral sentiments arise, either mediately or immediately, from a reflection of these opposite interests. What though philosophical meditations establish a different opinion or conjecture; that everything is right with regard to the WHOLE, and that the qualities, which disturb society, are, in the main, as beneficial, and are as suitable to the primary intention of nature as those which more directly promote its happiness and welfare? 
+The only method of undeceiving us is to mount up higher; to examine the narrow extent of science when applied to material causes; and to convince ourselves that all we know of them is the constant conjunction and inference above mentioned
 
-Are such remote and uncertain speculations able to counterbalance the sentiments which arise from the natural and immediate view of the objects? A man who is robbed of a considerable sum; does he find his vexation for the loss anywise diminished by these sublime reflections? 
+We may, perhaps, find that it is with difficulty we are induced to fix such narrow limits to human understanding: But we can afterwards find no difficulty when we come to apply this doctrine to the actions of the will. For as it is evident that these have a regular conjunction with motives and circumstances and characters, and as we always draw inferences from one to the other, we must be obliged to acknowledge in words that necessity, which we have already avowed, in every deliberation of our lives, and in every step of our conduct and behaviour.17 
 
-Why then should his moral resentment against the crime be supposed incompatible with them? Or why should not the acknowledgment of a real distinction between vice and virtue be reconcileable to all speculative systems of philosophy, as well as that of a real distinction between personal beauty and deformity? Both these distinctions are founded in the natural sentiments of the human mind: 
+73. But to proceed in this reconciling project with regard to the question of liberty and necessity; the most contentious question of metaphysics, the most contentious science; it will not require many words to prove, that all mankind have ever agreed in the doctrine of liberty as well as in that of necessity, and that the whole dispute, in this respect also, has been hitherto merely verbal. 
 
-These sentiments are not to be controlled or altered by any philosophical theory or speculation whatsoever. 
+For what is meant by liberty, when applied to voluntary actions? We cannot surely mean that actions have so little connexion with motives, inclinations, and circumstances, that one does not follow with a certain degree of uniformity from the other, and that one affords no inference by which we can conclude the existence of the other. For these are plain and acknowledged matters of fact. By liberty, then, we can only mean a power of acting or not acting, according to the determinations of the will; that is, if we choose to remain at rest, we may; if we choose to move, we also may. Now this hypothetical liberty is universally allowed to belong to every one who is not a prisoner and in chains. 
 
-81. The second objection admits not of so easy and satisfactory an answer; nor is it possible to explain distinctly, how the Deity can be the mediate cause of all the actions of men, without being the author of sin and moral turpitude. 
+Here, then, is no subject of dispute. 74. Whatever definition we may give of liberty, we should be careful to observe two requisite circumstances; first, that it be consistent with plain matter of fact; secondly, that it be consistent with itself. If we observe these circumstances, and render our definition intelligible, I am persuaded that all mankind will be found of one opinion with regard to it.
+It is universally allowed that:
 
-These are mysteries, which mere natural and unassisted reason is very unfit to handle; and whatever system she embraces, she must find herself involved in inextricable difficulties, and even contradictions, at every step which she takes with regard to such subjects. 
+nothing exists without a cause of its existence, and that chance, when strictly examined, is a mere negative word, and means not any real power which has anywhere a being in nature. But it is pretended that some causes are necessary, some not necessary. Here then is the advantage of definitions. Let any one define a cause, without comprehending, as a part of the definition, a necessary connexion with its effect; and let him show distinctly the origin of the idea, expressed by the definition.
 
-To reconcile the indifference and contingency of human actions with prescience; or to defend absolute decrees, and yet free the Deity from being the author of sin, has been found hitherto to exceed all the power of philosophy. Happy, if she be thence sensible of her temerity, when she pries into these sublime mysteries; and leaving a scene so full of obscurities and perplexities, return, with suitable modesty, to her true and proper province, the examination of common life; where she will find difficulties enough to employ her enquiries, without launching into so boundless an ocean of doubt, uncertainty, and contradiction!
+I shall readily give up the whole controversy. 
+
+But if the foregoing explication of the matter be received, this must be absolutely impracticable. Had not objects a regular conjunction with each other, we should never have entertained any notion of cause and effect; and this regular conjunction produces that inference of the understanding, which is the only connexion, that we can have any comprehension of. 
+
+Whoever attempts a definition of cause, exclusive of these circumstances, will be obliged either to employ unintelligible terms or such as are synonymous to the term which he endeavours to define.18 And if the definition above mentioned be admitted; liberty, when opposed to necessity, not to constraint, is the same thing with chance; which is universally allowed to have no existence.

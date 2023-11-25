@@ -4,7 +4,9 @@ heading: "Essay 11e"
 description: "The populousness of the Ancients is due to wrong record-keeping"
 image: /covers/essays.jpg
 weight: 32
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

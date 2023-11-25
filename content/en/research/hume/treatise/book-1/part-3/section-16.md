@@ -4,7 +4,9 @@ heading: Section 16
 description: "Education is disclaimed by philosophy as a fallacious assent to any opinion"
 image: /covers/treatise.png
 weight: 32
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 
@@ -82,6 +84,7 @@ There must be some impression immediately present to their memory or senses to b
 From the tone of his master's angry voice, a dog:
 infers his masters anger, and
 foresees his own punishment.
+
 From the smell in the air, a dog judges that his game is not far from him.
 The inference the dog draws from the present impression is built on:
 experience, and
@@ -89,35 +92,43 @@ his observation of the conjunction of objects in past instances.
 As you vary this experience, he varies his reasoning.
 Make a beating follow on one sign or motion for some time, and afterwards on another.
 He will successively draw different conclusions, according to his most recent experience.
-Let any philosopher:
 
-make a trial,
-try to explain belief, and
-give an account of the principles which create belief, independent of the influence of habit on the imagination
+Let any philosopher:
+- make a trial,
+- try to explain belief, and
+- give an account of the principles which create belief, independent of the influence of habit on the imagination
+
 Let his hypothesis be equally applicable to beasts and humans.
 
 I promise to embrace his opinion after he has done this.
 But at the same time, I demand that my system be received as entirely satisfactory, if it is the only one able to answer to all these.
+
 It is obvious that my system is the only one.
 The Reason of Animals is Limited to Habit and Cannot Extend to Cause and Effect
 Beasts never perceive any real connection among objects.
 
 Therefore, it is by experience that they infer one from another.
 They can never by any arguments form a general conclusion, that those objects, of which they have had no experience, resemble those of which they have.
+
 It is through habit alone that experience operates on them.
 All this was obvious with respect to humans.
+
 But with respect to animals, there cannot be the least suspicion of mistake.
 This is due to an invincible proof of my system.
-The force of habit in reconciling us to any phenomenon is best shown in the fact that:
 
-humans are not astonished at the operations of their own reason, while they admire the instinct of animals, and
-humans find a difficulty in explaining their own reason, merely because it cannot be reduced to the very same principles as instinct.
+The force of habit in reconciling us to any phenomenon is best shown in the fact that:
+- humans are not astonished at the operations of their own reason, while they admire the instinct of animals, and
+- humans find a difficulty in explaining their own reason, merely because it cannot be reduced to the very same principles as instinct.
+
 Reason is nothing but a wonderful and unintelligible instinct in our souls.
 
 It carries us along a certain train of ideas
 It endows them with qualities according to their situations and relations.
+
 This instinct arises from past observation and experience.
+
 But can any one give the ultimate reason why past experience and observation produces such an effect, any more than why nature alone should produce it?
+
 Nature may certainly produce whatever can arise from habit.
 Habit is just one of the principles of nature.
 Habit derives all its force from nature.

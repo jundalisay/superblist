@@ -5,7 +5,9 @@ description: "Ricardo's Theory in Principles of Political Economy"
 image: "/covers/general.jpg"
 # date: 2020-11-01
 weight: 62
-contributors: ['Keynes']
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 icon: "/avatars/keynes.png"
 ---
 

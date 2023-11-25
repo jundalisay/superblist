@@ -5,7 +5,9 @@ image: "/covers/general.jpg"
 description: "Keynes compares the different notions of interest by Marshall, Ricardo, Pigou, and Von Mises"
 # date: 2020-11-03
 weight: 60
-contributors: ['Keynes']
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 icon: "/avatars/keynes.png"
 ---
 

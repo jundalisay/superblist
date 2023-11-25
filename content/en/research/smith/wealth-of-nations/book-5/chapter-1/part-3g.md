@@ -1,11 +1,13 @@
 ---
 title: "The Turkey Company (1581-1825)"
-heading: "Part 3e"
+heading: "Part 3g"
 weight: 34
 image: "/covers/wn.jpg"
 description: "By a bylaw, no British manufactures could be exported to Turkey except in the company's ships."
-contributors: ['Adam Smith']
 icon: /avatars/smith.png
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

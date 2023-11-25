@@ -3,9 +3,10 @@ heading: "1890 German Edition"
 title: "Preface"
 weight: 4
 image: /covers/manifesto.png
-description: ""
-author: Karl Marx
-icon: /icons/marx.png
+description: "A second Russian translation — by Vera Zasulich — appeared in Geneva in 1882"
+writer:
+  name: Engels
+icon: /avatars/engels.jpg
 ---
 
 

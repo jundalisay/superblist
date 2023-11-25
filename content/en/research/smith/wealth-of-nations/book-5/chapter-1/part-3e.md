@@ -3,9 +3,11 @@ title: "Private Regulated Companies Versus Joint Stock Companies"
 heading: "Part 3e"
 weight: 30
 image: "/covers/wn.jpg"
-description: "Private regulated companies are enlarged monopolies that resemble guilds or the corporations of trades. Such guilds are so common in all European cities."
-contributors: ['Adam Smith']
+description: "Private regulated companies are enlarged monopolies that resemble guilds or the corporations of trades"
 icon: /avatars/smith.png
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

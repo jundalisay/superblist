@@ -3,7 +3,9 @@ title: "The Ego (Self-Love)"
 heading: "Appendix 2"
 description: "THERE is a principle, supposed to prevail among many, which is utterly incompatible with all virtue or moral sentiment"
 image: /covers/morals.png
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 weight: 32
 ---
 

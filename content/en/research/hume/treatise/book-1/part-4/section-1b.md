@@ -4,7 +4,9 @@ heading: Section 1b
 description: "The Skeptical and Other Systems of Philosophy Simplified"
 image: /covers/treatise.png
 weight: 4
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

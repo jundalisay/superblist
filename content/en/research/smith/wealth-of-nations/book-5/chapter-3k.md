@@ -60,6 +60,7 @@ The spirit of party prevails less in Scotland than in England.
 In the case of a union. it would probably prevail less in Ireland than in Scotland.
 The colonies would probably enjoy a degree of concord and unanimity unknown in the British empire.
 Both Ireland and the colonies would be subjected to heavier taxes.
+
 More of those taxes might not last long if the public revenue would be diligently and faithfully applied towards discharging the national debt.
 
 Great Britain's public revenue might be reduced to what was necessary for maintaining peace.

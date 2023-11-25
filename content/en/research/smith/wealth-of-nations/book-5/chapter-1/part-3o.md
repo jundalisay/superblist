@@ -4,8 +4,10 @@ heading: "Part 3o"
 weight: 50
 image: "/covers/wn.jpg"
 description: "Intellectual Property and Corporation Rules"
-contributors: ['Adam Smith']
 icon: /avatars/smith.png
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

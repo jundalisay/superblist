@@ -3,7 +3,9 @@ title: "Moral Obligations"
 heading: "Section 9b"
 description: "The philosophical truth of any proposition does not depend on its tendency to promote the interests of society"
 image: /covers/morals.png
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 weight: 28
 ---

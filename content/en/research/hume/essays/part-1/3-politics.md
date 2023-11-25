@@ -4,7 +4,9 @@ heading: "Essay 3"
 description: "It is wrong to say that all governments are alike, and that their only difference is in the character and conduct of the governors. If this were true, then most political disputes would end and there would be just one constitution for all"
 image: /covers/essays.jpg
 weight: 6
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 --- 
 

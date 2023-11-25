@@ -3,7 +3,9 @@ heading: Chapter 2
 title: "The Extent of the Natural Right of Man?"
 # date: 1767
 weight: 6
-contributors: ['Quesnay']
+writer:
+  name: François Quesnay
+  url: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Quesnay
 image: "/covers/rights.png"
 icon: /icons/quesnay.png
 description: "The natural right of man differs from his conventional right, or his right dependent on human laws"

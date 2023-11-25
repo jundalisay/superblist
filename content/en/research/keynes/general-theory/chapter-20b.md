@@ -6,7 +6,9 @@ image: "/covers/general.jpg"
 # date: 2020-10-02
 weight: 92
 icon: "/avatars/keynes.png"
-contributors: ['Keynes']
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 ---
 
 

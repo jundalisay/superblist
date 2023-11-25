@@ -1,10 +1,12 @@
 ---
 title: "The Rise And Progress Of The Sciences"
 heading: "Essay 14"
-description: "The Rise And Progress Of The Sciences"
+description: "Those who cultivate the sciences in any state, are always few. The passion, which governs them, is limited"
 image: /covers/essays.jpg
 weight: 28
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icons: /avatars/hume.png
 --- 
 

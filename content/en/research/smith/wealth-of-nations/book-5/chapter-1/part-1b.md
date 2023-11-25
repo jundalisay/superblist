@@ -2,7 +2,9 @@
 title: "The Development of Militaries"
 heading: "Chapter 1 Part 1b"
 weight: 6
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "The art of war is certainly the noblest of all arts"
 icon: "/avatars/smith.png"

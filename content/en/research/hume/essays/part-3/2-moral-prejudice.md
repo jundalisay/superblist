@@ -4,8 +4,10 @@ heading: "Essay 2"
 description: "The Story of the Woman who wanted to be a single mon"
 image: /covers/essays.jpg
 weight: 6
-contributors: ['Hume']
 icon: /avatars/hume.png
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 ---
 
 

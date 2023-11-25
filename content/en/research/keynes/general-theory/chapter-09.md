@@ -4,8 +4,10 @@ heading: "Chapter 9"
 image: "/covers/general.jpg"
 # date: 2020-11-23
 weight: 40
-contributors: ['Keynes']
 icon: "/avatars/keynes.png"
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 ---
 
 

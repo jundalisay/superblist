@@ -4,7 +4,9 @@ title: "Proletarians and Communists"
 weight: 10
 image: /covers/manifesto.png
 description: "What is the relationship between Communists and the proletarians?"
-author: Karl Marx
+writer:
+  name: Karl Marx
+  url: https://en.wikipedia.org/wiki/Karl_Marx
 icon: /icons/marx.png
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "The Medium Of Circulation"
 heading: "Section 2"
-contributors: ['Marx']
+writer:
+  name: Karl Marx
+  url: https://en.wikipedia.org/wiki/Karl_Marx
 image: "/covers/daskapital.jpg"
 description: "Circulation of values"
 weight: 6

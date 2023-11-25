@@ -5,8 +5,10 @@ image: "/covers/general.jpg"
 description: "The Multiplier in our theory of employment is a definite ratio between income and investment total employment and primary employment"
 # date: 2020-11-21
 weight: 42
-contributors: ['Keynes']
 icon: "/avatars/keynes.png"
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 ---
 
 

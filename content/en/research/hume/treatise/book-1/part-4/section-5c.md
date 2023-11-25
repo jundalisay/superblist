@@ -4,7 +4,9 @@ title: "The Relation of Perceptions"
 weight: 31
 image: /covers/treatise.png
 description: "The sequence of the causation and contiguity, between a physical object in space and a quality that does not exist in space have an effect on the mind."
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

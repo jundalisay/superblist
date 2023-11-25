@@ -4,7 +4,9 @@ title: "Modern Industry"
 weight: 7
 image: /covers/manifesto.png
 description: "The capitalist focuses on centralization has led to political centralization"
-author: Karl Marx
+writer:
+  name: Karl Marx
+  url: https://en.wikipedia.org/wiki/Karl_Marx
 icon: /icons/marx.png
 ---
 

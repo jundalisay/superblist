@@ -4,7 +4,9 @@ heading: "Essay 15, Part 2"
 description: "The House of Stuart was rejected because they were Catholic and Caholicism is expensive and less tolerant"
 image: /covers/essays.jpg
 weight: 46
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

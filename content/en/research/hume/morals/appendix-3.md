@@ -4,9 +4,11 @@ heading: "Section 1"
 description: "The Difference in the feelings of the ancients and modersn lead to their differences in eloquence"
 image: /covers/morals.png
 weight: 34
-contributors: ['Hume']
 icons: /avatars/hume.png
 date:   "2020-06-16"
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 --- 
 
 

@@ -1,11 +1,13 @@
 ---
 title: "The Fixed Land Tax"
-heading: "Chapter 2 Part 2b, Article 1--Taxes on Land Rent"
+heading: "Chapter 2b-02, Article 1--Taxes on Land Rent"
 weight: 12
 image: "/covers/wn.jpg"
 description: "A tax on land rent may be based on a valuation which is fixed and does not change with the actual rent which can fluctuate with the land's improvement or decline"
 icon: "/avatars/smith.png"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

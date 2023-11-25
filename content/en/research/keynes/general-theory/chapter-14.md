@@ -5,7 +5,9 @@ image: "/covers/general.jpg"
 description: "Keynes counters the classical interest rate"
 # date: 2020-11-05
 weight: 58
-contributors: ['Keynes']
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 icon: "/avatars/keynes.png"
 ---
 

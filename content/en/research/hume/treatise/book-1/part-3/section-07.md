@@ -1,10 +1,12 @@
 ---
 title: "The Nature of Idea or Belief"
 heading: Section 7
-description: "The Impressions of the Senses and Memory Simplified"
+description: "A Belief is a Strong Idea that Gives Ideas More Force"
 image: /covers/treatise.png
 weight: 14
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

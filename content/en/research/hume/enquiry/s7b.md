@@ -4,8 +4,10 @@ description: Math's great advantage over the moral sciences is that its ideas ar
 image: /covers/enquiry.jpg
 weight: 22
 heading: "Section 7"
-contributors: ['Hume']
 icon: /avatars/hume.png
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 ---
 
 

@@ -5,8 +5,10 @@ description: "My definition of net income is very close to Marshall’s definiti
 image: "/covers/general.jpg"
 # date: 2020-12-07
 weight: 26
-contributors: ['Keynes']
 icon: "/avatars/keynes.png"
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 ---
 
 

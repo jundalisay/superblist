@@ -1,10 +1,12 @@
 ---
 title: "Causes of Belief"
 heading: Section 8
-description: "The Impressions of the Senses and Memory Simplified"
+description: "Our Beliefs are Strengthened by Impressions"
 image: /covers/treatise.png
 weight: 16
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

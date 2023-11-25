@@ -3,7 +3,9 @@ heading: Chapter 3
 title: "The inequality of the Natural Rights of Men"
 # date: 1767
 weight: 8
-contributors: ['Quesnay']
+writer:
+  name: François Quesnay
+  url: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Quesnay
 image: "/covers/rights.png"
 icon: /icons/quesnay.png
 description: "The natural right of man differs from his conventional right, or his right dependent on human laws"

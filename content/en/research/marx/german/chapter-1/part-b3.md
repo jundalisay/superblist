@@ -2,7 +2,9 @@
 title: "Preconditions of the Real Liberation of Man"
 heading: Part B2-7
 description:  "Feuerbach’s whole deduction with regard to the relation of men to one another goes only so far as to prove that men need and always have needed each other"
-author:  "Karl Marx"
+writer:
+  name: Karl Marx
+  url: https://en.wikipedia.org/wiki/Karl_Marx
 icon: /icons/marx.png
 image: "/covers/german.jpg"
 ---

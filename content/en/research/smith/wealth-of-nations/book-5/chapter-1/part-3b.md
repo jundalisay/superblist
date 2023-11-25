@@ -4,9 +4,10 @@ heading: "Part 3b"
 weight: 24
 image: "/covers/wn.jpg"
 description: "There are many objections against levying a toll on turnpikes and privatizing roads"
-# youtube: "H0tUf35JB44"
-contributors: ['Adam Smith']
 icon: /avatars/smith.png
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

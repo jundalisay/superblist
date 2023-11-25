@@ -4,7 +4,9 @@ title: "German or 'True' Socialism"
 weight: 16
 image: /covers/manifesto.png
 description: "The Socialist and Communist literature of France began as a fight against the capitalists in power"
-author: Karl Marx
+writer:
+  name: Karl Marx
+  url: https://en.wikipedia.org/wiki/Karl_Marx
 icon: /icons/marx.png
 ---
 

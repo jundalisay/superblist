@@ -8,22 +8,57 @@ description: "With respect to the amity, however, which subsists in all things t
 icon: "/icons/py.png"
 ---
 
+<!-- With respect to the amity, however, which subsists in all things towards all,  -->
 
-With respect to the amity, however, which subsists in all things towards all, Pythagoras delivered it in the clearest manner. 
+Pythagoras delivered amity in the clearest manner. 
 
-And, the amity of the Gods indeed towards men, he unfolded through piety and scientific cultivation; but that of dogmas towards each other, and universally of the soul towards the body, and of the rational towards the species of the irrational part, through philosophy, and the theory pertaining to it. With respect to the amity of men also towards each other; that of citizens he delivered through sane legislation, but that of strangers through a correct physiology; and that between man and wife, or children, or brothers, 163 and kindred, through unperverted communion. In short, he unfolded the friendship of all things towards all, and still farther, of certain irrational animals, through justice and a physical connexion and association. 
+Pythagoras employed the following methods to nurture different kinds of amity:
 
-But the pacification and conciliation of the body, which is of itself mortal, and of its latent contrary powers, he unfolded through health, and a diet and temperance conformable to this, in imitation of the salubrious condition of the mundane elements. In all these, however, Pythagoras is acknowledged to have been the inventor and legislator of the summary comprehension of them in one and the same name, which is that of friendship. And indeed he delivered such an admirable friendship to his associates, that even now those who are benevolent in the extreme towards each other, are said to belong to the Pythagoreans. It is necessary therefore to narrate the discipline of Pythagoras respecting these things, and the precepts which he used towards his disciples.
+Amity | Method
+--- | ---
+The Gods towards men | Through piety and scientific cultivation
+Dogmas towards dogmas, the soul towards the body, the rational towards the irrational | Through philosophy, and the theory pertaining to it
+Citizens towards citizens | Through sane legislation
+Citizens towards foreigners | Through a correct physiology
+Man towards wife, children, brothers, kindred | Through unperverted communion
+All things towards all, even irrational animals | Through justice and a physical connexion and association. 
+The pacification and remedy of the body | Through health, diet, and temperance
 
-These men, then, exhorted others to remove from true friendship, contest and contention, and if possible, indeed, from all friendship; but if not, at least from that which is parental, and universally from that which pertains to seniors and benefactors. For to strive or contend with such as these, in consequence of anger intervening, or some other such-like passion, is not the salvation of the existing 164 friendship. 
+<!-- , which is of itself mortal, and of its latent contrary powers, he unfolded  conformable to this, in imitation of the salubrious condition of the mundane elements.  -->
 
-But they said it is requisite that there should be the least possible scars and ulcers in friendships; and that this will be the case, if those that are friends know how to soften and subdue anger. If both indeed know this, or rather the younger of the two, and who ranks in some one of the above-mentioned orders [their friendship will be more easily preserved]. They also were of opinion, that corrections and admonitions, which they called pædartases, should take place from the elder to the younger with much suavity and caution; and likewise, that much sedulous and appropriate attention should be manifested in admonitions. 
+Pythagoras invented and legislated all of these as friendship.
 
-For thus they will be decorous and beneficial. They also said, that confidence should never be separated from friendship, neither seriously nor even in jest. For it is no longer easy for the existing friendship to be in a sane condition, when falsehood once insinuates itself into the manners of those that acknowledge themselves to be friends. Again, according to them, friendship should not be abandoned on account of misfortune, or any other imbecility to which human life is incident; but they said, that the only approvable rejection of a friend and friendship, is that which arises from great and incorrigible vice. 
+ <!-- of the summary comprehension of them in one and the same name, which is that of . -->
 
-Likewise, that hatred should not be voluntarily entertained against those who are not perfectly bad; but that if it is once formed, it should be generously and strenuously 165 retained, unless the object of it changes his manners, so as to become a better man. That the hostility also should not consist in words, but in deeds; And that this war is legitimate and holy, when it is conducted in such a way as it becomes one man to contend with another.
+He delivered such an admirable friendship to his associates, that even now those who are benevolent in the extreme towards each other, are said to belong to the Pythagoreans. 
 
-They likewise said, that we should never, to the utmost of our power, become the cause of dissension; but that we should as much as possible avoid the source of it. That in the friendship also, which is intended to be pure, the greater part of the things pertaining to it ought to be definite and legitimate. And that these should be properly distinguished, and should not be casual; and moreover, that we should be careful that our conversation may never be negligently and casually performed, but with modesty, benevolence, and good order. Also, that no passion, such as desire, or anger, be rashly excited, and in a bad and erroneous manner. And the same thing must be said of the remaining passions and dispositions.
+It is necessary therefore to narrate the discipline of Pythagoras respecting these things, and the precepts which he used towards his disciples.
+
+His disciples exhorted others to remove contest and contention from true friendship. If not possible, at least remove contest and contention from parental friendship, seniority friendship, and benefactor friendship.
+
+ <!-- , and universally from that which pertains to seniors and benefactors. For to strive or contend with such as these, in consequence of anger intervening, or some other such-like passion, is not the salvation of the existing 164 friendship.  -->
+
+They said that friendships should have the least scars and ulcers. This can be achieved if friends know how to soften and subdue anger.
+
+If both know this, or rather the younger of the two, and who ranks in some one of the above-mentioned orders [their friendship will be more easily preserved].
+
+They called corrections and admonitions as 'pædartases'. These should take place from the elder to the younger with much suavity and caution. Likewise, sedulous and appropriate attention should be manifested in admonitions. 
+
+For thus they will be decorous and beneficial. They also said, that confidence should never be separated from friendship, neither seriously nor even in jest. 
+
+For it is no longer easy for the existing friendship to be in a sane condition, when falsehood once insinuates itself into the manners of those that acknowledge themselves to be friends.
+
+Friendship should not be abandoned on account of misfortune, or any other imbecility to which human life is incident. The only approvable rejection of a friend and friendship, is that which arises from great and incorrigible vice. 
+
+Hatred should not be voluntarily entertained against those who are not perfectly bad; but that if it is once formed, it should be generously and strenuously 165 retained, unless the object of it changes his manners, so as to become a better man. That the hostility also should not consist in words, but in deeds; 
+
+This war is legitimate and holy, when it is conducted in such a way as it becomes one man to contend with another.
+
+They likewise said, that we should never, to the utmost of our power, become the cause of dissension; but that we should as much as possible avoid the source of it. That in the friendship also, which is intended to be pure, the greater part of the things pertaining to it ought to be definite and legitimate.
+
+These should be properly distinguished, and should not be casual; and moreover, that we should be careful that our conversation may never be negligently and casually performed, but with modesty, benevolence, and good order.
+
+Also, that no passion, such as desire, or anger, be rashly excited, and in a bad and erroneous manner. And the same thing must be said of the remaining passions and dispositions.
 
 Moreover, that they did not decline foreign friendships carelessly, but that they avoided and guarded against them, with the greatest sedulity; and also, that they rigidly preserved friendship towards each other for many ages, may be inferred from what Aristoxenus in his treatise On the Pythagoric life, says he heard from Dionysius, the tyrant of Sicily, when having fallen from monarchy he taught grammar at Corinth. For Aristoxenus says as follows= “These men as much as possible prohibited lamentations and tears, and every thing of this kind; and in a similar manner adulation, entreaty, supplication, and the like. 
 
@@ -51,7 +86,11 @@ Clinias the Tarentine learned that Prorus the Cyrenæan was zealously addicted t
 
 After the same manner also, Thestor Posidoniates, having learnt from report alone, that Thymaridas Parius the Pythagorean had fallen into poverty, from the possession of great wealth, is said to have sailed to Parus, after having collected a large sum of money, and thus reinstated Thymaridas in property. 
 
-These therefore are beautiful instances of friendship. The decisions, however, of the Pythagoreans respecting the communion of divine goods, the concord of intellect, and things pertaining to a divine soul, are much more admirable than the above examples. For they perpetually exhorted each other, not to divulse the God within them. Hence all the endeavour of their friendship both in deeds and words, was directed to a certain divine mixture, to a union with divinity, and to a communion with intellect and a divine soul. 
+These therefore are beautiful instances of friendship. 
+
+The decisions, however, of the Pythagoreans respecting the communion of divine goods, the concord of intellect, and things pertaining to a divine soul, are much more admirable than the above examples. For they perpetually exhorted each other, not to divulse the God within them. 
+
+Hence all the endeavour of their friendship both in deeds and words, was directed to a certain divine mixture, to a union with divinity, and to a communion with intellect and a divine soul. 
 
 <!-- But it is not possible to find any thing better than this, either in what is uttered by words, or performed by deeds. 
 I think that all the goods of friendship are comprehended in this. Hence, as we have collected in this, as in a summit, all the prerogatives of the Pythagoric friendship, we shall omit to say any thing further about it.

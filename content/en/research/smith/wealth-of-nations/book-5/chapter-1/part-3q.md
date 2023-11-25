@@ -3,9 +3,11 @@ title: "Scholarships"
 heading: "Part 3q"
 weight: 54
 image: "/covers/wn.jpg"
-description: "University Education"
-contributors: ['Adam Smith']
+description: "The charitable foundations of scholarships attach students to colleges, independent of the merit of those colleges"
 icon: /avatars/smith.png
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

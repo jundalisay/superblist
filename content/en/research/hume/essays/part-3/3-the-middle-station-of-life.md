@@ -5,8 +5,10 @@ heading: "Essay 3"
 description: "The middle class is the happiest of all the classes"
 image: /covers/essays.jpg
 weight: 8
-contributors: ['Hume']
 icon: /avatars/hume.png
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 ---
 
 

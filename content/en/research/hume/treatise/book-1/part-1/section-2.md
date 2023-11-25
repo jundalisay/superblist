@@ -4,7 +4,9 @@ title: "Impressions"
 weight: 6
 image: /covers/treatise.png
 description: "Generally, simple ideas and impressions are exactly correspondent, as the complex are formed from them"
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

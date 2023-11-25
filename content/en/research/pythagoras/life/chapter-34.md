@@ -1,10 +1,12 @@
 ---
-title: "Pythagoras' Political Contributions"
+# title: "Pythagoras' Political Contributions"
+title: Pythagoras on Dialects and Medicine
+# - the best dialect, as well as the best harmony of music, is the Doric
 heading: "Chapter 34"
 author: Iamblichus
 weight: 48
 image: "/covers/lifepyi.png"
-description: "Iamblichus’ Life of Pythagoras"
+description: "Pythagoreans were ordered to use their native language because the Pythagoreans did not approve of foreign languages"
 icon: /icons/py.png
 aliases:
   /research/pythagoras/iamblichus/chapter-34

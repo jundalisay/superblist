@@ -4,7 +4,9 @@ title: "Equality is Different from Infinity"
 weight: 10
 image: /covers/treatise.png
 description: "Impressions always precede ideas. Every idea first appears as a correspondent impression"
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

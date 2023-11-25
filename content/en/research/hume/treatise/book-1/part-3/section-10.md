@@ -1,10 +1,12 @@
 ---
 title: "The Influence of Belief"
 heading: Section 10
-description: "Education is disclaimed by philosophy as a fallacious assent to any opinion"
+description: "Impressions and Ideas are Balanced by Nature"
 image: /covers/treatise.png
 weight: 20
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

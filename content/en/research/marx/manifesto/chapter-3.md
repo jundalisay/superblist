@@ -4,7 +4,9 @@ title: "Socialist and Communist Literature"
 weight: 14
 image: /covers/manifesto.png
 description: "The French and English aristocracies wrote pamphlets against modern capitalist society"
-author: Karl Marx
+writer:
+  name: Karl Marx
+  url: https://en.wikipedia.org/wiki/Karl_Marx
 icon: /icons/marx.png
 ---
 

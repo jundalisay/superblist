@@ -81,12 +81,20 @@ But the next to this in wisdom, is that which gives names to things.
 
 Hence they say that Pythagoras praised the Salaminian poet Hippodomas, because he sings:
 
+{{< q a="Pythagoras" >}}
 Tell, O ye Gods! the source from whence you came,
-
 Say whence, O men! thus evil you became?
+{{< /q >}}
+
 
 These therefore, and such as these, are the auditions of this kind. For each of these shows what a thing especially is. 
 
-This however is the same with what is called the wisdom of the 7 wise men. For they investigated, not what is simply good, but what is especially so; nor what is difficult, but what is most difficult; viz. for a man to know himself. Nor did they investigate what is easy, but what is most easy; viz. to do what you are accustomed to do. For it seems that such auditions as the above, are conformable but posterior in time to such wisdom as that of the seven wise men; since they were prior to Pythagoras. 
+This however is the same with "the wisdom of the 7 wise men".
 
+They investigated for a man to know himself, to know:
+- not what is simply good, but what is especially good
+- not what is difficult, but what is most difficult
 
+They investigated to do what is natural for oneself, to know not what is easy, but what is most easy.
+
+The above auditions are conformable but posterior in time to such wisdom as that of the 7 wise men; since they were prior to Pythagoras.

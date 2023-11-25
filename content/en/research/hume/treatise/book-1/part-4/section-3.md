@@ -4,7 +4,9 @@ heading: Section 3
 description: "Aristotle's Original Substance as a Universal Identity"
 image: /covers/treatise.png
 weight: 8
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

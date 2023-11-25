@@ -4,7 +4,9 @@ heading: "Essay 8"
 description: "Of all men, that distinguish themselves by memorable achievements, the first place of honour seems due to LEGISLATORS and founders of states, who transmit a system of laws and institutions to secure the peace, happiness, and liberty of future generations"
 image: /covers/essays.jpg
 weight: 16
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icons: /avatars/hume.png
 --- 
 

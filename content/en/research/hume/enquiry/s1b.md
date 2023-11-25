@@ -4,7 +4,9 @@ heading: "Section 1b"
 description: Hume explains the Importance of Metaphysics Research
 image: /covers/enquiry.jpg
 weight: 4
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 --- 
 

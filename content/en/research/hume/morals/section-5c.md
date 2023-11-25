@@ -3,7 +3,9 @@ title: "Social Morals"
 heading: "Section 5c"
 description: "A creature, absolutely malicious and spiteful, were there any such in nature, must be worse than indifferent to the images of vice and virtue"
 image: /covers/morals.png
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 weight: 16
 ---

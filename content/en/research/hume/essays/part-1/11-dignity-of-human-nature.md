@@ -4,7 +4,9 @@ heading: "Essay 11"
 description: "Are Humans Inherently Good or Bad?"
 image: /covers/essays.jpg
 weight: 22
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icons: /avatars/hume.png
 --- 
 

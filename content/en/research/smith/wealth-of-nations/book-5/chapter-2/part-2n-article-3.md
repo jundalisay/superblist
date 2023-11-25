@@ -1,11 +1,13 @@
 ---
 title: "Taxes on Consumable Commodities"
-heading: "Part 2n, Article 2"
+heading: "Chapter 2c-03, Article 3"
 weight: 36
 image: "/covers/wn.jpg"
 description: "The impossibility of taxing people according to their revenue by any capitation led to the invention of taxes on consumable commodities"
 icon: "/avatars/smith.png"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

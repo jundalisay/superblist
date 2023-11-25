@@ -4,7 +4,9 @@ heading: "Essay 7"
 description: "It affords a violent prejudice against almost every science, that no prudent man, however sure of his principles, dares prophesy concerning any event, or foretel the remote consequences of things"
 image: /covers/essays.jpg
 weight: 14
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icons: /avatars/hume.png
 --- 
 

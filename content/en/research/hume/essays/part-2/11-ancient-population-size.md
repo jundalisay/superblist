@@ -4,7 +4,9 @@ heading: "Essay 11"
 description: "The population was fewer during the ancient times"
 image: /covers/essays.jpg
 weight: 24
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

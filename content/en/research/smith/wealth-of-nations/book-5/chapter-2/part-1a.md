@@ -1,11 +1,13 @@
 ---
 title: "The funds which belong to the sovereign or commonwealth"
-heading: "Chapter 2 Part 1a"
+heading: "Chapter 2a-01"
 weight: 6
 image: "/covers/wn.jpg"
 description: "The revenue which pays for national defense and the government may be drawn from some fund for from the revenue of the people"
 icon: "/avatars/smith.png"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

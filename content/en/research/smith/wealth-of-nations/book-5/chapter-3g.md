@@ -94,6 +94,7 @@ The same nominal sum has been gradually brought to contain a fewer silver.
 {{< s v="64" >}} For the same purpose, nations have sometimes adulterated the standard of their coin by mixing more alloy in it.
 
 For example, if 249 grams of alloy was added in every 373 grams of our silver coin, instead of the present standard of 28 grams of alloy, 240 pence of such coin would be worth little more than 80 pence of our present money. [((373-249)/373)/((373-28)/373) or 36%]
+
 The value of the amount of silver in 80 pence of our present money would be raised to the denomination of 240 pence.
 The adulteration of the standard has exactly the same effect with what the French call an augmentation, or a direct raising of the coin's denomination.
 

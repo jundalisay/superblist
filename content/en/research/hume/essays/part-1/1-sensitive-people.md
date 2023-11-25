@@ -5,7 +5,9 @@ description: "Some people are extremely sensitive to all the accidents of life. 
 image: /covers/essays.jpg
 # datez:2020-12-31
 weight: 2
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 --- 
 

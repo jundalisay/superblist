@@ -5,8 +5,10 @@ description: "The interest rate of money sets a standard to which the marginal e
 image: "/covers/general.jpg"
 # date: 2020-10-18
 weight: 76
-contributors: ['Keynes']
 icon: "/avatars/keynes.png"
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 ---
 
 

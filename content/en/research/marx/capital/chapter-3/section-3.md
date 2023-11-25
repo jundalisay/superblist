@@ -1,7 +1,9 @@
 ---
 title: "Other Functions of Money"
 heading: "Section 3"
-contributors: ['Marx']
+writer:
+  name: Karl Marx
+  url: https://en.wikipedia.org/wiki/Karl_Marx
 image: "/covers/daskapital.jpg"
 description: "Money is the measure of value and the medium of circulation. Gold (or silver) is therefore money"
 weight: 8

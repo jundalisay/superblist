@@ -5,7 +5,9 @@ image: "/covers/general.jpg"
 description: "The prospective yield of the investment"
 # date: 2020-11-14
 weight: 50
-contributors: ['Keynes']
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 icon: "/avatars/keynes.png"
 ---
 

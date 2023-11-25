@@ -5,7 +5,9 @@ description: "True inflation happens when a further increase in effective demand
 image: "/covers/general.jpg"
 weight: 98
 icon: "/avatars/keynes.png"
-author: "John Maynard Keynes"
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 ---
 
 

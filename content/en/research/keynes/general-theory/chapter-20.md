@@ -5,8 +5,10 @@ description: "The employment function only differs from the aggregate supply fun
 image: "/covers/general.jpg"
 # date: 2020-10-04
 weight: 90
-contributors: ['Keynes']
 icon: "/avatars/keynes.png"
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 ---
 
 

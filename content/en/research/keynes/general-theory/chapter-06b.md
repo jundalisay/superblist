@@ -5,8 +5,10 @@ description: "The income of the current period is obtained by deducting from A +
 image: "/covers/general.jpg"
 # date: 2020-12-09
 weight: 24
-contributors: ['Keynes']
 icon: "/avatars/keynes.png"
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 ---
 
 

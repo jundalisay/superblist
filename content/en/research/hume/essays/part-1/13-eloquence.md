@@ -4,7 +4,9 @@ heading: "Essay 13"
 description: "The Difference in the feelings of the ancients and modersn lead to their differences in eloquence"
 image: /covers/essays.jpg
 weight: 26
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icons: /avatars/hume.png
 --- 
 

@@ -4,7 +4,9 @@ heading: "Essay 5"
 description: "The Balance Of Trade Simplified"
 image: /covers/essays.jpg
 weight: 12
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 --- 
 

@@ -4,7 +4,9 @@ heading: "Essay 3"
 description: "Labor is the ultimate measure of value, not money"
 image: /covers/essays.jpg
 weight: 8
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

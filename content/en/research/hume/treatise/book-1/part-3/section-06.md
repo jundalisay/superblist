@@ -4,7 +4,9 @@ heading: Section 6
 description: "The Impressions of the Senses and Memory Simplified"
 image: /covers/treatise.png
 weight: 12
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 
@@ -77,6 +79,7 @@ Our senses show us in one instance two bodies, motions, or qualities in certain 
 Our memory presents us only with a multitude of instances.
 We always find like bodies, motions, or qualities in like relations in these instances.
 From the mere repetition of any past impression, even to infinity, there never will arise any new original idea, such as that of a necessary connection.
+
 The number of impressions has in this case no more effect than if we confined ourselves to one only.
 This reasoning seems just and obvious.
 

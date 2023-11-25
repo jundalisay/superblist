@@ -3,7 +3,10 @@ title: "The Immortality Of The Soul"
 heading: "Essay 10"
 description: "The Three arguments for the immortality of the soul"
 image: /covers/essays.jpg
-weight: 10"
+weight: 10
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 ---
 
 

@@ -4,7 +4,9 @@ title: "The flights of the imagination"
 weight: 42
 image: /covers/treatise.png
 description: "The flights of the imagination are most dangerous to reason"
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

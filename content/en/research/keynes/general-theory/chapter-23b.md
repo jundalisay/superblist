@@ -1,10 +1,13 @@
 ---
-title: "Mercantilism, Usury Laws, Stamped Money, Under-Consumption Theories"
-description: "For 200 years, people saw a national advantage in a favourable balance of trade, and grave danger in an unfavourable balance, particularly if it results in an efflux of the precious metals"
+title: "Four Facts About Mercantilism"
+description: "Professor Heckscher has a great work on Mercantilism which had 4 conclusions"
 image: "/covers/general.jpg"
 # date: 2019-12-15
 weight: 106
 icon: "/avatars/keynes.png"
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 ---
 
 
@@ -14,7 +17,7 @@ III
 
 Professor Heckscher has a great work on Mercantilism which had 4 conclusions. <!-- , in which the essential characteristics of economic thought over a period of two centuries are made available for the first time to the general economic reader. The quotations which follow are mainly taken from his pages.[6] --> 
 
-## 1 Mercantilist thought never supposed that there was a self-adjusting tendency for the interest rate to be at an appropriate level. 
+## 1 Mercantilist thought never supposed that there was a self-adjusting tendency for the interest rate to be at an appropriate level.
 
 On the contrary, they were emphatic that an unduly high interest rate was the main obstacle to the growth of wealth.
 
@@ -191,14 +194,18 @@ I believe that the interest rate is not self-adjusting at a level best suited to
 
 The Classical school has repudiated the above doctrine as childish. But I believe it deserves rehabilitation and honour.
 
-A wise Government then curbs it by statute and custom and even by invoking morality. Provisions against usury are amongst the most ancient economic practices. 
+A wise Government then curbs interest rates by statute and custom and even by invoking morality. Provisions against usury are amongst the most ancient economic practices. 
 
 The destruction of the inducement to invest by an excessive love for money <!-- liquidity-preference --> was the outstanding evil. 
 - It was the prime impediment to the growth of wealth in the ancient and medieval worlds. 
 
 <!-- And naturally so, since certain of the risks and hazards of economic life diminish the marginal efficiency of capital whilst others serve to increase the preference for liquidity.  -->
 
-In a world, therefore, which no one reckoned to be safe, it was almost inevitable that the rate of interest, unless it was curbed by every instrument at the disposal of society, would rise too high to permit of an adequate inducement to invest. 
+In an unsafe world, the interest rate would naturally rise too high to allow an adequate inducement to invest, unless it was curbed by society.
+
+ <!-- every instrument at the disposal of, would  -->
+
+
 
 I was brought up to believe that:
 - the Medieval Church's view on interest rates was inherently absurd
@@ -233,6 +240,6 @@ Bentham criticized:
 
 Bentham defined "projectors" as people who pursue wealth by invention or improvement, needing wealth in the process. <!-- , or even of any other object, endeavour, by the assistance of wealth, to strike into any channel of invention ... upon all such persons as, in the line of any of their pursuits, aim at anything that can be called improvement. ... It falls, in short, upon every application of the human powers, in which ingenuity stands in need of wealth for its assistance.” --> Of course Bentham is right in protesting the laws which stand in the way of taking legitimate risks. He says= “A prudent man will not pick out the good projects from the bad, for he will not meddle with projects at all.”[25] 
 
-It may be doubted, perhaps, whether the above is just what Adam Smith intended by his term. Or is it that we are hearing in Bentham (though writing in March 1787 from “Crichoff in White Russia”) the voice of nineteenth-century England speaking to the eighteenth? For nothing short of the exuberance of the greatest age of the inducement to investment could have made it possible to lose sight of the theoretical possibility of its insufficiency. 
+Is the above what Adam Smith intended by his term? Or is it that we are hearing in Bentham (though writing in March 1787 from “Crichoff in White Russia”) the voice of 19th-century England speaking to the 18th?
 
-
+For nothing short of the exuberance of the greatest age of the inducement to investment could have made it possible to lose sight of the theoretical possibility of its insufficiency. 

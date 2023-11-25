@@ -3,14 +3,15 @@ heading: Part 2
 title: The General Formula for Capital
 # heading: Capital Volume One
 weight: 2
-description: The General Formula for Capital
-contributors: ['Marx']
+description: The General Formula for Capital from The Transformation of Money into Capital
+writer:
+  name: Karl Marx
+  url: https://en.wikipedia.org/wiki/Karl_Marx
 icon: /icons/marx.png
 ---
 
 
-Part 2: The Transformation of Money into Capital
-
+## Part 2: The Transformation of Money into Capital
 
 {{< c v="red">}}
 The circulation of commodities is the starting-point of capital. 

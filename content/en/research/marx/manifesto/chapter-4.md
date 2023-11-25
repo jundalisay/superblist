@@ -4,7 +4,9 @@ title: "The Communists and Various Opposition Parties"
 weight: 20
 image: /covers/manifesto.png
 description: "The Communists fight for the attainment of the immediate aims and the enforcement of the momentary interests of the working class"
-author: Karl Marx
+writer:
+  name: Karl Marx
+  url: https://en.wikipedia.org/wiki/Karl_Marx
 icon: /icons/marx.png
 ---
 

@@ -4,7 +4,9 @@ title: "The Idea of Identity is Caused by the Resemblance of Perceptions"
 weight: 36
 image: /covers/treatise.png
 description: "Our idea of the personal identity which produces thought or imagination can be explained by our idea on the personal identity of plants and animals"
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

@@ -4,7 +4,9 @@ heading: "Essay 4"
 description: "Love and respect begets love and respect"
 image: /covers/essays.jpg
 weight: 14
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

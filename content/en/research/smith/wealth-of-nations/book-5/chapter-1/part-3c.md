@@ -1,11 +1,13 @@
 ---
 title: "State-Owned Public Works"
-heading: "Part 3h"
+heading: "Part 3c"
 weight: 26
 image: "/covers/wn.jpg"
-description: "The following public works are always better maintained by a local or public revenue. Those which cannot maintain themselves, and those which benefits are confined to a district"
-contributors: ['Adam Smith']
+description: "The following public works are always better maintained by a local or public revenue"
 icon: /avatars/smith.png
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

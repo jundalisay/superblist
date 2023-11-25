@@ -4,7 +4,9 @@ heading: "Essay 4"
 description: "Interest rates show how much stock is circulating in an economy"
 image: /covers/essays.jpg
 weight: 10
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 --- 
 

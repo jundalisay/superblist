@@ -21,6 +21,8 @@ Self
 Capitalism
 http://localhost:1313/social/economics/principles/part-3/chapter-11b/
 
+https://en.wikipedia.org/wiki/David_Ricardo
+
 
 
 Einstein admitted that his whole theory was a scam from the start, as circular reasoning. 

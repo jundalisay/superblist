@@ -1,11 +1,13 @@
 ---
 title: "Appendix to Articles 1 and 2-Capital Taxes"
-heading: "Part 2, Article 2"
+heading: "Chapter 2b-10 Article 2"
 weight: 29
 image: "/covers/wn.jpg"
 description: "While property remains with the same person, its taxes never aim to reduce or take away its capital value"
 icon: "/avatars/smith.png"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

@@ -4,7 +4,9 @@ heading: Section 15
 description: "Education is disclaimed by philosophy as a fallacious assent to any opinion"
 image: /covers/treatise.png
 weight: 30
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

@@ -1,11 +1,13 @@
 ---
 title: "General Taxes: Customs Duties"
-heading: "Part 2p, Article 2"
+heading: "Chapter 2d-02, Article 4"
 weight: 42
 image: "/covers/wn.jpg"
-description: "In all cases, high duties reduced customs revenue below what moderate duties would have afforded. The high duties imposed on foreign imports encouraged smuggling"
+description: "In all cases, high duties reduced customs revenue below what moderate duties would have afforded"
 icon: "/avatars/smith.png"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

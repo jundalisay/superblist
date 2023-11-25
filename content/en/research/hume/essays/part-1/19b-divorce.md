@@ -4,7 +4,9 @@ heading: "Essay 19b"
 description: "The Rise And Progress Of The Arts"
 image: /covers/essays.jpg
 weight: 42
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icons: /avatars/hume.png
 --- 
 

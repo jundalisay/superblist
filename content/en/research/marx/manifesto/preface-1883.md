@@ -3,9 +3,10 @@ heading: "1883 German Edition"
 title: "Preface"
 weight: 3
 image: /covers/manifesto.png
-description: ""
-author: Karl Marx
-icon: /icons/marx.png
+description: "Marx died on March 14, 1883"
+writer:
+  name: Engels
+icon: /avatars/engels.jpg
 ---
 
 

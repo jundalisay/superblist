@@ -3,7 +3,9 @@ heading: Chapter 5
 title: "The Natural Right of Men united in Society under a Sovereign Authority"
 # date: 1767
 weight: 12
-contributors: ['Quesnay']
+writer:
+  name: François Quesnay
+  url: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Quesnay
 image: "/covers/rights.png"
 icon: /icons/quesnay.png
 description: "Men may be considered either in a state of solitude, or as congregated into societies"

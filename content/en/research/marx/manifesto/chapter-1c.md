@@ -4,7 +4,9 @@ title: "Class Struggle Between Proletariat and Bourgeoisie"
 weight: 8
 image: /covers/manifesto.png
 description: "Of all the classes that stand face to face with the capitalists today, the proletariat alone is revolutionary"
-author: Karl Marx
+writer:
+  name: Karl Marx
+  url: https://en.wikipedia.org/wiki/Karl_Marx
 icon: /icons/marx.png
 ---
 

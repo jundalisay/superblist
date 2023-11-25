@@ -82,6 +82,8 @@
 
 .einbla, .einblah, .Einstein-sophist {background-image: url(/icons/einbla.png);}
 
+.Engels {background-image: url(/avatars/engels.jpg);}
+
 .Hegel {background-image: url(/avatars/hegel.png);}
 
 .Helmholtz {background-image: url(/avatars/helmholtz.jpg);}
@@ -204,7 +206,7 @@
   background-image: url(/icons/moses.png);
 }
 
-.Mary, .Wife, .Woman {background-image: url(/icons/veil.png);}
+.Mary, .Wife, .Woman, .Oracle {background-image: url(/icons/veil.png);}
 
 /* Chinese */
 .tsang, .Tsang-Sin, .Szma-Niu {background-image: url(/avatars/ava4.jpg);}

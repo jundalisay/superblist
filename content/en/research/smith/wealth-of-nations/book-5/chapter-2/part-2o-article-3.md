@@ -1,11 +1,13 @@
 ---
 title: "Taxes on Necessities"
-heading: "Part 2o, Article 2"
+heading: "Chapter 2c-04, Article 3"
 weight: 38
 image: "/covers/wn.jpg"
 description: "In Great Britain, the principal taxes on necessities are those on salt, leather, soap, and candles"
 icon: "/avatars/smith.png"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

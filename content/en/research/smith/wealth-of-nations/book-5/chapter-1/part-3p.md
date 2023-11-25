@@ -1,11 +1,13 @@
 ---
-title: "Article 2-Educational Institutions for the youth"
-heading: "Part 3j"
+title: "Educational Institutions for the youth"
+heading: "Part 3p: Article 2"
 weight: 52
 image: "/covers/wn.jpg"
 description: "University Education"
-contributors: ['Adam Smith']
 icon: /avatars/smith.png
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

@@ -12,13 +12,21 @@ icon: "/icons/py.png"
 
 The Crotonians used to be impelled to make sumptuous funerals and interments. 
 
-Someone said to them that he had heard Pythagoras <!-- when he was discoursing about divine natures observe, --> say that the Olympian Gods attended to the dispositions of those who sacrificed, and not to the number of the sacrifices. On the contrary, the terrestrial Gods, as being allotted the government of things less important, rejoiced in banquets and lamentations, and farther still, in continual libations, in delicacies, and in celebrating funerals with great expense. Whence, on account of his wish to receive, Pluto is called Hades. 
+Someone said that Pythagoras said <!-- when he was discoursing about divine natures observe, --> that the Olympian Gods attended to the dispositions of those who sacrificed, and not to the number of the sacrifices.
 
-He suffers, therefore, those that slenderly honor him to remain for a longer time in the upper world; but he always draws down some one of those who are disposed to spend profusely in funeral solemnities, in order that he may obtain the honors which take 90 place in commemoration of the dead. In consequence of this advice, the Crotonians that heard it were of opinion, that if they conducted themselves moderately in misfortunes, they would preserve their own salvation; but that if they were immoderate in their expenses, they would all of them die prematurely. 
+On the contrary, the terrestrial Gods were given the government of things less important, They rejoiced in banquets and lamentations, continual libations, in delicacies, and in celebrating funerals with great expense.
+
+Whence, on account of his wish to receive, Pluto is called Hades. 
+
+He suffers, therefore, those that slenderly honor him to remain for a longer time in the upper world; but he always draws down some one of those who are disposed to spend profusely in funeral solemnities, in order that he may obtain the honors which take 90 place in commemoration of the dead. 
+
+In consequence of this advice, the Crotonians that heard it were of opinion, that if they conducted themselves moderately in misfortunes, they would preserve their own salvation; but that if they were immoderate in their expenses, they would all of them die prematurely. 
 
 A certain person also having been made an arbitrator in an affair in which there was no witness, led each of the litigants to a certain monument, and said to one of them, the man who is buried in this monument was transcendently equitable; in consequence of which the other litigant prayed that the dead man might obtain much good; but the former said that the defunct was not at all better for the prayers of his opponent. 
 
-Pythagoras, therefore, condemned what the former litigant said, but asserted that he who praised the dead man for his worth, had done that which would be of no small importance in his claim to belief. At another time, in a cause of great moment, he decided that one of the two who had agreed to settle the affair by arbitration, should pay four talents, but that the other should receive two. Afterwards, he condemned the defendant to pay three talents; and thus he appeared to have given a talent to each of them. 
+Pythagoras, therefore, condemned what the former litigant said, but asserted that he who praised the dead man for his worth, had done that which would be of no small importance in his claim to belief. 
+
+At another time, in a cause of great moment, he decided that one of the two who had agreed to settle the affair by arbitration, should pay four talents, but that the other should receive two. Afterwards, he condemned the defendant to pay three talents; and thus he appeared to have given a talent to each of them. 
 
 Two persons also had fraudulently deposited a garment with a woman who belonged to a court of justice, and told her she was not to give it to either of them unless both were present. Some time after, for the purpose of circumvention, 91 one of them received the common deposit, and said that it was with the consent of the other. But the other, who had not been present [when the garment was returned], acted the part of a sycophant, and related the compact that was made at the beginning, to the magistrates. A certain Pythagorean, however, taking up the affair said, that the woman had acted conformably to the compact, as both parties had been present. 
 

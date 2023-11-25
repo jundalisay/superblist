@@ -71,18 +71,15 @@ Sinking funds generally arose more from a reduction of interest than from any su
 - Hence the usual insufficiency of such funds.
 
 
-{{< s v="40" >}} During peacetime, various events require an extraordinary expence.
+{{< s v="40" >}} Government finds it always more convenient to defray extraordinary peacetime expences by misapplying the sinking fund instead of  imposing a new tax.
+- This is because every new tax is immediately opposed by the people.
 
-Government finds it always more convenient to defray this expence by misapplying the sinking fund than by imposing a new tax.
-    Every new tax is immediately felt by the people.
-    It always creates some murmur and is met with some opposition.
-The more taxes are created, the higher the taxation.
-    The more loudly the people complain of every new tax, the more difficult it becomes to= 
-        find out new subjects of taxation, or
-        raise the current taxes.
+The more taxes are created, the higher the taxation, the more loudly the people complain of every new tax. The more difficult it becomes to:
+- find out new subjects of taxation, or
+- raise the current taxes.
 
 A momentary suspension of the debt payment is not immediately felt by the people.
-- It creates no murmur or complaint.
+- It creates no complaint or opposition.
 
 Borrowing from the sinking fund is always an obvious and easy way to gett out of the present difficulty.
 - The more the public debts are accumulated, the more necessary it is to study to reduce them, the more dangerous it is to misapply the sinking fund.
@@ -90,7 +87,7 @@ Borrowing from the sinking fund is always an obvious and easy way to gett out of
 The less likely the public debt is reduced, the more likely it is for the sinking fund to be misapplied towards defraying all the extraordinary peacetime expences.
 
 When a nation is already overburdened with taxes, only the need of a new war, fueled by national vengeance or anxiety, can induce people to submit to a new tax.
-    Hence the usual misapplication of the sinking fund.
+- Hence the usual misapplication of the sinking fund.
 
 
 

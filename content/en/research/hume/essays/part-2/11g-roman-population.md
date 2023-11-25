@@ -4,7 +4,9 @@ heading: "Essay 11d"
 description: "The Population of Ancient Rome and Italy"
 image: /covers/essays.jpg
 weight: 36
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

@@ -4,7 +4,9 @@ heading: "Essay 4"
 description: "The most surprizing about human affairs is the ease with which the many are governed by the few and the implicit submission of men to their rulers"
 image: /covers/essays.jpg
 weight: 8
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icons: /avatars/hume.png
 --- 
 

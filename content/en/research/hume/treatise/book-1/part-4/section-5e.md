@@ -4,7 +4,9 @@ title: "Spinoza's Philosophy -- The Soul's Immateriality"
 weight: 33
 image: /covers/treatise.png
 description: "It has been said against Spinoza scholastically, that a mode is not any distinct or separate existence"
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

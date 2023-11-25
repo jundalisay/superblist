@@ -4,7 +4,9 @@ heading: "Essay 18"
 description: "Skeptic"
 image: /covers/essays.jpg
 weight: 38
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icons: /avatars/hume.png
 --- 
 

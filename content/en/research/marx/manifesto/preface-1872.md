@@ -5,8 +5,9 @@ title: "Preface"
 weight: 2
 image: /covers/manifesto.png
 description: "The Communist League is an international association of workers. It could only be secret one, under conditions at the time"
-author: Karl Marx
-icon: /icons/marx.png
+writer:
+  name: Engels
+icon: /avatars/engels.jpg
 ---
 
 

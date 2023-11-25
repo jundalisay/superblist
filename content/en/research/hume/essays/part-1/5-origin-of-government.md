@@ -4,7 +4,9 @@ heading: "Essay 5"
 description: "Perfect liberty is the separation of powers under an authority, with the laws known to all"
 image: /covers/essays.jpg
 weight: 10
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icons: /avatars/hume.png
 ---
 

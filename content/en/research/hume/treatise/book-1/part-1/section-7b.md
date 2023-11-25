@@ -4,7 +4,9 @@ title: "Definition of Shape"
 weight: 12
 image: /covers/treatise.png
 description: "Are abstract or general ideas conceived by the mind in a general or particular way?"
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

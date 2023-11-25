@@ -1,16 +1,23 @@
 ---
 title: "Qualities Immediately Agreeable To Others"
 heading: "Section 8"
-description: "The mutual shocks in SOCIETY and the oppositions of interest and ego have constrained mankind to establish the laws of JUSTICE, in order to preserve the advantages of mutual assistance and protection"
+description: "The mutual shocks in SOCIETY and the oppositions of interest and ego have constrained mankind to establish the laws of JUSTICE"
 image: /covers/morals.png
-contributors: ['Hume']
 icon: /avatars/hume.png
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 weight: 24
 ---
 
 
 
-[Hume Footnote: The natural definition of virtue is **a quality of the mind agreeable to or approved of by every one who considers or contemplates it**. Some qualities produce pleasure because they are useful to society or to the person himself, Other qualities produce pleasure more immediately. This is the case with the class of virtues here.]
+{{< box >}}
+### Hume Footnote
+
+The natural definition of virtue is **a quality of the mind agreeable to or approved of by every one who considers or contemplates it**. Some qualities produce pleasure because they are useful to society or to the person himself, Other qualities produce pleasure more immediately. This is the case with the class of virtues here.
+{{< /box >}}
+
 
 The mutual shocks in SOCIETY and the oppositions of interest and ego have constrained mankind to establish the laws of JUSTICE, in order to preserve the advantages of mutual assistance and protection.
 
@@ -55,9 +62,17 @@ Being so often struck with instances of one species of deformity, men think they
 
 For this reason custom has established it as a rule, in common societies, that men should not indulge themselves in self-praise, or even speak much of themselves; and it is only among intimate friends or people of very manly behaviour, that one is allowed to do himself justice. Nobody finds fault with Maurice, Prince of Orange, for his reply to one who asked him, whom he esteemed the first general of the age, THE MARQUIS OF SPINOLA, said he, IS THE SECOND. Though it is observable, that the self-praise implied is here better implied, than if it had been directly expressed, without any cover or disguise.
 
-He must be a very superficial thinker, who imagines that all instances of mutual deference are to be understood in earnest, and that a man would be more esteemable for being ignorant of his own merits and accomplishments. A small bias towards modesty, even in the internal sentiment, is favourably regarded, especially in young people; and a strong bias is required in the outward behaviour; but this excludes not a noble pride and spirit, which may openly display itself in its full extent, when one lies under calumny or oppression of any kind. The generous contumacy of Socrates, as Cicero calls it, has been highly celebrated in all ages; and when joined to the usual modesty of his behaviour, forms a shining character. 
+He must be a very superficial thinker, who imagines that all instances of mutual deference are to be understood in earnest, and that a man would be more esteemable for being ignorant of his own merits and accomplishments.
 
-Iphicrates, the Athenian, being accused of betraying the interests of his country, asked his accuser, WOULD YOU, says he, HAVE, ON A LIKE OCCASION, BEEN GUILTY OF THAT CRIME? BY NO MEANS, replied the other. AND CAN YOU THEN IMAGINE, cried the hero, that Iphicrates WOULD BE GUILTY? [Footnote=  Quinctil. lib. v. cap. 12.]—In short, a generous spirit and self-value, well founded, decently disguised, and courageously supported under distress and calumny, is a great excellency, and seems to derive its merit from the noble elevation of its sentiment, or its immediate agreeableness to its possessor. In ordinary characters, we approve of a bias towards modesty, which is a quality immediately agreeable to others=  the vicious excess of the former virtue, namely, insolence or haughtiness, is immediately disagreeable to others; the excess of the latter is so to the possessor. Thus are the boundaries of these duties adjusted.
+A small bias towards modesty, even in the internal sentiment, is favourably regarded, especially in young people; and a strong bias is required in the outward behaviour; but this excludes not a noble pride and spirit, which may openly display itself in its full extent, when one lies under calumny or oppression of any kind. The generous contumacy of Socrates, as Cicero calls it, has been highly celebrated in all ages; and when joined to the usual modesty of his behaviour, forms a shining character. 
+
+Iphicrates, the Athenian, being accused of betraying the interests of his country, asked his accuser, WOULD YOU, says he, HAVE, ON A LIKE OCCASION, BEEN GUILTY OF THAT CRIME? BY NO MEANS, replied the other. AND CAN YOU THEN IMAGINE, cried the hero, that Iphicrates WOULD BE GUILTY? 
+
+[Footnote=  Quinctil. lib. v. cap. 12.]
+
+In short, a generous spirit and self-value, well founded, decently disguised, and courageously supported under distress and calumny, is a great excellency, and seems to derive its merit from the noble elevation of its sentiment, or its immediate agreeableness to its possessor.
+
+In ordinary characters, we approve of a bias towards modesty, which is a quality immediately agreeable to others=  the vicious excess of the former virtue, namely, insolence or haughtiness, is immediately disagreeable to others; the excess of the latter is so to the possessor. Thus are the boundaries of these duties adjusted.
 
 A desire of fame, reputation, or a character with others, is so far from being blameable, that it seems inseparable from virtue, genius, capacity, and a generous or noble disposition.
 
@@ -83,7 +98,9 @@ Faults are just smaller vices. This fault can have no other origin than the unea
 
 Here in this trivial instance, we clearly discover the origin of moral distinctions, about which the learned have involved themselves in such mazes of perplexity and error.
 
-But besides all the AGREEABLE qualities, the origin of whose beauty we can, in some degree, explain and account for, there still remains something mysterious and inexplicable, which conveys an immediate satisfaction to the spectator, but how, or why, or for what reason, he cannot pretend to determine. There is a manner, a grace, an ease, a genteelness, an I-know-not-what, which some men possess above others, which is very different from external beauty and comeliness, and which, however, catches our affection almost as suddenly and powerfully. 
+But besides all the AGREEABLE qualities, the origin of whose beauty we can, in some degree, explain and account for, there still remains something mysterious and inexplicable, which conveys an immediate satisfaction to the spectator, but how, or why, or for what reason, he cannot pretend to determine.
+
+There is a manner, a grace, an ease, a genteelness, an I-know-not-what, which some men possess above others, which is very different from external beauty and comeliness, and which, however, catches our affection almost as suddenly and powerfully. 
 
 And though this MANNER be chiefly talked of in the passion between the sexes, where the concealed magic is easily explained, yet surely much of it prevails in all our estimation of characters, and forms no inconsiderable part of personal merit.
 

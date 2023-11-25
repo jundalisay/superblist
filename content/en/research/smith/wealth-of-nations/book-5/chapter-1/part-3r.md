@@ -4,8 +4,10 @@ heading: "Part 3r"
 weight: 56
 image: "/covers/wn.jpg"
 description: "When Christianity was first established by law, a corrupted Latin had become the common language of Western Europe"
-contributors: ['Adam Smith']
 icon: /avatars/smith.png
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

@@ -1,7 +1,9 @@
 ---
 title: "The Ruling Class"
 description:  "The ideas of the ruling class are in every epoch the ruling ideas, i.e. the class which is the ruling material force of society, is at the same time its ruling intellectual force"
-author:  "Karl Marx"
+writer:
+  name: Karl Marx
+  url: https://en.wikipedia.org/wiki/Karl_Marx
 icon: /icons/marx.png
 image: "/covers/german.jpg"
 aliases:

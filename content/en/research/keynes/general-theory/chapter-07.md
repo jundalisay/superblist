@@ -1,12 +1,14 @@
 ---
 heading: "Chapter 7"
 title: "The Meaning of Saving and Investment Further Considered"
-description: "The income of the current period is obtained by deducting from A + G - A1 a certain sum, to represent that part of its value which has been contributed by the equipment inherited from the previous period"
+description: "The income of the current period is obtained by deducting from A + G - A1"
 image: "/covers/general.jpg"
 # date: 2020-12-05
 weight: 28
-contributors: ['Keynes']
 icon: "/avatars/keynes.png"
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 ---
 
 

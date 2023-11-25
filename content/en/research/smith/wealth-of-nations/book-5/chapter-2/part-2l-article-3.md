@@ -1,11 +1,13 @@
 ---
 title: "Wage Taxes"
-heading: "Part 2l, Article 2"
+heading: "Chapter 2c-01, Article 3"
 weight: 32
 image: "/covers/wn.jpg"
 description: "While the demand for labour and the price of goods remain the same, a direct tax on wages raises wages higher than the tax"
 icon: "/avatars/smith.png"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

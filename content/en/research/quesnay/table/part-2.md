@@ -3,10 +3,12 @@ heading: Part 2
 title: "Tableau Economique"
 # date: 1759
 weight: 4
-contributors: ['Quesnay']
+writer:
+  name: François Quesnay
+  url: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Quesnay
 image: "/covers/table.png"
 icon: /icons/quesnay.png
-description: "Such is the distributive order of the consumption of the native products among the different classes of citizens, and such is the idea we should have of the practice and the extent of the foreign commerce of a flourishing agricultural Nation"
+description: "Such is the distributive order of the consumption of the native products among the different classes of citizens"
 ---
 
 

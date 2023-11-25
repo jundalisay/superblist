@@ -1,11 +1,13 @@
 ---
 title: "The Rent and sale of government lands"
-heading: "Chapter 2 Part 1b"
+heading: "Chapter 2a-02"
 weight: 8
 image: "/covers/wn.jpg"
 description: "The rent of a great landed estate might ordinarily defray all the necessary expences of government"
 icon: "/avatars/smith.png"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

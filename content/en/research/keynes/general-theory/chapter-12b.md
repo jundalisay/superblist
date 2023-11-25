@@ -5,7 +5,9 @@ image: "/covers/general.jpg"
 description: "Keynes talks about Expectations"
 # date: 2020-11-12
 weight: 52
-contributors: ['Keynes']
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 icon: "/avatars/keynes.png"
 ---
 

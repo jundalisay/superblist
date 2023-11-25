@@ -4,7 +4,9 @@ title: "The Idea of Existence and External Existence"
 weight: 12
 image: /covers/treatise.png
 description: "The Idea of Space is Just Made Up of Points"
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

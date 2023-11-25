@@ -4,7 +4,9 @@ heading: "Essay 15"
 description: "This is the voice of Pride, not of Nature."
 image: /covers/essays.jpg
 weight: 32
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icons: /avatars/hume.png
 --- 
 

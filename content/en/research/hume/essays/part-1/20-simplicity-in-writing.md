@@ -2,10 +2,11 @@
 title: "Simplicity And Refinement In Writing"
 heading: "Essay 20"
 description: "Simplicity And Refinement In Writing Simplified"
-# image: "/photos/econ/writer.jpg"
 image: /covers/essays.jpg
 weight: 44
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icons: /avatars/hume.png
 --- 
 

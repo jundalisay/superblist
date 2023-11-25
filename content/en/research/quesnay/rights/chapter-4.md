@@ -3,7 +3,9 @@ heading: Chapter 4
 title: "The Natural Right of Men considered relatively to one another"
 # date: 1767
 weight: 10
-contributors: ['Quesnay']
+writer:
+  name: François Quesnay
+  url: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Quesnay
 image: "/covers/rights.png"
 icon: /icons/quesnay.png
 description: "Men may be considered either in a state of solitude, or as congregated into societies"

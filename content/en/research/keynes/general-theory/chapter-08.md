@@ -5,8 +5,10 @@ description: "Employment is determined by the point of intersection of the aggre
 image: "/covers/general.jpg"
 # date: 2020-11-28
 weight: 34
-contributors: ['Keynes']
 icon: "/avatars/keynes.png"
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 ---
 
 > Superphysics Note: We replace "wage-unit" with "hourly-common-wage"

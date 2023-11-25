@@ -4,8 +4,10 @@ heading: "Part 3s"
 weight: 58
 image: "/covers/wn.jpg"
 description: "The changes introduced by European universities into the ancient course of philosophy were all meant to educate ecclesiastics"
-contributors: ['Adam Smith']
 icon: /avatars/smith.png
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

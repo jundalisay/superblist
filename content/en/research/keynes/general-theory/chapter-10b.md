@@ -5,19 +5,18 @@ image: "/covers/general.jpg"
 description: "The Multiplier in our theory of employment is a definite ratio between income and investment total employment and primary employment"
 # date: 2020-11-18
 weight: 44
-contributors: ['Keynes']
 icon: "/avatars/keynes.png"
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 ---
 
 
 <!-- III -->
 
-<!-- We have been dealing so far with a net increment of investment.  -->
-
 The net increment of investment can manifest as increased public works if we assume that there is:
 - no offset through decreased investment in other directions
 - no associated change in the propensity of the community to consume
-<!-- If we wish to apply  without qualification to the effect of (eg.) , we have to ,- -->
 
 Mr. Kahn was mainly concerned in the article referred to in the previous section:
 - in considering what offsets we should take into account as likely to be important, and

@@ -5,8 +5,10 @@ description: "Keynes explains Expectation as Determining Output and Employment"
 image: "/covers/general.jpg"
 # date: 2020-12-13
 weight: 20
-contributors: ['Keynes']
 icon: "/avatars/keynes.png"
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 ---
 
 

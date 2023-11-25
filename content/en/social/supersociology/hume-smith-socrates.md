@@ -103,15 +103,14 @@ Why is our generation lacking the same wise people to counter ultra-rational bel
 
 If the experts on Smith and Hume successfully countered laissez faire from the 1990's, would the 2008 Financial Crisis happen? 
 
-Must it take another huge economic crisis for wiser philosophers to come up and counter ultra-rationalism, just as a meat lover must suffer from a stroke before listening to a doctor who comes up and advises him to cut down on meat?
+Must it take another huge economic crisis for wiser philosophers to emerge and counter ultra-rationalism, just as a meat lover must suffer from a stroke before listening to his doctor who advises him to avoid meat?
 
 Smith and Hume point to the heart or feeling as the basis or morality and not the brain or intellect.
 
 Rationalists, on the other hand, focus solely on the brain or intellect, disregarding feeling. 
 
-By disregarding feelings, rationalism allows only one feeling to exist -- the feeling of the self or ego. Without ego, one does not exist. Thus, by denying feeling, rationalists unknowingly breed selfishness and end up working against society and themselves in the end.
+By disregarding feelings, rationalism allows only one feeling to exist -- **the feeling of the self or ego**. Without ego, one does not exist. Thus, by denying feeling, rationalists unknowingly breed selfishness and end up working against society and themselves in the end.
 
-
-Rationalism and objectivism are useful in backward societies that have no reason, such as in ultra-religious countries that oppress their own people. But they are usually harmful in modern societies that are already too intellectual or rational. 
+Rationalism and objectivism are useful in backward societies that have no reason, such as in ultra-religious countries that oppress their own people. But they are usually harmful in modern societies that are already intellectual or rational. 
 
 Modern societies need more heart instead. Thus, an ideal human philosophy should balance heart and brain, with the heart first and brain immediately afterwards, as what is observed naturally.

@@ -4,7 +4,9 @@ title: "Abolition of the Family and Nations"
 weight: 12
 image: /covers/manifesto.png
 description: "Even the most radical flare up at our call to abolish the family"
-author: Karl Marx
+writer:
+  name: Karl Marx
+  url: https://en.wikipedia.org/wiki/Karl_Marx
 icon: /icons/marx.png
 ---
 

@@ -4,7 +4,9 @@ heading: "Essay 2"
 # Refinement in the Arts
 description: "Proper Luxury should be encouraged and bad luxury discouraged"
 weight: 6
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 image: /covers/essays.jpg
 ---

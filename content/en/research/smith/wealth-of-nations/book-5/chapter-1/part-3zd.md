@@ -4,7 +4,9 @@ heading: "Part 3zd"
 weight: 80
 image: "/covers/wn.jpg"
 description: "The proper performance of every service requires that its pay be proportional to the nature of the service"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 ---
 

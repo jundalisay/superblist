@@ -1,10 +1,12 @@
 ---
 title: "The Platonist"
 heading: "Essay 17"
-description: "Some philosophers are surprised that a man differs so widely from himself at different times. He rejects with disdain what, before, was the object of all his wishes"
+description: "Some philosophers are surprised that a man differs so widely from himself at different times"
 image: /covers/essays.jpg
 weight: 36
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icons: /avatars/hume.png
 --- 
 

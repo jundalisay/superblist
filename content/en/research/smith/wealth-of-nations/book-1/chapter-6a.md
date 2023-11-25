@@ -1,4 +1,3 @@
-
 ---
 title: "The Component Parts of the Price of Commodities"
 heading: "Chapter 6a"

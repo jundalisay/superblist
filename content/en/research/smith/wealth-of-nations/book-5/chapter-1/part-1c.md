@@ -2,10 +2,12 @@
 title: "Two Methods of Defense: Militias and Armies"
 heading: "Chapter 1 Part 1c"
 weight: 8
-contributors: ['Adam Smith']
 image: "/covers/wn.jpg"
 description: "The state can use 2 methods for the public defence"
 icon: "/avatars/smith.png"
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 
@@ -21,11 +23,9 @@ It may oblige some citizens of military age to become soldiers, in addition to t
 It may do this through a very rigorous police, despite the people's contrary interest, genius, and inclinations.
 18 This method forms a militia
 
-17 2. It may separate the soldier's profession from all other professions by maintaining and employing some citizens in constant military exercises.
+{{< s v="17" >}} 2. It may separate the soldier's profession from all other professions by maintaining and employing some citizens in constant military exercises.
 
-18 This method forms a standing army
-
-18 The practice of military exercises is the sole or principal occupation of a standing army.
+<sup>18</sup> This method forms a standing army. The practice of military exercises is the sole or principal occupation of a standing army.
 
 The maintenance or pay the state affords them is their subsistence's principal and ordinary fund.
 The practice of military exercises is only the militia's occasional occupation.
@@ -34,12 +34,14 @@ In a militia, the character of the labourer, artificer, or tradesman, predominat
     In a standing army, the character of the soldier predominates over every other character.
     This is the essential difference between militias and standing armies.
 
-19 There are many kinds of militias.
+<sup>19</sup> There are many kinds of militias.
 
 In some countries, the citizens defending the states were exercised without being regimented.
     They were not divided into separate bodies of troops with its own permanent officers.
+
 In the ancient Greek and Roman republics, each citizen who remained at home practised his exercises separately and independently.
     He was not attached to any body of troops until he was actually called on to take the field.
+
 In other countries, the militia was regimented.
     In England, Switzerland, and other modern European countries where militias were established, every militiaman is attached to a body of troops under its own permanent officers even in peacetime.
 
@@ -59,8 +61,7 @@ Since the invention of firearms, strength, agility, dexterity, and skill in the 
     All the dexterity and skill needed for using firearms can be acquired by practising in great bodies.
 
 
-{{< s v="21" >}}
-21 In modern armies, regularity, order, and prompt obedience to command are more important in determining the fate of battles than dexterity and skill in arms.
+{{< s v="21" >}} In modern armies, regularity, order, and prompt obedience to command are more important in determining the fate of battles than dexterity and skill in arms.
 
 The noise, smoke, and the invisible death from firearms makes it very difficult to maintain any regularity, order, and prompt obedience even in the beginning of a modern battle.
 
@@ -113,4 +114,5 @@ The soldiers are every day exercised in the use of their arms.
 - They are habituated to the same prompt obedience as in standing armies.
 
 What they were before they took the field is of little importance.
+
 Should the war in America drag out through another campaign, the American militia may become a match for a standing army not inferior to the valour of the French and Spanish veterans of the last war.

@@ -5,13 +5,14 @@ image: "/covers/general.jpg"
 description: "According to Keynes, the interest rate is based on the love for cash"
 # date: 2020-11-09
 weight: 54
-contributors: ['Keynes']
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 icon: "/avatars/keynes.png"
 ---
 
 
 > *Superphysics Note: Here, we dissect Keynes' reasoning on why his system is totally different from Classical -- because he enshrines the love for cash!
-
 
 
 <!-- Thus the rate of interest at any time is the reward for parting with liquidity. -->

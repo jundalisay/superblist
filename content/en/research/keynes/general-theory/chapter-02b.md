@@ -5,20 +5,20 @@ description: "Keynes continues his corruption of Classical theory by arguing for
 image: "/covers/general.jpg"
 # date: 2020-12-28
 weight: 4
+writer:
+  name: John Maynard Keynes
+  url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 icon: "/avatars/keynes.png"
 ---
 
+
 > Superphysics note: In Economic Superphysics, wages are under the 3rd Law of Value as Energy Flow
-
-
 
 What is the actual statistical relationship between:
 - changes in money-wages and
 - changes in real wages?
 
 In a particular industry, one would expect the change in real wages to be in the same direction as the change in money-wages. 
-
-
 
 
 But in the case of general wages, the change in real wages associated with a change in money-wages, is so far from being in the same direction. It is almost always in the opposite direction:

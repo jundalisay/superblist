@@ -4,7 +4,9 @@ title: "Bourgeois and Proletarians"
 weight: 6
 image: /covers/manifesto.png
 description: "The spectre of communism is haunting Europe"
-author: Karl Marx
+writer:
+  name: Karl Marx
+  url: https://en.wikipedia.org/wiki/Karl_Marx
 icon: /icons/marx.png
 ---
 

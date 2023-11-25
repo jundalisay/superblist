@@ -1,5 +1,5 @@
 ---
-title: "Abaris"
+title: "Abaris the Hyperborean"
 heading: "Chapter 19"
 weight: 24
 author: "Iamblichus"
