@@ -45,9 +45,14 @@ The old Achaean republic and the modern Swiss Cantons and United Provinces are c
 The long and helpless infancy of man requires the combination of parents for the subsistence of their young; and that combination requires the virtue of chastity or fidelity to the marriage bed. Without such a UTILITY, it will readily be owned, that such a virtue would never have been thought of.
 
 {{< box >}}
- [Footnote=  The only solution, which Plato gives to all the objections that might be raised against the community of women, established in his imaginary commonwealth, is, [Greek quotation here]. <!-- Scite enim istud et dicitur et dicetur, Id quod utile sit honestum esse,
-quod autem inutile sit turpe esse. [De Rep lib v p 457 ex edit Ser]. --> And
-this maxim will admit of no doubt, where public utility is concerned, which is Plato's meaning. And indeed to what other purpose do all the ideas of chastity and modesty serve? "Nisi utile est quod facimus, frustra est gloria," says Phaedrus. [Greek quotation here], says Plutarch, de vitioso pudore. "Nihil eorum quae damnosa sunt, pulchrum est." The same was the opinion of the Stoics [Greek quotation here; from Sept. Emp lib III cap 20].
+### Footnote
+
+The only solution, which Plato gives to all the objections that might be raised against the community of women, established in his imaginary commonwealth, is, [Greek quotation here]. <!-- Scite enim istud et dicitur et dicetur, Id quod utile sit honestum esse,
+quod autem inutile sit turpe esse. [De Rep lib v p 457 ex edit Ser]. --> 
+
+This maxim will admit of no doubt, where public utility is concerned, which is Plato's meaning. And indeed to what other purpose do all the ideas of chastity and modesty serve? 
+
+"Nisi utile est quod facimus, frustra est gloria," says Phaedrus. [Greek quotation here], says Plutarch, de vitioso pudore. "Nihil eorum quae damnosa sunt, pulchrum est." The same was the opinion of the Stoics [Greek quotation here; from Sept. Emp lib III cap 20].
 {{< /box >}}
 
 An infidelity of this nature is much more PERNICIOUS in WOMEN than in MEN. Hence the laws of chastity are much stricter over the one sex than over the other.
@@ -62,7 +67,9 @@ To which we may add, in the present case of chastity, that the example of the ol
 
 Those who live in the same family have such frequent opportunities of licence of this kind, that nothing could prevent purity of manners, were marriage allowed, among the nearest relations, or any intercourse of love between them ratified by law and custom. Incest, therefore, being PERNICIOUS in a superior degree, has also a superior turpitude and moral deformity annexed to it.
 
-What is the reason, why, by the Athenian laws, one might marry a half-sister by the father, but not by the mother? Plainly this=  The manners of the Athenians were so reserved, that a man was never permitted to approach the women's apartment, even in the same family, unless where he visited his own mother. His step-mother and her children were as much shut up from him as the woman of any other family, and there was as little danger of any criminal correspondence between them. Uncles and nieces, for a like reason, might marry at Athens; but neither these, nor half-brothers and sisters, could contract that alliance at Rome, where the intercourse was more open between the sexes. Public utility is the cause of all these variations.
+What is the reason, why, by the Athenian laws, one might marry a half-sister by the father, but not by the mother? 
+
+Plainly this=  The manners of the Athenians were so reserved, that a man was never permitted to approach the women's apartment, even in the same family, unless where he visited his own mother. His step-mother and her children were as much shut up from him as the woman of any other family, and there was as little danger of any criminal correspondence between them. Uncles and nieces, for a like reason, might marry at Athens; but neither these, nor half-brothers and sisters, could contract that alliance at Rome, where the intercourse was more open between the sexes. Public utility is the cause of all these variations.
 
 To repeat, to a man's prejudice, anything that escaped him in private conversation, or to make any such use of his private letters, is highly blamed. The free and social intercourse of minds must be extremely checked, where no such rules of fidelity are established.
 
