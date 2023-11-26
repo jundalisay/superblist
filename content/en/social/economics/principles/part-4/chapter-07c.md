@@ -27,7 +27,7 @@ Economics | Supereconomics
 Value of Economy = Quantity of Money | Value of Economy = Quantity of Effort to produce the same output, pegged to grain values 
 
 
-{{< q a="Smith" c="The Wealth of Nations Book 1, Chapter 11, Part 3" >}}
+{{< q a="Adam-Smith" c="The Wealth of Nations Book 1, Chapter 11, Part 3" >}}
 The increase of food from the increasing cultivation increases the demand for the non-food produce of land. This demand will then be applied to use or to ornament. There should be only one variation in the comparative values of the commodities for use and the commodities for ornament. <i>The value of non-food produce should constantly rise relative to food produce.</i>
 {{< /q >}}
 
@@ -35,7 +35,7 @@ The increase of food from the increasing cultivation increases the demand for th
 ## The Digression on Silver
 
 To prove that relationship, he had to write about:
-- the price of wheat (food produce) in three periods
+- the price of wheat (food produce) from year 1262 to 1700
 - the price of silver in the world and its ratio to gold (non-food produce)
 - the nature of the price of other non-food produce
 
@@ -74,12 +74,12 @@ The purchasing power of a city or country is then compared to itself in the past
 
 Who wouldn't want to live in a country that has more real value and is more resistant to economic crises?
 
-{{< q a="Smith" c="The Wealth of Nations Simplified, Book 1, Chapter 11, Digression" >}}
+{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 1, Chapter 11, Digression" >}}
 Finding an easy proof of a country's prosperity may be useful to the public.
 {{< /q >}}
 
 
-## The Net Domestic Product
+## The Net Domestic Product or NDP
 
 The combined realized productivity of everyone makes up the Net Domestic Product or NDP. 
 
@@ -97,13 +97,22 @@ We thus notate GDP as:
 - $: Gross Revenue of the entire financial system and insurance of a society
 {{< /box >}}
 
-{{< q a="Smith" c="The Wealth of Nations Book 2" >}}
+<br>
+
+{{< q a="Adam-Smith" c="The Wealth of Nations Book 2" >}}
 The money which circulates the society's whole revenue among its members makes no part of that revenue. The great wheel of circulation is different from the goods which are circulated through it. The society's revenue is in those goods, not in the wheel that circulates them.. In computing any society's gross or net revenue,we must always deduct the whole value of money from the whole annual circulation of money and goods. The value of money can never make a part of the society's gross or net revenue.
 {{< /q >}}
 
-Money and finance are just tools to circulate real value as services (haircuts, cleaning, construction, utilities) and products (iPhones, potatoes, clothes). They are not real value or wealth themselves. 
+Money and finance are just *tools* to circulate real value as services (haircuts, cleaning, construction, utilities) and products (iPhones, potatoes, clothes). They are not real value or wealth themselves. 
 
-For example, a family has no internal financial system that charges the children a fee each time their mother cooks a meal for them. Instead, they pay back by getting good grades and doing as they're told. Family life would actually be more difficult and unnatural if the parents imposed such a system.  
+For example, a family has no internal financial system that charges the children a fee each time their mother cooks a meal for them. Instead, they pay back by getting good grades and doing as they're told. Family life would actually be more difficult and unnatural if the parents imposed such a financial system. 
+
+The increase in economic difficulties in most countries are thus caused by the financial system growing more powerful. This is explained by financier Jeremy Grantham himself:
+
+{{< youtube hIKG2YpFoFQ >}}
+
+
+## Ways to Get the NDP
 
 There are 2 ways to get the NDP, just as there are 2 ways to get the GDP:
 
@@ -113,7 +122,7 @@ There are 2 ways to get the NDP, just as there are 2 ways to get the GDP:
 <!-- Purchasing Power (Supply Side Productivity) -->
 <!-- Ratio of commodities to grain or Grain index (Demand Side Consumption) -->
 
-## Top-Down
+### Top-Down
 
 <!-- Purchasing power is the net revenue from GDP or gross revenue of a society. It is made up of the net profits that go to the wallets or vaults of business owners, and wages that goes to the wallets or bags of employees. Unlike the GDP of Economics which is only measured in currency, the purchasing power of Superphysics is measured in both money and non-money as grains. -->
 
@@ -126,7 +135,7 @@ This approach deducts the effort of society in maintaing the money-system that c
 
 The expenses for finance charges, insurance premiums, interest payments, credit card annual fees, etc. all go as into the gross revenue of banks, fintech, and financial institutions.  These do not affect the real economy in the sense that it does not matter whether a street bakery:
 - had its equipment insured
-- was banking with a large or small bank
+- was banking with a large bank or small bank
 - accepted major credit cards  
 
 All you need to know is:
@@ -135,7 +144,7 @@ All you need to know is:
 
 The financial system is therefore deducted from the GDP to arrive at the NDP roughly. 
 
-For example, the GDP or gross revenue of Singapore is nominally $323.9b. Its purchasing power would be the GDP minus the entire gross revenue of its financial and insurance system for that year. This includes its social security and pension system. 
+For example, the GDP or gross revenue of Singapore is nominally $323.9b. Its purchasing power would be the GDP minus the entire gross revenue of its financial and insurance systems for that year. This includes its social security and pension system. 
 
 <!-- tax payments to government and the cost of money used up in producing that GDP . This cost of money is the expense in using the money and financial system for circulating the real value in any economy. -->
 
@@ -164,7 +173,7 @@ An NDP system would expose the lack of real value in an economy immedately so th
  -->
 
 
-## Bottom-Up
+### Bottom-Up
 
 Governments will likely stick to the GDP system instead of excluding the revenue of its financial system. So we can build the NDP from the bottom-up by computing the actual purhases of people relative to the past and those of other countries. 
 
@@ -183,7 +192,7 @@ For example, we can compare the value of the purchases of 5 people for this mont
 - If a kilo of rice in Vietnam is $0.50 and chicken is $5, then 1 rice : 0.10 chicken.
 
 
-_ | **Philippines** | **Vietnam** 
+As of Q4 2019 | **Philippines** | **Vietnam** 
 --- | --- | ---
 1 kg Rice can buy | **330 grams chicken** | 100 grams chicken
 1 kg Chicken can buy | 3.33 kg Rice | **10 kg Rice**
@@ -198,7 +207,7 @@ This would then guide people on the socioeconomic condition of the cities or cou
 
 The rich could use this to justify moving to Singapore, while the lower classes might use it to decide to live in the Philippines or Vietnam.
 
-_ | **Singapore** | **Philippines** | **Vietnam**
+As of Q4 2019 | **Singapore** | **Philippines** | **Vietnam**
 --- | --- | --- | ---
 GDP per capita | {{< c v="lightseagreen" >}} $100,345 (1st place, 13x Vietnam) {{< /c >}} | $8,936 (2nd place, 1.19x Vietnam) | {{< c v="tomato" >}} $7,510 (3rd place){{< /c >}}
 Rice Prices per kg | 75 US cents or 1.1 SGD (2nd place or 1.5x Vietnam) | {{< c v="tomato" >}}80 US cents or 40 PHP (3rd or 1.6x Vietnam){{< /c >}} | {{< c v="lightseagreen" >}}50 US cents or 12k VND (1st place or cheapest){{< /c >}}
@@ -244,7 +253,10 @@ Our system allows everyone to know the real economic status of their city or cou
 
 This is different from Modern Economics which measures national wealth top-down through GDP and its sustainability through the CPI (consumer price index), both measured in currency. 
 
-GDP makes it difficult to value goods and services during bubbles and hyperinflation as what happened in Zimbabwe. If a financial crisis hits a Pantrynomy, the valuation can merely switch to the Grain index to keep the supply chain humming.
+GDP makes it difficult to value goods and services during bubbles and hyperinflation as what happened in Zimbabwe. If a financial crisis hits a supereconomy*, the valuation can merely switch to the Grain index to keep the supply chain humming.
+
+> *An economy that follows Adam Smith's system
+
 
 Under Economics, a country can theoretically have a single giant corporation exporting everything, having huge GDP while its workers starve to produce those exports at low cost. A GDP standard would still rate the starving country as wealthy. Countries even tweak their GDP numbers artificially to give an illusion that their economy is so good and their leaders are so effective.
 
@@ -252,14 +264,13 @@ Our NDP standard, on the other hand, would properly expose the real poverty hidd
 
 Some organizations advocate a [GDP 2.0](https://equitablegrowth.org/gdp-2-0-measuring-who-prospers-when-the-u-s-economy-grows/) which measures income and other things. However, their flaw is that those are still measured in money which is volatile to begin with.   
 
-In addition, our Grain index eliminates the need for complicated subjective factors that are present in other indices like [the Human Development Index](https://en.wikipedia.org/wiki/Human_Development_Index#Criticism), [Happy Planet Index](https://en.wikipedia.org/wiki/Happy_Planet_Index#Criticism), [Better Life Index](https://en.wikipedia.org/wiki/OECD_Better_Life_Index#Criticism), etc. The subjectiveness is only in what items are pegged aganst the Grain index. 
+In contrast, our Grain index eliminates the need for complicated subjective factors that are present in other indices like [the Human Development Index](https://en.wikipedia.org/wiki/Human_Development_Index#Criticism), [Happy Planet Index](https://en.wikipedia.org/wiki/Happy_Planet_Index#Criticism), [Better Life Index](https://en.wikipedia.org/wiki/OECD_Better_Life_Index#Criticism), etc. The subjectiveness is only in what items are pegged aganst the Grain index. 
 
 More importantly, our system cuts the cost of transactions while retaining democracy. It avoids degenerating into an arbitrary [social credit system](https://www.wired.co.uk/article/china-social-credit-system-explained). <!--  while it reduces the cost of cirulating value throughout society.  -->
 
 
-{{< q a="Adam-Smith" >}}
-<p>The riches of a country does not consist in the amount of money used to circulate commerce, but in the great abundance of life's necessaries. We would greatly increase our country's wealth if we could find a way to send the half of our money abroad to be converted into goods, and supply the channel of circulation at home, at the same time.</p>
-<cite>Lectures on Jurisprudence Chapter 9</cite>
+{{< q a="Adam-Smith" c="Lectures on Jurisprudence Chapter 9" >}}
+The riches of a country does not consist in the amount of money used to circulate commerce, but in the great abundance of life's necessaries. We would greatly increase our country's wealth if we could find a way to send the half of our money abroad to be converted into goods, and supply the channel of circulation at home, at the same time.</p>
 {{< /q >}}
 
 

@@ -3,12 +3,13 @@ heading: Chapter 9
 title: "The English Courts of Justice"
 # date: 2015-09-10
 weight: 26
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "English courts were created based on the speed of resolution and then the nature of the cases"
 ---
-
 
 
 In England and Europe after the feudal law was introduced, governance was done in the same way as a baron in his jurisdiction. The baron was a steward who managed all affairs in his lord's county. 

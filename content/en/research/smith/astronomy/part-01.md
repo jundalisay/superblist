@@ -4,7 +4,9 @@ heading: Part 1
 description: "Of all natural phenomena, mankind has been most curious of the celestial ones because of their"
 image: /covers/astronomy.jpg
 weight: 4
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Karl_Marx
 # date: 2022-09-20
 ---
 

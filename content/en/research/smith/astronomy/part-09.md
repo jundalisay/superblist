@@ -4,7 +4,9 @@ heading: Part 9
 description: "Descartes was the first who tried to ascertain precisely this invisible chain that Kepler said to link the planets to the sun."
 image: /covers/astronomy.jpg
 # date: 2022-09-24
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 weight: 20
 aliases:
   /research/smith/astronomy/descartes

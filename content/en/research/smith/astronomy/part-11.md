@@ -4,7 +4,9 @@ heading: Part 11
 description: "Newton and the Shape of the Planets as Oblate Spheroids"
 image: /covers/astronomy.jpg
 weight: 24
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 # date: 2022-09-20
 aliases:
   /research/smith/astronomy/newton2

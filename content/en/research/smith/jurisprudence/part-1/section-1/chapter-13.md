@@ -3,7 +3,9 @@ heading: Chapter 12
 title: "The Little Republics in Europe"
 # date: 2015-09-08
 weight: 28
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Small countries became republics because of the short distance between people"

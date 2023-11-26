@@ -3,7 +3,9 @@ title: "The Observations of Cassini"
 heading: Part 8
 description: "Kepler, in Germany, had great genius but none of the taste or order and method of Galileo. Like other Germans, he had the most laborious industry together with an excessive passion for discovering proportions and resemblances between the different parts of nature"
 image: /covers/astronomy.jpg
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 weight: 18
 aliases:
   /research/smith/astronomy/kepler

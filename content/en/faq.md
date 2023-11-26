@@ -151,7 +151,7 @@ So how can that knowledge solve problems? Are you just going to be like the Hind
 {{< l a="Superphysics" >}}
 No. Superphysics aims to solve problems by striking at the root cause, which is the 'True Nature' or Dharma or Tao in every thing that leads to its discrete identity, as described by Socrates. 
 
-A problem begins when something goes away from its True Nature, Dharma, or Tao. Most sciences just deal with effect and not cause because science is ignorant of metaphysics which is the real cause of anything in physics. The education system is supposed to help children discover their True Nature, Dharma, or Tao so that they can direct their lives towards it. But instead, it just molds them to be industrial workers (the dharma of business and industry). 
+A problem begins when something goes away from its True Nature, Dharma, or Tao. Most sciences just deal with the effect and not the cause because science is ignorant of metaphysics which is the real cause of anything in physics. The education system is supposed to help children discover their True Nature, Dharma, or Tao so that they can direct their lives towards it. But instead, it just molds them to be industrial or intellectual workers (the dharma of industry and business). 
 
 Ask anyone what the goal or purpose of their life is, and they will look at you with a blank stare. So the first step is to find the metaphysical true nature.
 {{< /l >}}
@@ -205,7 +205,7 @@ By writing a new law-book that unifies the Torah and the Quran. The root cause o
 - The Jews program their minds according to the Torah
 - The Muslims program their minds according to the Quran, which denounces the Torah 
 
-The difference in programming creates a perpetual conflict which eats up the attention and resources of the world. This is similar to how the fight between malware and anti-virus on your computer eats up resources that slows down other programs. The world has to push for such a new law-book, as the core of a one-state solution, for its own sake. 
+The great big problem is that mentality creates reality. And so the difference in programming creates a perpetual real conflict which eats up the attention and resources of the world. This is similar to how the fight between malware and anti-virus on your computer eats up resources that slows down other programs. The world has to push for such a new law-book, as the core of a one-state solution, for its own sake. 
 
 {{< /l >}}
 
@@ -218,7 +218,7 @@ But I'm a racist, materialist boomer. I don't like anything Asian and abstract l
 
 I want profits and wealth for myself. I drink my expensive coffee with plastic straws. I don't care about the turtles that will die from ingesting them. Sucks to be them. It's just survival of the fittest.
 
-You are nuts to propose a one-state solution that unites Jews and Palestinians -- Muslims are terrorists! 
+You are nuts to propose a one-state solution that unites Jews and Palestinians. All Muslims are terrorists! 
 
 The universe was created for us humans. After death, there is nothing. There is no evidence of God, the afterlife, reincarnation, or karma. So I say maximize pleasure while alive!
 
@@ -268,11 +268,11 @@ What does the Superphysics symbol mean?
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-The blue triangle represents the metapyhsical dimension. The green triangle represents the physical dimension. These go in opposite directions. 
+The blue triangle represents the metapyhsical domain. The green triangle represents the physical domain. These go in opposite directions.
 
-The yellow center is perception which balances both dimensions. :sunny:
+The yellow center is perception which balances both domains. :sunny:
 
-Some people get filthy rich but lose their morals, :frowning: while others are super spiritual but are dirt poor :confused:. For example, Baby-Boomers mindlessly push for GDP or ROI growth even if Nature is hitting them back with global warming caused by that very GDP and ROI from investments. 
+Some people get filthy rich but lose their morals, :frowning: while others are super spiritual but are dirt poor :confused:. For example, Baby-Boomers mindlessly push for GDP or ROI growth even if Nature is hitting them back with global warming caused by that very GDP and ROI. They even have the audacity to make money from crises as 'impact investments' instead of giving money to governments to solve them (such as grants and prize money even for students or startups to make nuclear fusion work).
 
 Spiritual people, on the other hand, give donations and service, often unsustainably while creating a culture of dependence and poverty. 
 
@@ -288,7 +288,7 @@ We need to prove that our principles are solid by demonstrating it in the real w
 
 We've already proven Social Superphysics through our correct predictions both in [politics](/social/cycles/predictions) and [economics](/social/supersociology/precrisis-years). We are already testing our points-based economic system to solve the current stagflation, something that Economics has no solution for. So no worries with those. 
 
-But we still need to prove that Bio Superphysics and Material Superphysics also work by using the aether to  increase crop yield (as 'Maximized Farming'), cure diseases, realize fusion, levitation, and teleportation (actions at a distance).
+But we still need to prove that Bio Superphysics and Material Superphysics also work by using the aether to  increase crop yield (as 'Maximized Farming'), cure diseases, realize fusion, levitation, and teleportation (actions at a distance) by tapping Descartes' spacetime particles which he calls air-aether but we call Qosts (Quantum of Space-Time).
 {{< /l >}}
 
 {{< r a="Asker" >}}
@@ -298,11 +298,11 @@ I guess you encounter a lot of opposition from humans who think that the limited
 {{< l a="Superphysics" >}}
 Yes. This is now known as 'scientism' propagated by materialists.
 
-For example, alternative medicines that don't pass clinical trials are not classified as medicine even if they cure 10% of people but not all. Instead of canceling them as inconclusive, Bio Superphysics groups those 10% people into a **specific personality type** which is cured 100% by that alternative medicine. But classifying everything is costly. 
+For example, alternative medicines that don't pass clinical trials are not classified as medicine even if they cure 10% of people but not all. Instead of canceling them as inconclusive, Bio Superphysics groups those 10% people into a **specific personality type** which is cured 100% by that alternative medicine. 
 
-Moreover, the gap between experiment and useful invention is huge. 
+But classifying everything is costly. Machine learning helps a lot, so the AI boom is a Godsend (Rather, by pursuing our dharma for Superphysics, reality bent or shifted towards one that has the tools to do what we do). 
 
-For example, the principle of action-reaction can be demonstrated with a $0.10 party balloon releasing air to propel itself. But it takes a lot more effort to convert that principle into a working rocket which costs $1,000 and even more to make an Atlas rocket :rocket: worth $100m.
+However, the gap between experiment and useful non-software invention is still huge. For example, the principle of action-reaction can be demonstrated with a $0.10 party balloon releasing air to propel itself. But it takes a lot more effort to convert that principle into a working rocket which costs $1,000 and even more to make an Atlas rocket :rocket: worth $100m.
 {{< /l >}}
 
 <!-- This is why, until 2030, most of our work is on Social Superphysics. The work on Bio and Material Superphysics will mostly be theoretical for now, though we've done [rudimentary experiments on pre-levitation](/material/levitation) and preventing cancers from getting worse via alternative medicine. -->

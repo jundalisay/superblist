@@ -1,13 +1,14 @@
-
 ---
 title: "How was Liberty restored?"
-
 # date: 2015-09-12
 weight: 24
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/lectures.jpg"
 description: "Elizabeth flipped the policies and sold the royal lands to the people"
 ---
+
 
 How was liberty was restored in Britain?
 

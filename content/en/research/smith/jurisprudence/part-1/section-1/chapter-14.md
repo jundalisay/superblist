@@ -3,7 +3,9 @@ heading: Chapter 14
 title: "The Rights of Sovereigns"
 # date: 2015-09-06
 weight: 30
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Assassination is thought just and equitable in a republic but not in a monarchy"

@@ -3,7 +3,9 @@ title: "Tycho Brahe' System of Astronomy"
 heading: Part 6
 description: "Tycho Brache was the great restorer and advancer of Astronomy."
 image: /covers/astronomy.jpg
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 weight: 14
 ---
 

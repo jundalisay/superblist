@@ -12,7 +12,9 @@ weight: 10
 icon: /icons/spmat.png
 aliases:
   /material/principles/qost
+  /material/principles/part-2/chapter-02b  
 ---
+
 
 
 ## The Five Layers of Superphysics
