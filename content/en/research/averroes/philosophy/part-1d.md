@@ -4,7 +4,9 @@ title: "Interpretations"
 description: "All that should be interpreted can be grasped by philosophy alone. So the duty of the learned person is to interpret, and of the common people to take it literally"
 image: "/covers/theo.jpg"
 weight: 10
-author: Averroes
+writer:
+  name: Averroes
+  url: https://en.wikipedia.org/wiki/Averroes
 ---
 
 

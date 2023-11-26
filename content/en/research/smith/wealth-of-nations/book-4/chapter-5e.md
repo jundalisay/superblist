@@ -4,7 +4,9 @@ heading: "Chapter 5d"
 description: "The wheat merchant's trade is composed of 4 separate branches which can be done by the same person"
 image: /covers/wn.jpg
 weight: 46
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 --- 
 

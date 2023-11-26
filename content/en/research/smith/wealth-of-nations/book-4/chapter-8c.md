@@ -4,7 +4,9 @@ title: "Ban On The Export Of Raw Materials"
 weight: 102
 image: "/covers/wn.jpg"
 description: "The exportation of raw materials is subjected to high duties, wherever they are not banned"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "/avatars/smith.png"
 ---
 

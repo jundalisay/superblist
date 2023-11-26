@@ -4,7 +4,9 @@ heading: "Chapter 7m"
 description: "The monopoly of the colony trade forced some British capital from all foreign trade of consumption to a carrying trade"
 image: /covers/wn.jpg
 weight: 86
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 ---
 

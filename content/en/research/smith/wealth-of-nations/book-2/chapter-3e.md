@@ -5,7 +5,9 @@ linkTitle: "Chapter 3e"
 weight: 48
 image: "/covers/wn.jpg"
 description: "Austerity Versus Public Spending"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 ---
 

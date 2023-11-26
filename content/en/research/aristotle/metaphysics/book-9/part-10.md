@@ -4,7 +4,9 @@ title: "Being versus Non-being"
 weight: 24
 image: "/covers/meta.jpg"
 description: "The terms 'being' and 'non-being' are used in 3 ways"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

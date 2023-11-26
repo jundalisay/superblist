@@ -1,7 +1,9 @@
 ---
 title: "Unity and Difference"
 heading: "Part 12"
-author: "Aristotle"
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/meta.jpg"
 description: "What is the unity of the formula of a definition?"
 icon: "/icons/aris.png"

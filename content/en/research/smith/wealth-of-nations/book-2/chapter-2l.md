@@ -2,7 +2,9 @@
 title: "Banks Increase National Wealth by Mobilizing Dead Stock"
 heading: "Chapter 2l"
 weight: 32
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "The judicious operations of banking can increase a country’s industry, not by augmenting the country’s capital, but by rendering most of that capital productive"
 icon: "/avatars/smith.png"

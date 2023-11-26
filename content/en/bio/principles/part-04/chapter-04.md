@@ -1,5 +1,5 @@
 ---
-heading: Chapter 3
+heading: Chapter 4
 title: "The Importance of Living Food"
 linkTitle: "Food"
 description: "The body needs pranah or vital energy to stay alive and maintain parallelism with the Positive Force"
@@ -7,7 +7,9 @@ description: "The body needs pranah or vital energy to stay alive and maintain p
 date: 2020-01-25
 weight: 8
 image: "/photos/grains.jpg"
-author: "Juan"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: "/icons/spmed.png"
 draft: true
 ---

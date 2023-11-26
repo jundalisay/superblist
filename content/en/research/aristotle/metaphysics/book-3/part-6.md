@@ -3,7 +3,9 @@ heading: "Part 6"
 title: "Do forms exist?"
 weight: 16
 image: "/covers/meta.jpg"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 description: "Besides perceptible things and the intermediates, we have to look for another class of things -- the Forms which we posit. "
 icon: "/icons/aris.png"
 ---

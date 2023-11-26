@@ -3,8 +3,10 @@ heading: "Chapter 3"
 title: "Systems which make Virtue consist in Benevolence"
 linkTitle: Chapter 3
 description: "The Basis of Benevolent Systems is the Supreme Entity"
-weight: 14
-contributors: ['Adam Smith']
+weight: 18
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

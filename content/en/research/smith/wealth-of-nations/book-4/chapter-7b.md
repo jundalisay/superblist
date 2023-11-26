@@ -1,11 +1,12 @@
-
 ---
 title: "The Discoveries of Christopher Columbus"
 heading: "Chapter 7b"
-description: "In his letters to Ferdinand and Isabella, Columbus called the countries he discovered as the Indies. He entertained no doubt that they were the extremity of those described by Marco Polo"
+description: "In his letters to Ferdinand and Isabella, Columbus called the countries he discovered as the Indies. He thought they were the ones described by Marco Polo"
 image: /covers/wn.jpg
 weight: 64
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 ---
 
@@ -176,8 +177,12 @@ A course of accidents, which no human wisdom could foresee, rendered this projec
 
 But they were not equally successful.
 "It was more than 100 years after the first settlement of Brazil before any silver, gold, or diamond mines were discovered there."
+
 None have yet been discovered in the English, French, Dutch, and Danish colonies that are worth the working.
+
 The first English settlers in North America offered 1/5 of all the gold and silver to the king as a motive for granting them their patents.
+
     This 1/5 was reserved to the crown in the patents to Sir Walter Raleigh, London and Plymouth Companies, Council of Plymouth, etc.
+
 Those first settlers joined the quest of discovering gold and silver mines and a northwest passage to the East Indies.
     They were disappointed in both.

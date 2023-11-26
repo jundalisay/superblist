@@ -5,7 +5,9 @@ weight: 18
 description: "Mathematics is the part of natural philosophy, which is commonly made a principal part"
 image: "/covers/learning.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

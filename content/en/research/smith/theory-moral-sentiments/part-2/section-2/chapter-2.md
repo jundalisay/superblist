@@ -2,7 +2,9 @@
 heading: Chapter 1
 title: "The Sense of Justice, Remorse, and the Consciousness of Merit"
 weight: 12
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/tms.jpg"
 description: "Every man is more deeply interested in whatever immediately concerns himself, than in what concerns others"

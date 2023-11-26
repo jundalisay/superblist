@@ -2,7 +2,9 @@
 title: "Digression: The effect of improvement on real value of rude produce"
 heading: "Part 3b of Digression 3a"
 weight: 30
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Rude produce may be divided into three"
 icon: "/avatars/smith.png"

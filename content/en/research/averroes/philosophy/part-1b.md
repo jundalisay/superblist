@@ -4,7 +4,9 @@ title: "The Study of The Law"
 description: "The science which needs most examples from other sciences is that of Law."
 image: "/covers/theo.jpg"
 weight: 6
-author: Averroes
+writer:
+  name: Averroes
+  url: https://en.wikipedia.org/wiki/Averroes
 icon: /avatars/averroes.jpg
 ---
 

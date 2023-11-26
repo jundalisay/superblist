@@ -1,9 +1,11 @@
 ---
 title: "Universal Benevolence"
 heading: "Chapter 3"
-description: "Our effective good offices can very seldom be extended beyond our own country. But our goodwill has no boundary. It may embrace the immensity of the universe"
+description: "Our effective good offices can very seldom be extended beyond our own country. But our goodwill can embrace the whole universe"
 weight: 44
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

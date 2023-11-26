@@ -3,7 +3,9 @@ title: "The Unsocial feelings"
 heading: "Chapter 3"
 description: "Hatred, Anger, and Resentment are the Unsocial feelings"
 weight: 8
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

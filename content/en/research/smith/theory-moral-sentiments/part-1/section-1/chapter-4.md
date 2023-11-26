@@ -4,7 +4,9 @@ heading: "Chapter 4"
 description: "We can we make moral judgements on others when the cause of such feelings affect us or people not us"
 weight: 10
 image: "/covers/tms.jpg"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 ---
 

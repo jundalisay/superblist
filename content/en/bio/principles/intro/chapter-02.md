@@ -7,7 +7,9 @@ description: "Life is the Shiva part of the 2 Forces"
 date: 2020-01-25
 weight: 4
 image: "/graphics/meta/mind.png"
-author: "Juan"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: "/icons/spmed.png"
 ---
 

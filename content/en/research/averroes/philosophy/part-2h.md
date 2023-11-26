@@ -1,7 +1,9 @@
 ---
 heading: "Part 2h"
 title: "Question 2: Prophetic Mission"
-author: Averroes
+writer:
+  name: Averroes
+  url: https://en.wikipedia.org/wiki/Averroes
 description: ""
 weight: 26
 image: "/covers/theo.jpg"

@@ -2,7 +2,9 @@
 heading: Chapter 7
 title: "What Regulates the Price of Commodities?"
 weight: 18
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "The Market Price of Commodities is regulated by the demand, the supply, and the purchasing power of the demand"
@@ -47,10 +49,13 @@ the risk of not living long enough, and
 the risk of not having enough dexterity to manage their business.
 
 Not 1 in 20 lawyers attains such knowledge and dexterity in his business to enable him to recoup the expenses of his education.
+
 Many of them never make the price of their gown.
 Lawyers' fees are generally thought of as low.
+
 People are tempted to be lawyers because of the profession's eminence and not because of the money made by it.
 Its dignity is part of what is made by it.
+
 In the same way, the prices of gold and silver are not extravagant.
 
 In a gold or silver mine, there is a great chance of missing it altogether.
@@ -58,6 +63,7 @@ If an equal number of men were employed in raising corn and digging silver, the 
 Of 50 employed in a mine, perhaps only 20 make anything at all.
 Some of the rest may make fortunes.
 But every corn man succeeds in his undertakings.
+
 So on the whole, there is more made in farming than in mining.
 The principal temptation in a mine is the ideal acquisition.
 
@@ -225,6 +231,7 @@ The price of corn was sunk.
 The rent of the farms sinks also. The bounty on corn was laid on at the time of the taxes and was intended to raise the rent. It had the effect for some time, because the tenants were assured of a price for their corn at home and abroad. It encouraged agriculture and lowered the price of corn.
 But it raised the price of grass, since the more the corn, the less the grass.
 The price of grass went up.
+
 Meat prices also went up, because of its dependence on grass.
 So that if the price of corn is reduced, the price of other commodities is necessarily raised.
 The price of corn has fallen from 42 to 35.

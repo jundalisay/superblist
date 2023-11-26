@@ -2,10 +2,12 @@
 heading: Chapter 1
 title: "Sympathy with Gratitude and Resentment"
 weight: 8
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
-description: "When there is no approval of the Benefactor's conduct, there is little sympathy with the Beneficiary's gratitude. When there is no disapproval of the Erring Person's motives, there is no sympathy with the Sufferer's resentment"
+description: "When there is no approval of the Benefactor's conduct, there is little sympathy with the Beneficiary's gratitude"
 ---
 
 

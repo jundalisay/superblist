@@ -3,7 +3,9 @@ heading: "Part 1 and 2"
 title: "Defintion of Beginning and Cause"
 weight: 1
 image: "/covers/meta.jpg"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 description: "Aristotle defines Beginning as that part of a thing from which one would start first"
 icon: "/icons/aris.png"
 ---

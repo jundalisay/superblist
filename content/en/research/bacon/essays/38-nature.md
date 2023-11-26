@@ -5,7 +5,9 @@ weight: 50
 description: "NATURE is often hidden. It is sometimes overcome, seldom extinguished"
 image: "/covers/essaysbacon.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

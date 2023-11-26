@@ -2,7 +2,9 @@
 title: "Wages"
 heading: Chapter 8a
 weight: 36
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "High prices are caused by monopolies"
 icon: "/avatars/smith.png"

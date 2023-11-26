@@ -4,7 +4,9 @@ weight: 1
 description: "There were under the law, excellent King, both daily sacrifices and freewill offerings; the one proceeding upon ordinary observance"
 image: "/covers/learning.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

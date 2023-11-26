@@ -4,7 +4,9 @@ heading: "Chapter 7d"
 description: "After the Spanish settlements, those of the Portuguese in Brazil are the oldest European settlement in America"
 image: /covers/wn.jpg
 weight: 68
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 ---
 

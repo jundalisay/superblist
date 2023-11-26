@@ -1,11 +1,13 @@
 ---
 title: "Being a servant is not a natural way of making a living"
-description: "Servants exist on a lower level because most of those who live in luxury are too proud to take care of their own personal needs or are unable to do so, because they were brought up accustomed to indulgence and luxury"
+description: "Servants exist on a lower level because most of those who live in luxury are too proud to take care of their own personal needs or are unable to do so"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 3"
 weight: 14
-contributors: ['Ibn Khaldun']
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 

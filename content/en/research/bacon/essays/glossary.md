@@ -5,11 +5,14 @@ weight: 30
 description: "I would rather believe in all the fables than to think tthat this universal frame is without a mind"
 image: "/covers/essaysbacon.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 
 A Glossary Of Archaic Words And Phrases
+
      Abridgment: miniature
      Absurd: stupid, unpolished
      Abuse: cheat, deceive

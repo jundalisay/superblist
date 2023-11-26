@@ -2,7 +2,9 @@
 heading: Chapter 1
 title: "First way of acquiring Property: Occupation"
 # date: 2015-09-30
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "The first way of acquiring Property is Occupation"
@@ -57,7 +59,9 @@ Among shepherds, the idea of property is further extended. They possess what the
 
 <!--   while they have a habit of returning to them.
 When the generality of beasts are occupied, they consider them as their own even after they have lost the habit of returning home, and  -->
-But property receives its greatest extension from agriculture. When it first became necessary to cultivate the earth, no person had any property in it. Their little plots would be common to the whole village. The fruits would be equally divided among the individuals. There are the remains of a common land property in our own country at this day. In many places, there is a piece of ground belonging equally to several persons. <!-- After harvest, cattle are, in many places, allowed to feed where they please. -->
+But property receives its greatest extension from agriculture. When it first became necessary to cultivate the earth, no person had any property in it. Their little plots would be common to the whole village. The fruits would be equally divided among the individuals. 
+
+There are the remains of a common land property in our own country at this day. In many places, there is a piece of ground belonging equally to several persons. <!-- After harvest, cattle are, in many places, allowed to feed where they please. -->
 
 Private landed property only begins after a division is made from common agreement. This generally happens when cities are being built when everyone would choose that his house should be entirely his own.
 
@@ -65,9 +69,9 @@ Moveable property may be occupied in the very first beginnings of society. But l
 
 By the laws of many countries however, there are some things that cannot be occupied by any private person.
 By the laws of Britain, treasure and derelict goods belong to the king.
+
 This arises from that natural influence of superiors which draws everything to itself. <!-- that it can without a violation of the most manifest rules of justice. -->
 
 In like manner, seas and rivers cannot be occupied by any private person. Unless specified in your charter, you cannot take large fishes in a river running through your own estate. 
 
 A sea surrounded by several nations cannot be occupied by any one--all must have a part of the jurisdiction. But any nation may hinder another from fishing in its bays, or approaching its coasts with vessels of war.
-

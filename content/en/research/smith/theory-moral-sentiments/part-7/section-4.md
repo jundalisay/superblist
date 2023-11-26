@@ -5,6 +5,9 @@ linkTitle: Section 4
 description: "There were three kinds of breaches of moral duty which came before the confessor's tribunal"
 image: /covers/tms.jpg
 weight: 8
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

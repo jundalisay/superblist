@@ -5,7 +5,9 @@ weight: 58
 description: "God first planted a garden. It is the purest of human pleasures"
 image: "/covers/essaysbacon.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

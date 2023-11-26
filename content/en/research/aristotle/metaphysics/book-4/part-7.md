@@ -4,7 +4,9 @@ title: "True or False"
 weight: 12
 image: "/covers/meta.jpg"
 description: "One subject must either affirm or deny any one predicate."
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

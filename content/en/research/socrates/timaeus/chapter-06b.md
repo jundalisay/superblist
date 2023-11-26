@@ -4,7 +4,9 @@ heading: "Chapter 6b"
 weight: 36
 image: "/photos/social/monkey.jpg"
 description: "The bonds of life which unite the soul with the body are made fast in the marrow. They are the root and foundation of the human race"
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 icon: "/icons/socrates.png"
 ---
 
@@ -71,7 +73,9 @@ With these God, covered the bones and marrow, binding them together by sinews, a
 The more living and sensitive of the bones he enclosed in the thinnest film of flesh. Those which had the least life within them, he put in the thickest and most solid flesh.
 
 
-On the joints of the bones, where reason indicated that no more was required, he placed only a thin covering of flesh. This was so that it might not interfere with the flexion of our bodies and make them unwieldy because of the difficulty to move. And also that it might not, by being crowded and pressed and matted together, destroy sensation by its hardness, and impair the memory and dull the edge of intelligence.
+On the joints of the bones, where reason indicated that no more was required, he placed only a thin covering of flesh. This was so that it might not interfere with the flexion of our bodies and make them unwieldy because of the difficulty to move. 
+
+And also that it might not, by being crowded and pressed and matted together, destroy sensation by its hardness, and impair the memory and dull the edge of intelligence.
 
 
 Likewise, the following also have a rarity of the soul in the marrow which are destitute of reason:

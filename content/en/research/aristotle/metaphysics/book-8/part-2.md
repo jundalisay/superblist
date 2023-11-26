@@ -5,7 +5,9 @@ weight: 4
 image: "/covers/meta.jpg"
 description: "Matter has many differences"
 icon: "/icons/aris.png"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 ---
 
 

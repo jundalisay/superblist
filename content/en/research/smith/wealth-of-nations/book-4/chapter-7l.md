@@ -5,7 +5,9 @@ title: "The Effects of Monopoly -- Spain and Portugal"
 weight: 84
 image: "/covers/wn.jpg"
 description: "The monopoly of the colony trade forced some British capital from all foreign trade of consumption to a carrying trade."
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "/avatars/smith.png"
 ---
 

@@ -2,7 +2,9 @@
 heading: "Section 10"
 title: "The Immaterial Mental Essence"
 description: "There is a Mental Essence, distinct from Bodies, which stands towards Human Souls"
-author: "Avicenna"
+writer:
+  name: Avicenna
+  url: https://en.wikipedia.org/wiki/Avicenna
 weight: 22
 image: "/covers/soul.jpg"
 ---
@@ -27,11 +29,15 @@ Therefore not every judgment we have arrived at, as to things, through our sensu
 
 Whereas our conception that a whole is greater than a part is not [formed] because we have sensuously felt every part and every whole that are so related, seeing that even such an experience will not guaranty to us that there will be no whole and no part differently related.
 
-Likewise the dictum concerning the impossibility of two opposites (contrasts) coming together in one and the same thing, and that things which are equal to one and the same thing are equal to one another. And likewise the dictum concerning our holding proofs to be true if they be valid, for the belief in and conviction of their validity does not become valid by and through learning and effort of study; else this would draw out ad infinitum [inasmuch as each proof rests upon given presuppositions, whose validity would in its turn have to be proved]. Nor is this[Pg 91] gained from sense, for the reason that we have mentioned. 
+Likewise the dictum concerning the impossibility of two opposites (contrasts) coming together in one and the same thing, and that things which are equal to one and the same thing are equal to one another. 
+
+Likewise the dictum concerning our holding proofs to be true if they be valid, for the belief in and conviction of their validity does not become valid by and through learning and effort of study; else this would draw out ad infinitum [inasmuch as each proof rests upon given presuppositions, whose validity would in its turn have to be proved]. Nor is this  gained from sense, for the reason that we have mentioned. 
 
 Consequently both the latter as well as the former [certainty] are gained from a godly outflow reaching unto the rational soul, and the rational soul reaching unto it; so that this mental form arises therein. Also, as to this outflow, unless it have in its own self such a generic (universal) mental form, it would not be able to engrave it within the rational soul. Hence such form is in the outflow’s own self.
 
-And whatsoever Self has in it a mental form is an essence, other than a body, and not within a body, and standing of itself. Therefore this outflow unto which the soul reaches is a mental essence, not a body, not in a body, standing of itself, and one which stands towards the rational soul in the stead of light to sight; yet however with this difference, namely that light supplies unto sight the power of perceiving only, and not the perceived form, whereas this essence supplies, exclusively by and through its sole and single self, unto the rational power, the power of perceiving, and brings about therein the perceived forms also, as we have set forth above.
+And whatsoever Self has in it a mental form is an essence, other than a body, and not within a body, and standing of itself.
+
+Therefore this outflow unto which the soul reaches is a mental essence, not a body, not in a body, standing of itself, and one which stands towards the rational soul in the stead of light to sight; yet however with this difference, namely that light supplies unto sight the power of perceiving only, and not the perceived form, whereas this essence supplies, exclusively by and through its sole and single self, unto the rational power, the power of perceiving, and brings about therein the perceived forms also, as we have set forth above.
 
 If the rational soul’s conceiving rational forms be a source of completion and perfection for it, and be effected and brought about on reaching unto this essence, and if worldly earthly labors, such as its thought, its sorrows and joy, its longings, hamper the power and withold it from reaching thereunto, so that it will not reach[Pg 92] thereunto save only through abandoning these powers and getting rid of them, there being nothing to stop it from continued Reaching save the living body,—then consequently if it quit the body it will not cease to be reaching unto its Perfector and attached to Him.
 
@@ -43,6 +49,10 @@ Yet nevertheless the rational soul does gain, by its connection with them, from 
 
 We have thus made a clear statement concerning souls, and got at which souls are [ever]lasting, and which of them will not be fitted out and armed with [ever]lastingness. 
 
-It still remains for us, in connection with this research, to show how a soul exists within live bodies, and the aim and end for which it is found within the same, and what measure will be bestowed upon it, in the hereafter, of eternal delight and perpetual punishment, and of [temporary] punishment that ceases after a duration of time that shall ensue upon the decease of the live body; and to treat of the notion that is designated by the lawgivers as intercession (mediation), and of the quality (attribute) of the four angels and the throne-bearers. Were it not however that the custom prevails to isolate such research from the research whose path we have been treading, out of high esteem and reverence for it, and to make the latter research precede in order of treatment the former, to the end of levelling the road and paving it solidly, I should (would) have followed up these [ten] sections with a full and complete treatment of the subject dealt with in them.
+It still remains for us, in connection with this research, to show how a soul exists within live bodies, and the aim and end for which it is found within the same, and what measure will be bestowed upon it, in the hereafter, of eternal delight and perpetual punishment, and of [temporary] punishment that ceases after a duration of time that shall ensue upon the decease of the live body; and to treat of the notion that is designated by the lawgivers as intercession (mediation), and of the quality (attribute) of the four angels and the throne-bearers. 
 
-Notwithstanding all this, were it not for fear of wearying by prolixity, I would have disregarded the demands of custom herein. Thus then whatever it may please the Prince—God prolong his highness—to command as to treating singly of such notions, I shall put forth, in humble com[Pg 94]pliance and obedience, my utmost effort, God Almighty willing; and may wisdom never cease to revive through him after fainting, to flourish after withering, so that its sway may be renewed through his sway, and through his days its days may come back again, and that through his prestige the prestige of its devotees be exalted, and the seekers after its favor abound, so God almighty will.
+Were it not however that the custom prevails to isolate such research from the research whose path we have been treading, out of high esteem and reverence for it, and to make the latter research precede in order of treatment the former, to the end of levelling the road and paving it solidly, I should (would) have followed up these [ten] sections with a full and complete treatment of the subject dealt with in them.
+
+Despite all this, were it not for fear of wearying by prolixity, I would have disregarded the demands of custom herein.
+
+Thus then whatever it may please the Prince—God prolong his highness—to command as to treating singly of such notions, I shall put forth, in humble compliance and obedience, my utmost effort, God Almighty willing; and may wisdom never cease to revive through him after fainting, to flourish after withering, so that its sway may be renewed through his sway, and through his days its days may come back again, and that through his prestige the prestige of its devotees be exalted, and the seekers after its favor abound, so God almighty will.

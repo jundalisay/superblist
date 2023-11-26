@@ -2,7 +2,9 @@
 heading: Chapter 2
 title: "The Extent of the Influence of Outcome"
 weight: 10
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/tms.jpg"
 description: "If an accident hinders the successful outcome of an endeavor, the merit of the talents seems imperfect even to those who know of such talent"

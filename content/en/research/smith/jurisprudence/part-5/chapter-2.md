@@ -2,7 +2,9 @@
 heading: Chapter 3
 title: "What is Lawful in War?"
 weight: 12
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "It is not easy to determine how far a nation may push its resentment against another nation which has injured it"

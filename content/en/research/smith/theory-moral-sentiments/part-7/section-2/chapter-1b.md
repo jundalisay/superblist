@@ -4,6 +4,9 @@ title: "Justice"
 description: "Virtue is the temper of mind in the excellent and praise-worthy character. The nature of virtue may be reduced to three classes"
 image: /covers/tms.jpg
 weight: 4
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

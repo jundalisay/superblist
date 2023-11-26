@@ -4,7 +4,9 @@ heading: "Chapter 4"
 description: "The impartial spectator does not always need to be far to pervert our judgments on our own conduct"
 # date: 2015-09-08
 image: "/covers/tms.jpg"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 ---
 

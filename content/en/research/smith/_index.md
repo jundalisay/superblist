@@ -9,8 +9,4 @@ weight: 96
 menu:
   research:
     identifier: "smith"
-# menu:
-#  storage-providers:
-#         parent: "storage-providers-setup"
-#         identifier: "storage-providers-setup-configuration"    
 ---

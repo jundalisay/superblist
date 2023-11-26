@@ -3,7 +3,9 @@ heading: Chapter 2
 title: "Parent and Child"
 # date: 2015-09-24
 weight: 12
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "What is the history of parentage? It is the second relation in which we were to consider man as a member of a family"

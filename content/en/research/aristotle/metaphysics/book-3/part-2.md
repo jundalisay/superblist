@@ -4,7 +4,9 @@ title: "Questions 1 to 3"
 weight: 4
 image: "/covers/meta.jpg"
 description: "Should the sciences investigate all the kinds of causes?"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

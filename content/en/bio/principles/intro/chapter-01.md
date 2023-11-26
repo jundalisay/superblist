@@ -7,7 +7,9 @@ weight: 2
 image: "/photos/social/monkey.jpg"
 description: "David Hume's Idea of the Self explains why there are 3 billion yous"
 tags: ["David Hume", "Ego"]
-author: "Juan"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmed.png
 aliases:
   /bio/principles/chapter-01

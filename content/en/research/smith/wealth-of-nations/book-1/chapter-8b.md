@@ -2,7 +2,9 @@
 title: "Advancing, Stagnating, Reversing Movement"
 heading: Chapter 8b
 weight: 40
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "High prices are caused by monopolies"
 icon: "/avatars/smith.png"

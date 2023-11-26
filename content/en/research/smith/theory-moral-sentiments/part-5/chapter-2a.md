@@ -1,9 +1,11 @@
 ---
 title: "The Influence of Custom on Morals"
 heading: "Chapter 2a"
-description: "Our feelings on beauty are so much influenced by custom and fashion, that the beauty of conduct is also influenced. However, this influence seems much less than it is everywhere else"
+description: "The influence of custom and fashion on moral sentiments is not so great. However, it is perfectly similar to what it is everywhere else"
 weight: 24
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---
@@ -23,7 +25,7 @@ Our sense of beauty depends on the principles of the imagination. These principl
 But the feelings of moral approbation are founded on the strongest feelings of human nature. They may be somewhat warped, but they cannot be entirely perverted.
 
 
-{{< s v="12">}}  The influence of custom and fashion on moral sentiments is not so great. However, it is perfectly similar to what it is everywhere else. When custom and fashion coincide with the natural principles of right and wrong, they= 
+{{< s v="12">}}  The influence of custom and fashion on moral sentiments is not so great. However, it is perfectly similar to what it is everywhere else. When custom and fashion coincide with the natural principles of right and wrong, they:
 - heighten the delicacy of our feelings, and
 - increase our abhorrence for everything evil.
 

@@ -2,10 +2,12 @@
 heading: Chapter 3
 title: "The Cause of the Irregularity of our Moral Feelings on the outcome of actions"
 weight: 12
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/tms.jpg"
-description: "The irregularity in our moral feelings on the outcome is caused by Nature trying to preserve our physical well-being without the uneeded psychological troubles"
+description: "The irregularity in our moral feelings on the outcome is caused by Nature trying to preserve our physical well-being"
 ---
 
 

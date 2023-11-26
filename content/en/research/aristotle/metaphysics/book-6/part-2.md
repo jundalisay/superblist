@@ -1,7 +1,9 @@
 ---
 title: "The Pure Being"
 heading: "Part 2"
-author: "Aristotle"
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 weight: 4
 image: "/covers/meta.jpg"
 description: "The unqualified term 'being' has many meanings"

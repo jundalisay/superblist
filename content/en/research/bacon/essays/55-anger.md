@@ -5,7 +5,9 @@ weight: 72
 description: "The Stoics were brave to seek to extinguish anger utterly."
 image: "/covers/essaysbacon.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

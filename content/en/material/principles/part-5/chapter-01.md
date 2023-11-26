@@ -7,7 +7,9 @@ image: /photos/objects/engine.jpg
 description: "The material layer is the final layer in the journey of dynamic energy and entropy towards stasis"
 linkTitle: "Material Layer"
 weight: 2
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
 toc: false
 ---

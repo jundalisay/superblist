@@ -4,7 +4,9 @@ title: "What is Movement?"
 weight: 16
 image: "/covers/meta.jpg"
 description: "Philosophy treats of being qua being universally and not in respect of a part of it, and 'being' has many senses and is not used in one only"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

@@ -4,7 +4,9 @@ title: "Capability and Potentiality and Actuality"
 weight: 6
 image: "/covers/meta.jpg"
 description: "If that which is deprived of potentiality is incapable, that which is not happening will be incapable of happening"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

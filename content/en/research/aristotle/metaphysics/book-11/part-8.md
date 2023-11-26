@@ -4,7 +4,9 @@ title: "Accidents and Luck"
 weight: 14
 image: "/covers/meta.jpg"
 description: "Luck is an accidental cause at work in such events adapted to an end as are usually effected in accordance with purpose"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

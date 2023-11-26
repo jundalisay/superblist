@@ -3,7 +3,9 @@ title: "The Origin of Ambition and Distinction of Ranks"
 heading: "Chapter 2"
 description: "Our sympathy with the false idea of the happiness of the rich and the great is the basis of ambition"
 # date: 2022-01-27
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 weight: 8
 icon: /avatars/smith.png

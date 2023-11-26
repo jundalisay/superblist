@@ -3,14 +3,17 @@ heading: "Section 1"
 title: "Two Kinds of Motion: Inherent and Non-inherent"
 # title: "Detailed Analysis in Order to Establish the Existence of the Spiritual Faculties"
 description: "We should first establish the existence of the spiritual powers, before we define each one of those powers, and then enlarge on it"
-author: "Avicenna"
+writer:
+  name: Avicenna
+  url: https://en.wikipedia.org/wiki/Avicenna
 weight: 4
 image: "/covers/soul.jpg"
 ---
 
 
+It is wise to describe something before proceeding to establish its reality of existence*.
 
-Whoso wishes to describe anything whatsoever before proceeding to establish first its reality of existence*, such a one is counted by the wise among those who deviate from the broad beaten track of perspicuous statement. 
+<!-- , such a one is counted by the wise among those who deviate from the broad beaten track of perspicuous statement.  -->
 
 > *Reality of existence; or its whereabouts. Doctor S. Landauer thinks that the word ayniyyat in the text must be wrong, because nowhere throughout this section is the «Whereabout» of the mental powers so much as hinted at; whereas the burden of the whole chapter is to prove merely that such powers do exist, i.e., their inniyyat, which is a word used by Arab Logicians.
 

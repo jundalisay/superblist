@@ -2,7 +2,9 @@
 heading: Chapter 5
 title: "What Causes the Division of Labour"
 weight: 14
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "The Division of Labour flows from a direct propensity in human nature for one man to barter with another"
@@ -56,6 +58,7 @@ Thus, genius is not the foundation of this disposition to barter which is the ca
 
 Its real foundation is the principle to persuade.
 It so much prevails in human nature.
+
 When any arguments are offered to persuade, it is always expected that they should have their proper effect.
 A person who asserts anything false about the moon would still feel a kind of uneasiness in being contradicted.
 He would be very glad if the person he is trying to persuade has the same way of thinking as himself.

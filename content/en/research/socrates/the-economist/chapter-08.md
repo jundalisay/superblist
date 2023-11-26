@@ -4,7 +4,9 @@ heading: "Chapter 8"
 weight: 24
 image: "/covers/economist.jpg"
 description: "How different is an army well organised in battle order: a splendid sight for friendly eyes to gaze at, albeit an eyesore to the enemy"
-contributors: ['Xenophon']
+writer:
+  name: Xenophon
+  url: https://en.wikipedia.org/wiki/Xenophon
 icons: "/icons/socrates.png"
 ---
 

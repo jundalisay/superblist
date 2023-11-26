@@ -4,7 +4,9 @@ title: "To Be or Not to Be"
 weight: 6
 image: "/covers/meta.jpg"
 description: "Some philosophers assert that it is possible for the same thing to be and not to be"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

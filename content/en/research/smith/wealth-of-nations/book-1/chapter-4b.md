@@ -2,7 +2,9 @@
 heading: "Chapter 4b"
 title: "The Origin of Coinage"
 weight: 18
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "The difficulty of weighing metals led to coinage"
 icon: "/avatars/smith.png"

@@ -2,7 +2,9 @@
 heading: Chapter 5
 title: "The Analysis of the Sense of Merit and Demerit"
 weight: 12
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/tms.jpg"
 description: "The Sense of Merit arises from sympathy, the Sense of Demerit arises from lack of sympathy"

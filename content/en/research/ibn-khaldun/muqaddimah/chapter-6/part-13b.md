@@ -5,7 +5,9 @@ image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 13b"
 weight: 32
-contributors: ['Ibn Khaldun']
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 

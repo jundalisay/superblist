@@ -1,7 +1,9 @@
 ---
 heading: "Part 2f"
 title: "Direction"
-author: Averroes
+writer:
+  name: Averroes
+  url: https://en.wikipedia.org/wiki/Averroes
 description: ""
 weight: 22
 image: "/covers/theo.jpg"

@@ -1,7 +1,9 @@
 ---
 heading: "Part 2"
 title: "Arguments On The Beliefs Of The Faith"
-author: Averroes
+writer:
+  name: Averroes
+  url: https://en.wikipedia.org/wiki/Averroes
 description: ""
 weight: 12
 image: "/covers/theo.jpg"

@@ -4,7 +4,9 @@ heading: "Chapter 7k"
 description: "The English Puritans were restrained at home. They fled for freedom to America and established the four governments of New England"
 image: /covers/wn.jpg
 weight: 80
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 ---
 

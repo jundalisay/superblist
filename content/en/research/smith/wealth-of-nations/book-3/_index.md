@@ -4,6 +4,8 @@ title: "Economic Development"
 linkTitle: Book 3
 description: "The natural progression of economy is from rural to urban"
 weight: 6
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image:  "/covers/wn.jpg"
 ---

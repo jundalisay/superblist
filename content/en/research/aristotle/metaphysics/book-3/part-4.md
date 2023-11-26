@@ -3,7 +3,9 @@ heading: "Part 4"
 title: "Question 8: How Can We Know The Infinite Individuals?"
 weight: 10
 image: "/covers/meta.jpg"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 description: "If there is nothing apart from individual things, and the individuals are infinitely many, how can we know the infinite individuals?"
 icon: "/icons/aris.png"
 ---

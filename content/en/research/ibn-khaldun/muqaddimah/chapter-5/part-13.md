@@ -1,12 +1,14 @@
 ---
 title: "The Character Of Merchants Are Inferior"
 # to those of leading personalities and remote from manliness
-description: "A merchant concerns himself with buying and selling, earning money and making a profit. This requires cunning, willingness to enter into disputes, cleverness, constant quarreling, and great persistence."
+description: "A merchant concerns himself with buying and selling, earning money and making a profit"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Parts 13-15"
 weight: 22
-contributors: ['Ibn Khaldun']
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 

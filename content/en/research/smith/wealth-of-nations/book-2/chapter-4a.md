@@ -5,7 +5,9 @@ linkTitle: "Chapter 4a"
 weight: 50
 image: "/covers/wn.jpg"
 description: "The stock lent at interest is always considered as a capital by its lender"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 ---
 

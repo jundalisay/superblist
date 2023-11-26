@@ -2,7 +2,9 @@
 heading: Chapter 6
 title: "The Division Of Labour Must Be Proportional To The Extent Of Commerce"
 weight: 16
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "The division of labour always becomes more perfect by the easy method of transportation"

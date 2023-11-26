@@ -4,7 +4,9 @@ title: "The Universe"
 weight: 24
 image: "/covers/timaeus.jpg"
 description: "How is the body created?"
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 ---
 
 

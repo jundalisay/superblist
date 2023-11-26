@@ -5,7 +5,9 @@ weight: 28
 description: "I would rather believe in all the fables than to think tthat this universal frame is without a mind"
 image: "/covers/essaysbacon.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 
@@ -37,7 +39,9 @@ The difficulties in princes' business are many and great; but the greatest diffi
 
 Kings have to deal with their neighbors, their wives, their children, their prelates or clergy, their nobles, their second-nobles or gentlemen, their merchants, their commons, and their men of war; and from all these arise dangers, if care and circumspection be not used.
 
-First for their neighbors; there can no general rule be given (for occasions are so variable), save one, which ever holdeth, which is, that princes do keep due sentinel, that none of their neighbors do ever grow so (by increase of territory, by embracing of trade, by approaches, or the like), as they become more able to annoy them, than they were. And this is generally the work of standing counsels, to foresee and to hinder it. During that triumvirate of kings, King Henry the Eighth of England, Francis the First King of France, and Charles the Fifth Emperor, there was such a watch kept, that none of the three could win a palm of ground, but the other two would straightways balance it, either by confederation, or, if need were, by a war; and would not in any wise take up peace at interest. And the like was done by that league (which Guicciardini saith was the security of Italy) made between Ferdinando King of Naples, Lorenzius Medici, and Ludovicus Sforza, potentates, the one of Florence, the other of Milan. Neither is the opinion of some of the Schoolmen, to be received, that a war cannot justly be made, but upon a precedent injury or provocation. For there is no question, but a just fear of an imminent danger, though there be no blow given, is a lawful cause of a war.
+First for their neighbors; there can no general rule be given (for occasions are so variable), save one, which ever holdeth, which is, that princes do keep due sentinel, that none of their neighbors do ever grow so (by increase of territory, by embracing of trade, by approaches, or the like), as they become more able to annoy them, than they were. And this is generally the work of standing counsels, to foresee and to hinder it. 
+
+During that triumvirate of kings, King Henry the Eighth of England, Francis the First King of France, and Charles the Fifth Emperor, there was such a watch kept, that none of the three could win a palm of ground, but the other two would straightways balance it, either by confederation, or, if need were, by a war; and would not in any wise take up peace at interest. And the like was done by that league (which Guicciardini saith was the security of Italy) made between Ferdinando King of Naples, Lorenzius Medici, and Ludovicus Sforza, potentates, the one of Florence, the other of Milan. Neither is the opinion of some of the Schoolmen, to be received, that a war cannot justly be made, but upon a precedent injury or provocation. For there is no question, but a just fear of an imminent danger, though there be no blow given, is a lawful cause of a war.
 
 For their wives; there are cruel examples of them. Livia is infamed, for the poisoning of her husband; Roxalana, Solyman's wife, was the destruction of that renowned prince, Sultan Mustapha, and otherwise troubled his house and succession; Edward the Second of England, his queen, had the principal hand in the deposing and murder of her husband. This kind of danger, is then to be feared chiefly, when the wives have plots, for the raising of their own children; or else that they be advoutresses.
 

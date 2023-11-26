@@ -4,7 +4,9 @@ heading: "Chapter 5j"
 description: "The 2 following Accounts are joined to illustrate Chapter 5 on the Tonnage bounty to the White Herring Fishery"
 image: /covers/wn.jpg
 weight: 56
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 --- 
 

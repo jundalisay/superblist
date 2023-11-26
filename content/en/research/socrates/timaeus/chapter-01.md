@@ -2,7 +2,9 @@
 heading: "Chapter 1"
 title: "The Republic Reviewed"
 weight: 12
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/timaeus.jpg"
 description: "Socrates reviews Timaeus on the key ideas of the Republic"
 icon: "/icons/socrates.png"

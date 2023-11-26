@@ -5,7 +5,9 @@ weight: 16
 description: "THERE be none of the affections, which have been noted to fascinate or bewitch, but love and envy."
 image: "/covers/essaysbacon.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

@@ -3,7 +3,9 @@ heading: Section 11
 title: "Spartan Military Service"
 description: "The Polity Of The Athenians And The Spartans"
 image: "/covers/polity.jpg"
-contributors: ['Xenophon']
+writer:
+  name: Xenophon
+  url: https://en.wikipedia.org/wiki/Xenophon
 weight: 20
 ---
 

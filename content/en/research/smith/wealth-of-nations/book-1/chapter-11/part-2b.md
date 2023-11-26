@@ -1,7 +1,9 @@
 ---
 title: "Coal"
 heading: "Part 2b"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 weight: 10
 image: "/covers/wn.jpg"
 description: "The value of Coal Mines is relative to the value of other fuel sources"

@@ -2,7 +2,9 @@
 title: "The Debate Between Socrates and Protagoras"
 heading: "Part 12"
 weight: 26
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/prot.jpg"
 description: "'I think, Socrates, that skill in poetry is the principal part of education'"
 icon: "/icons/socrates.png"

@@ -2,7 +2,9 @@
 title: "Protagoras and Justice"
 heading: "Part 7"
 weight: 16
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/prot.jpg"
 description: "Is virtue one whole, of which justice and temperance and holiness are parts? Or are all these only the names of one and the same thing?"
 icon: "/icons/socrates.png"

@@ -3,10 +3,12 @@ heading: Chapter 12
 title: "The Opinion that No Expense at Home Can be Hurtful"
 # date: 2015-09-10
 weight: 28
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
-description: "The absurd notion that national opulence consists in money has another bad effect -- it makes people think that whatever people spend locally cannot reduce public opulence"
+description: "The absurd notion that national opulence consists in money makes people think that local spending cannot reduce public opulence"
 ---
 
 

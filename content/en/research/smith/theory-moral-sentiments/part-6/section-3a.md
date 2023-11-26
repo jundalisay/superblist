@@ -3,7 +3,9 @@ title: "The Virtue of Self-command"
 heading: "Section 3"
 description: "A man is said to be perfectly virtuous if he acts according to the rules of prudence, justice, and benevolence"
 weight: 46
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

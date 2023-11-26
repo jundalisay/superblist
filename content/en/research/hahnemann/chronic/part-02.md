@@ -1,42 +1,52 @@
 ---
-heading: Part 2a
-title: "The Nature of Chronic Diseases"
-description: ""
+heading: Part 2
+title: "When Should Homeopathy Be Used?"
+description: "Why did thousands of endeavors to heal the other chronic diseases fail?"
 author: Samuel Hahnemann
 weight: 10
 image: /covers/chronic.jpg
 ---
 
 
-Some joyous occurrence, or an external condition of circumstances improved by fortune, a pleasant journey, a favorable season or a dry, uniform temperature, might occasionally produce a remarkable pause of shorter or longer duration in the disease of the patient, during which the Homoeopath might consider him as fairly recovered; 
+ <!-- improved by fortune, a pleasant journey, a favorable season or a dry, uniform temperature, might occasionally produce a remarkable pause of shorter or longer duration in  -->
+
+The disease of the patient might pause due to some joyous occurrence, or an external circumstance. The Homoeopath might then consider him as fairly recovered.
 
 The patient himself, if he good-naturedly overlooked some passable moderate ailments, might consider himself as healthy. 
 
-Still such a favorable pause would never be of long duration, and the return and repeated returns of the complaints in the end left even the best selected Homoeopathic remedies then known, and given in the most appropriate doses, the less effective the oftener they were repeated. 
+Still such a favorable pause would never last long. The return and repeated returns of the complaints in the end left even the best Homoeopathic remedies less effective the oftener they were repeated. In the end, they hardly passed even as weak palliatives.
 
-They served at last hardly even as weak palliatives. 
+But usually, after repeated attempts to conquer the disease which has changed form, residual complaints appeared which the Homoeopathic medicines could not eradicate. 
+ <!-- hitherto proved, though not few, had to leave uneradicated, yea, often undiminished. -->
 
-But usually, after repeated attempts to conquer the disease which appeared in a form always somewhat changed, residual complaints appeared which the Homoeopathic medicines hitherto proved, though not few, had to leave uneradicated, yea, often undiminished.
+<!-- Thus, there ever followed varying complaints ever more troublesome, and as time proceeded, more threatening, and this even while the mode of living was correct and with a punctual observance of directions. -->
 
-Thus, there ever followed varying complaints ever more troublesome, and as time proceeded, more threatening, and this even while the mode of living was correct and with a punctual observance of directions.
-
-The chronic disease could, despite all efforts, be but little delayed in its progress by the Homoeopathic physician and grew worse from year to year.
+The chronic disease could, despite all efforts, be merely delayed in its progress by the Homoeopathic physician. It could grow worse from year to year.
 
 This was, and remained, the quicker or slower process in such treatments in all non-venereal, severe chronic diseases, even when these were treated in exact accordance with the Homoeopathic art as hitherto known. Their beginning was promising, the continuation less favorable, the outcome hopeless.
 
-Nevertheless this teaching was founded upon the steadfast pillar of truth and zvill evermore be so. The attestation of its excellence, yea, of its infallibility (so far as this can be predicted of human affairs), it has laid before the eyes of the world through facts.
+Nevertheless this teaching was founded upon the steadfast pillar of truth. The attestation of its excellence, yea, of its infallibility (so far as this can be predicted of human affairs), it has laid before the eyes of the world through facts.
 
-Homoeopathy alone taught first of all how to heal the well-defined idiopathic diseases, the old, smooth scarlet fever of Sydenham, the more recent purples, whooping cough, croup, sycosis, and autumnal dysenteries, by means of the specifically aiding Homoeopathic remedies. 
+Homoeopathy alone taught first of all how to heal the well-defined idiopathic diseases:
+- the old, smooth scarlet fever of Sydenham
+- the more recent purples, whooping cough, croup, sycosis, and autumnal dysenteries
+
+ <!-- by means of the specifically aiding Homoeopathic remedies.  -->
 
 Even acute pleurisy, and typhous contagious epidemics must now allow themselves to be speedily turned into health by a few small doses of rightly-selected Homoeopathic medicine.
 
 Whence then this less favorable, this unfavorable, result of the continued treatment of the non-venereal chronic diseases even by Homoeopathy? 
 
-What was the reason of the thousands of unsuccessful endeavors to heal the other diseases of a chronic nature so that lasting health might result? 
+Why did thousands of endeavors to heal the other chronic diseases fail?
+ <!-- of a chronic nature so that lasting health might result?  -->
 
 Might this be caused, perhaps, by the still too small number of Homoeopathic remedial means that have so far been proved as to their pure action? 
 
-The followers of Homoeopathy have hitherto thus consoled themselves; but this excuse, or so-called consolation, never satisfied the founder of Homoeopathy-particularly because even the new additions of proved valuable medicines, increasing from year to year, have not advanced the healing of chronic (non-venereal) diseases by a single step, while acute diseases (unless these, at their commencement, threaten unavoidable death) are not only passably removed, by means of a correct application-of Homoeopathic remedies, but with the assistance of the never-resting, preservative vital force in our organism, find a speedy and complete cure.
+Homoeopaths have hitherto thus consoled themselves.
+
+But this excuse never satisfied the founder of Homoeopathy because even the new additions of proved valuable medicines, increasing from year to year, have not advanced the healing of chronic (non-venereal) diseases by a single step.
+
+Acute diseases (unless these, at their commencement, threaten unavoidable death) are not only passably removed, by means of a correct application-of Homoeopathic remedies, but with the assistance of the never-resting, preservative vital force in our organism, find a speedy and complete cure.
 
 Why, then, cannot this vital force, efficiently affected through Homoeopathic medicine, produce any true and lasting recovery in these chronic maladies even with the aid of the Homoeopathic remedies which best cover their present symptoms; while this same force which is created for the restoration of our organism is nevertheless so indefatigably and successfully active in completing the recovery even in severe acute diseases? What is there to prevent this?
 
@@ -44,7 +54,7 @@ The answer to this question, which is so natural, inevitably led me to the disco
 
  <!-- and to gain an insight more nearly correct and, if possible, quite correct, into the true nature of the thousands of chronic diseases which still remain uncured, this very serious task has occupied me  -->
 
-From 1816-1817, night and daym I have been thinking of why Homoeopathy medicines failed to bring a real cure in the above-mentioned diseases, despite the incontestable truth of the Homoeopathic Law of Cure. 
+From 1816-1817, night and day I have been thinking of why Homoeopathy medicines failed to bring a real cure in the above-mentioned diseases, despite the incontestable truth of the Homoeopathic Law of Cure. 
 
 The Giver of all good things permitted me within this space of time to gradually solve this sublime problem through:
 - unremitting thought

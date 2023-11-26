@@ -2,10 +2,12 @@
 heading: "Part 3"
 title: Ecclesiastical History
 weight: 8
-description: ""
+description: "Ecclesiastical History receives the same divisions with Civil History"
 image: "/covers/learning.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

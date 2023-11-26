@@ -1,12 +1,11 @@
 ---
 heading: Part 8a
-title: "The Nature of Chronic Diseases"
-description: ""
+title: "Autenrioth's Versuche fuer die prakt"
+description: "When writing the first edition of the Chronic Diseases, I was not yet acquainted with Autenrioth's Versuche fuer die prakt"
 author: Samuel Hahnemann
 weight: 22
 image: /covers/chronic.jpg
 ---
-
 
 
 When writing the first edition of the Chronic Diseases, I was not as yet acquainted with Autenrioth's Versuche fuer die prakt. Heilkunde aus den Klinishen Anstalten von Tubingen, 1808. But I saw on examining the work, that what he says about diseases following the driving away of itch through local applications is only a confirmation of what I had already found with the other hundred writers.
@@ -15,9 +14,12 @@ He also had observed that the external driving away of itch was followed by ulce
 
 But his own slow local driving away of the eruption by means of sulphuret of potash and soft soap, which he in vain calls healing it, is in no way better. Just as if his treatment were anything else than a local driving away of the eruption from the skin! Of any true cure he knows just as little as the other Allopaths, for he writes: "It is, of course, absurd to endeavor to cure itch (scab) by internal remedies." No! it is not only absurd, but even wretched to undertake to cure an internal itch-disease which cannot be cured by any local application, through any but internal means, which alone can cure the disease thoroughly and with certainty.
 
+{{< box >}}
 * A pregnant Jewess had the itch on her hands and drove it away in the eighth month of her pregnancy so that it might not be seen during the period of her delivery. Three days afterwards she was delivered and the lochial discharge did not appear and she was seized with a high fever; since that time for seven years she had been sterile and had suffered from leucorrhcea Then she became poor and had to walk a great distance barefooted; hereupon the itch again appeared and she thus lost her leucorrhoea and her other hysteric affections; she became again pregnant and was safely delivered. (Juncker, ibid.)
+{{< /box >}}
 
-Asthma, Lentilius Miscell. med. pract. Tom. I., p. 176. Fr. Hoffmann Abhandlung v. d. Kinderkrankheiten, Frft., 1741, p. 104. Detharding in Append. ad Ephem. Nat. Cur. Dec. III., ann 5 et, 6 et in obs. parallel. ad obs. 58. Binninger, Obs. Cent. V., obs. 88. Morgagni, de sedibus et caus. morb. Epist., XIV. 35. Acta Nat. Cur. Tom. V. obs. 47. J. Juncker, Consp. ther. spec. tab. 31. F. H. L. Muzell, Wahrnehm. Samml. II. Cas. 8.1 J. Fr. Gmelin in Gesner's Samml. v. Beob. V. S. 21.2 Hundertmark-Zieger Dissert. de scabie artificiale, Lips.
+
+<!-- Asthma, Lentilius Miscell. med. pract. Tom. I., p. 176. Fr. Hoffmann Abhandlung v. d. Kinderkrankheiten, Frft., 1741, p. 104. Detharding in Append. ad Ephem. Nat. Cur. Dec. III., ann 5 et, 6 et in obs. parallel. ad obs. 58. Binninger, Obs. Cent. V., obs. 88. Morgagni, de sedibus et caus. morb. Epist., XIV. 35. Acta Nat. Cur. Tom. V. obs. 47. J. Juncker, Consp. ther. spec. tab. 31. F. H. L. Muzell, Wahrnehm. Samml. II. Cas. 8.1 J. Fr. Gmelin in Gesner's Samml. v. Beob. V. S. 21.2 Hundertmark-Zieger Dissert. de scabie artificiale, Lips. -->
 
 1 A man 30 to 40 years of age had been afflicted with the itch a long time before, and it had been driven away by ointments; from which time he had become more and more asthmatic. His respiration became at last, even when not in motion, very short and extremely labored, emitting at the same time a continuous hissing sound, but attended with only little coughing. He was ordered an injection of one drachm of squills, and to take internally 3 grains of squills. But by mistake he took the drachm of squills internally. He was near losing his life with an indescribable nausea and retching. Soon after this the itch appeared again on his hands, his feet and his whole body in great abundance, and by this means the asthma was at once removed.
 

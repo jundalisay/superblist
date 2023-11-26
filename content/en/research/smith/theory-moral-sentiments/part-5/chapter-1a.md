@@ -1,9 +1,11 @@
 ---
 title: "The Influence of Customs on Beauty"
 heading: "Chapter 2b"
-description: "The custom and fashion also have a big influence on our moral sentiments. They are the chief causes of many irregular moral opinions in different ages and nations. They dominate even our judgments concerning beauty"
+description: "The custom and fashion also have a big influence on our moral sentiments. They are the chief causes of many irregular moral opinions"
 weight: 20
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

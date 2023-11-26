@@ -4,7 +4,9 @@ title: "The unity of definitions and numbers"
 weight: 10
 image: "/covers/meta.jpg"
 description: "What is the cause of the unity of definitions and numbers?"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

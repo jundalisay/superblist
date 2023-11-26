@@ -4,7 +4,9 @@ heading: "Chapter 5f"
 description: "Europe's ancient policy tried to regulate agriculture by maxims different from those which regulated manufactures"
 image: /covers/wn.jpg
 weight: 48
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 --- 
 

@@ -1,7 +1,9 @@
 ---
 title: "The Causes of Being"
 heading: "Part 1"
-author: "Aristotle"
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 weight: 1
 image: "/covers/meta.jpg"
 description: "Aristotle defines The Causes of Being"

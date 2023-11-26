@@ -4,7 +4,9 @@ title: "Adam Smith on Vegetarian Diets"
 date: 2016-06-20
 image: /photos/psych/eat.jpg
 description: "Adam Smith was a Vegetarian who favored potatoes"
-author: Juan
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmed.png
 ---
 

@@ -2,7 +2,9 @@
 title: "What is Essence?"
 heading: "Part 4"
 weight: 6
-author: "Aristotle"
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/meta.jpg"
 description: "The essence of each thing is what is to be propter se"
 icon: "/icons/aris.png"

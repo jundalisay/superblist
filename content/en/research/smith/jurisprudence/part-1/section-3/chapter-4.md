@@ -2,11 +2,13 @@
 heading: Chapter 4
 title: "Fourth way of acquiring Property: Succession"
 # date: 2015-09-24
-contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Testamentary and Legal Succession is the 4th way to gain property"
 weight: 10
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

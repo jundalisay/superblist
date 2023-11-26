@@ -5,9 +5,10 @@ weight: 14
 image: "/covers/meta.jpg"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 icon: "/icons/aris.png"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 ---
-
 
 
 None of the early philosophers who speak about 'principle' and 'cause' mentioned any principle except those which have been distinguished in our work on nature. 

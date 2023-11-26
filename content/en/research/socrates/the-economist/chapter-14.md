@@ -4,7 +4,9 @@ heading: "Chapter 14"
 weight: 34
 image: "/covers/economist.jpg"
 description: "I take a leaf now out of the laws of Draco and again another out of the laws of Solon and so essay to start my household on the path of uprightness"
-contributors: ['Xenophon']
+writer:
+  name: Xenophon
+  url: https://en.wikipedia.org/wiki/Xenophon
 icons: "/icons/socrates.png"
 ---
 

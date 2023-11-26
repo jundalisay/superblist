@@ -4,7 +4,9 @@ heading: "Chapter 13"
 weight: 32
 image: "/covers/economist.jpg"
 description: "He must learn at any rate, I think, to rule his fellow-workmen"
-contributors: ['Xenophon']
+writer:
+  name: Xenophon
+  url: https://en.wikipedia.org/wiki/Xenophon
 icons: "/icons/socrates.png"
 ---
 

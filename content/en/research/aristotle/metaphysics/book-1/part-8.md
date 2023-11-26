@@ -5,7 +5,9 @@ weight: 16
 image: "/covers/meta.jpg"
 description: "Aristotle gives his theory of substance"
 icon: "/icons/aris.png"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 ---
 
 

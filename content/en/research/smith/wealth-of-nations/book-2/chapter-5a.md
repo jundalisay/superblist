@@ -5,7 +5,9 @@ linkTitle: "Chapter 5a"
 weight: 54
 image: "/covers/wn.jpg"
 description: "The destiny of all capitals is to maintain productive labour"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 ---
 

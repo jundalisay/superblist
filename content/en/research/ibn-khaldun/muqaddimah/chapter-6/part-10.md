@@ -1,11 +1,13 @@
 ---
 title: "The Quranic sciences"
-description: "The Quran is the word of God that was revealed to His Prophet. It was written down between the two covers of copies of the Qur'an (mushaf). Its transmission has been continuous in Islam"
+description: "The Quran is the word of God that was revealed to His Prophet. It was written down between the two covers of copies of the Qur'an"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 10"
 weight: 20
-contributors: ['Ibn Khaldun']
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 

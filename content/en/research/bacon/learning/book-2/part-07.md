@@ -5,7 +5,9 @@ weight: 16
 description: "Democritus said that the truth of nature lies hidden in certain deep mines and caves"
 image: "/covers/learning.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

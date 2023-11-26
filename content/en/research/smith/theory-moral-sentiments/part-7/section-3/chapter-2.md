@@ -2,10 +2,12 @@
 heading: Chapter 2
 title: "Systems Which Make Reason the Principle of Approbation"
 weight: 4
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/tms.jpg"
-description: "When Hobbes started this controversy, reason was thought the only source for the ideas of right and wrong. It became the popular doctrine that the essence of virtue and vice consisted in their conformity or disagreement with reason"
+description: "When Hobbes started this controversy, reason was thought the only source for the ideas of right and wrong."
 ---
 
 

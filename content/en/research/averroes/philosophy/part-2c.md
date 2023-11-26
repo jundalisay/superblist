@@ -1,7 +1,9 @@
 ---
 heading: "Part 2c"
 title: "The Unity Of God"
-author: Averroes
+writer:
+  name: Averroes
+  url: https://en.wikipedia.org/wiki/Averroes
 description: ""
 weight: 16
 image: "/covers/theo.jpg"

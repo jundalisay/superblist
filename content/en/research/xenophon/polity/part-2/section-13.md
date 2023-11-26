@@ -1,28 +1,28 @@
 ---
 heading: Section 13
-title: "The power assigned by Lycurgus to the king during a campaign."
+title: "How the King Goes to War"
 description: "The Polity Of The Athenians And The Spartans"
 image: "/covers/polity.jpg"
-contributors: ['Xenophon']
+writer:
+  name: Xenophon
+  url: https://en.wikipedia.org/wiki/Xenophon
 weight: 24
 ---
 
 
+The state maintains the king and those with him as long as he is on active service. 
 
-To begin with, so long as he is on active service, the state maintains the king and those with him. 
+The polemarchs mess with him and share his quarters so that by constant intercourse they can better consult each other in case of need. Besides the polemarch, 3 other members of the peers share the royal quarters, mess, etc. 
 
-<!-- (1) The polemarchs mess with him and share his quarters, so that by dint of constant intercourse they may be all the better able to consult in common in case of need. Besides the polemarch three other members of the peers (2) share the royal quarters, mess, etc. The duty of these is to attend to all matters of commisariat, (3) in order that the king and the rest may have unbroken leisure to attend to affairs of actual warfare.
+The duty of these is to attend to all matters of commisariat, so that the king and the rest may have unbroken leisure to attend to actual warfare.
 
- (1) I.e. "the Thirty." See "Ages." i. 7; "Hell." III. iv. 2; Plut.
-    "Ages." 6 (Clough, iv. 6); Aristot. "Pol." ii. 9, 29.
+How does the king go out on an expedition?
 
- (2) For these {oi omoioi}, see "Cyrop." I. v. 5; "Hell." III. iii. 5.
+As a preliminary step, before leaving home he offers sacrifice in company with his staff to Zeus Agetor (the Leader), and if the victims prove favourable then and there the priest, (5) who bears the sacred fire, takes thereof from off the altar and leads the way to the boundaries of the land.
 
- (3) Lit. "supplies and necessaries." -->
+Here for the second time the king does sacrifice (6) to Zeus and Athena.
 
-But I will resume at a somewhat higher point and describe the manner in which the king sets out on an expedition. As a preliminary step, before leaving home he offers sacrifice (in company with (4) his staff) to Zeus Agetor (the Leader), and if the victims prove favourable then and there the priest, (5) who bears the sacred fire, takes thereof from off the altar and leads the way to the boundaries of the land. 
-
-Here for the second time the king does sacrifice (6) to Zeus and Athena; and as soon as the offerings are accepted by those two divinities he steps across the boundaries of the land. And all the while the fire from those sacrifices leads the way, and is never suffered to go out. Behind follow beasts for sacrifice of every sort.
+As soon as the offerings are accepted by those two divinities he steps across the boundaries of the land. And all the while the fire from those sacrifices leads the way, and is never suffered to go out. Behind follow beasts for sacrifice of every sort.
 
 <!--  (4) Lit. reading {kai oi sun auto}, after L. Dindorf, "he and those
     with him."
@@ -33,7 +33,7 @@ Here for the second time the king does sacrifice (6) to Zeus and Athena; and as 
  (6) These are the {diabateria}, so often mentioned in the "Hellenica." -->
 
 
-Invariably when he offers sacrifice the king begins the work in the gloaming ere the day has broken, being minded to anticipate the goodwill of the god. 
+Invariably, when he offers sacrifice the king begins the work in the gloaming ere the day has broken, being minded to anticipate the goodwill of the god. 
 
 And round about the place of sacrifice are present the polemarchs and captains, the lieutenants and sub-lieutenants, with the commandants of the baggage train, and any general of the states (7) who may care to assist. 
 
@@ -59,7 +59,9 @@ The disposition of the supports is assigned to the eldest of the royal council (
  (14) See "Anab." III. iv. 30; "Cyrop." I. vi. 15; L. Dindorf, n. ad loc.
  (15) Schneider refers to Polyaenus, i. 10. -->
 
-The following details also seem to me of high utility among the inventions of Lycurgus with a view to the final arbitrament of battle. Whensoever, the enemy being now close enough to watch the proceedings, (16) the goat is sacrificed; then, says the law, let all the pipers, in their places, play upon the pipes, and let every Lacedaemonian don a wreath. 
+The following details also seem to me of high utility among the inventions of Lycurgus with a view to the final arbitrament of battle. 
+
+Whensoever, the enemy being now close enough to watch the proceedings, (16) the goat is sacrificed; then, says the law, let all the pipers, in their places, play upon the pipes, and let every Lacedaemonian don a wreath. 
 
 Then, too, so runs the order, let the shields be brightly polished. The privilege is accorded to the young man to enter battle with his long locks combed. (17) To be of cheery countenance—that, too, is of good repute. Onwards they pass the word of command to the subaltern (18) in command of his section, since it is impossible to hear along the whole of each section from the particular subaltern posted on the outside. It devolves, finally, on the polemarch to see that all goes well.
 

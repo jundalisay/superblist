@@ -2,7 +2,9 @@
 heading: Chapter 3
 title: "Systems Based on Feelings"
 weight: 6
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/tms.jpg"
 description: "Moral systems based on feelings can be divided into 2 classes"

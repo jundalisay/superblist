@@ -4,7 +4,9 @@ title: "Defining Prior and Posterior"
 weight: 12
 image: "/covers/meta.jpg"
 description: "Aristotle defines prior and posterior"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

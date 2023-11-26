@@ -1,7 +1,9 @@
 ---
 title: "Defining Complete, Limit, Disposition"
 heading: "Part 16"
-author: "Aristotle"
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 weight: 20
 image: "/covers/meta.jpg"
 description: "Aristotle defines Complete, Limit, Disposition"

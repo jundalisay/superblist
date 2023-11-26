@@ -4,7 +4,9 @@ title: "Colors and Causes"
 weight: 32
 image: "/covers/timaeus.jpg"
 description: "Color is the fourth class of sensible things, having many intricate varieties"
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 ---
 
 

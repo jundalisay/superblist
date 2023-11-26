@@ -1,11 +1,13 @@
 ---
-title: "The Letter of Abd-al-Hamid to his fellow secretaries"
-description: "The ruler who picks a secretary from the rank and file has many conditions to consider. These are completely presented in the Epistle that the secretary Abd-al-Hamid addressed to his fellow secretaries"
+title: "The Letter of Abd-al-Hamid to his Fellow Secretaries"
+description: "The ruler who picks a secretary from the rank and file has many conditions to consider"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 32g"
 weight: 88
-contributors: ['Ibn Khaldun']
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 

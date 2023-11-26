@@ -3,7 +3,9 @@ title: "The Extensive Influence of the Beauty From Utility"
 heading: "Chapter 1"
 description: "Utility is one of the principal sources of beauty"
 image: "/covers/tms.jpg"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 weight: 10
 ---

@@ -1,9 +1,11 @@
 ---
 title: "Custom and Fashion in the Arts"
 heading: "Chapter 1b"
-description: "These could not be interchanged without the greatest impropriety. However, modern writing contradicts this principle even though modern writing appears extremely proper. The burlesque verse in English is the heroic verse in French"
+description: "An eminent artist will create a big change in the established modes of art and introduce a new fashion of writing, music, or architecture"
 weight: 22
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

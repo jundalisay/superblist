@@ -2,7 +2,9 @@
 heading: "Part 4"
 title: "The doctrine of Protagoras"
 weight: 8
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/meta.jpg"
 description: "Those who really feel the difficulties have been led to this opinion by observation of the sensible world."
 icon: "/icons/aris.png"

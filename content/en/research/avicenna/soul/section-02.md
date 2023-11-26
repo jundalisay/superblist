@@ -1,8 +1,10 @@
 ---
 heading: "Section 2"
 title: "The General Definition of the Soul"
-description: ""
-author: "Avicenna"
+description: "We found compound ensouled bodies—I mean possessing souls—to have agreed and differed in the properties both of their impulsion and their perception"
+writer:
+  name: Avicenna
+  url: https://en.wikipedia.org/wiki/Avicenna
 weight: 6
 image: "/covers/soul.jpg"
 ---
@@ -10,7 +12,7 @@ image: "/covers/soul.jpg"
 
 ## The 3 Classes of Spiritual Faculties
 
-SUB-SECTION A:
+<!-- SUB-SECTION A: -->
 
 Some have one thing in common and differ in another. 
 

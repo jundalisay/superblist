@@ -1,8 +1,9 @@
-
 ---
 title: "Second Kind: Produce that can be multiplied according to demand"
 heading: "Part 3b of Digression Part 3b1"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 weight: 32
 image: "/covers/wn.jpg"
 description: "The second kind is the rude produce which human industry can multiply in proportion to the demand--Beef, Deer Meat"

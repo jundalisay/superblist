@@ -2,7 +2,9 @@
 title: "The Foreigner"
 heading: "Part 12"
 weight: 2
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/sophist.jpg"
 description: "We bring with us a foreigner from Elea, who is a disciple of Parmenides and Zeno, and a true philosopher"
 icon: "/icons/socrates.png"

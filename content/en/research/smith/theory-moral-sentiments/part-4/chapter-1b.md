@@ -3,7 +3,9 @@ title: "Public Welfare Systems"
 heading: "Chapter 1b"
 description: "Those institutions which promote the public welfare are frequently recommended by the same love of system"
 weight: 12
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

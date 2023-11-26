@@ -5,7 +5,9 @@ image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Parts 25-26"
 weight: 30
-contributors: ['Ibn Khaldun']
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 # date: 2022-01-10
 ---
 

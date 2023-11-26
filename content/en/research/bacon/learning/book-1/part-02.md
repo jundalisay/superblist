@@ -5,7 +5,9 @@ weight: 6
 description: "Learning has received disgraces from politics"
 image: "/covers/learning.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

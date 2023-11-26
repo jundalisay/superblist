@@ -3,7 +3,9 @@ heading: "Part 15"
 title: "Defining Relative"
 weight: 18
 image: "/covers/meta.jpg"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 description: "Aristotle defines Relative"
 icon: "/icons/aris.png"
 ---

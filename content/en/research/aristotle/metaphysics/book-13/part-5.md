@@ -4,7 +4,9 @@ title: "The Theory of Forms and Numbers"
 weight: 8
 image: "/covers/meta.jpg"
 description: "How do the Forms contribute to sensible things, either eternal or non-eternal?"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

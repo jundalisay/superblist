@@ -8,7 +8,7 @@ image: /covers/chronic.jpg
 ---
 
 
-Now, if the entire disease thus arising is again extinguished through the internally given specific remedy, then the chancre also is healed and the man recovers.
+If the entire disease thus arising is again extinguished through the internally given specific remedy, then the chancre also is healed and the man recovers.
 
 But if the chancre is destroyed through local appli-tions* before the internal disease is healed - and this is are the most rich in nerves and covered with the thinnest cuticle, as in the genital organs, unless the miasma should touch a wounded spot. But the miasma of the itch needs only to touch the general skin, especially with tender children. The disposition of being affected with the miasma of the itch is found with almost everyone and under almost all circumstances, which is not the case with the other two miasmata.
 

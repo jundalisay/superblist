@@ -3,10 +3,12 @@ heading: Chapter 11
 title: "The Balance of Trade"
 # date: 2015-09-10
 weight: 26
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
-description: "No nation has been ruined by this balance of trade. When Gee published his book, the balance with all nations was against us, except Spain and Portugal"
+description: "No nation has been ruined by this balance of trade. When Gee published his book, the balance with all nations was against us"
 ---
 
 

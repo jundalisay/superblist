@@ -2,7 +2,9 @@
 title: "The Beginning"
 heading: "Part 4"
 weight: 10
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/prot.jpg"
 description: "Once upon a time there were gods only, and no mortal creatures"
 icon: "/icons/socrates.png"

@@ -1,11 +1,13 @@
 ---
 title: "Ranks are useful in securing property"
-description: "The person of rank who is highly esteemed is in every material aspect more fortunate and wealthier than a person who has no rank. The reason for this is that the person of rank is served by the labor of others"
+description: "The person of rank who is highly esteemed is in every material aspect more fortunate and wealthier than a person who has no rank"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Parts 5-6"
 weight: 18
-contributors: ['Ibn Khaldun']
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 

@@ -4,7 +4,9 @@ title: "How the Commerce of the Towns Improved the Countryside"
 weight: 20
 image: "/covers/wn.jpg"
 description: "How the Commerce gave employment for the rural areas"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 ---
 

@@ -2,6 +2,8 @@
 title: "The Polity Of The Spartans"
 description: "The Polity Of The Athenians And The Spartans"
 image: "/covers/polity.jpg"
-contributors: ['Xenophon']
+writer:
+  name: Xenophon
+  url: https://en.wikipedia.org/wiki/Xenophon
 weight: 2
 ---

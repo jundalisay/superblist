@@ -2,7 +2,9 @@
 title: "Is Essence the Same?"
 heading: "Part 6 "
 weight: 8
-author: "Aristotle"
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/meta.jpg"
 description: "Is each thing and its essence are the same or different?"
 icon: "/icons/aris.png"

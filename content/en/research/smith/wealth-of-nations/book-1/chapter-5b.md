@@ -3,7 +3,9 @@ heading: "Chapter 5b"
 title: "Grains versus Silver in terms of the temporal aspect of value"
 image: "/covers/wn.jpg"
 weight: 24
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 description: "At distant times, equal amounts of labour will be bought more nearly with equal amounts of wheat, the worker's subsistence, than with perhaps any other commodity"
 icon: "/avatars/smith.png"
 ---

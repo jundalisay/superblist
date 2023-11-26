@@ -8,15 +8,17 @@ image: /covers/chronic.jpg
 ---
 
 
-9 A girl had a violent eruption of itch on the legs, with large ulcers in the bend of the knee. Being attacked with smallpox the itch was suppressed. This induced a humid inflammation of the white of the eye and of the eyelids, with itching and suppuration of the same, and the vision of dark bodies floating before her eyes; this lasted for two years. Then for three days she put on the stockings of a child afflicted with the itch. On the last day a fever broke out, with dry cough, tension in the chest, with inclination to vomit. On the following day the fever and the tension of the chest diminished and a sweat broke out, which increased until erysipelas broke out on both legs, and on the following day these passed over into the real itch. The eyes then improved.
+9 A girl had a violent eruption of itch on the legs, with large ulcers in the bend of the knee. Being attacked with smallpox the itch was suppressed. 
+
+This induced a humid inflammation of the white of the eye and of the eyelids, with itching and suppuration of the same, and the vision of dark bodies floating before her eyes; this lasted for two years. Then for three days she put on the stockings of a child afflicted with the itch. On the last day a fever broke out, with dry cough, tension in the chest, with inclination to vomit. On the following day the fever and the tension of the chest diminished and a sweat broke out, which increased until erysipelas broke out on both legs, and on the following day these passed over into the real itch. The eyes then improved.
 
 40 A man whose itch had been driven off, but who was of robust constitution, was seized with cataract.
 
 41 From itch expelled by external application there arose amaurosis, which passed away when the eruption re-appeared on the skin.
 
-42A vigorous man, when the itch had been expelled from the skin, was seized with amaurosis and remained blind to an advanced age.
+42 A vigorous man, when the itch had been expelled from the skin, was seized with amaurosis and remained blind to an advanced age.
 
-43Amaurosis from the same cause, with terrible headache.
+43 Amaurosis from the same cause, with terrible headache.
 
 Deafness. Thore in Capelle, Journal de Santc, Tom. I. Daniel, Syst. aegritud. II., p. 228. Ludwig, as above.
 
@@ -38,9 +40,9 @@ Discharges of acrid humors. Fr. Hoffman, Consult. Tom. II., Cas. 125.
 
 45 In consequence of itch driven off by external applications, loss of blood up to eight pounds within a few hours colic, fever, etc.
 
-46After the expulsion of itch a most violent colic, pain in the region of the left lower ribs, restlessness, lingering fever, anxiety and obstinate constipation.
+46 After the expulsion of itch a most violent colic, pain in the region of the left lower ribs, restlessness, lingering fever, anxiety and obstinate constipation.
 
-47A young peasant had driven off the itch with ointment, and shortly after he suffered from suppression of urine, vomiting, and at times from a pain in the left loin. Still he, after a while, passed urine a few times, but only a little, of dark color and attended with pains. In vain the attempt was made to empty it with a catheter. At last the whole body swelled up, difficult and slow respiration ensued, and he died on about the twenty-first day after the supres-sion of the itch. The bladder contained two pounds of urine just as dark, but the abdominal cavity, water, which when held for awhile over the fire thickened into a sort of albumen.
+47 A young peasant had driven off the itch with ointment, and shortly after he suffered from suppression of urine, vomiting, and at times from a pain in the left loin. Still he, after a while, passed urine a few times, but only a little, of dark color and attended with pains. In vain the attempt was made to empty it with a catheter. At last the whole body swelled up, difficult and slow respiration ensued, and he died on about the twenty-first day after the supres-sion of the itch. The bladder contained two pounds of urine just as dark, but the abdominal cavity, water, which when held for awhile over the fire thickened into a sort of albumen.
 
 48A man rubbed himself with mercurial ointment against the itch, when there followed an erysipelatous inflammation in the neck, of which he died after five weeks.
 

@@ -2,7 +2,9 @@
 heading: Chapter 3
 title: "When is War Lawful?"
 weight: 10
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "In general, whatever is the foundation of a proper lawsuit may be a just occasion of war"

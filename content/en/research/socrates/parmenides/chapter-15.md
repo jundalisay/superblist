@@ -4,7 +4,9 @@ heading: "Chapter 15"
 weight: 30
 image: "/covers/parm.png"
 description: "The Others become other than each Other, for the only remaining alternative is that they are other than nothing."
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 icon: "/icons/socrates.png"
 ---
 

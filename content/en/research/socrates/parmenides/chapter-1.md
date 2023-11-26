@@ -2,7 +2,9 @@
 title: "Socrates, Zeno, and Parmenides"
 heading: "Chapter 1"
 weight: 2
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/parm.png"
 description: "Socrates, Zeno, and Parmenides talk about the philosophy"
 icon: "/icons/socrates.png"

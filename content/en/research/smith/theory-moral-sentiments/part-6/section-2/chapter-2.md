@@ -1,9 +1,11 @@
 ---
 title: "The Order of How Societies are recommended to our Beneficence"
 heading: "Chapter 2"
-description: "The principles that direct the order of how individuals are recommended to our beneficence, also direct the order of how societies are recommended to our beneficence"
+description: "The principles that direct the order of how individuals are recommended to our beneficence, also direct the order of how societies are recommended"
 weight: 42
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

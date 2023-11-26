@@ -2,7 +2,9 @@
 title: "The Debate Between Socrates and Protagoras"
 heading: "Part 13"
 weight: 28
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/prot.jpg"
 description: "'What account do you give of that which, in our way of speaking, is termed being overcome by pleasure?'"
 icon: "/icons/socrates.png"

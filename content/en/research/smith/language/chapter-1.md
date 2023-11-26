@@ -2,7 +2,9 @@
 heading: Chapter 1
 title: "Nouns and Adjectives"
 weight: 8
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/formation.jpg"
 description: "The assignment of names to denote objects creates nouns substantive. It is one of the first steps towards the formation of language"

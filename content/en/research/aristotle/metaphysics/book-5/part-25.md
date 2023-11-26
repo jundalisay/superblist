@@ -2,7 +2,9 @@
 title: "Defining Part and Whole"
 heading: "Part 25"
 weight: 24
-author: "Aristotle"
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/meta.jpg"
 description: "Aristotle defines Part and Whole"
 icon: "/icons/aris.png"

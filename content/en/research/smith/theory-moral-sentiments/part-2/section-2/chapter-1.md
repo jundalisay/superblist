@@ -2,10 +2,12 @@
 heading: Chapter 1
 title: "Comparison of Justice and Beneficence"
 weight: 6
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/tms.jpg"
-description: "Beneficence, Resentment, Justice, Revenge"
+description: "Beneficence cannot be extorted by force, but justice can"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-heading: Part 1a
-title: "The Nature of Chronic Diseases"
-description: ""
+heading: Part 1
+title: "Homeopathy Verus Allopathic Medicine"
+description: "My Homoeopathic healing art is naturally superior over any allopathic treatment"
 author: Samuel Hahnemann
 weight: 8
 image: /covers/chronic.jpg
@@ -19,7 +19,9 @@ Venereal diseases also have been radically healed by Homoeopathy much more surel
 But there are more chronic diseases than remedies. 
 <!-- on this great earth has been immeasurably greater, and remains so. -->
 
-Treatment by allopathic physicians has hitherto merely served to increase the distress from this kind of disease. It consisted of many nauseous mixtures. These are compounded by the druggist from violently-acting medicines in large doses, of whose separate true effects they were ignorant.
+Treatment by allopathic physicians has merely increased the distress from this kind of disease.
+
+It consisted of many nauseous mixtures compounded by the druggist from violently-acting medicines in large doses, of whose separate true effects they were ignorant.
 
 These medicinal torments are:
 - manifold baths
@@ -41,15 +43,27 @@ These are continually varied like the fashions. By these means, the disease is e
 - changed. 
   - The medicine creates a new disease far worse and more incurable than the original natural one
 
- The physician consoles the patient: 'The former sickness I have been fortunate enough to remove; it is a great pity that a new (?) disease has appeared, but I hope to be as successful in removing this latter as in the former." 
+The physician consoles the patient: 
 
- And so, while the same disease assumed various forms, and while new diseases were being added by the use of improper, injurious medicines, the sufferings of the patient were continually aggravated until his pitiable lamentations were hushed forever with his dying breath, and the relatives were soothed with the comforting pretense: "Everything imaginable had been used and applied in the case of the deceased."
+"I was able to remove the former sickness. But it is a great pity that a new disease has appeared. But I hope to be as successful in removing it as the previous one." 
+
+And so, the same disease assumed various forms. New diseases were being added by the use of improper, injurious medicines.
+
+The sufferings of the patient were continually aggravated until his pitiable lamentations were hushed forever with his death. His relatives were soothed with the comforting pretense: 
+
+"Everything imaginable had been used and applied in the case of the deceased."
 
 It is not so with Homoeopathy, the great gift of God!
 
-Even in these other kinds of chronic diseases, its disciples, by following the teachings presented in my former writings and my former oral lectures, accomplished far more than all the afore-mentioned methods of curing, i. e., when they found the patient not too much run down and spoiled by allopathic treatment, as was unfortunately too often the case where the patient had any money to spend.
+By following my teachings, homeopaths have accomplished far more than all the afore-mentioned methods of curing even in other kinds of chronic diseases. 
 
-Using the more natural treatment, Homoeopathic physicians have frequently been able in a short time to remove the chronic disease which they had before them, after examining it according to all the symptoms perceptible to the senses.
+<!-- , its disciples, by following the teachings presented in my former writings and my former oral lectures, , -->
+
+They succeed when the patient is not too much run down and spoiled by allopathic treatment.
+
+<!-- , as was unfortunately too often the case where the patient had any money to spend. -->
+
+Using the more natural treatment, Homoeopathic physicians are able in a short time to remove the chronic disease, after examining it according to all the symptoms perceptible to the senses.
 
 The means of cure were the most suitable among the Homoeopathic remedies, used in their smallest doses which had been so far proved as to their pure, true effects. 
 

@@ -4,7 +4,9 @@ title: "The Basis of the Truth"
 weight: 10
 image: "/covers/meta.jpg"
 description: "Protagoras said that man is the measure of all things. It means that that which seems to each man also assuredly is."
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

@@ -3,7 +3,9 @@ heading: Section 8-9
 title: "The Spartan Discipline"
 description: "The Discipline of The Spartans"
 image: "/covers/polity.jpg"
-contributors: ['Xenophon']
+writer:
+  name: Xenophon
+  url: https://en.wikipedia.org/wiki/Xenophon
 weight: 16
 ---
 

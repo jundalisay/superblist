@@ -1,7 +1,9 @@
 ---
 title: "Introduction"
 weight: 9
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "The rules which nations should observe, or do observe with one another, cannot be treated so accurately as private or public law"

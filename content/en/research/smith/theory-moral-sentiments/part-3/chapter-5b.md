@@ -1,10 +1,12 @@
 ---
 title: "How Nature balances the distribution of prosperity"
 heading: "Chapter 5b"
-description: "The general rules which distribute prosperity and adversity are perfectly suited to mankind's situation. Yet they are not suited to some of our natural feelings"
+description: "The general rules which distribute prosperity and adversity are perfectly suited to mankind's situation"
 date: 2015-09-04
 image: "/covers/tms.jpg"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 ---
 

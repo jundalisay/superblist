@@ -4,7 +4,7 @@ heading: "Chapter 11"
 weight: 60
 contributors: ['Benham']
 image: "/covers/reading.png"
-description: "THE line of Apollo is a vertical line rising, if long, from the upper part of the Mount of Moon, if short, higher in the hand, and running toward the Mount of Apollo, sometimes ending high on that Mount, and sometimes not reaching to it"
+description: "THE line of Apollo is a vertical line rising from the upper part of the Mount of Moon or higher in the hand, running towards the Mount of Apollo"
 ---
 
 

@@ -4,7 +4,9 @@ title: "Export Bans"
 weight: 100
 image: "/covers/wn.jpg"
 description: "The exportation of raw materials is sometimes discouraged by absolute prohibitions and sometimes by high duties"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "/avatars/smith.png"
 ---
 

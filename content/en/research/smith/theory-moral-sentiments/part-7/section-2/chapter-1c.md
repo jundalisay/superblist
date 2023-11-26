@@ -5,6 +5,9 @@ linkTitle: Chapter 1b
 description: "Zeno was the founder of the Stoicism. According to him, every animal was by nature recommended to its own care, and endowed with self-love"
 image: /covers/tms.jpg
 weight: 6
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

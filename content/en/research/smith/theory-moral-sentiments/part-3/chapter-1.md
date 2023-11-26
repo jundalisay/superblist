@@ -1,10 +1,12 @@
 ---
 title: "The Principle of Self-approbation Simplified"
 heading: "Chapter 1"
-description: "Private Morals are based on the sympathy of the Deity on us, through a natural construct called the conscience or an artificial construct called the impartial spectator which is our projection of our ideal self"
+description: "Private Morals are based on the sympathy of the Deity on us, through a natural construct called the conscience"
 # date: 2015-09-30
 image: "/covers/tms.jpg"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 ---
 

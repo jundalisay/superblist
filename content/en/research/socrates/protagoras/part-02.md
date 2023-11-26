@@ -2,7 +2,9 @@
 title: "Protagoras the Sophist"
 heading: "Part 2"
 weight: 4
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/prot.jpg"
 description: "By the gods, I said, and are you not ashamed at having to appear before the Hellenes in the character of a Sophist?"
 icon: "/icons/socrates.png"

@@ -2,7 +2,9 @@
 title: "The Wealth of Critobulus"
 heading: "Chapter 2"
 weight: 12
-contributors: ['Xenophon']
+writer:
+  name: Xenophon
+  url: https://en.wikipedia.org/wiki/Xenophon
 image: "/covers/economist.jpg"
 description: "Wealth is anything that provides utilitiy and benefit for living"
 icon: "/icons/socrates.png"

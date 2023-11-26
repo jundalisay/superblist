@@ -2,7 +2,9 @@
 title: "Love is the love of beauty"
 heading: "Chapter 3"
 weight: 8
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/sym.png"
 description: "Love is the love of beauty and not of deformity"
 icon: "/icons/socrates.png"

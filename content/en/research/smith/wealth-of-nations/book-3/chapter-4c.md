@@ -4,7 +4,9 @@ title: "Dynasties and the Development of Europe"
 weight: 24
 image: "/covers/wn.jpg"
 description: "Very old families are very rare in commercial countries. Such are families which have possessed some large estate from father to son for many generations"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 ---
 

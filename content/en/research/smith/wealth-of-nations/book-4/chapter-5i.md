@@ -6,7 +6,9 @@ heading: "Chapter 5i"
 description: "The merchant carrier imports foreign wheat and re-exports it"
 image: /covers/wn.jpg
 weight: 54
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 --- 
 

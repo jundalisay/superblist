@@ -4,7 +4,9 @@ heading: "Chapter 7o"
 description: "In taxation by requisition, the British parliament would determine the sum each colony should pay. The provincial assembly would assess and levy it in the best way suited to the province"
 image: /covers/wn.jpg
 weight: 90
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 ---
 

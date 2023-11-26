@@ -3,7 +3,9 @@ heading: Chapter 4-5 of Part 1 Section 2
 title: "Guardian and Ward, Domestic Punishments"
 # date: 2015-09-20
 weight: 18
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Polygamy vs Monogamy, Domestic Offences and their Punishments"

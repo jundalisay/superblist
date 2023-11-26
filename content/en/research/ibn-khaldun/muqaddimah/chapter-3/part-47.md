@@ -5,7 +5,9 @@ image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 47"
 weight: 128
-contributors: ['Ibn Khaldun']
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 
@@ -83,25 +85,16 @@ Therefore, their leader is forced to wait until senility takes hold of the rulin
 gain the upper hand, quite some time after his attack (had begun). This is how God
 proceeds with His servants.
 
-The men of the new dynasty differ from the men of the ruling dynasty with
-regard to descent, customs, and all other things. The (persistent) attacks and their
-desire to gain the upper hand estrange the men of the new dynasty more and more
-from the men of the ruling dynasty. Consequently, the people of the two dynasties
-become thoroughly estranged from each other, inwardly and outwardly. No
-information about the men of the ruling dynasty, either secretly or openly, reaches
-the men of the new dynasty, such as might enable them to find some unpreparedness
-among them, because all connection and intercourse between the two dynasties has
-been cut off. They thus continue to exert pressure, 734 (but) they are in a state of fear
+The men of the new dynasty differ from the men of the ruling dynasty with regard to descent, customs, and all other things. The (persistent) attacks and their desire to gain the upper hand estrange the men of the new dynasty more and more from the men of the ruling dynasty. 
+
+Consequently, the people of the two dynasties become thoroughly estranged from each other, inwardly and outwardly. No information about the men of the ruling dynasty, either secretly or openly, reaches the men of the new dynasty, such as might enable them to find some unpreparedness among them, because all connection and intercourse between the two dynasties has been cut off. They thus continue to exert pressure, 734 (but) they are in a state of fear
 and shy away from sudden action.
 
-Eventually, God permits the ruling dynasty to end, its life to stop, and
-disintegration to afflict it from all sides. The senility and decay of (the ruling
-dynasty), which had been concealed from the people of the new dynasty, now
-become clear to them. (In the meantime,) their strength has grown, because they had
-cut off and taken away districts and outlying regions from (the ruling dynasty).
-Thus, they become spirited enough (to attempt) sudden action. The apprehensions
-that had hitherto weakened their resolution disappear. The long wait comes to an
-end, and sudden action finally brings domination.
+Eventually, God permits the ruling dynasty to end, its life to stop, and disintegration to afflict it from all sides. The senility and decay of (the ruling dynasty), which had been concealed from the people of the new dynasty, now become clear to them. 
+
+In the meantime, their strength has grown, because they had cut off and taken away districts and outlying regions from (the ruling dynasty). 
+
+Thus, they become spirited enough (to attempt) sudden action. The apprehensions that had hitherto weakened their resolution disappear. The long wait comes to an end, and sudden action finally brings domination.
 
 This may be exemplified by the emergence and beginnings of the Abbasid dynasty. The Abbasid Shi'ah remained in Khurasan for ten years or more after the Abbasid propaganda had consolidated and the Abbisids had gathered for attack.
 Then, their victory materialized, and they gained the upper hand over the Umayyads.
@@ -168,5 +161,3 @@ dynasties. Thus, (the rapid conquest) was one of the miracles of our Prophet.
 The fact of the appearance of (such miracles) in Islam is generally acknowledged.
 
 Miracles cannot be used as analogies for ordinary affairs and constitute no argument against (them).
-
-

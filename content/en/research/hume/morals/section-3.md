@@ -1,5 +1,5 @@
 ---
-title: "Justice"
+title: "The Utility of Justice"
 heading: "Section 3 "
 description: "Is public utility the SOLE origin of justice? Are the benefits of justice the SOLE foundation of its merit?"
 image: /covers/morals.png
@@ -109,9 +109,10 @@ The commoness <!-- community --> of goods has frequently been attempted during t
 - This makes their proponents <!--  imprudent fanatics would adopt anew --> rever to the ideas of justice and of separate property.
 
 
-## Justice
+## Justice as a Virtue
 
-This virtue of justice derives its existence entirely from its necessary USE to the intercourse and social state of mankind.
+This virtue of justice derives its existence entirely from its necessary USE in the social state of mankind. 
+<!-- to the intercourse and  -->
 
 <!-- To make this truth more evident, let us reverse the foregoing suppositions; and carrying everything to the opposite extreme, consider what would be the effect of these new situations.  -->
 
@@ -171,14 +172,3 @@ Justice is made totally useless when humans are in the state of:
 The common situation of society is a medium amidst all these extremes.
 
 We are naturally partial to ourselves, and to our friends. But we are capable of learning the advantage resulting from a more equitable conduct.
-
- 
-
-The open and liberal hand of nature gives us few enjoyments. 
-- We can extract more enjoyments from nature by art, labour, and industry.
-
-Hence the ideas of property become necessary in all civil society.
-
-Hence justice derives its usefulness to the public.
-
-Hence alone arises its merit and moral obligation.

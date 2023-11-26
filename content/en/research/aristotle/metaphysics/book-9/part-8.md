@@ -1,33 +1,77 @@
 ---
 heading: "Part 8"
-title: "Actuality is prior to potentiality"
+title: "Actuality (Existence) is prior to potentiality (Change)"
 weight: 14
 image: "/covers/meta.jpg"
-description: "Potentiality is that definite kind which is a principle of change in another thing or in the thing itself regarded as other. It is every principle of movement or rest"
-contributors: ['Aristotle']
+description: "Potentiality is that definite kind which is a principle of change in another thing or in the thing itself regarded as other"
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 
 
-Actuality is prior to potentiality.
+Actuality, or actual existence, is prior to potentiality.
 
-Potentiality is that definite kind which is a principle of change in another thing or in the thing itself regarded as other. It is every principle of movement or rest. 
+Potentiality, or possibility of change, is that definite kind which is a principle of change in a thing. 
+ <!-- another thing or in the thing itself regarded as other.  -->
+- It is every principle of movement or rest. 
 
-Nature also is in the same genus as potency. It is a principle of movement-not, however, in something else but in the thing itself qua itself. To all such potency, then, actuality is prior both in formula and in substantiality; and in time it is prior in one sense, and in another not.
+Nature also is in the same genus as potency or the possibility of change. 
+- It is a principle of movement of the thing itself.
+<!-- -not, however, in something else but in the thing itself qua itself.  -->
 
-1. Clearly it is prior in formula; for that which is in the primary sense potential is potential because it is possible for it to become active; 
+To all such possibility of change, <!-- potency --> then, actuality is prior both in cause-and-effect formula and in substantiality. In terms of time or temporal perception, actual existence is prior in one sense, but not in another.
 
-e.g. I mean by 'capable of building' that which can build, and by 'capable of seeing' that which can see, and by 'visible' that which can be seen. And the same account applies to all other cases, so that the formula and the knowledge of the one must precede the knowledge of the other.
+1. Actual Existence is prior in cause-and-effect formula.
 
-2. In time, it is prior in this sense= the actual which is identical in species though not in number with a potentially existing thing is to it. 
+That which has the possibility of change [is potential] in the primary sense is potential because it is possible for it to become active.
 
-I mean that to this particular man who now exists actually and to the corn and to the seeing subject the matter and the seed and that which is capable of seeing, which are potentially a man and corn and seeing, but not yet actually so, are prior in time; but prior in time to these are other actually existing things, from which they were produced. 
+For example:
+- 'capable of building' is something that can build.
+- 'capable of seeing' is something that can see.
+- 'visible' is something that can be seen. 
 
-For from the potentially existing the actually existing is always produced by an actually existing thing, e.g. man from man, musician by musician; there is always a first mover, and the mover already exists actually. We have said in our account of substance that everything that is produced is something produced from something and by something, and that the same in species as it.
+The same account applies to all other cases, so that the cause-and-effect formula and the knowledge of its existence  precedes the knowledge of its possible changes.
 
-This is why it is thought impossible to be a builder if one has built nothing or a harper if one has never played the harp; for he who learns to play the harp learns to play it by playing it, and all other learners do similarly. And thence arose the sophistical quibble, that one who does not possess a science will be doing that which is the object of the science; for he who is learning it does not possess it. But since, of that which is coming to be, some part must have come to be, and, of that which, in general, is changing, some part must have changed (this is shown in the treatise on movement), he who is learning must, it would seem, possess some part of the science. But here too, then, it is clear that actuality is in this sense also, viz. in order of generation and of time, prior to potency.
+ <!-- one must precede the knowledge of the other. -->
 
-"But (3) it is also prior in substantiality; firstly, (a) because the things that are posterior in becoming are prior in form and in substantiality (e.g. man is prior to boy and human being to seed; for the one already has its form, and the other has not), and because everything that comes to be moves towards a principle, i.e. an end (for that for the sake of which a thing is, is its principle, and the becoming is for the sake of the end), and the actuality is the end, and it is for the sake of this that the potency is acquired. For animals do not see in order that they may have sight, but they have sight that they may see.
+
+2. In terms of time or temporal sequence, the possibility of change is prior
+
+The future actual thing is identical in species but not in number with a current thing that has the possibility of change.
+  <!-- potentially existing thing is to it -->
+
+A man now exists here actually, along with a corn seed. But that actuality is not yet real until the man has seen the corn. Until then, the man and corn are potentialities. This is how potency is prior to actuality. 
+
+  <!-- and to the corn and to the seeing subject the matter and the seed and that which is capable of seeing, which are potentially a man and corn and seeing, but not yet actually so, are prior in time. -->
+
+<!-- but prior in time to these, are other actually existing things, from which they were produced.  -->
+
+From the potentially existing, the actual existence is always produced by an actually-existing thing, e.g. man from man, musician by musician. 
+
+There is always a first mover. The mover already exists actually.
+
+We have said in our account of substance that everything that is produced is something produced from something and by something, and that the same in species as it.
+
+This is why it is thought impossible:
+- to be a builder if one has built nothing
+- to be a harper if one has never played the harp
+
+He who learns to play the harp learns to play it by playing it. All other learners do similarly.
+
+A sophistical quibble arises from this. 
+
+One who does not possess a science will be doing that which is the object of the science. For he who is learning it does not possess it.
+
+But since, of that which is coming to be, some part must have come to be, and, of that which, in general, is changing, some part must have changed (this is shown in the treatise on movement), he who is learning must, it would seem, possess some part of the science.
+
+But here too, it is clear that actuality is in this sense also -- it is prior to potency in terms of the order of generation and of time.
+
+
+3. It is also prior in substantiality
+
+- (a) This is because the things that are posterior in becoming are prior in form and in substantiality (e.g. man is prior to boy and human being to seed; for the one already has its form, and the other has not), and because everything that comes to be moves towards a principle, i.e. an end (for that for the sake of which a thing is, is its principle, and the becoming is for the sake of the end), and the actuality is the end, and it is for the sake of this that the potency is acquired. For animals do not see in order that they may have sight, but they have sight that they may see.
 
 Similarly men have the art of building that they may build, and theoretical science that they may theorize; but they do not theorize that they may have theoretical science, except those who are learning by practice; and these do not theorize except in a limited sense, or because they have no need to theorize. Further, matter exists in a potential state, just because it may come to its form; and when it exists actually, then it is in its form. And the same holds good in all cases, even those in which the end is a movement. 
 
@@ -65,7 +109,7 @@ Obviously, then, actuality is prior both to potential and to every principle of 
 
 
 
-## Part 9= Potentiality Leads to Duality
+## Part 9: Potentiality Leads to Duality
 
 Actuality is also better and more valuable than potentiality.
 

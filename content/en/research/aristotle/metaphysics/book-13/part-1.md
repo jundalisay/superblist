@@ -4,7 +4,9 @@ title: "The Substance as Matter"
 weight: 1
 image: "/covers/meta.jpg"
 description: "The substance of sensible things is matter"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

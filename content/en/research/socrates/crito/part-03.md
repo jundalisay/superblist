@@ -2,7 +2,9 @@
 title: "Socrates Says It is Wrong to Seek Vengeance"
 heading: "Part 3"
 weight: 8
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/crito.png"
 description: "Socrates Says It is Wrong to Flee"
 icon: "/icons/socrates.png"

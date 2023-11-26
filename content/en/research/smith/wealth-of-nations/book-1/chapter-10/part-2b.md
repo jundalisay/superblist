@@ -2,7 +2,9 @@
 title: "Inequality by Increasing Competition Through Wage subsidies"
 heading: "Part 2b"
 weight: 70
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "The chance of loss is frequently under-valued and rarely valued more than it is worth"
 icon: "/avatars/smith.png"

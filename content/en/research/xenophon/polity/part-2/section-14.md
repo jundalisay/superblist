@@ -1,9 +1,11 @@
 ---
 heading: Section 14
-title: "The power assigned by Lycurgus to the king during a campaign."
+title: "The Power Assigned By Lycurgus To The King"
 description: "The Polity Of The Athenians And The Spartans"
 image: "/covers/polity.jpg"
-contributors: ['Xenophon']
+writer:
+  name: Xenophon
+  url: https://en.wikipedia.org/wiki/Xenophon
 weight: 26
 ---
 

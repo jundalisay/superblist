@@ -3,7 +3,9 @@ heading: Chapter 2
 title: "Consumption Taxes"
 # date: 2015-09-10
 weight: 8
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Taxes on possessions are naturally equal. But taxes on consumptions are naturally unequal"

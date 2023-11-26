@@ -2,7 +2,9 @@
 heading: "Part 2"
 title: "The Questions of Metaphysics"
 weight: 1
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/meta.jpg"
 description: "Does the investigation of the causes belongs to one or to more sciences?"
 icon: "/icons/aris.png"

@@ -4,7 +4,9 @@ title: "One versus Number"
 weight: 1
 image: "/covers/meta.jpg"
 description: "One is not a number; for the measure is not measures, but both the measure and the one are starting-points"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

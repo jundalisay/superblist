@@ -2,7 +2,9 @@
 title: "The study of the auxiliary sciences should not be prolonged"
 description: "The occupation with the auxiliary sciences constitutes a waste of one's life, occupation with something that is of no concern"
 image: "/covers/muq.jpg"
-contributors: ['Ibn Khaldun']
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 icon: "/icons/ibn.jpg"
 heading: "Part 37"
 weight: 112

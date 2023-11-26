@@ -4,7 +4,9 @@ title: "The Individual and the Universal"
 weight: 16
 image: "/covers/meta.jpg"
 description: "If substances are not separate, and in the way in which individual things are said to be separate, we shall destroy substance in the sense in which we understand 'substance'"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

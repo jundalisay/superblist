@@ -5,7 +5,9 @@ weight: 10
 image: "/covers/meta.jpg"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 icon: "/icons/aris.png"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 ---
 
 

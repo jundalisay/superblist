@@ -4,7 +4,9 @@ title: "Rational and Nonrational Potentiality"
 weight: 8
 image: "/covers/meta.jpg"
 description: "If, when A is real, B must be real, then, when A is possible, B also must be possible"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

@@ -4,7 +4,9 @@ title: "Potentiality versus Actuality"
 weight: 10
 image: "/covers/meta.jpg"
 description: "Actuality, then, is the existence of a thing not in the way which we express by 'potentially'"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

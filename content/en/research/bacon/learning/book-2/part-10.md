@@ -5,7 +5,9 @@ weight: 22
 description: "The knowledge that concerns man’s body is classified into 4, depending on the good of man’s body"
 image: "/covers/learning.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

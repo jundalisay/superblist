@@ -2,7 +2,9 @@
 title: "Harmony"
 heading: "Chapter 2b"
 weight: 6
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/sym.png"
 description: "There is an absurdity saying that harmony is discord or is composed of elements which are still in a state of discord"
 icon: "/icons/socrates.png"

@@ -4,6 +4,8 @@ linkTitle: Book 7
 title: "Substances"
 image: "/covers/meta.jpg"
 weight: 7
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 description: "Book 7 of The Simplified Metaphysics by Aristotle"
 ---

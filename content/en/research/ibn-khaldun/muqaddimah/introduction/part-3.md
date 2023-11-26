@@ -5,7 +5,9 @@ image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 3"
 weight: 8
-contributors: ['Ibn Khaldun']
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 
@@ -16,10 +18,13 @@ He drank wine together with al-Ma'mun and got drunk one night.
 
 He lay buried among the sweet basil until he woke up. The following verses are recited in his name:
 
+{{< q >}}
 O my lord, commander of all the people!
 He who gave me to drink was unjust in his judgment.
 I neglected the cupbearer, and he caused me to be,
 As you see me, deprived of intelligence and religion.
+{{< /q >}}
+
 
 The same applies to Ibn Aktham and al-Ma'mun that applies to ar-Rashid.
 

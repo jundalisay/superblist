@@ -1,7 +1,7 @@
 ---
 heading: "Section 2b"
 title: "Justice"
-description: "The good of mankind is the only object of all the laws of justice. Men's possessions should be separated for the peace and interest of society"
+description: "The good of mankind is the only object of all the laws of justice. Men's possessions should be separated for the interest of society"
 image: /covers/morals.png
 writer:
   name: David Hume
@@ -18,22 +18,38 @@ The good of mankind is the only object of all the laws of justice. Men's possess
 
 The rules which separate them further serve the interests of society.
 
-We shall suppose that a creature, possessed of reason, but unacquainted with human nature, deliberates with himself what rules of justice or property would best promote public interest, and establish peace and security among mankind=  
+An alien deliberates with himself what rules of justice or property would best:
+- promote public interest
+- establish peace and security among mankind
 
-His most obvious thought would be, to assign the largest possessions to the most extensive virtue, and give every one the power of doing good, proportioned to his inclination. 
+He would:
+- assign the largest possessions to the most extensive virtue
+- give every one the power of doing good, proportioned to his inclination. 
 
-In a perfect theocracy, where a being, infinitely intelligent, governs by particular volitions, this rule would certainly have place, and might serve to the wisest purposes=  But were mankind to execute such a law; so great is the uncertainty of merit, both from its natural obscurity, and from the self-conceit of each individual, that no determinate rule of conduct would ever result from it; and the total dissolution of society must be the immediate consequence. 
+A perfect theocracy is governed by an infinitely intelligent being*. 
+- In such a society, this rule would certainly exist
+
+> *Superphysics Note: An omniscient Artificial Intelligence could govern an advanced human society and reveal the merit of each human
+
+
+But if humans executed such a law, our merit would be so uncertain due to:
+- its natural obscurity, and
+- the self-conceit of each individual
+
+No determinate rule of conduct would ever result. This would immediately lead to the total dissolution of society. 
 
 Fanatics may suppose that:
 - dominion is founded on grace, and
 - saints alone inherit the earth
 
-But the civil magistrate very justly views these fanatics as <!--   sublime theorists on the same footing with --> common robbers. It teaches them, by the severest discipline, that such a speculative rule which might seem the most advantageous to society is actually totally destructive.
+But the civil magistrate very justly views these fanatics as <!--   sublime theorists on the same footing with --> common robbers. 
+
+It teaches them, by the severest discipline, that such a speculative rule which might seem the most advantageous to society is actually totally destructive.
 
 England had such religious fanatics during the civil wars. Their horrors <!-- of such fanatics --> led people to renounce or at least hide their tenets. 
 
 
-## Communism is Unnatural and Shallow
+## Communism (Levellers) is Unnatural and Shallow
 
 The LEVELLERS claimed an equal distribution of property.
 - They were POLITICAL fanatics which arose from the religious species. 
@@ -179,4 +195,3 @@ Where his intention extends to the right, and is conformable to the interests of
 
 This is a clear proof of the origin of justice and of property, as explained above.
 {{ < /box >}}
-

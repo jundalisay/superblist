@@ -2,7 +2,9 @@
 title: "What Causes the Increase in Productivity?"
 heading: "Chapter 1b"
 weight: 6
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Division of Labor raises productivity by increasing skill, time savings, and by the invention of technology"
 icon: "/avatars/smith.png"

@@ -1,7 +1,9 @@
 ---
 title: "Defining Having, Affection, Privation"
 heading: "Part 16"
-author: "Aristotle"
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 weight: 22
 image: "/covers/meta.jpg"
 description: "Aristotle defines Having, Affection, Privation"

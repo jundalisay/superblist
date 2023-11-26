@@ -3,7 +3,9 @@ heading: "Part 4b"
 title: "Question 11: Are being and unity the substances of things?"
 weight: 12
 image: "/covers/meta.jpg"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 description: "Is it the genera that should be taken as elements and principles, or rather the primary constituents of a thing?"
 icon: "/icons/aris.png"
 ---

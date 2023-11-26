@@ -2,7 +2,9 @@
 title: "The Origin and Use of Money"
 heading: "Chapter 4a"
 weight: 16
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Money was invented to facilitate trade"
 icon: "/avatars/smith.png"

@@ -5,7 +5,9 @@ weight: 6
 image: "/covers/meta.jpg"
 description: "Contrariety is the greatest difference between things"
 icon: "/icons/aris.png"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 ---
 
 

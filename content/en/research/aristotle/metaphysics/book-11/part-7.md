@@ -4,7 +4,9 @@ title: "Principles of Science"
 weight: 12
 image: "/covers/meta.jpg"
 description: "Every science seeks certain principles and causes for each of its objects-e.g. medicine and gymnastics and each of the other sciences, whether productive or mathematical"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

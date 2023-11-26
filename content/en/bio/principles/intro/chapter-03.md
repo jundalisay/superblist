@@ -7,7 +7,9 @@ description: "The 5 Layers Applied to the Soul leads to the 7 Chakras"
 date: 2020-01-25
 weight: 6
 image: "/photos/balancerock.jpg"
-author: "Juan"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 # categories: ["Medical Superphysics"]
 # tags: ["Western Medicine", "Chinese Medicine", "Ayurveda", "Naturopathy", "Homeopathy"]
 icon: "/icons/spmed.png"

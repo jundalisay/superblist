@@ -3,7 +3,9 @@ heading: Section 4
 title: "Adult Education"
 description: "The Polity Of The Athenians And The Spartans"
 image: "/covers/polity.jpg"
-contributors: ['Xenophon']
+writer:
+  name: Xenophon
+  url: https://en.wikipedia.org/wiki/Xenophon
 weight: 8
 ---
 

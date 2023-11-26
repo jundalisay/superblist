@@ -12,8 +12,6 @@ writer:
 ---
 
 
-<!-- How Descartes Described the Mechanism of . -->
-
 In the 1630's, Descartes described black holes as spinning spacetime vortices which prevented light from going into their center. These were opposed to stars which allowed light to go into the center.
 
 The main reason for the difference is the sheer size of a galaxy's center compared to that of a star.

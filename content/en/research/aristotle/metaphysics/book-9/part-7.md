@@ -4,7 +4,9 @@ title: "When does a thing exist potentially?"
 weight: 12
 image: "/covers/meta.jpg"
 description: "We must distinguish when a thing exists potentially and when it does not. For it is not at any and every time"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

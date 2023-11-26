@@ -3,7 +3,9 @@ heading: Section 5
 title: "Spartan Lifestyle"
 description: "The Polity Of The Athenians And The Spartans"
 image: "/covers/polity.jpg"
-contributors: ['Xenophon']
+writer:
+  name: Xenophon
+  url: https://en.wikipedia.org/wiki/Xenophon
 weight: 10
 ---
 

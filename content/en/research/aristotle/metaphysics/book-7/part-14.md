@@ -1,7 +1,9 @@
 ---
 title: "Are Ideas Substances?"
 heading: "Part 14"
-author: "Aristotle"
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/meta.jpg"
 description: "These very facts what consequence confronts those who say the Ideas are substances capable of separate existence, and at the same time make the Form consist of the genus and the differentiae"
 icon: "/icons/aris.png"

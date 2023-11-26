@@ -1,9 +1,10 @@
-
 ---
 title: "Legal and Market Interest Rates"
 heading: "Chapter 9b"
 weight: 50
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "In our North American and West Indian colonies, both wages and interest, and consequently profits, are higher than in England."
 icon: "/avatars/smith.png"

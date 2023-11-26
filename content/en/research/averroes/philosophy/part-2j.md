@@ -1,7 +1,9 @@
 ---
 heading: "Part 2j"
 title: "Question 4: Divine Justice and Injustice"
-author: Averroes
+writer:
+  name: Averroes
+  url: https://en.wikipedia.org/wiki/Averroes
 weight: 30
 description: "They say that in this problem the case of the invisible world is quite opposed to the visible"
 image: "/covers/theo.jpg"

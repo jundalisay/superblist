@@ -2,7 +2,9 @@
 title: "Third Kind of Raw Produce"
 heading: "Part 3b of Digression Part 3c1"
 weight: 36
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Produce that can or cannot be multiplied according to demand. Examples are wool or raw hides, fish, precious metals"
 icon: "/avatars/smith.png"

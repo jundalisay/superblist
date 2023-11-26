@@ -1,6 +1,8 @@
 ---
 title: "Simplification Notes"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 weight: 100
 image: "/covers/wn.jpg"
 description: ""

@@ -3,7 +3,9 @@ title: "The Bodily Sensations"
 heading: "Chapter 1"
 description: "Bodily Sensations are indecent to express because the bodies of others might not feel the same sensations"
 weight: 4
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

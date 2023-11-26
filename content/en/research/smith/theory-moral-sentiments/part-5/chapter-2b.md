@@ -3,7 +3,9 @@ title: "Cultural Differences Affect Morals"
 heading: "Chapter 2b"
 description: "The politeness highly esteemed in Russia would be seen as rudeness and barbarism at the French court"
 weight: 26
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

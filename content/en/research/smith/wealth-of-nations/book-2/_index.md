@@ -2,7 +2,9 @@
 heading: Book 2
 title: "The Nature of Stock"
 linkTitle: Book 2
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 description: "Stock is divided into fixed, circulating, and for consumption"
 weight: 4
 image:  "/covers/wn.jpg"

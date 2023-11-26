@@ -1,31 +1,38 @@
 ---
 heading: "Essay 35"
-title: "Prophecies"
+title: "Three Causes for the Popularity of Prophetic Visions"
 weight: 46
-description: "I MEAN not to speak of divine prophecies; nor of heathen oracles; nor of natural predictions; but only of prophecies that have been of certain memory, and from hidden causes"
+description: "Prophetic Visions became creditable due to 3 things"
 image: "/covers/essaysbacon.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 
+I mean "Prophetic Visions" to be those of certain memory, from hidden causes. I do not mean the divine prophecies, heathen oracles, nor natural predictions.
 
-I MEAN not to speak of divine prophecies; nor of heathen oracles; nor of natural predictions; but only of prophecies that have been of certain memory, and from hidden causes. Saith the Pythonissa to Saul, Tomorrow thou and thy son shall be with me. Homer hath these verses:
+Saith the Pythonissa to Saul, Tomorrow thou and thy son shall be with me. 
+
+Homer had these verses:
 
 At domus AEneae cunctis dominabitur oris, Et nati natorum, et qui nascentur ab illis.
 
-A prophecy, as it seems, of the Roman empire. Seneca the tragedian hath these verses:
+Seneca the tragedian hath these prophetic verses of the Roman empire:
 
-       —Venient annis
-     Saecula seris, quibus Oceanus
-     Vincula rerum laxet, et ingens
-     Pateat Tellus, Tiphysque novos
-     Detegat orbes; nec sit terris
-     Ultima Thule:
+{{< q a="Seneca" >}}
+—Venient annis
+Saecula seris, quibus Oceanus
+Vincula rerum laxet, et ingens
+Pateat Tellus, Tiphysque novos
+Detegat orbes; nec sit terris Ultima Thule:
+{{< /q >}}
 
-a prophecy of the discovery of America. 
 
-The daughter of Polycrates, dreamed that Jupiter bathed her father, and Apollo anointed him; and it came to pass, that he was crucified in an open place, where the sun made his body run with sweat, and the rain washed it. Philip of Macedon dreamed, he sealed up his wife's belly; whereby he did expound it, that his wife should be barren; but Aristander the soothsayer, told him his wife was with child, because men do not use to seal vessels, that are empty. 
+It is a prophecy of the discovery of America. 
+
+The daughter of Polycrates, dreamed that Jupiter bathed her father, and Apollo anointed him. It came to pass, that he was crucified in an open place, where the sun made his body run with sweat, and the rain washed it. Philip of Macedon dreamed, he sealed up his wife's belly; whereby he did expound it, that his wife should be barren; but Aristander the soothsayer, told him his wife was with child, because men do not use to seal vessels, that are empty. 
 
 A phantasm that appeared to M. Brutus, in his tent, said to him, Philippis iterum me videbis. 
 
@@ -40,6 +47,7 @@ The trivial prophecy, which I heard when I was a child, and Queen Elizabeth was 
      When hempe is spun
 
      England's done:
+
 whereby it was generally conceived, that after the princes had reigned, which had the principal letters of that word hempe (which were Henry, Edward, Mary, Philip, and Elizabeth), England should come to utter confusion; which, thanks be to God, is verified only in the change of the name; for that the King's style, is now no more of England but of Britain. There was also another prophecy, before the year of '88, which I do not well understand.
 
      There shall be seen upon a day,
@@ -54,14 +62,26 @@ It was generally conceived to be meant, of the Spanish fleet that came in '88: f
      
 was thought likewise accomplished in the sending of that great fleet, being the greatest in strength, though not in number, of all that ever swam upon the sea. As for Cleon's dream, I think it was a jest. It was, that he was devoured of a long dragon; and it was expounded of a maker of sausages, that troubled him exceedingly. There are numbers of the like kind; especially if you include dreams, and predictions of astrology. 
 
-But I have set down these few only, of certain credit, for example. My judgment is, that they ought all to be despised; and ought to serve but for winter talk by the fireside. 
+But I have set down these few only, of certain credit, for example. 
 
-Though when I say despised, I mean it as for belief; for otherwise, the spreading, or publishing, of them, is in no sort to be despised. For they have done much mischief; and I see many severe laws made, to suppress them. That that hath given them grace, and some credit, consisteth in three things. 
+I think they should all to be despised as a belief, and not taken seriously.
+ <!-- ought to serve but for winter talk by the fireside.  -->
 
-First, that men mark when they hit, and never mark when they miss; as they do generally also of dreams. The second is, that probable conjectures, or obscure traditions, many times turn themselves into prophecies; while the nature of man, which coveteth divination, thinks it no peril to foretell that which indeed they do but collect. As that of Seneca's verse. 
+But the spreading or publishing of them is not to be despised. They have done much mischief. I see many severe laws to suppress them.
 
-For so much was then subject to demonstration, that the globe of the earth had great parts beyond the Atlantic, which mought be probably conceived not to be all sea: and adding thereto the tradition in Plato's Timaeus, and his Atlanticus, it mought encourage one to turn it to a prediction. 
+They became creditable due to 3 things:
 
-The third and last (which is the great one) is, that almost all of them, being infinite in number, have been impostures, and by idle and crafty brains merely contrived and feigned, after the event past.
+1. Men mark when they hit, but never mark when they miss.
 
+This is generally true also of dreams.
+
+2. Probable conjectures, or obscure traditions, many times turn themselves into prophecies
+
+Human nature wants divination. We think it no peril to foretell that which they do but collect, like that of Seneca's verse. 
+
+The Earth had great parts beyond the Atlantic, which might not be all sea. He added thereto the tradition in Plato's Timaeus, and his Atlanticus. This might encourage one to turn it to a prediction. 
+
+3. Almost all of them, being infinite in number, have been impostures
+
+They were idly and craftily contrived and feigned after the event happened.
 

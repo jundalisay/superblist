@@ -4,7 +4,9 @@ heading: "Stop the war against the Amazon rainforest"
 date: 2020-05-26
 image: "/photos/med/covid.jpg"
 description: "We use dialectics to propose a solution to Covid-19 by ending the war against the Amazon rainforest"
-author: Juan
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmed.png
 ---
 

@@ -3,7 +3,9 @@ title: "The Useful Virtues"
 heading: "Chapter 2b"
 description: "Humanity, justice, generosity, and public spirit, are the qualities most useful to others"
 weight: 16
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

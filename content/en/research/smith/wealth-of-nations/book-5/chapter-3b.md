@@ -5,7 +5,9 @@ weight: 8
 image: "/covers/wn.jpg"
 description: "In Great Britain, the land and malt taxes are regularly anticipated every year by a borrowing clause"
 icon: "/avatars/smith.png"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

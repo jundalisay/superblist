@@ -3,7 +3,9 @@ title: "The Principle of Self-estimation"
 heading: "Chapter 3c"
 description: "The principle of self-estimation may be too high or too low"
 weight: 50
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

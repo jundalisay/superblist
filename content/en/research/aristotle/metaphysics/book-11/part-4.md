@@ -4,7 +4,9 @@ title: "Mathematics"
 weight: 8
 image: "/covers/meta.jpg"
 description: "First philosophy should also examine the principles of mathematics"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

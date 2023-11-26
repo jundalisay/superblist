@@ -1,12 +1,12 @@
-
-
 ---
 title: "Mercantile Governments"
 heading: "Chapter 7r"
 description: "The English and Dutch companies only established 2 considerable colonies: Jakarta and South Africa"
 image: /covers/wn.jpg
 weight: 96
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 ---
 

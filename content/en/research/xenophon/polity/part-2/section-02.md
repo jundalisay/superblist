@@ -3,7 +3,9 @@ heading: Section 2
 title: "Spartan Education: the Paidonomos"
 description: "The Polity Of The Athenians And The Spartans"
 image: "/covers/polity.jpg"
-contributors: ['Xenophon']
+writer:
+  name: Xenophon
+  url: https://en.wikipedia.org/wiki/Xenophon
 icon: /icons/xeno.png
 weight: 4
 ---

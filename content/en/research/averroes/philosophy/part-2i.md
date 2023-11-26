@@ -1,7 +1,9 @@
 ---
 heading: "Part 2i"
 title: "Question 3: Fate and Predestination"
-author: Averroes
+writer:
+  name: Averroes
+  url: https://en.wikipedia.org/wiki/Averroes
 description: "This is one of the most intricate problems of religion"
 weight: 28
 image: "/covers/theo.jpg"

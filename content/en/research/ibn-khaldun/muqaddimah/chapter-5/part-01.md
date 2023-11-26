@@ -1,11 +1,13 @@
 ---
 title: "The Real Meaning Of Sustenance And Profit"
-description: "Man, by nature, needs something to feed him and to provide for him in all the conditions and stages of his life from the time of his (early) growth to his maturity and on to his old age"
+description: "Man, by nature, needs something to feed him and to provide for him in all the conditions and stages of his life from the time of his (early) growth to his old age"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 1"
 weight: 10
-contributors: ['Ibn Khaldun']
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 

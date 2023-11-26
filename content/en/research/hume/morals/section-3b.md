@@ -1,7 +1,7 @@
 ---
-title: "Justice"
+title: "The Golden Age Versus the State of Nature"
 heading: "Section 3 "
-description: "Is public utility the SOLE origin of justice? Are the benefits of justice the SOLE foundation of its merit?"
+description: "This POETICAL fiction of the GOLDEN AGE is similar to the PHILOSOPHICAL fiction of the STATE OF NATURE"
 image: /covers/morals.png
 writer:
   name: David Hume
@@ -11,29 +11,60 @@ weight: 12
 ---
 
 
+The open and liberal hand of nature gives us few enjoyments. 
+- We can extract more enjoyments from nature by art, labour, and industry.
 
-These conclusions are so natural and obvious. They have not escaped even the poets, in their descriptions of the felicity attending the golden age or the reign of Saturn. 
+Hence the ideas of property become necessary in all civil society.
 
-The seasons, in that first period of nature, were so temperate, if we credit these agreeable fictions, that there was no necessity for men to provide themselves with clothes and houses, as a security against the violence of heat and cold=  The rivers flowed with wine and milk=  The oaks yielded honey; and nature spontaneously produced her greatest delicacies. 
+Hence justice derives its usefulness to the public.
 
-Nor were these the chief advantages of that happy age. Tempests were not alone removed from nature; but those more furious tempests were unknown to human breasts, which now cause such uproar, and engender such confusion. Avarice, ambition, cruelty, selfishness, were never heard of=  Cordial affection, compassion, sympathy, were the only movements with which the mind was yet acquainted. 
+Hence alone arises its merit and moral obligation.
 
-Even the punctilious distinction of MINE and THINE was banished from among the happy race of mortals, and carried with it the very notion of property and obligation, justice and injustice.
+These conclusions are so natural and obvious. 
 
-This POETICAL fiction of the GOLDEN AGE, is in some respects, of a piece with the PHILOSOPHICAL fiction of the STATE OF NATURE; only that the former is represented as the most charming and most peaceable condition, which can possibly be imagined; whereas the latter is painted out as a state of mutual war and violence, attended with the most extreme necessity. 
+<!-- , in their descriptions of the felicity attending the golden age or the reign of Saturn.  -->
 
-On the first origin of mankind, we are told, their ignorance and savage nature were so prevalent, that they could give no mutual trust, but must each depend upon himself and his own force or cunning for protection and security. No law was heard of=  No rule of justice known=  No distinction of property regarded=  Power was the only measure of right; and a perpetual war of all against all was the result of men's untamed selfishness and barbarity.
+The poets imagine that during the first state of society:
+- the seasons were so temperate. There was no necessity for men to provide themselves with clothes and houses.
+- the rivers flowed with wine and milk
+- the oaks yielded honey
+<!-- ; and nature spontaneously produced her greatest delicacies.  -->
+<!-- Nor were these the chief advantages of that happy age. Tempests were not alone removed from nature; but those more  -->
+- furious tempests were unknown to humans
+ <!-- which now cause such uproar, and engender such confusion. -->
+- avarice, ambition, cruelty, selfishness, were never heard of
+- cordial affection, compassion, sympathy, were the only movements with which the mind was yet acquainted. 
+
+Even the punctilious distinction of MINE and THINE was banished. There was no  <!-- from among the happy race of mortals, and carried with it the very  --> notion of property and obligation, justice and injustice.
+
+This POETICAL fiction of the GOLDEN AGE is similar to the PHILOSOPHICAL fiction of the STATE OF NATURE. 
+- The former is represented as the most charming and peaceable condition
+- The latter is painted out as a state of mutual war and violence, attended with the most extreme necessity.
+
+The state of nature was the first origin of mankind. Their ignorance and savage nature were so prevalent, that they could give no mutual trust. Each must depend on himself and his own force or cunning for protection and security. 
+
+There were no laws, no rules of justice, no distinction of property.
+
+Power was the only measure of right. A perpetual war of all against all was the result of men's untamed selfishness and barbarity.
 
 {{< box >}}
-[Footnote=  This fiction of a state of nature, as a state of war, was not first started by Mr. Hobbes, as is commonly imagined. Plato endeavours to refute an hypothesis very like it in the second, third, and fourth books de republica. Cicero, on the contrary, supposes it certain and universally acknowledged in the following passage. 'Quis enim vestrum, judices, ignorat, ita naturam rerum tulisse, ut quodam tempore homines, nondum neque naturali neque civili jure descripto, fusi per agros ac dispersi vagarentur tantumque haberent quantum manu ac viribus, per caedem ac vulnera, aut eripere aut retinere potuissent? 
+### Footnote
+
+This fiction of a state of nature, as a state of war, was not first started by Mr. Hobbes, as is commonly imagined. 
+
+Plato endeavours to refute an hypothesis very like it in Books 2, 3, 4 of The Republic. 
+
+Cicero, on the contrary, supposes it certain and universally acknowledged in the following passage. 'Quis enim vestrum, judices, ignorat, ita naturam rerum tulisse, ut quodam tempore homines, nondum neque naturali neque civili jure descripto, fusi per agros ac dispersi vagarentur tantumque haberent quantum manu ac viribus, per caedem ac vulnera, aut eripere aut retinere potuissent? 
 
 Qui igitur primi virtute & consilio praestanti extiterunt, ii perspecto genere humanae docilitatis atque ingenii, dissipatos unum in locum congregarunt, eosque ex feritate illa ad justitiam ac mansuetudinem transduxerunt. Tum res ad communem utilitatem, quas publicas appellamus, tum conventicula hominum, quae postea civitates nominatae sunt, tum domicilia conjuncta, quas urbes dicamus, invento & divino & humano jure moenibus sepserunt. Atque inter hanc vitam, perpolitam humanitate, & llam immanem, nihil tam interest quam JUS atque VIS. Horum utro utinolimus, altero est utendum. Vim volumus extingui. Jus valeat necesse est, idi est, judicia, quibus omne jus continetur. Judicia displicent, ant nulla sunt. Vis dominetur necesse est. Haec vident omnes.' Pro Sext. sec. 42.]
 {{< /box >}}
 
 
-Whether such a condition of human nature could ever exist, or if it did, could continue so long as to merit the appellation of a STATE, may justly be doubted.
+I doubt that such a condition of human nature ever existed or could continue so long as to be called a state.
 
-Men are necessarily born in a family-society, at least; and are trained up by their parents to some rule of conduct and behaviour. But this must be admitted, that, if such a state of mutual war and violence was ever real, the suspension of all laws of justice, from their absolute inutility, is a necessary and infallible consequence.
+Men are necessarily born in a family-society, at least. We are trained up by our parents to some rule of conduct and behaviour.
+
+But if such a state of mutual war and violence was ever real, the suspension of all laws of justice, from their absolute inutility, is a necessary and infallible consequence.
 
 The more we vary our views of human life, and the newer and more unusual the lights are in which we survey it, the more shall we be convinced, that the origin here assigned for the virtue of justice is real and satisfactory.
 

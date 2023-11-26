@@ -5,7 +5,9 @@ weight: 56
 description: "HOUSES are built to live in, and not to look at"
 image: "/covers/essaysbacon.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

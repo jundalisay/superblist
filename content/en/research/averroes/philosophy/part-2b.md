@@ -1,7 +1,9 @@
 ---
 heading: "Part 2b"
 title: "The third premise"
-author: Averroes
+writer:
+  name: Averroes
+  url: https://en.wikipedia.org/wiki/Averroes
 description: "The third premise says that that which cannot be separated from a created thing is itself created, is equivocal"
 weight: 14
 image: "/covers/theo.jpg"

@@ -1,17 +1,17 @@
 ---
 title: "The Za'irajah"
-description: "The Zairajah is a branch of the science of letter magic, practiced among the authorities on letter magic, is the technique of finding out answers from questions by means of connections existing between the letters of the expressions used in the question"
+description: "The Zairajah is a branch of the science of letter magic, practiced among the authorities on letter magic"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 28c"
-contributors: ['Ibn Khaldun']
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 weight: 82
 ---
 
 
-## The Za'irajah 
-
-<!-- 834 -->
+<!-- ## The Za'irajah  -->
 
 A branch of the science of letter magic, practiced among the authorities on letter magic, is the technique of finding out answers from questions by means of connections existing between the letters of the expressions used in the question.
 
@@ -38,9 +38,7 @@ Muhammad who was sent as a prophet, the Seal of the Prophets,
 And expressing his satisfaction 841 with the men around him and those who
 followed them:
 
-Behold, this is the Za'irajah of the World which
-You [sing.] see revealed through your [pl.] senses, and through the intellect.
-Whoever knows how to compose (the za'irajah) will know his body,
+Behold, this is the Za'irajah of the World which You [sing.] see revealed through your [pl.] senses, and through the intellect. Whoever knows how to compose (the za'irajah) will know his body,
 And will obtain laws given from on high.
 Whoever knows how to tie (it down) will obtain power
 And be noted for having obtained the fear of God and everything. 842
@@ -95,7 +93,9 @@ Letters will come to you. Then, try to pick them.
 The letters of Sibawayh will come to you disconnected.
 Then, strengthen with transformations and confront and exchange.
 With your precious warble shake the parts
+
 ...............................................
+
 Select a (star) rise. Figure out its signs.
 Reverse its root [?]. Straighten (it) out with the cycle.
 Someone will perceive those things. He will achieve his purpose
@@ -130,7 +130,9 @@ And rhyme with their zir and praise with a beat. Set it up in circles for a zir,
 and obtain (it).
 Set it up with magic squares and a principle that you prepare
 From the secrets of their letter, and bring it back in chain form.
+
 [SIGNS] 853
+
 Discussion of how to discover the relationships and
 qualities of the weights, 854 the powers of their
 opposites, the power of the grade which is
@@ -305,6 +307,7 @@ A son of 'Abbas keeps his secret hidden.
 Thus, he obtained much happiness, and high rank followed him.
 The Messenger of God rose among the people as preacher,
 ...............................................
+
 The spirits have boarded bodies to manifest themselves [?],
 And have applied themselves, in order to kill them, by prolonged knocking
 At the high world. Our nonexistence becomes nonexistent,
@@ -316,9 +319,11 @@ For a lord who ruled and perfected mankind,
 Muhammad, the guide, the intercessor, our leader,
 And (pray for) the men around him, the noble, exalted people.
 A rank that results from friendship.
+
 [SIGNS]
 The correct determination of sun and moon
 and the stars for every desired date:
+
 [SIGNS]
 The za'irajah is completed.
 The procedure of finding answers from questions
@@ -329,5 +334,3 @@ degrees (of the firmament). The answers to one question under a given ascendant
 differ in accordance with different questions (forming part of the question asked),
 which are referred to the letters of the chords of the za'irajah and (in accordance
 with) the operation applied to finding out the letters from the verse of the poem. 881
-
-

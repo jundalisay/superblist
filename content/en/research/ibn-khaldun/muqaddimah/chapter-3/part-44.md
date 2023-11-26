@@ -1,11 +1,13 @@
 ---
-title: "Once senility has come upon a dynasty, it cannot be made to disappear"
+title: "Once Senility Has Cometo a Dynasty, It Cannot Disappear"
 description: "Senility is a chronic disease that cannot be cured or made to disappear because it is something natural, and natural things do not change"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 44"
 weight: 122
-contributors: ['Ibn Khaldun']
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 
@@ -53,5 +55,3 @@ just starting to burn, when in fact it is going out.
 <!-- This should be considered, and one should not disregard the wise planning
 that God employs in having His creation follow its course toward the destiny He has
 determined for it.  -->
-
-

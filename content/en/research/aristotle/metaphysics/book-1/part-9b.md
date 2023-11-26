@@ -5,7 +5,9 @@ linkTitle: Part 9b
 weight: 10
 image: "/covers/meta.jpg"
 description: "Aristotle denounces Plato's Forms"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

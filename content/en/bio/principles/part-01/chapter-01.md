@@ -5,7 +5,9 @@ date: 2020-01-27
 weight: 4
 image: /photos/med/dengue.jpg
 description: "Viruses are merely bad idea-waves manifesting as RNA-particles"
-author: Juan
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmed.png
 ---
 

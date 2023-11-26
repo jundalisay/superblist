@@ -5,7 +5,9 @@ weight: 12
 description: "The knowledge of man is as the waters, some descending from above, and some springing from beneath."
 image: "/covers/learning.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

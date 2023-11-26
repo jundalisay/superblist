@@ -3,8 +3,10 @@ heading: "Chapter 4"
 title: "Licentious Systems"
 linkTitle: Chapter 4
 description: "Dr. Mandeville's system also totally removes the distinction between vice and virtue. Its tendency is totally pernicious"
-weight: 16
-contributors: ['Adam Smith']
+weight: 20
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

@@ -3,6 +3,9 @@ title: "Introduction on Jurisprudence"
 description: "The goal of justice is security from injury"
 image: /covers/lectures.jpg
 weight: 1
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

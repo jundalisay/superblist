@@ -3,7 +3,9 @@ heading: "Part 12"
 title: "Defining Quantum and Quality"
 weight: 16
 image: "/covers/meta.jpg"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 description: "Aristotle defines Quantum and Quality"
 icon: "/icons/aris.png"
 ---

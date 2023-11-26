@@ -4,7 +4,9 @@ title: "Everything is Finite and Not Infinite"
 weight: 4
 image: "/covers/meta.jpg"
 description: "There is a first principle. The causes of things are neither an infinite series nor infinitely various in kind."
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

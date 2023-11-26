@@ -1,9 +1,11 @@
 ---
-author: Juan
 title: 它始于金融危机
 date: 2023-10-25
 description: 超物理学起源于胡安对2008年金融危机的个人研究，该危机导致了2008年粮食危机、2011年阿拉伯之春和欧元区危机。
 image: /covers/2023.png
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

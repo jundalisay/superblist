@@ -2,7 +2,9 @@
 title: "The Ideas of Protagoras"
 heading: "Part 10"
 weight: 22
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/prot.jpg"
 description: "'I think, Socrates, that skill in poetry is the principal part of education'"
 icon: "/icons/socrates.png"

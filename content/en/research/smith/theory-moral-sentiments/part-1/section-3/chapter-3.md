@@ -1,9 +1,11 @@
 ---
-title: "Corruption of Morality by our admiration of the rich and despise of the poor"
+title: "Corruption of Morality by our Admiration Of The Rich"
 heading: "Chapter 2"
 description: "The similarity between the respect for greatness and respect for virtue corrupts morality"
 # date: 2022-01-27
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 weight: 10

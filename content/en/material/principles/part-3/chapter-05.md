@@ -6,7 +6,9 @@ linkTitle: Chapter 5
 date: 2023-05-27
 image: /photos/physics/star.jpg
 description: "In Cartesian Physics, there are 3 kinds of refraction of starlight (gravitational lensing)"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 10
 icon: /icons/spmat.png
 ---

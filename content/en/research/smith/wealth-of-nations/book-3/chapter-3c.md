@@ -4,7 +4,9 @@ title: "The Development of European Manufacturing"
 weight: 18
 image: "/covers/wn.jpg"
 description: "The manufactures fit for export were introduced in 2 ways"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 ---
 

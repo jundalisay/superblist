@@ -4,7 +4,9 @@ title: "What is inside matter?"
 weight: 1
 image: "/covers/meta.jpg"
 description: "Some substances are recognized by everyone. But some have been advocated by particular schools"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

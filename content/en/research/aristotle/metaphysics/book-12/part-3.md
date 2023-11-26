@@ -4,7 +4,9 @@ title: "What is Substance?"
 weight: 4
 image: "/covers/meta.jpg"
 description: "Substance is the principle and cause and first part of the universe, if the universe is a whole"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

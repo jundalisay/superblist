@@ -2,7 +2,9 @@
 title: "Central Banks - The Bank of England"
 heading: "Chapter 2k"
 weight: 30
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "The Bank of England"
 icon: "/avatars/smith.png"

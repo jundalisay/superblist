@@ -4,7 +4,9 @@ heading: "Chapter 11"
 weight: 28
 image: "/covers/economist.jpg"
 description: "My habit is to rise from bed betimes, when I may still expect to find at home this, that, or the other friend, whom I may wish to see"
-contributors: ['Xenophon']
+writer:
+  name: Xenophon
+  url: https://en.wikipedia.org/wiki/Xenophon
 icons: "/icons/socrates.png"
 ---
 

@@ -2,7 +2,9 @@
 title: "Socrates Refuses to Flee Death"
 heading: "Part 2"
 weight: 4
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/crito.png"
 description: "Socrates Refuses to Flee Death"
 icon: "/icons/socrates.png"

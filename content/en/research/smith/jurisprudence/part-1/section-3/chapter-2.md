@@ -2,11 +2,13 @@
 heading: Chapter 2
 title: "Second way of acquiring Property: Accession"
 # date: 2015-09-28
-contributors: ['Adam Smith']
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "The right of accession is not so much founded in its utility as in the impropriety of not joining it to that object on which it has a dependence"
 weight: 6
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

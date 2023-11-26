@@ -2,7 +2,9 @@
 heading: Chapter 4
 title: "The Rights of Ambassadors"
 weight: 18
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "When nations came to have a lot of business one with another, it became necessary to send messengers between them. They were the first ambassadors"

@@ -1,7 +1,9 @@
 ---
 title: "Are Ideas Substances?"
 heading: "Part 15"
-author: "Aristotle"
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/meta.jpg"
 description: "Substance is of two kinds the concrete thing, the formula"
 icon: "/icons/aris.png"

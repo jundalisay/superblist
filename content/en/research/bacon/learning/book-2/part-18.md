@@ -5,7 +5,9 @@ weight: 37
 description: "Rhetoric is the science that concerns the illustration of tradition. It is the art of eloquence, an excellent science, well laboured.  "
 image: "/covers/learning.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

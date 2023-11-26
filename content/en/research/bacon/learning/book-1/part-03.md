@@ -4,7 +4,9 @@ weight: 8
 description: "Learned men themselves grow discredit into learning"
 image: "/covers/learning.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 {{< s v="1" >}} Learned men themselves grow discredit into learning. 

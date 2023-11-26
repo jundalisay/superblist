@@ -3,7 +3,9 @@ title: "The Vain Man and Private Man"
 heading: "Chapter 2b"
 description: "Our sympathy with the false idea of the happiness of the rich and the great is the basis of ambition"
 # date: 2022-01-27
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 weight: 9
 icon: /avatars/smith.png

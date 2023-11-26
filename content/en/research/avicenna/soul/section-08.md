@@ -2,7 +2,9 @@
 heading: "Section 8"
 title: "A Sketch of the Human Soul from the Starting-Point"
 description: ""
-author: "Avicenna"
+writer:
+  name: Avicenna
+  url: https://en.wikipedia.org/wiki/Avicenna
 weight: 18
 image: "/covers/soul.jpg"
 ---
@@ -40,7 +42,9 @@ So that if we find the two aforesaid on this wise—i.e., as stated,—[the mind
 
 then it combines these single notions into particular combinations; then into syllogistic argumentative combinations and deduces from them corollaries from the results—all which it gets through the service of the animal powers, with the help of universal mind, after the manner that we shall set forth later on, and through the intermediary of such necessary self-evident mental axioms as it has been endowed with.
 
-Moreover this power, although it derives help from the sensuous power when getting out single mental forms from the sensuous forms, yet it does not need the sensuous power for conceiving these ideas (notions) within itself and for setting up syllogisms out of them, neither when affirming, nor when conceiving the two dicta [of abstraction & generalization], as we shall afterwards explain. And to whatever extent it derives sensuous corollaries, for which there shall be need, through the said working-over process, yet it dispenses with the employment of the sensuous[Pg 74] powers, nay it is even sufficient for and in itself, for the carrying on of all its manifold activities. 
+Moreover this power, although it derives help from the sensuous power when getting out single mental forms from the sensuous forms, yet it does not need the sensuous power for conceiving these ideas (notions) within itself and for setting up syllogisms out of them, neither when affirming, nor when conceiving the two dicta [of abstraction & generalization], as we shall afterwards explain.
+
+And to whatever extent it derives sensuous corollaries, for which there shall be need, through the said working-over process, yet it dispenses with the employment of the sensuous[Pg 74] powers, nay it is even sufficient for and in itself, for the carrying on of all its manifold activities. 
 
 And just as the sensuous powers perceive solely and wholly through an assimilation of that which is felt, so also do the mental powers perceive solely through and wholly through an assimilation of the mentally-grasped; 
 

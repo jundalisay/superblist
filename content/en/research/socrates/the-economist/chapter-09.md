@@ -4,7 +4,9 @@ heading: "Chapter 9"
 weight: 26
 image: "/covers/economist.jpg"
 description: "Our house is not decked with ornaments and fretted ceilings. The rooms were built expressly with a view to forming the most apt receptacles for whatever was intended to be put in them"
-contributors: ['Xenophon']
+writer:
+  name: Xenophon
+  url: https://en.wikipedia.org/wiki/Xenophon
 icons: "/icons/socrates.png"
 ---
 

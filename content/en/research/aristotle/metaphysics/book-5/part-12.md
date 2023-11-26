@@ -3,7 +3,9 @@ heading: "Part 12"
 title: "Defining Potency"
 weight: 14
 image: "/covers/meta.jpg"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 description: "Aristotle defines potency and incapacity"
 icon: "/icons/aris.png"
 ---

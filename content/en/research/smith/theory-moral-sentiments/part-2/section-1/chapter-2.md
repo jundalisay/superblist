@@ -2,7 +2,9 @@
 heading: Chapter 2
 title: "The Proper objects of Gratitude and Resentment"
 weight: 6
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/tms.jpg"
 description: "We sympathize with the joy of our loved ones when in prosperity"

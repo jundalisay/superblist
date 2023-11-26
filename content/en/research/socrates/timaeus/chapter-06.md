@@ -4,7 +4,9 @@ heading: "Chapter 6"
 weight: 34
 image: "/covers/timaeus.jpg"
 description: "The heart is the knot of the veins and the fountain of the blood which races through all the limbs. This was the guard."
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 icon: "/icons/socrates.png"
 ---
 

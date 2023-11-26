@@ -4,7 +4,9 @@ title: "The One Science"
 weight: 1
 image: "/covers/meta.jpg"
 description: "To investigate the essence of these is the work of a science which is generically one"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

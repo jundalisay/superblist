@@ -5,7 +5,9 @@ description: ""
 weight: 4
 image: "/covers/theo.jpg"
 icon: /avatars/averroes.jpg
-author: Averroes
+writer:
+  name: Averroes
+  url: https://en.wikipedia.org/wiki/Averroes
 ---
 
 <!-- ON THE PROBLEM OF ETERNAL KNOWLEDGE, WHICH AVERROES HAS MENTIONED IN HIS DECISIVE DISCOURSE. -->

@@ -2,7 +2,9 @@
 title: "Alcibiades, Callias, Critias, Hippias, Prodicus,"
 heading: "Part 9"
 weight: 20
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/prot.jpg"
 description: "'As I was rising from my seat, Callias seized me by the right hand. In his left hand caught hold of this old cloak of mine'"
 icon: "/icons/socrates.png"

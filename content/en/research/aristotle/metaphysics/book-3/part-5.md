@@ -3,7 +3,9 @@ heading: "Part 5"
 title: "Do forms exist?"
 weight: 14
 image: "/covers/meta.jpg"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 description: "Are numbers, bodies, planes, and points substances?"
 icon: "/icons/aris.png"
 ---

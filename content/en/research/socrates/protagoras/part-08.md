@@ -2,7 +2,9 @@
 title: "Protagoras' Use of Words"
 heading: "Part 8"
 weight: 18
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/prot.jpg"
 description: "'I have fought many battles of words. If I had followed the method of disputation which my adversaries desired, as you want me to do, I should have been no better than another, and the name of Protagoras would have been nowhere'"
 icon: "/icons/socrates.png"

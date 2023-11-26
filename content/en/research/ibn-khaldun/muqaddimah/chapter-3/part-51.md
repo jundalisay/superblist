@@ -5,7 +5,9 @@ image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 51"
 weight: 136
-contributors: ['Ibn Khaldun']
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 
@@ -86,17 +88,21 @@ However, <!-- 815 --> Ahmad b. Hanbal said about 'Asim that he was a pious man, 
 
 Al-'Ijli <!-- 817 --> said: 
 
-"There was some difference of opinion about his (reliability) with regard to Zirr and Abu Wa'il." 818 In this way, he alluded
-to the weakness of the material he transmitted on their authority. Muhammad b. Sa'd said= "He was reliable; however, he made many errors in his traditions." 819 Ya'qub b. Sufyan 820 said= "There is some confusion in his traditions." 'Abd-arRahman b. Abi Hatim 821 said= "I said to my father= 822 'Abu Zur'ah 823 says that 'Asim is reliable.' My father replied= 'He does not fall into that category. Ibn 'Ulayyah <!-- 824 --> discussed 'Asim (adversely) and said= "Everyone named 'Asim has a bad memory."'" Abu Hatim said= "So far as I am concerned, he falls into the category of truthful transmitters whose traditions are all right. 
+"There was some difference of opinion about his (reliability) with regard to Zirr and Abu Wa'il." 818 In this way, he alluded to the weakness of the material he transmitted on their authority. Muhammad b. Sa'd said= "He was reliable; however, he made many errors in his traditions." 819 Ya'qub b. Sufyan 820 said= "There is some confusion in his traditions." 
+
+'Abd-arRahman b. Abi Hatim 821 said= "I said to my father= 822 'Abu Zur'ah 823 says that 'Asim is reliable.' My father replied:
+
+'He does not fall into that category. Ibn 'Ulayyah <!-- 824 --> discussed 'Asim (adversely) and said= "Everyone named 'Asim has a bad memory."'" Abu Hatim said= "So far as I am concerned, he falls into the category of truthful transmitters whose traditions are all right. 
 
 But he was not a (great) hadith expert."
 
-An-Nasa'i 826 expressed a different opinion about him. Ibn Khirash 8 27 said:
+An-Nasa'i expressed a different opinion about him. Ibn Khirash 8 27 said:
 
 "His traditions contain things that are unknown." Abu Ja'far al-'Ugayli 828 said:
 
-"There was nothing the matter with him except a bad memory." Ad-Daraqutni 829 said= "There was something the matter with his memory." Yahya al-Qattan 830 said: "I have never found a man named 'Asim who did not have a bad
-memory." 
+"There was nothing the matter with him except a bad memory." Ad-Daraqutni said:
+
+"There was something the matter with his memory." Yahya al-Qattan 830 said: "I have never found a man named 'Asim who did not have a bad memory." 
 
 He further said: "I heard Shu'bah say= 'We were told by 'Asim b. Abi Najud' "-reporting the identical tradition. Adh-Dhahabi 831 said= "He is reliable in his reading of the Qur'an, but not quite reliable in his traditions. He is a truthful
 person who commits errors in judgment. 

@@ -1,7 +1,9 @@
 ---
 heading: Chapter 10
 title: "What is a Quasi-Contract?"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "A quasi-contract is founded on the duty of restitution"

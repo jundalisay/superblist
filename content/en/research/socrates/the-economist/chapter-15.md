@@ -4,7 +4,9 @@ heading: "Chapter 15"
 weight: 36
 image: "/covers/economist.jpg"
 description: "Agriculture makes the wise and skilled possessor of it wealthy, whilst the unskilled, in spite of all the pains he takes, must live in indigence"
-contributors: ['Xenophon']
+writer:
+  name: Xenophon
+  url: https://en.wikipedia.org/wiki/Xenophon
 icons: "/icons/socrates.png"
 ---
 

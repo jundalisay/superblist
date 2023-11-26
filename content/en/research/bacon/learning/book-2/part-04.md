@@ -5,7 +5,9 @@ weight: 10
 description: "Poesy is a part of learning in measure of words, for the most part restrained, but in all other points extremely licensed, and doth truly refer to the imagination"
 image: "/covers/learning.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

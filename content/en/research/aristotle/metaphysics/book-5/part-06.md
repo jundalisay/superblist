@@ -4,7 +4,9 @@ title: "Defining One and Many"
 weight: 6
 image: "/covers/meta.jpg"
 description: "Aristotle defines one and many"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

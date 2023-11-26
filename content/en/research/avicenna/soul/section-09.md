@@ -2,7 +2,9 @@
 heading: "Section 9"
 title: "The Proofs of the Essentiality of the Soul, and of Its Independence of Body"
 description: ""
-author: "Avicenna"
+writer:
+  name: Avicenna
+  url: https://en.wikipedia.org/wiki/Avicenna
 weight: 20
 image: "/covers/soul.jpg"
 ---
@@ -104,5 +106,3 @@ So much at least is clear, namely that not one of the bodily powers has the stre
 Hence the sound view is that the powers of bodies are not powerful enough to perform infinite manifold deeds. The rational power however is powerful enough to perform many infinite deeds, seeing that forms geometrical, arithmetical, and philosophical, which the rational power has to perform among other of its acts, are infinite. Therefore the rational power is not standing by and through the body, and hence therefore it stands of itself and is an essence of itself.
 
 Further, so much at least is clear that the corruption of one of two conjoined essences does not entail and enjoin the corruption of the other: wherefore the death of the body does not render obligatory the death of the soul, which is what we wanted to show.
-
-

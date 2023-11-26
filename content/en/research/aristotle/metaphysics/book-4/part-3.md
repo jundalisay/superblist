@@ -4,7 +4,9 @@ title: "What Should Science Do?"
 weight: 4
 image: "/covers/meta.jpg"
 description: "Should the sciences inquire into the truths which are in mathematics called axioms, and into substance?"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

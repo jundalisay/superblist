@@ -5,7 +5,9 @@ heading: "Chapter 5"
 description: "Bounties should only be given to trades which cannot be carried on without bounties"
 image: /covers/wn.jpg
 weight: 38
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 --- 
 

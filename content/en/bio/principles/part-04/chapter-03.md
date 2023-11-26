@@ -7,7 +7,9 @@ description: "Bio Superphysics uses 5 medical paradigms which are aligned with t
 date: 2020-01-25
 weight: 8
 image: "/photos/med/alzh.jpg"
-author: "Juan"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 tags: ["Western Medicine", "Chinese Medicine", "Ayurveda", "Naturopathy", "Homeopathy"]
 icon: "/icons/spmed.png"
 ---

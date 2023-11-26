@@ -4,7 +4,9 @@ heading: "Chapter 5c"
 weight: 28
 image: "/covers/timaeus.jpg"
 description: "The Simplified Timaeus by Plato"
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 icon: "/icons/socrates.png"
 ---
 

@@ -1,9 +1,11 @@
 ---
 title: "Friendship and Kindness"
 heading: "Chapter 1b"
-description: "Among well-disposed people, the necessity or convenience of mutual accommodation frequently produces a friendship like the friendship of those born to live in the same family"
+description: "Among well-disposed people, the necessity or convenience of mutual accommodation frequently produces friendship"
 weight: 40
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

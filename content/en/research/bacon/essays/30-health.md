@@ -5,7 +5,9 @@ weight: 42
 description: "To be free-minded and cheerfully disposed, at hours of meals, sleep, and exercise, is one of the best precepts of a long life."
 image: "/covers/essaysbacon.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

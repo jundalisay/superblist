@@ -4,7 +4,9 @@ title: "What is the Nature of Number?"
 weight: 4
 image: "/covers/meta.jpg"
 description: "Must we suppose something apart from individual things, or is it these that the science we are seeking treats of?"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

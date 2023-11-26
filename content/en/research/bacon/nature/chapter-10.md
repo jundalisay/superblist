@@ -1,8 +1,10 @@
 ---
-title: "The Inventory or enumeration of inventions already used"
+title: "The Inventory or Enumeration of Inventions Already Used"
 heading: Chapter 10
 weight: 18
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 image: "/covers/interpret.jpg"
 description: "The plainest method is to distribute sciences, arts, inventions, works, and their portions, according to their usefulness to life"
 icon: /icons/bacon.png

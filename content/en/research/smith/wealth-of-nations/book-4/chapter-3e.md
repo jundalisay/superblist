@@ -5,7 +5,9 @@ heading: "Chapter 3d"
 description: "Because of these maxims, the commerce between France and England has been subjected to so many discouragements and restraints"
 image: /covers/wn.jpg
 weight: 34
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 --- 
 

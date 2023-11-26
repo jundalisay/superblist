@@ -4,7 +4,9 @@ heading: "Chapter 5h"
 description: "The merchant importer of foreign wheat for home consumption contributes to the home market's immediate supply"
 image: /covers/wn.jpg
 weight: 52
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 --- 
 

@@ -5,7 +5,9 @@ weight: 44
 description: "Daily life belongs to moral philosophy. Without it, our duties are just a fair image or statue -- beautiful to contemplate, but is without life and motion"
 image: "/covers/learning.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

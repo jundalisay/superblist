@@ -1,14 +1,16 @@
-
 ---
-title: "Extraordinary Restraints on Importation from Countries Where the Balance is supposed to be Disadvantageous"
+title: "Extraordinary Restraints on Importation"
+# from Countries Where the Balance is supposed to be Disadvantageous
 heading: "Chapter 3a"
-description: "The 2nd expedient of the commercial system to increase the amount of gold and silver is to lay extraordinary restraints on imports from countries where the balance of trade is disadvantageous"
+description: "The 2nd expedient of the commercial system to increase the amount of gold and silver is to lay extraordinary restraints on imports"
+# from countries where the balance of trade is disadvantageous
 image: /covers/wn.jpg
 weight: 26
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 --- 
-
 
 
 ## Unreasonableness of the Balance of Trade

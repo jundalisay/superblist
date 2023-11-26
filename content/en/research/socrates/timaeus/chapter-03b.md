@@ -4,7 +4,9 @@ heading: "Chapter 3b"
 weight: 18
 image: "/covers/timaeus.jpg"
 description: "The Creator conceived that a being which was self-sufficient would be far more excellent than one which lacked anything"
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 icon: "/icons/socrates.png"
 ---
 

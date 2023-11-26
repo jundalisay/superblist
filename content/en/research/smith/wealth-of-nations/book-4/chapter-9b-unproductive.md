@@ -4,7 +4,9 @@ title: "The Unproductive Class"
 weight: 108
 image: "/covers/wn.jpg"
 description: "To the Physiocrats, the unproductive class is composed of merchants, artificers, and manufacturers"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 ---
 

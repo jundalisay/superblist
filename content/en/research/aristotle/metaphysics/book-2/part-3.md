@@ -4,7 +4,9 @@ title: "The Effect Which Lectures Produce On A Hearer Depends On His Habits"
 weight: 9
 image: "/covers/meta.jpg"
 description: "The effect which lectures produce on a hearer depends on his habits"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

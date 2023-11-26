@@ -4,7 +4,9 @@ title: "What is the One? How must we conceive of It?"
 weight: 4
 image: "/covers/meta.jpg"
 description: "'Unity' has many meanings just as 'being' has"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

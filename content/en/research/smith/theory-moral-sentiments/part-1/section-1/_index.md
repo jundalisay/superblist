@@ -6,4 +6,7 @@ description: "Section 1 of Part 1 of the Simplified Theory of Moral Sentiments b
 image: /covers/tms.jpg
 weight: 1
 # date: 2022-04-30
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---

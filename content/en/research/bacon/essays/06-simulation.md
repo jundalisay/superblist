@@ -5,7 +5,9 @@ weight: 12
 description: "DISSIMULATION is but a faint kind of policy, or wisdom. It asks a strong wit and heart to know when to tell truth, and to do it."
 image: "/covers/essaysbacon.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

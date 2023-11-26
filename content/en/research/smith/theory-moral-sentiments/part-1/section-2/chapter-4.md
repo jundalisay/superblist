@@ -4,7 +4,9 @@ heading: "Chapter 4 Part 1 of The Theory of Moral Sentiments Simplified"
 description: "The Amiable Virtues are Social Feelings"
 weight: 10
 # date: 2022-01-27
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

@@ -5,7 +5,9 @@ heading: "Chapter 1"
 image: "/covers/philo.jpg"
 description: "Smith explains the different philosophies"
 icon: "/avatars/smith.png"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 weight: 10
 ---
 

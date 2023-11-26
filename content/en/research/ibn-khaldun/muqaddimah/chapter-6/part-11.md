@@ -1,11 +1,13 @@
 ---
 title: "The Hadith: sciences concerned with Prophetic traditions"
-description: "There are many and varied hadith. One of them concerns abrogating and abrogated traditions. The permission to abrogate previous statements and the occurrence of abrogation have been established in our religious law"
+description: "There are many and varied hadith. One of them concerns abrogating and abrogated traditions"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 11"
 weight: 22
-contributors: ['Ibn Khaldun']
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 

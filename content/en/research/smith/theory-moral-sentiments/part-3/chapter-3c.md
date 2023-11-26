@@ -1,10 +1,12 @@
 ---
 title: "Peace and the freedom from misery Simplified"
 heading: "Chapter 3b"
-description: "The Stoics said that there is no essential difference in the happiness in one permanent situation and another. If there were any difference, it was very little."
+description: "The Stoics said that there is no essential difference in the happiness in one permanent situation and another"
 date: 2015-09-14
 image: "/covers/tms.jpg"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 ---
 

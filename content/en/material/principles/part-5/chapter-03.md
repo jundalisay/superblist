@@ -7,6 +7,9 @@ image: /photos/physics/baseball.jpg
 description: "The Principles for Movement in the Material Layer which is the lowest and crudest layer"
 weight: 4
 icon: /icons/spmat.png
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

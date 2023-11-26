@@ -1,14 +1,15 @@
 ---
 heading: Chapter 4
-title: "Stock-jobbing"
+title: "Stock Market Speculation as Stock-jobbing"
 # date: 2015-09-10
 weight: 12
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Stock-jobbing is the same as gaming"
 ---
-
 
 
 

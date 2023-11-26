@@ -1,9 +1,12 @@
 ---
-title: "Prudence - The Individual's Character, so far as it affects his own Happiness"
+title: What is Prudence?
+# title: "Prudence - The Individual's Character, so far as it affects his own Happiness"
 heading: "Chapter 2c"
 description: "Nature first recommends the body's preservation and healthful state to every individual's care"
 weight: 32
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

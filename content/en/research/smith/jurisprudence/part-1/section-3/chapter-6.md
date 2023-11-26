@@ -2,10 +2,12 @@
 heading: Chapter 6
 title: "Servitudes"
 # date: 2015-09-18
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
-description: "The second kind of real rights is servitudes. These are burdens which one man has on another person's property. These rights were at first personal"
+description: "The second kind of real rights is servitudes. These are burdens which one man has on another person's property"
 weight: 16
 ---
 

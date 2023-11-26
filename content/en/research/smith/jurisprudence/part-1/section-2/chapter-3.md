@@ -3,7 +3,9 @@ heading: Chapter 3
 title: "Master and Servant is the Third Relation of a Family"
 weight: 14
 # date: 2015-09-24
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "The power over the servants was arbitrary. A slave could have no property"

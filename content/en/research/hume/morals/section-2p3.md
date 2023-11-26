@@ -1,7 +1,7 @@
 ---
 heading: "Section 2c"
 title: "Property"
-description: "The good of mankind is the only object of all the laws of justice. Men's possessions should be separated for the peace and interest of society"
+description: "The good of mankind is the only object of all the laws of justice. Men's possessions should be separated for the interest of society"
 image: /covers/morals.png
 writer:
   name: David Hume

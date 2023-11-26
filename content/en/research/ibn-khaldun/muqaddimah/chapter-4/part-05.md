@@ -1,11 +1,13 @@
 ---
-title: "City-planning and the consequences of neglecting such planning"
-description: "Towns are dwelling places that nations use when they have reached the desired goal of luxury and of the things that go with it. Then, they prefer tranquility and quiet and turn to using houses to dwell in"
+title: "City-planning and the Neglecting of It"
+description: "Towns are dwelling places that nations use when they have reached the desired goal of luxury and of the things that go with it"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 5"
 weight: 14
-contributors: ['Ibn Khaldun']
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 

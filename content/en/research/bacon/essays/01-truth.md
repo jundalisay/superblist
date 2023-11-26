@@ -1,11 +1,14 @@
 ---
 heading: "Essay 1"
-title: "The 3 True Limitations of Human Knowledge"
+title: The Truth
+# title: "The 3 True Limitations of Human Knowledge"
 weight: 4
 description: "Learning should be delivered from the discredits and disgraces which it has received from disguised ignorance"
 image: "/covers/essaysbacon.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 
@@ -149,23 +152,22 @@ Of Vicissitude Of Things
 
 Of Fame -->
 
-A jesting Pilate asked what is truth but would not stay for an answer.
+<!-- A jesting Pilate asked what is truth. But he would not stay for an answer.
 
 Certainly there be, that delight in giddiness, and count it a bondage to fix a belief; affecting free-will in thinking, as well as in acting. 
 
 The sects of philosophers of such kind are gone. 
 
-Yet there remain certain discoursing wits, which are of the same veins, though there be not so much blood in them, as was in those of the ancients. 
+Yet there remain certain discoursing wits, which are of the same veins, though there be not so much blood in them, as was in those of the ancients.  -->
 
 
-
-Men have difficulty and labor in finding out of truth, nor again, that when it is found, it imposeth upon men's thoughts, that doth bring lies in favor; but a natural, though corrupt love, of the lie itself.
+Men have difficulty in finding out of truth. When it is found, it imposes lies on men's thoughts, as a natural, though corrupt love, of the lie itself.
 
 A later Greek school examined whether men should love lies for the lie's sake.
 
-But I cannot tell; this same truth, is a naked, and open day-light, that doth not show the masks, and mummeries, and triumphs, of the world, half so stately and daintily as candle-lights.
+<!-- But I cannot tell; this same truth, is a naked, and open day-light, that doth not show the masks, and mummeries, and triumphs, of the world, half so stately and daintily as candle-lights. -->
 
-Truth may perhaps come to the price of a pearl, that showeth best by day; but it will not rise to the price of a diamond, or carbuncle, that showeth best in varied lights. 
+Truth may perhaps come to the price of a pearl. It shows best by day; but it will not rise to the price of a diamond, or carbuncle, that showeth best in varied lights. 
 
 A mixture of a lie does add pleasure.
 

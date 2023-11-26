@@ -4,7 +4,9 @@ title: "Divine Thought"
 weight: 12
 image: "/covers/meta.jpg"
 description: "Is the object of divine thought composite? If it were, then thought would change in passing from part to part of the whole"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

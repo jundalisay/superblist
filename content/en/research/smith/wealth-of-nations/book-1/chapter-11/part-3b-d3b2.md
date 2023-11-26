@@ -1,9 +1,10 @@
-
 ---
 title: "Second Kind: Poultry and Pork"
 heading: "Part 3b of Digression 3b2"
 weight: 34
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "In every farm, the offals of the barn and stables will maintain Poultry, Pork, and Dairy"
 icon: "/avatars/smith.png"

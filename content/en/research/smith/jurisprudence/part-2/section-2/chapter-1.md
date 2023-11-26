@@ -3,7 +3,9 @@ heading: Chapter 1
 title: "The Natural Wants of Mankind"
 # date: 2015-09-10
 weight: 6
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Cheapness or plenty is the most proper way of procuring wealth and abundance"
@@ -40,7 +42,7 @@ The same or rather the much greater delicacy of his mind requires a still greate
 Man is the only animal who is possessed of such a nicety that the very colour of an object hurts him.
 Among different objects a different division or arrangement of them pleases.
 
-The taste of beauty consists chiefly in= 
+The taste of beauty consists chiefly in:
 - proper variety,
 - easy connection, and
 - simple order

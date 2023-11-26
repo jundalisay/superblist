@@ -4,7 +4,9 @@ title: "The Spheres of Eudoxus and Callippus"
 weight: 10
 image: "/covers/meta.jpg"
 description: "Eudoxus supposed that the motion of the sun or the moon involves 3 spheres"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

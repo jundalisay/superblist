@@ -4,7 +4,9 @@ title: "The Contradictions of Heraclitus"
 weight: 14
 image: "/covers/meta.jpg"
 description: "The one-sided theories which some people express about all things cannot be valid."
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

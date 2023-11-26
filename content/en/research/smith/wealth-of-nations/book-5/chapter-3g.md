@@ -5,7 +5,9 @@ weight: 18
 image: "/covers/wn.jpg"
 description: "The raising of the coin's denomination has been the most usual way a real public bankruptcy is disguised under the appearance of a pretended payment"
 icon: "/avatars/smith.png"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

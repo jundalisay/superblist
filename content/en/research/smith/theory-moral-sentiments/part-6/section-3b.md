@@ -1,9 +1,11 @@
 ---
 title: "The Point of Propriety"
 heading: "Section 3"
-description: "The point of propriety is the degree of any passion which the impartial spectator approves of. This point is differently situated in different passions"
+description: "The point of propriety is the degree of any passion which the impartial spectator approves of"
 weight: 48
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

@@ -5,6 +5,9 @@ description: "The Source of our Compassion is our conception of the pain of othe
 weight: 4
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

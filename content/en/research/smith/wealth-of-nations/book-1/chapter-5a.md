@@ -2,9 +2,11 @@
 title: "The Real and Nominal Price of Commodities"
 heading: "Chapter 5a"
 weight: 20
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
-description: "Labor or effort is the foundation of value and subsequently wealth in a society. Money represents the command of labor, and is not a representation of goods or services"
+description: "Labor or effort is the foundation of value and subsequently wealth in a society. Money represents the command of labor"
 icon: "/avatars/smith.png"
 ---
 

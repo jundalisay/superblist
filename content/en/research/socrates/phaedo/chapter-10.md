@@ -5,7 +5,9 @@ heading: "Chapter 10"
 weight: 22
 image: "/covers/phaedo.png"
 description: "Such was the end of our friend Socrates. Of all the men of his time whom I have known, he was the wisest and justest and best."
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 icon: "/icons/socrates.png"
 ---
 

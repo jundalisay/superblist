@@ -1,10 +1,12 @@
 ---
 title: "Our natural love and hatred for others Simplified"
 heading: "Chapter 2a"
-description: "Our natural love for some characters dispose us to wish to be loved ourselves. Our natural hatred for others dispose us perhaps more strongly, to dread being hated ourselves"
+description: "Our natural love for some characters dispose us to wish to be loved ourselves"
 date: 2015-09-28
 image: "/covers/tms.jpg"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 ---
 

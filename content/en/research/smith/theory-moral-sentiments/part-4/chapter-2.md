@@ -3,7 +3,9 @@ title: "The Morality from Utility"
 heading: "Chapter 2"
 description: "This beauty of characters from their usefulness strikes those who philosophically consider mankind's conduct"
 weight: 14
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

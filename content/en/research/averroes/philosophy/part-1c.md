@@ -4,7 +4,9 @@ title: "The Day of Judgment"
 description: "If the Law is divided into these 3 parts, to which of these does the description of the state of the Day of Judgment belong?"
 image: "/covers/theo.jpg"
 weight: 8
-author: Averroes
+writer:
+  name: Averroes
+  url: https://en.wikipedia.org/wiki/Averroes
 ---
 
 

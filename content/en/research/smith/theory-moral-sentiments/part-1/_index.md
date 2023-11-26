@@ -6,6 +6,9 @@ description: "The Theory of Moral Sentiments is the basis for Aethereal Relativi
 image: /covers/tms.jpg
 weight: 1
 # date: 2022-04-30
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 <!-- The Propriety Of Actions -->

@@ -6,7 +6,9 @@ weight: 10
 image: "/covers/wn.jpg"
 description: "We simplify The Wealth of Nations Book 5 about Government Expenses and Revenue"
 # icon: "/avatars/smith.png"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 aliases:
   /research/smith/simple-wealth-of-nations/
 ---

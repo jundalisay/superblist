@@ -1,4 +1,3 @@
-
 ---
 title: "Greek and Roman Policy"
 heading: "Chapter 9e"
@@ -6,10 +5,10 @@ weight: 114
 image: "/covers/wn.jpg"
 description: "Foreign trade gives a value to their nations' superfluities by exchanging them for something else to satisfy their wants"
 icon: "/avatars/smith.png"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
-
-
 
 
 {{< s v="47" >}} The policy of the ancient Greek and Roman republics honoured agriculture more than manufactures or foreign trade.

@@ -5,6 +5,9 @@ linkTitle: Section 1
 description: "Almost all of the remarkable theories on the nature of our moral feelings are partly correct and partly wrong due to their imperfect view of nature"
 image: /covers/tms.jpg
 weight: 1
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 # date: 2022-04-30
 ---
 

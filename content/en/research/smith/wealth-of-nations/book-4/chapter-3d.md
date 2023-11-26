@@ -4,7 +4,9 @@ heading: "Chapter 3c"
 description: "Nothing, however, can be more absurd than this whole doctrine of the balance of trade, on which these restraints and almost all the other regulations of commerce are founded"
 image: /covers/wn.jpg
 weight: 32
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 --- 
 

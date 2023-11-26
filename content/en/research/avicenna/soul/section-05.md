@@ -2,7 +2,9 @@
 heading: "Section 5"
 title: "The Animal Powers and the Need for Each of Them"
 description: "Every animal moves itself in some sort of motion at will, and hence it is sentient; since sensation in what does not move itself at will is wasted and useless, and the lack of it in what does move itself at will is harmful"
-author: "Avicenna"
+writer:
+  name: Avicenna
+  url: https://en.wikipedia.org/wiki/Avicenna
 weight: 12
 image: "/covers/soul.jpg"
 ---

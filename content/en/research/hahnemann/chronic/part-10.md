@@ -8,15 +8,15 @@ image: /covers/chronic.jpg
 ---
 
 
-5An eruption of itch in a youth of 18 years driven out by a mercurial plaster.
+25 An eruption of itch in a youth of 18 years driven out by a mercurial plaster.
 
-26Itch which disappeared from the skin of itself was followed by a lingering fever and fatal expectoration of pus; at the autopsy the left lung was found full of pus.
+26 Itch which disappeared from the skin of itself was followed by a lingering fever and fatal expectoration of pus; at the autopsy the left lung was found full of pus.
 
 27 A robust looking candidate for the ministry who was about to preach in a few days and therefore wished to free himself from his old itch, rubbed himself one day with itch ointment and in a few hours, soon after noon, he passed away with anxiety, dyspnoea and tenesmus; the autopsy showed that the whole of the lungs was filled with liquid pus.
 
-28Empyema followed the driving away, through external means, of an eruption of itch which had come out a few years before, and appeared especially in March and April.
+28 Empyema followed the driving away, through external means, of an eruption of itch which had come out a few years before, and appeared especially in March and April.
 
-29A young man who had been warned by (the good physician and) Prof. Krause against the use of sulphur ointment for the reappearing itch, did not follow his advice, but rubbed himself with it, when he died of constipation. In his body, at the autopsy, were found sacs of pus in his abdominal viscera.
+29 A young man who had been warned by (the good physician and) Prof. Krause against the use of sulphur ointment for the reappearing itch, did not follow his advice, but rubbed himself with it, when he died of constipation. In his body, at the autopsy, were found sacs of pus in his abdominal viscera.
 
 30Also the diaphragm and the liver were diseased.
 
@@ -64,8 +64,6 @@ Obscuration of the Eyes and Presbyopia, Fr. Hoffman, Consult. med., 1 Cas. 50.38
 
 38A girl of 13 years was seized with the itch, especially on the limbs, in the face and on the pudenda; this was finally driven away by ointments of zinc and sulphur, whereupon she gradually became weak of sight. Little dark bodies floated before her eyes, and these could also be seen from without floating in the aqueous humor of the anterior chamber of the eye. At the same time she could not recognize small bodies except with spectacles. The pupils were dilated.
 
-Inflammation of the Eyes, G. W. Wedel. Snetter, Diss. de Ophthalmia, Jen., 1710. Hallmann, in Koenigl. Vetenskaps Handl. f. A. X., p. 210.39 G. Chph. Schiller, de scabie humida, p. 42, Erford., 1747.
+<!-- Inflammation of the Eyes, G. W. Wedel. Snetter, Diss. de Ophthalmia, Jen., 1710. Hallmann, in Koenigl. Vetenskaps Handl. f. A. X., p. 210.39 G. Chph. Schiller, de scabie humida, p. 42, Erford., 1747.
 
-Cataract, Chn. Gottlieb Ludwig, Advers. med. II., p. 157.40 Amaurosis, Northof, Diss. de scabie, Gotting., 1792, p. 10.41 Chn. G. Ludwig, as above.42 Sennert, prax. lib. III., Sect. 2, Cap. 44. Trecourt, chirurg. Wahrnehmungen, p. 173., Leipz., 1777. Fabricius ab Hilden, Cent. II., obs. 39.43.
-
- 
+Cataract, Chn. Gottlieb Ludwig, Advers. med. II., p. 157.40 Amaurosis, Northof, Diss. de scabie, Gotting., 1792, p. 10.41 Chn. G. Ludwig, as above.42 Sennert, prax. lib. III., Sect. 2, Cap. 44. Trecourt, chirurg. Wahrnehmungen, p. 173., Leipz., 1777. Fabricius ab Hilden, Cent. II., obs. 39.43. -->

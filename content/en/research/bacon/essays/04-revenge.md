@@ -5,7 +5,9 @@ weight: 10
 description: "REVENGE is a kind of wild justice -- the more man's nature runs to, the more the law should weed it out"
 image: "/covers/essaysbacon.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

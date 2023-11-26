@@ -2,7 +2,9 @@
 title: "Money as a store of value and a tool for trade"
 heading: "Chapter 2b"
 weight: 12
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Money has wholesale and retail"
 icon: "/avatars/smith.png"

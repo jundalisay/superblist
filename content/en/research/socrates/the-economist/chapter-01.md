@@ -2,7 +2,9 @@
 title: "What is Wealth?"
 heading: "Chapter 1"
 weight: 10
-contributors: ['Xenophon']
+writer:
+  name: Xenophon
+  url: https://en.wikipedia.org/wiki/Xenophon
 image: "/covers/economist.jpg"
 description: "Wealth is anything that provides utilitiy and benefit for living"
 icon: "/icons/socrates.png"

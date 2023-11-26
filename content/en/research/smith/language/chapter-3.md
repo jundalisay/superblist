@@ -1,8 +1,10 @@
 ---
 heading: Chapter 2
-title: "Verbs: Personal and Impersonal"
+title: "Personal and Impersonal Verbs"
 weight: 12
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/formation.jpg"
 description: "Verbs must necessarily have been coëval with the very first attempts towards the formation of language"

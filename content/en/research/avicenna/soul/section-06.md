@@ -1,8 +1,10 @@
 ---
 heading: "Section 6"
 title: "The Five Senses and How They Perceive"
-description: "In the Timaeus, Plato asserts that they perceive wholly and solely through a ray that shoots out beyond the eye. This makes them sense the sensible objects"
-author: "Avicenna"
+description: "In the Timaeus, Plato asserts that they perceive wholly and solely through a ray that shoots out beyond the eye"
+writer:
+  name: Avicenna
+  url: https://en.wikipedia.org/wiki/Avicenna
 weight: 14
 image: "/covers/soul.jpg"
 ---

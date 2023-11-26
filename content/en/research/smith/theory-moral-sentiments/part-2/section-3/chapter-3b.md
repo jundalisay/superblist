@@ -2,7 +2,9 @@
 heading: Chapter 3b Notes
 title: "Nature Uses Our Feelings to Create Morality to Sustain Life"
 weight: 14
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/tms.jpg"
 description: "Most people prefer that our sense of the merit of good actions is based on a sympathy with the gratitude of the beneficiaries"

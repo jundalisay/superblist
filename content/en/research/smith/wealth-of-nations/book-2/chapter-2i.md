@@ -2,7 +2,9 @@
 title: "The Ayr Bank"
 heading: "Chapter 2i"
 weight: 26
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "The Ayr Bank failed because it was too big to fail"
 icon: "/avatars/smith.png"

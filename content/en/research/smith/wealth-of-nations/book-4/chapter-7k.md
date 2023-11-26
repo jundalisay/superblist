@@ -5,7 +5,9 @@ linkTitle: "Chapter 7k"
 weight: 82
 image: "/covers/wn.jpg"
 description: "The monopoly of the colony trade drew British capital from other trades"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "/avatars/smith.png"
 ---
 

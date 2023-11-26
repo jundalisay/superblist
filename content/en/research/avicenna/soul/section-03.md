@@ -2,7 +2,9 @@
 heading: "Section 3"
 title: "The Faculties of the Soul have External Origins and are not from the 4 Elements"
 description: "All the various things that are, however composite they may be, and whatever form may have come about in the compound"
-author: "Avicenna"
+writer:
+  name: Avicenna
+  url: https://en.wikipedia.org/wiki/Avicenna
 weight: 8
 image: "/covers/soul.jpg"
 ---

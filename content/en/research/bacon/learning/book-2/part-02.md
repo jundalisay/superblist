@@ -5,7 +5,9 @@ weight: 6
 description: "Civil history is of 3 kinds, similar to 3 kinds of pictures or images"
 image: "/covers/learning.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

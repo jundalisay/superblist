@@ -2,7 +2,9 @@
 heading: "Section 7"
 title: "The Inward Senses and the Motion-Promoting Powers"
 description: ""
-author: "Avicenna"
+writer:
+  name: Avicenna
+  url: https://en.wikipedia.org/wiki/Avicenna
 weight: 16
 image: "/covers/soul.jpg"
 ---

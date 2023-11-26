@@ -6,7 +6,9 @@ date: 2020-01-31
 weight: 2
 image: "/photos/grains.jpg"
 description: Maximized Farming is based on the 5 Layers as they apply to agriculture.
-author: "Juan"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmed.png
 ---
 

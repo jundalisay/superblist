@@ -3,7 +3,9 @@ heading: "Parts 3-5"
 title: "Defintion of Element, Nature, and Necessary"
 weight: 4
 image: "/covers/meta.jpg"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 description: "Aristotle explains element and nature"
 icon: "/icons/aris.png"
 ---

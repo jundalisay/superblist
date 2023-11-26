@@ -8,7 +8,9 @@ linkTitle: "Transformative Layer"
 image: /photos/physics/elec.jpg
 description: "The Transformative Layer deals with fusion and the conversion of particles into different material types"
 weight: 2
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 toc: false
 ---
 

@@ -5,7 +5,9 @@ weight: 14
 image: "/covers/wn.jpg"
 description: "During Mr. Pelham's prudent and truly patriotic administration [1743-1754], the interest of the public debt was reduced from 4% to 3%"
 icon: "/avatars/smith.png"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

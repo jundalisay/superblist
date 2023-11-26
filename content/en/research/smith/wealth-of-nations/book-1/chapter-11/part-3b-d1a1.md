@@ -2,7 +2,9 @@
 title: "Digression on the Variations in the Value of Silver During the Last Four Centuries"
 heading: "Part 3b Digression Part 1"
 weight: 16
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Prices were unstable from 1262 to 1570"
 icon: "/avatars/smith.png"

@@ -2,7 +2,9 @@
 title: "Socrates' Vision"
 heading: "Part 1"
 weight: 2
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/sym.png"
 description: "Socrates tells Crito of his vision"
 icon: "/icons/socrates.png"

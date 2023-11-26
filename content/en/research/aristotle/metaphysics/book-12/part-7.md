@@ -4,7 +4,9 @@ title: "Thought is Prior to Desire"
 weight: 8
 image: "/covers/meta.jpg"
 description: "Desire depends on opinion. Opinion does not depend on desire. This is thinking is the starting-point"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

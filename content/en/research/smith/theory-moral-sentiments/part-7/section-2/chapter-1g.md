@@ -1,10 +1,12 @@
 ---
-heading: "Chapter 1d"
+heading: "Chapter 1g"
 title: "Summary of Stoicism and other Propriety-based Moral Philosophies"
-linkTitle: Chapter 1c
+linkTitle: Chapter 1g
 description: "The Stoics believed that those who had not attained perfect virtue might have some proficiency in virtue"
-weight: 10
-contributors: ['Adam Smith']
+weight: 14
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

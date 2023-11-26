@@ -4,7 +4,9 @@ title: "The 5 Elements"
 weight: 26
 image: /covers/timaeus.jpg
 description: "Timaeus explains the 5 elements"
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 icon: "/icons/socrates.png"
 ---
 

@@ -4,7 +4,9 @@ heading: "Chapter 1a Simplified"
 description: "Political economy, as a science of a legislator proposes to enrich both the people and the sovereign"
 image: /covers/wn.jpg
 weight: 10
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 --- 
 

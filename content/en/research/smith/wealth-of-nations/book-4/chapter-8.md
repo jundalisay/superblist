@@ -5,7 +5,9 @@ linkTitle: "Chapter 8"
 weight: 98
 image: "/covers/wn.jpg"
 description: "The mercantile system proposes to enrich every country through two great engines"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "/avatars/smith.png"
 ---
 

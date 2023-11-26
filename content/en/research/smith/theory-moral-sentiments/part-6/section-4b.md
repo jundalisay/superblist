@@ -3,7 +3,9 @@ title: "The Vain Man"
 heading: "Chapter 4b"
 description: "He courts the company of his superiors as much as the proud man shuns it"
 weight: 54
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

@@ -2,7 +2,9 @@
 heading: "Introduction"
 title: "Avicena’s Offering To The Prince"
 description: "I have concluded that the chief virtues are 2: The Love of wisdom and the Choice of Career"
-author: "Avicenna"
+writer:
+  name: Avicenna
+  url: https://en.wikipedia.org/wiki/Avicenna
 weight: 2
 image: "/covers/soul.jpg"
 ---

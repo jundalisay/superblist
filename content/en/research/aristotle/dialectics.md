@@ -3,7 +3,9 @@ title: "The Dialectics of Aristotle Simplified"
 weight: 4
 image: "/covers/dia.jpg"
 # description: "Aristotle gives maximum importance to the sight over the other senses"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

@@ -4,7 +4,9 @@ title: "Number and Unit"
 weight: 14
 image: "/covers/meta.jpg"
 description: "There is no contact in numbers, but succession. Between the units, there is nothing. Between those in 2 or in 3 one might ask whether these succeed the 1-itself or not, and whether, of the terms that succeed it, 2 or either of the units in 2 is prior"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

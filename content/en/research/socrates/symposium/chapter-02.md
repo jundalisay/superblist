@@ -2,7 +2,9 @@
 title: "What is Love"
 heading: "Chapter 2"
 weight: 4
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/sym.png"
 description: "Socrates tells Crito of his vision"
 icon: "/icons/socrates.png"

@@ -2,7 +2,9 @@
 heading: Chapter 3
 title: "The Utility of the sense of justice"
 weight: 14
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/tms.jpg"
 description: "Society requires the virtue called Justice which is sustained by the utility afforded by society"

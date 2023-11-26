@@ -3,7 +3,9 @@ heading: Chapter 4
 title: "How Liberty was lost"
 # date: 2015-09-26
 weight: 10
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "When a country arrives at a certain degree of refinement, it becomes less fit for war"

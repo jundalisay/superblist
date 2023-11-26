@@ -1,9 +1,10 @@
-
 ---
 title: "How to Create Equality in Wages and Profits"
 heading: "Part 1e"
 weight: 64
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "The chance of loss is frequently under-valued and rarely valued more than it is worth"
 icon: "/avatars/smith.png"

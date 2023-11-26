@@ -6,7 +6,9 @@ weight: 10
 image: "/covers/interpret.jpg"
 description: "In the divine nature, both religion and philosophy acknowledges goodness in perfection"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 Cicero, the orator, was willing to magnify his own profession. He said that eloquence was not a shop of good words and elegancies. It was a treasury of all knowledges, the type handles and moves the minds and affections of men by speech.

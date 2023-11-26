@@ -2,12 +2,13 @@
 heading: Chapter 4
 title: "The English Language versus the French and Italian"
 weight: 14
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/formation.jpg"
-description: "As long as any language was spoken by those only who learned it in their infancy, the intricacy of its declensions and conjugations could occasion no great embarrassment"
+description: "The French language is compounded of the Latin and the ancient Franks language. Italian is compounded of Latin and the ancient Lombards language"
 ---
-
 
 
 <!-- Language would probably have continued on this footing in all countries, nor would ever have grown more simple in its declensions and conjugations, had it not  -->
@@ -37,7 +38,9 @@ The Greek seems to be, in a great measure, a simple, uncompounded language, form
 
 The Latin is a composition of the Greek and of the ancient Tuscan languages. Its declensions and conjugations accordingly are much less complex than those of the Greek; it has dropped the dual number in both. Its verbs have no optative mood distinguished by any peculiar termination. They have but one future. They have no aorist distinct from the preterit-perfect; they have no middle voice; and even many of their tenses in the passive voice are eked out, in the same manner as in the modern languages, by the help of the substantive verb joined to 322 the passive participle. In both the voices, the number of infinitives and participles is much smaller in the Latin than in the Greek.
 
-The French and Italian languages are each of them compounded, the one of the Latin and the language of the ancient Franks, the other of the same Latin and the language of the ancient Lombards. As they are both of them, therefore, more complex in their composition than the Latin, so are they likewise more simple in their declensions and conjugations. With regard to their declensions, they have both of them lost their cases altogether; and with regard to their conjugations, they have both of them lost the whole of the passive, and some part of the active voices of their verbs. The want of the passive voice they supply entirely by the substantive verb joined to the passive participle; and they make out part of the active, in the same manner, by the help of the possessive verb and the same passive participle.
+The French and Italian languages are each of them compounded, the one of the Latin and the language of the ancient Franks, the other of the same Latin and the language of the ancient Lombards. 
+
+As they are both of them, therefore, more complex in their composition than the Latin, so are they likewise more simple in their declensions and conjugations. With regard to their declensions, they have both of them lost their cases altogether; and with regard to their conjugations, they have both of them lost the whole of the passive, and some part of the active voices of their verbs. The want of the passive voice they supply entirely by the substantive verb joined to the passive participle; and they make out part of the active, in the same manner, by the help of the possessive verb and the same passive participle.
 
 The English is compounded of the Norman French and the ancient Saxon languages. 
 

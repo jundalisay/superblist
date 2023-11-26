@@ -4,7 +4,9 @@ heading: "Chapter 2d"
 description: "All those manufactured exports, without a bounty, to other European countries, could be very little affected by the freest importation of foreign goods"
 image: /covers/wn.jpg
 weight: 24
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 --- 
 

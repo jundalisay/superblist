@@ -5,7 +5,9 @@ linkTitle: "Chapter 5b"
 weight: 56
 image: "/covers/wn.jpg"
 description: "Three types of trade are the Home Trade, Foreign Trade, Carrying Trade"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 ---
 

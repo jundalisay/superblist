@@ -4,7 +4,9 @@ heading: "Chapter 1d"
 description: "Foreign trade gives a value to their nations' superfluities by exchanging them for something else to satisfy their wants"
 image: /covers/wn.jpg
 weight: 16
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 --- 
 

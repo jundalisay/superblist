@@ -4,7 +4,9 @@ title: "The Theory of Ideas and Forms"
 weight: 6
 image: "/covers/meta.jpg"
 description: "I am not convinced of the existence of Forms. From some, no inference necessarily follows. From some, arise Forms even of things of which they think there are no Forms"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

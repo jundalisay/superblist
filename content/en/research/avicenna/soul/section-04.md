@@ -2,7 +2,9 @@
 heading: "Section 4"
 title: "The Plant Powers and the Need for Each of Them"
 description: "Bodies with souls, if considered from the side of their vegetable powers, are found to have in common the getting of nourishment"
-author: "Avicenna"
+writer:
+  name: Avicenna
+  url: https://en.wikipedia.org/wiki/Avicenna
 weight: 10
 image: "/covers/soul.jpg"
 ---

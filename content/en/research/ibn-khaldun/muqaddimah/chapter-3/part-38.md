@@ -1,11 +1,14 @@
 ---
-title: "Commercial activity on the part of the ruler is harmful to his subjects and ruinous to the tax revenue"
+title: "A Ruler doing Commercial Activity is Ruinous to the Tax Revenue"
+# harmful to his subjects and
 description: "A dynasty may find itself in financial straits from its luxury and expenditures"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 38"
 weight: 111
-contributors: ['Ibn Khaldun']
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 

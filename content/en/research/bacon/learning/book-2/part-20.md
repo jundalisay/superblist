@@ -5,7 +5,9 @@ weight: 40
 description: "In the handling of this science, those which have written seem to me to have done as if a man, that professed to teach to write, did only exhibit fair copies of alphabets and letters joined"
 image: "/covers/learning.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

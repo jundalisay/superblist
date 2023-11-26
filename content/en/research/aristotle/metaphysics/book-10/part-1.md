@@ -4,7 +4,9 @@ title: "Aristotle explains One"
 weight: 1
 image: "/covers/meta.jpg"
 description: "Aristotle gives maximum importance to the sight over the other senses"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

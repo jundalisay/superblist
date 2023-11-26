@@ -1,10 +1,12 @@
 ---
 title: "The Amiable and Respectable Virtues"
 heading: "Chapter 5"
-description: "Amiable Virtues are based on the ability of a person to make his feelings accommodate others; Respectable Virtues are based on the ability of a person to control his own feelings"
+description: "Amiable Virtues are based on the ability of a person to make his feelings accommodate others"
 weight: 12
 image: "/covers/tms.jpg"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 ---
 

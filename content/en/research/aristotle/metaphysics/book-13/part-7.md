@@ -4,7 +4,9 @@ title: "Numbers are not Ideas"
 weight: 10
 image: "/covers/meta.jpg"
 description: "Ideas are not numbers. The units are different, if there are to be Ideas. This is because the Form is unique"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

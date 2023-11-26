@@ -6,7 +6,9 @@ description: "Here we list common diseases and Natural Remedies"
 date: 2020-01-25
 weight: 8
 image: "/photos/consult.jpg"
-author: "Juan"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: "/icons/spmed.png"
 draft: true
 ---

@@ -2,7 +2,6 @@
 title: "The Development of Militaries"
 heading: "Chapter 1 Part 1a"
 weight: 4
-contributors: ['Adam Smith']
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

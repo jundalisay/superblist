@@ -1,18 +1,14 @@
-
-
-
-
 ---
 title: "The English Colonies"
 heading: "Chapter 7e"
-description: "The English colonies are not superior in land to some French colonies before the late war. But the political institutions of the English colonies have been more favourable to the improvement and cultivation of this land than those of any of the other three nations"
+description: "The English colonies are not superior in land to some French colonies before the recent war"
 image: /covers/wn.jpg
 weight: 70
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 ---
-
-
 
 
 {{< s v="37" >}} The English colonies in North America have progressed the fastest.

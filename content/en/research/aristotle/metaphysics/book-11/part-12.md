@@ -4,7 +4,9 @@ title: "Kinds of Movement"
 weight: 20
 image: "/covers/meta.jpg"
 description: "There are three kinds of movement-of quality, of quantity, of place"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

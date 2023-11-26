@@ -5,6 +5,9 @@ linkTitle: Chapter 1a
 description: "Virtue is the temper of mind in the excellent and praise-worthy character. The nature of virtue may be reduced to three classes"
 image: /covers/tms.jpg
 weight: 2
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

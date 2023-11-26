@@ -4,7 +4,9 @@ heading: Plotting their 'landing zones'
 date: 2022-01-06
 image: /photos/med/covid.jpg
 description: "We list down the Covid variants to establish patterns"
-author: Juan
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmed.png
 ---
 

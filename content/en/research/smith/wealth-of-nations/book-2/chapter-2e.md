@@ -2,7 +2,9 @@
 title: "Cash Accounts and Discounted Bills of Exchange"
 heading: "Chapter 2e"
 weight: 18
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Cash Accounts and Discounted Bills of Exchange adds to the circulation of value"
 icon: "/avatars/smith.png"

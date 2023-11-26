@@ -1,10 +1,13 @@
 ---
-title: "When the Sense of Duty Should be our Conduct's Sole Principle; When it Should Concur with Other Motives"
+title: "When the Sense of Duty Should be our Conduct's Sole Principle"
+# ; When it Should Concur with Other Motives
 heading: "Chapter 6"
 description: "Christianity has no rule saying that our sense of duty should be our sole principle"
 date: 2015-09-01
 image: "/covers/tms.jpg"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icons: /avatars/smith.png
 ---
 

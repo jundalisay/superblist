@@ -4,7 +4,9 @@ title: "Should science focus on the elemental or the universal?"
 weight: 1
 image: "/covers/meta.jpg"
 description: "Aristotle asks whether science should focus on the elemental or the universal"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

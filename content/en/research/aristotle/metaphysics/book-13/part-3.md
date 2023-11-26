@@ -4,7 +4,9 @@ title: "The Propositions of Mathematics"
 weight: 4
 image: "/covers/meta.jpg"
 description: "The universal propositions of mathematics do not deal with objects which exist separately, apart from extended magnitudes and from numbers"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

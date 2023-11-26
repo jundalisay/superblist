@@ -5,7 +5,9 @@ weight: 22
 image: "/covers/wn.jpg"
 description: "The revenue might be very much increased without increasing the burden on the people"
 icon: "/avatars/smith.png"
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 

@@ -3,7 +3,9 @@ heading: Chapter 1a
 title: "Husband and Wife"
 # date: 2015-09-30
 weight: 6
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Each person is a member of a family which is made up of 3 kinds of relations"

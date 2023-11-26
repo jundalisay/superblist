@@ -3,7 +3,9 @@ heading: "Parts 7"
 title: "Defining Being and Substance"
 weight: 8
 image: "/covers/meta.jpg"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 description: "Aristotle defines being"
 icon: "/icons/aris.png"
 ---

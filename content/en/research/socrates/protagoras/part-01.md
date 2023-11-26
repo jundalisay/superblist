@@ -2,7 +2,9 @@
 title: "Socrates and Hippocrates Venture to Meet Protagoras"
 heading: "Part 1"
 weight: 2
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/prot.jpg"
 description: "We bring with us a foreigner from Elea, who is a disciple of Parmenides and Zeno, and a true philosopher"
 icon: "/icons/socrates.png"

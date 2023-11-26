@@ -3,10 +3,12 @@ heading: Chapter 1
 title: "Taxes on Possessions"
 # date: 2015-09-10
 weight: 6
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
-description: "In all barbarous countries, lands are appropriated to the purposes of sovereignty. These therefore have little occasion for taxes and customs duties"
+description: "In all barbarous countries, lands are appropriated to the purposes of sovereignty"
 ---
 
 
@@ -56,8 +58,10 @@ There are 3 kinds of possessions:
 It is easy to levy a tax on land, because it is evident what quantity everyone possesses. But it is very difficult to lay a tax on stock or money without very arbitrary proceedings. It is a hardship upon a man in trade to oblige him to show his books, which is the only way in which we can know how much he is worth. It is a breach of liberty.
 
 It can create very bad consequences by ruining his credit. The circumstances of people in trade are sometimes far worse than at others.
+
 But if because this difficulty you were to tax land, and neither tax money nor stock, you would do a very great injustice.
 But though it be a difficult thing to tax money or stock without being oppressive, yet this method is used in several countries.
+
 In France, for example, in order to ascertain the circumstances of the subject, every bill is assigned, and all business transacted in presence of a public notary, and entered into his books, so that land, stock, and money are there all taxed in the same manner.
 
 Of these three only land is taxed in England, because to tax the other two has some appearance of despotism, and would greatly enrage a free people.
@@ -76,9 +80,11 @@ The supervisors have over them collectors, who are under the commissioners, who 
 Another advantage of a land tax is, that it does not tend to raise the price of commodities, as it is not paid in proportion to the corn and cattle, but in proportion to the rent.
 
 If the tenant pay the tax, he pays just so much less rent. Excise raises the price of commodities, and makes fewer people able to carry on business.
+
 If a man purchase £1000 worth of tobacco, he has 100 pounds of tax to pay.
 He therefore cannot deal to such an extent as he would otherwise do.
 Thus, as it requires greater stock to carry on trade, the dealers must be fewer, and the rich have, as it were, a monopoly against the poor.
+
 It was observed before that in England, from a kind of delicacy with regard to examining into the circumstances of particular persons, which is apparently an infringement upon liberty, no tax is laid upon stock or money, but all upon consumptions.
 Whatever advantages this method may have, there is evidently in it an inequality.
 

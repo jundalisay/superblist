@@ -5,7 +5,9 @@ weight: 49
 description: "THESE things are but toys, to come amongst such serious observations. But yet, since princes will have such things, it is better they should be graced with elegancy, than daubed with cost"
 image: "/covers/essaysbacon.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

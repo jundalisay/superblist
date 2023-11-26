@@ -2,13 +2,13 @@
 heading: Chapter 3
 title: "How Catholicism Changed the Rules of War"
 weight: 14
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
-description: "The Holy War was then undertaken by most of the European princes. It made them turn their arms against people of a different religion. They thought those people deserved to be treated most cruelly"
+description: "The Holy War was then undertaken by most of the European princes"
 ---
-
-
 
 
 **This superior degree of humanity in war was introduced during the time of Popery.**

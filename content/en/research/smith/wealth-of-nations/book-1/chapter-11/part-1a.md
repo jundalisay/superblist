@@ -2,7 +2,9 @@
 title: "Food: The raw produce which always affords Rent"
 heading: "Part 1a"
 weight: 4
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Food is always in demand because men, like animals, naturally multiply in proportion to their subsistence"
 icon: "/avatars/smith.png"

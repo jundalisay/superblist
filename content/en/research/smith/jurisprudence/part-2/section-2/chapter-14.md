@@ -5,7 +5,9 @@ description: "It is commonly supposed that the premium of interest depends on th
 # date: 2015-09-17
 image: "/covers/lectures.jpg"
 weight: 32
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 ---
 
 <!-- 

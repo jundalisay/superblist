@@ -2,7 +2,9 @@
 heading: "Part 6"
 title: "Who is to be the judge of things?"
 weight: 10
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/meta.jpg"
 description: "Those who seek merely compulsion in argument seek what is impossible"
 icon: "/icons/aris.png"

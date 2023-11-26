@@ -1,11 +1,13 @@
 ---
-title: "Sedentary culture in cities comes from the dynasties"
+title: "Sedentary Culture in Cities Comes From the Dynasties"
 description: "The accumulation of estates and farms in cities, their uses and yields"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 17"
 weight: 28
-contributors: ['Ibn Khaldun']
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 

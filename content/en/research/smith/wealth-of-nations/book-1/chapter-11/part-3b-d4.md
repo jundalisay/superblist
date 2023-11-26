@@ -2,9 +2,11 @@
 title: "Digression Conclusion"
 heading: "Part 3b of Digression 4"
 weight: 40
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
-description: "Most of the writers who collected the money prices in ancient times, considered the low money price of wheat and other goods as a proof of the scarcity of those metals"
+description: "Most of the ancient writers considered the low money price of wheat and other goods as a proof of the scarcity of those metals"
 icon: "/avatars/smith.png"
 ---
 

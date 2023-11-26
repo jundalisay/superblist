@@ -1,7 +1,9 @@
 ---
 title: "Being and Unity"
 heading: "Part 16"
-author: "Aristotle"
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/meta.jpg"
 description: "Even of the things that are thought to be substances, most are only potencies"
 icon: "/icons/aris.png"

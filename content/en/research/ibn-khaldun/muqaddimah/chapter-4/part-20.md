@@ -1,11 +1,13 @@
 ---
 title: "Certain cities have crafts that others lack"
-description: "This is because the activities of the citizens necessitate each other, since mutual co-operation is innate in civilization. The necessary activities are restricted to certain inhabitants of the city"
+description: "This is because the activities of the citizens necessitate each other, since mutual co-operation is innate in civilization"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 20"
 weight: 34
-contributors: ['Ibn Khaldun']
+writer:
+  name: Ibn Khaldun
+  url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 

@@ -3,7 +3,9 @@ heading: "Chapter 2a"
 title: "Money as Part of the General Stock of Society"
 linkTitle: "Chapter 2a"
 weight: 10
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Money has wholesale and retail"
 icon: "/avatars/smith.png"

@@ -4,7 +4,9 @@ weight: 24
 description: "The beneficence of learning is not so confined to give fortune only to states and commonwealths, as it doth not likewise give fortune to particular persons"
 image: "/covers/learning.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

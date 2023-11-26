@@ -4,7 +4,9 @@ title: "The Pythagorean Numbers"
 weight: 6
 image: "/covers/meta.jpg"
 description: "The Pythagoreans saw many attributes of numbers belonging to sensible bodies. They supposed real things to be numbers themselves"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

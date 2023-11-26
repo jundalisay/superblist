@@ -3,7 +3,9 @@ heading: Chapter 9
 title: "The English Parliament"
 # date: 2015-09-16
 weight: 20
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Henry 3rd enacted that the smaller barons, who could not afford to attend in parliament, should send a representative"

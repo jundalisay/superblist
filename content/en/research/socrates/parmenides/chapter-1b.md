@@ -2,7 +2,9 @@
 title: "Parmenides' Reply to Socrates"
 heading: "Chapter 1b"
 weight: 3
-contributors: ['Plato']
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/parm.png"
 description: "While Socrates was speaking, Pythodorus thought that Parmenides and Zeno were not pleased at the successive steps of the argument"
 icon: "/icons/socrates.png"

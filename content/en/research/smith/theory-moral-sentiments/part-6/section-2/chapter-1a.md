@@ -3,7 +3,9 @@ title: "The Order How Individuals are Recommended by Nature to our care"
 heading: "Chapter 2c"
 description: "Nature first recommends the body's preservation and healthful state to every individual's care"
 weight: 36
-contributors: ['Adam Smith']
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/tms.jpg"
 icon: /avatars/smith.png
 ---

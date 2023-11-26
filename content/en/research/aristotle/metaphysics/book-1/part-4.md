@@ -5,7 +5,9 @@ weight: 8
 image: "/covers/meta.jpg"
 description: "Aristotle explains the basic ideas of Hesiod and Parmenides"
 icon: "/icons/aris.png"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle
+  url: https://en.wikipedia.org/wiki/Aristotle
 ---
 
 

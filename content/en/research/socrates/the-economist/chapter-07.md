@@ -2,7 +2,9 @@
 title: "Ischomachus' Trains His Wife"
 heading: "Chapter 7"
 weight: 22
-contributors: ['Xenophon']
+writer:
+  name: Xenophon
+  url: https://en.wikipedia.org/wiki/Xenophon
 image: "/covers/economist.jpg"
 description: "I do not spend my days indoors because my wife is capable of managing our domestic affairs without my aid."
 icons: "/icons/socrates.png"

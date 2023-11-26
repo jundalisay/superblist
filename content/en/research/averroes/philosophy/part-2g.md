@@ -1,7 +1,9 @@
 ---
 heading: "Part 2g"
 title: "The Actions Of God"
-author: Averroes
+writer:
+  name: Averroes
+  url: https://en.wikipedia.org/wiki/Averroes
 description: ""
 weight: 24
 image: "/covers/theo.jpg"

@@ -4,7 +4,9 @@ title: "Number and Unit"
 weight: 12
 image: "/covers/meta.jpg"
 description: "What is the differentia of a number and of a unit if it has a differentia?"
-contributors: ['Aristotle']
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
 icon: "/icons/aris.png"
 ---
 

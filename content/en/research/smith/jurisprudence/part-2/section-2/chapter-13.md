@@ -5,8 +5,10 @@ heading: "Chapter 13"
 # date: 2021-08-01
 weight: 30
 image: "/covers/lectures.jpg"
-description: "The Mississippi Company seemed to start in a very flourishing condition. Shares were bought at a very considerable rate, so he opened a subscription to it at 500 livres"
-contributors: ['Adam Smith']
+description: "The Mississippi Company seemed to start in a very flourishing condition. Shares were bought at a very considerable rate"
+writer:
+  name: Adam Smith
+  url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: /avatars/smith.png
 ---
 

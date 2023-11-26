@@ -5,7 +5,9 @@ weight: 4
 description: "Learning should be delivered from the discredits and disgraces which it has received from disguised ignorance"
 image: "/covers/learning.png"
 icon: /icons/bacon.png
-author: Francis Bacon
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

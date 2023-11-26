@@ -9,6 +9,9 @@ image: /graphics/physics/feynman.jpg
 description: "Transformative Bands explains the Principles for Movement in the Transformative Layer"
 icon: /icons/spmat.png
 weight: 12
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 
