@@ -21,12 +21,11 @@ In such a case of natural justice, we would not need any positive laws. There wo
 
 <!--  or iniquity? Why abridge our native freedom, when, in every instance, the utmost exertion of it is found innocent and beneficial? It is evident, that, if government were totally useless, it never could have place, and that the sole foundation of the duty of allegiance is the ADVANTAGE, which it procures to society, by preserving peace and order among mankind. -->
 
-When a number of political societies are erected, and maintain a great intercourse together, a new set of rules are immediately discovered to be USEFUL in that particular situation; and accordingly take place under the title of Laws of Nations. 
+When a number of political societies are erected, and maintain a great intercourse together, a new set of rules are immediately discovered to be USEFUL. Accordingly, these become called as the Laws of Nations. 
 
-Of this kind are= 
+Of this kind are: 
 - the sacredness of the person of ambassadors, abstaining from poisoned arms, quarter in war, with others of that kind, which are plainly calculated for the ADVANTAGE of states and kingdoms in their intercourse with each other.
-
-The rules of justice, such as prevail among individuals, are not entirely suspended among political societies. 
+- the rules of justice, such as prevail among individuals, are not entirely suspended among political societies. 
 
 All princes pretend a regard to the rights of other princes; and some, no doubt, without hypocrisy. Alliances and treaties are every day made between independent states, which would only be so much waste of parchment, if they were not found by experience to have SOME influence and authority. 
 

@@ -14,57 +14,80 @@ description: "Western Music was discovered by Pythagoras"
 
 Music was discovered by Pythagoras. Its principles are below.
 
-Take two brazen chords, such as are used in harps. The chords made from sheep intestines are false or obnoxious to the change of the air.
+Take two brazen chords, such as those used in harps. The chords made from sheep intestines are false or obnoxious to the change of the air.
 
+```
 A———————B
 C———————D
     |
     E
+```
+
 
 These chords should be perfectly equal and equally stretched, so as to be in unison. There may be only one sound, though there are two strings. 
 
-They should be placed on some oblong and polished rule. The ancients called a harmonic rule, or a monochord, by which instrument all consonances and dissonances, and likewise musical intervals, were tried. 
+They should be placed on some oblong and polished rule. 
 
-Bisect one of these chords in E. The point under E is vulgarly called the tactus. But it was called by the ancients as a hemisphere from its shape. 
+The ancients used a 'harmonic rule', or a monochord, to test all consonances and dissonances of  instruments and musical intervals. 
 
-The tactus presses the chord, making only half of it, as ED, stikable and produce sound. Striking AB and ED at the same time will create the sweetest of all consonances. It is made up of:
-- the sound of the whole chord AB, and
-- the sound of the half ED. 
+Bisect one of these chords in `E`. 
+- The point under `E` is vulgarly called the *tactus*. 
+- But it was called by the ancients as a hemisphere from its shape. 
 
-This consonance the ancients called diapason or "through all [the chords]", because in their musical instruments, the two extreme chords, i. e. the most grave, and the most acute of all the chords, contained this consonance so that, from the gravest chord having made a transition through all the chords to the supreme and most acute of all, they would hear this sweetest consonance. 
+The tactus presses the chord, making only half of it, as `ED`, strikable and produce sound.
 
-It was in a duple ratio of the proportion of one sound to the other. For the sound of the chord AB is doubly greater or more grave than the sound of the half ED. For as sounding bodies are to each other, so are their sounds. But the chord AB is the double of ED. 
+Striking `AB` and `ED` at the same time will create the sweetest of all consonances. It is made up of:
+- the sound of the whole chord `AB`, and
+- the sound of the half `ED`. 
 
-Chord AB is now commonly called the octave. This is because from the first sound, and that the gravest, which is called ut, as far as to that sound which corresponds to it in the consonance diapason, there are these eight sounds, ut, re, mi, fa, sol, re, mi, fa. 
+The ancients called this consonance diapason or "through all the chords". This is because in their musical instruments, the two extreme chords, i.e. the most grave, and the most acute, contained this consonance.
 
-Of these the first ut, and the last fa, which is the eighth, produce the consonance diapason, or the double, or the octave*.
+They would hear this sweetest consonance from the gravest chord having transitioned through all the chords to the supreme and most acute of all, 
+
+It was in a duple ratio of the proportion of one sound to the other. 
+
+The sound of the chord `AB` is doubly greater or more grave than the sound of the half `ED`.  For as sounding bodies are to each other, so are their sounds. 
+
+But the chord `AB` is the double of `ED`. 
+
+Chord `AB` is now commonly called the *octave*. This is because from the first sound and the gravest sound, both called *ut*, there are 8 sounds, ut, re, mi, fa, sol, re, mi, fa. 
+
+These 8 corresponds to ut in the consonance diapason.
+
+Of these the first ut, and the last fa (the eighth), produce the diapason consonance or the double, or the octave*.
 
 
 > *Superphysics note: 7 tacti lead to 8 tones. In Chinese philosophy, four tacti lead to five tones. 
 
 
-“Again, let the same chord CD be divided into three equal parts in the points F, G.
+Let the same chord `CD` be divided into 3 equal parts in the points `F, G`.
 
+
+```
 A———————————B
 C———————————D
    |    |
    F    G
+```
 
-FD will be 2/3 of CD and AB. 
+`FD` will be 2/3 of `CD` and `AB`. 
 
-Place the tactus in F, and strike AB and FD be at the same time. This will produce a very sweet consonance that is not as sweet as the diapason. 
+Place the tactus in `F`, and strike `AB` and `FD` at the same time. This will produce a very sweet consonance that is not as sweet as the diapason. 
 
-The ancients called diapente (i. e. through five chords), because the 1st and the 5th chord produce this consonance. 
+The ancients called it *diapente* (i. e. through five chords), because the 1st and the 5th chord produce this consonance.
 
-But according to proportion, it is called sesquialter because the chord AB is sesquialter to FD. Consequently, the sounds of these chords also are in the same ratio. But sesquialter ratio is when the greater quantity AB contains the less FD once, and the half of it besides. It is commonly called the fifth, because it is composed from the first sound ut, and the fifth, sol.
+But according to proportion, it is called sesquialter because the chord `AB` is sesquialter to FD. Consequently, the sounds of these chords also are in the same ratio.
+
+But sesquialter ratio is when the greater quantity AB contains the less FD once, and the half of it besides. It is commonly called the fifth, because it is composed from the first sound ut, and the fifth, sol.
 
 Again, let the same chord be cut into four equal parts in the points H, E, I, so that the chord HD, may be three-fourths of the whole CD.
 
+```
 A——————————————————————————B
 C——————————————————————————D
 |   |  | | | | |   | |
 K   L  H F M N E   G I
-
+```
  
 The tactus, therefore, being placed in H, let AB and HD be struck at one and the same time, and a consonance will be heard, yet more imperfect than the preceding two. 
 
@@ -72,9 +95,9 @@ This was called by the ancients diatessaron or "through 4 sounds".
 
 With reference, however, to the ratio of the chords and sounds, it is called sesquitertian, because the greater AB contains the less once, and a third part of it besides. But it is now commonly called a fourth, because it is found between the first sound ut, and the fourth fa. 
 
-If now the point F be added in the preceding figure, and at one and the same time two chords HD and FD are compared in arithmetical ratios, we shall find that the greater HD will have to the less FD a sesquioctave[105] ratio, and the sound of the greater HD to the less FD will have the same ratio, i. e. in modern terms, that between fa and sol there is a sesquioctave ratio. 
+If now the point F be added in the preceding figure, and at one and the same time two chords HD and FD are compared in arithmetical ratios, we shall find that the greater HD will have to the less FD a sesquioctave ratio, and the sound of the greater HD to the less FD will have the same ratio, i. e. in modern terms, that between fa and sol there is a sesquioctave ratio. 
 
-But if these two sounds are heard together, they will be discordant to the ear. Again, the distance between these sounds fa, sol, or between the chords HD and FD, or between the two harmonic intervals HD and FD, the ratio of which was sesquioctave, was called by the ancients a tone. 
+But if these 2 sounds are heard together, they will be discordant to the ear. Again, the distance between these sounds fa, sol, or between the chords HD and FD, or between the two harmonic intervals `HD` and `FD`, the ratio of which was sesquioctave, was called by the ancients a tone. 
 
 Afterwards they divided the whole of `CD` into 9 equal parts. The first of which is divided in `K`, so that the whole `CD` may have to the remainder `KD`, which contains 8 of those parts, a sesquioctave ratio. 
 
@@ -165,7 +188,7 @@ Finally, those ancient Greeks differently denominated these sounds, ut, re, etc.
 For the first, i. e. the gravest 328 sound or chord, which is now called ut, they, denominated hypate, and the others in the following order:
 
 Name | ? | ?
-+++ | +++ | +++ 
+--- | --- | --- 
 Ut | Hypate | i. e. 	Principalis
 Re | Parhypate | Postprincipalis
 Mi | Lychanos | Index
