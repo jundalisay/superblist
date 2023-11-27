@@ -9,7 +9,7 @@ description: "In Cartesian Physics, there are 3 kinds of refraction of starlight
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 10
+weight: 18
 icon: /icons/spmat.png
 ---
 

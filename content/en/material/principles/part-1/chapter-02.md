@@ -7,6 +7,6 @@ description: "The Upper and Lower Aethers"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 6
+weight: 8
 icon: /icons/spmat.png
 ---

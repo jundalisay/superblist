@@ -3,7 +3,7 @@ heading: "Chapter 4"
 title: "Spatial Relativity and Gravitational Relativity"
 # date: 2020-01-31
 date: 2021-12-30
-weight: 12
+weight: 20
 image: /graphics/gravrelm.png
 description: "Spatial Relativity and Gravitational Relativity deals with the movement of quanta of spacetime (qosts)"
 icon: /icons/spmat.png

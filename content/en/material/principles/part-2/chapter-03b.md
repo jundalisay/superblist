@@ -7,11 +7,17 @@ description: "Descartes wrote about cosmology based on the aether-first paradigm
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 11
+weight: 18
 icon: /icons/spmat.png
 ---
 
- 
+
+
+{{< q a="Adam-Smith" c="The History of Astronomy by Adam Smith Simplified" >}}
+[According to Descartes]..the Sun was the fiery center of a circular stream of ether, which flowed continually round her.
+{{< /q >}}
+
+
 
 In the 1630's, Descartes wrote about cosmology based on the aether-first paradigm which is opposite of Newton's matter-first paradigm. 
 

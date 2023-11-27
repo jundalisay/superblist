@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2"
+heading: "Chapter 4b"
 title: "How Energy and the 2 Forces Manifest in the 5 Layers"
 date: 2023-08-01
 image: "/photos/physics/star.jpg"
@@ -7,7 +7,7 @@ description: "The common conclusion of the ancient Greeks, Hindus, and Chinese"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 8
+weight: 15
 icon: /icons/pantry.png
 ---
 

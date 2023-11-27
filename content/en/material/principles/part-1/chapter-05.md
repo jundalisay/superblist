@@ -1,9 +1,9 @@
 ---
 heading: "Chapter 5"
-title: "How the Harmonic Ratios Create Movement and Gravity"
-date: 2020-11-11
-image: /graphics/physics/doremi.png
-description: "Harmonic Ratios Create Movement and Attraction or Repulsion by their harmony or discord with other sounds"
+title: "How Kepler's Harmonic Ratios Create Movement"
+date: 2023-11-10
+image: "/graphics/physics/doremi.jpg"
+description: "Kepler's Harmonic Ratios came from the musical notes of Pythagoras. It is also present in Hindu and Taoist science"
 icon: /spmat.png
 writer:
   name: Juan
@@ -12,7 +12,16 @@ weight: 14
 ---
 
 
-Pythagoras went to Egypt to learn Egyptian Science and Cosmology. He came back with the scale `do re mi fa sol la ti`.
+In the previous part, we explained the Eagle equation that connected all movements as ratios between gravitational signatures. We call operation of these ratios as the Kepler Tensor.  
+
+These ratios created attraction, repulsion, or stasis or stability. 
+
+The harmonic ratios of Kepler came from the musical notes invented by Pythagoras.
+
+
+## The Origin of the Musical Notes
+
+In 535 BC, Pythagoras went to Egypt to learn Egyptian Science and Cosmology. He came back with the scale `do re mi fa sol la ti`.
 
 Note | Representation
 --- | ---
@@ -25,7 +34,8 @@ La | Galaxies (Latin 'Lac' or Milky [way]). This has the 4th Element as Air or S
 Ti | The total perception (Latin 'Ti' or you). This has the 5th Element as Aether.
 
 
-![Pythagorean Scale](/graphics/physics/doremi.png)
+{{< img src="/graphics/physics/doremi.jpg" alt="Universal sounds" >}}
+
 
 
 Johannes Kepler revived the Pythagorean system to explain the gravitation between planets and the sun as Harmonic Ratios. 
@@ -75,3 +85,11 @@ Where `...` represents the factors that we are still trying to discover.
 This is the foundation of anti-gravity as done by the ancient Egyptians.
 
 
+
+Kepler's system was very complicated, because being German like Hegel and Kant, he over-explained it as to be totally confusing.
+
+Newton solved it with a dumbed-down system of F = ma. It removes the factors and makes it understandable to all. 
+
+But by doing so, it also removed the possibility of magenetic and aethereal movement.
+
+We aim to simplify Kepler's system to make it understandable while retaining its potential for aethereal movement, as well as more improved magnetic ones.

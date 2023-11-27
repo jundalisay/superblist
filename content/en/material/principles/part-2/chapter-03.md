@@ -8,7 +8,7 @@ description: "The Quantum of Spacetime or Qost is the smallest unit of spacetime
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 10
+weight: 16
 icon: /icons/spmat.png
 aliases:
   /material/principles/qost

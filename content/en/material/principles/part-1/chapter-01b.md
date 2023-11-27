@@ -8,7 +8,7 @@ description: "The aether drag is a fallacy created by post-Descartes physicists,
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 9
+weight: 5
 icon: /icons/spmat.png
 ---
 

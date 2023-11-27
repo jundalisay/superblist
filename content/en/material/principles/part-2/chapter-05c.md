@@ -2,7 +2,7 @@
 heading: "Chapter 5c"
 title: "Quasars as Galactic Reverse Vortices"
 date: 2023-11-14
-weight: 20
+weight: 30
 image: /graphics/physics/quasar.jpg
 description: "The ratio of galaxies and quasars should be roughly similar. It means that some bright galaxies should be reclassified as quasars"
 icon: /icons/spmat.png

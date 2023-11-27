@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1b"
+heading: "Chapter 2"
 title: "The Upper and Lower Sublayers"
 # Theoretical Organization of the 5 Layers
 date: 2023-11-02
@@ -8,7 +8,7 @@ image: /graphics/super/layers.jpg
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 5
+weight: 6
 icon: /icons/pantry.png
 ---
 

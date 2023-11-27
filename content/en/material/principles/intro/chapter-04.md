@@ -5,7 +5,7 @@ linkTitle: "3 Rules"
 date: 2022-01-03
 image: /covers/rule3.jpg
 description: "Rene Descartes gave 3 Rules of Movement in The World"
-weight: 12
+weight: 14
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

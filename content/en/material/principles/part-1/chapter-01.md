@@ -7,7 +7,7 @@ description: "The aethereal layer is the higgs field in Physics and is the highe
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 8
+weight: 4
 icon: /icons/spmat.png
 toc: false
 ---
@@ -36,3 +36,7 @@ In terms of creation, this layer is the first layer that precedes physical manif
 Name | Traditional Name | Force | Particle | Quantum
 --- | --- | --- | --- | --- 
 Athereal | Aether |  |  | Quantum of aether (Qoa)
+
+
+
+> We write aether with an "a" to differentiate it from the disproven* *ether* of science. This is similar to writing dialectics as "Socratic Dialectics" to set it apart from the corrupted dialetics of Marx. Einstein claims that the Michelson and Morley experiment disproved the ether. In reality, it merely proved that the aether does not reside in the spacetime layer, but in its own layer as the aethereal layer.

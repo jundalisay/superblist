@@ -1,14 +1,13 @@
 ---
 title: "The Radiant Layer of Superphysics"
 heading: Chapter 1
-# heading: Electromagnetism in Physics, Spreading through space
 date: 2020-01-29
 image: /photos/physics/star.jpg
 description: "The radiant layer of Superphysics is equivalent to the electromagentic field in Physics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 10
+weight: 4
 icon: /icons/spmat.png
 toc: false
 ---

@@ -8,9 +8,10 @@ linkTitle: "Kepler Tensor"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 18
+weight: 22
 icon: /icons/spmat.png
 toc: false
+draft: true
 ---
 
 

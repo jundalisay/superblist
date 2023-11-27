@@ -1,57 +1,34 @@
 ---
 heading: "Chapter 1b"
-title: "Proper & Coordinate Time Versus Physical & Metaphysical Time"
-date: 2023-03-10
+title: "Physical Space and Metaphysical Space"
+date: 2023-11-27
 weight: 4
 image: /photos/objects/clock.jpg
-description: "Proper Time passes faster on a mountain because it covers more space for the same amount of Coordinate time, so Proper time adjusts accordingly"
+description: "Physical Space is in the Physical Domain. Metaphysical Space is in the Metaphysical Domain"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
-draft: true
 ---
 
 
+We define:
+- "space" as the gap between the perceiver and existence.
+- "distance" as the gap between two perceived identities, as objects, places, events, etc. 
 
-Einstein's Relativity introduced the concept of Proper and Coordinate Time which we translate to Physical (objective) and Metaphysical (subjective) Time.  
+Superphysics divides reality into the Physical and Metaphysical Domains. 
 
-{{< img src="/graphics/physics/spacetime.png" alt="The Spacetime of Superphysics" >}}
+Accordingly, the space in the Physical Domain is called Physical Space. The one in the Metaphysical  Domain is Metaphysical Space. 
+- Physical space is detected by the physical eyes and touch. 
+- Metaphysical space is detected by thought and intuition (a 6th sense feeling).
 
+For example, a kid might be obsessed with playing a certain video game the whole day, and only thinks about playing it. He sacrifices his studies, food, and sleep to play. In that case, we say that:
+- the idea of the video game occupies most of the space in his abstract mind. 
+- there is zero metaphysical distance between his consciousness and the video game.
+- there is a greater distance between him and his studies and food
 
-Einstein Relativity | Superphysics
---- | ---
-Proper Time | Physical Time
-Coordinate Time | Metaphysical Time
+A man's girfriend might be on the other side of the world, creating a maximum amount of physical 'Earth-space', as distance, between him and her. But she always occupies his mind, so they video call or chat all the time. In that case:
+- she, as an idea, occupies the maximum metaphysical space in his mind
+- there is zero metaphysical distance between him and her. 
 
-
-Relativity says that Proper Time passes faster on a mountain than at sea level because 
-
-
-
-In Cartesian Physics, gravity is a force from the gravitational band between masses, stars, or galaxies.
-
-The water spins because the energy is transferred to it by the bucket. There is a dip in the center because that is the center of gravity of the bucket, which serves as the anchor for the gravitational band between the water and the bucket and the Earth. 
-
-In outer space, the bucket will be a torus and the water will form a donut shape since there is no band with the Earth. 
-
-
- because it covers more space for the same amount of Coordinate time, so Proper time adjusts accordingly. 
-
-Let's say 2 mountain proper milliseconds pass for every 1 sea proper millisecond. This is to compensate for the 1 coordinate millisecond taken by the perspective of guy at sealevel who really bases both measurements from the center of the Earth. Proof is that the Hafele–Keating experiment showed difference between East and West travel.
-
-If Proper Time were measured based on the Sun, then their Proper time would be the same: 12 noon sharp.
-
-Einstein's Relativity only accounts for the gravity between matter and matter, and the gravity between light and stars/galaxies. It does not account for the gravity between galaxies and stars (dark matter), galaxies and galaxies (dark energy).
-
-Cartesian Physics does.
-
-In Cartesian Physics, gravity is a force from the gravitational band between masses, stars, or galaxies.
-
-The water spins because the energy is transferred to it by the bucket. There is a dip in the center because that is the center of gravity of the bucket, which serves as the anchor for the gravitational band between the water and the bucket and the Earth. 
-
-In outer space, the bucket will be a torus and the water will form a donut shape since there is no band with the Earth. 
-
-Proper Time passes faster on a mountain because it covers more space for the same amount of Coordinate time, so Proper time adjusts accordingly. Let's say 2 mountain proper milliseconds pass for every 1 sea proper millisecond. 
-
-This is to compensate for the 1 coordinate millisecond taken by the perspective of guy at sealevel who really both measurements from the center of the Earth. If they were measured based on the Sun, then they would have the same proper time.
+Material Superhysics focuses on the Physical aspects of the universe and so we will focus on Physical space. Bio Superphysics will focus on metaphysical or mental space for use in solving mental problems.

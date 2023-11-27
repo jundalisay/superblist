@@ -7,7 +7,7 @@ description: "Bohr applies the aether to the Zeeman effect wherein light is affe
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 8
+weight: 18
 icon: /icons/spmat.png
 toc: false
 ---

@@ -105,7 +105,7 @@ We then unify all the understandings of the Romans, Greeks, Hindus, and Chinese 
 
 Name | Greek-Hindu-Chinese | Physics Force | Superphysics Force | Force Carrier | Pythagorean Note
 --- | --- | --- | --- | --- | --- | --- | --- | --- 
-Metaphysical | Metaphysics | Pseudo-science | Yang Yin | Soul | Octave
+Probability | Metaphysical | Pseudo-science | Yang Yin | Soul | Octave
 Aethereal | Aether, Akasha, 水 (still water) | Pseudo-science | Creative force | Thought (effective qoa or idea) | Ti (You) 
 Spatial | Air, Vayu, 木 (moving wood) | Gravity | Gravity | Schwarzchild Radius (qost or graviton) |  La (Milky way)
 Radiant | Fire, Tejas, 火 (expanding fire) | Electromagnetism | Male-Female force | Photon (qol) | Sol (Sun)
