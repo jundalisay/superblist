@@ -7,7 +7,7 @@ description: "The common conclusion of the ancient Greeks, Hindus, and Chinese"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 5
+weight: 8
 icon: /icons/pantry.png
 ---
 

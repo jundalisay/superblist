@@ -1,77 +1,52 @@
 ---
-heading: "Chapter 4"
-title: "How the Harmonic Ratios Create Movement and Gravity"
-date: 2020-11-11
-image: /graphics/physics/doremi.png
-description: "Harmonic Ratios Create Movement and Attraction or Repulsion by their harmony or discord with other sounds"
+heading: "Chapter 3"
+title: "Aethereal Bands -- Action at a Distance"
+date: 2020-01-31
+image: /graphics/qoaprices.png
+description: "Aethereal Bands explain the Principles for Movement in the Aethereal Layer which is above the Spatial Layer"
 icon: /spmat.png
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 14
+weight: 12
 ---
 
 
-Pythagoras went to Egypt to learn Egyptian Science and Cosmology. He came back with the scale `do re mi fa sol la ti`.
 
-Note | Representation
---- | ---
-Do | Gamma or Gaia or Earth-Element which is the 1st Element now called the Strong Force
-Re | Things (Latin 'Re')
-Mi | Moons (Greek Minis)
-Fa | Planets (Egytian 'bearer'). This has the 2nd Element as Water or Weak Force.
-Sol | Stars (Greek 'Sun'). This has the 3rd Element as Fire or Electromagnetism.
-La | Galaxies (Latin 'Lac' or Milky [way]). This has the 4th Element as Air or Spacetime.
-Ti | The total perception (Latin 'Ti' or you). This has the 5th Element as Aether.
+Aethereal Bands are made up of the principles that dictate aethereal movement. It is the most important of all the relativities since it controls or affects all the layers underneath. 
+
+It is divided into 2 planes:
+
+1. Physical - this dictates the movement of of physical objects between galaxies, multiverses, and timelines. This is Physical Aethereal Bands 
+2. Metaphysical - this layer dictates the movement of ideas. Aethereal Bands defaults to this.
 
 
-![Pythagorean Scale](/graphics/physics/doremi.png)
+Aethereal Bands are concerned with the movement of ideas* as qoas (quantum of aether), such as how the idea of a horse-carriage moved and evolved into an automobile and then into an electric car, and then into a flying electric car in the future.  
+
+> *From the perspective of the Supreme Entity, all ideas are static and non-moving, and it is the created minds that move from one idea to another. However, our perspective as humans is from the created minds. And so, for the purposes of explanation, we will take the opposite view and see our minds as stationary and ideas as moving.
 
 
-Johannes Kepler revived the Pythagorean system to explain the gravitation between planets and the sun as Harmonic Ratios. 
 
-Instead of using equations such as Force = Mass * Acceleration, Kepler's system uses ratios. For example, a starting ratio for a mass is:
+Like the movement of a ball from point A to point B, the movement of ideas is gradual and analog and not digital*, at least in our part of the multiverse. 
 
-```
-Mass_State1 : Location 1
-```
-
-To move it to location 2:
-
-```
-(Material Contact Force + Mass_State1) : Location 2
-```
-
-Here, matter-ial forces can be added to matter to change their location in space because both are of the Earth-Element (Strong Force). 
-
-In effect, the addition of the Material force on Mass_State1 caused it to change state, so that:
-
-```
-Mass_State2 : Location 2
-```
-
-But this is not true for Electromagnetic Forces (Fire Element). For example, the following does not work:
-
-```
-(Heat + Mass) : Location 2
-```
-
-Instead, to move the mass to location 2 Physics uses `(F = Q(vB))`:
-
-```
-Magnetic Force + (charged object (magnetic speed : field)) : Location 2
-```
-
-Note how this has more factors than matter-induced movement. Those factors have to be manipulated in a more precise way to change the state of the mass or object. 
-
-Therefore, to move the mass with Aethereal Force (5th Element):
-
-```
-Aethereal Effort + (mass (...) : (charged object (..)) : Location 2
-```
-
-Where `...` represents the factors that we are still trying to discover.
-
-This is the foundation of anti-gravity as done by the ancient Egyptians.
+> *There might be multiverses where a species invents a horse-carriage today and then is able to suddenly upgrade it into a Tesla Model 3 the next day.
 
 
+Other examples of movement in the aethereal layer are price movements in the universe of Economics, and the evolution of [society](/social/supersociology/principles/part-1/chapter-01) in the universe of Sociology. We apply aethereal bands to predict price movements and social changes just as Einstein used special (radiant) relativity to predict the movement of starlight during an eclipse.
+
+Aethereal bands were instrumental in letting us predict [the current Covid crisis](/social/supersociology/precrisis-years). The next step is to apply it for other predictions such as:
+- The start of the wars between EU-AUKUS vs Russia-China
+- The end of Covid
+- Specific country outcomes
+- and so on
+
+<!-- SMITH:This is why Newton's system gained the general and complete approbation of mankind and is the greatest discovery that ever was made by man. It discovered an immense chain of the most important and sublime truths, all closely connected together, by one capital fact called gravity which we experience daily.
+ -->
+
+
+{{< img src="/graphics/qoaprices.png" alt="Price trends as Quanta of Aether" cap="Economic Superphysics (as '[Supereconomics](/social/economics)') applies aethereal bands to know the real prices of everything. Social Superphysics applies it to know where society is heading whether into democracy, tyranny, aristocracy, or oligarchy. Adam Smith is our basis for the aethereal relativitiy of prices, just as Kepler (not Einstein) is our basis for spatial bands" >}}
+
+
+## Gravity is the Effect of the Aether
+
+The next post will explain spatial bands (gravitation) through the aethereal vortices of Descartes in the spacetime layer.

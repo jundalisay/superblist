@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 1b"
-title: "Time"
+title: "Proper & Coordinate Time Versus Physical & Metaphysical Time"
 date: 2023-03-10
 weight: 4
 image: /photos/objects/clock.jpg
@@ -9,7 +9,23 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
+draft: true
 ---
+
+
+
+Einstein's Relativity introduced the concept of Proper and Coordinate Time which we translate to Physical (objective) and Metaphysical (subjective) Time.  
+
+{{< img src="/graphics/physics/spacetime.png" alt="The Spacetime of Superphysics" >}}
+
+
+Einstein Relativity | Superphysics
+--- | ---
+Proper Time | Physical Time
+Coordinate Time | Metaphysical Time
+
+
+Relativity says that Proper Time passes faster on a mountain than at sea level because 
 
 
 
@@ -19,7 +35,8 @@ The water spins because the energy is transferred to it by the bucket. There is 
 
 In outer space, the bucket will be a torus and the water will form a donut shape since there is no band with the Earth. 
 
-Proper Time passes faster on a mountain because it covers more space for the same amount of Coordinate time, so Proper time adjusts accordingly. 
+
+ because it covers more space for the same amount of Coordinate time, so Proper time adjusts accordingly. 
 
 Let's say 2 mountain proper milliseconds pass for every 1 sea proper millisecond. This is to compensate for the 1 coordinate millisecond taken by the perspective of guy at sealevel who really bases both measurements from the center of the Earth. Proof is that the Hafele–Keating experiment showed difference between East and West travel.
 

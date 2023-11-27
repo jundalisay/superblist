@@ -8,8 +8,6 @@ description: ""
 ---
 
 
-
-
 Year
 Event(s)
 1775 Birth of Khudirām.
@@ -24,11 +22,8 @@ Event(s)
 1850 Rāmkumar opens his school in Calcutta.
 1852 Sri Rāmakrishna comes to Calcutta.
 1853 Birth of Holy Mother, Sri Sāradā Devi, December 22.
-1855 Dakhineśwar Kāli Temple founded. Hriday at Dakshineśwar.
-Sri Ramakrishna appointed Priest of the Vishnu Temple and then, of
-the Kāli Temple.
-1856 Death of Rāmkumār. Realization of God and first God-intoxicated state
-of Sri Rāmakrishna.
+1855 Dakhineśwar Kāli Temple founded. Hriday at Dakshineśwar. Sri Ramakrishna appointed Priest of the Vishnu Temple and then, of the Kāli Temple.
+1856 Death of Rāmkumār. Realization of God and first God-intoxicated state of Sri Rāmakrishna.
 1857 Sri Rāmakrishna's treatment under Gangā Prasād.
 1858 Haladhāri as Priest at Dakshineswar. Sri Rāmakrishna goes to
 Kāmārpukur.

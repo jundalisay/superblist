@@ -1,18 +1,20 @@
 ---
-heading: "Chapter 0"
+heading: "Chapter 3c"
 title: "How the Harmonic Ratios Create Movement and Gravity"
 date: 2023-11-10
-image: "/graphics/physics/egllayers.png"
+image: "/graphics/physics/doremi.jpg"
 description: "The common conclusion of the ancient Greeks, Hindus, and Chinese"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 4
+weight: 16
 icon: /icons/pantry.png
 ---
 
 
 In 535 BC, Pythagoras went to Egypt to learn Egyptian Science and Cosmology. He came back with the scale `do re mi fa sol la ti`.
+
+{{< img src="/graphics/physics/doremi.jpg" alt="Universal sounds" >}}
 
 `Do` represents gamma or Gaia or Earth-Element which is the 1st Element now called the Strong Force.
 

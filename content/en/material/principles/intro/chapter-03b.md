@@ -7,7 +7,7 @@ description: "We replace Einstein's Relativity with Universal Elastic Relational
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 10
+weight: 14
 icon: /icons/spmat.png
 ---
 

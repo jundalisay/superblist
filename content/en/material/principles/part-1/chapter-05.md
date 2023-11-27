@@ -1,62 +1,77 @@
 ---
-heading: "Chapter 1"
-title: "The Zeeman Effect and Descartes' Aether"
-date: 2023-10-30
-image: /photos/meta/yinyang.jpg
-description: "Bohr applies the aether to the Zeeman effect wherein light is affected by magnetism as to cause perturbations in the light"
+heading: "Chapter 4"
+title: "How the Harmonic Ratios Create Movement and Gravity"
+date: 2020-11-11
+image: /graphics/physics/doremi.png
+description: "Harmonic Ratios Create Movement and Attraction or Repulsion by their harmony or discord with other sounds"
+icon: /spmat.png
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 8
-icon: /icons/spmat.png
-toc: false
+weight: 14
 ---
 
 
+Pythagoras went to Egypt to learn Egyptian Science and Cosmology. He came back with the scale `do re mi fa sol la ti`.
 
-In "The Quantum Theory of Line-Spectra", Niels Bohr explains the mechanics of quantum theory that can work without Einstein's Special Relativity.
+Note | Representation
+--- | ---
+Do | Gamma or Gaia or Earth-Element which is the 1st Element now called the Strong Force
+Re | Things (Latin 'Re')
+Mi | Moons (Greek Minis)
+Fa | Planets (Egytian 'bearer'). This has the 2nd Element as Water or Weak Force.
+Sol | Stars (Greek 'Sun'). This has the 3rd Element as Fire or Electromagnetism.
+La | Galaxies (Latin 'Lac' or Milky [way]). This has the 4th Element as Air or Spacetime.
+Ti | The total perception (Latin 'Ti' or you). This has the 5th Element as Aether.
 
-The problem began when Einstein explained quantum mechanics based on his quack principles of Relativity which is ultimately based on Boltzmann's energy (entropy). 
 
-Bohr offers an alternative theory that is based instead of the aether, citing the aether-electron theory of Larmor and Lorentz. 
+![Pythagorean Scale](/graphics/physics/doremi.png)
 
-He applies this to the Zeeman effect wherein light is affected by magnetism as to cause perturbations in the light. 
 
-Relativity says that the perturbations are caused by the relativity of the speed of electrons and the speed of light. 
+Johannes Kepler revived the Pythagorean system to explain the gravitation between planets and the sun as Harmonic Ratios. 
 
-Bohr, however, says that Relativity is wrong because it does not account for all the effects. Instead, Bohr points to the aether and how it can cause changes to the angular momentum of light via magnetism as to explain the perturbations. 
+Instead of using equations such as Force = Mass * Acceleration, Kepler's system uses ratios. For example, a starting ratio for a mass is:
 
-Instead of the Relativity of speeds and reference frames, Bohr's mechanism is state-change and angular momentum by the aether. 
+```
+Mass_State1 : Location 1
+```
 
-This is exactly the mechanism of Descartes' Physics, wherein state-change and angular momentum or spin makes up his 1st and 3rd rule of movement respectively. 
+To move it to location 2:
 
-In contrast, Newton never regarded spin or angular momentum as a fundamental law of motion, making Newton's Laws perpetually deficient in  explaining all movement in the universe. 
+```
+(Material Contact Force + Mass_State1) : Location 2
+```
 
-Gaps in Newton are then filled up by Einstein's quackery.  
+Here, matter-ial forces can be added to matter to change their location in space because both are of the Earth-Element (Strong Force). 
 
-Under Relativity, a thing can be made to levitate or teleport if a lot of energy is used. 
+In effect, the addition of the Material force on Mass_State1 caused it to change state, so that:
 
-But in Cartesian Physics, only the proper aether configuration is needed. 
+```
+Mass_State2 : Location 2
+```
 
-We define the aether as the material of ideas, feelings, and the mind that has those ideas and feelings. In the West, Pythagoras was the first to systematize the understanding of the aether after importing the knowledge from Egypt. 
+But this is not true for Electromagnetic Forces (Fire Element). For example, the following does not work:
 
-This is why he invented music theory as "do-re-mi-fa-so-la-ti-do", to signify 7 energy states, since music directly manipulates the aether. This matches the 7 colors in the spectrum as R-O-Y-G-B-I-V.
+```
+(Heat + Mass) : Location 2
+```
 
-We experience this when we are sad and get uplifted by happy music. Thus, music can lead to a state-change in the aethereal mind.  
+Instead, to move the mass to location 2 Physics uses `(F = Q(vB))`:
 
-This is why Socrates said that the Pythagoreans often stuck their ears onto things to discover the aether configuration in that thing. But he says that that was the wrong technique to begin with. 
+```
+Magnetic Force + (charged object (magnetic speed : field)) : Location 2
+```
 
-Bohr seems to understand the aether effects on electromagnetism, as quantum mechanics. But he does not seem to discover how to manipulate the aether. 
+Note how this has more factors than matter-induced movement. Those factors have to be manipulated in a more precise way to change the state of the mass or object. 
 
-In fact, only 3 human civilizations have exhibited proof of the knowledge of how to tap the aether: The ancient Egyptians, Hindus, and Chinese. 
+Therefore, to move the mass with Aethereal Force (5th Element):
 
-The Egyptians show this in their pyramid construction. The Hindus and Chinese show this as levitating monks.
+```
+Aethereal Effort + (mass (...) : (charged object (..)) : Location 2
+```
 
-The proper understanding of how to manipulate the aether will lead to spacetime technology. Such a technology can "float" mining equipment to the moon to mine precious metals there. 
+Where `...` represents the factors that we are still trying to discover.
 
-These can then be floated back to earth to create better iPhones, Teslas, computers, etc. more cheaply while bringing and end to the mining on Earth that destroys essential wildlife. 
+This is the foundation of anti-gravity as done by the ancient Egyptians.
 
-It can float plasma and reduce energy requirements in order to realize fusion just like in stars which "float" in outerspace. 
-
-After things are floated via the aether, then humans can safely delete Einstein and Relativity from Physics as a long-running 100+ year scam that began in 1905 and has made science and technology impotent for so long.
 
