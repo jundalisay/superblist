@@ -3,7 +3,8 @@ title: "What is ISAIAH?"
 heading: "Impartial Spectator Automated Intelligence Aggregation Host"
 date: 2015-09-09
 weight: 15
-image: https://sorasystem.sirv.com/AI.jpg
+image: /photos/physics/ai.jpg
+# https://sorasystem.sirv.com/AI.jpg
 description: "The money and moneyless transactions are visualized by artificial intelligence (AI) in order to guide policymakers"
 icon: /icons/pantry.png
 writer:
@@ -14,15 +15,8 @@ aliases:
 ---
 
 
-
 <!-- ISAIAH is the machine learning system for the implementations of Superphysics -->
 
-<!-- linkb: "/articles/superphysics/ai-is-autonomous"
-linkbtext: "AI is autonomous"
-linkf: articles/superphysics/meaning-of-red-herring-ad-hominem-occams-razor"
-linkftext: "What is a Red Herring?"
- -->
- 
 Chapter 4c explained the Eagle as Superphysics equation for everything. 
 
 {{< img src="/graphics/super/egl.png" alt="E = Gl" >}}
@@ -50,9 +44,8 @@ Supereconomics (Economic Superphysics) aims to solve all economic problems by ad
 The points-based valuation represents [the effort theory of value](/social/economics/principles/effort-theory-of-value) which we derived from Adam Smith:
 
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 1, Chapter 5" >}}
 Labour..is the only universal, as well as the only accurate measure of value.. by which we can compare the values of different commodities at all times and at all places.. From century to century, corn is a better measure than silver, because, from century to century, equal quantities of corn will command the same quantity of labour more nearly than equal quantities of silver. From year to year, on the contrary, silver is a better measure than corn, because equal quantities of it will more nearly command the same quantity of labour.
-<cite>The Simple Wealth of Nations, Book 1, Chapter 5</cite>
 {{< /q >}}
 
 

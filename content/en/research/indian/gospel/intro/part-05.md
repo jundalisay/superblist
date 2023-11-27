@@ -76,7 +76,9 @@ But in this case, the marriage remained forever unconsummated. Sri Ramakrishna l
 
 Hardly had he crossed the threshold of the Kāli temple when he found himself again in the whirlwind. 
 
-His madness reappeared tenfold. The same meditation and prayer, the same ecstatic moods, the same burning sensation, the same weeping, the same sleeplessness, the same indifference to the body and the outside world, the same divine delirium. 
+His madness reappeared tenfold.
+
+ <!-- The same meditation and prayer, the same ecstatic moods, the same burning sensation, the same weeping, the same sleeplessness, the same indifference to the body and the outside world, the same divine delirium.  -->
 
 He subjected himself to fresh disciplines in order to eradicate greed and lust, the two great impediments to spiritual progress. 
 
@@ -90,9 +92,11 @@ When he would sit in meditation, birds would perch on his head and peck in his h
 
 Sleep left him altogether. 
 
-Day and night, visions flitted before him. He saw the sannyāsi who had previously killed the "sinner" in him again coming out of his body, threatening him with the trident, and ordering him to concentrate on God. 
+Day and night, visions flitted before him. He saw the sannyāsi who had previously killed the "sinner" in him. He came out of his body, threatening him with the trident, ordering him to concentrate on God. 
 
-Or the same sannyāsi would visit distant places, following a luminous path, and bring him reports of what was happening there. Sri Ramakrishna used to say later that in the case of an advanced devotee the mind itself becomes the guru, living and moving like an embodied being.
+Or the same sannyāsi would visit distant places, following a luminous path, and bring him reports of what was happening there. 
+
+<!-- Sri Ramakrishna used to say later that in the case of an advanced devotee, the mind itself becomes the guru, living and moving like an embodied being. -->
 
 Rāni Rāsmani, the foundress of the temple garden, passed away in 1861. 
 

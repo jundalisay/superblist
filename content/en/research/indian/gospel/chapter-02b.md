@@ -1,7 +1,7 @@
 ---
 title: "Master's visit to Keshab"
 image: "/covers/rama.jpg"
-heading: "Chapter 2"
+heading: "Chapter 2b"
 weight: 9
 description: "Sri Ramakrishna was sitting in the drawing-room of Keshab Chandra Sen's house in Calcutta at 5pm"
 date: 1882-04-02

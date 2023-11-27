@@ -1,5 +1,5 @@
 ---
-title: "The Arrow of Time Fallacy"
+title: "The Arrow of Time Non-Problem"
 date: 2023-05-23
 weight: 300
 image: /photos/objects/clock.jpg
@@ -13,55 +13,51 @@ toc: false
 
 
 
-The Arrow of Time Problem has already been resolved a long time ago by Parmenides, again by Avicenna, and again by Descartes, Hume, and Hegel. 
+The Arrow of Time is a non-problem arising from Time being based on perception of the change in states.
 
-The problem is that science keeps on unsolving it because of the 'factual' nature of science itself. 
+There are 2 changes in states: 
 
+1. Physical
+2. Mental
 
-## Only the Now is Real
+The physical changes in the physical universe are caused by physical energy.
 
-The solution is that only current perceptions are real. 
+The metaphysical changes in the mental universe are caused by mental energy.
 
-{{< q a="Parmenides" >}}
-If the One is absolutely without participation in time, it never had become, or was becoming, or was at any time, or is now become or is becoming, or is, or will become, or will have become, or will be, hereafter
-{{< /q >}}
+Physical state-changes are observed through the medium of light.
 
-
-It means past and future perceptions are equally fake. 
-
-A past memory becomes real after it is recalled by the mind as a current perception. 
-
-- For example, if I remember that I ate bread yesterday, then it becomes real if I can actually recall that memory. If I cannot recall that memory (put the past as a current perception) then that memory is fake. 
-
-Likewise, a future speculation becomes real after it matches current perception.  
-
-- If I predict that an earthquake will happen tomorrow, then it becomes reality if I actually perceive an earthquake on that day as a current perception. If not, then that prediction was fake.  
-
-So if I travel back in time and see my young self, then that young self is real because it is a current perception. But it is not me since I can still perceive myself. Conservation law does not allow 2 entities when 1 will do.
-
-Therefore, my young self is another identity. Killing him has the same effect as me killing any other entity that is not me (non-suicide). So there is no grandfather paradox. 
-
-That paradox only seems to exist because **the mind sees the whole event from a linear point of view of time, assigning reality to past, present, and future.** This makes it assign a single identity to the present me and past me. 
-
-This linear point of view is in turn a necessary consequence of observing phenomena in isolation in a third person perspective. In our 5-layer paradigm, it only arises because aethereal mind of the 5th layer is put under the spacetime layer, which is the 4th layer.  
+{{< img src="/photos/objects/clock.jpg" alt="Clock" >}}
 
 
-## Science ALways Unsolves the Problem
+The problem with physical time began in the late 19th century when the speed of light was formalized.
 
-Such a perspective necessarily abandons the current perception of the identities in the phenomenon and assigns a reality to past and future (i.e it makes predictions from the phenomena -- this comes from the tendency of the mind to connect things).  
+Einstein used this formal speed as his `c`. This then became the measure of physical energy by sight.
+This necessarily formalized physical time as an 'arrow'.
 
-This is exactly what the scientific method does, each time it makes experiments and records data -- giving past data a reality while hoping for a reality for its future predictions. 
+It's an arrow because we **see** that energy always naturally spreads as entropy and never converges i.e. by design the universe spreads energy because that is how existence itself is maintained.
 
-And so science itself unsolves what has been solved. 
+The problem actually begins when scientists think about it. This confounds physical time with mental time.
 
-The Asian sciences of Hinduism, Buddhism, and Taoism avoids this by keeping not attached to the illusions of the past and future. 
+This then leads to the notion of 'emergent time'. This is the exact sign that physical time and mental time have been mixed up by some physicist who has nothing better to do.
 
-Hinduism takes this to the extreme by renouncing them so that it can experience past, present, and future as one unit as mukti or moksha. 
+Mental time in the physical context is explained by quantum mechanics. In quantum mechanics, such as in the quantum eraser experiment, particles **teleport** instead of going back in time.
 
-To avoid unsolving things, we bring back Descartes' physics which always accounts for the illusion and reality, as the mind-body problem, something that Newtonian physics doesn't have. 
+However, physics interprets it as going back in time because energy is always in a space and therefore time is the variable -- the particle 'goes back' into a previous energy state.
 
-Instead of basing time on entropy of space, Descartes' physics bases time on the unity of perceptions. 
+**This problem is easily resolved by not mixing up physical time and mental time.** 
+- Physical time is 'proper time' in Einstein's Relativity
+- Mental time is 'coordinate time' 
 
-Instead of order and disorder, time is based on unity and disunity.  
+The physicist must stop thinking about the arrow of physical time, just as the entangled particle does not really care about its energy states -- it just accepts those states, reacting to them without thinking.
 
-This will allow time to be mastered so that time travel can be done and predictions will be more accurate, as a new breed of time-technologies which are a different class from electromagnetic technologies (TV, radio, internet, smartphones).
+This policy would save a lot of wasted mental effort and funding which should go to better uses like healthcare or environmental protection research.
+
+The blame for this falls squarely on Einstein because he decreed light to be superior. 
+
+Poincare, the original author of Relativity, did not assign supremacy to light, and so his Relativity never mixed up physical time and mental time -- he never bothers about the arrow of physical time. This is proven in his Chapter ['The Measure of Time'](https://en.wikisource.org/wiki/The_Measure_of_Time)
+
+Humans should either obey Einstein (and the materialists) and keep Physics stuck in a rigid box without any new discoveries, or obey Poincare-Lorentz (and the aetherealists) and merge Physics with Metaphysics to free it up and unite Newtonian mechanics with Quantum physics.
+
+If you believe that science should stay stuck and that the planet should heat itself up and cause life to go extinct (since there is no scientific solution), then Einstein logically is a genius. 
+
+But if you believe that science should progress and we can get out of this heated planet by quantum teleportation and faster-than-light travel, then it follows that Einstein is a scammer who trapped humans in an extinction box, achieved faster with nuclear weapons which he himself promoted.

@@ -4,7 +4,7 @@ title: "The Nature of Mind"
 # date: 2020-01-01
 date: 2020-12-10
 weight: 24
-image: /photos/physics/ai.jpg
+image: /graphics/meta/mind.png
 description: "Everything in existence is an idea of the Creator of that existence"
 writer:
   name: Juan
@@ -66,7 +66,6 @@ This is the mind that occupies the physical domain. This is what scientists beli
 
 {{< q a="Benham" >}}
 Recent experiments by scientists have demonstrated that the human being is possessed of a double consciousness or mind. One part operates in our material existence.. The other part operates on the plane of our spiritual existence
-<cite>William Benham</cite>
 {{< /q >}}
 
 

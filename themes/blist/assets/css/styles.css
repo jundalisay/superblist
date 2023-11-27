@@ -181,7 +181,7 @@
 .Umar {background-image: url(/icons/arab1.png) !important;}
 
 
-.g, .Glaucon, .Critobulus, .Tsz-Chang, .Callias, .Demea, .kin, .Tsz-Kin, .Lin-Fang, .Echecrates, .Iamblichus, .Simon-Peter, .M {
+.g, .Glaucon, .Critobulus, .Neighbor, .Tsz-Chang, .Callias, .Demea, .kin, .Tsz-Kin, .Lin-Fang, .Echecrates, .Iamblichus, .Simon-Peter, .M {
   background-image: url(/icons/g01.png);
 }
 
@@ -190,7 +190,7 @@
 .Parmenides, .Ischomachus, .pole, .Polemarchus, .Critias, .Judge, .Man, .Apollodorus {
   background-image: url(/icons/g04.png);}
 
-.Wang-Sun-Ki, .Judas, .Tsz-Lu {background-image: url(/icons/g07.png) !important;}
+.Wang-Sun-Ki, .Judas, .Tsz-Lu, .Gauri {background-image: url(/icons/g07.png) !important;}
 
 .ceph, .Cephalus, .Tsz-Kung, .Zechariah, .Cebes, .Hippias-the-Sage, .Protagoras, .angry, .Boomer, .Duke-Ting, .Father-of-Abraham {
   background-image: url(/icons/g08.png);  
@@ -206,7 +206,7 @@
   background-image: url(/icons/moses.png);
 }
 
-.Mary, .Wife, .Woman, .Oracle {background-image: url(/icons/veil.png);}
+.Mary, .Wife, .Woman, .Oracle, .Saradamani, .Brahmani {background-image: url(/icons/veil.png);}
 
 /* Chinese */
 .tsang, .Tsang-Sin, .Szma-Niu {background-image: url(/avatars/ava4.jpg);}
