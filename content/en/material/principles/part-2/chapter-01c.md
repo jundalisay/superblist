@@ -68,11 +68,18 @@ Material | Atomic bond (Strong force) | Material | Do | Totally Absolute or Inde
 
 ## Fixing Einstein's Spacetime
 
-Current Physics has is stuck because Einstein 
+Current Physics has is stuck because Einstein used light as a measuring rod for all of spacetime. The problem is that light is part of the Radiant Layer which is naturally inferior to the Spactial layer which spacetime is a part of. 
+
+So Einstein used the inferior to judge the superior. The effect of this is that the real nature of the spacetime is not revealed. This prevents and development of spacetime technologies such as:
+- anti-gravity
+- teleportation
+- time travel 
+- speeding up or freezing of photons via the aether
 
 
 
-Time, then, like space, is subjective and not a constant. It is dictated by the aethereal layer, just as the speed of light is dictated by spacetime or the spatial layer.
+
+<!-- Time, then, like space, is subjective and not a constant. It is dictated by the aethereal layer, just as the speed of light is dictated by spacetime or the spatial layer. -->
 
 
 

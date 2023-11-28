@@ -1,62 +1,125 @@
 ---
-heading: "Chapter 6"
-title: "The Zeeman Effect and Descartes' Aether"
-date: 2023-10-30
-image: /photos/meta/yinyang.jpg
-description: "Bohr applies the aether to the Zeeman effect wherein light is affected by magnetism as to cause perturbations in the light"
+heading: "Chapter 1b"
+title: "The Aether Drag"
+date: 2023-02-05
+image: /graphics/physics/michelson.png
+# image: /photos/meta/buddhism.jpg
+description: "The aether drag is a fallacy created by post-Descartes physicists, probably by Fresnel"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 18
+weight: 17
 icon: /icons/spmat.png
-toc: false
 ---
 
 
 
-In "The Quantum Theory of Line-Spectra", Niels Bohr explains the mechanics of quantum theory that can work without Einstein's Special Relativity.
+The biggest blow to the aether principle was the failure of the Michelson-Morley experiment to detect the aether drag.
 
-The problem began when Einstein explained quantum mechanics based on his quack principles of Relativity which is ultimately based on Boltzmann's energy (entropy). 
 
-Bohr offers an alternative theory that is based instead of the aether, citing the aether-electron theory of Larmor and Lorentz. 
+## The Post-Cartesian Corruption of the Aether
 
-He applies this to the Zeeman effect wherein light is affected by magnetism as to cause perturbations in the light. 
+Acccording to 19th century physicists, specifically Maxwell, the aether was the medium on which light traveled.  
 
-Relativity says that the perturbations are caused by the relativity of the speed of electrons and the speed of light. 
+In order to detect this 'luminiferous ether', Michelson and Morley created an 'interferometer' to make 2 light rays move in different directions in order to see whether they travelled in different speeds. A difference would mean that the aether was acting on one ray more than the other. 
 
-Bohr, however, says that Relativity is wrong because it does not account for all the effects. Instead, Bohr points to the aether and how it can cause changes to the angular momentum of light via magnetism as to explain the perturbations. 
+The result showed that both rays travelled at the same speed, and so the ether did not exist. 
 
-Instead of the Relativity of speeds and reference frames, Bohr's mechanism is state-change and angular momentum by the aether. 
+{{< youtube ofLtYnyq-nY >}}
 
-This is exactly the mechanism of Descartes' Physics, wherein state-change and angular momentum or spin makes up his 1st and 3rd rule of movement respectively. 
 
-In contrast, Newton never regarded spin or angular momentum as a fundamental law of motion, making Newton's Laws perpetually deficient in  explaining all movement in the universe. 
+## Lorentz to the Rescue
 
-Gaps in Newton are then filled up by Einstein's quackery.  
+To save the aether theory, Lorentz created the concept of space expanding and contracting. It meant that the aether really did act on the 2 beams of light to make them travel at different speeds. However, the aether also acted on the space where the 2 beams traveled in. This cancelled the difference.   
 
-Under Relativity, a thing can be made to levitate or teleport if a lot of energy is used. 
+{{< q a="lorentz" >}}
+<p>One therefore comes exactly to the influence of motion on the dimensions, which was shown before to be necessary to explain Michelson's experiment.
+<br><br>
+It seems undeniable that changes of the molecular forces and consequently of the body's size are possible.
 
-But in Cartesian Physics, only the proper aether configuration is needed. 
+Michelson's experiment thus loses its verification power for the question at which it was aimed. 
+<br><br>
+If one assumes the theory of Fresnel, then its meaning rather lies in the fact, that we can learn something about the change of dimensions.</p>
+{{< /q >}}
 
-We define the aether as the material of ideas, feelings, and the mind that has those ideas and feelings. In the West, Pythagoras was the first to systematize the understanding of the aether after importing the knowledge from Egypt. 
 
-This is why he invented music theory as "do-re-mi-fa-so-la-ti-do", to signify 7 energy states, since music directly manipulates the aether. This matches the 7 colors in the spectrum as R-O-Y-G-B-I-V.
+## Einstein Destroys the Aether
 
-We experience this when we are sad and get uplifted by happy music. Thus, music can lead to a state-change in the aethereal mind.  
+This malleable space was exploited by the scammer Einstein who added **time** in to the mix in order to create Minkowski 4-dimensional space. He then pegged this new 'spacetime' to the speed of light, called `c`, in order to create Special Relativity, and then General Relativity. 
 
-This is why Socrates said that the Pythagoreans often stuck their ears onto things to discover the aether configuration in that thing. But he says that that was the wrong technique to begin with. 
+The huge problem with this (and is the reason why we demonize Einstein as a scammer and [nuclear-weapons promoter](https://www.businessinsider.com/albert-einstein-wrote-letter-us-roosvelt-atomic-bomb-2019-8)) is that **light is part of the electromagnetic (radiant) layer which is inferior to both the spacetime and aetheral layers**.
 
-Bohr seems to understand the aether effects on electromagnetism, as quantum mechanics. But he does not seem to discover how to manipulate the aether. 
+{{< img src="/graphics/physics/egllayers.png" alt="The 5 layers" cap="By enshrining c, Einstein cut off Physics from the spacetime and aethereal layers. This means that Physics can only know around half of how the physical universe functions. After 100 years of such limitation, this now manifests as [the slow down of scientific discoveries](https://phys.org/news/2023-01-scientific-breakthroughs.html)" >}}
 
-In fact, only 3 human civilizations have exhibited proof of the knowledge of how to tap the aether: The ancient Egyptians, Hindus, and Chinese. 
+In the correct and original Cartesian theory, the aether is really 'aetheral air' which is in a different dimension from light (electromagnetism) or 'aethereal fire'.  
 
-The Egyptians show this in their pyramid construction. The Hindus and Chinese show this as levitating monks.
+Fresnel* seems to have forgotten this division and put the aether in the same dimension as light.   
 
-The proper understanding of how to manipulate the aether will lead to spacetime technology. Such a technology can "float" mining equipment to the moon to mine precious metals there. 
+> *We are still looking into Fresnel's work to verify this. However,  we see that Huygens makes this mistake immediately and so we say generally that the error originated from post-Descartes physicists. 
 
-These can then be floated back to earth to create better iPhones, Teslas, computers, etc. more cheaply while bringing and end to the mining on Earth that destroys essential wildlife. 
 
-It can float plasma and reduce energy requirements in order to realize fusion just like in stars which "float" in outerspace. 
 
-After things are floated via the aether, then humans can safely delete Einstein and Relativity from Physics as a long-running 100+ year scam that began in 1905 and has made science and technology impotent for so long.
+## Solutions to the Michelson-Morley Result: Revealing the True Aether Drag
 
+Lorentz fixed the misunderstanding of Fresnel by creating the concept of a malleable and flexible space. 
+
+We then add the **original Poincare spacetime** into it in order to create the proper spacetime **THAT IS NOT LIMITED** by Einstein's `c`. This frees Physics and consequently Technology from its current shackles. 
+
+This Poincare spacetime is the bridge to the original Cartesian 'aethereal air', which in Superphysics is the aethereal layer.
+
+Thus, we correct Maxwell, Fresnel, Huygens, etc who believed that the aether was the direct medium of light. Instead, we say that the aether is the medium of spacetime and that spacetime is the medium of light.
+
+The aether is the material of ideas, minds, and feelings. 
+- The idea of a planet starts in the aethereal layer and goes down into the material layer through galaxies which are aethereal vortices in Poincare spacetime.
+- After billions of years (the 'time' in spacetime), the idea-planet manifests as real planet in a certain space. 
+
+The **aether drag** therefore is the difference between an original idea and the final or current idea.
+
+Metaphysicians (such as historian-philosophers like David Hume and Ibn Khaldun) use this to test evolution of a society, idea, or species.
+
+> *A nation's history acts like a training dataset to predict what will happen to it, and is the origin of prophecy. We use machine learning to do the same thing -- [predict election results, recessions, war, etc](https://www.superphysics.org/social/cycles/predictions/). 
+
+In the paradigm of Cartesian physics, **Michelson-Morley were really testing the idea-of-the-speed-of-light-in-2-directions through their interferometer**. 
+
+
+{{< img src="/graphics/physics/michelson.png" alt="The aether drag" cap="The Michelson-Morley actually proved the metaphysical aether drag of the original Cartesian aether" >}}
+  
+
+
+
+### Two Ways to Test Aether Drag
+
+According to our 5 Elements model, electromagnetism is inside spacetime and spacetime is inside the aether. This means there are 2 ways to test the aether drag: 
+- by time: Measurements can be done on a thing at distant times at the same place
+- by space: Measurements can be done on the same thing at distant places at the same time
+
+The Michelson-Morley measurement done on earth can be compared with current and very old experiments, also done on earth, in order to reveal the aether drag. 
+
+Another option is to test the speed of light on earth and on another star or galaxy at the same time. This will likewise reveal differences in measurement. The farther the distance, the larger the difference. 
+
+In the case of testing at the same place, the speed of light shows less difference with modern measurements from the 18th century ones. The idea of the speed of light has evolved from 301,000 kilometers per second in 1729 to 299,796 thanks to the Michelson-Morley experiment. 
+
+This reveals:
+- 'High and low level' aether drag
+- The reduction of the drag through time -- this matches the acceleration of the expansion of spacetime as measured by the Hubble and James Web Telescopes 
+
+
+
+## The Correct Understanding of the Aether Unlocks A LOT of New Technlogies
+
+We are continually bashing Einstein and putting up Descartes because there are so many benefits from the discovery of the aether, specifically technologies in physics, as well as solutions to problems in medicine, economics, and politics. 
+
+We actually have tested the aether by making a 1 kilogram mass lighter by action at a distance. Next steps are to make the mass so light as to levitate it off the ground with far less energy expense. 
+
+{{< img src="/graphics/physics/aethertech.png" alt="Aether Tech" cap="The destruction of General Relativity will usher in a new breed of technologies" >}}
+
+
+The ancient Egyptians used the aether to make their pyramid blocks lighter, allowing them to have cheaper infrastructure costs.
+
+{{< img src="/photos/objects/egypt.jpg" alt="Pyramids" cap="The pyramids are proof that aether technology can do without electromagnetic technology just as an electronic computer can do without a steam engine to power it [combustion from classical mechanics]." >}}
+
+Hindu monks use it to levitate to show off the superiority of Vedic principles. 
+
+Taoists use it for health as Chi-gong and Traditional Chinese medicine which are cheaper and more sustainable than Western Medicine. It explains the longevity and huge population of the Chinese people.
+
+All of these cannot be mainstream while Einstein's General Relativity, and [the useless Kantian paradigm](/superphysics/fallacies/kant-apriori-fallacy) that it is based on, is in force. 

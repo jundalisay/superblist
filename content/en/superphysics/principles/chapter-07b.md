@@ -42,7 +42,7 @@ Feelings are powered by 2 Forces:
 
 But what is consciousness?
 
-"Conscious" is Latin for 'with knowing' from `con + scire`. The problem is that knowing is the last phase of the process of experience, as the closed loop menionted in Chapter 4.
+"Conscious" is Latin for 'with knowing' from `con + scire`. The problem is that knowing is the last phase of the process of experience, as the closed loop mentioned in Chapter 4.
 
 
 ## The Perceiver
@@ -84,7 +84,7 @@ This processing turns ideas into thoughts and makes the difference* between 'ide
 
 
 
-## The Perceiver is the State of Perception 
+## The Perceiver is to Perception as Consciousness is to Existence 
 <!-- of Existence -->
 
 While mind can be either active or inactive, the perceiver can only be 'on' or 'off' just as something can exist or not exist. 

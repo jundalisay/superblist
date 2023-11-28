@@ -28,6 +28,7 @@ The 4th force as gravity is not yet fully understood by Modern Physics. To under
 
  <!-- Such a concept is absent in science because science came from the Western civilization which is really just the Roman Empire.  -->
 
+
 ## The Western Limitation
 
 Modern Physics came from Isaac Newton who came up with classical mechanics to explain why 17th-century things move. For example, a falling apple immediately includes 3 of the 5 forces:

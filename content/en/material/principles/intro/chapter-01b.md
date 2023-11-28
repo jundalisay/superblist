@@ -12,7 +12,7 @@ icon: /icons/pantry.png
 ---
 
 
-The Probability Layer is above and covers the aethereal layer. This means it is above existence  and is only theoretical.  
+The Probability Layer is above and covers the aethereal layer. This means it is above existence  and is only theoretical.  We can also call this pre-existence that binds existence.
 
 This layer is static and is driven by the desire of either the Creator or the createe. 
 
