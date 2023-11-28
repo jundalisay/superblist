@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3"
+heading: "Chapter 4"
 title: "Aethereal Bands -- Action at a Distance"
 date: 2020-01-31
 image: /graphics/qoaprices.png

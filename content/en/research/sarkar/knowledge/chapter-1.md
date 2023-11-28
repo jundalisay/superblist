@@ -90,19 +90,32 @@ When the Aryans began to spread out in all directions from their original homela
 
 In ancient Sanskrit, even in Rgvedic Sanskrit, the vocabulary was very limited. The root verb vid became inadequate as it was discovered that there were various other ways of knowing.
 
-For example, one can gain knowledge by reading books, by listening to others, or by undergoing some kind of training, etc. Thus, knowing can be done in several ways. Long ago, when Bengal was a sovereign country, the military personnel who used to impart training to their recruits were nicknamed jáná. Even today there is a Bengali title jáná for those people whose forefathers were military officers. The verb vid, no doubt, meant knowing, but that did not carry the full import of what the speaker wanted to convey. 
+For example, one can gain knowledge by reading books, by listening to others, or by undergoing some kind of training, etc. 
 
-People would use the verb vid to describe both the farmer’s knowing when the harvest should be reaped, and the scholar’s discovery, after much research in his psychic laboratory, of a very intricate theory. 
+Thus, knowing can be done in several ways. Long ago, when Bengal was a sovereign country, the military personnel who used to impart training to their recruits were nicknamed jáná. Even today there is a Bengali title jáná for those people whose forefathers were military officers. 
 
-The problem was, however, how to differentiate between these two types of knowledge.
+The verb *vid* meant knowing. But that did not carry the full import of what the speaker wanted to convey. 
 
-Hence, the root verb jiṋá was evolved in those ancient days, which meant subjectivization of objectivity in a mechanical way through reflections and refractions. 
+People would use vid to describe both:
+- the farmer’s knowing when the harvest should be reaped, and
+- the scholar’s discovery, after much research in his psychic laboratory, of a very intricate theory. 
 
-The verb jiṋá invented by the ancient Aryans, was changed into keno in Old Latin language.
+But how do they differentiate between these 2 types of knowledge?
 
-In Sanskrit the pronunciation is jiṋá, in Bengali jiṋa, in the Rgvedic language jiṋa, in Old Latin keno, and in Modern English “know”. 
+Hence, the root verb jiṋá was evolved in those ancient days. It meant the subjectivization of objectivity in a mechanical way through reflections and refractions.
 
-As the original spelling of the word was “kenow”, we still spell the word with a “k” at the beginning without actually pronouncing it.
+The verb jiṋá was invented by the ancient Aryans. It was changed into *keno* in Old Latin language.
+
+Language | Pronunciation
+--- | ---
+Sanskrit | jiṋá
+Bengali | jiṋa
+Rgvedic | jiṋa
+Old Latin | keno
+Modern English | “know”
+
+
+The original spelling of the word was “kenow”, we still spell the word with a “k” at the beginning without actually pronouncing it.
 
 Those who learned the science of Tantra Yoga and Rája Yoga from Lord Shiva, cultivated the physical and psychic aspects of knowledge – the expressions and waves of vibrations. 
 
@@ -124,9 +137,13 @@ We support the Shaeva cult as it strives for the further enrichment and advancem
 
 It encourages the development of intellect and wisdom, and thus motivates people to acquire more and more knowledge.
 
-This is a great boon for humanity, as the highest treasure of human beings, which distinguishes them from the other creatures, is their intellectual superiority. Had there been no intellect in humans to distinguish them from other creatures, there would be hardly any difference between humans and animals. Therefore, this philosophical consciousness, which can also be called “Ananda Marga consciousness”, will lead humanity to greater intellectuality. 
+This is a great boon for humanity, as the highest treasure of human beings, which distinguishes them from the other creatures, is their intellectual superiority. Had there been no intellect in humans to distinguish them from other creatures, there would be hardly any difference between humans and animals. 
 
-The constant pursuit of intellectuality leads one to its furthest point, the place where intuition begins. Hence in the realm of spiritual practice, it is immensely helpful. The path of sádhaná is not devoid of intellect or intuition; rather it is based on intuition. It gives no scope for superstition or blind faith. Instead it facilitates the maximum all-round progress of humanity and the manifestation of the highest human excellence.
+Therefore, this philosophical consciousness, which can also be called “Ananda Marga consciousness”, will lead humanity to greater intellectuality. 
+
+The constant pursuit of intellectuality leads one to its furthest point, the place where intuition begins. Hence in the realm of spiritual practice, it is immensely helpful. 
+
+The path of sádhaná is not devoid of intellect or intuition; rather it is based on intuition. It gives no scope for superstition or blind faith. Instead it facilitates the maximum all-round progress of humanity and the manifestation of the highest human excellence.
 
 The other cult, the non-Shaeva cult, I call prapatti márga. It had a serious defect that hampers the development of humanity at the very outset. 
 

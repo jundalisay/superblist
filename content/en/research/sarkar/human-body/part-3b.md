@@ -1,113 +1,57 @@
 ---
-title: "The Chakras"
-# title: "Under the Shelter of the Guru"
-heading: "Part 3b"
-weight: 8
+title: "Asanas"
+weight: 7
 image: "/covers/discourses.jpg"
-description: "There are 9 cakras [plexi] in humans"
-icon: "/icons/sarkar.png"
+description: "There are many underdeveloped creatures which have no nerve cells or nerve fibres and behave according to their instincts only."
 ---
 
 
+By performing ásanas regularly, human beings can control the propensities attached to each cakra, and hence the thoughts which arise in their minds and their behaviour.
 
-Gurusakásha: `gur + un + sa + kash + ghaiṋ` (1)
+This is because ásanas have a profound effect on the glands and sub-glands by either pressurizing or depressurizing them.
 
-Gurusakásha means:
-- “near the Guru”
-- “under the Guru’s umbrella”
-- “under the Guru’s wings”
-- “under the Guru’s shelter”
+For example, mayúrásana [peacock posture] has a pressurizing effect on the mańipura cakra. 
 
-It has 2 other yoga-related meanings:
-- Guru dhyána [meditation on the Guru] in Guru cakra
-- a particular kind of Gurusmarańa [Guru’s remembrance] or Gurusharańa [Guru’s shelter] after sleep.
+The secretions of the glands and sub-glands of the mańipura cakra and the propensities associated with them will become more balanced if this ásana is practised regularly. **If someone has a great fear of public speaking, it means his or her mańipura cakra is weak**.*
 
-There are 9 cakras [plexi] in humans
-
-1. múládhára
-2. svádhiśt́hána
-3. mańipura
-4. anáhata
-5. vishuddha
-6. lalańa
-7. ájiṋá
-8. Guru
-9. sahasrára
-
-From the point of view of <!-- karma --> action, 3 are most important:
-
-1. Agni cakra 
-
-This surrounds the navel region in the mańipura cakra. It is situated in the gland of thunder-like hardness, Rudra Granthi
-
-2. Anáhata cakra 
-
-This is in the swaying of the solar plexus, or Viśńu Granthi
-
-3. Ajiṋá cakra
-
-This is located in the upheavals of imagination in Brahma Granthi.
+> *Superphysics Note: In Superphysics, this is the Jupiter Mount
 
 
-The vishuddha cakra, situated in the kúrma nád́ii [sinusoid nerve] of the throat, is the centre of speech.
+Through the regular practice of mayúrásana, this propensity will be controlled and fear will be eliminated. Other ásanas may have a depressurizing effect on the mańipura cakra, and if these ásanas are performed regularly the glands and sub-glands associated with the cakra will become less active.
 
-The importance of this plexus is very great. It is helpful to the enlightening of intellect, and is also called the Brhaspati Granthi. In its neighbourhood exist the thyroid and parathyroid glands – the Brhaspati Granthi and the Brhaspati Upagranthi respectively.
+Increased glandular secretions generally make the propensities more active and vice versa. By practising ásanas regularly, one can control the propensities and either increase or decrease their activity. So spiritual aspirants should select the ásanas they perform very carefully. 
 
-There are, in human physiology, countless glands and sub-glands.
+This effect of ásanas on glands and sub-glands has never been revealed before.
 
-Different and variegated are the causes of their actions. 
+Extreme fear causes excessive tension and pressure on the mańipura cakra. Normally when people experience fear, the afferent and efferent nerves are able to work properly. The tension in the nerves caused by the fear travels through the nervous system and reaches the brain, so excessive pressure does not occur.
 
-By their manifold interrelations with and interactions upon the lymph or shukra [which has three stages: lymph (práńarasa), spermatozoa and seminal fluid], they produce a variety of granthirasas (hormones). 
+However, when a person becomes extremely afraid the balance between the afferent and efferent nerves is lost, and there is a build-up of tension and pressure around the mańipura cakra. If the information carried by the efferent nerves from the brain to the mańipura cakra is prevented from reaching its destination, the imbalance can cause a blockage in the region of the anáhata cakra which is a very complicated and sensitive part of the human body. A disturbance in this region can cause palpitations, excessive pressure on the heart, the inability to act decisively, and even a heart attack.
 
-The multifarious hormones, getting into the important plexi, become consumed, and only a small amount of the hormones can reach the glands and sub-glands below them. Most of the hormones of the upper portion are consumed by the solar plexus, which is contiguous with the anáhata cakra. 
+In human beings the thyroid and parathyroid glands are more developed than the lymphatic glands. Previously the lymphatic glands were more developed than they are today, but as human beings evolved, the thyroid and parathyroid glands became more active and the role of the lymphatic glands diminished. In monkeys, the opposite is the case: the lymphatic glands are more developed than the thyroid and parathyroid glands. The thyroid and parathyroid glands are concerned with psychic development and intellectual elevation, while the lymphatic glands are more concerned with physical activity, hence monkeys can jump higher and swing further than human beings. One of the reasons why human beings are more evolved than monkeys is that their thyroid and parathyroid glands are more active.
 
-When the sudhárasa [bliss-causing hormones] emitted by the glands and sub-glands situated above the ájiṋá cakra are consumed in the ájiṋá cakra, the result is that the ájiṋá cakra is strongly affected by the high secretion of hormones brought about by sádhaná [spiritual practices] in that upper region, and consequently the irises of the eyes move upwards and a state of trance ensues. 
+Semen and lymph are not the same thing. When males are sexually aroused, the nerves in the testes get stimulated and lymph is converted into semen.
 
-A pleasant drowsiness of tandrá [somnolence] mixed with nidrá [sleepiness] overcomes the eyes, and the person is immersed in a type of slumber of a subtle loka [realm]. This kind of yoga nidrá, bháva nidrá, adhyátma nidrá is known as hypnosis in English. 
+Joint hair grows near the lymphatic glands in the armpits and leg joints. If this hair is removed, then the lymphatic glands tend to overheat, causing over-secretion, and this in turn decreases the function of the thyroid and parathyroid glands. There is an inverse relation between the lymphatic glands and the thyroid and parathyroid glands: if one is more active then the other is less developed and it becomes weak. For this reason, the joint hair should not be removed.
 
-Bear in mind that it has no connection with hypnotism or mesmerism. Hypnotism or mesmerism is outer-suggestion, while hypnosis is auto-suggestion.
+The process of controlling all the cakras and propensities was invented by Astavakra over two thousand years ago. He wrote the book Aśt́ávakra Saḿhitá. He was a great saint and called this process Rájadhirája Yoga. He first taught this system of yoga to Alarka at Vakreswar in Bengal.
+The human body is a biological machine. No body deviates from this rule – all physical bodies are biological machines. The different types of lessons in Ananda Marga sádhaná [spiritual practices] are designed to strengthen the different cakras and control the propensities. Guru dhyána [meditation on the guru] strengthens the sahasrára cakra. If there is control over the sahasrára cakra, then the body and mind can be controlled completely.
 
-The vishuddha cakra is bounded by the kúrma nád́ii [sinusoid nerve]. Some call it the Brhaspati cakra. 
+When a great man gives you a blessing, he generally does it by placing his hand on the sahasrára cakra, which has a positive effect on all the other cakras. The higher propensities will be increased and the lower propensities will be decreased. This kind of effect is not only produced by touch; it can also be caused by sound. When you do sáśt́áuṋga prańáma [prostration] to a great personality and are verbally blessed as well, the sound of the blessing will have a positive effect on your whole being. Both the touch of the hand on the sahasrára cakra and the verbal blessing will increase your spiritual elevation.
 
-Many of the hormones secreted by the upper glands are metabolized in it and absorbed here, and very little of these hormones descend down. 
+You can only bless those you like. If you accept salutations from those you dislike, negative sentiments may arise in your mind, increasing the lower propensities and decreasing the higher propensities in those seeking your blessing. So you do not have the right to accept salutations from all people, and you should not automatically bless everyone.
 
-If one’s sádhaná is perfect then the sound of the voice becomes sonorous and pleasant for some time, to some extent a state of intoxication ensues, the sinusoid nerve throbs a little, the body turns motionless and stonelike, and the skin becomes thin and light to some degree.
+The cranium of females is usually slightly smaller than that of males, consequently women have less nerve cells in the brain than men. But the fact is that men use a very small number of the nerve cells in their brains, and the same applies to women. Spiritual practices and higher pursuits utilize more and more nerve cells. Suppose a man and a woman learn sádhaná at the same time, practise with the same sincerity and progress with the same speed – they will both achieve spiritual elevation. Now, suppose they both enjoy divine bliss after performing sádhaná for the same number of years. If all or say ninety-nine per cent of the nerve cells in the brain of the woman are utilized, a lower percentage will be utilized by the man because he has more nerve cells in his brain.
 
-Because of the type of environment existing in the solar plexus, or the anáhata cakra, the hormones of the upper region are almost entirely absorbed there, and very little of them remains. The entrancing action of the bliss-causing hormone of the upper region, which is designated sudhárasa in Sanskrit, when it reaches here leads to the greatest sensation in this spot, and the mind gets lost in the higher realm. 
+Women have some propensities which are very strongly developed. In particular, women normally have great love and affection for their children. 
 
-The developed sádhaka [spiritual aspirant] remains submerged in this beatific condition of intoxication. It is said that Shiva remains overwhelmed under the spell of this very type of intoxication, with His eyes fixed upwards. This is not the intoxication produced by bhang [Indian hemp] or ganja [marijuana], or that of opium, nor that of wine, but is a sort of beatific intoxication brought about by sudhárasa.
+This is natural. But if the expression of a particular propensity is excessive, it may have adverse consequences. 
 
-<!-- Surápán karine ámi sudhá khái “Jay Kálii” bale,
-Man-mátále mátál kare mad-mátále mátál bale.(2) -->
+For instance, most stepmothers love their own children more strongly than their stepchildren, and if the intensity of this affection is not controlled, it may create tensions and divisions in the family. Also, because of the affection women have for their children, they may not like to go outside the home, and if this is taken to extremes, it may lead to harmful isolation. Similarly, if a large number of people living in a particular region only stay in their own region out of blind love for their locality, it will be detrimental to the progress of society as a whole. 
 
-<!-- [I don’t drink wine, I take divine nectar, saying, “Victory to Kálii.” My mind, intoxicated with bliss-causing hormones, makes me drunk. But those who are intoxicated with drink call me a drunkard.] -->
+Good relations with other regions will not be encouraged, and the trade and economic development of their region may be adversely affected.
 
-The mańipura chakra is below the anáhata. The mańipura area is the primary location of dehágni [bodily fire], the main sphere of the existence of vitality. 
+Love and affection are very good attributes, but to protect oneself and society from their possible extreme expressions, the best path to follow is to channelize all one’s love and affection towards Parama Puruśa [Supreme Consciousness].
 
-An unborn baby, through the medium of this mańipura cakra, remains joined with the mother’s body by means of the umbilical chord. 
+This will expand the arena of one’s love and accelerate one’s march towards the Great. A person who has developed universal love will be able to do very great work in a very short time.
 
-Through this medium, the lymph from the mother’s body penetrates into the body of the infant. That is why this part of the human organism is not incinerated by the normal temperatures of fire. 
-
-After a cremation the descendants of the deceased carry this part away from the funeral pyre, along with the bone remnants, and ultimately throw it into the Ganges. This is known as asthivisarjana [immersion of the bone remnants].
-
-Below the mańipura cakra there are also many glands and sub-glands. The hormones secreted by these are not metabolized by any of the plexi. 
-
-They go out of the body, not getting absorbed to any appreciable extent. Through particular yoga-based actions, they can be retained in the body to a great extent. 
-
-In Tantra Shástra, in Avidyá Tantra, this is called stambhana kriyá [a process to stop bodily functions]. Stool, urine, sweat and semen get excreted from the body because the concerned reflexes originate from under the navel. The influence exerted by the nerve cells of the brain controls lower nerve cells down as far as the anáhata cakra. The navel cakra, or mańipura cakra, the svádhiśt́hána cakra and the múládhára cakra are directly linked with the mundane faculties.
-
-This is why, in the sphere of spiritual practices, the mańipura cakra and the one below it are generally not recognized as cakras for repeating the Iśt́a mantra [a personal mantra repeated in meditation]. 
-
-The recognized cakras for japa [repetition of mantra] are the anáhata cakra, vishuddha cakra and ájiṋá cakra and a few other cakras and upacakras of the upper region. The Guru cakra is the highest cakra. The Guru cakra is used as the place of dhyána.
-
-The hormones secreted by various glands and sub-glands are directly connected with the human body and mind. The nerve cells of the brain each regulate a particular kind of sentiment and thought. The glands and sub-glands of the lower regions maintain an organic link with the above-mentioned nerve cells of the brain. Particular courses of thought depend on the secretions of these hormones. 
-
-Then again, while moving along mundane mental paths, the human mind is influenced by many kinds of susceptibilities which are based on mundane activities. Under these circumstances there is a need, on the one hand, for purity of thought, and on the other, for satsauṋga [associating with good people]. The same person who is elevated in the company of good people, gets degenerated in an evil environment. This is a tested truth. 
-
-So in human life there is as much need of satsauṋga as there is the need to shun evil company. Therefore, it is necessary to look for satsauṋga and avoid asatsauṋga [associating with bad people].
-
-<!-- Satsaungena bhavenmuktirasatsaungeśu bandhanam;
-Asatsauṋgamudrańaḿ sá mudrá parikiirttitá.
-[Keeping good company leads to liberation, whereas the company of bad people leads to greater bondage. The mudrańam – shunning – of bad company is called mudrá sádhaná.] -->
-
-
+12 May 1990, Calcutta

@@ -3,7 +3,7 @@ title: "Why the Europeans Stuck to the Geocentric Model"
 # date: 2015-09-09
 date: 2023-03-24
 # 2020-01-04
-weight: 3
+weight: 50
 image: /graphics/physics/geocentric.jpg
 description: "The Europeaans Stuck to the Geocentric Model because of the wrong 5 Elements of the Greeks"
 writer:

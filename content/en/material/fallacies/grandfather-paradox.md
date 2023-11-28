@@ -2,6 +2,7 @@
 title: "The Grandfather Paradox Solved"
 description: "The Grandfather Paradox is a non-paradox created by materialists"
 date: "2023-03-14"
+weight: 4
 image: "/photos/idea.jpg"
 # categories: ["Material Superphysics"]
 writer:

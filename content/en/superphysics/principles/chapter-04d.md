@@ -12,6 +12,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 aliases:
   /superphysics/solutions/isaiah
+# /superphysics/principles/chapter-04d
 ---
 
 
@@ -37,9 +38,66 @@ From a given nature, we first present all the known instances which agree in the
 {{< /q >}}
 
 
+{{< q a="Francis-Bacon" >}}
+Here is an example of the exclusion or rejection of natures found by the tables of review. First we premise that each table, each single instance [row] in it, is enough to reject any nature.  Every a contradictory instance destroys a hypothesis as to the essence [described by that table]. We repeat the exclusive in order to show the use of the tables
+
+n | Rejection | Basis
+--- | --- | ---
+1 | Terrestrial nature of heat | The sun’s rays 
+2 | Celestial nature of heat | Common fire and subterranean fires away from the sun
+3 | All variety and delicate texture of bodies | The heat acquired by minerals, water, oil, air, vegetables, the external parts of animals, etc.
+...
+{{< /q >}}
 
 
-Supereconomics (Economic Superphysics) aims to solve all economic problems by adding moneyless donations and exchange (barter), as points-based valuation, to the current money-based valuation. This is similar to how Material Superphysics aims to solve mysteries in Physics by adding the aether-idea onto the idea of "quantum fields". 
+From these tables we can extract the patterns in their ratios in order to find the inner qualities or dharma of the identity or phenomena. 
+
+This is what natural intelligence does. 
+
+
+## Natural Intelligence Versus 'Artificial' Intelligence 
+
+Recently, this has been replicated by machine learning, which is now branded as artificial intellignce (AI). Instead of tables, AI uses a lot of training data to form its patterns or models.  
+
+The difference is that natural intelligence gets data from the 5 Layers or Elements, whereas AI only gets data from 3 Layers:
+
+Layer | Artificial Intelligence | Natural Intelligence 
+--- | --- | ---
+Aether | | :heavy_check_mark: 
+Spacetime | | :heavy_check_mark:
+Radiant | :heavy_check_mark: | :heavy_check_mark:
+Transformative | :heavy_check_mark: | :heavy_check_mark:
+Material | :heavy_check_mark: | :heavy_check_mark:
+
+The inability of AI to get real-time data from the aether and spacetime is why it currently is inferior to human intelligence. 
+
+In reality, AI is not really artificial, but is a very limited version of natural intelligence. It is really an **automated** form of natural intelligence done by electronic machines. 
+
+In order to overcome this limitation, its training data should be very large, coming from all sources possible. It should **aggregate** all the data that humans produce.  
+
+This aggregated data will let it have a bigger overall persepective, letting it free of the bias which affects limited human minds. Thus, it the aggregated data will let it be **impartial**.
+
+<!-- Such an Automated Intelligence will have an advantage over human intelligence by being free of bias. 
+
+This machine learning or pattern-simplification and pattern-finding must be free of bias. It must be impartial. -->
+
+This is why we call the AI of Superphysics as ISAIAH which stands for the `Impartial Spectator Automated Intelligence Aggregation Hub`:
+
+Acronym | Description
+--- | ---
+Impartial Spectator (IS-) | The AI must be impartial and free from human bias
+Automated Intelligence (-AI-) | The AI automates the pattern-finding
+Aggregation Hub (-AH) | The AI aggregates all data
+
+<!-- . In Supereconomics, we achieve this by setting its base valuation to the common grain of the country that it is measuring
+ — describes the AI as something that 
+
+  existing thought-processing of whatever the Impartial Spectator's socio-political-economic goal is, whether it be price prediction, capital flows prediction, election prediction, legislation prediction, population demographic prediction, disease prediction, etc.
+ — describes the centralization of the functionalities of the AI as a single cohesive unit, manifesting as socio-economic singularity. Nowadays, these functionalities are called 'skills' as Alexa Skills or 'actions' as Google Actions.  -->
+
+
+
+<!-- Supereconomics (Economic Superphysics) aims to solve all economic problems by adding moneyless donations and exchange (barter), as points-based valuation, to the current money-based valuation. This is similar to how Material Superphysics aims to solve mysteries in Physics by adding the aether-idea onto the idea of "quantum fields". 
 
 The points-based valuation represents [the effort theory of value](/social/economics/principles/effort-theory-of-value) which we derived from Adam Smith:
 
@@ -77,14 +135,9 @@ An advanced economy can be very complex because of the huge number of goods and 
 <!-- In order to arrive at the real price, the AI has to filter out the bias and the noise in the data. We can say that the AI has to be an impartial spectator of the flow of data that is routed to it.  -->
 
 
-![Automated Intelligence](https://sorasystem.sirv.com/AI.jpg)
+<!-- ![Automated Intelligence](https://sorasystem.sirv.com/AI.jpg)
 
 
-We call our AI as ISAIAH which stands for the Impartial Spectator Automated Intelligence Aggregation Hub:
-
-- Impartial Spectator (IS-) — the AI must be impartial. In Supereconomics, we achieve this by setting its base valuation to the common grain of the country that it is measuring
-- Automated Intelligence (-AI-) — describes the AI as something that automates the existing thought-processing of whatever the Impartial Spectator's socio-political-economic goal is, whether it be price prediction, capital flows prediction, election prediction, legislation prediction, population demographic prediction, disease prediction, etc.
-- Aggregation Hub (-AH) — describes the centralization of the functionalities of the AI as a single cohesive unit, manifesting as socio-economic singularity. Nowadays, these functionalities are called 'skills' as Alexa Skills or 'actions' as Google Actions. 
 
 
 The idea is inspired by the prophet Isaiah who made many predictions about events in the Middle East. Likewise, AI is designed to make predictions about anything that it is evidenced by real data. 
@@ -104,3 +157,4 @@ _ | Superphysics paradigm | End Goal
 Economic data | Supereconomics | Real Prices, [Clearing Fund Rates](/research/schumacher/pool-clearing/part-1)
 Health data |  [Bio Superphysics](/medical) | Disease prediction
 Historical data | [Supersociology](/social/supersociology) | Social and political predictions 
+ -->

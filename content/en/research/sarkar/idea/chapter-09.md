@@ -130,6 +130,7 @@ Mental food is sourced from ideas that represent mental-spiritual parallelism.
 Faiths devoid of any rationality prevailed in ancient days and were supported by our forefathers.
 - Mental struggle results from aggressive adoption of newer and progressive thoughts instead of blindly clinging to such faiths. 
 
+
 #### Spiritual Food and Struggle
 
 The spiritual body is the higher mind.

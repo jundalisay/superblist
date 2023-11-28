@@ -1,7 +1,7 @@
 ---
 title: "The Arrow of Time Non-Problem"
 date: 2023-05-23
-weight: 300
+weight: 2
 image: /photos/objects/clock.jpg
 description: "The Arrow of Time Problem has already been resolved way back by Parmenides, again by Avicenna, and again by Descartes, Hume, and Hegel."
 writer:

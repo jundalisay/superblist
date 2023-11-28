@@ -3,6 +3,7 @@ heading: "The Sophistry of Albert Einstein"
 title: "How to Fix Einstein's General Relativity"
 description: "Did you know that dark matter, wormholes, and the Big Bang are fallacies of Physics?"
 date: "2021-06-14"
+weight: 10 
 linkTitle: "General Relativity Sophistry"
 image: "/graphics/physics/general.jpg"
 # categories: ["Material Superphysics"]

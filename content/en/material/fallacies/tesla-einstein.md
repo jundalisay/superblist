@@ -1,7 +1,7 @@
 ---
 title: "Why Tesla Bashed Einstein's Relativity"
 date: 2023-04-22
-weight: 3
+weight: 23
 image: /covers/tesla.jpg
 description: "Relativity is merely a test of equipment."
 writer:

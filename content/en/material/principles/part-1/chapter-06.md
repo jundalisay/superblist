@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1"
+heading: "Chapter 6"
 title: "The Zeeman Effect and Descartes' Aether"
 date: 2023-10-30
 image: /photos/meta/yinyang.jpg

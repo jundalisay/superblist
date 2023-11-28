@@ -38,13 +38,13 @@ Lower Material | Color Charge Quark qom
 
 The principles of Material Superphysics is organized under the following headings.
 
-n | Topic | Aethereal | Spacetime | Radiant | Transformative | Material
---- | --- | --- | --- | --- | --- | ---
-1 | Intro 			| 					| 			|			 |		 | 
-2 | Upper Lower |           |      |      |     | 
-3 | Identity Particle  | Qoa         | Qost    | Qoe Qol   | Qot | Qom
-4 | Energy or Movement |		| Expansion | Heat 		|  		| Strong Force 
-5 | Movement Bands 	| Quantum Physics 	| Rotation 	| 			| 		|
-6 | Specifics 		| 					| 			|		 	|		| 
+n | Topic             | Aethereal | Spacetime | Radiant | Transformative | Material
+--- | ---             | ---       | ---       | ---     | ---           | ---
+1 | Intro             | 					|      			|			    |		            | 
+2 | Upper Lower       |           |           |         |               | 
+3 | Identity Particle | Qoa       | Qost      | Qoe Qol | Qot           | Qom
+4 | Energy or Movement| Evolution | Expansion | Heat,Spin | Chirality 	| Strong Force 
+5 | Gravity Bands 	  | Resonance | Gravity 	| Magnetism | Decay, Interaction| Fission
+6 | Specifics 		    | 					|    			 |		     	|	             	| 
 
 

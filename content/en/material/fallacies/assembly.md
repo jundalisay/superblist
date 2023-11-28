@@ -1,7 +1,7 @@
 ---
 title: "The Fallacy of Assembly Theory"
 date: 2023-07-15
-weight: 300
+weight: 6
 image: /photos/psych/bore.jpg
 description: "Assembly Theory is a monstrosity that combines the material concept of non-conscious entropy, the emergent 'arrow of time' (physical time), and conscious biology (mental time)"
 writer:

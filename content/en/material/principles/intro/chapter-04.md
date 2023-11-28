@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3"
+heading: "Chapter 4"
 title: "The Three Rules of Movement"
 linkTitle: "3 Rules"
 date: 2022-01-03

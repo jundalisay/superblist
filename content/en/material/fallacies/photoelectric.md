@@ -3,7 +3,7 @@ title: "The Photoelectric Effect in Cartesian Physics"
 # date: 2015-09-09
 date: 2023-08-24
 # 2020-01-04
-weight: 3
+weight: 20
 image: /photos/physics/light.jpg
 description: "In Descartes' Physics, the Photoelectric Effect is the downgrading of high energy light and cosmic energy (high fire-aether) into electrons (low fire-aether)"
 writer:

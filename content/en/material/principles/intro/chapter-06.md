@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 5"
+heading: "Chapter 6"
 title: "The Kepler Tensor and Removing the Metric Tensor"
 date: 2022-01-03
 image: /graphics/super/kepler.png

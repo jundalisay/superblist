@@ -1,22 +1,22 @@
 ---
-title: "The tables of review"
+title: "The Tables of Review"
 heading: Chapter 6
 weight: 16
-description: ""
+description: "Here is an example of the exclusion or rejection of natures found by the tables of review"
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png
 ---
 
 
 
-{{< s v="18" >}} We must now offer an example of the exclusion or rejection of natures found by the tables of review.
+{{< s v="18" >}} Here is an example of the exclusion or rejection of natures found by the tables of review.
 <!-- , not to be of the form of heat;  -->
 
 First we premise that each table, each single instance [row] in it, is enough to reject any nature. 
 
 Every a contradictory instance destroys a hypothesis as to the essence [described by that table]. 
 
-Still, werepeat the exclusive in order to show the use of the tables.
+We repeat the exclusive in order to show the use of the tables.
 
 Here is an Example of the Exclusive Table, or of the Rejection of Natures from the Form of Heat:
 
@@ -32,10 +32,10 @@ n | Rejection | Basis
 7 | Flame and light | The comparison between red-hot iron and the flame of spirits of wine (for the iron is more hot and less bright, while the flame of spirits of wine is more bright and less hot)
 8 | Rarity | Gold and other ignited metals, which are of the greatest specific density
 9 | Rarity | Cold air
-10 | The absolute expansive motion of the whole | Ignited iron,[103] which does not swell in bulk, but retains the same apparent dimension
+10 | The absolute expansive motion of the whole | Ignited iron, which does not swell in bulk, but retains the same apparent dimension
 11 | The absolute or expansive motion of the whole | The expansion of the air in thermometers and the like, which is absolutely moved and expanded to the eye, and yet acquires no manifest increase of heat
 12 | The destructive nature or the violent communication of any new nature | The ready application of heat to all substances without any destruction or remarkable alteration of them
-13 | The expansive and contracting motion as regards the whole.[151] | The agreement and conformity of the effects produced by cold and heat
+13 | The expansive and contracting motion as regards the whole. | The agreement and conformity of the effects produced by cold and heat
 14 | The principal nature by which we mean that which exists positively, and is not caused by a preceding nature | The heat excited by friction
 
 

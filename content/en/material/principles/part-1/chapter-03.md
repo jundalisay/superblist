@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2"
+heading: "Chapter 3"
 title: "The Quantum of Aether or Qoa"
 date: 2020-01-31
 image: "/graphics/flipbook.gif"

@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3c"
+heading: "Chapter 5c"
 title: "How the Harmonic Ratios Create Movement and Gravity"
 date: 2023-11-10
 image: "/graphics/physics/doremi.jpg"
