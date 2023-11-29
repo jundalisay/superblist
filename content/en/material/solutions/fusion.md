@@ -2,16 +2,20 @@
 heading: Anti-gravity Principles
 title: How Qosts Can Make Fusion a Reality
 date: 2020-01-31
+weight: 
 image: /graphics/physics/michelson.png
 description: "Fusion can be realized by artificial gravity just as stars use gravity for their fusion"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
+weight: 6
 ---
 
 
-The previous post explained the concept of [Qosts or the quantum of space time](/material/principles/part-2/chapter-03). These are points in spacetime that gather energy to create mass in order to create discrete things. These create spacetime by their mutual repulsion and, thus, are essential in levitation and teleportation. 
+The previous post explained the concept of [Qosts or the quantum of space time](/material/principles/part-2/chapter-03). These are invisible spacetime particles that form vortices to  gather energy to create mass in order to create discrete things.
+
+These create natural movement by their mutual repulsion and, thus, are essential in levitation and teleportation.
 
 
 {{< youtube F5rqnidVUkY >}}
@@ -19,36 +23,48 @@ The previous post explained the concept of [Qosts or the quantum of space time](
 
 These can also be employed to harness energy in two ways:  
 
-1. By tapping into the repulsion of qosts that lead to the accelerated expansion of space. This is like a windmill tapping the energy from the wind and can be classified as free energy
+1. By tapping into the perpetual division of spacetime particles from the Negative Force that manifests as the accelerated expansion of space. 
 
-2. By extracting the energy from the atomic reactions of the material layer. This is how fission and fusion extracts energy. This requires an input, such as hydrogen and is therefore non-free energy. However, it extracts more energy in a shorter time. 
+This is like a windmill tapping the energy from the wind and is free energy.
+
+
+2. By extracting the energy from the atomic reactions of the material layer through quantum tunneling. 
+
+This requires an input, such as hydrogen and is therefore non-free energy. However, it extracts more energy in a shorter time.
 
 Physicists are going for the second approach after learning how to extract atomic energy in the 1940's through nuclear fission reactions, as a consequence of atomic theory. However, fission is limited and dangerous. This led physicists to go for fusion which is supposed to be clean and safe. 
 
 
 ## The Fusion Solution
 
-Fusion is done by heating hydrogen into a plasma as to create energy. In a star, this plasma is confined by a gravitational field from the star's qost. This allows the hydrogen to get compressed which creates mass which adds more gravity and consequently, more heat. This then creates fusion which releases energy as starlight and sunshine.  
+Fusion is done by heating hydrogen into a plasma as to create energy. 
+
+In a star, this plasma is confined by a gravitational field from the star's vortex. This allows the hydrogen to get compressed to mass which adds more gravity and consequently, more heat. This then creates fusion which releases energy as starlight and sunshine.  
 
 Without this confinement, the star would dissipate immediately. And so, **the extreme sustained confinement and compression** is the key to fusion.
 
-Humans try to recreate fusion by using magnetism instead of artificial gravity to confine the plasma. The problem is that magnetism uses up electrical energy in the process. This makes the input cost of outputting fusion energy very high. When added to all the cost of making the reactor and its maintenance, it can possibly lead to loss. This makes fusion-by-magnetism commercially unviable -- a sheer waste of money, time, and effort, similar to the wasteful expense for dark matter detectors which have detected nothing and will detect nothing.
+Humans try to recreate fusion by using magnetism instead of artificial gravity. The problem is that magnetism uses up electrical energy in the process. This makes the input cost of outputting fusion energy very high. 
 
-Physicists think that somehow, adding more electricty will make the process more efficient.  This arises from materialist thinking:
+When added to all the cost of making the reactor and its maintenance, it can possibly lead to loss. This makes fusion-by-magnetism commercially unviable -- a sheer waste of money, time, and effort. 
+
+This is similar to the wasteful expense for dark matter detectors which have detected nothing and will detect nothing.
+
+Physicists think that somehow, adding more energy will make the process more efficient.  This arises from materialist thinking:
 - if you want your rocket to go farther, just add more fuel 
 - if you want to win a war, just add more troops to your army
 
-The problem is that this method only applies to the last three layers of our five layer model, specifically, the electromagnetic, radioactive, and material layers. 
+The problem is that this method only applies to the last 3 layers of our 5 layer model, specifically, the radiant, transormative, and material layers. 
 
 {{< img src="/graphics/physics/egllayers.png" cap="Superphysics uses the five layers of aether, air, fire, water, and earth of the Greeks and Asians as aether, spatial, radiant, radioactive, and material, or 水, 木, 火, 土, 金, respectively" alt="5 Layers of Superphysics" >}}
-
 
 
 It does not apply to the upper two layers of the spatial or aethereal, where crudity is replaced by precision and sophistication. The technological designs for the lower three layers are so simplistic:
 - the general design of combustion-based rockets is based on a simple tube
 - all air-based airplanes are a tubes with two wings 
 
-The Spatial (gravitational layer) is different because it is based on points, and points connected with other points lead to geometries. These are then manipulated by the upper aethereal layer which is based on waves, examples of which are sounds and waves of feelings. In the aethereal layer, the points of the spatial layer manifest as discrete ideas instead of discrete objects and matter.
+The Spatial (gravitational layer) is different because it is based on points, and points connected with other points lead to geometries. These are then manipulated by the upper aethereal layer which is based on waves, examples of which are sounds and waves of feelings. 
+
+<!-- In the aethereal layer, the points of the spatial layer manifest as discrete ideas instead of discrete objects and matter. -->
 
 Historically, these geometries manifest as pyramids and pyramid blocks which must be precise as to fit perfectly like lego bricks. 
 
@@ -94,10 +110,9 @@ These are used by advanced alien civilizations as the basis of their UFO design:
 {{< img src="/graphics/ufo.png" alt="UFO shapes" cap="All UFOs are perfectly symmetrical with simple shapes because their propulsion comes from their center of gravity. Their Physics have long abandoned Newtonian Classical mechanics" >}}
 
 
+<!-- A round reactor uses a single qost (monad). This outputs less energy, but is useful for compact vehicles. 
 
-A round reactor uses a single qost (monad). This outputs less energy, but is useful for compact vehicles. 
-
-A linear reactor uses two or more qosts (duads, etc). This outputs much more energy, and is useful for very large vehicles.
+A linear reactor uses two or more qosts (duads, etc). This outputs much more energy, and is useful for very large vehicles. -->
 
 <!-- Of the current fusion designs, this is what the twisty stellarator is trying to do. However, it still needs to be overhauled as to create a vortex which will create gravity which will confine it and make it sustainable. This will allow it to be reduced in size as to be able to fit large vehicles. This vortex-stellarator can then assume either the round or linear shape:
 
@@ -110,7 +125,6 @@ A linear reactor uses two or more qosts (duads, etc). This outputs much more ene
 
 
 It's clear that alien civilizations have figured out how to harness fusion. If the smallest ship is 7 meters in diameter then its round fusion reactor should be small enough to fit inside a bus, unlike the current reactor designs which occupy whole buildings.  
-
 
 
 So what is missing in the human version?
@@ -135,16 +149,15 @@ The proof is the necessity of light to prove GR:
 
 
 
-
-
-
 The problem is that SR is based on the principles of electromagnetism, which is the lower layer under gravitation (spatial layer). This leads to absurd concepts like a singularity that defies physics. 
 
 The predictions of GR are only true for whatever is **visible** in the universe. It doesn't apply to invisible things, such as dark matter, actual black holes, and the **relationships** between different cosmic objects. 
 
 Take away light and Einstein's General Relativity fails! The problem is that the visible universe is a very very small part of physical reality. GR has no opinion on other dimensions or multiverses and so quantum physics messes around with quack theories like Penrose's CCC.
 
-Hindu and Buddhist monks have figured out all the five layers of the universe and that's why they came up with a policy of  denouncing physical reality. Instead of immersing in the material world, they focus on the highest aethereal layer which is pure metaphysics. A side-effect of this is having *siddhas* or supernatural powers. They are only "supernatural" because the human definition of the "natural" world is the universe that lies in the three lower layers:
+Hindu and Buddhist monks have figured out all the five layers of the universe and that's why they came up with a policy of  denouncing physical reality. 
+
+Instead of immersing in the material world, they focus on the highest aethereal layer which is pure metaphysics. A side-effect of this is having *siddhas* or supernatural powers. They are only "supernatural" because the human definition of the "natural" world is the universe that lies in the 3 lower layers:
 
 1. Electromagnetic (eletromagnetic force)
 2. Transformative (weak force)
@@ -173,14 +186,13 @@ Fusion is thus created when a sentient computer manipulates the gravitational si
 > *This implies that stars are sentient. This sentience is [the origin of life](/bio/solutions/covid-star) in the universe and is the connection point between Material and Bio Superphysics
 
 
-
 This system does not need an external fuel source or large amounts of external energy, making it very long lasting and sustainable. In fact, stars use it to give free energy* for billions of years until it runs out of gas, literally. 
 
 <!-- This can be applied to fusion as the alternate way to confine plasma as to create high energy output using very low energy input by using gravity to both levitate and confine the plasma which starts out  or hydorgen. --> 
 
 <!-- , can be added to make this power-generation system output more energy to power entire civilizations.  -->
 
-In fact, magnetism plays a very negligible role in this type of fusion because if a UFO's reactor were mostly magnetized then it would be left behind whenever the UFO teleported to another location! 
+Magnetism plays a very negligible role in this type of fusion because if a UFO's reactor were mostly magnetized then it would be left behind whenever the UFO teleported to another location! 
 
 <!-- In the gravitational method, the plasma itself creates the gravitational field by creating a vortex in the center. This is similar to a pyramid that uses its tip as the vortex for the Earth, like an antenna.  -->
 
@@ -280,3 +292,8 @@ This leads to different measurements of the speed of light. These differences th
 
 Instead, it follows the dynamics described by Hinduism, Taoism, Timaeus, and Descartes.
  -->
+
+
+The next post will discuss possible fusion designs derived from the principles of Rene Descartes:
+- Stellar vortex reactor
+- Quasar reverse-vortex reactor

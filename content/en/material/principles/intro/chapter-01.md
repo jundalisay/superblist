@@ -125,7 +125,11 @@ Material | Earth, Pritvi, 金 (solid metal) | Strong | Nuclear force | Gluons (e
 
 These 5 layers classify Physical Reality neatly so that it can integrate perfectly with Metaphysical Reality which is made up of life, soul and identity. 
 
+
+{{< img src="/graphics/physics/egllayers.png" alt="5 Layers" >}}
+
   <!-- mysteries of quantum physics (which is based on the radiant or electromagnetic layer) by extending human knowledge onto the higher gravitational (spatial) and aethereal layers.  -->
+
 
 {{< q a="Krishna" c="Bhagavad Gita" >}}
 My manifest form is made up of:

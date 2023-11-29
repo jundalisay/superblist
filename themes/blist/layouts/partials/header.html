@@ -21,7 +21,7 @@
 
     {{ range .Site.Menus.main }}
       <li class="grid place-items-center"><a href="{{ .URL | relLangURL }}">
-        <img src="{{ .Name }}" style="height: 30px; width: 30px;" class="" alt="Menu icon">
+        <img src="{{ .Name }}" style="height: 30px; width: 30px;" class="" alt="{{ .URL }}">
       </a>
       </li>
     {{ end }}

@@ -12,7 +12,7 @@ icon: "/icons/aris.png"
 
 
 
-> 11. The hardest and most necessary inquiry for knowledge of the truth is whether being and unity are the substances of things.
+## 11. The hardest and most necessary inquiry for knowledge of the truth is whether being and unity are the substances of things
 
 Is each of them, without being anything else, is being or unity respectively? 
 
@@ -34,11 +34,16 @@ for it is not something else that is predicated universally of the things that a
 
 There are objections to both views.
 
-For whether unity is not a substance or there is a unity-itself, number cannot be a substance. We have already said why this result follows if unity is not a substance; and if it is, the same difficulty arises as arose with regard to being. For whence is there to be another one besides unity-itself? It must be not-one; but all things are either one or many, and of the many each is one.
+For whether unity is not a substance or there is a unity-itself, number cannot be a substance. We have already said why this result follows if unity is not a substance. 
 
-If unity is indivisible, according to Zeno's postulate, it will be nothing. For that which neither when added makes a thing greater nor when subtracted makes it less, he asserts to have no being, evidently assuming that whatever has being is a spatial magnitude. And if it is a magnitude, it is corporeal; for the corporeal has being in every dimension, while the other objects of mathematics, e.g. a plane or a line, added in one way will increase what they are added to, but in another way will not do so, and a point or a unit does so in no way. 
+If it is, the same difficulty arises as arose with regard to being. For whence is there to be another one besides unity-itself? 
+
+It must be not-one; but all things are either one or many, and of the many each is one.
+
+If unity is indivisible, according to Zeno's postulate, it will be nothing. For that which neither when added makes a thing greater nor when subtracted makes it less, he asserts to have no being, evidently assuming that whatever has being is a spatial magnitude. 
+
+If it is a magnitude, it is corporeal; for the corporeal has being in every dimension, while the other objects of mathematics, e.g. a plane or a line, added in one way will increase what they are added to, but in another way will not do so, and a point or a unit does so in no way. 
 
 His theory is of a low order. An indivisible thing can exist in such a way as to have a defence even against him (for the indivisible when added will make the number, though not the size, greater),-yet how can a magnitude proceed from one such indivisible or from many? It is like saying that the line is made out of points.
 
 But even if number proceeds from unity-itself and something else which is not one, none the less we must inquire why and how the product will be sometimes a number and sometimes a magnitude, if the not-one was inequality and was the same principle in either case. For it is not evident how magnitudes could proceed either from the one and this principle, or from some number and this principle.
-

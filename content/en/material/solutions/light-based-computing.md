@@ -10,6 +10,7 @@ writer:
 linkTitle: "Light Based Computing"
 icon: "/icons/spmat.png"
 toc: false
+weight: 10
 ---
 
 

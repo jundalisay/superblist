@@ -1,7 +1,7 @@
 ---
 heading: "Part 2"
 title: "The Questions of Metaphysics"
-weight: 1
+weight: 2
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -15,29 +15,63 @@ icon: "/icons/aris.png"
 
 Our problems are:
 
-1. Does the investigation of the causes belongs to one or to more sciences?
+1. Does the investigation of the causes belongs to one or more sciences?
 
-2. whether such a science should survey only the first principles of substance, or also the principles on which all men base their proofs, e.g. whether it is possible at the same time to assert and deny one and the same thing or not, and all other such questions; and 
+2. Should such a science survey only the first principles of substance? Or also the principles on which all men base their proofs.
 
-3. If the science in question deals with substance, whether one science deals with all substances, or more than one, and if more, whether all are akin, or some of them must be called forms of Wisdom and the others something else. 
+For example, is it possible to assert and deny one thing at the same time?
 
-4. This itself is also one of the things that must be discussed-whether sensible substances alone should be said to exist or others also besides them, and whether these others are of one kind or there are several classes of substances, as is supposed by those who believe both in Forms and in mathematical objects intermediate between these and sensible things. 
+3. If this science deals with substance, does one science deal with all substances? Or more than one? 
 
-5. Whether our investigation is concerned only with substances or also with the essential attributes of substances. 
+Are all sciences akin? Or are some of them 'forms of Wisdom' and the others something else? 
 
-Further, with regard to the same and other and like and unlike and contrariety, and with regard to prior and posterior and all other such terms about which the dialecticians try to inquire, starting their investigation from probable premises only,-whose business is it to inquire into all these? Further, we must discuss the essential attributes of these themselves; and we must ask not only what each of these is, but also whether one thing always has one contrary. 
+4. Do sensible substances alone exist? Or do others also exist besides them?
 
-6. Are the principles and elements of things the genera, or the parts present in each thing, into which it is divided
+Are these others of one kind? Or are there several classes of substances? This is supposed by those who believe both in Forms and in mathematical objects between these and sensible things. 
 
-7. If they are the genera, are they the genera that are predicated proximately of the individuals, or the highest genera, e.g. is animal or man the first principle and the more independent of the individual instance? 
+5. Are our investigation concerned only with substances? Or also with the essential attributes of substances?
 
-8. We must inquire and discuss especially whether there is, besides the matter, any thing that is a cause in itself or not, and whether this can exist apart or not, and whether it is one or more in number, and whether there is something apart from the concrete thing (by the concrete thing I mean the matter with something already predicated of it), or there is nothing apart, or there is something in some cases though not in others, and what sort of cases these are. 
+The dialecticians ask about:
+- the same and other
+- like and unlike and contrariety
+- prior and posterior
+- and so on. 
 
-9. We ask whether the principles are limited in number or in kind, both those in the definitions and those in the substratum
+They start their investigation from probable premises only. Should we inquire into all these? 
 
-10. Whether the principles of perishable and of imperishable things are the same or different; and whether they are all imperishable or those of perishable things are perishable. 
+Should we discuss the essential attributes of these themselves? Should we ask:
+- what each of these is
+- does one thing always have one contrary?
 
-11. Are unity and being, as the Pythagoreans and Plato said, not attributes of something else but the substance of existing things? or this is not the case, but the substratum is something else,-as Empedocles says, love; as some one else says, fire; while another says water or air?
+6. Are the principles and elements of things the genera? Or are they parts present in each thing, into which it is divided?
+
+7. If they are the genera, are they the genera that are predicated proximately of the individuals? Or are they the highest genera?
+
+For example, is animal or man the first principle and the more independent of the individual instance? 
+
+8. We must discuss especially whether there is, besides the matter, anything that is a cause in itself or not. 
+
+Can this exist apart or not? 
+
+Is it one or more in number? 
+
+Is there something apart from the concrete thing (by the concrete thing I mean the matter with something already predicated of it)?
+
+Or is there nothing apart?
+
+Or is there something in some cases, though not in others, and what sort of cases these are?
+
+
+9. Are the principles limited in number or in kind, both those in the definitions and those in the substratum?
+
+10. Are the principles of perishable and of imperishable things the same or different?
+
+Are they all imperishable or are those of perishable things perishable?
+
+
+11. The Pythagoreans and Plato said that unity and being are not attributes of something else, but the substance of existing things. Is this true? 
+
+Empedocles says that this is not the case. The substratum is something else, such as love. Someone else says fire. Another says water or air. Which is true?
 
 That is the most perplexing question. 
 
@@ -46,6 +80,3 @@ That is the most perplexing question.
 13. Do they exist potentially or actually? Are they potential or actual in any other sense than in reference to movement? 
 
 14. Are numbers and lines and figures and points a kind of substance or not, and if they are substances are they separate from sensible things or present in them? 
-
-
-

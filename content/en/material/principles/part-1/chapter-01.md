@@ -72,7 +72,6 @@ This limitation renders science unable to solve chronic problems which are ultim
 
 
 
-<!-- ## The Cartesian View: The Uppper and Lower Aether  -->
 
 ## The Aether: Breaking Free From Material Limitation
 

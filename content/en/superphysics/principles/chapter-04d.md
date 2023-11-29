@@ -1,10 +1,10 @@
 ---
 title: "What is ISAIAH?"
-heading: "Impartial Spectator Automated Intelligence Aggregation Host"
+heading: Chapter 4d
+# heading: "Impartial Spectator Automated Intelligence Aggregation Host"
 date: 2015-09-09
 weight: 15
 image: /photos/physics/ai.jpg
-# https://sorasystem.sirv.com/AI.jpg
 description: "The money and moneyless transactions are visualized by artificial intelligence (AI) in order to guide policymakers"
 icon: /icons/pantry.png
 writer:

@@ -26,7 +26,9 @@ This is why, while most of the philosophers and the earlier among them thought t
 
 But if lines and points are substance more than bodies, but we do not see to what sort of bodies these could belong (for they cannot be in perceptible bodies), there can be no substance.
 
-Further, these are all evidently divisions of body,-one in breadth, another in depth, another in length. Besides this, no sort of shape is present in the solid more than any other; so that if the Hermes is not in the stone, neither is the half of the cube in the cube as something determinate; therefore the surface is not in it either; for if any sort of surface were in it, the surface which marks off the half of the cube would be in it too. 
+Further, these are all evidently divisions of body,-one in breadth, another in depth, another in length.
+
+Besides this, no sort of shape is present in the solid more than any other; so that if the Hermes is not in the stone, neither is the half of the cube in the cube as something determinate; therefore the surface is not in it either; for if any sort of surface were in it, the surface which marks off the half of the cube would be in it too. 
 
 The same account applies to the line and to the point and the unit. Therefore, if on the one hand body is in the highest degree substance, and on the other hand these things are so more than body, but these are not even instances of substance, it baffles us to say what being is and what the substance of things is.
 

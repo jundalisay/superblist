@@ -3,7 +3,7 @@ heading: "The Sophistry of Albert Einstein"
 title: "The Sophistry of Light as Measuring Rod"
 description: "Did you know that using light as a Measuring Rod is circular reasoning?"
 date: "2021-06-14"
-weight: 12
+weight: 11
 image: "/covers/einstein.jpg"
 icon: "/icons/spmat.png"
 weight: 

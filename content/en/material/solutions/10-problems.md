@@ -7,6 +7,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
+weight: 2
 ---
 
 Modern Physics is currently stuck with [10 problems](https://backreaction.blogspot.com/2019/01/good-problems-in-foundations-of-physics.html), which we classify below:

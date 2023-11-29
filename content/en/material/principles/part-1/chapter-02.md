@@ -27,7 +27,7 @@ We plot their movements in two Cartesian planes:
 1. Aethereal Cartesian Plane: This will be used in visualizations of aethereal movement and quantum mechanics (probabilities) 
 2. Physical Cartesian Plane: This is already used in algebra and calculus for the movement of matter
 
-{{< img src="/graphics/super/cartesian.png" alt="Cartesian planes" cap="The movement of a country can be physical or aethereal. The left physical Cartesian plane for example can be made to represent the movement of a country from a population of 1 million to 4 million at year 4. The right aethereal Cartesian plane plots movement of the soul of the same society from tyranny or neoconservatism (tetrahedron) into aristocracy or conservatism (octahedron) based on the Socrates' social cycles. Alternately, the left plane can represent Covid infections from 1,000 to 4,000 at the Day 4. The right plane can plot the evolution of the variants that emerge. Lastly, the left plane can represent a ball at [1,1] rolling to [4,4]. The right plane will then plot the changes in the ball's changing gravitational signature at each point [1,1] [2,2] [3,3] [4,4], as three time intervals. This will then be useful for levitating the ball (forceless movement)" >}}
+{{< img src="/graphics/super/cartesian.png" alt="Cartesian planes" >}}
 
 
 The Cartesian View also has three attributes:

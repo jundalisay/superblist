@@ -203,4 +203,4 @@ This is very different from other physicists who had egos that were subservient 
 We have not a direct intuition of simultaneity, nor of the equality of two durations.  If we think we have this intuition, <b>this is an illusion</b>
 {{< /q >}}
 
-Here, we expose Einstein's ego as the cause for the flaws of Relativity. In the next post, we will explain the actual implementation of that flaw, as the use of the speed of light to measure spacetime. 
+Here, we expose Einstein's ego as the cause for the flaws of Relativity. In [this post](/material/fallacies/light-ruler), we will explain the actual implementation of that flaw, as the use of the speed of light to measure spacetime. 

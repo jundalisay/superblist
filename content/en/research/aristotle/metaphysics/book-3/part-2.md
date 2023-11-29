@@ -12,7 +12,7 @@ icon: "/icons/aris.png"
 
 
 
-> 1. Should the sciences investigate all the kinds of causes? 
+## 1. Should the sciences investigate all the kinds of causes? 
 
 How could it belong to one science to recognize the principles if these are not contrary?
 
@@ -39,13 +39,17 @@ In all cases, we think that the knowledge of each even of the things of which de
 This is other than and opposed to the end. Therefore it would seem to belong to different sciences to investigate these causes severally.
 
 
-> 2. If we take the starting-points of demonstration and the causes, are they the object of one science or of more? 
+## 2. If we take the starting-points of demonstration and the causes, are they the object of one science or of more? 
 
 The starting-points of demonstration are the common beliefs on which all men base their proofs. 
 
-e.g. that everything must be either affirmed or denied, and that a thing cannot at the same time be and not be, and all other such premisses:-the question is whether the same science deals with them as with substance, or a different science, and if it is not one science, which of the two must be identified with that which we now seek.
+For example, everything must be either affirmed or denied. A thing cannot at the same time be and not be, and all other such premises. 
 
-It is not reasonable that these topics should be the object of one science; for why should it be peculiarly appropriate to geometry or to any other science to understand these matters? If then it belongs to every science alike, and cannot belong to all, it is not peculiar to the science which investigates substances, any more than to any other science, to know about these topics.
+The question is whether the same science deals with them as with substance, or a different science, and if it is not one science, which of the two must be identified with that which we now seek.
+
+It is not reasonable that these topics should be the object of one science; for why should it be peculiarly appropriate to geometry or to any other science to understand these matters? 
+
+If then it belongs to every science alike, and cannot belong to all, it is not peculiar to the science which investigates substances, any more than to any other science, to know about these topics.
 
 How can there be a science of the first principles? For we are aware even now what each of them in fact is (at least even other sciences use them as familiar); but if there is a demonstrative science which deals with them, there will have to be an underlying kind, and some of them must be demonstrable attributes and others must be axioms (for it is impossible that there should be demonstration about all of them); for the demonstration must start from certain premisses and be about a certain subject and prove certain attributes. Therefore it follows that all attributes that are proved must belong to a single class; for all demonstrative sciences use the axioms.
 
@@ -54,14 +58,12 @@ How can there be a science of the first principles? For we are aware even now wh
 The axioms are most universal and are principles of all things. And if it is not the business of the philosopher, to whom else will it belong to inquire what is true and what is untrue about them?
 
 
-> 3. Do all substances fall under one science or under more than one? 
+## 3. Do all substances fall under one science or under more than one? 
 
 If the latter, to what sort of substance is the present science to be assigned?
 
 On the other hand, it is not reasonable that one science should deal with all. For then there would be one demonstrative science dealing with all attributes. For ever demonstrative science investigates with regard to some subject its essential attributes, starting from the common beliefs. 
 
-Therefore to investigate the essential attributes of one class of things, starting from one set of beliefs, is the business of one science. For the subject belongs to one science, and the premisses belong to one, whether to the same or to another; so that the attributes do so too, whether they are investigated by these sciences or by one compounded out of them.
+Therefore to investigate the essential attributes of one class of things, starting from one set of beliefs, is the business of one science.
 
-
-
-
+For the subject belongs to one science, and the premisses belong to one, whether to the same or to another; so that the attributes do so too, whether they are investigated by these sciences or by one compounded out of them.
