@@ -13,7 +13,9 @@ contributors: ['Leibniz']
 
 31. Our reasonings are grounded on 2 great principles.
 
-- One is the principle of contradiction, by virtue of which we judge false anything which involves a contradiction, and true anything which is the opposite or contradictory of the false.
+- The principle of contradiction.
+
+This lets us judge as false anything which involves a contradiction, and true anything which is the opposite of the false.
 
 32. The other is the principle of sufficient reason
 
@@ -24,7 +26,7 @@ With this, we consider that no fact could be found to be genuine or existent, an
 - those of reasoning
 - those of fact
 
-Truths of reasoning are necessary, and their opposite is impossible; and those of fact are contingent, and their opposite is possible. When a truth is necessary, you can find the reason by analysis, breaking it down into simpler ideas and truths, until you reach primary ones.
+Truths of reasoning are necessary. Their opposite is impossible. Those of fact are contingent. Their opposite is possible. When a truth is necessary, you can find the reason by analysis, breaking it down into simpler ideas and truths, until you reach primary ones.
 
 34. This is how mathematicians use analysis to reduce theorems about what is true, and rules for constructions, to definitions, axioms, and postulates.
 
