@@ -65,7 +65,6 @@ Is a naturalness problem, like the Hierarchy problem, and not a problem of incon
 
 **6.5 Strong CP Problem**
 
-
 - Cause of Problem: Material Influence
 - Solution: [The 5 Layers](/material/principles/intro/chapter-01/), specifically the Spatial and Material Layers
 

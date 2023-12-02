@@ -18,7 +18,7 @@ An analogy is a Photoshop image which is made up layers that are on top of each 
 
 {{< img src="/graphics/super/layers.jpg" alt="Layers in an image" cap="Reality is made up of 5 Layers which the ancients called the 5 Elements" >}}
 
-These layers were known to the ancient Greeks, Hindus, and Chinese as the 5 Elements. Currently, Modern Physics only knows 3 of the 5 as:
+These layers were known to the ancient Greeks, Hindus, and Chinese as the *5 Elements*. Currently, Modern Physics only knows 3 of the 5 as:
 
 1. Strong Force
 2. Weak Force 
@@ -49,7 +49,7 @@ Surely the skilled mathematician is not a dialectician.
 
 <!-- This is why Newton kept on studying the Bible and making predictions from it, as if they could ever come true. His  -->
 
-Newton's ignorance of metaphysics is why he could not find the cause of gravity.
+Newton's ignorance of metaphysics is why he could not find the cause of gravity. But it is most obvious in his attempts to find hidden codes or prophecies in the Bible. 
 
 {{< q a="Newton" c="Principia Mathematica Book 3, General Scholium" >}}
 But I have not been able to discover the cause of gravity from phenomena. I have no hypotheses because hypotheses have no place in experimental philosophy.. To me, it is enough that gravity exists and that it accounts for all the motions of the the celestial bodies, and of our sea. 
@@ -89,9 +89,7 @@ The limitations of Modern Physics are therefore caused by the ignorance of metap
 
 ## The Asian Model
 
-Material Superphysics breaks through the limitations of Modern Physics by adding into it the proper metaphysics from the ancient Greeks, Indians, and Chinese who all follow a five-force or five-layer model: 
-
-
+Material Superphysics breaks through the limitations of Modern Physics by adding into it the proper metaphysics from the ancient Greeks, Indians, and Chinese who all follow a five-force  model: 
 
 Greeks (Timaeus) | Hindus | Chinese | Shape
 --- | --- | --- | --- | ---
@@ -102,7 +100,13 @@ Water (icosahedron) | Jala | 土 transforming earth | ![Icosahedron](/graphics/p
 Earth (cube) | Pritvi | 金 solid metal | ![cube](/graphics/physics/cube.gif)
 
 
-We then unify all the understandings of the Romans, Greeks, Hindus, and Chinese under our 5-Layers model:
+## Superphysics Uses Layers Instead of Fields
+
+Physicists think in 'fields' as a consequence of Faraday assigning 'lines of force' to electromagnetic phenomena. 
+
+But this is refuted by Descartes who wrote that circular motion is the default motion, as a consequence of having no void. This is also refuted by his description of quantum tunneling (in *The World*) where particles can cross over two spaces.  
+
+This is why we use layers instead of fields. We then unify all the understandings of the Romans, Greeks, Hindus, and Chinese under our 5-Layer model:
 
 Name | Greek-Hindu-Chinese | Physics Force | Superphysics Force | Force Carrier | Pythagorean Note
 --- | --- | --- | --- | --- | --- | --- | --- | --- 

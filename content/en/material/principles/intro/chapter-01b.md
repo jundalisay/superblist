@@ -23,3 +23,9 @@ Intelligent beings might have laws of their own making. But they also have some 
 {{< /q >}}
 
 
+When describing movement, Rene Descartes uses the word 'tend to'. This is because movement is inherently probabilistic. This is why Cartesian Physics has Quantum Mechanics built in.  
+
+This is different from Newton or Einstein who formulated their laws of movement emhasizing total predictability. 
+
+
+ 
