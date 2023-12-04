@@ -1,7 +1,8 @@
 ---
-title: "Preface Part 3"
+heading: Preface 3
+title: "The Tree of Philosophy"
 weight: 4
-description: "To The French Translator Of The Principles Of Philosophy Serving For A Preface"
+description: "All Philosophy is like a tree. Metaphysics is the root. Physics the trunk. All the other sciences are the branches"
 contributors: ['Descartes']
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
@@ -9,8 +10,183 @@ icon: "/icons/descartes.png"
 
 
 
-TO THE MOST SERENE PRINCESS,
+All Philosophy is like a tree.
+- Metaphysics is the root
+- Physics the trunk
+- All the other sciences are the branches that grow out of this trunk.
 
-ELIZABETH, ELDEST DAUGHTER OF FREDERICK, KING OF BOHEMIA, COUNT PALATINE, AND ELECTOR OF THE SACRED ROMAN EMPIRE.
+There are 3 principal sciences:
 
-MADAM,—The greatest advantage I have derived from the writings which I have already published, has arisen from my having, through means of them, become known to your Highness, and thus been privileged to hold occasional converse with one in whom so many rare and estimable qualities are united, as to lead me to believe I should do service to the public by proposing them as an example to posterity. It would ill become me to flatter, or to give expression to anything of which I had no certain knowledge, especially in the first pages of a work in which I aim at laying down the principles of truth. And the generous modesty that is conspicuous in all your actions, assures me that the frank and simple judgment of a man who only writes what he believes will be more agreeable to you than the ornate laudations of those who have studied the art of compliment. For this reason, I will give insertion to nothing in this letter for which I have not the certainty both of experience and reason; and in the exordium, as in the rest of the work, I will write only as becomes a philosopher. There is a vast difference between real and apparent virtues; and there is also a great discrepancy between those real virtues that proceed from an accurate knowledge of the truth, and such as are accompanied with ignorance or error. The virtues I call apparent are only, properly speaking, vices, which, as they are less frequent than the vices that are opposed to them, and are farther removed from them than the intermediate virtues, are usually held in higher esteem than those virtues. Thus, because those who fear dangers too much are more numerous than they who fear them too little, temerity is frequently opposed to the vice of timidity, and taken for a virtue, and is commonly more highly esteemed than true fortitude. Thus, also, the prodigal are in ordinary more praised than the liberal; and none more easily acquire a great reputation for piety than the superstitious and hypocritical. With regard to true virtues, these do not all proceed from true knowledge, for there are some that likewise spring from defect or error; thus, simplicity is frequently the source of goodness, fear of devotion, and despair of courage. The virtues that are thus accompanied with some imperfections differ from each other, and have received diverse appellations. But those pure and perfect virtues that arise from the knowledge of good alone are all of the same nature, and may be comprised under the single term wisdom. For, whoever owns the firm and constant resolution of always using his reason as well as lies in his power, and in all his actions of doing what he judges to be best, is truly wise, as far as his nature permits; and by this alone he is just, courageous, temperate, and possesses all the other virtues, but so well balanced as that none of them appears more prominent than another: and for this reason, although they are much more perfect than the virtues that blaze forth through the mixture of some defect, yet, because the crowd thus observes them less, they are not usually extolled so highly. Besides, of the two things that are requisite for the wisdom thus described, namely, the perception of the understanding and the disposition of the will, it is only that which lies in the will which all men can possess equally, inasmuch as the understanding of some is inferior to that of others. But although those who have only an inferior understanding may be as perfectly wise as their nature permits, and may render themselves highly acceptable to God by their virtue, provided they preserve always a firm and constant resolution to do all that they shall judge to be right, and to omit nothing that may lead them to the knowledge of the duties of which they are ignorant; nevertheless, those who preserve a constant resolution of performing the right, and are especially careful in instructing themselves, and who possess also a highly perspicacious intellect, arrive doubtless at a higher degree of wisdom than others; and I see that these three particulars are found in great perfection in your Highness. For, in the first place, your desire of self-instruction is manifest, from the circumstance that neither the amusements of the court, nor the accustomed mode of educating ladies, which ordinarily condemns them to ignorance, have been sufficient to prevent you from studying with much care all that is best in the arts and sciences; and the incomparable perspicacity of your intellect is evinced by this, that you penetrated the secrets of the sciences and acquired an accurate knowledge of them in a very short period. But of the vigour of your intellect I have a still stronger proof, and one peculiar to myself, in that I have never yet met any one who understood so generally and so well as yourself all that is contained in my writings. For there are several, even among men of the highest intellect and learning, who find them very obscure. And I remark, in almost all those who are versant in Metaphysics, that they are wholly disinclined from Geometry; and, on the other hand, that the cultivators of Geometry have no ability for the investigations of the First Philosophy: insomuch that I can say with truth I know but one mind, and that is your own, to which both studies are alike congenial, and which I therefore, with propriety, designate incomparable. But what most of all enhances my admiration is, that so accurate and varied an acquaintance with the whole circle of the sciences is not found in some aged doctor who has employed many years in contemplation, but in a Princess still young, and whose countenance and years would more fitly represent one of the Graces than a Muse or the sage Minerva. In conclusion, I not only remark in your Highness all that is requisite on the part of the mind to perfect and sublime wisdom, but also all that can be required on the part of the will or the manners, in which benignity and gentleness are so conjoined with majesty that, though fortune has attacked you with continued injustice, it has failed either to irritate or crush you. And this constrains me to such veneration that I not only think this work due to you, since it treats of philosophy which is the study of wisdom, but likewise feel not more zeal for my reputation as a philosopher than pleasure in subscribing myself
+1. Medicine
+2. Mechanics
+3. Ethics
+
+The science of Morals is the highest and most perfect. Presupposing an entire knowledge of the other sciences, it is the last degree of wisdom.
+
+We gather fruit from the extremities of the branches of trees, not from the roots or the trunks.
+
+
+Likewise, the principal utility of philosophy depends on the separate uses of its parts, which we can only learn at the end. 
+
+I am ignorant of almost all these. But my zeal in endeavouring to be of service to the public, was the reason why I published 10-12 years ago, Essays on the doctrines I thought I had acquired.
+
+The first part of these Essays was a "Discourse on the Method of rightly conducting the Reason, and seeking Truth in the Sciences".
+
+It summarizes the principal rules of logic, and also of an imperfect ethic, which a person may follow provisionally so long as he does not know any better. 
+
+The other parts were 3 treatises:
+
+1. Dioptrics
+
+This shows that we might proceed far enough in philosophy as to arrive, by its means, at the knowledge of the arts that are useful to life, because the invention of the telescope, of which I there gave an explanation, is one of the most difficult that has ever been made. 
+
+2. Meteors
+
+This shows the difference that subsists between the philosophy I cultivate and that taught in the schools, in which the same matters are usually discussed. 
+
+3. Geometry
+
+I professed to demonstrate that I had discovered many things that were before unknown, and thus afford ground for believing that we may still discover many others, with the view of thus stimulating all to the investigation of truth. 
+
+
+Since that time, I had anticipated the difficulty which many would experience in apprehending the foundations of the Metaphysics.
+
+This is why I wrote the small book of Meditations. It was enlarged with the Objections which several very learned persons sent to me about it, as well as my Replies. 
+
+<!-- I endeavoured to explain the chief points of them in a , which is not in itself large, but the size of which has been increased, and the matter greatly illustrated, by the  on occasion of it, and by the Replies which I made to them.  -->
+
+At length, after it appeared to me that those preceding treatises had sufficiently prepared the minds of my readers for the Principles of Philosophy, I also published it.
+
+I have divided this work into 4 parts:
+
+1. The principles of human knowledge.
+
+It may be called the First Philosophy, or Metaphysics.
+
+This requires the reading of the book of Meditations beforehand. 
+
+The other 3 parts contain all that is most general in Physics
+
+2. The explanation of the first laws or principles of nature.
+
+This is how the heavens, fixed stars, planets, comets, and the whole universe, were composed.
+
+3. The explanation of the nature of this earth, air, water, fire, and magnet
+
+These are the bodies we most commonly find everywhere around the earth.
+
+4. The explanation of all the qualities we observe in these bodies
+
+Examples are light, heat, gravity, and the like.
+
+
+In this way, I have made an orderly explanation of the whole of philosophy.
+
+<!-- without omitting any of the matters that ought to precede the last which I discussed.  -->
+
+In the work's conclusion, I also explain the nature of more particular bodies that are on the earth:
+- minerals
+- plants
+- animals
+- especially man
+
+Finally, I treat thereafter Medicine, Ethics, and Mechanics. 
+
+<!-- with accuracy of -->
+
+I did this to give to the world a complete body of philosophy.
+
+I am not yet so old. I still trust my strength. But I do not have the resources to make all the experiments I require to verify my reasonings.
+
+ <!-- and still , nor do I find myself so far removed from the knowledge of what remains, as that I should not dare to undertake to complete this design, provided I were in a position to  -->
+
+I need the public's help to fund those experiments, yet I have no ground to expect this aid.  
+
+<!-- But seeing that would demand a great expenditure, to which the resources of a private individual like myself would not be adequate, unless aided by the public, and as , I believe that I ought for the future to content -->
+
+I just content myself with studying for my own instruction. Posterity will excuse me if I fail to labour for those experiments.
+
+<!-- Meanwhile, that it may be seen wherein I think I have already promoted the general good, I will here mention the -->
+
+What fruits may be gathered from my Principles?
+
+1. The mental satisfaction from finding in the work many truths before unknown.
+
+Frequently, truth does not so greatly affect our imagination as falsity and fiction. This is because truth is less wonderful and is more simple. Yet, the gratification it affords is always more durable and solid.
+
+2. We will become gradually used to judging better all the things we come in contact with.
+
+<!-- In studying these principles, -->
+Thus, we are made wiser. 
+
+<!-- , in which respect the effect will be quite the opposite of the common philosophy, for we may easily remark in those we call pedants that it renders them less capable of rightly exercising their reason than they would have been if they had never known it. -->
+
+3. The resolution of all disputes
+
+This is because the truths which my Principles contain are highly clear and certain. The resolution of disputes will dispose men's minds to gentleness and concord.
+
+This is the opposite of the effect of the controversies of the schools which now harass the world. 
+
+<!-- , which, as they insensibly render those who are exercised in them more wrangling and opinionative, are perhaps the prime cause of the heresies and dissensions that .  -->
+
+4. The discovery of many truths which I myself have not unfolded.
+
+<!-- one will be able, by cultivating them, to -->
+Thus, by passing by degrees from one truth to another, people will acquire in time a perfect knowledge of the whole of philosophy.
+
+<!-- , and to rise to the highest degree of wisdom.  -->
+
+All the arts are rude and imperfect in their beginnings. Yet they are gradually perfected by practice, from their containing at first something true, and whose effect experience evinces.
+
+Likewise, my philosophy has true principles which we follow to meet sometimes with other truths.
+
+The best way to prove the falsity of Aristotle's philosophy is to say that men have made no progress in knowledge throught it during the many ages that they studied it. 
+ <!-- prosecuted them. -->
+
+
+## Fake Followers
+
+Some men are so used to doing so little circumspection in their activities. They are unable to erect a firm superstructure even on the most solid foundations. Yet they are the readiest to write books. They would in a short time:
+- mar all that I have done
+- introduce uncertainty and doubt into my manner of philosophizing even if I have carefully endeavoured to banish them
+
+<!-- , if people were to receive their writings as mine, or as representing my opinions. -->
+
+Not long ago, one of my followers last year published a book "Fundamental Physics" based on my writings. He copied my writings badly, and changed the order, and denied certain metaphysical truths which all Physics should be based on.
+ <!-- some experience of this in one of those who were believed desirous of following me the most closely,  -->
+
+[Footnote: Regius; see La Vie de M. Descartes, reduite en abrege (Baillet). Liv. vii., chap. vii.—T.]
+
+<!-- and one too of whom I had somewhere said that I had 
+
+such confidence in his genius as to believe that he adhered to no opinions which I should not be ready to avow as mine;  -->
+
+
+
+<!-- , although he seems to have written nothing on the subject of Physics and Medicine which he did not take from my writings, as well from those I have published as from another still imperfect on the nature of animals, which fell into his hands;  -->
+
+I wholly disavow his work. 
+
+I ask readers:
+- not to attribute to me any opinion unless they find it expressly stated in my own writings
+- to receive no opinion as true, whether in my writings or elsewhere, unless they see that it is very clearly deduced from true principles.
+
+Many ages may elapse where all the truths deducible from these principles are evolved out of them. This is because:
+- more of the truths that remain to be discovered depend on experiments that never occur by chance
+  - These experiments need careful investigation by men of the highest intelligence
+- the same persons who have the sagacity to correctly use experiments, will also possess the means of conduciting them
+- the majority of the best minds have formed so low an estimate of philosophy in general, that they cannot apply themselves to the search for truth
+
+ <!-- from the imperfections they have remarked in the kind in vogue up to the present time, that . -->
+
+
+<!-- If the difference discernible between the principles in question and those of every other system, and the great array of truths deducible from them, lead them to discern the importance of continuing the search after these truths, and to observe the degree of wisdom, the perfection and felicity of life, to which they are fitted to conduct us, 
+
+Anyone who is ready to labour hard in so profitable a study, or at least aid with all his might, shall devote themselves to it with success.  -->
+<!-- There will not be found one who is not ready 
+
+, or at least to favour and  
+
+those who  -->
+
+My highest wish is for posterity to behold the happy issue of it, etc.

@@ -70,7 +70,7 @@ Socratic Dialectics uses timeless metaphysical truths as the quality control for
 - Dialectical Materialism has led to Marxism and Communism. 
 - Scientism has limited Physics to the 3 Elements (Strong Force, Weak Force, Electromagnetism) and has kept the 2 higner Elements (Spacetime, and Aether) out of reach, undiscovered.  As a result, humans are unable to spread themselves to Mars or even to the Moon.
 
-The enlightened philosophers like Bacon, Hume, and Ibn-Khaldun denounced Aristotle. So you can say we are fully in the Plato-Pythagoras-Hinduism-Buddhism-Taoism camp.
+The enlightened philosophers like Bacon, Hume, and Ibn-Khaldun denounced Aristotle. So you can say we are fully in the Pythagoras-Plato-Descartes-Hume-Hinduism-Buddhism-Taoism camp.
 {{< /l >}}
 
 <!--  which has caused a lot of problems in the world via Marxism and Communism. The goals of Marxism of freedom and justice are very good and noble, but its underlying metaphysics is totally junk. This leads to suffering instead of goodness.
@@ -141,8 +141,17 @@ Yes. It's more commonly known as theories that say that we exist in a simulation
 
 It means existence was not meant to be suffered. In our case, we use this knowledge to solve all problems.
 
-In the beginning, we used it to solve personal problems of others. In time, we saw everyone having the same pattern of problems. So we organized everything into Superphysics principles to make problem-solving more efficient. We saw that David Hume, in his Treatise of Human Nature, was already ahead in this regard. So we organized our principles into three (Material, Bio, and Social) to match his three books.  
+In the beginning, we used it to solve personal problems of others. In time, we saw everyone having the same pattern of problems. So we organized everything into Superphysics principles to make problem-solving more efficient. We saw that David Hume, in his Treatise of Human Nature, was already ahead in this regard. So we organized our principles into three (Material, Bio, and Social) to match his three books. This also matches the categorization by Descartes.  
 {{< /l >}}
+
+{{< q a="Descartes" c="The Principles of Philosophy, Preface" >}}
+There are 3 principal sciences:
+
+1. Medicine
+2. Mechanics
+3. Ethics
+{{< /q >}}
+
 
 {{< r a="Asker" >}}
 So how can that knowledge solve problems? Are you just going to be like the Hindus and solve the problem by ignoring it as an illusion?

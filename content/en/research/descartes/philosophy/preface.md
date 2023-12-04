@@ -1,5 +1,6 @@
 ---
-title: "Preface"
+heading: Preface 1 
+title: "To The French Translator"
 weight: 2
 description: "To The French Translator Of The Principles Of Philosophy Serving For A Preface"
 contributors: ['Descartes']
@@ -10,7 +11,7 @@ icon: "/icons/descartes.png"
 
 <!-- LETTER OF THE AUTHOR -->
 
-To The French Translator: 
+To The French Translator:
 <!-- Of The Principles Of Philosophy Serving For A Preface. -->
 
 Sir, the version of my principles which you have been at pains to make, is so elegant. It makes me believe that it will be more generally read and better understood in French than in Latin. 

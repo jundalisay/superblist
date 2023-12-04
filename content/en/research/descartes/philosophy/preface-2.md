@@ -1,5 +1,6 @@
 ---
-title: "Preface Part 2"
+heading: Preface 2
+title: "The 4 Ways of Getting Wisdom"
 weight: 3
 description: "To The French Translator Of The Principles Of Philosophy Serving For A Preface"
 contributors: ['Descartes']
@@ -8,39 +9,282 @@ icon: "/icons/descartes.png"
 ---
 
 
+People find it hard to assenting to these doctrines when they see philosophers being less wise and reasonable than those who never studied philosophy.
 
-But as one is restrained from assenting to these doctrines by experience, which shows that they who make pretensions to philosophy are often less wise and reasonable than others who never studied it. 
+<!--  by experience, which shows that they who make pretensions to philosophy are often . 
 
-applied themselves to the study, I should have here shortly explained wherein consists all the science we now possess, and what are the degrees of wisdom at which we have arrived. 
-
-The first degree contains only notions so clear of themselves that they can be acquired without meditation; the second comprehends all that the experience of the senses dictates; the third, that which the conversation of other men teaches us; to which may be added as the fourth, the reading, not of all books, but especially of such as have been written by persons capable of conveying proper instruction, for it is a species of conversation we hold with their authors. And it seems to me that all the wisdom we in ordinary possess is acquired only in these four ways; for I do not class divine revelation among them, because it does not conduct us by degrees, but elevates us at once to an infallible faith.
-
-There have been, indeed, in all ages great minds who endeavoured to find a fifth road to wisdom, incomparably more sure and elevated than the other four. The path they essayed was the search of first causes and true principles, from which might be deduced the reasons of all that can be known by man; and it is to them the appellation of philosophers has been more especially accorded. I am not aware that there is any one of them up to the present who has succeeded in this enterprise. The first and chief whose writings we possess are Plato and Aristotle, between whom there was no difference, except that the former, following in the footsteps of his master, Socrates, ingenuously confessed that he had never yet been able to find anything certain, and that he was contented to write what seemed to him probable, imagining, for this end, certain principles by which he endeavoured to account for the other things. Aristotle, on the other hand, characterised by less candour, although for twenty years the disciple of Plato, and with no principles beyond those of his master, completely reversed his mode of putting them, and proposed as true and certain what it is probable he himself never esteemed as such. But these two men had acquired much judgment and wisdom by the four preceding means, qualities which raised their authority very high, so much so that those who succeeded them were willing rather to acquiesce in their opinions, than to seek better for themselves. The chief question among their disciples, however, was as to whether we ought to doubt of all things or hold some as certain,—a dispute which led them on both sides into extravagant errors; for a part of those who were for doubt, extended it even to the actions of life, to the neglect of the most ordinary rules required for its conduct; those, on the other hand, who maintained the doctrine of certainty, supposing that it must depend upon the senses, trusted entirely to them. To such an extent was this carried by Epicurus, that it is said he ventured to affirm, contrary to all the reasonings of the astronomers, that the sun is no larger than it appears.
-
-It is a fault we may remark in most disputes, that, as truth is the mean between the two opinions that are upheld, each disputant departs from it in proportion to the degree in which he possesses the spirit of contradiction. But the error of those who leant too much to the side of doubt, was not followed for any length of time, and that of the opposite party has been to some extent corrected by the doctrine that the senses are deceitful in many instances. Nevertheless, I do not know that this error was wholly removed by showing that certitude is not in the senses, but in the understanding alone when it has clear perceptions; and that while we only possess the knowledge which is acquired in the first four grades of wisdom, we ought not to doubt of the things that appear to be true in what regards the conduct of life, nor esteem them as so certain that we cannot change our opinions regarding them, even though constrained by the evidence of reason.
-
-From ignorance of this truth, or, if there was any one to whom it was known, from neglect of it, the majority of those who in these later ages aspired to be philosophers, blindly followed Aristotle, so that they frequently corrupted the sense of his writings, and attributed to him various opinions which he would not recognise as his own were he now to return to the world; and those who did not follow him, among whom are to be found many of the greatest minds, did yet not escape being imbued with his opinions in their youth, as these form the staple of instruction in the schools; and thus their minds were so preoccupied that they could not rise to the knowledge of true principles. And though I hold all the philosophers in esteem, and am unwilling to incur odium by my censure, I can adduce a proof of my assertion, which I do not think any of them will gainsay, which is, that they all laid down as a principle what they did not perfectly know. For example, I know none of them who did not suppose that there was gravity in terrestrial bodies; but although experience shows us very clearly that bodies we call heavy descend towards the center of the earth, we do not, therefore, know the nature of gravity, that is, the cause or principle in virtue of which bodies descend, and we must derive our knowledge of it from some other source. The same may be said of a vacuum and atoms, of heat and cold, of dryness and humidity, and of salt, sulphur, and mercury, and the other things of this sort which some have adopted as their principles. But no conclusion deduced from a principle which is not clear can be evident, even although the deduction be formally valid; and hence it follows that no reasonings based on such principles could lead them to the certain knowledge of any one thing, nor consequently advance them one step in the search after wisdom. And if they did discover any truth, this was due to one or other of the four means above mentioned. Notwithstanding this, I am in no degree desirous to lessen the honour which each of them can justly claim; I am only constrained to say, for the consolation of those who have not given their attention to study, that just as in travelling, when we turn our back upon the place to which we were going, we recede the farther from it in proportion as we proceed in the new direction for a greater length of time and with greater speed, so that, though we may be afterwards brought back to the right way, we cannot nevertheless arrive at the destined place as soon as if we had not moved backwards at all; so in philosophy, when we make use of false principles, we depart the farther from the knowledge of truth and wisdom exactly in proportion to the care with which we cultivate them, and apply ourselves to the deduction of diverse consequences from them, thinking that we are philosophizing well, while we are only departing the farther from the truth; from which it must be inferred that they who have learned the least of all that has been hitherto distinguished by the name of philosophy are the most fitted for the apprehension of truth.
-
-After making those matters clear, I should, in the next place, have desired to set forth the grounds for holding that the true principles by which we may reach that highest degree of wisdom wherein consists the sovereign good of human life, are those I have proposed in this work; and two considerations alone are sufficient to establish this—the first of which is, that these principles are very clear, and the second, that we can deduce all other truths from them; for it is only these two conditions that are required in true principles. But I easily prove that they are very clear; firstly, by a reference to the manner in which I found them, namely, by rejecting all propositions that were in the least doubtful, for it is certain that such as could not be rejected by this test when they were attentively considered, are the most evident and clear which the human mind can know. Thus by considering that he who strives to doubt of all is unable nevertheless to doubt that he is while he doubts, and that what reasons thus, in not being able to doubt of itself and doubting nevertheless of everything else, is not that which we call our body, but what we name our mind or thought, I have taken the existence of this thought for the first principle, from which I very clearly deduced the following truths, namely, that there is a God who is the author of all that is in the world, and who, being the source of all truth, cannot have created our understanding of such a nature as to be deceived in the judgments it forms of the things of which it possesses a very clear and distinct perception. Those are all the principles of which I avail myself touching immaterial or metaphysical objects, from which I most clearly deduce these other principles of physical or corporeal things, namely, that there are bodies extended in length, breadth, and depth, which are of diverse figures and are moved in a variety of ways. Such are in sum the principles from which I deduce all other truths. The second circumstance that proves the clearness of these principles is, that they have been known in all ages, and even received as true and indubitable by all men, with the exception only of the existence of God, which has been doubted by some, because they attributed too much to the perceptions of the senses, and God can neither be seen nor touched.
-
-But, though all the truths which I class among my principles were known at all times, and by all men, nevertheless, there has been no one up to the present, who, so far as I know, has adopted them as principles of philosophy: in other words, as such that we can deduce from them the knowledge of whatever else is in the world. It accordingly now remains for me to prove that they are such; and it appears to me that I cannot better establish this than by the test of experience: in other words, by inviting readers to peruse the following work. For, though I have not treated in it of all matters- -that being impossible—I think I have so explained all of which I had occasion to treat, that they who read it attentively will have ground for the persuasion that it is unnecessary to seek for any other principles than those I have given, in order to arrive at the most exalted knowledge of which the mind of man is capable; especially if, after the perusal of my writings, they take the trouble to consider how many diverse questions are therein discussed and explained, and, referring to the writings of others, they see how little probability there is in the reasons that are adduced in explanation of the same questions by principles different from mine. And that they may the more easily undertake this, I might have said that those imbued with my doctrines have much less difficulty in comprehending the writings of others, and estimating their true value, than those who have not been so imbued; and this is precisely the opposite of what I before said of such as commenced with the ancient philosophy, namely, that the more they have studied it the less fit are they for rightly apprehending the truth.
-
-I should also have added a word of advice regarding the manner of reading this work, which is, that I should wish the reader at first to go over the whole of it, as he would a romance, without greatly straining his attention, or tarrying at the difficulties he may perhaps meet with in it, with the view simply of knowing in general the matters of which I treat; and that afterwards, if they seem to him to merit a more careful examination, and he feel a desire to know their causes, he may read it a second time, in order to observe the connection of my reasonings; but that he must not then give it up in despair, although he may not everywhere sufficiently discover the connection of the proof, or understand all the reasonings—it being only necessary to mark with a pen the places where the difficulties occur, and continue to read without interruption to the end; then, if he does not grudge to take up the book a third time, I am confident he will find in a fresh perusal the solution of most of the difficulties he will have marked before; and that, if any still remain, their solution will in the end be found in another reading.
-
-I have observed, on examining the natural constitutions of different minds, that there are hardly any so dull or slow of understanding as to be incapable of apprehending good opinions, or even of acquiring all the highest sciences, if they be but conducted along the right road. And this can also be proved by reason; for, as the principles are clear, and as nothing ought to be deduced from them, unless most manifest inferences, no one is so devoid of intelligence as to be unable to comprehend the conclusions that flow from them. But, besides the entanglement of prejudices, from which no one is entirely exempt, although it is they who have been the most ardent students of the false sciences that receive the greatest detriment from them, it happens very generally that people of ordinary capacity neglect to study from a conviction that they want ability, and that others, who are more ardent, press on too rapidly: whence it comes to pass that they frequently admit principles far from evident, and draw doubtful inferences from them. For this reason, I should wish to assure those who are too distrustful of their own ability that there is nothing in my writings which they may not entirely understand, if they only take the trouble to examine them; and I should wish, at the same time, to warn those of an opposite tendency that even the most superior minds will have need of much time and attention to remark all I designed to embrace therein.
-
-After this, that I might lead men to understand the real design I had in publishing them, I should have wished here to explain the order which it seems to me one ought to follow with the view of instructing himself. In the first place, a man who has merely the vulgar and imperfect knowledge which can be acquired by the four means above explained, ought, before all else, to endeavour to form for himself a code of morals, sufficient to regulate the actions of his life, as well for the reason that this does not admit of delay as because it ought to be our first care to live well. In the next place, he ought to study Logic, not that of the schools, for it is only, properly speaking, a dialectic which teaches the mode of expounding to others what we already know, or even of speaking much, without judgment, of what we do not know, by which means it corrupts rather than increases good sense—but the logic which teaches the right conduct of the reason with the view of discovering the truths of which we are ignorant; and, because it greatly depends on usage, it is desirable he should exercise himself for a length of time in practising its rules on easy and simple questions, as those of the mathematics. Then, when he has acquired some skill in discovering the truth in these questions, he should commence to apply himself in earnest to true philosophy, of which the first part is Metaphysics, containing the principles of knowledge, among which is the explication of the principal attributes of God, of the immateriality of the soul, and of all the clear and simple notions that are in us; the second is Physics, in which, after finding the true principles of material things, we examine, in general, how the whole universe has been framed; in the next place, we consider, in particular, the nature of the earth, and of all the bodies that are most generally found upon it, as air, water, fire, the loadstone and other minerals. In the next place it is necessary also to examine singly the nature of plants, of animals, and above all of man, in order that we may thereafter be able to discover the other sciences that are useful to us. Thus, all Philosophy is like a tree, of which Metaphysics is the root, Physics the trunk, and all the other sciences the branches that grow out of this trunk, which are reduced to three principal, namely, Medicine, Mechanics, and Ethics. By the science of Morals, I understand the highest and most perfect which, presupposing an entire knowledge of the other sciences, is the last degree of wisdom.
-
-But as it is not from the roots or the trunks of trees that we gather the fruit, but only from the extremities of their branches, so the principal utility of philosophy depends on the separate uses of its parts, which we can only learn last of all. But, though I am ignorant of almost all these, the zeal I have always felt in endeavouring to be of service to the public, was the reason why I published, some ten or twelve years ago, certain Essays on the doctrines I thought I had acquired. The first part of these Essays was a "Discourse on the Method of rightly conducting the Reason, and seeking Truth in the Sciences," in which I gave a summary of the principal rules of logic, and also of an imperfect ethic, which a person may follow provisionally so long as he does not know any better. The other parts were three treatises: the first of Dioptrics, the second of Meteors, and the third of Geometry. In the Dioptrics, I designed to show that we might proceed far enough in philosophy as to arrive, by its means, at the knowledge of the arts that are useful to life, because the invention of the telescope, of which I there gave an explanation, is one of the most difficult that has ever been made. In the treatise of Meteors, I desired to exhibit the difference that subsists between the philosophy I cultivate and that taught in the schools, in which the same matters are usually discussed. In fine, in the Geometry, I professed to demonstrate that I had discovered many things that were before unknown, and thus afford ground for believing that we may still discover many others, with the view of thus stimulating all to the investigation of truth. Since that period, anticipating the difficulty which many would experience in apprehending the foundations of the Metaphysics, I endeavoured to explain the chief points of them in a book of Meditations, which is not in itself large, but the size of which has been increased, and the matter greatly illustrated, by the Objections which several very learned persons sent to me on occasion of it, and by the Replies which I made to them. At length, after it appeared to me that those preceding treatises had sufficiently prepared the minds of my readers for the Principles of Philosophy, I also published it; and I have divided this work into four parts, the first of which contains the principles of human knowledge, and which may be called the First Philosophy, or Metaphysics. That this part, accordingly, may be properly understood, it will be necessary to read beforehand the book of Meditations I wrote on the same subject. The other three parts contain all that is most general in Physics, namely, the explication of the first laws or principles of nature, and the way in which the heavens, the fixed stars, the planets, comets, and generally the whole universe, were composed; in the next place, the explication, in particular, of the nature of this earth, the air, water, fire, the magnet, which are the bodies we most commonly find everywhere around it, and of all the qualities we observe in these bodies, as light, heat, gravity, and the like. In this way, it seems to me, I have commenced the orderly explanation of the whole of philosophy, without omitting any of the matters that ought to precede the last which I discussed. But to bring this undertaking to its conclusion, I ought hereafter to explain, in the same manner, the nature of the other more particular bodies that are on the earth, namely, minerals, plants, animals, and especially man; finally, to treat thereafter with accuracy of Medicine, Ethics, and Mechanics. I should require to do this in order to give to the world a complete body of philosophy; and I do not yet feel myself so old,- -I do not so much distrust my strength, nor do I find myself so far removed from the knowledge of what remains, as that I should not dare to undertake to complete this design, provided I were in a position to make all the experiments which I should require for the basis and verification of my reasonings. But seeing that would demand a great expenditure, to which the resources of a private individual like myself would not be adequate, unless aided by the public, and as I have no ground to expect this aid, I believe that I ought for the future to content myself with studying for my own instruction, and posterity will excuse me if I fail hereafter to labour for them.
-
-Meanwhile, that it may be seen wherein I think I have already promoted the general good, I will here mention the fruits that may be gathered from my Principles. The first is the satisfaction which the mind will experience on finding in the work many truths before unknown; for although frequently truth does not so greatly affect our imagination as falsity and fiction, because it seems less wonderful and is more simple, yet the gratification it affords is always more durable and solid. The second fruit is, that in studying these principles we will become accustomed by degrees to judge better of all the things we come in contact with, and thus be made wiser, in which respect the effect will be quite the opposite of the common philosophy, for we may easily remark in those we call pedants that it renders them less capable of rightly exercising their reason than they would have been if they had never known it. The third is, that the truths which they contain, being highly clear and certain, will take away all ground of dispute, and thus dispose men's minds to gentleness and concord; whereas the contrary is the effect of the controversies of the schools, which, as they insensibly render those who are exercised in them more wrangling and opinionative, are perhaps the prime cause of the heresies and dissensions that now harass the world. The last and chief fruit of these Principles is, that one will be able, by cultivating them, to discover many truths I myself have not unfolded, and thus passing by degrees from one to another, to acquire in course of time a perfect knowledge of the whole of philosophy, and to rise to the highest degree of wisdom. For just as all the arts, though in their beginnings they are rude and imperfect, are yet gradually perfected by practice, from their containing at first something true, and whose effect experience evinces; so in philosophy, when we have true principles, we cannot fail by following them to meet sometimes with other truths; and we could not better prove the falsity of those of Aristotle, than by saying that men made no progress in knowledge by their means during the many ages they prosecuted them.
-
-I well know that there are some men so precipitate and accustomed to use so little circumspection in what they do, that, even with the most solid foundations, they could not rear a firm superstructure; and as it is usually those who are the readiest to make books, they would in a short time mar all that I have done, and introduce uncertainty and doubt into my manner of philosophizing, from which I have carefully endeavoured to banish them, if people were to receive their writings as mine, or as representing my opinions. I had, not long ago, some experience of this in one of those who were believed desirous of following me the most closely, [Footnote: Regius; see La Vie de M. Descartes, reduite en abrege (Baillet). Liv. vii., chap. vii.—T.] and one too of whom I had somewhere said that I had such confidence in his genius as to believe that he adhered to no opinions which I should not be ready to avow as mine; for he last year published a book entitled "Fundamental Physics," in which, although he seems to have written nothing on the subject of Physics and Medicine which he did not take from my writings, as well from those I have published as from another still imperfect on the nature of animals, which fell into his hands; nevertheless, because he has copied them badly, and changed the order, and denied certain metaphysical truths upon which all Physics ought to be based, I am obliged wholly to disavow his work, and here to request readers not to attribute to me any opinion unless they find it expressly stated in my own writings, and to receive no opinion as true, whether in my writings or elsewhere, unless they see that it is very clearly deduced from true principles. I well know, likewise, that many ages may elapse ere all the truths deducible from these principles are evolved out of them, as well because the greater number of such as remain to be discovered depend on certain particular experiments that never occur by chance, but which require to be investigated with care and expense by men of the highest intelligence, as because it will hardly happen that the same persons who have the sagacity to make a right use of them, will possess also the means of making them, and also because the majority of the best minds have formed so low an estimate of philosophy in general, from the imperfections they have remarked in the kind in vogue up to the present time, that they cannot apply themselves to the search after truth.
-
-But, in conclusion, if the difference discernible between the principles in question and those of every other system, and the great array of truths deducible from them, lead them to discern the importance of continuing the search after these truths, and to observe the degree of wisdom, the perfection and felicity of life, to which they are fitted to conduct us, I venture to believe that there will not be found one who is not ready to labour hard in so profitable a study, or at least to favour and aid with all his might those who shall devote themselves to it with success.
-
-The height of my wishes is, that posterity may sometime behold the happy issue of it, etc.
+applied themselves to the study, I should have here shortly explained wherein consists all the science we now possess, and what are the degrees of wisdom at which we have arrived.  -->
 
 
+All the wisdom we ordinarily possess is acquired only in these 4 ways:
+
+1. Through notions so clear that they can be acquired without meditation
+2. Through sensory experience
+3. Through the conversation of other men
+4. Through the reading of books written by proper teachers 
 
 
+<!-- persons capable of conveying proper instruction, for it is a species of conversation we hold with their authors. -->
+
+Divine revelation is not one of these. This is because divine revelation does not conduct us by degrees, but elevates us at once to an infallible faith.
+
+
+In all ages, great minds, properly called philosophers, have tried to find a 5th road to wisdom, more sure and elevated than the other four. They wrote about the search of first causes and true principles, from which we could derive all that can be known by man.
+
+But none of them have succeeded. 
+
+The first and chief whose writings we possess are Plato and Aristotle. 
+
+<!-- They are the same except that  -->
+
+Plato followed his master, Socrates.
+
+Socrates, ingenuously confessed that:
+- he could never find anything certain
+- he wrote about certain principles to account for the other things
+
+  <!-- was contented to write what seemed to him probable, imagining, for this end,  -->
+ 
+Aristotle was the disciple of Plato for 20 years.
+- He had less candour.
+- He had no principles of his own. 
+
+Instead, he completely reversed Plato's principles. 
+- He proposed as true and certain what it is probable he himself never esteemed as such.
+
+But Plato and Aristotle had acquired much judgment and wisdom by the 4 means.
+- This raised their authority very high. 
+- Those who came after them were willing to acquiesce in their opinions, than to seek better ones. 
+
+Their chief question was: **Should we doubt all things? Or should we hold some as certain?**
+
+<!-- This dispute led both sides into extravagant errors. -->
+
+
+## The Middle Way
+
+**Truth is the mean between the 2 opinions.**
+
+Most disputes have this problem: each disputant departs from the middle truth in proportion to his spirit of contradiction. This causes errors in both sides.
+
+
+1. Favor Doubt
+
+Those who favored doubt extended it even to the actions of life, to the neglect of the most ordinary rules required for its conduct. Their error was not followed for a long time.
+
+
+2. Favor No Doubt
+
+Those who maintained the doctrine of certainty supposed that it depends on the senses and trusted entirely to them.
+
+This was adopted by Epicurus. He affirmed, contrary to all the reasonings of the astronomers, that the sun is no larger than it appears.
+
+Their error has been corrected to some extent by the doctrine that the senses are often deceitful.
+
+<!-- Nevertheless, I do not know that this error was wholly removed by showing that  -->
+
+Certitude is not in the senses, but in the understanding alone when it has clear perceptions. 
+
+<!-- while we only possess the knowledge which is acquired in the first four grades of wisdom,  -->
+
+We should:
+- not doubt the things that appear to be true in what regards life. 
+- esteem those things as so certain that we cannot change our opinions about them, even though constrained by the evidence of reason.
+
+<!-- the conduct of life, nor  -->
+
+
+Because of the ignorance of this truth, the majority of later philosophers blindly followed Aristotle. 
+
+<!-- or, if there was any one to whom it was known, from neglect of it, -->
+- They frequently corrupted the sense of his writings.
+- They attributed to him various ideas which were not from him. 
+ <!-- opinions which he would not recognise as his own were he now to return to the world. -->
+
+These ideas were then taught in the schools. 
+- Even those who did not follow Aristotle were imbued with these ideas in their youth.
+<!-- ; and those who did not follow him, among whom are to be found many of the greatest minds, did yet not escape being , as these form the staple of instruction .. -->
+- This made them believe that they could not rise to the knowledge of true principles.
+
+ <!-- and thus their minds were so preoccupied that   -->
+
+<!-- And though I hold all the philosophers in esteem, and am unwilling to incur odium by my censure, I can adduce a proof of my assertion, which I do not think any of them will gainsay, which is, that  -->
+
+Most philosophers laid down principles on things that they did not perfectly know. 
+
+For example, they knew that there was gravity in terrestrial bodies from seeing heavy bodies descend towards the center of the earth.
+- But they do not know the nature of gravity, that is, the cause or principle in virtue of why bodies descend. 
+- We must derive our knowledge of it from some other source.
+
+The same may be said of:
+- a vacuum and atoms
+- heat and cold
+- dryness and humidity
+- salt, sulphur, and mercury
+- etc
+
+<!-- , and the other things of this sort which some have adopted as their principles.  -->
+
+<!-- But no  deduced from -->
+But an unclear principle cannot lead to conclusions even if the deduction is formally valid.
+
+ <!-- which is not clear can be evident, -->
+
+Hence, it follows that no reasonings based on such principles could;
+- lead them to the certain knowledge of any one thing, nor
+- consequently advance them in the search for wisdom.
+
+If they did discover any truth, this was due to one or other of the 4 means above mentioned.
+
+This does not mean I want to reduce the honour of those philosophers.
+
+In travelling, when sometimes choose the wrong way to reach our destination. 
+- This would make us go farther from our destination with each step, even if we think that each step gets us closer to it.
+- In such a case, it would have been better to not have taken any more steps.
+
+<!-- we turn our back upon the place to which we were going, we recede the farther from it in proportion as we proceed in the new direction for a greater length of time and with greater speed, so that, though we may be afterwards brought back to the right way, we cannot nevertheless arrive at the destined place as soon as if we had not moved backwards at all;  -->
+
+Likewise in philosophy, when we use false principles, we actually go farther from our destination of knowing truth and wisdom.
+- We think that we are cultivating wisdom when we deduce the diverse consequences from false principles.
+- We think that we are philosophizing well, when in reality, we are only departing the farther from the truth.
+- In this case, the most unlearned are ironically the most fitted to apprehend the truth.
+
+ <!-- exactly in proportion to the care with which we  them, and apply ourselves to the deduction of diverse  from them, thinking that we are  -->
+
+<!-- from which it must be inferred that they who have learned the least of all that has been hitherto distinguished by the name of philosophy . -->
+
+How do we get to the true principles that can help us reach that highest degree of wisdom?
+
+ <!-- wherein consists the sovereign good of human life,  -->
+
+This is what my work is for. 
+
+Only 2 conditions are required in true principles:
+
+1. These principles are very clear
+2. We can deduce all other truths from them
+
+I easily prove that they are very clear
+
+1. By rejecting all propositions that were in the least doubtful
+
+Propositions cannot be rejected by this test when they are attentively considered. This is how I found those true principles.
+
+<!-- are the most evident and clear which the human mind can know.  -->
+
+A person who doubts all will doubt all, but will be unable to doubt his own existence. The reasoning thing will not be able to doubt itself. It cam doubt its body, but not its mind. 
+
+<!-- Thus by considering that he who strives to doubt of all is unable to doubt that he is while he doubts, and that what reasons thus, in not being able to doubt of itself and doubting nevertheless of everything else, is not that which we call our body, but what we name our mind or thought,  -->
+
+This mind is the first principle. This principle necessarily leads to following truths:
+<!-- I have taken the existence of this thought for the first principle, from which I very clearly deduced the  -->
+- there is a God who is the author of all that is in the world
+- he is the source of all truth
+- he cannot deceive us*
+
+> *Superphysics Note: Here, Descartes' God matches the Positive Force in Superphysics. It is not the Supreme Being or Brahma.
+
+
+<!-- have created our understanding of such a nature as to be deceived in the judgments it forms of the things of which it possesses a very clear and distinct perception.  -->
+
+Those are all the principles touching immaterial or metaphysical objects. From these principles, I most clearly deduce the principles of physical or corporeal things:
+
+1. There are bodies extended in length, width, and heigth
+
+These are of diverse shapes and are moved in a variety of ways.
+
+ <!-- Such are in sum the principles from which I deduce all other truths.  -->
+
+2. By the fact that they have been known in all ages
+
+They have been received as true and indubitable by all men. Only the existence of God has been doubted by some because they attributed too much to the perceptions of the senses, and God can neither be seen nor touched.
+<!-- the exception only of -->
+
+<!-- But, though all the truths which I class among my principles were known at all times, and by all men, nevertheless, there has been no one up to the present, who  -->
+
+But no one, so far as I know, has adopted my principles as principles of philosophy.
+
+<!-- : in other words, as such that we can deduce from them the knowledge of whatever else is in the world.  -->
+
+Do my principles apply to the real world?
+
+<!-- It accordingly now remains for me to prove that they are such; and it appears to me that I cannot better establish this than by  -->
+
+This can be proven by the test of experience -- by inviting readers to use my work.
+
+I have applied my principles on as many matters as I could. I hope that my readers will find it unnecessary to seek for any other principles to arrive at a complete knowledge that man is capable of. 
+
+<!-- For, though I have not treated in it of all matters- -that being impossible—I think I have so explained all of which I had occasion to treat, that they who read it attentively will have ground for the persuasion that it is  -->
+
+I arranged it in a question format so that they will see how their diverse questions are answered by my principles, but not by the principles of others. 
+
+<!-- the most exalted knowledge of which the mind of ; especially if, after the perusal of my writings, they take the trouble to consider how many  questions are therein discussed and explained, and, referring to the writings of others, they see how little probability there is in the reasons that are adduced in explanation of the same questions by principles different from mine.  -->
+
+People who are imbued with my doctrines will comprehend the writings of others easier.
+
+<!-- , than those who do not know my principles.  
+, and estimating their true value, than those who have not been so imbued; -->
+
+This is precisely the opposite of those who accept the principles of ancient philosophy. Those who have studied ancient philosophy more are less fit for rightly apprehending the truth.
+
+The reader should first go thorugh the whole of it, as he would a romance. He should not greatly strain his attention at the difficulties he might meet. 
+
+If he wants to know their causes, he may read it a second time to discover the connection of my reasonings.
+
+<!-- with the view simply of knowing in general the matters of which I treat; and that afterwards, if they seem to him to merit a more careful examination, and he feel a desire  -->
+
+to ; but that he must not then give it up in despair, although he may not everywhere sufficiently discover the connection of the proof, or understand all the reasonings—it being only necessary to
+
+He should mark with a pen the places where the difficulties occur. He should continue to read without interruption to the end.
+
+If he reads the entire work for a 3rd time, he will discover the solution to those difficulties by himself*.
+
+> *Superphysics Note: In this way, Descartes' work is like organized training data and the reader is like a machine learning algorithm that makes multiple passes on that data.
+
+
+<!-- ; then, if he does not grudge to take up the book a third time, I am confident he will find in a fresh perusal the solution of most of the difficulties he will have marked before; and that,  -->
+
+If any still remain, their solution will be found by reading the work completely again. 
+
+<!-- I have observed, on examining the natural constitutions of different minds, that  -->
+
+There are hardly any minds dull or slow of understanding as to be incapable of apprehending good opinions
+
+<!-- , or even of acquiring all the highest sciences, if they be but conducted along the right road.  -->
+
+This can also be proved by reason.
+
+The principles are clear. Only the most manifest inferences should be deduced from them. Everyone with intelligence can comprehend the conclusions that flow from them.
+
+<!-- no one is so devoid of intelligence as to be unable to -->
+
+Everyone is entangled by prejudices. The most ardent students of the false sciences receive the greatest detriment from them.
+
+, from which no one is entirely exempt, although it is they who have been 
+
+, it happens very generally that people of ordinary capacity neglect to study from a conviction that they want ability, and that others, who are more ardent, press on too rapidly:
+
+whence it comes to pass that they frequently admit principles far from evident, and draw doubtful inferences from them. 
+
+This is why I want to assure those who are too distrustful of their own ability that there is nothing in my writings which they may not entirely understand, if they only take the trouble to examine them.
+
+I warn those of an opposite tendency that even the most superior minds will need much time and attention to remark all I designed to embrace therein.
+
+
+After this, that I might lead men to understand the real design I had in publishing them, I should have wished here to explain the order which it seems to me one ought to follow with the view of instructing himself. 
+
+1. A man who has merely the vulgar and imperfect knowledge which can be acquired by the 4 means above should before all else, try to form for himself a code of morals,
+
+ sufficient to regulate the actions of his life, as well for the reason that this does not admit of delay as because it ought to be our first care to live well. 
+
+ 2. He should study Logic.
+
+ He should not study the Logic of the schools.
+
+  for it is only, properly speaking, a dialectic which teaches the mode of expounding to others what we already know, or even of speaking much, without judgment, of what we do not know, by which means it corrupts rather than increases good sense
+
+  he should learn the logic which teaches the right conduct of the reason with the view of discovering the truths of which we are ignorant;
+
+   and, because it greatly depends on usage, it is desirable he should exercise himself for a length of time in practising its rules on easy and simple questions, as those of the mathematics. 
+
+Then, when he has acquired some skill in discovering the truth in these questions, he should commence to apply himself in earnest to true philosophy, of which the first part is Metaphysics, containing the principles of knowledge, among which is the explication of the principal attributes of God, of the immateriality of the soul, and of all the clear and simple notions that are in us; the second is Physics, in which, after finding the true principles of material things, we examine, in general, how the whole universe has been framed; in the next place, we consider, in particular, the nature of the earth, and of all the bodies that are most generally found upon it, as air, water, fire, the loadstone and other minerals. In the next place it is necessary also to examine singly the nature of plants, of animals, and above all of man, in order that we may thereafter be able to discover the other sciences that are useful to us. 
