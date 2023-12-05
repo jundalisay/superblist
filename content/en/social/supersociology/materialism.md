@@ -2,7 +2,7 @@
 title: "The Bad Impact of Materialist Philosophies on Society"
 # linkTitle: "Basics"
 date: 2023-12-01
-weight: 2
+weight: 12
 description: "Socially, materialism led to 2 materialist philosophies"
 image: "/photos/russia.jpg"
 ---

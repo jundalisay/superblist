@@ -11,7 +11,7 @@ icon: /avatars/jun.jpg
 
 
 
-The scourge of counterfeit medicines is prevelant around the world, both in rich and poor countries. The problem became worse during the pandemic when the demand for flu medicines increased significantly especially through online channels. 
+The scourge of counterfeit medicines is prevelant around the world, both in rich and poor countries. The problem became worse during the pandemic when the demand for flu medicines increased significantly, especially through online channels. 
 
 As an example, the Food and Drug Administration (FDA) of the Philippines reveals that fake Paracetamol became rampant during the pandemic, with sari-sari stores (local convenience stores) selling the counterfeit items. 
 
@@ -22,7 +22,7 @@ To address this danger to public health, the FDA launched Oplan Katharos on Apri
 
 ## What is Oplan Katharos?
 
-Oplan Katharos is a technical working group within the FDA. It aims to develop and implement guidelines in the proper handling, storage, and disposal of seized health products. The end goal is to protect public health from the dangers of fake medicines in line with Republic Act (RA) 3720. 
+Oplan Katharos is a technical working group within the Philippine FDA. It aims to develop and implement guidelines in the proper handling, storage, and disposal of seized health products. The end goal is to protect public health from the dangers of fake medicines in line with Republic Act (RA) 3720. 
 
 The FDA acknowledges that the fight against counterfeit medicines is a 'silent war'. They revealed that 1 out of 10 medicines are counterfeit. 
 

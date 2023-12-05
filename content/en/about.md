@@ -14,7 +14,7 @@ The 2008 Financial Crisis happened because Allan Greenspan did not do his job of
 
 So Adam Smith is such an evil guy for causing so much trouble, right?
 
-By reading Adam Smith's works, we saw that he actually advocated the strict regulation of banking, comparing it to the building of firewalls in order to prevent the spread of fire. 
+By reading Adam Smith's works, we saw that he actually advocated the strict regulation of banking, comparing it to [the building of firewalls in order to prevent the spread of fire](/research/smith/wealth-of-nations/book-2/chapter-2m/).
 
 Greenspan was really citing Samuelson and neoliberal writers who preferred selfish-interest over social interest.
 
@@ -93,3 +93,4 @@ Juan | Juan, founder of Superphysics, likes to read and write about the works fr
 Lam | Lam writes about economics, business, and history
 Jing | Jing likes to write about agriculture, data science, and the earth sciences
 Michael | Michael focuses on tech, with diverse topics such as blockchain, artificial intelligence   
+Brad | Brad contributes science articles occasionally

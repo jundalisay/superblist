@@ -9,10 +9,13 @@ icon: "/icons/descartes.png"
 ---
 
 
+
+## Physical Space Versus Metaphysical Space
+
 {{< s v="11">}}  **Space, in reality, is not different from corporeal substance.**
 - It is the same extension which constitutes the nature of body as of space.
 
-These two things are mutually diverse only as the nature of the genus and species differs from that of the individual, provided we reflect on the idea we have of any body.
+These 2 things are mutually diverse only as the nature of the genus and species differs from that of the individual, provided we reflect on the idea we have of any body.
 
 For example, we think of a stone.
 - We reject all that is not essential to the nature of the body of a stone. 
@@ -32,13 +35,23 @@ After this examination, we find that nothing remains in the idea of body, except
 - This something is comprised in our idea of space, not only of that which is full of body, but even of 'void space'.
 
 
+
+
 {{< s v="12">}} Space differs from body in our mode of conceiving it.
 
 There is, however, some difference between them in the mode of conception.
 
-If we remove a stone from the space or place in which it was, we conceive that its extension also is taken away, because we regard this as particular, and inseparable from the stone itself: 
+If we remove a stone from the place where it was, we see that its extension [of stone] is also taken away. This is because we regard its extension as particular and inseparable from the stone itself.
 
-but meanwhile we suppose that the same extension of place in which this stone was remains, although the place of the stone be occupied by wood, water, air, or by any other body, or be even supposed vacant, because we now consider extension in general, and think that the same is common to stones, wood, water, air, and other bodies, and even to a vacuum itself, if there is any such thing, provided it be of the same magnitude and figure as before, and preserve the same situation among the external bodies which determine this space.
+But the same extension of place where this stone was remains, even if that place is now occupied by air or even if it is vacant.
+
+ <!-- wood, water, air, or by any other body, or be even supposed vacant, because  -->
+
+This makes us consider extension in general. 
+
+We think that the same extension is common to stones, wood, water, air, and other bodies, even to a vacuum itself, provided it:
+- be of the same magnitude and shape as before, and 
+- preserve the same situation among the external bodies which determine this space.
 
 
 ## Cartesian Relativity

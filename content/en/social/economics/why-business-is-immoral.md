@@ -1,9 +1,9 @@
 ---
 title: "Why is Business Usually Seen as Immoral?"
-heading: "Economic Social Contracts as a Tool for Trade"
+# heading: "Economic Social Contracts as a Tool for Trade"
 date: 2020-09-24
-image: /photos/objects/money.jpg
-description: "Supereconomics uses Economic Social Contracts to spread value in a society. This makes it resilient to financial and currency crises"
+image: /photos/medieval/slave.jpg
+description: "The immorality in business is best explained by David Hume as the nature of numbers lacking feelings"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -35,7 +35,7 @@ This rise in respectability is an effect of the Industrial Revolution. <!--  whi
 
 ## Why Is Immorality Attached To Business?
 
-The immorality in business is best explained by using David Hume's technique of chasing down effects to causes. 
+The immorality in business is best explained by using David Hume's technique of chasing down effects to causes.
 
 Business is defined as the activity of making, buying, or selling goods or providing services in exchange for money. The problem is that **money is merely a number and does not have any quality attached to it**. The only action that our minds can do on numbers is to connect them to each other: the idea of `1` connected to another `1` through another idea of addition which logically leads to the new idea of `2`. 
 

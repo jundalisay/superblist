@@ -2,7 +2,7 @@
 title: "What is Thought?"
 heading: Section 1b
 weight: 3
-description: "To seek truth, it is necessary once in life to doubt all things as far as possible."
+description: "Thought is all that takes place in us that we are immediately conscious of"
 contributors: ['Descartes']
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"

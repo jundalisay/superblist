@@ -23,7 +23,7 @@ At the same time the North passes from `B` to `A` through the middle of the Eart
 
 
 
-{{< s v="4.147" >}} It is more difficult for them to pass through air, water, and the outer earth than through the interior
+{{< s v="4.147" >}} It is more difficult for them to pass through air, water, and the outer earth than through the interior.
 
 However, as many new particles always approach from parts of the sky `E` and `F`.
 
@@ -48,14 +48,18 @@ At least, when this magnet is positioned in such a way that its openings are tur
 
 And just as in the Earth, so in the magnet, the middle point of that part, in which there are the openings of the channels, through which enter the striped particles coming from the southern part of the sky, we will call the southern pole.
 
-he middle point of the other part, through which these striped particles leave, and others coming from the North enter, we shall call the North pole, the Boreal. 
+The middle point of the other part, through which these striped particles leave, and others coming from the North enter, we shall call the North pole, the Boreal. 
 
 Nor do we dwell on the fact that, as others say, the pole which we call Southern, they call Boreal; for the common people, who have the sole right of approving names ill-suited to things by frequent use, do not usually speak of that matter.
 
 
 {{< s v="4.150" >}} Why did these poles turn to the poles of the Earth?
 
-When these magnetic poles do not respect those parts of the Earth from which those striped particles come, to which they can provide free passage, then these striped particles, rushing obliquely into the paths of the magnet, push it to where it is, to continue in its motion according to straight lines, until they have brought it back to its natural position: so whenever it is restrained by any external force, they cause its South Pole to be turned towards the Boreal Pole of the Earth, and the Boreal towards the South Pole: since those which tend from the Boreal Pole of the Earth through the air to the South from the southern part of the sky through the middle of the Earth, and coming from the Borealis which return to Borea.
+When these magnetic poles do not respect those parts of the Earth from which those striped particles come, to which they can provide free passage, then these striped particles, rushing obliquely into the paths of the magnet, push it to where it is, to continue in its motion according to straight lines, until they have brought it back to its natural position.
+
+Whenever it is restrained by any external force, they cause its South Pole to be turned towards the Boreal Pole of the Earth, and the Boreal towards the South Pole.
+
+Since those which tend from the Boreal Pole of the Earth through the air to the South from the southern part of the sky through the middle of the Earth, and coming from the Borealis which return to Borea.
 
 
 

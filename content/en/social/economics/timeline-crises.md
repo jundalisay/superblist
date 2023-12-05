@@ -1,6 +1,6 @@
 ---
 title: "The Timeline of Economic Crises"
-image: "https://sorasystem.sirv.com/graphics/dutch.jpg"
+image: "/photos/objects/galleon.jpg"
 description : "The widespread use of standardized money led to mercantilism and, later, capitalism"
 date: 2015-04-11
 heading: From 1204-2020
@@ -11,7 +11,7 @@ icon: /icons/pantry.png
 ---
 
 
-![Dutch Mercantilism](https://sorasystem.sirv.com/graphics/dutch.jpg)
+![Dutch Mercantilism](/photos/objects/galleon.jpg)
 
 
 Year | Event

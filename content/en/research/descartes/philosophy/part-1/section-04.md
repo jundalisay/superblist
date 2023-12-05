@@ -83,9 +83,14 @@ For although, when less attentively examining his thoughts, a person may easily 
 
 {{< s v="69" >}} Magnitude, figure, etc., are known far differently from colour, pain, etc.
 
-These will be more manifest especially if we consider that size in the body perceived, figure, motion (at least local, for philosophers by fancying other kinds of motion have rendered its nature less intelligible to themselves), the situation of parts, duration, number, and those other properties which, as we have already said, we clearly perceive in all bodies, are known by us in a way altogether different from that in which we know what colour is in the same body, or pain, smell, taste, or any other of those properties which I have said above must be referred to the senses. 
+Philosophers fancy other kinds of motion. They have rendered the nature of motion less intelligible to themselves.
 
-When we see a body, we are not less assured of its existence from its appearing figured than from its appearing coloured,[Footnote: "by the colour we perceive on occasion of it."— FRENCH.] we yet know with far greater clearness its property of figure than its colour.
+These will be more manifest especially if we consider that size in the body perceived, shape, motion (at least local), the situation of parts, duration, number, and those other properties which we clearly perceive in all bodies, are known by us in a way altogether different from that in which we know what colour is in the same body, or pain, smell, taste, or any other of those properties which I have said above must be referred to the senses. 
+
+When we see a body, we are not less assured of its existence from its appearing figured than from its appearing coloured,we yet know with far greater clearness its property of figure than its colour.
+
+[Footnote: "by the colour we perceive on occasion of it."— FRENCH.] 
+
 
 
 {{< s v="70" >}} We judge of sensible things in 2 ways:

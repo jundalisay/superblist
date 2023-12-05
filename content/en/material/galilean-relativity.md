@@ -1,7 +1,7 @@
 ---
 title: "Galilean Relativity versus Einstein's Relativity"
 date: 2023-01-08
-image: /photos/physics/galaxy.jpg
+image: /covers/einstein.jpg
 description: "The principles of Galileo and Newton cannot work with the James Webb Telescope because it uses no contact forces"
 writer:
   name: Juan

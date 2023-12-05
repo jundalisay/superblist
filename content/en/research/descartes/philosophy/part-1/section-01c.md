@@ -1,8 +1,8 @@
 ---
-title: "What is Thought?"
+title: "The Idea of God"
 heading: Section 1c
 weight: 4
-description: "To seek truth, it is necessary once in life to doubt all things as far as possible."
+description: "We may validly infer God's existence from necessary existence being comprised in our concept of him"
 contributors: ['Descartes']
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
@@ -20,9 +20,13 @@ The idea of a triangle is made up of the equality of its 3 angles to 2 right ang
 Likewise, the mind perceives eternal and necessary existence to be comprised in its idea of an all-perfect Being, it concludes that this all-perfect Being exists.
 
 
-{{< s v="15" >}} Our ideas of other things merely have the idea of contingent existence, not necessary existence.
+{{< s v="15" >}} Our ideas of other things merely have the idea of **contingent existence**, not necessary existence.
 
-The mind has no idea of any other thing in which it can discover that necessary existence is contained. From this circumstance alone, it will discern that the idea of an all-perfect Being has not been framed by itself, and that it does not represent a chimera, but a true and immutable nature, which must exist since it can only be conceived as necessarily existing.
+The mind has no idea of any other thing in which it can discover that necessary existence. 
+
+From this circumstance alone, it will discern that:
+- the idea of an all-perfect Being has not been framed by itself, and
+- it does not represent a chimera, but a true and immutable nature, which must exist since it can only be conceived as necessarily existing.
 
 
 {{< s v="16" >}} Prejudices hinder many from clearly knowing the necessity of the existence of God.
@@ -66,7 +70,12 @@ Although we may not comprehend them, because it is of the nature of the infinite
 
 {{< s v="20" >}} We are not the cause of ourselves, but that this is God, and consequently that there is a God.
 
-But, because every one has not observed this, and because, when we have an idea of any machine in which great skill is displayed, we usually know with sufficient accuracy the manner in which we obtained it, and as we cannot even recollect when the idea we have of a God was communicated to us by him, seeing it was always in our minds, it is still necessary that we should continue our review, and make inquiry after our author, possessing, as we do, the idea of the infinite perfections of a God: for it is in the highest degree evident by the natural light, that that which knows something more perfect than itself, is not the source of its own being, since it would thus have given to itself all the perfections which it knows. 
+But everyone has not observed this.
+
+When we have an idea of any machine in which great skill is displayed, we usually know with sufficient accuracy the manner in which we obtained it
+
+We cannot even recollect when the idea we have of a God was communicated to us by him, seeing it was always in our minds, it is still necessary that we should continue our review, and make inquiry after our author, possessing, as we do, the idea of the infinite perfections of a God:
+
+It is most evident by the natural light, that that which knows something more perfect than itself, is not the source of its own being, since it would thus have given to itself all the perfections which it knows. 
 
 Consequently, it could draw its origin from no other being than from him who possesses in himself all those perfections, that is, from God.
-

@@ -1,5 +1,5 @@
 ---
-title: "Doubt"
+title: "Whaterver is Doubtful is False"
 heading: Section 1
 weight: 2
 description: "To seek truth, it is necessary once in life to doubt all things as far as possible."

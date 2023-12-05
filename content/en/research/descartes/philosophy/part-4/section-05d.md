@@ -20,7 +20,7 @@ And he should plant it more constantly, because the ends of the branches which p
 
 The greater is communicated to it by a greater and more perfect magnet: also because the striated particles, rushing with greater force into its passages, bend the extremities of the branches prominent in them more; and also, because many rushing towards it at the same time, many such passages open to themselves. 
 
-For it is to be noted that there are more such passages in steel, which of course consists of only iron rams, than in a magnet, in which there is a great deal of stony material, to which the iron rams are embedded; and therefore, when only a few striated particles enter a weak iron magnet, they do not open all its passages, but only a few, and indeed those which were closed by the extremities of the twigs which were as flexible as possible.
+For it is to be noted that there are more such passages in steel, which of course consists of only iron rams, than in a magnet, in which there is a great deal of stony material, to which the iron rams are embedded; and therefore, when only a few striated particles enter a weak iron magnet, they do not open all its passages, but only a few, and those which were closed by the extremities of the twigs which were as flexible as possible.
 
 
 {{< s v="4.165" >}} Why does the earth itself give a magnetic force to iron?
@@ -32,13 +32,33 @@ If it is oblong, not yet imbued with any such oil, and one of its extremity is i
 
 {{< s v="4.166" >}} Why is the magnetic field weaker in the Earth than in small magnets?
 
-I do not think that it is weaker. Rather it is much stronger in that middle region of the Earth, than it has been said above that the whole is covered with striated particles. 
+I do not think that it is weaker. Rather it is much stronger in the middle region of the Earth than the whole which is covered with striated particles. 
 
-These striated particles, having come forth from it, are for the most part returned through that inner crust of the upper region of the Earth, from which metals arise, and in which there are also many passages suitable for receiving them. 
+These striated particles come from the center. They mostly return through that inner crust of the upper region of the Earth. 
 
-Therefore very few have come down to us. For I judge that these passages, both in that interior crust, and also in the magnets and iron rams, which are contained in the veins of this exterior, are entirely different from the passages of the middle region; they flow to Borea, and are returned from Borea to the South through all the upper parts, but [&] especially through its inner crust, and likewise through the magnets and iron of the exterior; and when the greater part of them have consigned themselves, a few remain which through this air of ours, and other surrounding bodies, destitute of suitable paths, seek a way for themselves.
+This upper region:
+- is where metals come from
+- has many passages suitable for receiving those particles. 
 
-Which, if I guess rightly, the magnet being cut out of the earth, and placed freely in a boat upon the water, that same face which always before, while it clung to the earth, looked upon the North, must still turn towards the North: as Gilbertus, the principal investigator of the magnetic virtue, He is the first to discover it on Earth, and he claims to have experienced it. Nor do I care that others think they have seen the contrary; for perhaps he imposed upon them that since that very part of the earth, from which they had taken care to cut the magnet, was a magnet, the poles of the cut magnet should turn towards it: as was said a little before, a fragment of one magnet is turned to another.
+This is why very few have come down to us.
+
+These passages, both in that interior crust, and also in the magnets and iron rams, which are contained in the veins of this exterior, are entirely different from the passages of the middle region.
+
+They flow to Borea, and are returned from Borea to the South through all the upper parts, but [&] especially through its inner crust, and likewise through the magnets and iron of the exterior.
+
+When the greater part of them have consigned themselves, a few remain which through this air of ours, and other surrounding bodies, destitute of suitable paths, seek a way for themselves.
+
+If the magnet is cut out of the earth, and placed freely in a boat on the water, that same face which always before, while it clung to the earth, looked upon the North, must still turn towards the North.
+
+Gilbertus is the principal investigator of the magnetic virtue.
+
+He is the first to discover it on Earth.
+
+He claims to have experienced it. 
+
+<!-- Nor do I care that others think they have seen the contrary; for  -->
+
+Perhaps he imposed on them that since that very part of the earth, from which they had taken care to cut the magnet, was a magnet, the poles of the cut magnet should turn towards it: as was said a little before, a fragment of one magnet is turned to another.
 
 
 {{< s v="4.167" >}} Why do needles, touched by a magnet, always have the poles of their virtue at their extremities?
@@ -64,4 +84,6 @@ Nor is it to be thought that there is a disparate reason in it, that the inequal
 
 {{< s v="4.169" >}} Why even sometimes this declination changes with time.
 
-There are those who say that this decline does not always remain the same in the same parts of the earth, but changes with time. This should not be seen as surprising: not only because iron is daily transferred from one part of the earth to another by men, but also because its lumps, which are in this outer earth, can be corrupted in some places with time, and others can be generated in others, either by the interior of the earth was subdued.
+There are those who say that this decline does not always remain the same in the same parts of the earth, but changes with time.
+
+This should not be seen as surprising: not only because iron is daily transferred from one part of the earth to another by men, but also because its lumps, which are in this outer earth, can be corrupted in some places with time, and others can be generated in others, either by the interior of the earth was subdued.
