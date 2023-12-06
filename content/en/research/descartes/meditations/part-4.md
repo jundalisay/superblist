@@ -3,7 +3,9 @@ title: "Truth and falsehood"
 heading: Part 4
 weight: 14
 description: "Whenever I do not perceive the truth clearly, I simply suspend judgment in order to avoid error"
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/med.png"
 icon: "/icons/descartes.png"
 ---

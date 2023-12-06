@@ -1,9 +1,11 @@
 ---
 title: "The Will"
 heading: Section 2b
-weight: 8
+weight: 20
 description: "The will and the understanding are required for judging."
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---

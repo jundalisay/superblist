@@ -5,7 +5,9 @@ heading: Part 3
 weight: 8
 description: "Bodies are much more clearly known to me than this puzzling ‘I’ that cannot be pictured in the imagination"
 image: "/covers/med.png"
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 icon: "/icons/descartes.png"
 ---
 

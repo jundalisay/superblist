@@ -2,7 +2,9 @@
 title: "Ways To Perfect Vision"
 heading: "Part 7"
 weight: 16
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/optics.jpg"
 description: "One can reduce all the things to which it is necessary to have regard here to three principal ones"
 icon: "/icons/descartes.png"

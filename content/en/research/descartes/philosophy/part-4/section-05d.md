@@ -1,9 +1,11 @@
 ---
 title: "Why do the parts of the segments of the magnet, which were united before the section, also repel each other?"
 heading: Section 5d
-weight: 14
+weight: 20
 description: "Enumeration of properties of magnetic properties"
-author: "Rene Descartes translated by Google Translate, fixed by Juan"
+writer:
+  name: Rene Descartes (translated by Google Translate, fixed by Juan)
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---

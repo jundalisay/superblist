@@ -1,9 +1,11 @@
 ---
 title: "Place Versus Space"
 heading: Section 2
-weight: 6
+weight: 16
 description: "How space is not in reality different from corporeal substance"
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---

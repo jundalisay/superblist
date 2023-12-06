@@ -1,9 +1,11 @@
 ---
 title: "The Truth About Matter"
 heading: Section 1b
-weight: 3
+weight: 13
 description: "The truth regarding the nature of body is obscured by the opinions respecting rarefaction and a vacuum with which we are pre-occupied"
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---

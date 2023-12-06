@@ -3,7 +3,9 @@ title: "Cause and Effect"
 heading: Part 3b
 weight: 10
 description: "The natural light shows that the total cause of something must contain at least as much reality as does the effect."
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/med.png"
 icon: "/icons/descartes.png"
 ---

@@ -4,7 +4,9 @@ title: The Human Anatomy
 weight: 18
 description: Rene Descartes 1635
 image: "/covers/method.png"
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 icon: /icons/descartes.png
 ---
 

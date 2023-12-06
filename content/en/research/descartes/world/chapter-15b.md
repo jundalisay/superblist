@@ -2,10 +2,11 @@
 heading: "Chapter 15b"
 title: "Comets"
 weight: 36
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/world.jpg"
 description: "The comets that are not in the same heaven as the sun are unable to send out as many rays toward the earth"
-contributors: ['Rene Descartes']
 icon: "/icons/descartes.png"
 ---
 

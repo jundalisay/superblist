@@ -2,7 +2,9 @@
 title: "The Senses In General"
 heading: "Part 4"
 weight: 10
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/optics.jpg"
 description: "To explain the eye, we must explain the senses"
 icon: "/icons/descartes.png"

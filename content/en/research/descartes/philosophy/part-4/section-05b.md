@@ -1,9 +1,11 @@
 ---
 title: "How the Striated particles Flow through the paths of the Earth"
 heading: Section 5
-weight: 6
+weight: 16
 description: "Enumeration of properties of magnetic properties"
-author: "Rene Descartes translated by Google Translate, fixed by Juan"
+writer:
+  name: Rene Descartes (translated by Google Translate, fixed by Juan)
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---

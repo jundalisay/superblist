@@ -4,7 +4,9 @@ title: I Think Therefore I Am
 weight: 14
 description: "I realized that I think, therefore I exist (cogito ergo sum). This was so certain that it could not be doubted."
 image: "/covers/method.png"
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 icon: /icons/descartes.png
 ---
 

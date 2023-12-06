@@ -1,9 +1,11 @@
 ---
 title: "Does Matter Exist?"
 heading: Section 1
-weight: 2
+weight: 12
 description: "There exists a certain object extended in length, breadth, and thickness. This extended substance is what we call body or matter"
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---

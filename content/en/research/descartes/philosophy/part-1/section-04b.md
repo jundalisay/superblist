@@ -1,9 +1,11 @@
 ---
 title: "The 4 Causes of our Errors"
 heading: Section 4b
-weight: 16
+weight: 32
 description: "The Prejudices of Childhood and our Memory of these Prejudices"
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---

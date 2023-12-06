@@ -1,9 +1,11 @@
 ---
 title: "Whaterver is Doubtful is False"
 heading: Section 1
-weight: 2
+weight: 12
 description: "To seek truth, it is necessary once in life to doubt all things as far as possible."
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---

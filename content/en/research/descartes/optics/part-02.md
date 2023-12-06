@@ -2,7 +2,9 @@
 title: "Refraction"
 heading: "Part 2"
 weight: 6
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/optics.jpg"
 description: "there is no question here of looking at it so closely, and there is none of these things which take place in the action of light"
 icon: "/icons/descartes.png"

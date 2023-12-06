@@ -2,7 +2,9 @@
 title: "Vision"
 heading: "Part 6"
 weight: 14
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/optics.jpg"
 description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"
 icon: "/icons/descartes.png"

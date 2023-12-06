@@ -1,9 +1,11 @@
 ---
 title: "God"
 heading: Section 2
-weight: 6
+weight: 18
 description: "The duration alone of our life is sufficient to demonstrate the existence of God"
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---

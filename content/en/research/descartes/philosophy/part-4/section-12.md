@@ -1,9 +1,11 @@
 ---
 title: "The Sensible Bodies and Insensible Particles"
 heading: Section 2
-weight: 26
+weight: 46
 description: "Sensible bodies are composed of insensible particles"
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---

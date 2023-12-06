@@ -3,7 +3,9 @@ title: "Common Sense and the Pineal Gland"
 heading: Part 6c
 weight: 21
 description: "The mind is not immediately affected by all parts of the body but only by the brain – or perhaps just by the small part of it which is said to contain the ‘common sense’ (as the pineal gland)"
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/med.png"
 icon: "/icons/descartes.png"
 ---

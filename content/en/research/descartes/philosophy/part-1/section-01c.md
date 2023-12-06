@@ -1,9 +1,11 @@
 ---
 title: "The Idea of God"
 heading: Section 1c
-weight: 4
+weight: 16
 description: "We may validly infer God's existence from necessary existence being comprised in our concept of him"
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---

@@ -2,7 +2,9 @@
 title: "The Rays In All Ways That Serve The View"
 heading: "Part 8"
 weight: 18
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/optics.jpg"
 description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"
 icon: "/icons/descartes.png"

@@ -3,7 +3,9 @@ heading: Preface 3
 title: "The Tree of Philosophy"
 weight: 4
 description: "All Philosophy is like a tree. Metaphysics is the root. Physics the trunk. All the other sciences are the branches"
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---

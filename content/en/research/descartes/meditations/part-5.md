@@ -3,7 +3,9 @@ title: "The Essence Of Material Things"
 heading: Part 5
 weight: 15
 description: "Before enquiring into whether there are any such things, I should consider the ideas of them in my thought, in order to see which of those ideas are distinct and which confused."
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/med.png"
 icon: "/icons/descartes.png"
 ---

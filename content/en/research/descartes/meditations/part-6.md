@@ -3,7 +3,9 @@ title: "Material things and the real distinction between mind and body"
 heading: Part 6
 weight: 18
 description: "I perceive them clearly as the subject matter of pure mathematics. So I at least know that they could exist"
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/med.png"
 icon: "/icons/descartes.png"
 ---

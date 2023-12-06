@@ -1,9 +1,11 @@
 ---
 title: "Why do the parts of the magnet, which were united before, also repel each other?"
 heading: Section 5c
-weight: 8
-description: "Enumeration of properties of magnetic properties"
-author: "Rene Descartes translated by Google Translate, fixed by Juan"
+weight: 18
+description: "Why are 2 points, which were formerly contiguous in one magnet, in its fragments poles of different virtues?"
+writer:
+  name: Rene Descartes (translated by Google Translate, fixed by Juan)
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---

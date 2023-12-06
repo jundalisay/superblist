@@ -4,7 +4,9 @@ heading: "Chapter 6"
 weight: 14
 image: "/covers/world.jpg"
 description: "The Aethereal Universe is made up the aether divided into infinite parts with all sorts of motion imaginable"
-contributors: ['Rene Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 icon: "/icons/descartes.png"
 ---
 

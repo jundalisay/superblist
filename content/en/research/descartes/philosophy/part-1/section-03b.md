@@ -1,9 +1,11 @@
 ---
 title: "What is Substance?"
 heading: Section 3b
-weight: 12
+weight: 24
 description: "The duration alone of our life is sufficient to demonstrate the existence of God"
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---

@@ -4,7 +4,9 @@ heading: Part 1
 # First Meditation
 weight: 2
 description: "Rene Descartes starts to doubt all of his beliefs"
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/med.png"
 icon: "/icons/descartes.png"
 ---

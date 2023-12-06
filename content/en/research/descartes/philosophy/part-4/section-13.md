@@ -1,9 +1,11 @@
 ---
 title: "The Philosophy of Democritus"
 heading: Section 3
-weight: 28
+weight: 48
 description: "The philosophy of Democritus is not less different from ours than from the common"
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---

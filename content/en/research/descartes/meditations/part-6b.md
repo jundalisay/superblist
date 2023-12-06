@@ -3,7 +3,9 @@ title: "Sensory Ideas"
 heading: Part 6b
 weight: 20
 description: "Sensory ideas must be produced by some substance other than me. This substance actually has (either in a straightforward way or in a higher form) all the reality that is represented in the ideas that it produces."
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/med.png"
 icon: "/icons/descartes.png"
 ---

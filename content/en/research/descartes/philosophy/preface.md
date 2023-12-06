@@ -3,7 +3,9 @@ heading: Preface 1
 title: "To The French Translator"
 weight: 2
 description: "To The French Translator Of The Principles Of Philosophy Serving For A Preface"
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---

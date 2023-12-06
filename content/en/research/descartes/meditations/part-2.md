@@ -5,7 +5,9 @@ heading: Part 2
 # Second Meditation
 weight: 4
 description: "'Everything I see is fictitious. My memory tells me nothing but lies. I have no senses. Body, shape, extension, movement and place are illusions. So what remains true?'"
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/med.png"
 icon: "/icons/descartes.png"
 ---

@@ -1,9 +1,11 @@
 ---
 title: "What is Thought?"
 heading: Section 1b
-weight: 3
+weight: 14
 description: "Thought is all that takes place in us that we are immediately conscious of"
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---

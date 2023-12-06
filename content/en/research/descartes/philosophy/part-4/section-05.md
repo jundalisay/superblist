@@ -1,9 +1,11 @@
 ---
 title: "The Properties of Magnets"
 heading: Section 5
-weight: 4
+weight: 14
 description: "Enumeration of properties of magnetic properties"
-author: "Rene Descartes translated by Google Translate, fixed by Juan"
+writer:
+  name: Rene Descartes (translated by Google Translate, fixed by Juan)
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---

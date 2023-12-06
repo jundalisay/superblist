@@ -4,7 +4,9 @@ title: The Sciences
 weight: 6
 description: Descartes gives 4 Precepts on Math and Logic
 image: "/covers/method.png"
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 icon: /icons/descartes.png
 ---
 

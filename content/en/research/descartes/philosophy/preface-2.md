@@ -3,7 +3,9 @@ heading: Preface 2
 title: "The 4 Ways of Getting Wisdom"
 weight: 3
 description: "To The French Translator Of The Principles Of Philosophy Serving For A Preface"
-contributors: ['Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---
