@@ -57,7 +57,34 @@
   {{ end }}
 
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2557957536703477" crossorigin="anonymous"></script>
+
+  {{ if .Params.Writer }}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Article",
+      "name": "{{ .Title }}",
+      "author": {
+        "@type": "Person",
+        "name": "{{ .Params.Writer.name }}"
+      },
+        "datePublished": "{{ .Params.Date }}",
+        "description": "{{ .Description }}",
+    }
+  </script>
+  {{ else }}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Article",
+      "name": "{{ .Title }}",
+        "datePublished": "{{ .Params.Date }}",
+        "description": "{{ .Description }}",
+    }
+  </script>
+
+  {{ end }}
+
   
 </head>
