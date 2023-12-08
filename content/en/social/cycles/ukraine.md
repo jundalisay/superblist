@@ -6,7 +6,9 @@ linkTitle: Ukraine
 date: 2023-02-26
 image: "/flags/ua.png"
 description: "The social cycles of Ukraine is yet to be determined"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 201
 icon: "/flags/ua.png"
 ---

@@ -82,7 +82,7 @@ This is because the staticity of ideas are from the viewpoint of the Absolute, b
 {{< img src="/graphics/meta/gunas.png" alt="Gunas" >}}
 
 
-As it this domain is above Existence, it does not exist. Rather it is entirely probabilistic or theoretical. 
+As this domain is above Existence, it does not exist. Rather it is entirely probabilistic or theoretical. 
 
 It is a concept created to explain how Existence is generated arbitrarily or probabilistically by desire. This is why **the control of desire** is:
 - one of the central tenets of Hinduism and Buddhism, and

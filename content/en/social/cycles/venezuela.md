@@ -5,7 +5,9 @@ heading: "How to Restore its Fixed Capital and End the Inflation"
 date: 2014-11-02
 image: "/flags/ve.png"
 description: "We suggest the reversal of controls to restore Venezuela's fixed capital"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: "/flags/ve.png"
 weight: 209
 ---

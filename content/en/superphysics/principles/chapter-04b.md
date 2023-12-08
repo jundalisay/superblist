@@ -159,37 +159,47 @@ dep + dep = rat dep
 
 <!-- In a future post, we will expand this into chemical compounds computation, and in linear algebra to produce general qualitative outcomes instead of exact quantitative answers.  -->
 
-A sample implementation is our use of ["male and female" charges](/material/principles/part-3/chapter-02/) for particles instead of the "positive and negative" used by Benjamin Franklin. In theory, this would lead to new chemical compounds that are unthinkable in Physics, since it is more intuitive to combine different kinds of males with different kinds of females. 
+A sample implementation is our use of [male and female charges](/material/principles/part-3/chapter-02/) for particles instead of the "positive and negative" used by Benjamin Franklin. In theory, this would lead to new chemical compounds that are unthinkable in Physics, since it is more intuitive to combine different kinds of males with different kinds of females. 
 
-This quali-math will make the most sense when you think of a spaceship using quantum teleportation that not only will use 2D space as in a car on Earth or a 3D space like an aircraft, but a space with four or five dimensions as time-multiverses and alternative universes, where normal math breaks down.
+This quali-math will make the most sense when you think of a spaceship using quantum teleportation that not only will use 2D space as in a car on Earth or a 3D space like an aircraft, but a space with 4 or 5 dimensions as time-multiverses and alternative universes, where normal math breaks down.
 
 For example, `1 + 1 = 2` might be true for this universe, but it might not be true for a different universe where `1 + 1 = 1` or where the conception of two ideas automatically merges them into one idea. In such a universe, it is the mind that splits itself into different perception-units in order to create the idea of numbers. This is the opposite in our universe, where the perceiving entity is one, and the it is the observed entities that are multiples and discrete. 
 
 
 ## The Double Colon 
 
-To account for this mind-splitting behavior, <!--  make ratios and relativity permanent, --> we propose a new notation using flexible colons instead of the rigid equals sign. The former represents the flexible nature of the universe as opposed to its strict rigidity as the latter.
+To account for this mind-splitting behavior, <!--  make ratios and relationality permanent, --> we propose a new notation using flexible colons instead of the rigid equals sign. The former represents the flexible nature of the universe as opposed to its strict rigidity as the latter.
 
 {{< img src="/graphics/physics/math.jpg" alt="Mathematics" >}}
-
 
 - The double colon is like a rigid equals sign
 - The single colon is like a flexible ratio
 
-This ratio represents our theory of "universal relativity*" which is represented in reality by [gravitational relativity](/material/principles/part-2/chapter-04), among others.
+
+{{< box >}}
+### The Theory of Universal Relationality
+
+This ratio represents our theory of "universal relationality*" which is represented in reality by [gravitational relationality](/material/principles/part-2/chapter-04), among others.
+
+All philosophers say that everything is connected, even the sophistical pseudo-philosopher John Stuart Mill. 
+
+The ratio sign signifies this connection. 
+
+In this way, we can say that the universe is an unending chain of multiple layered ratios, as a matrix, where a change in one part causes a change in the whole universe as a chain-effect. 
+
+The lower dimensions like ours has more rigid ratios that lead to discrete and 'hardened' identities, while higher dimensions have more flexible ratios that lead to more malleable ones.
+
+Since the lower dimensions are more stubborn, they require more effort and energy to change than the upper dimensions.
 
 
-> *All philosophers say that everything is connected, even the sophistical pseudo-philosopher John Stuart Mill. The ratio sign signifies this connection. In this way, we can say that the universe is an unending chain of multiple layered ratios, as a matrix, where a change in one part causes a change in the whole universe as a chain-effect. The lower dimensions like ours has more rigid ratios that lead to discrete and 'hardened' identities, while higher dimensions have more flexible ratios that lead to more malleable ones.
+#### Update March 10, 2022
 
-
-{{< me date="March 10, 2022" >}}
 An example of the "hardness" of this dimension is the hardness of will of Russia in invading Ukraine and in Ukraine stubbornly not giving up, not caring about the chain-reaction that it causes to other nations and the planet. 
 
 In a better universe (with qualimath as the norm), Russia, Ukraine, and NATO will "soften" their minds and egos (less strong force, more gravitational force) as to harmonize with each other, being more sensible how their actions affect the planet.
 
 In this universe, such a softening can be encouraged by emphasizing the abstract, flexible aether, over rigid and hard solid matter.
-{{< /me >}}
-
+{{< /box >}}
 
 
 ## The State Limiter
@@ -231,15 +241,11 @@ into
 
 
 ```elixir
-`F :: (G (m1/r^2 : m2/r^2))`
+F :: (G (m1/r^2 : m2/r^2))
 ```
 
 
 Notice how this isolates Newton's `G` away from the two masses being compared. 
-
-In price equations, this will allow us to more easily remove the influence of interest rates (of the financial system) and taxes (of the government) in order to reveal the natural price ratios from their own perspective. 
-
-The gravity, interest rates, and taxes enter their own abstraction called a *limiter*. Moreover, this system does not require PEMDAS.
 
 We then deconstruct it further:
 
@@ -250,30 +256,36 @@ We then deconstruct it further:
 gravity_between :: (material_layer_limiter (matter_amount_in_identity1 / distance_between^2 : matter_amount_in_identity2 / distance_between^2)
 ```
 
+
+In price equations, this will allow us to more easily remove the influence of interest rates (of the financial system) and taxes (of the government) in order to reveal the natural price ratios from their own perspective. 
+
+The gravity, interest rates, and taxes enter their own abstraction called a *limiter*. Moreover, this system does not require PEMDAS.
+
+
 ## Math with a Practical and Moral Purpose Inspired by Al-Khwarizmi and Descartes
 
 
-The above decontstructed equation gives us two benefits:
+The above decontstructed equation gives us 2 benefits:
 
 1. Practical: It helps us *code* the equation more easily into procedures and algorithms
 2. Moral: It makes us think of `Mass1` and `Mass2` independently, and separate from its limiter
 
 Quali-math is inspired by **Al-Khwarizmi** who invented algebra from his work on "Calculation by Completion and Balancing". 
 
-The practical purpose leads to algorithms, the invention of which has likewise been attributed to Al-Khwarizmi*. This is important because [automated intelligence](/superphysics/solutions/isaiah) is one of the goals of Superphysics.
-
+The practical purpose leads to algorithms, the invention of which has likewise been attributed to Al-Khwarizmi*.
 
 {{< img cap="Automated intelligence is best used in space-time-ships, just as it is best applied currently in Tesla's self-driving cars" src="/photos/physics/phoenix.jpg" >}}
-
-
-
 
 > *The original purpose of Algebra (Al-Jebra or 'the repair or healing') was to divide an estate and compute the inheritance due to each heir. <!-- The Europeans seemed to have used it for warmaking --> This matches the problem-solving nature of Superphysics. This is opposite of Einstein's math as sophistical tensors coming from his wild imagination which creates more problems. It is also different from Newton's Calculus which originated from plotting curvilinear motion. Superphysics allows teleportation which totally negates curvilinear motion.   
 
 
-An AI-driven* ship in our universe that teleports into another universe with different physics rules can transpose its logic and definitions more easily to match that universe. This is because it uses quality instead of quantity. 
 
-> *The mind-splitting behavior in quali-math can be implemented with computers with multiple independent cores. In humans, this is naturally done in families and societies. The family mind is split between the father, mother and children. The society's mind is split between the different classes represented by political parties and special-interest groups.  
+An algorithm is an implementation or processing of a model. This processing is automated by computers as machine learning, which is the automation of natural intelligence, which is wrongly called artificial intelligence. We call it properly as [Automated Intelligence](/superphysics/solutions/isaiah) (AI) and is one of the goals of Superphysics.
+
+
+Qualimath will allow an AI-driven* ship that teleports into another universe, which has different physics, to transpose its logic and definitions more easily to match that universe. This is because it uses quality instead of quantity.
+
+> *The mind-splitting behavior in Qualimath can be implemented with computers with multiple independent cores. In humans, this is naturally done in families and societies. The family mind is split between the father, mother and children. The society's mind is split between the different classes represented by political parties and special-interest groups. This is why we can readily apply Qualimath to Social Superphysics to make predictions in economics and politics.  
 
 
 A qualitative definition in one’s mind retains itself even if its mind moves into another universe. *This is because that defintion is always anchored in the ego (feeling of the self) of that mind.* This was implied by Adam Smith:
@@ -283,7 +295,7 @@ I can only fairly compare those big objects and the small objects near me by tra
 {{< /q >}}
 
 
-Because of this, quali-math also creates moral effects. It conditions minds to respect the identity and natures of all sides (other egos), instead of bulldozing over them with arbitrary notations and movement towards one side or result as what Westerners tend to do. 
+Because of this, Qualimath also creates moral effects. It conditions minds to respect the identity and natures of all sides (other egos), instead of bulldozing over them with arbitrary notations and movement towards one side as what Westerners tend to do. 
 
 While the practical aspect is based on [Al-Khwarizmi](/research/musa/algebra/chapter-01), this moral aspect is based on Rene Descartes who invented exponents and the Cartesian plane, among others, from his realizations on how the mind works*, as well as David Hume from whom Adam Smith got his ideas.
 

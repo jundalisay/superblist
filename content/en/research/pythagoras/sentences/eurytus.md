@@ -4,7 +4,9 @@ weight: 1
 # date: 2022-04-13
 image: /covers/sentences.jpg
 description: "The Pythagorean Eurytus and his followers beheld the images of things themselves in numbers"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
 ---
 

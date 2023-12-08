@@ -20,15 +20,18 @@ Yes! and No! is our answer.
 {{< /q >}}
 
 
-
-We said that ideas and feelings are subdivisions of experience:
+Chapter 2 explained that ideas and feelings are subdivisions of the experience of the experiencer:
 
 - experiencer
 - experience
   - feelings 
   - ideas
 
-Experiences are powered by 2 Forces:
+<!-- > *We use 'experiencer' instead of consciousness in order to stay away from New Age ideas. This is because the New Age is from the Western mentality which seems to emphasize mentalism, as a counterweight to materialism. It does not emphasize dharma. -->
+
+
+
+Experiences are then powered by 2 Forces:
 - The Negative Force leads to experiences
 - The Positive leads to the understanding of those experiences
 
@@ -70,7 +73,7 @@ Recent experiments by scientists have demonstrated that the human being is posse
 
 
 
-## Living Mind, Non-Living Mind
+## Life and the Living Universe
 
 In terms of activity, physical minds are then classified into two:
 
@@ -80,9 +83,19 @@ In terms of activity, physical minds are then classified into two:
 {{< img src="/graphics/meta/mind.png" alt="Living and non-living mind" cap="A living thing has a mind that can accept external feelings and ideas and likewise express them. A non-living thing cannot, due to the confinement by the Negative Force" >}}
 
 
-'Life' therefore is an expressive mind that inhabits a physical body. 
+'Life' therefore is the state of a mind being independently expressive within a physical body. 
+
+A metal rod reacts to heat by turning red, as its means of expression. But we do not regard it as alive **because its expressiveness is not independent of the Nature around it**. This manifests as its identity not having its own willpower. Its destiny is totally dependent on its surrounding environment. 
+
+This means that even though the metal rod is not alive, the physical universe, which it is a part of, is the one that is alive. The physical events inside the universe depend on chance. This chance is really the will of the physical universe being perceived by living entities such as bacteria, plants and animals.   
+
+If the physical universe were one living body, then the metal rod mentioned above is just one of its tiny body parts. 
+
 
 <!-- A 'soul', then, is such a mind that exists independent of a body.  -->
+
+<!-- Mind, Non-Living Mind -->
+
 
 A 'virus' is in-between a non-living idea and a living or expressive mind, that manifests as DNA or RNA. It has to use living things to spread itself as its means of expression or action.
 

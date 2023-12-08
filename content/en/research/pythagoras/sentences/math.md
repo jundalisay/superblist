@@ -4,7 +4,9 @@ weight: 4
 # date: 2022-04-13
 image: /covers/sentences.jpg
 description: "Forms and numbers are things which are the first separated from impartible union"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
 ---
 

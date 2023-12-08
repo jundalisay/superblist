@@ -3,7 +3,9 @@ title: "The Tetractys"
 weight: 14
 image: /covers/sentences.jpg
 description: "The Tetractys involved the monad"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
 ---
 

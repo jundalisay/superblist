@@ -7,7 +7,7 @@ description: "Gravitational Territories are the area of a gravitational signatur
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 12
+weight: 17
 icon: /icons/spmat.png
 ---
 
@@ -66,7 +66,7 @@ This is the zone which has direct contact with other territories.
 These have different manifestations depending on the type of identity. 
 
 Science | Inner | Middle | Outer | Edge
---- | --- | --- |---
+--- | --- | --- | --- | --- 
 Star | Goldilocks Zone | Large Planets Zone | Oort Cloud | Stellar Halo 
 Person | Unconcsious | Subconscious | Conscious | Interactions 
 Society | Religion | Politics | Economy | Interactions 

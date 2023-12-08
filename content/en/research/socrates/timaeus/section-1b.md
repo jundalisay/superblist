@@ -4,11 +4,9 @@ heading: "Timaeus by Plato Simplified"
 weight: 1
 image: /covers/timaeus.jpg
 description: "Timaeus explains the 4 elements"
-linkb: "/research/socrates/timaeus/section-1"
-linkbtext: "Section 1"
-linkf: "/research/socrates/timaeus/section-1c"
-linkftext: "Section 1c"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sun.png
 draft: true
 ---

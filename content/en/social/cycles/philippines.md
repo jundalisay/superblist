@@ -5,7 +5,9 @@ linkTitle: Philippines
 date: 2021-07-27
 image: "/flags/ph.png"
 description : "We fix the faulty Ambisyon 2040 through a 5-phase plan called Maharlika 2050 to industrialize the Philippines into Maharlika"
-# contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 155
 icon: "/flags/ph.png"
 ---

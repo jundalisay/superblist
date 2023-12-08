@@ -1,11 +1,11 @@
 ---
-title: "What is ISAIAH?"
+title: "What is Automated Intelligence and ISAIAH?"
 heading: Chapter 4d
 # heading: "Impartial Spectator Automated Intelligence Aggregation Host"
 date: 2015-09-09
 weight: 15
 image: /photos/physics/ai.jpg
-description: "The money and moneyless transactions are visualized by artificial intelligence (AI) in order to guide policymakers"
+description: "In reality, AI is not really artificial, but is a very limited version of natural intelligence"
 icon: /icons/pantry.png
 writer:
   name: Juan
@@ -23,7 +23,7 @@ Chapter 4c explained the Eagle as Superphysics equation for everything.
 {{< img src="/graphics/super/egl.png" alt="E = Gl" >}}
 
 
-When expanded, this manifests as a chain of ratios which matches the interconnectedness of everything in the universe. 
+When expanded, this manifests as a chain of ratios which matches the interconnectedness of everything in the universe, as our Theory of Universal Relationality. 
 
 {{< img src="/graphics/super/kepler.png" alt="Kepler Tensor" >}}
 
@@ -68,6 +68,7 @@ Spacetime | | :heavy_check_mark:
 Radiant | :heavy_check_mark: | :heavy_check_mark:
 Transformative | :heavy_check_mark: | :heavy_check_mark:
 Material | :heavy_check_mark: | :heavy_check_mark:
+
 
 The inability of AI to get real-time data from the aether and spacetime is why it currently is inferior to human intelligence. 
 

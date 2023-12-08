@@ -24,24 +24,31 @@ This has practical uses.
 
 For instance, we sometimes perceive something totally new. When Covid first struck in December 2019 in Wuhan, doctors had **no metaphysical idea of it**, even if they could see the physical disease. 
 
-In this case: 
-- the physical disease started to exist through the senses of the Wuhan doctors
-- the metaphysical idea existed in Nature, but not in human minds. It only existed in minds after the scientists established it as a new idea called Novel Coronavirus Disease, later renamed as **Covid-19**
+In this case, the physical disease started to exist through the senses of the Wuhan doctors. But the complete idea of it did not exist in human minds until scientists established it as a new idea called Novel Coronavirus Disease, later renamed as Covid-19. 
+
+It means that the complete metaphysical idea existed in Nature, before humans could completely recreate it in their minds.
 
 
-{{< img src="/photos/med/covid.jpg" alt="Covid in water" cap="The idea of Covid is started to exist in the physical domain when the physical perception of the new virus began. Its evolution from 'Novel Coronavirus Disease' to 'Covid-19' is an example the 'aether drag'" >}}
+{{< img src="/photos/med/covid.jpg" alt="Covid in water" cap="The idea of Covid is started to exist in the physical domain when the physical perception of the new virus began. Its evolution from 'Novel Coronavirus Disease' to 'Covid-19' is an example a metaphysical 'aether drag'" >}}
 
 
 
 ## The Superiority of the Metaphysical Over the Physical
 
 This strengthens the fact that:
-- physical things are tangible and perceivable through our five senses
+- physical things are perceivable through our 5 senses
 - metaphysical things are perceivable through our intellect and feelings (the 6th sense).
+- every physical thing or perception has a corresponding metaphysical idea or feeling
+- every idea or feeling exists before its physical version does.
+
+<!-- - physical things are tangible and perceivable through our five senses
+- metaphysical things are perceivable through our intellect and feelings (the 6th sense). -->
 
 {{< img src="/photos/objects/mugecon.jpg" alt="Mug Economics" >}}
 
-The mug only existed after the maker of mugs had the idea of a mug, as to be able to create a physical mug. It follows that Covid-19 existed after Nature had the idea for it, and that its solution already exists in Nature*.
+The mug only existed after the maker of mugs had the idea of a mug, as to be able to create a physical mug. 
+
+It follows that Covid-19 existed after Nature had the idea for it, and that its solution already exists in Nature*.
 
 
 {{< me date="December 14, 2021" >}}
@@ -49,10 +56,10 @@ The mug only existed after the maker of mugs had the idea of a mug, as to be abl
 {{< /me >}}
 
 
-{{< me date="August 1, 2022" >}}
+<!-- {{< me date="August 1, 2022" >}}
 *Environmental destruction hasn't stopped yet, and so Nature just throws another virus as monkeypox to show who's boss. 
 {{< /me >}}
-
+ -->
 
 Thus:
 - every physical thing or perception has a corresponding metaphysical idea or feeling

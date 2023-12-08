@@ -6,7 +6,9 @@ heading: "Negative Thinker"
 date: 2023-07-27
 image: "/flags/il.png"
 description: "The social cycles of Israel last 12 years"
-# contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: "/flags/il.png"
 weight: 93
 ---

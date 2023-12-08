@@ -5,7 +5,9 @@ heading: "Negative Warrior"
 date: 2021-07-27
 image: "/flags/us.png"
 description : "The social cycles of the US last 17 years"
-# contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 204
 icon: /flags/us.png
 ---

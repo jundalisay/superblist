@@ -7,7 +7,9 @@ weight: 57
 dateorig: "(originally Jan 1 2015)"
 image: "/flags/eg.png"
 description: "The social cycles of Egypt last 19 years. These explain the Arab spring"
-# contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: /flags/eg.png
 ---
 

@@ -7,7 +7,9 @@ date: 2021-09-18
 weight: 42
 image: "/flags/cn.png"
 description : "The coming China-Taiwan war is a natural consequence of the wrong policies of Nixon"
-# contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: "/flags/cn.png"
 ---
 

@@ -7,7 +7,9 @@ date: 2022-03-05
 weight: 161
 image: "/flags/ru.png"
 description: "The social cycles of Russia last 15 years"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 icon: "/flags/ru.png"
 ---
 

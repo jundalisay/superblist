@@ -18,13 +18,17 @@ The Law of Conservation of Idea explained that:
 - all ideas are unique
 - all movement comes from the idea repelling or attracting others due to its inherent dharma or true nature
 
-We notate this inherent dharma as `G` which stands for a **gravitational signature**. This signature causes a thing to "gravitate" towards or away from another thing. 
+
+## The Gravitational Signature
+
+We notate this inherent dharma as `G` which stands for a **gravitational signature**. This signature causes a thing to "gravitate" towards to, or away from, another thing. 
 
 This means that everything in existence has a `G`, whether it be a rock, a car, a virus, an opinion, a soul, a belief, a civilization, etc.  This `G` dictates its movement, as kinetic energy, and its pre-movement, as potential energy. 
-- We call the kinetic energy as `F` force or `O` effort
+- We call the kinetic energy as `F` force 
+<!-- or `O` effort -->
 - We call the potential energy as `E` of energy
 
-Superphysics divides reality into 5 layers <sub>*`l`*</sub> where all gravitational signatures exist in. This means that all `G` takes place in a layer or <sub>*`l`*</sub>. 
+Superphysics divides reality into 5 layers, as <sub>*`l`*</sub>, where all gravitational signatures exist in. This means that all `G` takes place in a layer or <sub>*`l`*</sub>.
 
 <!-- A [previous post](/material/fallacies/general-relativity) explained how the error in Einstien's E = mc^2 led to the universal equation of Superphysics. 
 
@@ -42,8 +46,8 @@ We notate this as E = G<sub>*`l`*</sub>.
 
 
 - `E` is inherent energy and represents potentiality
-- `G` is the dharma of the thing (as gravitational signature). This represents Shiva or Yang
-- <sub>*`l`*</sub> is the physical layer where the thing lies or occurs. This represents the confinement by Shakti-Yin on Shiva-Yang
+- `G` is the gravitational signature or dharma of the thing. This represents the Positivity or Shiva or Yang
+- <sub>*`l`*</sub> is the physical layer where the thing exists in. This represents the confinement by Negativity, or Shakti or Yin, on Shiva or Yang
 
 We can call this equation as "eagle" as it is written with the letters `E G` <sub>*`l`*</sub>. 
 

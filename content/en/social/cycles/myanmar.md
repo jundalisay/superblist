@@ -5,7 +5,9 @@ heading: "Negative Worker"
 date: 2021-07-27
 image: "/flags/mm.png"
 description: "The social cycles of Myanmar last 16 years"
-# contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 136
 icon: "/flags/mm.png"
 ---

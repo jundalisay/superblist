@@ -74,6 +74,7 @@
         <line x1="21" y1="6" x2="21" y2="19" />
       </svg>
       {{ .WordCount }}&nbsp;{{ i18n "words" }}
+      
       {{ if not (or (or .Site.Params.hideOtherLanguages .Params.hideOtherLanguages) false) }}
         {{ if .IsTranslated -}}
           {{- $sortedTranslations := sort .Translations "Site.Language.Weight" -}}

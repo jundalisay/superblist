@@ -5,7 +5,9 @@ heading: "The Way of Structural Reform"
 date: 2020-09-23
 image: "/flags/jp.png"
 description : "The failure of Abenomics is due to Keynesian Economics which is flawed to begin with"
-contributors: ['Juan']
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 97
 icon: /flags/jp.png
 ---

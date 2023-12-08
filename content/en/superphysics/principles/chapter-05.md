@@ -35,45 +35,57 @@ Experience can only exist if there is an experiencer. Thus, there are only 2 thi
 
 Before existence began, the Absolute Creator had nothing to create those experiencers and experiences. And so It created those from Itself, using 2 forces*:
 - the positive (this is known as Shiva in Hinduism or Yang in Chinese)
+  - Its main job is to unify.
 - the negative (this is known as Shakti in Hinduism or Yin in Chinese)
+  - Its main job is to divide and separate.
+
+These lead to the common phenomena of attraction and repulsion in the physical domain.  
+
 
 {{< img src="/icons/tao.png" size="" alt="The Tao">}}
 
 
+{{< box >}}
 
-> Some Taoist schools say that it does not matter whether the Yin-Yang symbol is shown in a clockwise or counter-clockwise direction. We say that it *does* matter. The symbol should always be in a counterclockwise direction*, as shown in the ba-gua. Moreover, Yang should always be on top as implied by the Tao-te-Ching. <p> This is because, from the Metaphyics of Things, ideas have a shape which implies a proper orientation (right-side up). An idea can be learned, or a problem can be solved, faster by approaching the idea or problem <b>at the right angle that matches its orientation</b>. This is similar to a spaceshuttle re-entering earth at a proper angle to avoid burning up**. Without the knowledge of this shape, the only alternative is to approach it from all possible angles, leading to a waste of time and effort. Some problems are so complex that the proper angle is hard to achieve with the hit-or-miss approach. This is why Superphysics will be able to solve problems, even the complex ones, faster*** than Science that has no concept of the geometry of ideas****</p>
+### The Geometry of Ideas
+
+Some Taoist schools say that it does not matter whether the Yin-Yang symbol is shown in a clockwise or counter-clockwise direction. We say that it *does* matter. The symbol should always be in a counterclockwise direction. 
+
+This is proven by most of the planets in our solar system rotating in counterclockwise direction. Venus was once habitable when it rotated counterclockwise, but became hell when it flipped into a clockwise direction.
+
+Moreover, Yang should always be on top as implied by the Tao-te-Ching. This is because aethereal ideas have a shape which implies a proper orientation (right-side up). 
+
+An idea can be learned, or a problem can be solved, faster by approaching the idea or problem **at the right angle that matches its orientation.** This is similar to a spaceshuttle re-entering earth at a proper angle to avoid burning up. 
+
+This angle and shape are consequences of the Negative force which surrounds each idea or identity in order to separate it from other identities.
+
+Without the knowledge of this shape, the only alternative is to approach a big problem from all possible angles, leading to a waste of time and effort.
+
+Some problems are so complex that the proper angle is hard to achieve with the hit-or-miss approach. This is why Superphysics will be able to solve problems, even the complex ones, faster than Science which has no concept of the geometry of ideas.
+<!-- , as shown in the ba-gua -->
+Plato alludes to this through the five Platonic shapes. Superphysics visualizes these through the Aethereal Cartesian plane which will be done by machine learning, since it's too complicated for a human.
+
+We actually use this technique to come up with solutions to economic crises and social crises faster than Economists or Sociologists. The problem is in implementing those solutions in the physical real world because of the static 'aether-drag' in human minds.
+{{< /box >}}
 
 
-> *This is proven by most of the planets in our solar system rotating in counterclockwise direction. Venus was once habitable when it rotated counterclockwise, but became hell when it flipped into a clockwise direction.
-
-> **This angle and shape is a consequence of the Negative force which surrounds each idea or identity as to separate it from other identities
-
-
-> ***We actually use this technique to come up with solutions to economic crises and social crises faster than Economists or Sociologists. The problem is in implementing those solutions in the physical real world because of the static 'aether-drag' in human minds   
-
-
-> ****Plato alludes to this through the five Platonic shapes. Superphysics visualizes these through the Aethereal Cartesian plane which will be done by machine learning, since it's too complicated for a human 
-
-
-{{< q a="Propery" >}}
+{{< q a="Propery" c="The Life of Pythagoras by Propery" >}}
 According to Pythagoras, the world was divided into opposite powers:
-<ul>
-<li>the "one" was a better monad, light, right, equal, stable and straight</li>
-<li>the "other" was an inferior duad, darkness, left, unequal, unstable and movable</li>
-</ul>
-<cite>The Life of Pythagoras by Propery</cite>
+- the "one" was a better monad, light, right, equal, stable and straight
+- the "other" was an inferior duad, darkness, left, unequal, unstable and movable
 {{< /q >}}
 
 
-{{< q a="Hegel" >}}
+{{< q a="Hegel" c="The Phenomenology of Spirit" >}}
 There are 2 forces present at the same time. The notion of both is the same notion. But it has passed out of its unity into duality...
 
 The elements when set up as independent, pass directly over into their unity. Their unity passes directly into its explicit diversity. The diversity passes back once again into the reduction to unity.
-<cite>The Phenomenology of Spirit</cite>
 {{< /q >}}
 
 
-The main job of the Positive Force is to unify, while the job of the Negative Force is to divide and separate. These 2 Forces manifest in the material domain in the following forms:
+
+
+These 2 Forces manifest in the material domain in the following forms:
 
 Layer | Positive | Negative
 --- | --- | ---
@@ -83,14 +95,12 @@ Radiant| Attraction | Repulsion
 Transformative | Fusion (Stability) | Fission (Chemical Reaction)
 Material | Solidity | Splitting up
 
-
-Thus, attraction and repulsion are the effects of the 2 Forces.
-
+<!-- Thus, attraction and repulsion are the effects of the 2 Forces. -->
 
 
 ### Duality from the Two Forces, as a Loop
 
-The Negative force splits the Absolute into a dualistic Creator, as the Supreme, which makes imperfections of Itself, as Its dualistic ideas and feelings:
+The Negative force splits the theoretical Absolute Entity into a dualistic Creator, as the real Supreme Entity. This latter Entity creates Existence by making imperfections of Itself, as Its dualistic ideas and feelings:
 - The creation of the idea of beauty also leads to the creation of ugliness. 
 - The creation of order also leads to the creation of disorder. 
 - The creation of tastiness also leads to the creation of blandness.
@@ -159,9 +169,9 @@ Therefore, merely having strong desires in not enough to create a good reality. 
 
 This alignment is done by the reader by choosing the right cat-novel to read. The proper alignment does not come instantly but happens through instances of trial and error. The more instances, the better. We call this as *learning experiences*.  
 
-The quality of learning experiences would be higher if the scope of learning were expanded. A reader can find a better cat-novel if he searched at a bigger library or bookstore. Superphysics expands the library of science by adding to it the library of metapyhsics. 
+The quality of learning experiences would be higher if the scope of learning were expanded. A reader can find a better cat-novel if he searched at a bigger library or bookstore. Superphysics expands the library of science by adding to it the library of metapyhsics.
 
-The next chapter will deal with the attraction and repulsion that is created by the Two Forces, as our Elastic Theory of Gravity. 
+<!-- The next chapter will deal with the attraction and repulsion that is created by the Two Forces, as our Elastic Theory of Gravity.  -->
 
 <!-- Nowadays, the advancement science has led to economic growth, but has also opened up new problems:
 

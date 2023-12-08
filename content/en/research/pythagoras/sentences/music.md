@@ -4,8 +4,10 @@ weight: 6
 # date: 2022-04-13
 image: /covers/sentences.jpg
 description: "Western Music was discovered by Pythagoras"
-# contributors: ['Juan']
-# icon: /icons/spmat.png
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
+icon: /icons/spmat.png
 ---
 
 

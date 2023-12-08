@@ -1,6 +1,4 @@
-<a href="{{ .Permalink }}" style="text-decoration: none;" lang="{{ .Lang }}">{{ default .Lang .Site.Language.LanguageName }}</a>
-
-<button class="button rounded-sm bg-gray-100 p-1 dark:bg-gray-700 dark:hover:bg-gray-400"></button>
+<button class="button rounded-sm bg-gray-100 p-1 dark:bg-gray-700 dark:hover:bg-gray-400"><a href="{{ .Permalink }}" style="text-decoration: none;" lang="{{ .Lang }}">{{ default .Lang .Site.Language.LanguageName }}</a></button>
 
 
 https://www.linkedin.com/in/baolamnguyen/
