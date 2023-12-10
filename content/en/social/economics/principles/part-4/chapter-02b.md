@@ -8,6 +8,8 @@ description : "Adam Smith gave 4 maxims on taxation that have been largely forgo
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+aliases:
+  /social/economics/principles/taxation-maxims/  
 ---
 
 

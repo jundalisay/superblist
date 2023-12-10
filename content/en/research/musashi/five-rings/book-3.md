@@ -13,8 +13,7 @@ In this the Fire Book of the Ni To Ichi school of strategy I describe fighting a
 
 In the first place, people think narrowly about the benefit of strategy.
 
-By using only their fingertips, they only know the benefit of three of the five inches of the wrist. They let a contest be decided, as with the folding fan, merely by the span of their forearms. They specialise in the small
-matter of dexterity, learning such trifles as hand and leg movements with the bamboo practice sword.
+By using only their fingertips, they only know the benefit of three of the five inches of the wrist. They let a contest be decided, as with the folding fan, merely by the span of their forearms. They specialise in the small matter of dexterity, learning such trifles as hand and leg movements with the bamboo practice sword.
 
 In my strategy, the training for killing enemies is by way of many contests, fighting for survival, discovering the meaning of life and death, learning the Way of the sword, judging the strength of attacks and understanding the Way of the "edge and ridge" of the sword.
 
@@ -55,16 +54,14 @@ write about this in detail.
 
 ### The First - Ken No Sen
 
-When you decide to attack, keep calm and dash in quickly, forestalling
-the enemy. Or you can advance seemingly strongly but with a reserved
-spirit, forestalling him with the reserve.
+When you decide to attack, keep calm and dash in quickly, forestalling the enemy. Or you can advance seemingly strongly but with a reserved spirit, forestalling him with the reserve.
 
-Alternatively, advance with as strong a spirit as possible, and when
-you reach the enemy move with your feet a little quicker than normal,
-unsettling him and overwhelming him sharply.
-Or, with your spirit calm, attack with a feeling of constantly crushing
-the enemy, from first to last. The spirit is to win in the depths of the en-
-emy. These are all Ken No Sen.
+Alternatively, advance with as strong a spirit as possible, and when you reach the enemy move with your feet a little quicker than normal, unsettling him and overwhelming him sharply.
+
+Or, with your spirit calm, attack with a feeling of constantly crushing the enemy, from first to last. The spirit is to win in the depths of the enemy. 
+
+These are all Ken No Sen.
+
 
 ### The Second - Tai No Sen
 
@@ -73,18 +70,17 @@ When the enemy attacks, remain undisturbed but feign weakness. As the enemy reac
 Or, as the enemy attacks, attack still more strongly, taking advantage of the resulting disorder in his timing to win.
 This is the Tai No Sen principle.
 
+
 ### The Third - Tai Tai No Sen
 
 When the enemy makes a quick attack, you must attack strongly and calmly, aim for his weak point as he draws near, and strongly defeat him.
 
-Or, if the enemy attacks calmly, you must observe his movements and,
-with your body rather floating, join in with his movements as he draws
-near. Move quickly and cut him strongly.
+Or, if the enemy attacks calmly, you must observe his movements and, with your body rather floating, join in with his movements as he draws near. Move quickly and cut him strongly.
 
 This is Tai Tai No Sen.
 
-These things cannot be clearly explained in words. You must research what is written here. In these three ways of forestalling, you must judge the situation. This does not mean that you always attack first; but if the enemy attacks first you can lead him around. In strategy, you have effectively won when you forestall the enemy, so you must train well to at-
-tain this.
+These things cannot be clearly explained in words. You must research what is written here. In these three ways of forestalling, you must judge the situation. This does not mean that you always attack first; but if the enemy attacks first you can lead him around. In strategy, you have effectively won when you forestall the enemy, so you must train well to attain this.
+
 
 ### To Hold Down a Pillow
 
@@ -92,12 +88,14 @@ This means not allowing the enemy's head to rise.
 
 In contests of strategy it is bad to be led about by the enemy. You must always be able to lead the enemy about. Obviously the enemy will also be thinking of doing this, but he cannot forestall you if you do not allow him to come out. 
 
-In strategy, you must stop the enemy as he attempts to cut; you must push down his thrust, and throw off his hold when he
-tries to grapple. This is the meaning of "to hold down a pillow". When you have grasped this principle, whatever the enemy tries to bring about in the fight you will see in advance and suppress it. The spirit is to check his attack at the syllable "at... ", when he jumps check his jump at the syllable "ju... ", and check his cut at "cu... ".
+In strategy, you must stop the enemy as he attempts to cut; you must push down his thrust, and throw off his hold when he tries to grapple. This is the meaning of "to hold down a pillow".
+
+When you have grasped this principle, whatever the enemy tries to bring about in the fight you will see in advance and suppress it. The spirit is to check his attack at the syllable "at... ", when he jumps check his jump at the syllable "ju... ", and check his cut at "cu... ".
 
 The important thing in strategy is to suppress the enemy's useful actions but allow his useless actions. However, doing this alone is defensive. 
 
 First, you must act according to the Way, suppressing the enemy's techniques, foiling his plans and thence command him directly. When you can do this you will be a master of strategy. You must train well and research "holding down a pillow".
+
 
 ### Crossing at a Ford
 
@@ -107,10 +105,12 @@ When all the conditions are meet, and there is perhaps a favourable wind, or a t
 
 If you attain this spirit, it applies to everyday life. You must always think of crossing at a ford.
 
-In strategy also it is important to "cross at a ford". Discern the enemy's capability and, knowing your own strong points, "cross the ford" at the advantageous place, as a good captain crosses a sea route. If you succeed in crossing at the best place, you may take your ease. To cross at a ford means to attack the enemy's weak point, and to put yourself in an ad-
-vantageous position. This is how to win large-scale strategy. The spirit of crossing at a ford is necessary in both large- and small-scale strategy. 
+In strategy also it is important to "cross at a ford". Discern the enemy's capability and, knowing your own strong points, "cross the ford" at the advantageous place, as a good captain crosses a sea route. If you succeed in crossing at the best place, you may take your ease. 
+
+To cross at a ford means to attack the enemy's weak point, and to put yourself in an advantageous position. This is how to win large-scale strategy. The spirit of crossing at a ford is necessary in both large- and small-scale strategy. 
 
 You must research this well.
+
 
 ### To Know the Times
 
@@ -142,16 +142,21 @@ Everything can collapse. Houses, bodies, and enemies collapse when their rhythm 
 
 In large-scale strategy, when the enemy starts to collapse, you must pursue him without letting the chance go. If you fail to take advantage of your enemies' collapse, they may recover.
 
-In single combat, the enemy sometimes loses timing and collapses. If you let this opportunity pass, he may recover and not be so negligent thereafter. Fix your eye on the enemy's collapse, and chase him, attacking so that you do not let him recover. You must do this. The chasing attack is with a strong spirit. You must utterly cut the enemy down so that he does not recover his position. You must understand how to utterly cut down the enemy.
+In single combat, the enemy sometimes loses timing and collapses. If you let this opportunity pass, he may recover and not be so negligent thereafter. Fix your eye on the enemy's collapse, and chase him, attacking so that you do not let him recover. You must do this.
+
+The chasing attack is with a strong spirit. You must utterly cut the enemy down so that he does not recover his position. You must understand how to utterly cut down the enemy.
 
 
 ### To Become the Enemy
 
-This means to think yourself in the enemy's position. In the world people tend to think of a robber trapped in a house as a fortified enemy. However, if we think of "becoming the enemy", we feel that the whole world is against us and that there is no escape. He who is shut inside is a pheasant. He who enters to arrest is a hawk. You must appreciate this.
+This means to think yourself in the enemy's position. In the world people tend to think of a robber trapped in a house as a fortified enemy.
+
+However, if we think of "becoming the enemy", we feel that the whole world is against us and that there is no escape. He who is shut inside is a pheasant. He who enters to arrest is a hawk. You must appreciate this.
 
 In large-scale strategy, people are always under the impression that the enemy is strong, and so tend to become cautious. But if you have good soldiers, and if you understand the principles of strategy, and if you know how to beat the enemy, there is nothing to worry about. 
 
 In single combat also you must put yourself in the enemy's position. If you think, "Here is a a master of the Way, who knows the principles of strategy", then you will surely lose. You must consider this deeply.
+
 
 ### To Release Four Hands
 
@@ -160,6 +165,7 @@ This is used when you and the enemy are contending with the same spirit, and the
 In large-scale strategy, when there is a "four hands" spirit, do not give up - it is man's existence. Immediately throw away this spirit and win with a technique the enemy does not expect.
 
 In single combat also, when we think we have fallen into the "four hands" situation, we must defeat the enemy by changing our mind and applying a suitable technique according to his condition. You must be able to judge this.
+
 
 ### To Move the Shade
 
@@ -197,6 +203,7 @@ In large-scale strategy it is important to cause loss of balance. Attack without
 Or, in single combat, start by making a show of being slow, then suddenly attack strongly. Without allowing him space for breath to recover form the fluctuation of spirit, you must grasp the opportunity to win.
 
 Get the feel of this.
+
 
 ### To Frighten
 

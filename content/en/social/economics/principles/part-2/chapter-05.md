@@ -10,7 +10,9 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
-toc: false  
+toc: false
+aliases:
+  /social/economics/fallacies/surplus/
 ---
 
 

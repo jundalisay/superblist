@@ -32,6 +32,7 @@ With your spirit open and unconstricted, look at things from a high point of vie
 
 The wisdom of strategy is different from other things. On the battlefield, even when you are hard-pressed, you should ceaselessly research the principles of strategy so that you can develop a steady spirit.
 
+
 ### Stance in Strategy
 
 Have your head erect, neither hanging down, nor looking up, nor twisted. Your forehead and the space between your eyes should
@@ -45,6 +46,7 @@ everyday life and to make your everyday stance your combat stance.
 
 You must research this well.
 
+
 ### The Gaze in Strategy
 
 The gaze should be large and broad. This is the twofold gaze "Perception and Sight". Perception is strong and sight week.
@@ -52,16 +54,19 @@ In strategy it is important to see distant things as if they were close and to t
 
 It is necessary in strategy to be able to look to both sides without moving the eyeballs. You cannot master this ability quickly. Learn what is written here; use this gaze in everyday life and do not vary it whatever happens.
 
-### Holding the Long Sword:  Continuous Cut
+
+### Holding the Long Sword: Continuous Cut
 
 When you attack and the enemy also attacks, and your swords spring together, in one action cut his head, hands and legs. When you cut several places with one sweep of the long sword, it is the "Continuous Cut".
 
 You must practice this cut; it is often used. With detailed practice you should be able to understand it.
 
+
 ### Cut the Fire and Stones
 
 This means that when the enemy's long sword and your long sword clash together you cut as strongly as possible without raising the sword even a little. This means cutting quickly with the hands, body and legs - all three cutting strongly. If you train
 well enough you will be able to strike strongly.
+
 
 ### The Red Leaves Cut
 
@@ -71,11 +76,13 @@ When the enemy is in a long sword attitude in front of you and intent on cutting
 
 If you then beat down the point of his sword with a sticky feeling, he will necessarily drop the sword. If you practice this cut it becomes easy to make the enemy drop his sword. You must train repetitively. 
 
+
 ### The Body in Place of the Long Sword or the long sword in place of the body
 
 Usually we move the body and the sword at the same time to cut the enemy. However, according to the enemy's cutting method, you can dash against him with your body first, and afterwards cut with the sword. 
 
 If his body is immoveable, you can cut first with the long sword, but generally you hit first with the body and then cut with the long sword. You must research this well and practice hitting.
+
 
 ### Cut and Slash
 
@@ -88,6 +95,7 @@ Slashing is nothing more than touching the enemy. Even if you slash strongly, an
 If you first slash the enemy's hands or legs, you must then cut strongly. Slashing is in spirit the same as touching.
 When you realize this, they become indistinguishable. Learn this well.
 
+
 ### Chinese Monkey's Body
 
 This is the spirit of not stretching out your arms. The spirit is to get in quickly, without in the least extending your
@@ -95,6 +103,7 @@ arms, before the enemy cuts. If you are intent upon not stretching out
 your arms you are effectively far away, the spirit is to go in with your
 whole body. When you come to within arm's reach it becomes easy to
 move your body in. You must research this well.
+
 
 ### Glue and Lacquer Emulsion Body
 
@@ -116,11 +125,10 @@ The difference between "Stickiness" and "Entanglement" is that stickiness is fir
 
 ### The Body Strike
 
-The Body Strike means to approach the enemy through a gap in his
-guard. The spirit is to strike him with your body. Turn your face a little aside and strike the enemy's breast with your left shoulder thrust out. Approach with the spirit of bouncing the enemy away, striking as
-strongly as possible in time with yout breathing. If you achieve this
-method of closing with the enemy, you will be able to knock him ten or
-twenty feet away. It is possible to strike the enemy until he is dead. <!-- Train well. -->
+The Body Strike means to approach the enemy through a gap in his guard. The spirit is to strike him with your body. Turn your face a little aside and strike the enemy's breast with your left shoulder thrust out.
+
+Approach with the spirit of bouncing the enemy away, striking as strongly as possible in time with yout breathing. If you achieve this method of closing with the enemy, you will be able to knock him 10-20 feet away. It is possible to strike the enemy until he is dead. <!-- Train well. -->
+
 
 ### Three Ways to Parry His Attack
 
@@ -138,40 +146,39 @@ You can always clench your left hand and thrust at the enemy's face with your fi
 ### To Stab at the Face
 
 This means stabbing at his face, following the line of the blades with the point of your long sword. If you are intent on
-stabbing at his face, his face and body will become rideable. When the enemy becomes as if rideable, there are various opportunities for winning. You must concentrate on this. When fighting and the enemy's body becomes as if rideable, you can win quickly, so you ought not to forget to stab at the face. You must pursue the value of this technique through training.
+stabbing at his face, his face and body will become rideable. When the enemy becomes as if rideable, there are various opportunities for winning. 
+
+You must concentrate on this. When fighting and the enemy's body becomes as if rideable, you can win quickly, so you ought not to forget to stab at the face. You must pursue the value of this technique through training.
+
 
 ### To Stab at the Heart
 
-To stab at the heart means, when fighting and there are obstructions
-above, or to the sides, and whenever it is difficult to cut, to thrust at the
-enemy. You must stab the enemy's breast without letting the point of
-your long sword waver, showing the enemy the ridge of the blade
-square-on, and with the spirit of deflecting his long sword. The spirit of
-this principle is often useful when we become tired or for some reason
-our long sword will not cut. You must understand the application of this
-method.
+To stab at the heart means, when fighting and there are obstructions above, or to the sides, and whenever it is difficult to cut, to thrust at the enemy.
+
+You must stab the enemy's breast without letting the point of your long sword waver, showing the enemy the ridge of the blade square-on, and with the spirit of deflecting his long sword. 
+
+The spirit of this principle is often useful when we become tired or for some reason our long sword will not cut. You must understand the application of this method.
+
 
 ### To Scold "Tut-TUT!"
 
-"Scold" means that, when the enemy tries to counter-cut as you attack,
-you counter-cut again from below as if thrusting at him, trying to hold
-him down. With very quick timing you cut, scolding the enemy. Thrust
-up, "Tut!", and cut "TUT!" This timing is encountered time and time
-again in exchange of blows. The way to scold Tut-TUT is to time the cut
-simultaneously with raising your long sword as if to thrust the enemy.
+"Scold" means that, when the enemy tries to counter-cut as you attack, you counter-cut again from below as if thrusting at him, trying to hold him down.
+
+With very quick timing you cut, scolding the enemy. Thrust up, "Tut!", and cut "TUT!" This timing is encountered time and time again in exchange of blows. 
+
+The way to scold Tut-TUT is to time the cut simultaneously with raising your long sword as if to thrust the enemy.
+
 You must learn this through repetitive practice.
+
 
 ### The Smacking Parry
 
-This is when you clash swords with the enemy, you meet his attacking cut on your long sword with a tee-dum, tee-
-dum rhythm, smacking his sword and cutting him. The spirit of the
-smacking parry is not parrying, or smacking strongly, but smacking the
-enemy's long sword in accordance with his attacking cut, primarily in-
-tent on quickly cutting him. 
+This is when you clash swords with the enemy, you meet his attacking cut on your long sword with a tee-dum, tee-dum rhythm, smacking his sword and cutting him. 
 
-If you understand the timing of smacking, however hard your long swords clash together, your swordpoint will not
-be knocked back even a little. You must research sufficiently to realize
-this.
+The spirit of the smacking parry is not parrying, or smacking strongly, but smacking the enemy's long sword in accordance with his attacking cut, primarily intent on quickly cutting him. 
+
+If you understand the timing of smacking, however hard your long swords clash together, your swordpoint will not be knocked back even a little. You must research sufficiently to realize this.
+
 
 ### One versus Many
 
@@ -181,41 +188,39 @@ Sweep your eyes around broadly, carefully examining the attacking order, and cut
 
 Waiting is bad.
 
-Always quickly re-assume your attitudes to both sides, cut the enemies down as they advance, crushing them in the direction from which they attack. Whatever you do, you must drive the enemy together, as if tying a line of fishes, and when they are seen to be piled up, cut them down strongly without giving them room to move.
+Always quickly re-assume your attitudes to both sides, cut the enemies down as they advance, crushing them in the direction from which they attack. Whatever you do, you must drive the enemy together, as if tying a line of fishes. 
+
+When they are seen to be piled up, cut them down strongly without giving them room to move.
 
 
 ### The Advantage when Coming to Blows
 
-You can know how to win through strategy with the long sword, but it
-cannot be clearly explained in writing. You must practice diligently in
-order to understand how to win.
+You can know how to win through strategy with the long sword, but it cannot be clearly explained in writing. You must practice diligently in order to understand how to win.
 
-Oral tradition:  "The true Way of Strategy is revealed in the long sword."
+Oral tradition: "The true Way of Strategy is revealed in the long sword."
+
 
 ### One Cut
 
-You can win with certainty with the spirit of "one cut". It is difficult to
-attain this if you do not learn strategy well. If you train well in this Way,
-strategy will come from your heart and you will be able to win at will.
+You can win with certainty with the spirit of "one cut". It is difficult to attain this if you do not learn strategy well. If you train well in this Way, strategy will come from your heart and you will be able to win at will.
+
 You must train diligently.
+
 
 ### Direct Communication
 
 This is how the true Way of the Ni To Ichi school is received and handed down.
+
 Oral tradition:  "Teach your body strategy."
 
 Recorded in the above book is an outline of Ichi school sword-fighting.
 
-To learn how to win with the long sword in strategy, first learn the five approaches and the five attitudes, and absorb the Way of the long sword naturally in your body. You must understand spirit and timing, handle the long sword naturally, and move body and legs in harmony with your spirit. Whether beating one man or two, you will then know
-values in strategy.
+To learn how to win with the long sword in strategy, first learn the five approaches and the five attitudes, and absorb the Way of the long sword naturally in your body. You must understand spirit and timing, handle the long sword naturally, and move body and legs in harmony with your spirit. Whether beating one man or two, you will then know values in strategy.
 
-Study the contents of this book, taking one item at a time, and through
-fighting with enemies you will gradually come to know the principle of
-the Way.
+Study the contents of this book, taking one item at a time, and through fighting with enemies you will gradually come to know the principle of the Way.
 
-Deliberately, with a patient spirit, absorb the virtue of all this, from
-time to time raising your hand in combat. Maintain this spirit whenever
-you cross swords with and enemy.
+Deliberately, with a patient spirit, absorb the virtue of all this, from time to time raising your hand in combat. Maintain this spirit whenever you cross swords with and enemy.
+
 
 ### Step by step walk the thousand-mile road
 
