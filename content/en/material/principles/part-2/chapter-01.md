@@ -13,7 +13,12 @@ icon: /icons/spmat.png
 ---
 
 
-The spatial layer is below the aethereal, as the 'container' of a universe in an existence made up of a multiverse. It leads to spacetime and sets the speed of light, since it is superior to the the 3 lower Layers of Electromagnetism, Weak Force, and Strong Force. 
+The spatial layer is below the aethereal, as the 'container' of a universe in an existence made up of a multiverse. 
+
+It leads to spacetime and sets the speed of light, since it is superior to the the 3 lower Layers of:
+- Electromagnetism
+- Weak Force
+- Strong Force
 
 {{< img src="/graphics/physics/egllayers.png" alt="The 5 Layers" cap="The Spacetime Layer holds the Physical Universe which is made up of Electromagnetism, Weak Force, and Strong Force" >}}
 
@@ -24,7 +29,7 @@ This layer gives the properties of size, space, timespan, and age of the univers
 
 The spacetime layer is the gateway that allows the ideas from the aethereal layer a chance to cross over onto physical reality via spacetime vortices, called black holes by Modern Physics, through galaxies and stars.
 
-{{< img src="/graphics/physics/multiverse.png" alt="The 5 Layers" cap="Pre-existing aethereal ideas flow down into physical reality in a probabilsitic way. A single idea, when deployed, therefore has many versions in other universes of varying densities" >}}
+{{< img src="/graphics/physics/multiverse.png" alt="Multiverse with Universes" cap="Pre-existing aethereal ideas flow down into physical reality in a probabilsitic way. A single idea, when deployed, therefore has many versions in other universes of varying densities" >}}
 
 Within one universe, the creation of these vortices leads to the mutual repulsion between them, leading to the perception of space and time.
 

@@ -30,6 +30,10 @@ We bring back the original invisible hand by separating it from corrupted hand f
 Smith proclaimed the principle of the ‘invisible hand’. It says that every individual, in selfishly pursuing only his or her personal good, is led, as if by an invisible hand, to achieve the best good for all. In this best of all possible worlds, any interference with free competition is certain to be injurious.
 {{< /q >}}
 
+{{< q a="Samuelson" c="Economics" >}}
+John D. Rockefeller’s dog may receive the milk that a poor child needs to avoid rickets. Why? Because supply and demand are working badly? No. Because **they are doing what they are designed to do**, putting goods in the hands of those who can pay the most.
+{{< /q >}}
+
 
 Of course, that is absolutely false, since Smith pointed to sympathy and benevolence (the direct opposite of selfishness), as the substance that keeps the machine called society running smoothly. 
 

@@ -31,6 +31,11 @@ This uniqueness means that **each idea has its own properties** as imbued by its
 - These inherent properties are called its *dharma* or true nature. <!-- Unlike nature which si -->
 - The inherent property of a unique idea or object is called **svadharma**
 
+This law explains the principles in various sciences, such as:
+- The mind having only one thought at a time in Psychology 
+- The Pauli Exclusion Principle in Physics
+- A territory having only one state in Politics
+
 
 ## Uniqueness Leads to All Movement in Existence
 

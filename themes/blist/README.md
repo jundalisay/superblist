@@ -1,5 +1,50 @@
 <button class="button rounded-sm bg-gray-100 p-1 dark:bg-gray-700 dark:hover:bg-gray-400"><a href="{{ .Permalink }}" style="text-decoration: none;" lang="{{ .Lang }}">{{ default .Lang .Site.Language.LanguageName }}</a></button>
 
+Fermions have spin has Pauli exclusion principle 
+
+
+Fundamentals
+
+Fermions
+  quarks
+  leptons
+    weak elec spacetime
+
+Bosons
+
+
+Hadrons made of quarks
+  Baryons - 3 quarks
+    Proton
+      up 
+      up 
+      down
+    Neutron
+      up 
+      down
+      down
+  Mesons - Quark antiquark
+    Pion
+
+
+
+Mass
+Charge 
+Spin 
+Handedness
+
+
+quark
+  flavor
+  color
+
+
+
+bosons
+  qost spacetime
+  photon radiant 
+  gluons material
+  w z bosons weak
 
 https://www.linkedin.com/in/baolamnguyen/
 

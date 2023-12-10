@@ -24,7 +24,6 @@ Physic should handle that which supposeth in nature only a being and moving. Met
 {{< /q >}}
 
 
-
 {{< r a="Asker" >}}
 So it's pseudo-science because it has metaphysics?
 {{< /r >}}
@@ -65,12 +64,12 @@ How is Socratic Dialectics different from Dialectics?
 
 
 {{< l a="Superphysics" >}}
-Socratic Dialectics uses timeless metaphysical truths as the quality control for logic. Its rival is Aristotlean and Marxist dialectics which uses either the ego or matter (materialism). These led have to Economic Materialism, Dialectical Materialism, Scientism, etc. 
-- Economic Materialism has led to financial crises and poverty.
-- Dialectical Materialism has led to Marxism and Communism. 
-- Scientism has limited Physics to the 3 Elements (Strong Force, Weak Force, Electromagnetism) and has kept the 2 higner Elements (Spacetime, and Aether) out of reach, undiscovered.  As a result, humans are unable to spread themselves to Mars or even to the Moon.
+Socratic Dialectics uses timeless metaphysical truths as the quality control for logic. Its rival is Aristotlean and Marxist dialectics which uses either the ego or matter (materialism). These have led to:
+- Economic Materialism which has caused financial crises and poverty
+- Dialectical Materialism which has led to Marxism and Communism 
+- Scientism which has limited Physics to the 3 Elements (Strong Force, Weak Force, Electromagnetism) and has kept the 2 higner Elements (Spacetime, and Aether) out of reach, undiscovered. As a result, humans are unable to spread themselves to Mars or even to the Moon.
 
-The enlightened philosophers like Bacon, Hume, and Ibn-Khaldun denounced Aristotle. So you can say we are fully in the Pythagoras-Plato-Descartes-Hume-Hinduism-Buddhism-Taoism camp.
+The enlightened philosophers like Bacon, Hume, and Ibn-Khaldun denounced Aristotle. So we are fully in the Pythagoras-Plato-Descartes-Hume-Hinduism-Buddhism-Taoism camp.
 {{< /l >}}
 
 <!--  which has caused a lot of problems in the world via Marxism and Communism. The goals of Marxism of freedom and justice are very good and noble, but its underlying metaphysics is totally junk. This leads to suffering instead of goodness.
@@ -87,7 +86,7 @@ Because we absorb all data, information, and human knowledge, even from Asia, Af
 
 Hinduism, Buddhism, and Taoism allow other dimensions by default. Even Islam has the concept of [Jinns](/research/mohammad/quran/sura-072). This gives us a bigger data set from which we can test their own principles on our reality.
 
-This is different from Roman philosophy which has no metaphysics to allow other dimensions. Notice how Roman gods just mirror human characteristics. The Roman mentality evolved to be Western thinking and subsequently as limited Western Science which only deal with the obvious and shallow perceptions. 
+This is different from Roman philosophy which has no metaphysics to allow other dimensions. Notice how Roman gods just mirror human characteristics. The Roman mentality evolved to be Western thinking and subsequently as the limited Western Science which only deal with the obvious and shallow perceptions.
 {{< /l >}}
 
 {{< r a="Asker" >}}
@@ -141,7 +140,7 @@ Yes. It's more commonly known as theories that say that we exist in a simulation
 
 It means existence was not meant to be suffered. In our case, we use this knowledge to solve all problems.
 
-In the beginning, we used it to solve personal problems of others. In time, we saw everyone having the same pattern of problems. So we organized everything into Superphysics principles to make problem-solving more efficient. We saw that David Hume, in his Treatise of Human Nature, was already ahead in this regard. So we organized our principles into three (Material, Bio, and Social) to match his three books. This also matches the categorization by Descartes.  
+In the beginning, we used it to solve the personal problems of others. In time, we saw everyone having the same pattern of problems. So we organized everything into Superphysics principles to make problem-solving more efficient. We saw that David Hume, in his Treatise of Human Nature, was already ahead in this regard. So we organized our principles into three (Material, Bio, and Social) to match his three books. This also matches the categorization by Descartes.  
 {{< /l >}}
 
 {{< q a="Descartes" c="The Principles of Philosophy, Preface" >}}
@@ -197,7 +196,7 @@ No. Each [medical paradigm](/bio/principles/part-04/chapter-03) is a tool dealin
 
 But people often use alternative medicine for the wrong purpose and so it unfairly gets a bad reputation. 
 
-Western medicine works best in the material layer but is awful at the mental layer. This is why the West has a lot of mental problems that lead to riots and mass shootings. 
+Western medicine works best in the material layer, but is awful at the mental layer. This is why the West has a lot of mental problems that lead to riots and mass shootings. 
 
 Yoga is great at the mental layer, but terrible at the material layer. This is why India is so materially poor.
 {{< /l >}}
@@ -309,10 +308,14 @@ Yes. This is now known as 'scientism' propagated by materialists.
 
 For example, alternative medicines that don't pass clinical trials are not classified as medicine even if they cure 10% of people but not all. Instead of canceling them as inconclusive, Bio Superphysics groups those 10% people into a **specific personality type** which is cured 100% by that alternative medicine. 
 
-But classifying everything is costly. Machine learning helps a lot, so the AI boom is a Godsend (Rather, by pursuing our dharma for Superphysics, reality bent or shifted towards one that has the tools to do what we do). 
-
-However, the gap between experiment and useful non-software invention is still huge. For example, the principle of action-reaction can be demonstrated with a $0.10 party balloon releasing air to propel itself. But it takes a lot more effort to convert that principle into a working rocket which costs $1,000 and even more to make an Atlas rocket :rocket: worth $100m.
+Imagine talking to cavemen about the possibility of creating a agriculture, radio, antibiotics, and representative-goverments to improve their lives. Yet those very cavemen that you want to help laugh and call you crazy and force you to cancel research and go back to hunting deer like all other cavemen using tried-and-tested cutting edge stone tools.
 {{< /l >}}
+
+
+
+<!-- But classifying everything is costly. Machine learning helps a lot, so the AI boom is a Godsend (Rather, by pursuing our dharma for Superphysics, reality bent or shifted towards one that has the tools to do what we do). 
+
+However, the gap between experiment and useful non-software invention is still huge. For example, the principle of action-reaction can be demonstrated with a $0.10 party balloon releasing air to propel itself. But it takes a lot more effort to convert that principle into a working rocket which costs $1,000 and even more to make an Atlas rocket :rocket: worth $100m. -->
 
 <!-- This is why, until 2030, most of our work is on Social Superphysics. The work on Bio and Material Superphysics will mostly be theoretical for now, though we've done [rudimentary experiments on pre-levitation](/material/levitation) and preventing cancers from getting worse via alternative medicine. -->
 

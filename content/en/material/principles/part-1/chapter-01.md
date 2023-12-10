@@ -16,7 +16,7 @@ toc: false
 
 Modern Physics is based on Newton who set [the following rules](/research/newton/principia/book-3/1-introduction):  
 
-{{< q a="Newton" >}}
+{{< q a="Newton" c="Principia Mathematica, Book 3, Introduction">}}
 - Rule 1: We only need to look for the causes of natural phenomena that are enough to explain their **APPEARANCES**.  
 - Rule 2: The same natural effects come from the same natural causes
 {{< /q >}}
@@ -25,7 +25,7 @@ Modern Physics is based on Newton who set [the following rules](/research/newton
 These rules limit the search for the cause of effects to those that are shallowly observable, usually from the sense of sight. Einstein even has a worse rule:
 
 {{< q a="Einstein-sophist" c="Can Quantum—Mechanical Description of Physical Reality Be Considered Complete?" >}}
-Our criterion for reality iEinstein-Sophists simply if, without disturbing a system, we can predict with certainty a physical value
+Our criterion for reality is simply if, without disturbing a system, we can predict with certainty a physical value.
 {{< /q >}}
 
 
@@ -57,7 +57,7 @@ The quantities of these centripetal forces can be called accelerative, motive, a
 > *This was a major criticism by David Hume on Newton. Hume preferred Descartes and so we look into his ideas.
 
 
-Einstein also has the same disease:
+Einstein also suffered from the same disease:
 
 {{< q a="Einstein-sophist" c="Can Quantum—Mechanical Description of Physical Reality Be Considered Complete?" >}}
 We do not need a comprehensive deﬁnition of reality.
@@ -104,10 +104,9 @@ This layer dominates and rules the other four layers, just like spacetime domina
 In terms of creation, this layer is the first layer that precedes physical manifestation. Since it is above spacetime, it is beyond Einstein's rule that nothing can travel faster than light. Thus, time travel and teleportation to other multiverses is facilitated by this layer.
 
 
-Name | Traditional Name | Force | Particle | Quantum
+Name | Traditional Name | Force | Particles | Quantum
 --- | --- | --- | --- | --- 
-Athereal | Aether |  |  | Quantum of aether (Qoa)
-
+Athereal | Aether | Desire | Ideas, Feelings | Quantum of aether (Qoa), as idea-entity or feeling-entity
 
 
 > We write aether with an "a" to differentiate it from the disproven* *ether* of science. This is similar to writing dialectics as "Socratic Dialectics" to set it apart from the corrupted dialetics of Marx. Einstein claims that the Michelson and Morley experiment disproved the ether. In reality, it merely proved that the aether does not reside in the spacetime layer, but in its own layer as the aethereal layer.

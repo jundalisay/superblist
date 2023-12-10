@@ -27,7 +27,7 @@ This outline aims to guide decision-makers faced with moral dilemmas so that the
 
 This is also available as an ebook -->
 
-### Advertisement
+<!-- ### Advertisement
 
 ### Part 1
 
@@ -181,3 +181,4 @@ Chapter 3=  Systems which make Feelings the Principle of Approbation
 How Different Authors have treated the practical Rules of Morality
 
 The Breaches of the Rules of Morality
+ -->

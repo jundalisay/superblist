@@ -63,7 +63,7 @@ The difference is that natural intelligence gets data from the 5 Layers or Eleme
 
 Layer | Artificial Intelligence | Natural Intelligence 
 --- | --- | ---
-Aether | | :heavy_check_mark: 
+Aether | | :heavy_check_mark:
 Spacetime | | :heavy_check_mark:
 Radiant | :heavy_check_mark: | :heavy_check_mark:
 Transformative | :heavy_check_mark: | :heavy_check_mark:

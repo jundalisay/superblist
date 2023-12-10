@@ -29,28 +29,32 @@ These ideas get deployed in the physical domain where they manifest as identitie
 - a rock is a separate identity from its mountain
 - a son is a separate identity from its parents and family  
 
-Each identity is unique and has its own unique signature. The differences between these signatures creates attractive or repulsive motion. Because of this, we call them as gravitational signatures or `G`. 
+Each identity is unique. In Physics, this uniqeuness manifests as:
+- The Pauli Exclusion Principle
+- The fact that you do not go 'through' your chair and occupy the same space tiat it does 
+
+This uniqueness is denoted in reality by a metaphysical signature which determines:
+
+1. What Layer or physical body it exists as
+2. What potential motions it can do 
+
+Since motion is more striking to the mind, we call these as gravitational signatures or `G`. 
+
 
 <!-- interaction between these identities creates movement  -->
 
 
-## The Eagle for the Material Layer
+### The Gravitational Signature Determines What Layer the Identity Exists In
 
-We use the `G` to find out the strength or energy `E` of the identity depending on what Layer <i><sub>`l`</sub></i> it is in. 
+The `G` is used to find out what Layer the identity exists in. This denoted by the subscript `l`.  
+
+<!-- the strength or energy `E` of the identity depending on what Layer <i><sub>`l`</sub></i> it is in.  -->
 
 {{< img src="/graphics/super/egl.png" alt="E = Gl" >}}
 
-The resulting energy can be used to reveal the G just as the G can be used to reveal the potential energy of the identity. 
+<!-- The resulting energy can be used to reveal the G just as the G can be used to reveal the potential energy of the identity. 
 
 This relationship has different manifestations in the different layers.
-
-Layer | Eagle 
---- | ---
-Aethereal | `E :: GA`
-Spatial | `E :: G1 : G2`
-Radiant | `E = mc^2`
-Transformative | Feynman diagrams 
-Material | `w = mg` 
 
 
 <!-- is `E :: Gl` in the Material layer*
@@ -72,7 +76,7 @@ So we can stick with `G` as invented by the British Newton.
 In this way, the Socratic `G` still ends up as `D` if the thinking person chases it down. You could even say that `G` is the metaphysical DNA of everything in existence that dictates what movements it can do, and actually manifests as the DNA in physical living cells.
  -->
 
-{{< img src="/graphics/physics/messier.jpg" alt="Messier 87" cap="The invisible gravitational signature of Messier 87 reveals its 'DNA' as jets or flares of energy extending 5,000 light years" >}}
+<!-- {{< img src="/graphics/physics/messier.jpg" alt="Messier 87" cap="The invisible gravitational signature of Messier 87 reveals its 'DNA' as jets or flares of energy extending 5,000 light years" >}} -->
 
 <!-- . In non-quasar galaxies, this DNA is in the gravitational signature of every star, just as the DNA of our bodies is in each cell. -->
 
@@ -85,22 +89,31 @@ In this way, the Socratic `G` still ends up as `D` if the thinking person chases
 > *Superphysics uses [qualimath](/superphysics/principles/chapter-04) which converts `=` into `::` -->
 
 
-### Gravitational Signatures are the Foundation of Motion
+### The Gravitational Signature is also the Foundation of Motion
 
-A gravitational signature produces attractive or repulsive motion by its affinity or difference with the signatures of other existing identities, whether they be objects, entities, or minds within the same layer*. 
+Aside from determining the Layer, a gravitational signature also determines the range of motions that arise from the attraction or repulsion by its affinity or difference with the other signatures, whether they are from objects, entities, or minds within the same layer.
 
 Lower layers are affected by higher layers, but higher layers are unaffected by the lower. For example, light is affected by gravity, but gravity is not affected by light.
 
 
 Layer | Positive or Attraction | Negative or Repulsion 
 --- | --- | ---
-Material | Gluons that form matter | Nuclear explosions and destroy that matter (convert back to spacetime)
-Transformative | Noninteraction that leads to nondecay | Interaction that decays the particle
-Radiant | Attraction of opposite charges | Repulsion of like charges
-Spatial | Attraction to massive objects (vortices) | Repulsion to immaterial objects (non-vortices)
 Aethereal | Attraction of related ideas and minds | Replusion of opposing ones
-
+Spatial | Attraction to massive objects (vortices) | Repulsion to immaterial objects (non-vortices)
+Radiant | Attraction of opposite charges | Repulsion of like charges
+Transformative | Noninteraction that leads to nondecay | Interaction that decays the particle
+Material | Gluons that form matter | Particle collisions that destroy that matter and convert them to spacetime)
  <!-- through the Law of Conservation of Idea -->
+
+These signatures take the form of different equations depending on the layer that they are in. 
+
+Layer | Movement 
+--- | ---
+Aethereal | `E :: GA`
+Spatial | `E :: G1 : G2`
+Radiant | `E = mc^2`
+Transformative | Feynman diagrams 
+Material | `w = mg`  -->
 
 
 {{< img alt="Korean BTS quantum physics" src="https://sorasystem.sirv.com/photos/btsband.jpg" cap="Gravitational signatures explain why some people are attracted and gravitate towards KPop while others are repulsed by them. In theory, this means that peace and harmony can be achieved granularly by knowing the Gravitational signatures of everyone in order to reduce the repulsion of minds, and generally by imposing higher-layer ideas like virtue (this virtue-based socio-political system is then the job of Social Superphysics)" >}}

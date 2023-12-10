@@ -13,6 +13,21 @@ icon: /icons/spsoc.png
 ---
 
 
+The previous chapter explained that the theoretical Absolute Entity or the One is impartial, neutral, and has no bias towards creation.  
+
+Chapter 7 explained that the universe is the arena or mind for the Supreme Entity to have Its Thoughts. We make an anlogy that the Absolute Entity is the ultimate and highest spectator of those thoughts.  
+
+Normally, we experience things through our lower minds, as the crude aspect of the metaphysical Supreme within us. However, in some cases, we experience things using our higher minds, as the more subtle aspects of the Supreme.
+
+This subtle aspect makes itself evident whenever we have the desire to make moral decisions. 
+
+<!-- Thus, the theoretical Absolute gains existence whenever our minds generate the consequential probabilities of our actions.   
+
+This spectator  -->
+
+
+## The Impartial Spectator
+
 Aside from the division of labor, Adam Smith is famous for his concept of the impartial spectator. This spectator is the thing that guides us to do the right thing and avoid doing wrong. Many people would equate it to conscience, even if Smith mentioned that it is not so:
 
 

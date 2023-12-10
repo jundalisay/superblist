@@ -199,7 +199,7 @@ Layer | Transition
 --- | ---
 Aethereal | Idea into Aethereal Wave
 Spacetime | Aethereal Wave into Physical Wave
-Radiant (Electromagnetism) | Physical Wave into Emitted Particles
+Radiant (Electromagnetic) | Physical Wave into Emitted Particles
 Transformative | Emitted Particles into Matter
 Material | Matter into Identity
 

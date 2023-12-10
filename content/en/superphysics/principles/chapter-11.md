@@ -12,9 +12,25 @@ icon: /icons/sp.png
 ---
 
 
-## The Original Dialectics, Based on the Nature of Things
+The previous chapter explained Critical Thinking and Critical Feeling. 
 
-The Dialectics of Socrates, or David Hume's science of man, is a system of analysis based on the invisible metaphysical True Nature or Dharma or Tao* of anything that exists in reality.
+- Critical thinking is the application of the intellect with added effort in order to push against, or break through, the limitations imposed by the Negative Force
+- Critical feeling is the application of the feelings with added effort in order to go outside of the ego or the feeling of the self
+
+These two are used to solve problems. 
+
+Superphysics combines both and packages then around dharma or true nature in order to create a problem-solving tool which we call Socratic Dialectics. 
+
+
+## Dialectics is to Nature as Socratic Dialectics is to True Nature
+
+Ordinary Dialectics is an expanded way of analysis and thinking that based on the ego instead of the Supreme or the True Nature of Things. 
+
+<!-- ## The Original Dialectics, Based on the Nature of Things
+
+ or David Hume's science of man, -->
+
+The Dialectics of Socrates, on the other hand, is a system of analysis based on the invisible metaphysical True Nature or Dharma or Tao* of anything that exists in reality.
 
 Problems begin when something does not keep in line with its nature. For example:
 - loading a pickup truck with 2 tons when it was only designed for 1 ton will cause problems
@@ -137,7 +153,7 @@ Inferior theorists, such as Kant, would likely be filtered out by such minds*. T
 
 
 {{< q a="Kant" c="Critique of Pure Reason Simplified, Part 2, Introduction" >}}
-<p>Dialectics is a logic of illusion. It is a sophistical art for giving ignorance and intentional sophistries.. it teaches us nothing regarding the content of our cognitions. It merely shows the formal conditions of their accordance with the understanding, which do not relate to and are quite indifferent in respect of objects. Any attempt to employ it as a tool to extend our knowledge must end in mere nonsense since anyone can oppose any assertion.</p>
+Dialectics is a logic of illusion. It is a sophistical art for giving ignorance and intentional sophistries.. it teaches us nothing regarding the content of our cognitions. It merely shows the formal conditions of their accordance with the understanding, which do not relate to and are quite indifferent in respect of objects. Any attempt to employ it as a tool to extend our knowledge must end in mere nonsense since anyone can oppose any assertion.
 {{< /q >}}
 
 
@@ -260,24 +276,18 @@ The investigation of forms proceeds thus from a given nature, we first present t
 
 {{< q a="Francis-Bacon" >}}
 For instance, take the investigation of the form of heat. Instances agreeing in the Form of Heat:
-<br>
 1. The rays of the sun, particularly in summer, and at noon.
-<br>
 2. The same reflected and condensed, as between mountains, or along walls, and particularly in burning mirrors.
-<br>
 3. Ignited meteors.
-<br>
 4. Burning lightning.
-<br>
 5. Eruptions of flames from the cavities of mountains, etc.
-<br>
 6. Flame of every kind.
-<br>
+
 ...
-<br>
+
 28. Other instances.
-<br>
-This is a <b>table of existence and presence</b>
+
+This is a **table of existence and presence**
 {{< /q >}}
 
 To make dialectics less laborious, we apply machine learning algorithms in order to extract new ideas which will then lead into a new table with the 'noise' removed. That new table will then lead to better ideas which will form a better table. That table is ran through the algorithm again until the effect matches the principles. 

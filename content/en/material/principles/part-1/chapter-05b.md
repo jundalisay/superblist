@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 6"
+heading: "Chapter 5b"
 title: "The Zeeman Effect and Descartes' Aether"
 date: 2023-10-30
 image: /photos/meta/yinyang.jpg
@@ -7,7 +7,7 @@ description: "Bohr applies the aether to the Zeeman effect wherein light is affe
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 18
+weight: 24
 icon: /icons/spmat.png
 toc: false
 ---

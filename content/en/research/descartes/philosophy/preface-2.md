@@ -235,7 +235,7 @@ If he wants to know their causes, he may read it a second time to discover the c
 
 <!-- with the view simply of knowing in general the matters of which I treat; and that afterwards, if they seem to him to merit a more careful examination, and he feel a desire  -->
 
-to ; but that he must not then give it up in despair, although he may not everywhere sufficiently discover the connection of the proof, or understand all the reasonings—it being only necessary to
+<!-- to ; but that he must not then give it up in despair, although he may not everywhere sufficiently discover the connection of the proof, or understand all the reasonings—it being only necessary to -->
 
 He should mark with a pen the places where the difficulties occur. He should continue to read without interruption to the end.
 
@@ -250,7 +250,7 @@ If any still remain, their solution will be found by reading the work completely
 
 <!-- I have observed, on examining the natural constitutions of different minds, that  -->
 
-There are hardly any minds dull or slow of understanding as to be incapable of apprehending good opinions
+There are hardly any minds dull or slow of understanding as to be incapable of apprehending good opinions.
 
 <!-- , or even of acquiring all the highest sciences, if they be but conducted along the right road.  -->
 
@@ -260,33 +260,65 @@ The principles are clear. Only the most manifest inferences should be deduced fr
 
 <!-- no one is so devoid of intelligence as to be unable to -->
 
-Everyone is entangled by prejudices. The most ardent students of the false sciences receive the greatest detriment from them.
+Everyone is entangled by prejudices. The most ardent students of the false sciences receive the greatest detriment from them because they press on too rapidly using the wrong principles.
 
-, from which no one is entirely exempt, although it is they who have been 
+<!-- , from which no one is entirely exempt, although it is they who have been 
 
 , it happens very generally that people of ordinary capacity neglect to study from a conviction that they want ability, and that others, who are more ardent, press on too rapidly:
 
-whence it comes to pass that they frequently admit principles far from evident, and draw doubtful inferences from them. 
+whence it comes to pass that they frequently admit principles far from evident, and draw doubtful inferences from them.  -->
 
-This is why I want to assure those who are too distrustful of their own ability that there is nothing in my writings which they may not entirely understand, if they only take the trouble to examine them.
+This is why I want to assure people that my writing are understandable only if they take the trouble to examine them.
 
-I warn those of an opposite tendency that even the most superior minds will need much time and attention to remark all I designed to embrace therein.
+<!-- there is nothing in my writings which they may not entirely understand, 
+
+those who are too distrustful of their own ability that -->
+
+<!-- I warn those of an opposite tendency that even the most superior minds will need much time and attention to remark all I designed to embrace therein. -->
 
 
-After this, that I might lead men to understand the real design I had in publishing them, I should have wished here to explain the order which it seems to me one ought to follow with the view of instructing himself. 
+<!-- After this, that I might lead men to understand the real design I had in publishing them, I should have wished here to explain the order which it seems to me one ought to follow with the view of instructing himself.  -->
 
-1. A man who has merely the vulgar and imperfect knowledge which can be acquired by the 4 means above should before all else, try to form for himself a code of morals,
+I published this work in order to explain how a person should teach himself. 
 
- sufficient to regulate the actions of his life, as well for the reason that this does not admit of delay as because it ought to be our first care to live well. 
+1. A person should first create a personal code of morals
 
- 2. He should study Logic.
+<!-- A man who has merely the vulgar and imperfect knowledge which can be acquired by the 4 means above should before all else, try to form for himself , -->
 
- He should not study the Logic of the schools.
+This code then regulates the actions of his life and makes him live well. 
 
-  for it is only, properly speaking, a dialectic which teaches the mode of expounding to others what we already know, or even of speaking much, without judgment, of what we do not know, by which means it corrupts rather than increases good sense
+ <!-- , as well for the reason that this does not admit of delay as because it ought to be our first care to live well.  -->
 
-  he should learn the logic which teaches the right conduct of the reason with the view of discovering the truths of which we are ignorant;
+2. A person should study Logic
 
-   and, because it greatly depends on usage, it is desirable he should exercise himself for a length of time in practising its rules on easy and simple questions, as those of the mathematics. 
+He should not study the Logic of the schools. Their logic uses Aristotlean dialectics which expounds to others what we already know. It tends to corrupt instead of increasing good sense.
 
-Then, when he has acquired some skill in discovering the truth in these questions, he should commence to apply himself in earnest to true philosophy, of which the first part is Metaphysics, containing the principles of knowledge, among which is the explication of the principal attributes of God, of the immateriality of the soul, and of all the clear and simple notions that are in us; the second is Physics, in which, after finding the true principles of material things, we examine, in general, how the whole universe has been framed; in the next place, we consider, in particular, the nature of the earth, and of all the bodies that are most generally found upon it, as air, water, fire, the loadstone and other minerals. In the next place it is necessary also to examine singly the nature of plants, of animals, and above all of man, in order that we may thereafter be able to discover the other sciences that are useful to us. 
+  <!-- for it is only, properly speaking, a  -->
+
+<!-- , or even of speaking much, without judgment, of what we do not know, by which means  -->
+
+The proper logic:
+- aims to discover the truths.
+- greatly depends on usage
+<!-- that which teaches the right conduct of the reason with the view of
+ of which we are ignorant; -->
+
+
+He should exercise and practise its rules on easy and simple questions, as those of the mathematics, for some time. 
+
+Then, when he has acquired some skill in discovering the truth in these questions, he should apply himself in earnest to true philosophy which has the following parts.
+
+1. Metaphysics 
+
+This is the first part is philosophy. It contains the principles of knowledge which includes the explication of:
+- the principal attributes of God
+- the immateriality of the soul
+- all the clear and simple notions that are in us
+
+2. Physics
+
+After finding the true principles of material things, we examine:
+- in general, how the whole universe has been framed
+- in particular, the nature of the earth, and of all the bodies that on it, as air, water, fire, the loadstone and other minerals.
+- singly, the nature of plants, animals, and above all of man so that we may thereafter discover the other useful sciences
+

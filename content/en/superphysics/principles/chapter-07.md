@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 7"
-title: "The Nature of Mind"
+title: "Life and The Nature of Mind"
 # date: 2020-01-01
 date: 2020-12-10
 weight: 24
@@ -87,19 +87,44 @@ In terms of activity, physical minds are then classified into two:
 
 A metal rod reacts to heat by turning red, as its means of expression. But we do not regard it as alive **because its expressiveness is not independent of the Nature around it**. This manifests as its identity not having its own willpower. Its destiny is totally dependent on its surrounding environment. 
 
-This means that even though the metal rod is not alive, the physical universe, which it is a part of, is the one that is alive. The physical events inside the universe depend on chance. This chance is really the will of the physical universe being perceived by living entities such as bacteria, plants and animals.   
+This means that even though the metal rod is not alive, the physical universe, which it is a part of, is the one that is alive. The physical events inside the universe depend on chance. **This chance is really the will of the physical universe being perceived by living entities such as bacteria, plants and animals.** 
 
-If the physical universe were one living body, then the metal rod mentioned above is just one of its tiny body parts. 
+This living universe is the subject of study of Material Superphysics just as the Supreme Entity is the subject of Superphysics, and the Absolute Entity is the subject of Metaphysics.  
 
+If the physical universe were one living body, then the metal rod mentioned above is just one of its tiny body parts that seem non-living from our limited point of view. 
+
+Thus, the living nature of the physical universe is seen in:
+- the reaction of chemicals 
+- the expansion and contraction of matter
+- the fact that material things do not go through each other
+- etc.
+
+A dead universe will have no heat, no change, no evolution.
 
 <!-- A 'soul', then, is such a mind that exists independent of a body.  -->
 
 <!-- Mind, Non-Living Mind -->
 
+We therefore can regard the living things that we see as living things within the living physical universe.  
 
-A 'virus' is in-between a non-living idea and a living or expressive mind, that manifests as DNA or RNA. It has to use living things to spread itself as its means of expression or action.
+Viruses are in the in-between state between living and non-living. They are minds that are independently expressive with their RNA or DNA as their gravitational signature. But they require other physical bodies for that expression. 
 
-From the viewpoint of the Creator:
+<!-- A 'virus' is in-between a non-living idea and a living or expressive mind, that manifests as DNA or RNA. It has to use living things to spread itself as its means of expression or action. -->
+
+
+## The Supreme Entity and the Absolute Entity 
+
+Our metaphysical souls inhabit our physical bodies just as the metaphysical Supreme Being inhabits this living physical universe. It is this integration of the Supreme and the physical that we call 'Mother Nature' or 'God'.  
+
+![Outer space](https://sorasystem.sirv.com/photos/space.jpg)
+
+The physical universe is therefore the most obvious means of Its expression just as we are less obvious and more complicated ones.  
+The question 'Does God exist?' can be answered by 'Can you perceive Existence?'. 
+
+
+
+
+<!-- From the viewpoint of the Creator:
 - the DNA of viruses and bacteria are simple ideas
 - the souls of humans and cats are complex ideas.
 
@@ -112,13 +137,14 @@ Likewise, we see ourselves as the cause of our own actions instead of being the 
 
 The independence of the minds of bacteria, cats, dogs, and humans from each other then implies that they have their own innate and unique expressions and experiences different from those of others. Otherwise, they would just be one entity and not separate entities. 
 
-{{< q a="aris" >}}
+{{< q a="Aristotle" c="The Metaphysics by Aristotle Simplifed, Book 7, Part 13" >}}
 Of which individual then will this be the substance?  Either of all or of none. But it cannot be the substance of all. If it is to be the substance of one, this one will be the others also.
-<cite>The Metaphysics by Aristotle Simplifed, Book 7, Part 13</cite>
 {{< /q >}}
 
 
-This innate uniqeness to experience and express Existence is an identity's dharma or tao. Socrates calls this <!-- innate need and design --> as a thing's 'True Nature'* and has been explained in our Law of Conservation of Idea. 
+This innate uniqeness to experience and express Existence is an identity's dharma or tao. Socrates calls this <!-- innate need and design --> 
+
+<!-- as a thing's 'True Nature'* and has been explained in our Law of Conservation of Idea. 
 
 > *The English word 'Nature' is ambiguous and so we use 'Dharma' instead to specify the True Nature passively, and Tao to specify It actively  
 
@@ -134,9 +160,12 @@ Lao Tzu calls acting within one's True Nature as being with the Tao.
 
 ## A Dynamic Existence
 
-Since each mind is unique, and since everything is a mind, then all minds must move to keep its uniqueness and separation from others. <!-- with each mind being an idea from the viewpoint of the Creator, then we establish this principle of uniqueness as **The Law of Conservation of Idea**.
+Since each mind is unique, and since everything is a mind, then all minds must move to keep its uniqueness and separation from others. --> <!-- with each mind being an idea from the viewpoint of the Creator, then we establish this principle of uniqueness as **The Law of Conservation of Idea**.
 - The need to be unique causes the separation between minds and objects.
-- This creation of separation then creates change and movement.    --> **Under this paradigm, movement is originally caused by internal differences and not by external forces.** 
+- This creation of separation then creates change and movement.    --> 
+
+<!-- 
+**Under this paradigm, movement is originally caused by internal differences and not by external forces.** 
 
 Even the external forces from heat really come from the internal nature of hotness that easily affects or moves objects that are internally predisposed to be affected by heat. 
 
@@ -149,20 +178,8 @@ Movement arises from the differences in internal natures. This explains why:
 Is there anything in Existence that is not moveable or changeable?
 
 
-## The One is Not Affected
-
-The only entity that does not move is the entity that created the ideas, minds, and feelings in the Universe.
-- The Ancient Greeks call it The One
-- Hindus call it Nirguna Brahma
-- Buddhists call it Sunya or Void
-
-{{< q a="aris" >}}
-The believers of The One [The Pythagoreans] say that The One is the cause of substance. 
-<cite>The Metaphysics by Aristotle Simplifed, Book 1, Part 8</cite>
-{{< /q >}}
-
-
 Having explained the nature of the mind, we next explain the nature of consciouness which is 'inside' the mind. 
+ -->
 
 <!-- In the next post, we will explain the difference between The One, as The Absolute, and The Creator, as The Supreme Entity. -->
 
@@ -175,8 +192,6 @@ Having explained the nature of the mind, we next explain the nature of conscioun
 - the nature of the experiencers of the object 
 
 This is why morality is always relative and changing. One society might feel that it is moral to be liberal, while another will feel that liberality is immoral and that conservatism is moral.  -->
-
-
 
 
 <!-- In Tantra Yoga, the Supreme Entity merely exists alone, without space nor time. Since a thing exists only if it is perceived, then as an absolute entity, the Supreme Entity technically did not exist and did not have value because It was alone.

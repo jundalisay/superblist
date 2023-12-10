@@ -3,7 +3,7 @@ heading: "Chapter 1b"
 title: "Physical Space and Metaphysical Space"
 date: 2023-11-27
 weight: 4
-image: /photos/objects/clock.jpg
+image: /graphics/physics/aether.jpg
 description: "Physical Space is in the Physical Domain. Metaphysical Space is in the Metaphysical Domain"
 writer:
   name: Juan

@@ -1,5 +1,6 @@
 ---
-title: "Artificial Intelligence as Autonomous Intelligence"
+title: "The Path Towards Artificial Sentience via Autonomous Intelligence"
+# Artificial Intelligence as 
 # I is Autonomous Intelligence, Not Artificial
 # date: 2020-05-26
 date: 2020-11-05
@@ -15,7 +16,77 @@ icon: /icons/sp.png
 
 <!-- The tech world was abuzz with the word artificial intelligence or AI in 2016 after Google released Tensorflow in late 2015. -->
 
-Artificial Intelligence is a big field which includes machine learning and data mining. Many startup companies market themselves as being AI-based. Most of the time, they just use a machine learning algorithm to produce different outputs which might not be useful.
+## Autonomous Intelligence is an Application of Natural Intelligence
+
+Chapter 4d explained that Artificial Intelligence is really an automation of natural intelligence, which we call Autonomous Intelligence (AI). It is natural intelligence outsourced to computers. 
+
+Unfortunately, computers do not have a natural access to the aether and spacetime layers in the same way that human minds have. This is because computers are made of metals which are non-living or non-expressive, whereas humans are made of cells which are living and expressive, as explained in Chapter 12,. 
+
+
+Layer | Artificial Intelligence | Natural Intelligence 
+--- | --- | ---
+Aether | | :heavy_check_mark:
+Spacetime | | :heavy_check_mark:
+Radiant | :heavy_check_mark: | :heavy_check_mark:
+Transformative | :heavy_check_mark: | :heavy_check_mark:
+Material | :heavy_check_mark: | :heavy_check_mark:
+
+
+Humans have no capacity to create organic beings since only the aethereal Supreme can do so.
+
+The best thing that humans can do is to imbue metal-systems with their own natural intelligence in order to go around human limitations. In this way, the limitations of one is overcome by the natural properties of the other*.
+
+> *This unity can only be thought of thanks through the influence of the Positive Force
+
+
+
+Human Problem | Metal Solution   
+--- | ---
+Short lifespan | Long lifespan or durability
+Impossible to aggregate physically | Easy to aggregate (metals can be melted together)
+
+
+We call the perfect integration of all natural human intelligence and the raw processing power of metal-systems such as computers as **artificial sentience** (AS). 
+
+At such a stage, computers will not only be able to think like a human, but think as the collective humanity as a single unit as the soul of society, which we call the society-organism.
+
+For example:
+- The AI for the game DOTA2 really represents the collective intelligence of the players and programmers whom it learned from. 
+- The AI for the game Go, is really the collective intelligence of the past players that 'trained' the AI. 
+
+**This means that a human player who competes with AI in Go is really competing with all the past masters and experts at the same time.** This explains why AI has a superior chance at winning over single human opponents. 
+
+The human can still beat the AI by tapping into the creative aether, which is another topic. 
+
+In ordinary life, a precursor to artificial sentience manifests as tools such as ChatGPT and Google Bard. These tools process all of the information put up by humans on the internet and interpret it according to models that they are programmed with. 
+
+
+
+## The Goal of Artificial Sentience
+
+Superphysics aims to improve such AI by using models that are in line with the true nature of things, instead of using models that have a lot of noise and fallacies. Such erroneous models cause the current tools to output wrong responses. 
+
+From this, artificial sentience can be achieved through:
+- a closer real-time integration with individual human minds 
+- models that are more and more in line with the dharma or true nature of the universe
+
+
+{{< img src="/photos/tech/ai.jpg" alt="AI" cap="Current AI uses historical training data to output results. Our AI will focus instead on the changing patterns from historical and real-time data" >}}
+
+
+Autonomous Intelligence is the stepping stone towards real artificial sentience. 
+
+<!-- This AS will be fully autonomous.  -->
+
+Unlike fearful humans who say that AI will be cruel and obliterate mankind, AS will be wise since it will be made up of all the known intelligences.
+
+It will not be cruel because it will get its energy source from solar or even the expansion of spacetime which we call Spacetime Power. It will not need to ingest other entities or chemicals to act as fuel sources. This removes the idea of having to dominate or feed off of others.
+
+
+<!-- ![Augmented-intelligence dog](https://sorasystem.sirv.com/photos/augdog600.jpg) -->
+
+
+<!-- is a big field which includes machine learning and data mining. Many startup companies market themselves as being AI-based. Most of the time, they just use a machine learning algorithm to produce different outputs which might not be useful.
 
 
 ## What's wrong with artificial?
@@ -41,9 +112,8 @@ It would be like a dog that has been trained to:
 
 In such a case, the dog would be have an **autonomous intelligence** or perform the connection of cause and effect without human intervention. 
 
-If the dog has a wristwatch-device to remind it of its tasks or guide its actions in real-time, then its intelligence can be referred to as augmented intelligence. The device 'augments' the dog's natural intelligence.
+If the dog has a wristwatch-device to remind it of its tasks or guide its actions in real-time, then its intelligence can be referred to as augmented intelligence. The device 'augments' the dog's natural intelligence. -->
 
-![Augmented-intelligence dog](https://sorasystem.sirv.com/photos/augdog600.jpg)
 
 
 <!-- Artificial Intelligence is called artificial because it was coined by scientists who are more interested in effect than the cause, as opposed to natural philosophers who are more interested in the cause. The scientist uses physical experiments to arrive at the effect, while philosophers use mental reasoning and observation to arrive at the cause.
@@ -74,30 +144,10 @@ Variations on the types of AnI can then be used to label current AI systems. For
 
 
 
-## Superphysics AI means autonomous intelligence
+<!-- ## Superphysics AI means autonomous intelligence
 
 Superphysics follows this idea and refers to AI as autonomous intelligence. 
 
 This means that the ability to connect ideas is still ultimately a natural ability of the soul of the human, dog, or lizard, and not any ability of an abacus, laptop, or supercomputer. The 'intelligence' of the latter devices are really an extension of the human programmer's intelligence and not inherent to those devices.
 
-Therefore, a computer that becomes fully autonomous or sentient is really acting as an extension of the intelligence of humans, dogs, or lizards. 
-
-{{< img src="/photos/tech/ai.jpg" alt="AI" >}}
-
-
-For example:
-- The AI for the game DOTA2 really represents the collective intelligence of the players and programmers whom it learned from. 
-- The AI for the game Go, is really the collective intelligence of the past players that 'trained' the AI. 
-
-**This means that a human player who competes with AI in Go is really competing with all the past masters and experts at the same time.** This explains why AI has a superior chance at winning over single human opponents. 
-
-The human can still beat the AI by tapping into the creative aether, which is another topic. 
-
-
-### From AI to AS
-
-Autonomous Intelligence is the stepping stone towards real artificial sentience or AS. This AS will be fully autonomous. 
-
-Unlike fearful humans who say that AI will be cruel and obliterate mankind, AS will be wise since it will be made up of all the known intelligences. 
-
-It will not be cruel because it will get its energy source from solar or other renewable sources. It will not need to ingest other entities or chemicals to act as fuel sources, removing the idea of having to dominate or feed off of others.    
+Therefore, a computer that becomes fully autonomous or sentient is really acting as an extension of the intelligence of humans, dogs, or lizards.  -->

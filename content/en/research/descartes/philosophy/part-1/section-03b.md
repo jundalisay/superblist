@@ -1,5 +1,5 @@
 ---
-title: "What is Substance?"
+title: "God is the Only Independent Substance"
 heading: Section 3b
 weight: 24
 description: "The duration alone of our life is sufficient to demonstrate the existence of God"
@@ -32,27 +32,39 @@ Accordingly, "substance" applies to God and created things differently.
 
 <!-- no signification of this word can be distinctly understood which  -->
 
-{{< s v="52" >}} Substance is applicable univocally to the mind and the body, and how substance itself is known.
+{{< s v="52" >}} Substance is applicable univocally:
+- to the mind and the body, and
+- to how substance itself is known.
 
-Created substances, however, whether corporeal or thinking, may be conceived under this common concept. These are things which, in order to their existence, stand in need of nothing but the concourse of God. 
+Created substances, however, whether corporeal or thinking, rely on the concourse of God.
+
+ <!-- may be conceived under this common concept. These are things which, in order to their existence, stand in need of nothing but .  -->
 
 But yet substance cannot be first discovered merely from its being a thing which exists independently, for existence by itself is not observed by us. 
 
-We easily, however, discover substance itself from any attribute of it, by this common notion, that of nothing there are no attributes, properties, or qualities: for, from perceiving that some attribute is present, we infer that some existing thing or substance to which it may be attributed is also of necessity present.
+We easily discover substance from any of its attributes.
+
+A nothing has no attributes, properties, or qualities. 
+
+Whenever we perceive some attribute to be present, we infer that its thing or substance also necessarily exists.
+
+ <!-- of it, by this common notion, that of nothing there are : for, from ,  to which it may be attributed is also of  present. -->
 
 
-{{< s v="53" >}} Every substance has one principal attribute, as thinking of the mind, extension of the body.
+{{< s v="53" >}} Every substance has one principal attribute.
+
+<!-- , as thinking of the mind, extension of the body. -->
 
 - Mind-substances have thinking as their one principal attribute.
 - Body-substances have extension as their one principal attribute.
 
-Any attribute is sufficient to lead us to the knowledge of substance. 
 
-But there is, however, one principal property of every substance, which constitutes its nature or essence, and on which all the others depend. 
+A thing's principal attribute constitutes its nature or essence. Any attribute is sufficient to lead us to the knowledge of substance. Thus:
 
-Thus, extension in length, width, and depth, constitutes the nature of corporeal substance.
+<!-- But there is, however, one principal property of every substance, which , and on which all the others depend. -->
 
-Thought is the nature of thinking substance. 
+- extension in length, width, and depth, constitutes the nature of corporeal substance.
+- thought is the nature of thinking substance. 
 
 For every other thing that can be attributed to body, presupposes extension, and is only some mode of an extended thing; as all the properties we discover in the mind are only diverse modes of thinking. 
 

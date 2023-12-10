@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 2"
-title: "The Upper and Lower Aether Sublayer as the Cartesian View"
+title: "The Upper and Lower Aethereal Sublayer as the Cartesian View"
 date: 2020-11-26
 image: /photos/physics/galaxy.jpg
 description: "The Upper and Lower Aethers"
@@ -12,12 +12,13 @@ icon: /icons/spmat.png
 ---
 
 
-In the metaphysical domain exists the aetheral layer which we divide into 2 sublayers:
+In the metaphysical domain exists the aetheral layer, which we divide into 3 sublayers:
 
 Sublayer | Example
 --- | ---
-Higher (Abstract) | The idea of a shoe, the feeling of hunger, the soul of a dog and that of a society
-Lower (Physicalized) | The thought of a shoe, the emotion of need, the personality of a dog and of a society
+Upper | The soul of a dog-identity, the soul of a society-identity 
+Mid | The idea of a shoe, the feeling of hunger, the personality of the dog or society 
+Lower | The thought of a shoe, the emotion of need
 
 <!-- 1. Physical: Your physical shoes, breakfast, dog, and country go here
 2. Aethereal:  go here  -->
@@ -30,16 +31,19 @@ We plot their movements in two Cartesian planes:
 {{< img src="/graphics/super/cartesian.png" alt="Cartesian planes" >}}
 
 
-The Cartesian View also has three attributes:
-- **Plane**: the physical plane is determined, the aethereal is non-determined
-- **Layer**: the physical plane has 5 layers, the aethereal has more than 5
-- **Timespan**: the physical plane has a timespan set from outside the plane, the aethereal sets the time from the inside, at the center (the present)
+The Cartesian View also has 3 attributes:
+
+Attribute | Description
+--- | ---
+**Plane** | The physical plane is determined, the aethereal is non-determined
+**Layer** | The physical plane has 5 layers, the aethereal has more than 5
+**Timespan** | The physical plane has a timespan set from outside the plane, the aethereal sets the time from the inside, at the center (the present)
 
 
 {{< img src="/graphics/physics/determined.jpg" alt="Physical Viewpoint versus the Aethereal Viewpoint" cap="The physical plane sees movement from the outside. The aethereal plane sees it from the inside" >}}
 
 
-### Data and Visualizations first, equations later
+### Data and Visualizations First, Equations Later
 
 Isaac Newton started with astronomical data which he then visualized as curves and parallelograms. From there, he used algebra and analytic geometry to create equations that led to his Calculus.
 
@@ -70,7 +74,7 @@ We can say that F is Newtonian, while E is Asian. For example:
 
 Of course, we can push the box without deriving the gravitational signature of the box, since its weight already signifies it. Thus, in this case, we have no need for the aethereal Cartesian plane. 
 
-Likewise, a physical cartesian plane might not be so useful in helping us get permits rushed in governments. But a real-time visualization of the aethereal Cartesian plane of two governments will help us figure out which one to approach and when, since it squeezes in more information. 
+Likewise, a physical Cartesian plane might not be so useful in helping us get permits rushed in governments. But a real-time visualization of the aethereal Cartesian plane of two governments will help us figure out which one to approach and when, since it squeezes in more information. 
 
 Both can be visualized in the physical and aethereal Cartesian planes. This is actually how we plot the [Effort Theory of Value](/social/economics/principles/part-2/chapter-01b/) in Supereconomics. 
 
@@ -96,8 +100,8 @@ An aethereal view will have follow a different format according to topic instead
     - Omicron Variant:
       - November 2022 Omicron Variant discovered
 
-The time-based physical view is what most news reports and blog posts use. The topic-based aethereal view is followed by encyclopedias such as wikipedia. The topic-based view is constantly edited to match the current understanding, whereas the time-based view is always based on the past.
+The time-based physical view is what most news reports and blog posts use. The topic-based aethereal view is followed by encyclopedias such as Wikipedia. The topic-based view is constantly edited to match the current understanding, whereas the time-based view is always based on the past.
 
 We can say that the physical view is effortless, just like a computer logs down events automatically without interpretation. The topic-based view, on the other hand, is effort-driven as it needs some mind to arrange the information from the perspective of the past according to the perspective of the present. 
 
-The next post will explain the next part of the formula which is the Kepler Tensor which is contained in the Cartesian view.
+<!-- The next post will explain the next part of the formula which is the Kepler Tensor which is contained in the Cartesian view. -->
