@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 2"
-title: "The Upper, Middle, and Lower Spacetimes"
+title: "The Upper, Middle, and Lower Transformative"
 date: 2023-12-10
 image: /photos/physics/galaxy.jpg
 description: "The Upper Radiant is the realm of the multiverse."
@@ -12,14 +12,16 @@ icon: /icons/spmat.png
 ---
 
 
-The Radiant Layer is divided into Upper, Middle, and Lower, with the Upper being made of waves, and the Lower being made up of particles.
+The Transformative Layer is divided into Upper, Middle, and Lower Sublayers.
+
+<!-- , with the Upper being made of waves, and the Lower being made up of particles. -->
 
 
 Sublayer | Example | Quanta 
 --- | --- | --- 
-Upper | Light | Photon Wave, Tau 
-Mid | Electricity | Photon Particle, Muons
-Lower | Magnetism | Electrons
+Upper | Radioactivity | Z+ Boson
+Mid | Chemical reactivity | Z- Boson
+Lower | Chemical changes | W Boson
 
 
 <!-- The Upper Radiant is  the realm of mental space and time and is not physical. 

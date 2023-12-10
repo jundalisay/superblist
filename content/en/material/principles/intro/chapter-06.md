@@ -20,7 +20,7 @@ Layer | Technologies
 --- | ---
 Aethereal | Artificial Sentience
 Spatial | Teleportation, Levitation, Fusion Power, Spacetime Power
-Radiant | Light-based Computing 
+Radiant | Light-based Computing, Room Temperature Superconductors
 Transformative | More Specialized Compounds 
 Material | Stronger Materials 
 

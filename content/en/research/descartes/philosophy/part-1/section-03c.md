@@ -11,28 +11,38 @@ icon: "/icons/descartes.png"
 ---
 
 
-{{< s v="57" >}} Some attributes exist in the things to which they are attributed, and others only in our thought. What are duration and time?
+{{< s v="57" >}} Some attributes exist in things inherently. Other attributes exist only in our thought. 
 
-Of these attributes or modes, there are some which exist in the things themselves, and others that have only an existence in our thought.
+An example is timespan and time.
 
-For example, time is the general, which we distinguish from duration taken in its generality, and call the measure of motion,
+<!-- Of these attributes or modes, there are some which exist in the things themselves, and others that have only an existence in our thought. -->
 
-Time is only a certain mode under which we think duration itself. 
+- Time is general.
+- Timespan is taken from that generality, and call it as the measure of motion.
 
-We do not conceive the duration of moving things to be different from the duration of non-moving things.
+Time is a certain mode. Under time is timespan itself. The timespan of moving things is the same as that of non-moving things.
 
-For example, 2 bodies are in motion for 1 hour. `Body A` is moving quickly. `Body B` is moving slowly.
+For example, 2 bodies are in motion for 1 hour.
+- `Body A` is moving quickly.
+- `Body B` is moving slowly.
 
-One body does not have more time than the other, although there may be much more motion in one of the bodies than in the other. 
+They both have the same time even if `Body A` has much more motion.
 
-But the "duration" of all things we put under a common measure and compare with that of the greatest and most regular motions that give rise to years and days, and which we call "time".
+<!-- One body does not have more time than the other, although there may be  in one of the bodies than in the other.  -->
 
-Hence, "time" is but a mode of thinking. It is not superadded to duration, taken in its generality.
+We aggregate all the timespans under a common measure called 'time' when we compare them to the the greatest and most regular motions that give rise to years and days.
+
+<!-- But the "duration" of all things we put under a common measure and compare with that of  -->
+
+Hence, "time" is just a mode of thinking. 
+- It is not superadded to duration, taken in its generality.
 
 
-{{< s v="58" >}} Number and all universals are only modes of thought.
+{{< s v="58" >}} **Number and all universals are only modes of thought.**
 
-In the same way number, when it is not considered as in created things, but merely in the abstract or in general, is only a mode of thinking; and the same is true of all those general ideas we call universals.
+In the same way, an abstract or general number is just a mode of thinking.
+- The same is true of all those general ideas we call universals.
+<!-- , when it is not considered as in created things, but merely in the abstract or in general, ;  -->
 
 
 {{< s v="59" >}} How are universals formed? What are the 5 common universals?
@@ -43,17 +53,22 @@ In the same way number, when it is not considered as in created things, but mere
 4. Property
 5. Accident
 
-Universals arise merely from our making use of one and the same idea in thinking of all individual objects between which there subsists a certain likeness. 
+Universals happen when we use one idea in thinking of all individual objects that have a certain likeness.
+<!-- are similar to each other. 
+ between which there subsists a . -->
 
 When we comprehend all the objects represented by this idea under one name, this term likewise becomes universal.
 
-For example, when we see 2 stones, and do not regard their nature farther than to remark that there are two of them, we form the idea of `2`, which we call the binary.
+For example, we see 2 stones. We form the idea of `2` which we call the binary.
+<!-- , and do not regard their nature farther than to remark that there are two of them, we form the idea of `2`,  -->
+- When we afterwards see 2 birds or 2 trees, we also form the idea of `2` which becomes universal and call it "binary".
 
-When we afterwards see 2 birds or 2 trees, and merely take notice of them so far as to observe that there are 2 of them, we again take up the same idea as before. This 2 thus becomes universal.
+<!-- and merely take notice of them so far as to observe that there are 2 of them, we again take up the same idea as before. This 2 thus becomes universal. -->
 
-We likewise give to this number the same universal name of "binary". 
+<!-- We likewise give to this number the same universal name of .  -->
 
-In the same way, when we consider a shape of 3 sides, we form an idea which we call the idea of a triangle. We afterwards use it as the universal to represent to our mind all other shapes of 3 sides. 
+When we think of a shape of 3 sides, we form an idea called a triangle.
+- We afterwards use it as the universal to represent to our mind all other shapes of 3 sides. 
 
 But when we remark more particularly that of shapes of 3 sides, some have a right angle and others not, we form the universal idea of a right-angled triangle. This is called "species" relative to the universal. 
 
@@ -96,7 +111,7 @@ God united bodies to souls so closely and intimately as a composite whole.
 - The things which God can separate or conserve separately are really distinct.
 
 
-{{< s v="61" >}} The 2 kinds of modal distinction
+{{< s v="61" >}} The 2 kinds of modal distinction:
 
 1. That between the mode properly so-called and the substance of which it is a mode
 

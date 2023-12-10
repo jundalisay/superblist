@@ -1,8 +1,6 @@
 ---
-title: "Gravitational Lensing as Heliosphere Refraction"
+title: "Gravitational Lensing"
 heading: Chapter 5
-linkTitle: Chapter 5
-# heading: Electromagnetism in Physics, Spreading through space
 date: 2023-05-27
 image: /photos/physics/star.jpg
 description: "In Cartesian Physics, there are 3 kinds of refraction of starlight (gravitational lensing)"

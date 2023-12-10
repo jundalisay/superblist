@@ -51,3 +51,20 @@ A galaxy is therefore created in the following steps:
 <!-- It turns into either empty space or a quasar -->
 7. The stars die and become pure spacetime 
 
+
+
+<!-- 1. Spiral galaxies
+
+These are the most common type, making up around 75% of all galaxies. These are flat, rotating disks containing stars, gas and dust, and a central concentration of stars known as the bulge.  -->
+
+<!-- These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters. -->
+
+<!-- This has a subclass called barred spiral galaxy of which the Milky Way is a part of. -->
+
+<!-- Barred spiral galaxy is a spiral galaxy with a central bar-shaped structure composed of stars. Bars are found in about half of all spiral galaxies. Bars generally affect both the motions of stars and interstellar gas within spiral galaxies and can affect spiral arms as well.  -->
+
+<!-- 2. Lenticular galaxy an intermediate between an elliptical and a spiral galaxy. It contains a large-scale disc but does not have large-scale spiral arms. Lenticular galaxies are disc galaxies that have used up or lost most of their interstellar matter and therefore have very little ongoing star formation.
+
+3. Elliptical galaxies are the largest kind and have an ellipsoidal shape. Most are composed of older, low-mass stars, with a sparse interstellar medium and minimal star formation activity. They tend to be surrounded by large numbers of globular clusters.
+
+4. Irregular galaxy is a galaxy that does not have a distinct shape -->

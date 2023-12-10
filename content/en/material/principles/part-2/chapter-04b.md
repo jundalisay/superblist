@@ -8,7 +8,7 @@ description: "Instead of a Big Bang, the universe began as a Big Bootup"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 16
+weight: 26
 icon: /icons/spmat.png
 aliases:
   /material/principles/qost
@@ -138,7 +138,7 @@ The minor types of qosts manifest as everything else, such as:
 
 The attractive force with these manifests as gravity. The repulsive force manifests as the vacuum of space. 
 
-The last type are mere spacetime particles. These have just enough energy to make it through to the Physical Domain. 
+The last type are mere spacetime particles. These manifest as empty space and have just enough energy to make it through to the Physical Domain. 
 
 
 <!-- Such nodes or points exert a natural force called gravity to facilitate the coversion of aethereal ideas and feelings into physical matter and energies.  -->

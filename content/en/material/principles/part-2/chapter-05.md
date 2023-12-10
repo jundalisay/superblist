@@ -1,18 +1,16 @@
 ---
 heading: "Chapter 5"
-title: "Properties of Qosts"
+title: "Descartes' Quantum Tunneling and Nuclear Fusion"
 date: 2023-10-31
 image: "/graphics/physics/tunnel.jpg"
 description: "Descartes wrote about cosmology based on the aether-first paradigm, opposite of Newton's matter-first paradigm"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 24
+weight: 34
 icon: /icons/spmat.png
 ---
 
-
-## Descartes' Quantum Tunneling and Nuclear Fusion
 
 
 {{< q a="Adam-Smith" c="The History of Astronomy by Adam Smith Simplified" >}}

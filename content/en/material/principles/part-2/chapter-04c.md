@@ -2,7 +2,7 @@
 heading: "Chapter 5"
 title: "The Expansion of Spacetime"
 date: 2023-03-10
-weight: 26
+weight: 28
 image: /graphics/physics/expansion.jpg
 description: "Everything is expanding, even your own atoms."
 icon: /icons/spmat.png

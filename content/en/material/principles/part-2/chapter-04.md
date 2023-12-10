@@ -4,7 +4,7 @@ title: "Theory of Elastic Gravitational Bands"
 linkTitle: "Elastic Theory"
 # date: 2020-01-31
 date: 2023-02-10
-weight: 22
+weight: 24
 image: /graphics/physics/bands.jpg
 description: "The Elastic Theory is from Descartes and kepler, with important maxim-contributions from Socrates, Taoism, Buddhism, and Hinduism."
 icon: /icons/spmat.png
@@ -36,24 +36,31 @@ Instead of gravity being based on matter (as Newtonian mass) or the fabric of sp
 
 ![Bands](/graphics/physics/bands.jpg)
 
-- **Matter-to-Matter** bands manifest as Newtonian gravity.
-- **Electromagnetism-to-Matter** bands manifest as the original Relativity of Poincare, which we use to replace the 'Special' Relativity of Einstein.
-- **Electromagnetism-to-Electromagnetism** bands manifest as Lorentz Relativity and is used to replace the General Relativity of Einstein.
-- **Electromagnetism-to-Galaxy** bands manifest as dark matter.
-- **Galaxy-to-Galaxy** bands manifest as dark energy.
-- **Galaxy-to-Matter** bands are unknown to Physics. We use it to assert that a material object can never escape its galaxy through linear movement and is forever trapped unless it teleports to another galaxy.
+
+Band Type | Physics Name | Description 
+--- | --- | ---
+**Material to Material** | Matter-to-Matter | These manifest as Newtonian gravity
+**Radiant to Material** | Electromagnetism-to-Matter | These manifest as the original Relativity of Poincare, which we use to replace the 'Special' Relativity of Einstein
+**Radiant to Radiant** | Electromagnetism-to-Electromagnetism | These manifest as Lorentz Relativity and is used to replace the General Relativity of Einstein
+**Radiant to Spatial** | Electromagnetism-to-Galaxy | These  manifest as dark matter
+**Spatial to Spatial** | Galaxy-to-Galaxy | These manifest as dark energy
+**Spatial to Material** | Galaxy-to-Matter | These are unknown to Physics. We use it to assert that a material object can never escape its galaxy through linear movement and is forever trapped unless it teleports to another galaxy
 
 
 ## Freeing Minds
 
-With this, we can safely destroy and flush out the Special and General Relativity of the sophist and nuclear weapons promoter named **Albert Einstein** from the face of the Earth just as Aristotle's earth-centered solar system was crushed by Copernicus and Kepler.  
+With this, we can safely discard the General Relativity theory of Albert Einstein from Physics just as Aristotle's earth-centered solar system was totally rendered obsolete by Copernicus and Kepler.  
 
-This is to put all human minds on the same page and to reject the excessive focus on quantification and math that ends up crudifying the mind. Instead of calculus and numbers, we focus on music and the harmony between entities.
+This is to put all human minds on the same page and to reject the excessive focus on quantification and math that ends up crudifying the mind. Instead of calculus and numbers, we focus on the ratios and harmony between entities.
 
-Crudified humans love matter, money, and the self, but are unaware of the forever-traps that these create. This forever-trap manifests as the limitations of Physics and the lack of spacetime and aethereal technologies. 
-In Economics, it manifests as the trap of raising interest rates to solve inflation but causing a recession (this trap can only be broken through barter).
+Crudified humans love matter, money, and the self, but are unaware of the 'forever-traps' that these create. This forever-trap manifests as the limitations of Physics and the lack of spacetime and aethereal technologies. 
 
-With Einstein's Relativity gone, things can travel faster than the speed of light again. It's the liberation of Physics from the dark ages of Einstein.
+In Economics, it manifests as the trap* of raising interest rates to solve inflation but causing a recession. 
+
+> *Economic Superphysics breaks this trap through barter.
+
+
+With Einstein's General Relativity gone, things can travel faster than the speed of light again. It's the liberation of Physics from the dark ages caused Einstein.
 
 The combination and relation between material objects, electromagnetic objects, and galactic objects are infinite and even arbitrary. This is why this theory is to be open-source or copyleft in order to incentivize minds to focus on or specialize on a specific band.
 

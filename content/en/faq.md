@@ -308,7 +308,7 @@ Yes. This is now known as 'scientism' propagated by materialists.
 
 For example, alternative medicines that don't pass clinical trials are not classified as medicine even if they cure 10% of people but not all. Instead of canceling them as inconclusive, Bio Superphysics groups those 10% people into a **specific personality type** which is cured 100% by that alternative medicine. 
 
-Imagine talking to cavemen about the possibility of creating a agriculture, radio, antibiotics, and representative-goverments to improve their lives. Yet those very cavemen that you want to help laugh and call you crazy and force you to cancel research and go back to hunting deer like all other cavemen using tried-and-tested cutting edge stone tools.
+Imagine talking to cavemen about the possibility of creating a agriculture, radio, antibiotics, and representative-goverments to improve their lives. Yet those very cavemen that you want to help laugh and call you crazy and force you to cancel research and go back to hunting deer like all other cavemen.
 {{< /l >}}
 
 

@@ -118,7 +118,7 @@ paginate = 12
       title = "The Alternative to General Relativity"
       sub = "The Metaphysics of Spacetime"
     [languages.en.params.tricon2.items.c]
-      url= "/material/principles/part-2/chapter-04b/"
+      url= "/material/principles/part-2/chapter-04/"
       img = "/photos/physics/quasar.jpg"
       title = "The Elastic Theory of Gravity"
       sub = "We bring back the theory of gravity from Kepler and Descartes"
@@ -260,7 +260,7 @@ paginate = 12
       title = "البديل للنظرية النسبية العامة"
       sub = "الميتافيزيقا للفضاء الزمني"
     [languages.ar.params.tricon2.items.c]
-      url= "/material/principles/part-2/chapter-04b/"
+      url= "/material/principles/part-2/chapter-04/"
       img = "/photos/physics/quasar.jpg"
       title = "نظرية الجاذبية المرنة"
       sub = "نستعيد نظرية الجاذبية من كيبلر وديكارت"
@@ -402,7 +402,7 @@ paginate = 12
       title = "广义相对论的替代方案"
       sub = "时空的形而上学"
     [languages.zh.params.tricon2.items.c]
-      url= "/material/principles/part-2/chapter-04b/"
+      url= "/material/principles/part-2/chapter-04/"
       img = "/photos/physics/quasar.jpg"
       title = "引力的弹性理论"
       sub = "我们从开普勒和笛卡尔重新引入引力理论"
@@ -544,7 +544,7 @@ paginate = 12
       title = "Die Alternative zur allgemeinen Relativitätstheorie"
       sub = "Die Metaphysik des Raum-Zeit-Kontinuums"
     [languages.de.params.tricon2.items.c]
-      url= "/material/principles/part-2/chapter-04b/"
+      url= "/material/principles/part-2/chapter-04/"
       img = "/photos/physics/quasar.jpg"
       title = "Die Elastische Gravitationstheorie"
       sub = "Wir bringen die Gravitationstheorie von Kepler und Descartes zurück"
@@ -686,7 +686,7 @@ paginate = 12
       title = "La Théorie Élastique de la Gravitation"
       sub = "Nous ramenons la théorie de la gravité de Kepler et de Descartes"
     [languages.fr.params.tricon2.items.c]
-      url= "/material/principles/part-2/chapter-04b/"
+      url= "/material/principles/part-2/chapter-04/"
       img = "/photos/physics/quasar.jpg"
       title = "Un Meilleur Moyen d'Atteindre les Étoiles"
       sub = "Comment la propulsion éthérée peut-elle permettre aux humains de rejoindre d'autres étoiles et galaxies?"
@@ -828,7 +828,7 @@ paginate = 12
       title = "सामान्य संख्यातावाद का विकल्प। "
       sub = "समय-स्थान की मेटाफिजिक्स"
     [languages.hi.params.tricon2.items.c]
-      url= "/material/principles/part-2/chapter-04b/"
+      url= "/material/principles/part-2/chapter-04/"
       img = "/photos/physics/quasar.jpg"
       title = "आध्यात्मिक प्रेरणा। "
       sub = "हम केपलर और देस्कार्टेस से भार से गुरुत्वाकर्षण की सिद्धांती वापस लाते हैं"
@@ -970,7 +970,7 @@ paginate = 12
       title = "Alternatif untuk Relativitas Umum"
       sub = "Metafisika Ruang-Waktu"
     [languages.id.params.tricon2.items.c]
-      url= "/material/principles/part-2/chapter-04b/"
+      url= "/material/principles/part-2/chapter-04/"
       img = "/photos/physics/quasar.jpg"
       title = "Teori Elastis Gravitasi"
       sub = "Kami mengembalikan teori gravitasi dari Kepler dan Descartes"
@@ -1112,7 +1112,7 @@ paginate = 12
       title = "一般相対性理論の代替。"
       sub = "時空の形而上学"
     [languages.jp.params.tricon2.items.c]
-      url= "/material/principles/part-2/chapter-04b/"
+      url= "/material/principles/part-2/chapter-04/"
       img = "/photos/physics/quasar.jpg"
       title = "エーテリアル推進。"
       sub = "私たちはケプラーとデカルトから重力理論を復活させます"
@@ -1254,7 +1254,7 @@ paginate = 12
       title = "Альтернатива общей теории относительности"
       sub = "Метафизика пространства-времени"
     [languages.ru.params.tricon2.items.c]
-      url= "/material/principles/part-2/chapter-04b/"
+      url= "/material/principles/part-2/chapter-04/"
       img = "/photos/physics/quasar.jpg"
       title = "Эфирная тяга"
       sub = "Мы возвращаем теорию гравитации от Кеплера и Декарта"

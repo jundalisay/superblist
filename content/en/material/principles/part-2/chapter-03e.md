@@ -2,7 +2,7 @@
 heading: "Chapter 5b"
 title: "Black Holes and Accretion Disks"
 date: 2023-11-10
-weight: 28
+weight: 22
 image: /graphics/physics/vortex.jpg
 description: "Black holes are stellar vortices. Supermassive black holes are galactic vortices"
 icon: /icons/spmat.png

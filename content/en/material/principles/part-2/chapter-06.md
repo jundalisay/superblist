@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3d"
+heading: "Chapter 6"
 title: "Technologies from Qosts"
 date: 2020-01-31
 image: "/photos/physics/star.jpg"
@@ -7,7 +7,7 @@ description: "The practical use of qosts is to enable levitation and teleportati
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 32
+weight: 38
 icon: /icons/spmat.png
 ---
 

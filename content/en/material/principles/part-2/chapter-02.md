@@ -15,11 +15,11 @@ icon: /icons/spmat.png
 The Spatial Layer is divided into Upper, Middle, and Lower, with the Upper being metaphysical, and the Middle being quasi-physical.
 
 
-Sublayer | Example
---- | ---
-Upper | Metaphysical space and time 
-Mid | Multiverses
-Lower | Physical space and time
+Sublayer | Example | Qost 
+--- | --- | ---
+Upper | Metaphysical space and time | Spacetime Particles 
+Mid | Multiverses | Galaxies and Quasars
+Lower | Physical space and time | Material Things
 
 
 The Upper Spacetime is the realm of mental space and time and is not physical. 
