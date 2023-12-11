@@ -12,6 +12,8 @@ toc: false
 ---
 
 
+## Four Branches
+
 Currently, Economics has messy divisions arising from the lack of understanding of the nature of societies and the human species:
 
 - Microeconomics
@@ -21,9 +23,11 @@ Currently, Economics has messy divisions arising from the lack of understanding 
 - Behavioral Economics
 - Political Economy
 
-[The Four Laws of Value](/social/economics/principles/four-laws-of-value) of Superphysics streamlines this into four branches:
+[The Four Laws of Value](/social/economics/principles/intro/chapter-04) of Superphysics streamlines this into four branches:
 
-> 1. Personal Economy 
+
+
+### 1. Personal Economy from The First Law 
 
 ![Happy woman](/photos/happysuccess.jpg)
 
@@ -32,17 +36,18 @@ This includes demographic data, as well as personal physical and psychological d
 This is measured by the Demand factor in the DCTI model. <!-- It  manifests as the user profile -->
 
 
-> 2. Social Economy
+### 2. Social Economy from The Second Law
 
 ![Team high-fiving](/photos/team.jpg)
 
 This provides the valuation system, as the Effort Theory of Value, which is based on the common food grain. This monitors the real price of everything, which is the key to preventing poverty, inequality, and crises, while maximizing productivity and personal and social happiness within the limits of the natural environment.  
 
-This is measured by the Capital factor in the [DCTI model](/social/economics/principles/dcti).
+This is measured by the Capital factor in the [DCTI model](/social/economics/principles/part-4/chapter-07).
 
 <!-- gives info on the relative indices between cities and countries, showing their relative aggregate supply and demand, measured in grain through the grain index. This manifests as our proposed centralized indicators portal -->
 
-> 3. Micro Economy
+
+### 3. Micro Economy from The Third Law
 
 ![Cargo Ship](/photos/objects/ship.jpg)
 
@@ -51,7 +56,7 @@ This explains the principles behind the transactions of the value between people
 This is measured by the Trade factor in the DCTI model. 
 
 
-> 4. Marco Economy
+### 4. Macro Economy from The Fourth Law
 
 ![Taxation](/photos/tax.jpg)
 
@@ -61,9 +66,9 @@ This is measured by the Industry factor in the DCTI model.
 
 
 
-## The Four Classes
+## The 4 Classes
 
-[The four classes](/social/supersociology/principles/law-social-cycles) then have a domain in each of the four economies:
+[The 4 classes](/social/supersociology/principles/part-1/chapter-05) then have a domain in each of the 4 economies:
 
 Class | Economy
 --- | ---
@@ -72,11 +77,3 @@ Intellectuals and Aristocrats | Social Economy
 Businessmen and Oligarchs | Micro Economy
 Warriors and Tyrants | Macro Economy
 
-
-<!-- Taonomics is the revival of Classical Economics integrated with Modern Data Science
-Classical Economics originally was study of how to manag an estate to keep it productive. Its main measures of productivity was the usefulness that its members derived from it. 
-After democratic governments were formed in Europe in the 17th century, 
-
-In Neoclassical Economics, a forest has no obvious use to humans and would be more useful as a parking lot and so it is bulldozed. 
-In Classical Economics, a forest has use to its plant and animal citizens and so it will be protected
- -->

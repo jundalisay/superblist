@@ -41,7 +41,7 @@ This warming is caused by the cultivation of land which causes woods to be clear
 
 <!-- But generally, cold is still much more severely felt both in North and South America, than in places under the same latitude in Europe. Columella affirmed that the disposition of the heavens was altered before his time, and that the air had become much milder and warmer. It caused many places to abound with vineyards and olive plantations. -->
 
-The most sustainable solution is not really green energy nor infrastructure. Rather, it is [the planting of billions of trees in each country](https://www.nationalgeographic.com/environment/article/planting-trees-helps-fight-climate-change-but-we-need-billions-more-seedlings). This would suck both CO2 and store excess water to prevent floods while keeping some for droughts. 
+The most sustainable Supereconomic solution is not really green energy nor infrastructure. Rather, it is [the planting of billions of trees in each country](https://www.nationalgeographic.com/environment/article/planting-trees-helps-fight-climate-change-but-we-need-billions-more-seedlings). This would suck both CO2 and store excess water to prevent floods while keeping some for droughts. 
 
 ![Tree](/photos/objects/tree.jpg)
 
@@ -54,3 +54,16 @@ in the 1970’s — by applying the moral duty of preserving society on the comp
 But nowadays, because of the mercantile system, society’s interests are made subservient to business interests and so you have strange solutions like a ‘cap and trade’ and carbon tax. A pollution tax would be absurd like a poison tax — you are free to poison other people bit by bit as long as you can pay for it.
 
  -->
+
+
+## Supereconomics Sustainability Versus Neo-classical Economic Destruction
+
+Supereconomics is the revival of Classical Economics integrated with Modern Data Science.
+
+Classical Economics originally was study of how to manage an estate to keep it productive. Its main measures of productivity was the usefulness that its members derived from it. 
+
+Neo-classical Economics, on the other hand, was created after the Marginal Revolution which had the main goal of making more money. It came as a result of the growth of Mercantilism and the increased use of paper money. 
+
+In Classical Economics, a forest has use for its plant-and-animal citizens, and so it will be protected. 
+
+But in Neoclassical Economics, a forest has no obvious use to humans and would be more useful as a parking lot which can be monetized, and so it is bulldozed. 

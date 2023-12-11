@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 7"
-title: "The Demand, Capital, Trade, and Industry Tool"
+title: "The Demand, Capital, Trade, and Industry Tool (DCTI)"
 date: 2021-06-26
 weight: 30
 image: "/graphics/econ/dcti.jpg"
@@ -10,6 +10,8 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
+
+
 
 
 According to Adam Smith, a crisis begins when a country's industry does not match its capital. This is similar to an inexperienced entrepreneur launching a business out of sheer speculation.
@@ -51,6 +53,26 @@ The DCTI Tool can prevent crises by checking a society's Demand, Capital, Trade,
 <!-- ![](https://sorasystem.sirv.com/charts/dcti/val.png) -->
 
 These 4 factors manifest as economic indicators.
+
+Factor | Demand
+--- | --- | ---
+Demand | The needs and wants, or the actions and concepts manifesting the needs and wants of individuals or groups of individuals
+Value | The goods and services, or the actions and concepts leading to the goods and services, which are valued high enough to satisfy the demand
+Capital | Anything used to produce valuable goods or services
+Trade | The exchange of goods or services or measures or concepts leading to such, done between individuals or groups of individuals, done freely in order to satisfy each one’s demand/s
+Industry | Any action done on capital to produce valuable goods or services, or concepts leading to such production
+
+
+
+A tree that produces fruits is not considered economic activity until a human harvests the fruit for trading with other people.
+
+A person who produces vandalism of no societal value will not be considered performing economic activity. But a person who paints a wall nicely (industry) using his own skills (capital) may be considered doing an economic service worthy of being paid (trade through employment). 
+
+Each unit of value must be traded in order to satisfy the needs and wants of a population.
+
+The journey from demand to value-creation to satisfaction and/or recapitalization constitutes one iteration of an economic process comprising many small economic activities.
+
+
 
 Factor | Examples
 --- | --- | ---

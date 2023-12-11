@@ -13,7 +13,7 @@ weight: 20
 {{< /q >}}
 
 
-This says that all manifested things have:
+The Principle of Polarity says that all manifested things have:
 - two sides
 - two aspects
 - two poles

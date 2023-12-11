@@ -52,7 +52,7 @@ Is a naturalness problem, like the Hierarchy problem, and not a problem of incon
 **1. Quantum Gravity**
 
 - Cause of Problem: General Relativity and Newton
-- Solution: [Aethereal Vortices](/material/principles/part-1/chapter-01b/)
+- Solution: [Aethereal Vortices](/material/principles/part-2/chapter-04e/)
 
 
 **5-6. Dark Energy and Dark Matter**

@@ -135,7 +135,7 @@ Total | | | $7 | $12 | 	|
 
 In contrast, the non-profit-maximizing system of pantrynomics earns through **primary arbitrage** or through the differences in hardship incurred in making a product or service. 
 
-In the example, Mr. Chef is able to make quality cakes at low effort because of his great skill in making them. **His profit is from increasing his mastery which lowers his costs, and not in stifling supply by raising prices.**  His mastery can be achieved faster if he were passionate in his chosen business or employment. This is why we call the Second law of Value as the [Invisible Hand of the Tao](/pantrynomics/invisible-hand-of-tao) that shows itself through [the effort theory of value](/articles/pantrynomics/the-effort-theory-of-value).  -->
+In the example, Mr. Chef is able to make quality cakes at low effort because of his great skill in making them. **His profit is from increasing his mastery which lowers his costs, and not in stifling supply by raising prices.**  His mastery can be achieved faster if he were passionate in his chosen business or employment. This is why we call the Second law of Value as the [Invisible Hand of the Tao](/pantrynomics/invisible-hand-of-tao) that shows itself through the effort theory of value-->
 
 
 ## The Resulting Concepts from the Second Law

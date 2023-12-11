@@ -19,7 +19,7 @@ icon: /icons/pantry.png
 
 Supereconomics (Economic Superphysics) aims to solve all economic problems by adding moneyless donations and exchange (barter), as points-based valuation, to the current money-based valuation. This is similar to how Material Superphysics aims to solve mysteries in Physics by adding the aether-idea onto the idea of "quantum fields". 
 
-The points-based valuation represents [the effort theory of value](/social/economics/principles/effort-theory-of-value) which we derived from Adam Smith:
+The points-based valuation represents [the effort theory of value](/social/economics/principles/part-2/chapter-01b) which we derived from Adam Smith:
 
 
 {{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 1, Chapter 5" >}}

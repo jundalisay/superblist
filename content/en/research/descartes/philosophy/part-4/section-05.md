@@ -11,6 +11,11 @@ icon: "/icons/descartes.png"
 ---
 
 
+[4.145] Enumeration of the properties of magnetic force.
+
+All these properties follow from the principles of Nature explained above in such a way that, even if I did not consider those magnetic properties that I undertook to explain here, I would still judge them to be true. However, from now on, we will see that through the aid of these principles, a reason can be given so fittingly and clearly for all these properties that it seems sufficient to persuade that they are true, even if we do not know how they follow from the principles of Nature. Indeed, the magnetic properties that are usually noted by their admirers can be referred to these headings.
+
+
 1. There are 2 poles in a magnet
 - one is everywhere directed towards the Earth's northern pole
 - the other towards the southern pole.

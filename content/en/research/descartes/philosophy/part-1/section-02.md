@@ -144,18 +144,34 @@ bearing in mind, however, what has been already said, that we must only confide 
 
 {{< s v="29" >}}  God is not the cause of our errors.
 
-The first attribute of God which here falls to be considered, is that he is absolutely veracious and the source of all light, so that it is plainly repugnant for him to deceive us, or to be properly and positively the cause of the errors to which we are consciously subject; for although the address to deceive seems to be some mark of subtlety of mind among men, yet without doubt the will to deceive only proceeds from malice or from fear and weakness, and consequently cannot be attributed to God.
+The first attribute of God is that he is absolutely veracious and the source of all light.
+
+It is plainly repugnant for him:
+- to deceive us, or
+- to be properly and positively the cause of the errors to which we are consciously subject
+
+"To deceive" has some mark of subtlety. But it comes from malice, or from fear and weakness. Consequently, it cannot be attributed to God.
 
 
-{{< s v="30" >}} Consequently all which we clearly perceive is true, and that we are thus delivered from the doubts above proposed.
+{{< s v="30" >}} Consequently, all which we clearly perceive is true.
 
-Whence it follows, that the light of nature, or faculty of knowledge given us by God, can never compass any object which is not true, in as far as it attains to a knowledge of it, that is, in as far as the object is clearly and distinctly apprehended. 
+This delivers us from the above doubts.
 
-For God would have merited the appellation of a deceiver if he had given us this faculty perverted, and such as might lead us to take falsity for truth [when we used it aright]. Thus the highest doubt is removed, which arose from our ignorance on the point as to whether perhaps our nature was such that we might be deceived even in those things that appear to us the most evident. 
+It follows that the light of nature, or faculty of knowledge given us by God, can never compass any false object, as long as we can clearly and distinctly apprehend that object. 
 
-The same principle ought also to be of avail against all the other grounds of doubting that have been already enumerated. For mathematical truths ought now to be above suspicion, since these are of the clearest.
+ <!-- which is not true, in as far as it attains to a knowledge of it, that is, in as far as the object is clearly and  .  -->
 
-If we perceive anything by our senses, whether while awake or asleep, we will easily discover the truth provided we separate what there is of clear and distinct in the knowledge from what is obscure and confused. There is no need that I should here say more on this subject, since it has already received ample treatment in the metaphysical Meditations; and what follows will serve to explain it still more accurately.
+God would be a deceiver if he had given us this faculty perverted, that it led us to take falsity for truth.
+
+ <!-- [when we used it aright]. Thus the highest doubt is removed, which arose from our ignorance on the point as to whether perhaps our nature was such that we might be deceived even in those things that appear to us the most evident.  -->
+
+The same principle should also be of avail against all the other grounds of doubting that have been already enumerated. For mathematical truths ought now to be above suspicion, since these are of the clearest.
+
+If we perceive anything by our senses, whether while awake or asleep, we will easily discover the truth provided we separate what there is of clear and distinct in the knowledge from what is obscure and confused. 
+
+This is explained further in my work metaphysical Meditations.
+
+<!-- ; and what follows will serve to explain it still more accurately. -->
 
 
 {{< s v="31" >}} Our errors regarding God are merely negations. Our errors regarding ourselves are merely privations.
@@ -186,4 +202,3 @@ When we apprehend anything we are in no danger of error if we refrain from judgi
 Even when we have formed a judgment regarding it, we would never fall into error, provided we gave our assent only to what we clearly and distinctly perceived.
 
 We are usually deceived because we judge without having an exact knowledge of what we judge.
-

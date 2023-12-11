@@ -50,7 +50,7 @@ To predict how entrepreneurs <!-- possessing a given equipment --> will respond 
 
 <!--  would compare with what they were at a different date or in another country.  -->
 
-> *Superhysics note: This is actually why we created the [grain index](/social/economics/solutions/gdp)
+> *Superhysics note: This is actually why we created the [grain index](/social/economics/principles/part-4/chapter-07c)
 
 
 
@@ -96,7 +96,8 @@ Moreover, if a given aggregate employment will be distributed in a unique way be
 
 If we suppose that the surplus supply of labour forms a pool equally available to all entrepreneurs and that labour employed for a given purpose is rewarded, in part at least, per unit of effort and not with strict regard to its efficiency in its actual particular employment (which is in most cases the realistic assumption to make), the diminishing efficiency of the labour employed is an outstanding example of rising supply price with increasing output, not due to internal diseconomies. 
 
-7. How the supply curve in ordinary use is supposed to deal with the above difficulty I cannot say, since those who use this curve have not made their assumptions very clear. Probably they are assuming that labour employed for a given purpose is always rewarded with strict regard to its efficiency for that purpose. But this is unrealistic. 
+
+7. I cannot say how the supply curve ordinarily is supposed to deal with the above difficulty. Those who use this curve have not made their assumptions very clear. Probably they unrealistically assume that labour is always rewarded with strict regard to its efficiency for that purpose.
 
 The varying efficiency of labour is due to equipment because the increasing surpluses, which emerge as output is increased, accrue in practice mainly to the owners of the equipment and not to the more efficient workers (though these may get an advantage through being employed more regularly and by receiving earlier promotion); 
 
@@ -104,4 +105,6 @@ Men of differing efficiency working at the same job are seldom paid at rates clo
 
 On my assumptions, complications arise where we are dealing with particular supply curves, since their shape will depend on the demand for suitable labour in other directions. It would be unrealistic to ignore these complications. 
 
-But we need not consider them when we are dealing with employment as a whole, provided we assume that a given volume of effective demand has a particular distribution of this demand between different products uniquely associated with it. It may be, however, that this would not hold good irrespective of the particular cause of the change in demand. E.g. an increase in effective demand due to an increased propensity to consume might find itself faced by a different aggregate supply function from that which would face an equal increase in demand due to an increased inducement to invest. All this, however, belongs to the detailed analysis of the general ideas here set forth, which it is no part of my immediate purpose to pursue.
+But we need not consider them when we are dealing with employment as a whole, provided we assume that a given volume of effective demand has a particular distribution of this demand between different products uniquely associated with it. 
+
+It may be, however, that this would not hold good irrespective of the particular cause of the change in demand. E.g. an increase in effective demand due to an increased propensity to consume might find itself faced by a different aggregate supply function from that which would face an equal increase in demand due to an increased inducement to invest. All this, however, belongs to the detailed analysis of the general ideas here set forth, which it is no part of my immediate purpose to pursue.

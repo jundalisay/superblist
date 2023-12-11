@@ -155,7 +155,7 @@ For example, an Arab sheik has 100 million dollars and personally knows very few
 
 The cash saved by the points-system will be used to grow the global economy. Remember that the points-economy works best for tightly-integrated economies such as a small town or a district of a large city. 
 
-[Points-banking](https://pantrypoints.com/banking) can then connect these local economies with each other, such as City A with City B. 
+[Points-banking](https://pantrypoints.com/trisactions/banking) can then connect these local economies with each other, such as City A with City B.
 
 However, points-banking cannot connect Country A to Country B which might have very different laws on imports-exports and taxation.
 
