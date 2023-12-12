@@ -39,7 +39,7 @@ This makes light and electromagnetism as superior to spacetime which is totally 
 
 <!-- We start by fitting Relativity to the 5-layer model of the Greeks.  -->
 
-{{< img alt="Five layers of Superphysics" src="/graphics/physics/egllayers.png" cap="Descartes' Earth is now Stokes' aether, while Descartes' Fire is now Lorentz-Fresnel aether" >}}
+{{< img alt="Five layers of Superphysics" src="/graphics/physics/layers.jpg" cap="Descartes' Earth is now Stokes' aether, while Descartes' Fire is now Lorentz-Fresnel aether" >}}
 
 We see that General Relativity cannot really extend to the Spatial layer because its domain is fundamentally in Electromagnetism as a consequence of being totally light-based.
 

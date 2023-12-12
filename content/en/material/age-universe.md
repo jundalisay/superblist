@@ -97,7 +97,7 @@ Therefore, the dominance of matter in the minds of post-Newton humans manifests 
 
 Superphysics is rooted in the aether, as the highest layer in the 5-layer universe. 
 
-{{< img src="/graphics/physics/layercomp.jpg" cap="Superphysics has the aether as the highest layer or element, based on the neatly-ordered and intuitive Hindu Pancabhutas and Taoist Wu-xing framework. Materialist Physics has matter as the highest layer or element, as an effect of fully embracing the illusion created  by Nature" >}}
+{{< img src="/graphics/physics/layers.jpg" cap="Superphysics has the aether as the highest layer or element, based on the neatly-ordered and intuitive Hindu Pancabhutas and Taoist Wu-xing framework. Materialist Physics has matter as the highest layer or element, as an effect of fully embracing the illusion created  by Nature" >}}
 
 > We can expose Newton's misunderstanding of the vortices theory in another post.
 

@@ -2,7 +2,7 @@
 heading: "Chapter 1"
 title: "The Five Layers of Superphysics"
 date: 2020-01-01
-image: "/graphics/physics/egllayers.png"
+image: "/graphics/physics/layers.jpg"
 description: "The common conclusion of the ancient Greeks, Hindus, and Chinese"
 writer:
   name: Juan
@@ -130,7 +130,7 @@ Material | Earth, Pritvi, 金 (solid metal) | Strong | Nuclear force | Gluons (e
 These 5 layers classify Physical Reality neatly so that it can integrate perfectly with Metaphysical Reality which is made up of life, soul and identity. 
 
 
-{{< img src="/graphics/physics/egllayers.png" alt="5 Layers" >}}
+{{< img src="/graphics/physics/layers.jpg" alt="5 Layers" >}}
 
   <!-- mysteries of quantum physics (which is based on the radiant or electromagnetic layer) by extending human knowledge onto the higher gravitational (spatial) and aethereal layers.  -->
 
@@ -151,7 +151,7 @@ These are my lower Nature. Learn my higher Nature that produces this Universe by
 <!-- I am that womb. I make and I unmake this Universe. -->
 
 
-{{< img src="/graphics/physics/egllayers.png" alt="Five layers of Superphysics" cap="" >}}
+{{< img src="/graphics/physics/layers.jpg" alt="Five layers of Superphysics" cap="" >}}
 
 
 These layers are immediately implementable in healthcare. For example:

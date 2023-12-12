@@ -19,7 +19,7 @@ This dictation was done by Einstein in using the speed of light as the measuring
 
 The big problem is that light is part of the Radiant (ELectromagentic) Layer which is inferior or subordinate to the Spacetime Layer. 
 
-{{< img src="/graphics/egllayers.png" alt="The 5 Layers" cap="Electromagnetism is inferior to Spacetime, yet Einstein uses it to measure Spacetime" >}}
+{{< img src="/graphics/physics/layers.jpg" alt="The 5 Layers" cap="Electromagnetism is inferior to Spacetime, yet Einstein uses it to measure Spacetime" >}}
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "How were these bodies on Earth generated?"
 heading: Section 2b
-weight: 04
+weight: 9
 description: "This Earth we inhabit was once formed solely from the fire-aether, like the Sun, although much smaller"
 writer:
   name: Rene Descartes (translated by Google Translate, fixed by Juan)

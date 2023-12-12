@@ -11,9 +11,9 @@ icon: "/icons/descartes.png"
 ---
 
 
-[4.138] How these channels are rendered suitable for admitting striped particles coming from either side.
+## How these channels are rendered suitable for admitting striped particles coming from either side.
 
-In this ascent, the alignment of these channels cannot always be the same. This is because they are angular and encounter various irregularities in the veins of the Earth.
+[4.138] In this ascent, the alignment of these channels cannot always be the same. This is because they are angular and encounter various irregularities in the veins of the Earth.
 
 When the striped particles, coming with force from the inner Earth, seek their paths throughout the outer Earth, they find these channels of fragments situated in such a way that, to continue their motion along straight lines, they attempt to enter through the same openings through which they used to exit.
 
@@ -91,13 +91,14 @@ However, in iron, they have never had such a position and never regain it. Indee
 Because, the harder and more rigid, the more fragile it becomes. For example, swords, saws, files, or other tools made from it should not always be quenched in the coldest liquids, but in temperate ones, depending on each of these tools, whether fragility is to be avoided more or less than hardness is desired. Therefore, when it is immersed in certain liquids, it is rightly said to be tempered.
 
 
-[4.144] The difference between the channels of a magnet, steel, and iron.
+## The difference between the channels of a magnet, steel, and iron.
 
-As for the channels suitable for receiving striped particles, it is clear from what has been said that there should be many in both steel and iron. 
+[4.144] As for the channels suitable for receiving striped particles, it is clear from what has been said that there should be many in both steel and iron. 
 
-Also, the channels in steel should be more intact and perfect, with the extremities of the branches protruding in their spirals when once bent in one direction, not as easily bending in the opposite direction as they do in a magnet. Furthermore, all these channels, not in steel or other iron as in a magnet, should be turned towards the South and the North, making their openings suitable for receiving striped particles from the South in one direction and suitable for receiving others from the North in the opposite direction. 
+Also, the channels in steel should be more intact and perfect, with the extremities of the branches protruding in their spirals when once bent in one direction, not as easily bending in the opposite direction as they do in a magnet.
+
+Furthermore, all these channels, not in steel or other iron as in a magnet, should be turned towards the South and the North, making their openings suitable for receiving striped particles from the South in one direction and suitable for receiving others from the North in the opposite direction. 
 
 However, the arrangement of these channels should be variable and uncertain because it is disturbed by the agitation of fire. And in the very short interval during which this agitation is stopped by cold, only as many of these channels can be turned towards the South and the North as the striped particles coming from the Earth's poles are seeking a path through them at that time.
 
 Because these striped particles do not correspond in number to all the channels in iron, all iron does receive some magnetic force from the position it had with respect to the Earth's parts when it last cooled, or even from where it remained immobile for a long time, if it has remained immobile for a long time in the same position. However, due to the number of channels it contains, it can still have more.
-

@@ -94,7 +94,7 @@ The job of knowing or discovering this `G` and predicting its movement-results i
 - `E :: G{{< sub v="l" >}}` in the gravitational layer manifests as `E = G{{< sub v="AB">}}` and will be discovered by research institutions, where `B` and `A` are locational properties within spacetime of the same `G`
 
 
-{{< img src="/graphics/egllayers.png" alt="The five layers" >}}
+{{< img src="/graphics/physics/layers.jpg" alt="The five layers" >}}
 
 
 The eagle also extends into metaphysical movement, such as the movement of minds:

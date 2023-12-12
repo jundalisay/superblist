@@ -55,7 +55,7 @@ Physicists think that somehow, adding more energy will make the process more eff
 
 The problem is that this method only applies to the last 3 layers of our 5 layer model, specifically, the radiant, transormative, and material layers. 
 
-{{< img src="/graphics/physics/egllayers.png" cap="Superphysics uses the five layers of aether, air, fire, water, and earth of the Greeks and Asians as aether, spatial, radiant, radioactive, and material, or 水, 木, 火, 土, 金, respectively" alt="5 Layers of Superphysics" >}}
+{{< img src="/graphics/physics/layers.jpg" cap="Superphysics uses the five layers of aether, air, fire, water, and earth of the Greeks and Asians as aether, spatial, radiant, radioactive, and material, or 水, 木, 火, 土, 金, respectively" alt="5 Layers of Superphysics" >}}
 
 
 It does not apply to the upper two layers of the spatial or aethereal, where crudity is replaced by precision and sophistication. The technological designs for the lower three layers are so simplistic:

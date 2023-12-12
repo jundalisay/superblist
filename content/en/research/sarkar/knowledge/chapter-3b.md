@@ -98,7 +98,9 @@ Individual human beings as well as large communities often suffer from some sort
 
 When India was a dependent colony, many Indians used to describe the members of the ruling community as God’s children, obviously due to their deep-rooted inferiority complex. Most of them wondered: “Will India ever see the light of freedom? When will we ever win the struggle against the ruling class?” 
 
-This shows that the entire indigenous community was a victim of inferiority complex, the removal of which would require a group of leaders endowed with enormous mental strength and noble character – a group of mighty personalities. India at that time was not fortunate enough to have such great people, and that is why the struggle for Indian freedom had to be prolonged. Otherwise, India could have gained freedom in a much shorter time.
+This shows that the entire indigenous community was a victim of inferiority complex, the removal of which would require a group of leaders endowed with enormous mental strength and noble character – a group of mighty personalities. India at that time was not fortunate enough to have such great people, and that is why the struggle for Indian freedom had to be prolonged.
+
+Otherwise, India could have gained freedom in a much shorter time.
 
 I say all this because psychic diseases, as I have just pointed out, affect not only individuals but collective bodies as well. You must remain vigilant so that in your individual life you do not become the victim of a psychic disease, and so that if there is any such psychic disease in collective life, you see that it is eliminated.
 

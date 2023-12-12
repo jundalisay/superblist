@@ -49,7 +49,7 @@ This malleable space was exploited by the scammer Einstein who added **time** in
 
 The huge problem with this (and is the reason why we demonize Einstein as a scammer and [nuclear-weapons promoter](https://www.businessinsider.com/albert-einstein-wrote-letter-us-roosvelt-atomic-bomb-2019-8)) is that **light is part of the electromagnetic (radiant) layer which is inferior to both the spacetime and aetheral layers**.
 
-{{< img src="/graphics/physics/egllayers.png" alt="The 5 layers" cap="By enshrining c, Einstein cut off Physics from the spacetime and aethereal layers. This means that Physics can only know around half of how the physical universe functions. After 100 years of such limitation, this now manifests as [the slow down of scientific discoveries](https://phys.org/news/2023-01-scientific-breakthroughs.html)" >}}
+{{< img src="/graphics/physics/layers.jpg" alt="The 5 layers" cap="By enshrining c, Einstein cut off Physics from the spacetime and aethereal layers. This means that Physics can only know around half of how the physical universe functions. After 100 years of such limitation, this now manifests as [the slow down of scientific discoveries](https://phys.org/news/2023-01-scientific-breakthroughs.html)" >}}
 
 In the correct and original Cartesian theory, the aether is really 'aetheral air' which is in a different dimension from light (electromagnetism) or 'aethereal fire'.  
 

@@ -18,7 +18,7 @@ In contrast, Superphysics enshrines the aether as the top or boss-layer of physi
 
 This is still in line with Nature since Maxwell, Fresnell, Hertz, Lord Kelvin, and Tesla all believed in the aether. It is therefore only Einstein who is out of line. This in turn is why technology is so limited and humans still use Newtonian rockets (based on 17th century principles) to go to outer space. 
 
-![Layers](/graphics/egllayers.png)
+![Layers](/graphics/physics/layers.jpg)
 
 
 ## The Effort of Aether

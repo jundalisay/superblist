@@ -26,7 +26,7 @@ They mean the 4 elements of physical bodies only. These elements are:  <!-- , ev
 - water [weak force (radioactive in Superphysics)]
 - earth [strong force (matter in Superphysics)]
 
-![Layers](/graphics/physics/layercomp.jpg)
+![Layers](/graphics/physics/layers.jpg)
 
 They do away with the cause of movement* when:
 - trying to state the causes of creation and destruction

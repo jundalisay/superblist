@@ -1,3 +1,16 @@
+---
+title: "The Nature of Water"
+heading: Section 2c
+weight: 10
+description: "This Earth we inhabit was once formed solely from the fire-aether, like the Sun, although much smaller"
+writer:
+  name: Rene Descartes (translated by Google Translate, fixed by Juan)
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
+image: "/covers/philos.png"
+icon: "/icons/descartes.png"
+---
+
+
 ## The nature of water: and why it easily turns into air or ice.
 
 [4.048] Only 2 kinds of particles are found in water:

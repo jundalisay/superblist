@@ -12,7 +12,9 @@ In the mechanical sphere, knowing occurs with the perception of special types of
 
 But in the psychic sphere, it occurs as a result of the subjectivization of objectivity or objectivities.
 
-For example, if a particular type of vibration hits an object or plate it meets some resistance and may get reflected or refracted, as in the case of an echo; or a certain portion of the vibration may pass through the plate. 
+For example, a vibration that hits an object or plate, it meets some resistance. 
+- It might get reflected or refracted, as in the case of an echo
+- A portion of the vibration might pass through the plate. 
 
 In the mechanical stratum, knowledge is thus attained. 
 
