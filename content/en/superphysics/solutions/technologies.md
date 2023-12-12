@@ -38,18 +38,6 @@ Transformative | Seawater Agriculture
 Material | 
 
 
-
-## Bio Superphysics Technologies
-
-Layer | Technologies
---- | ---
-Aethereal | Artificial Sentience for Medical Diagnosis
-Spatial | Sound-based Agriculture, Capsule Food
-Radiant | Light-based Agriculture
-Transformative | Seawater Agriculture 
-Material | 
-
-
 ## Social Superphysics Technologies
 
 Layer | Technologies
