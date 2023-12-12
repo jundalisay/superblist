@@ -15,25 +15,64 @@ weight: 100
 
 Word | Meaning
 --- | ---
+Absolute Entity | A theoretical (non-existing) Entity that precedes Existence. Also, Pre-Existence 
+Abstract Reasoning | The use logic to explain nonphysical or philosophical causes and effects.
 Adharmic | not being in line with one's dharma or the nature of things. This replaces the concept of 'bad' or 'evil' which are based on the limited ego. 
+Attribute | a part of Substance.
 Belief | a set of ideas that the ego attaches itself to
-Consciousness | the experiencer of experiences 
-Critical Feeling | the expansion of one's feelings onto other entities other than the self 
+Consciousness | the other half of Existence that lets Existence exist
+<!-- experiencer of experiences  -->
+Critical Feeling | the expansion of one's feelings onto other entities other than the self, by exerting extra effort or energy
+Critical Thinking | the expansion of one's thinking process beyond the normal limitations of belief or external imposition, by exerting extra effort or energy 
+Death | The state where a mind loses the ability to express independently of the physical aspects of the universe
 Dharma | the inherent, metaphysical nature of any discrete identity with reference to the creator of that identity 
 Dharmic | being in line with one's dharma or the nature of things. This replaces the concept of 'good' which is based on the limited ego.
 Eagle | the equation for everything, according to Superphysics
 Ego | the feeling of the self 
-Idea | An original metaphysical object created by the Supreme
-Immoral | the qualities of actions that will lead to negative feelings in the largest spacetime conceivable
+Emotion | A quantized measurable version of a feeling, such as for public surveys
+Existence | the effect of Consciousness as its other half
+Idea | An original metaphysical object created by the Supreme that is accessed by abstract minds. Also, a product of Ideation (accessing pre-existing ideas)
+Identity | A discrete resultant perception separate from other perceptions or a mass of perceptions
+Immoral | the qualities of actions that will lead to negative feelings in the largest spacetime conceivable. Also generally adharmic since Existence is Positive. 
+Intuition | Knowledge derived from the aether, which is above spacetime
+Karma | Action and Reaction, or Cause and Effect. Technically, the 7th kind of philosophical relation according to David Hume.
+Life | The state where a mind has the ability to express independently of the physical aspects of the universe 
 Mind | the arena for experiences
+Mode | modifications or versions of Substance
 Moral | the qualities of actions that will lead to positive feelings in the largest spacetime conceivable
-Negative feelings | feelings that naturally make us feel heavy, such as sadness, greed, hatred, and stress. These are the result of being adharmic or outside of one's true nature
-Negative Force | the force or flow of the Tao that leads to separation and isolation
+Negative feelings | feelings resulting from the Negative Force that naturally make us feel heavy, such as sadness, greed, hatred, and stress. These are the result of being adharmic or outside of one's true nature, since Existence is Positive
+Negative Force | the force from the desire of Existence that leads to separation, repulsion, and isolation, leading to Existence. Also, Shakti or Yin.
 Omnitheism | a paradigm that views all Supreme Entities as different versions of one Supreme Entity 
-Positive feelings | feelings that naturally make us feel lighter, such as happiness, contentment, love, peace. These are the result of being dharmic or being within one's true nature
-Positive Force | the force or flow of the Tao that leads to unification
+Positive feelings | feelings from the Positive Force that naturally make us feel lighter, such as happiness, contentment, love, peace. These are the result of being dharmic or being within one's true nature, since Existence is Positive
+Positive Force | the force or flow from the desire of Existence that leads to unification and attraction. Also, Shiva or Yang.
+Socratic Dialectics | The use of critical feeling and critical thinking, with reference to the Dharma, to arrive at a solution to a problem
 Soul | the mind when viewed independently of the body
-Tao | the natural flow of the evolution or mechanics of a discrete identity
+Substance | a thing which exists in such a way that it needs nothing beyond itself in order to exist (Descartes, Principia Philosophia Part 1)
+Supreme Entity | The Absolute Entity in active form in order to gain reality and be perceived
+Tao | the dharma in active flowing form 
+Thought | A physicalized version of a metaphysical Idea, as a result of thinking
+<!-- natural flow of the evolution or mechanics of a discrete identity -->
+
+
+## Superphysics Logic Definitions and Replacements
+
+Word | Meaning
+--- | ---
+Absolute Truth | the equality of perceptions that is not dependent on spacetime (i.e. timeless) 
+Begging the Question | Circular Answer
+Ad Hominem | Personal Attack
+False Dichotomy | Fake Dilemma
+Logic | The connection of ideas within spacetime.
+Non sequitir | Does not Follow
+Occam's Razor | Deleting superfluous ideas in reasoning. Also, Cutting to the Chase
+Physical Truth | the equality of physical perceptions
+Red Herring | Misdirection of reason
+Reason | The ability to use logic to explain cause and effect in general. 
+Reasoning | The use logic to explain cause and effect in general. 
+Relative Truth | the equality of perceptions that is dependent on spacetime
+Straw Man | Specific misdirection of reason
+Truth | the equality of perceptions from different perceiving identitites
+
 
 
 ## Supersociology
@@ -44,11 +83,11 @@ Dogmisn | a blind belief perpetuated by the mind of a certain person
 Ideology Matrix | a 3D chart that classifies all ideas
 Socratic Liberal | the Democrat caste made up of workers and ordinary people. This is the most numerous in any society
 Socratic Neocon | the Tyrant caste made up of warriors, generals, and leaders. This is commonly the monarchy. 
-Socratic Conservative | the Aristocrat caste made up of philosophers, scientists, and researchers. This manifests as the Enlightenment, Theocracy, Religion, or Shariah</li>
+Socratic Conservative | the Aristocrat caste made up of philosophers, scientists, and researchers. This manifests as the Enlightenment, Theocracy, Religion, or Shariah
 Socratic Neoliberal | the Oligarch caste made up of merchants and businessmen. Thhis manifests as Big Business, Speculators, Gamblers, Investors
 
 
-## Supereconomics 
+## Supereconomics Revenue
 
 Word | Meaning
 --- | ---
@@ -58,6 +97,8 @@ Profit | Irregular Revenue from the lack experienced by others
 Donation | Irregular Revenue from the abundance experienced by others 
 
 ---
+
+## Supereconomics
 
 Word | Meaning
 --- | ---
@@ -84,7 +125,9 @@ Service | anything that is for sale but does not occupy a specific spacetime
 Word | Acronym | Meaning
 --- | --- | ---
 Gravitational Signature | | the unique code or idea that is the basis for the discrete entity. In a living body, this manifests as its DNA
-Monad | | A perceivable quantum 
-Quantum of spacetime | Qost | This is the invisible and intangible center of gravity of any discrete identity. 
-Quantum of aether | Qoa | This is either idea or an idea of a feeling
-Spinoza | | the Aether, as to separate it from the Physics concept of the aether or the Higgs field
+Quantum Substance | A Cartesian Substance subject to measurement
+Monad | A 1-dimensional Substance 
+Quantum of Space-time | Qost | Invisible spacetime particles in the Spatial Layer
+Quantum of Aether | Qoa | Substance of idea, feeling, or the abstract mind or soul that has those ideas and feelings
+<!-- Spinoza | | the Aether, as to separate it from the Physics concept of the aether or the Higgs field -->
+
