@@ -7,6 +7,8 @@ writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
 weight: 100
+aliases:
+  /superphysics/principles/appendix
 ---
 
 
@@ -20,8 +22,7 @@ Abstract Reasoning | The use logic to explain nonphysical or philosophical cause
 Adharmic | not being in line with one's dharma or the nature of things. This replaces the concept of 'bad' or 'evil' which are based on the limited ego. 
 Attribute | a part of Substance.
 Belief | a set of ideas that the ego attaches itself to
-Consciousness | the other half of Existence that lets Existence exist
-<!-- experiencer of experiences  -->
+Consciousness | the other half of Existence that lets Existence exist <!-- experiencer of experiences  -->
 Critical Feeling | the expansion of one's feelings onto other entities other than the self, by exerting extra effort or energy
 Critical Thinking | the expansion of one's thinking process beyond the normal limitations of belief or external imposition, by exerting extra effort or energy 
 Death | The state where a mind loses the ability to express independently of the physical aspects of the universe
@@ -36,6 +37,7 @@ Identity | A discrete resultant perception separate from other perceptions or a 
 Immoral | the qualities of actions that will lead to negative feelings in the largest spacetime conceivable. Also generally adharmic since Existence is Positive. 
 Intuition | Knowledge derived from the aether, which is above spacetime
 Karma | Action and Reaction, or Cause and Effect. Technically, the 7th kind of philosophical relation according to David Hume.
+Knowledge | The assimilation of perceptions with, or into, the abstract mind via ideas. Also, jiṋána as the subjectivization of objects (Sarkar)
 Life | The state where a mind has the ability to express independently of the physical aspects of the universe 
 Mind | the arena for experiences
 Mode | modifications or versions of Substance
@@ -45,12 +47,14 @@ Negative Force | the force from the desire of Existence that leads to separation
 Omnitheism | a paradigm that views all Supreme Entities as different versions of one Supreme Entity 
 Positive feelings | feelings from the Positive Force that naturally make us feel lighter, such as happiness, contentment, love, peace. These are the result of being dharmic or being within one's true nature, since Existence is Positive
 Positive Force | the force or flow from the desire of Existence that leads to unification and attraction. Also, Shiva or Yang.
+Self | The perception of identity by the same perceiver
 Socratic Dialectics | The use of critical feeling and critical thinking, with reference to the Dharma, to arrive at a solution to a problem
 Soul | the mind when viewed independently of the body
 Substance | a thing which exists in such a way that it needs nothing beyond itself in order to exist (Descartes, Principia Philosophia Part 1)
 Supreme Entity | The Absolute Entity in active form in order to gain reality and be perceived
 Tao | the dharma in active flowing form 
 Thought | A physicalized version of a metaphysical Idea, as a result of thinking
+
 <!-- natural flow of the evolution or mechanics of a discrete identity -->
 
 
