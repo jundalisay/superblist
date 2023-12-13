@@ -1,7 +1,7 @@
 ---
 title: "Everything is an Idea"
 draft: true
-heading: "Chapter 1"
+heading: "Chapter 2"
 description: "All that we perceive is in the universe which is a matrix of the ideas of the Creator of existence"
 ---
 
@@ -18,7 +18,7 @@ For instance, we sometimes perceive something totally new. When Covid first came
 The physical disease started to exist through the senses of the Wuhan doctors. But the complete idea of it did not exist in human minds until scientists established it as a new idea called Novel Coronavirus Disease, later renamed as Covid-19. It means that the complete metaphysical idea existed in Nature, before humans could completely recreate it in their minds.
 
 
-The Superiority of the Metaphysical Over the Physical
+## The Superiority of the Metaphysical Over the Physical
 
 This strengthens the fact that:
 - physical things are perceivable through our 5 senses

@@ -325,7 +325,9 @@ How can we help? :heart:
 
 
 {{< l a="Superphysics" >}}
-You can check out our [help](/help) page
+You can check out our [help](/help) page. 
+
+But the easiest ways are to click the ads to give our side some revenue, and to share the link to our website.
 {{< /l >}}
 
 <!-- By gettings Its principles. For example, Einstein based his Relativity on Parmenides explanation of how the One is Many and All is relative. We expand this by creating the theory of Universal Relativity for Material Superphysics, as well as the Four Laws of Value for Economic Superphysics (as spnomics)    -->
