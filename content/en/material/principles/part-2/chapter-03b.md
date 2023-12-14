@@ -38,14 +38,14 @@ Material | Planet, Moon | Material Qost
 
 ### Galactic Qosts or Galaxy
 
-![Quasar](https://sorasystem.sirv.com/photos/quasar.jpg)
+![Galaxy](/photos/physics/galaxy.jpg)
 
 A galaxy has a galactic qost as its center or controlling factor or defining identity. 
 
 
 ### Galactic Reverse Qosts or Quasars
 
-![Quasar](https://sorasystem.sirv.com/photos/quasar.jpg)
+![Quasar](/photos/physics/quasar.jpg)
 
 A quasar is a galactic qost that rotates in a clockwise direction. This creates more friction than a galaxy, leading to more light.
 
@@ -54,7 +54,7 @@ It also churns matter back into energy, acting as a matter-to-energy recycle bin
 
 ### Stellar Qosts or Stars
 
-![Stars](https://sorasystem.sirv.com/photos/sun800.jpg)
+![Stars](/photos/physics/star.jpg)
 
 A star is a young qost that is influenced by the Radiant Layer. It converts energy to matter (non-expressive mind) and life (expressive mind).
 
@@ -62,7 +62,7 @@ A star is a young qost that is influenced by the Radiant Layer. It converts ener
 
 ### Transformative Qosts or Neutron Stars
 
-![Space](https://sorasystem.sirv.com/photos/space.jpg)
+![Space](/photos/physics/pulsar.jpg)
 
 A neutron star is an adult qost that is influenced by the transformative layer. It converts matter into heavier matter and complex life and 'explodes' it to the universe.
 
