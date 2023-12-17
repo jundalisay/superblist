@@ -78,33 +78,27 @@ Consumption is the sole end and purpose of all production.. the interest of the 
 
 However, oversupply hurts the environment in the long run, and so we also see excessive consumer surplus and consumerism as bad. Therefore, while the goal of both Superphysics and Economics is balance, Superphysics ensures that supplies are delivered to everyone as they are needed, and not in excess, since it factors in the environment in its models through environmental limits* (unlike Economics). This real-time delivery and regulation system is then implemented by [ISAIAH](/superphysics/solutions/isaiah), which is our implementation of Socrates’ Guardians.
 
-> ![Poor Orangutan on a tree](https://sorasystem.sirv.com/photos/orang.jpg) *Plants and animals are also users of natural resources and so their natural habitat must be generally off limits to humans to preserve their lifestyle, just as we do not allow lions and tigers into our habitat. (Update March 2020: [The destruction of natural habitats unleashes viruses](https://www.scientificamerican.com/article/destroyed-habitat-creates-the-perfect-conditions-for-coronavirus-to-emerge/) that destroy humans, so this Supereconomic policy would help ensure the existence of the human species, something that is beyond the scope of Economics)
 
+{{< img src="https://sorasystem.sirv.com/photos/orang.jpg" alt="Poor Orangutan on a tree" cap="Plants and animals are also users of natural resources and so their natural habitat must be generally off limits to humans to preserve their lifestyle, just as we do not allow lions and tigers into our habitat. (Update March 2020: [The destruction of natural habitats unleashes viruses](https://www.scientificamerican.com/article/destroyed-habitat-creates-the-perfect-conditions-for-coronavirus-to-emerge/) that destroy humans, so this Supereconomic policy would help ensure the existence of the human species, something that is beyond the scope of Economics)" >}}
 
 
 ## The Same Curves Applied to the ‘Family-society’
 
 From the economic definitions of surpluses, we can create their Supereconomic equivalents, using our effort theory of value, so that they can be applied to families, organizations, etc (ours is a socio-economic system, with more features than an economic system such as Capitalism and Communism):
 
-- Producer’s surplus — a state where the producer gets more gain. Examples are families where parents neglect their children, or a company where the employer gets way more benefit than the employees.
 
-![Parents being negligent](https://sorasystem.sirv.com/graphics/fam-prod.jpg)
+{{< img src="https://sorasystem.sirv.com/graphics/fam-prod.jpg" alt="Parents being negligent" cap="**Producer’s surplus** — a state where the producer gets more gain. Examples are families where parents neglect their children, or a company where the employer gets way more benefit than the employees" >}}
 
-- Deadweight loss — a state where the society labours harder than usual for less gain. For example, when a natural disaster cuts the family’s water supply so that they have to go the river to fetch it manually.
+{{< img src="https://sorasystem.sirv.com/graphics/fam-loss.png" alt="Mother getting water" cap="**Deadweight loss** — a state where the society labours harder than usual for less gain. For example, when a natural disaster cuts the family’s water supply so that they have to go the river to fetch it manually" >}}
 
-![Mother getting water](https://sorasystem.sirv.com/graphics/fam-loss.png)
 
-- Consumer’s surplus — a state where the consumer gets more bargain or advantage. Examples are families where parents are overworked or a company where the employees are lazy and feed off a hardworking boss
+{{< img src="https://sorasystem.sirv.com/graphics/fam-cons.jpg" alt="Children being unruly" cap="**Consumer’s surplus** — a state where the consumer gets more bargain or advantage. Examples are families where parents are overworked or a company where the employees are lazy and feed off a hardworking boss" >}}
 
-![Children being unruly](https://sorasystem.sirv.com/graphics/fam-cons.jpg)
 
-- Manageable balance — a state where both get equitable share
+{{< img src="https://sorasystem.sirv.com/graphics/fam-bal.jpg" alt="Happy family" cap="**Manageable balance** — a state where both get equitable share" >}}
 
-![Happy family](https://sorasystem.sirv.com/graphics/fam-bal.jpg)
 
-- Material progress — a state where society labours less for more gain. An example is a family buying a computer to get more work done or get more entertainment.
-
-![Family with a computer](https://sorasystem.sirv.com/graphics/fam-gain.jpg)
+{{< img src="https://sorasystem.sirv.com/graphics/fam-gain.jpg" alt="Family with a computer" cap="**Material progress** — a state where society labours less for more gain. An example is a family buying a computer to get more work done or get more entertainment" >}}
 
 
 
@@ -120,7 +114,7 @@ A single father (supplier) with two children (demanders) normally supplies his f
 - After a month, the lockdown is eased and the father is able to buy a vehicle (material progress) to be able to bring more food with less effort, which then leads to spoiled kids. 
 - Poor families have limited space as tiny houses (environmental limits) preventing the accumulation of food, which reduces the probability of having spoiled kids.
 
-Superphysics uses its own [Effort theory of value](/social/economics/principles/effort-theory-of-value) instead of Marginal pricing theory of Economics Through this tool, the policymakers of a society, whether a father of a house, or a prime minister of a country, can choose the right policy from their arsenal in order to create a desired outcome. Do they increase limits to prevent externalities? Or do they subsidize technology and reduce limits to create progress and growth?
+Superphysics uses its own [Effort theory of value](/social/economics/principles/part-2/chapter-01b/) instead of Marginal pricing theory of Economics Through this tool, the policymakers of a society, whether a father of a house, or a prime minister of a country, can choose the right policy from their arsenal in order to create a desired outcome. Do they increase limits to prevent externalities? Or do they subsidize technology and reduce limits to create progress and growth?
 
 
 ## Singularized Demand and Supply, with Deadweight loss and Material gain
