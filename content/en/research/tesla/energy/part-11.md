@@ -2,7 +2,9 @@
 title:  "Wireless Telegraphy And The Secret Of Tuning"
 heading: "Part 11"
 weight: 26
-contributors: ['Tesla']
+writer:
+  name: Nikola Tesla
+  url: https://en.wikipedia.org/wiki/Nikola_Tesla
 image:  "/covers/energy.jpg"
 description: "As the first valuable result of my experiments in this latter line a system of telegraphy without wires resulted, which I described in 2 scientific lectures in February and March, 1893"
 ---

@@ -2,7 +2,9 @@
 title:  "The Coming Of Age Of Aluminium and the Doom of the Copper Industry"
 heading: "Part 4" 
 weight: 14
-contributors: ['Tesla']
+writer:
+  name: Nikola Tesla
+  url: https://en.wikipedia.org/wiki/Nikola_Tesla
 image:  "/covers/energy.jpg"
 description: "Aluminium will not stop at downing copper. Before many years have passed it will be engaged in a fierce struggle with iron"
 ---

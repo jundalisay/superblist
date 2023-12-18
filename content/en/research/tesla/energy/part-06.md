@@ -2,7 +2,9 @@
 title:  "Efforts Toward Obtaining More Energy From Coal"
 heading: "Part 6"
 weight: 16
-contributors: ['Tesla']
+writer:
+  name: Nikola Tesla
+  url: https://en.wikipedia.org/wiki/Nikola_Tesla
 image:  "/covers/energy.jpg"
 description: "In the past, I considered the production of electricity by burning coal in a battery as the greatest achievement toward the advancing civilization"
 ---

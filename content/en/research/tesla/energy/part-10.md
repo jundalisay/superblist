@@ -2,7 +2,9 @@
 title:  "First Efforts To Produce The Self-acting Engine"
 heading: "Part 10"
 weight: 24
-contributors: ['Tesla']
+writer:
+  name: Nikola Tesla
+  url: https://en.wikipedia.org/wiki/Nikola_Tesla
 image:  "/covers/energy.jpg"
 description: "For a long time I thought that such a transmission on an industrial scale could never be realized. But a discovery which I made changed my view."
 ---
@@ -11,7 +13,7 @@ description: "For a long time I thought that such a transmission on an industria
 
 <!-- DISCOVERY OF UNEXPECTED PROPERTIES OF THE ATMOSPHERE—STRANGE EXPERIMENTS— -->
 
-TRANSMISSION OF ELECTRICAL ENERGY THROUGH ONE WIRE WITHOUT RETURN—TRANSMISSION THROUGH THE EARTH WITHOUT ANY WIRE.
+## Transmission Of Electrical Energy Through One Wire Without Return—Transmission Through The Earth Without Any Wire
 
 <!-- Another of these reasons was that I was led to recognize  -->
 
@@ -35,7 +37,7 @@ Other valuable results were, however, arrived at in the course of this long-cont
 
 The discovery of the conducting properties of the air was unexpected. But it was only a natural result of experiments in a special field which I had carried on for some years before. 
 
-It was, I believe, during 1889 that certain possibilities offered by extremely rapid electrical oscillations determined me to design a number of special machines adapted for their investigation. 
+In 1889, certain possibilities offered by extremely rapid electrical oscillations determined me to design a number of special machines adapted for their investigation. 
 
 Owing to the peculiar requirements, the construction of these machines was very difficult, and consumed much time and effort. 
 
@@ -58,7 +60,9 @@ I have produced electrical oscillations which were of such intensity that when c
 
 I have energized with such oscillations a loop of heavy copper wire so powerfully that masses of metal, and even objects of an electrical resistance specifically greater than that of human tissue brought close to or placed within the loop, were heated to a high temperature and melted, often with the violence of an explosion, and yet into this very space in which this terribly-destructive turmoil was going on I have repeatedly thrust my head without feeling anything or experiencing injurious after-effects. 
 
-Another observation was that by means of such oscillations light could be produced in a novel and more economical manner, which promised to lead to an ideal system of electric illumination by vacuum-tubes, dispensing with the necessity of renewal of lamps or incandescent filaments, and possibly also with the use of wires in the interior of buildings. The efficiency of this light increases in proportion to the rate of the oscillations, and its commercial success is, therefore, dependent on the economical production of electrical vibrations of transcending rates. In this direction I have met with gratifying success of late, and the practical introduction of this new system of illumination is not far off. 
+Another observation was that by means of such oscillations light could be produced in a novel and more economical manner, which promised to lead to an ideal system of electric illumination by vacuum-tubes, dispensing with the necessity of renewal of lamps or incandescent filaments, and possibly also with the use of wires in the interior of buildings.
+
+The efficiency of this light increases in proportion to the rate of the oscillations, and its commercial success is, therefore, dependent on the economical production of electrical vibrations of transcending rates. In this direction I have met with gratifying success of late, and the practical introduction of this new system of illumination is not far off. 
 
 The investigations led to many other valuable observations and results, one of the more important of which was the demonstration of the practicability of supplying electrical energy through one wire without return. At first I was able to transmit in this novel manner only very small amounts of electrical energy, but in this line also my efforts have been rewarded with similar success. 
 
@@ -80,5 +84,7 @@ After demonstrating the practicability of this method of transmission, the thoug
 
 Accordingly, my next efforts were directed toward perfecting a special apparatus which would be highly effective in creating a disturbance of electricity in the earth. 
 
-The progress in this new direction was necessarily very slow and the work discouraging, until I finally succeeded in perfecting a novel kind of transformer or induction-coil, particularly suited for this special purpose. That it is practicable, in this manner, not only to transmit minute amounts of electrical energy for operating delicate electrical devices, as I contemplated at first, but also electrical energy in appreciable quantities, will appear from an inspection of Fig. 4, which illustrates an actual experiment of this kind performed with the same apparatus. The result obtained was all the more remarkable as the top end of the coil was not connected to a wire or plate for magnifying the effect. 
+The progress in this new direction was necessarily very slow and the work discouraging, until I finally succeeded in perfecting a novel kind of transformer or induction-coil, particularly suited for this special purpose.
+
+That it is practicable, in this manner, not only to transmit minute amounts of electrical energy for operating delicate electrical devices, as I contemplated at first, but also electrical energy in appreciable quantities, will appear from an inspection of Fig. 4, which illustrates an actual experiment of this kind performed with the same apparatus. The result obtained was all the more remarkable as the top end of the coil was not connected to a wire or plate for magnifying the effect. 
 

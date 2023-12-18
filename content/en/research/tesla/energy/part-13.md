@@ -2,7 +2,9 @@
 title:  "Transmission Of Electrical Energy To Any Distance Without Wires"
 heading: "Part 13"
 weight: 30
-contributors: ['Tesla']
+writer:
+  name: Nikola Tesla
+  url: https://en.wikipedia.org/wiki/Nikola_Tesla
 image:  "/covers/energy.jpg"
 description: "The most valuable observation was the extraordinary behavior of the atmosphere toward electric impulses of excessive electromotive force"
 ---

@@ -1,10 +1,10 @@
 ---
-title: "المجالان"
+title: "Die Zwei Bereiche"
 heading: "Chapter 1"
 date: 2019-01-01
 weight: 4
 image: /photos/tech/mac.jpg
-description: "كل ما ندركه موجود في الكون الذي هو مصفوفة لأفكار خالق الوجود"
+description: "Wir kennen die Existenz einer Sache durch unsere Wahrnehmung davon. Jede Wahrnehmung hat 2 Aspekte"
 icon: /icons/sp.png
 writer:
   name: Juan
@@ -12,41 +12,42 @@ writer:
 ---
 
 
-نعرف وجود الشيء من خلال إدراكنا له. لكل إدراك جانبان:
+Wir kennen die Existenz einer Sache durch unsere Wahrnehmung davon. Jede Wahrnehmung hat 2 Aspekte:
 
-- الجسدي
-- الميتافيزيقي
+- Physisch
+- Metaphysisch
 
-على سبيل المثال، عندما نرى كوبًا، لدينا إدراك جسدي للكوب وفكرة ميتافيزيقية للكوب تقريبًا في نفس الوقت.
+Zum Beispiel, wenn wir eine Tasse sehen, haben wir sowohl die physische Wahrnehmung einer Tasse als auch eine metaphysische Vorstellung einer Tasse fast gleichzeitig.
+
+## Die Zwei Bereiche
+
+Das bedeutet, dass die Tasse in 2 Bereichen der Realität existiert:
+
+- Die physische Tasse existiert im physischen Bereich, den wir sehen und berühren können.
+
+Diese Tasse ist aus Glas.
+
+- Die metaphysische Tasse existiert im metaphysischen Bereich, als unsere Vorstellung davon, was eine Tasse ist.
+
+Diese Tassenidee besteht aus Äther.
+
+Im Gegensatz zur physischen Tasse, die wir sehen und berühren können, kann diese ätherische Tassenidee nur von unserem abstrakten Verstand wahrgenommen werden.
 
 
-## المجالان
+## Der Metaphysische Bereich
 
-وهذا يعني أن الكوب موجود في مجالين من الواقع:
+Dieser Bereich existiert nur, weil wir abstrakte Gedanken haben, die die angeborene Fähigkeit haben, unsere Ideen und Gedanken "zu beherbergen".
 
-1. الكوب الجسدي موجود في المجال الجسدي، الذي يمكننا رؤيته ولمسه.
+Wir können eine Idee empfangen oder über einen Gedanken nachdenken, wenn er von unseren Gedanken auf unser Bewusstsein zurückspringt.
 
-هذا الكوب مصنوع من الزجاج.
+Wir können keine Idee haben, wenn sie nicht auf unser Bewusstsein zurückspringt.
 
-2. الكوب الميتافيزيقي موجود في المجال الميتافيزيقي، كفكرتنا حول ما هو الكوب.
+Ein Beispiel für ein metaphysisches Objekt, das nicht zurückspringt, ist ein Gedanke, den wir vergessen, wie zum Beispiel unser Passwort für ein E-Mail-Konto.
 
-هذه الفكرة عن الكوب مصنوعة من الأثير. على عكس الكوب الجسدي الذي يمكننا رؤيته ولمسه، يمكن أن تُدرك هذه الفكرة الأثيرية فقط بواسطة عقولنا التجريدية.
+Wir wissen, dass es in unserer Vergangenheit in unseren Gedanken war. Aber unser Bewusstsein konnte es nicht 'finden', weil es nicht zurück in unser Bewusstsein springt. Es wäre so, als würde man eine Abfrage an eine Datenbank stellen, ohne dass die Abfrage etwas zurückgibt.
 
+Ein weiteres Beispiel ist ein Problem, für das wir keine Lösung haben. Wir versuchen, nach einer Lösung zu brainstormen, bis sie auf unser Bewusstsein zurückfällt.
 
-## المجال الميتافيزيقي
+Der metaphysische Bereich existiert in unseren abstrakten Gedanken. Er ist unendlich größer und reicher als der physische Bereich unserer Sinne.
 
-هذا المجال موجود فقط لأن لدينا عقولًا تجريدية لديها القدرة الفطرية على "استضافة" أفكارنا وأفكارنا.
-
-نحن قادرون على تصور فكرة أو التفكير في فكرة إذا كانت ترتد من عقولنا إلى وعينا.
-
-نحن غير قادرين على الحصول على فكرة إذا لم يرتد إلى وعينا.
-
-مثال على كائن ميتافيزيقي لا يرتد هو فكرة ننساها، مثل كلمة المرور لحساب البريد الإلكتروني.
-
-نعلم أنها كانت في عقولنا في الماضي. ولكن وعينا لا يستطيع 'العثور' عليها لأنها لا تعود إلى وعينا. سيكون مثل استعلام قاعدة بيانات من دون أن يعود الاستعلام بأي شيء.
-
-مثال آخر هو مشكلة ليس لدينا لها حلا. نحن نحاول التفكير في حلا حتى ينعكس على وعينا.
-
-المجال الميتافيزيقي موجود داخل عقولنا التجريدية. إنه أكبر بلا حد وأغنى من المجال الجسدي لحواسنا.
-
-نسمي هذا المجال "أثيري" (مصنوع من الأثير) أو "أكاشا" في الهندوسية. سيتم شرح ذلك لاحقًا عند شرح نموذجنا الخماسي.
+Wir nennen diesen Bereich "ätherisch" (aus Äther gemacht) oder Akasha im Hinduismus. Dies wird später erklärt, wenn wir unser Fünf-Lagen-Modell erklären.

@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 10c"
-title: "The Saturn Line Defets Between 30-45"
+title: "The Saturn Line Defects Between 30-45"
 weight: 58
 contributors: ['Benham']
 image: "/covers/reading.png"

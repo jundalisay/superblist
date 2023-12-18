@@ -214,9 +214,17 @@ By writing a new law-book that unifies the Torah and the Quran. The root cause o
 - The Muslims program their minds according to the Quran, which denounces the Torah 
 
 The great big problem is that mentality creates reality. And so the difference in programming creates a perpetual real conflict which eats up the attention and resources of the world. This is similar to how the fight between malware and anti-virus on your computer eats up resources that slows down other programs. The world has to push for such a new law-book, as the core of a one-state solution, for its own sake. 
-
 {{< /l >}}
 
+
+{{< r a="Muslim" >}}
+How could that new law-book be created?
+{{< /r >}}
+
+
+{{< l a="Social-Superphysics" >}}
+Ideally, Palestinians, Jews, and Arabs should get together and write it. Until then, a shortcut could be to use machine learning like ChatGPT or Bard to combine the Torah and the Quran for the sake of world peace (since both are text-data), as a proof of concept of the great uses of AI.
+{{< /l >}}
 
 
 ## Bigots

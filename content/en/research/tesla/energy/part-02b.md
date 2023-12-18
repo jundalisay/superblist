@@ -2,7 +2,9 @@
 title:  "Artificial Humans"
 heading:  "Part 2b"
 weight: 9
-contributors: ['Tesla']
+writer:
+  name: Nikola Tesla
+  url: https://en.wikipedia.org/wiki/Nikola_Tesla
 image:  "/covers/energy.jpg"
 description: "The force which retards the onward movement of man is partly frictional and partly negative."
 ---
