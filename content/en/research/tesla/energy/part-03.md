@@ -2,9 +2,11 @@
 title:  "Problem 3: How To Increase The Force Accelerating The Human Mass"
 heading: "Part 3"
 weight: 10
-contributors: ['Tesla']
+writer:
+  name: Nikola Tesla
+  url: https://en.wikipedia.org/wiki/Nikola_Tesla
 image:  "/covers/energy.jpg"
-description: "This problem is by far the most important to consider, not only because of its intrinsic significance, but also because of its intimate bearing on all the many elements and conditions which determine the movement of humanity"
+description: "This problem is by far the most important because of its intimate bearing on all the many  conditions which determine humanity's movement"
 ---
 
 
@@ -16,7 +18,9 @@ In order to proceed systematically, it would be necessary for me to dwell on all
 
 As a preliminary study of the problem an analytical investigation, such as I have made, of the chief forces which determine the onward movement, would be of advantage, particularly in conveying an idea of that hypothetical "velocity" which, as explained in the beginning, is a measure of human energy; but to deal with this specifically here, as I would desire, would lead me far beyond the scope of the present subject. 
 
-Suffice it to state that the resultant of all these forces is always in the direction of reason, which therefore, determines, at any time, the direction of human movement. This is to say that every effort which is scientifically applied, rational, useful, or practical, must be in the direction in which the mass is moving. The practical, rational man, the observer, the man of business, he who reasons, calculates, or determines in advance, carefully applies his effort so that when coming into effect it will be in the direction of the movement, making it thus most efficient, and in this knowledge and ability lies the secret of his success. 
+Suffice it to state that the resultant of all these forces is always in the direction of reason, which therefore, determines, at any time, the direction of human movement. This is to say that every effort which is scientifically applied, rational, useful, or practical, must be in the direction in which the mass is moving.
+
+The practical, rational man, the observer, the man of business, he who reasons, calculates, or determines in advance, carefully applies his effort so that when coming into effect it will be in the direction of the movement, making it thus most efficient, and in this knowledge and ability lies the secret of his success. 
 
 Every new fact discovered, every new experience or new element added to our knowledge and entering into the domain of reason, affects the same and, therefore, changes the direction of movement, which, however, must always take place along the resultant of all those efforts which, at that time, we designate as reasonable, that is, self-preserving, useful, profitable, or practical. 
 

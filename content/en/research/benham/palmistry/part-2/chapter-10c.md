@@ -1,10 +1,10 @@
 ---
-heading: "Chapter 10b"
+heading: "Chapter 10c"
 title: "Defects in the Saturn Line "
 weight: 56
 contributors: ['Benham']
 image: "/covers/reading.png"
-description: "All defects found in the beginning of the Saturn line refer to the childhood of the subject, and daring this period the child is too young to do much by himself, either toward improving or hindering his condition"
+description: "All defects found in the beginning of the Saturn line refer to the childhood of the subject"
 ---
 
 

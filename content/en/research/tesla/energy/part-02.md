@@ -2,7 +2,9 @@
 title:  "Problem 2: How To Reduce The Force Retarding The Human Mass"
 heading:  "Part 2"
 weight: 8
-contributors: ['Tesla']
+writer:
+  name: Nikola Tesla
+  url: https://en.wikipedia.org/wiki/Nikola_Tesla
 image:  "/covers/energy.jpg"
 description: "The force which retards the onward movement of man is partly frictional and partly negative."
 ---

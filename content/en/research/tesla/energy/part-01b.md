@@ -1,8 +1,10 @@
 ---
 title:  "Food Production"
 heading:  "Part 1b"
-weight: 
-contributors: ['Tesla']
+weight: 6
+writer:
+  name: Nikola Tesla
+  url: https://en.wikipedia.org/wiki/Nikola_Tesla	
 image:  "/covers/energy.jpg"
 description: "The production of artificial food as a means for causing an increase of the human mass naturally suggests itself."
 ---

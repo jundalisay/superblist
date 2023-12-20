@@ -1,10 +1,10 @@
 ---
-title: "المجالان"
+title: "Les Deux Domaines"
 heading: "Chapter 1"
 date: 2019-01-01
 weight: 4
 image: /photos/tech/mac.jpg
-description: "كل ما ندركه موجود في الكون الذي هو مصفوفة لأفكار خالق الوجود"
+description: "Nous connaissons l'existence d'une chose à travers nos perceptions de celle-ci"
 icon: /icons/sp.png
 writer:
   name: Juan
@@ -12,41 +12,44 @@ writer:
 ---
 
 
-نعرف وجود الشيء من خلال إدراكنا له. لكل إدراك جانبان:
+Nous connaissons l'existence d'une chose à travers nos perceptions de celle-ci. Chaque perception a 2 aspects :
 
-- الجسدي
-- الميتافيزيقي
+- Physique
+- Métaphysique
 
-على سبيل المثال، عندما نرى كوبًا، لدينا إدراك جسدي للكوب وفكرة ميتافيزيقية للكوب تقريبًا في نفس الوقت.
-
-
-## المجالان
-
-وهذا يعني أن الكوب موجود في مجالين من الواقع:
-
-1. الكوب الجسدي موجود في المجال الجسدي، الذي يمكننا رؤيته ولمسه.
-
-هذا الكوب مصنوع من الزجاج.
-
-2. الكوب الميتافيزيقي موجود في المجال الميتافيزيقي، كفكرتنا حول ما هو الكوب.
-
-هذه الفكرة عن الكوب مصنوعة من الأثير. على عكس الكوب الجسدي الذي يمكننا رؤيته ولمسه، يمكن أن تُدرك هذه الفكرة الأثيرية فقط بواسطة عقولنا التجريدية.
+Par exemple, lorsque nous voyons une tasse, nous avons à la fois la perception physique d'une tasse et une idée métaphysique d'une tasse presque simultanément.
 
 
-## المجال الميتافيزيقي
+## Les Deux Domaines
 
-هذا المجال موجود فقط لأن لدينا عقولًا تجريدية لديها القدرة الفطرية على "استضافة" أفكارنا وأفكارنا.
+Cela signifie que la tasse existe dans 2 domaines de réalité :
 
-نحن قادرون على تصور فكرة أو التفكير في فكرة إذا كانت ترتد من عقولنا إلى وعينا.
+- La tasse physique existe dans le domaine physique, que nous pouvons voir et toucher.
 
-نحن غير قادرين على الحصول على فكرة إذا لم يرتد إلى وعينا.
+Cette tasse est faite de verre.
 
-مثال على كائن ميتافيزيقي لا يرتد هو فكرة ننساها، مثل كلمة المرور لحساب البريد الإلكتروني.
+- La tasse métaphysique existe dans le domaine métaphysique, en tant qu'idée de ce qu'est une tasse.
 
-نعلم أنها كانت في عقولنا في الماضي. ولكن وعينا لا يستطيع 'العثور' عليها لأنها لا تعود إلى وعينا. سيكون مثل استعلام قاعدة بيانات من دون أن يعود الاستعلام بأي شيء.
+Cette idée de tasse est faite d'éther.
 
-مثال آخر هو مشكلة ليس لدينا لها حلا. نحن نحاول التفكير في حلا حتى ينعكس على وعينا.
+Contrairement à la tasse physique que nous pouvons voir et toucher, cette idée de tasse éthérée ne peut être perçue que par nos esprits abstraits.
 
-المجال الميتافيزيقي موجود داخل عقولنا التجريدية. إنه أكبر بلا حد وأغنى من المجال الجسدي لحواسنا.
 
-نسمي هذا المجال "أثيري" (مصنوع من الأثير) أو "أكاشا" في الهندوسية. سيتم شرح ذلك لاحقًا عند شرح نموذجنا الخماسي.
+## Le Domaine Métaphysique
+
+Ce domaine n'existe que parce que nous avons des esprits abstraits qui ont une capacité innée d'"abriter" nos idées et nos pensées.
+
+Nous sommes capables de concevoir une idée, ou de penser à une pensée, si elle rebondit de nos esprits sur notre conscience.
+
+Nous sommes incapables d'avoir une idée si elle ne rebondit pas sur notre conscience.
+
+Un exemple d'objet métaphysique qui ne rebondit pas est une pensée que nous oublions, telle que le mot de passe d'un compte e-mail.
+
+Nous savons qu'il était dans nos esprits dans le passé. Mais notre conscience ne pouvait pas le "trouver" car il ne rebondit pas dans notre conscience. Ce serait comme interroger une base de données sans que la requête ne renvoie rien.
+
+Un autre exemple est un problème pour lequel nous n'avons pas de solution. Nous essayons de réfléchir à une solution jusqu'à ce qu'elle se reflète dans notre conscience.
+
+Le domaine métaphysique existe à l'intérieur de nos esprits abstraits. Il est infiniment plus vaste et plus riche que le domaine physique de nos sens.
+
+Nous appelons ce domaine "éthéré" (fait d'éther) ou akasha dans l'hindouisme. Cela sera expliqué ultérieurement lorsque nous expliquerons notre modèle des cinq couches.
+

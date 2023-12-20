@@ -2,7 +2,9 @@
 title:  "A 'self-acting' Engine Or Machine"
 heading: "Part 8"
 weight: 20
-contributors: ['Tesla']
+writer:
+  name: Nikola Tesla
+  url: https://en.wikipedia.org/wiki/Nikola_Tesla
 image:  "/covers/energy.jpg"
 description: "The windmill, the solar engine, the engine driven by terrestrial heat, had their limitations in the amount of power obtainable"
 ---
@@ -15,16 +17,21 @@ When I began the investigation of the subject under consideration, and when the 
 
 The windmill, the solar engine, the engine driven by terrestrial heat, had their limitations in the amount of power obtainable. 
 
-A new way had to be discovered which would enable us to get more energy. There was enough heat-energy in the medium, but only a small part of it was available for the operation of an engine in the ways then known. Besides, the energy was obtainable only at a very slow rate. Clearly, then, the problem was to discover some new method which would make it possible both to utilize more of the heat-energy of the medium and also to draw it away from the same at a more rapid rate.
+A new way had to be discovered which would enable us to get more energy. There was enough heat-energy in the medium, but only a small part of it was available for the operation of an engine in the ways then known. Besides, the energy was obtainable only at a very slow rate. 
+
+Clearly, then, the problem was to discover some new method which would make it possible both to utilize more of the heat-energy of the medium and also to draw it away from the same at a more rapid rate.
 
 
 I was vainly endeavoring to form an idea of how this might be accomplished, when I read some statements from Carnot and Lord Kelvin (then Sir William Thomson) which meant virtually that it is impossible for an inanimate mechanism or self-acting machine to cool a portion of the medium below the temperature of the surrounding, and operate by the heat abstracted. These statements interested me intensely. 
 
 Evidently, a living being could do this very thing, and since the experiences of my early life which I have related had convinced me that a living being is only an automaton, or, otherwise stated, a "self-acting-engine," I came to the conclusion that it was possible to construct a machine which would do the same.
 
-As the first step toward this realization I conceived the following mechanism. Imagine a thermopile consisting of a number of bars of metal extending from the earth to the outer space beyond the atmosphere. The heat from below, conducted upward along these metal bars, would cool the earth or the sea or the air, according to the location of the lower parts of the bars, and the result, as is well known, would be an electric current circulating in these bars. The two terminals of the thermopile could now be joined through an electric motor, and, theoretically, this motor would run on and on, until the media below would be cooled down to the temperature of the outer space. This would be an inanimate engine which, to all evidence, would be cooling a portion of the medium below the temperature of the surrounding, and operating by the heat abstracted. 
+As the first step toward this realization I conceived the following mechanism. Imagine a thermopile consisting of a number of bars of metal extending from the earth to the outer space beyond the atmosphere. The heat from below, conducted upward along these metal bars, would cool the earth or the sea or the air, according to the location of the lower parts of the bars, and the result, as is well known, would be an electric current circulating in these bars.
+
+The two terminals of the thermopile could now be joined through an electric motor, and, theoretically, this motor would run on and on, until the media below would be cooled down to the temperature of the outer space. This would be an inanimate engine which, to all evidence, would be cooling a portion of the medium below the temperature of the surrounding, and operating by the heat abstracted. 
 
 DIAGRAM b. OBTAINING ENERGY FROM THE AMBIENT MEDIUM
+
 
 A, medium with little energy; B, B, ambient medium with much energy; O, path of the energy. 
 But was it not possible to realize a similar condition without necessarily going to a height? Conceive, for the sake of illustration, [a cylindrical] enclosure T, as illustrated in diagram b, such that energy could not be transferred across it except through a channel or path O, and that, by some means or other, in this enclosure a medium were maintained which would have little energy, and that on the outer side of the same there would be the ordinary ambient medium with much energy. Under these assumptions the energy would flow through the path O, as indicated by the arrow, and might then be converted on its passage into some other form of energy. The question was, Could such a condition be attained? 

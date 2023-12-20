@@ -1,6 +1,5 @@
 ---
 title: "The Fundamentals of Language"
-
 weight: 6
 image: "/covers/discourses.jpg"
 description: "Each language has 5 fundamental characteristics"

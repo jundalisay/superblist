@@ -187,9 +187,9 @@
   background-image: url(/icons/g01.png);
 }
 
-.ade, .Adeimantus, .Tsz-Hi, .Disciples, .Phaedo, .Zeno, .zeno {background-image: url(/icons/g02.png);}
+.ade, .Adeimantus, .Tsz-Hi, .Disciples, .Meno, .Phaedo, .Zeno, .zeno {background-image: url(/icons/g02.png);}
 
-.Parmenides, .Ischomachus, .pole, .Polemarchus, .Critias, .Judge, .Man, .Apollodorus {
+.Parmenides, .Ischomachus, .pole, .Polemarchus, .Boy, .Critias, .Judge, .Man, .Apollodorus {
   background-image: url(/icons/g04.png);}
 
 .Wang-Sun-Ki, .Judas, .Tsz-Lu, .Gauri {background-image: url(/icons/g07.png) !important;}
@@ -198,7 +198,7 @@
   background-image: url(/icons/g08.png);  
 }
 
-.Thomas, .cle, .Cleitophon, .Simmias, .Yuen-Sz, .Chung-Kung {
+.Anytus, .Thomas, .cle, .Cleitophon, .Simmias, .Yuen-Sz, .Chung-Kung {
   background-image: url(/icons/g09.png) !important;
 }
 

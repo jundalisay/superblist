@@ -1,6 +1,6 @@
 ---
 title: "Does the Inertia of a Body Depend Upon Its Energy-content?"
-description: "The recent work by E. Fermi and L. Szilard leads me to expect that uranium may be turned into a new and important source of energy in the immediate future."
+description: "My principle of relativity states that any changes to two systems of coordinates that are in uniform motion parallel to each other are governed by laws which do not depend on either of them"
 image: "/covers/einstein.jpg"
 weight: 80
 # date: 1939-08-02
@@ -8,32 +8,43 @@ weight: 80
 
 September 27, 1905 
 
-I combined
+
+My principle of relativity states that any changes to two systems of coordinates that are in uniform motion parallel to each other are governed by laws which do not depend on either of them.
+
+<!-- the laws by which the states of physical systems alter are independent of
+the alternative, to which of 
+
+, these alterations of state are referred. -->
+
+
+I combined the following to answer the question whether inertia depends on energy-content:
 - the Maxwell-Hertz equations for empty space
 - the Maxwellian expression for the electromagnetic energy of space
-- my principle of relativity: The changing states of physical systems are independent of the alternative, to which of two systems of coordinates, in uniform motion of
-parallel translation relatively to each other, these alterations of state are referred.
+- my principle of relativity
 
-Let a system of plane waves of light, referred to the system of co-ordinates (x, y, z), possess the energy l; 
+<!-- The changing states of physical systems are independent of the alternative, to which of two systems of coordinates, in uniform motion of parallel translation relatively to each other, these alterations of state are referred. -->
 
-Let the direction of the ray (the wave-normal) make an angle φ with the axis of x of the system. 
+Let a system of plane waves of light, referred to the system of co-ordinates (`x`, `y`, `z`), possess the energy `l`. 
 
-If we introduce a new system of coordinates (ξ, η, ζ) moving in uniform parallel translation with respect to the system (x, y, z), and having its origin of co-ordinates in motion along the
-axis of x with the velocity v, then this quantity of light—measured in the system (ξ, η, ζ)—possesses the energy l
-∗ = l 1 − v c cosφ p 1 − v 2/c2
+Let the direction of the ray (the wave-normal) make an angle `φ` with the axis of `x` of the system. 
 
-where c denotes the speed of light. 
+If we introduce a new system of coordinates (`ξ`, `η`, `ζ`) moving in uniform parallel translation with respect to the system (`x`, `y`, `z`), and having its origin of co-ordinates in motion along the axis of `x` with the velocity `v`, then this quantity of light—measured in the system (`ξ`, `η`, `ζ`) possesses the energy `l`
 
-Let there be a stationary body in the system (x, y, z), and let its energy—referred to the system (x, y, z) be E0. 
 
-Let the energy of the body relative to the system (ξ, η, ζ) moving as above with the velocity v, be H0.
 
-Let this body send out, in a direction making an angle φ with the axis of x, plane waves of light, of energy 1
 
-L measured relatively to (x, y, z), and simultaneously an equal quantity of light in the opposite direction. Meanwhile
-the body remains at rest with respect to the system (x, y, z). 
+where `c` denotes the speed of light. 
 
-The principle of ∗The principle of the constancy of the velocity of light is in Maxwell’s equations.
+Let there be a stationary body in the system (`x`, `y`, `z`). Let its energy—referred to the system (`x`, `y`, `z`) be `E0`. 
+
+Let the energy of the body relative to the system (`ξ`, `η`, `ζ`) moving as above with the velocity `v`, be `H0`.
+
+Let this body send out, in a direction making an angle `φ` with the axis of `x`, plane waves of light, of energy `1/2 L`.
+- This is measured relatively to (x, y, z), and simultaneously an equal quantity of light in the opposite direction.
+
+Meanwhile the body remains at rest with respect to the system (`x`, `y`, `z`). 
+
+<!-- The principle of ∗The principle of the constancy of the velocity of light is in Maxwell’s equations. -->
 
 Energy must apply to this process, and in fact (by the principle of relativity) with respect to both systems of co-ordinates. If we call the energy of the body
 after the emission of light E1 or H1 respectively, measured relatively to the system (x, y, z) or (ξ, η, ζ) respectively, then by employing the relation given

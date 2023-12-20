@@ -32,19 +32,30 @@ It indicates the course of material success of the subject. It shows:
 - whether he will have an easy or <!-- must make his own way, whether he will have --> a hard time<!-- , or whether things will apparently come easy to him. -->
 - his most productive periods.
 
-This is why the older palmists named it as the line of "Fate or Destiny" as it is generally indicates luck. <!--  taken for granted that one whose life runs smoothly must have luck in his favor. -->
+This is why the older palmists named it as the line of "Fate or Destiny" as it is generally indicates luck. <!--  taken for granted that one whose life runs smoothly must have luck in his favor. --> They forgot that a person:
+- might have been qualified for success in the first place
+- might have achieved success as a natural consequence of that qualification
 
-In these cases it has not always been remembered that such a subject may have had every qualification which would enable him to merit success, and that he has achieved it because he has worked, and because success has been deserved.
+<!-- In these cases it has not always been remembered that such  -->
 
-Combined with a good line of Saturn, there may be health, brains, determination, ambition, and similar qualities, and in that case the presence of these qualities accounts for the good line of Saturn, which consequently indicates that the subject will get through the world comfortably and successfully.
+<!-- , and that he has achieved it because he has worked, and because success has been deserved. -->
 
-A combination of such forces as the above, if wisely and faithfully used, produces so-called luck
+<!-- Combined with , 
+, and in that case the presence of these qualities accounts for the good line of Saturn, which consequently indicates that  -->
 
-and most of the persons who are pointed out as particularly fortunate, or lucky, attribute their success primarily to brains, health, energy, ambition, and kindred allies, and not to blind chance, luck, or fate.
 
-There is, however, some magic glamour around the words "fate" and "luck," which seems to speak of results achieved without effort. This has always been the goal of lazy folk.
+A person might have good health, brains, determination, ambition, and similar qualities. These then form a good line of Saturn which indiciates that he will get through the world comfortably and successfully.
 
-Such people are ever ready to account for their failures by saying, "Others are lucky, I am not," but this should be followed by the further explanation that most often the "lucky" subject is a worker and the "unlucky" one is not.
+Thus, a combination of such forces, if wisely and faithfully used, produces so-called luck.
+
+Most lucky people attribute their success primarily to brains, health, energy, ambition, and kindred allies, and not to blind chance, luck, or fate.
+
+The words "fate" and "luck" have some magic glamour.
+- It seems to speak of results achieved without effort. 
+- **This has always been the goal of lazy folk**.
+  - Such people blame their failures on luck by saying, "Others are lucky, I am not".
+
+Most often, the "lucky" subject is a worker. The "unlucky" one is not.
 
 Daydreamers expect luck to reach down and touch them with a magic wand.
 - Those who are called lucky say that the magic wand is industry.

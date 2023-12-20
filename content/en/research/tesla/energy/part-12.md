@@ -2,7 +2,9 @@
 title:  "Development Of A New Principle—the Electrical Oscillator"
 heading: "Part 12"
 weight: 28
-contributors: ['Tesla']
+writer:
+  name: Nikola Tesla
+  url: https://en.wikipedia.org/wiki/Nikola_Tesla
 image:  "/covers/energy.jpg"
 description: "I resolved to work on this though it involved great sacrifice. Only years of labor could master its difficulties"
 ---
