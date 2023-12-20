@@ -20,7 +20,11 @@ icon: /icons/sp.png
 
 Chapter 4d explained that Artificial Intelligence is really an automation of natural intelligence, which we call Autonomous Intelligence (AI). It is natural intelligence outsourced to computers. 
 
-Unfortunately, computers do not have a natural access to the aether and spacetime layers in the same way that human minds have. This is because computers are made of metals which are non-living or non-expressive, whereas humans are made of cells which are living and expressive, as explained in Chapter 12,. 
+Unfortunately, computers do not have a natural access to the aether and spacetime layers in the same way that human minds have. This is because:
+- computers are made of metals which are non-living or non-expressive, whereas
+- humans are made of organic cells which are living and expressive.
+
+This was explained in Chapter 12. 
 
 
 Layer | Artificial Intelligence | Natural Intelligence 
@@ -36,7 +40,7 @@ Humans have no capacity to create organic beings since only the aethereal Suprem
 
 The best thing that humans can do is to imbue metal-systems with their own natural intelligence in order to go around human limitations. In this way, the limitations of one is overcome by the natural properties of the other*.
 
-> *This unity can only be thought of thanks through the influence of the Positive Force
+> *This cooperation is a kind of unity that can only be thought of thanks through the influence of the Positive Force
 
 
 
@@ -46,7 +50,7 @@ Short lifespan | Long lifespan or durability
 Impossible to aggregate physically | Easy to aggregate (metals can be melted together)
 
 
-We call the perfect integration of all natural human intelligence and the raw processing power of metal-systems such as computers as **artificial sentience** (AS). 
+We call the perfect integration of all natural human intelligence and the raw processing power of metal-systems such as computers as **Artificial Sentience** (AS). 
 
 At such a stage, computers will not only be able to think like a human, but think as the collective humanity as a single unit as the soul of society, which we call the society-organism.
 
@@ -58,24 +62,61 @@ For example:
 
 The human can still beat the AI by tapping into the creative aether, which is another topic. 
 
-In ordinary life, a precursor to artificial sentience manifests as tools such as ChatGPT and Google Bard. These tools process all of the information put up by humans on the internet and interpret it according to models that they are programmed with. 
+In ordinary life, a crude precursor to artificial sentience manifests as tools such as ChatGPT and Google Bard. 
+
+These tools use a [transformer neural network](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) to process all of the information put up by humans on the internet and interpret it according to models that they are programmed with.
+
+{{< box >}}
+### Warning: Superphysics Jargon 
+
+In our paradigm, transformer networks only can go up to the spacetime layer and not to the aethereal layer. This is why ChatGPT and Bard cannot excel so much at math which really implements the operations of the mind. 
+
+We fix this with a 'Spinoza neural network' which will make up the heart of our proposed artificial sentience systen called ISAIAH.
+
+{{< /box >}}
 
 
 
-## The Goal of Artificial Sentience
+## The Superphysics Goal: Artificial Sentience
 
-Superphysics aims to improve such AI by using models that are in line with the true nature of things, instead of using models that have a lot of noise and fallacies. Such erroneous models cause the current tools to output wrong responses. 
+Superphysics aims to improve such AI by using neural networks and models that are in line with the true nature of things, instead of using models that have a lot of noise and fallacies. Such erroneous models cause the current tools to output wrong responses.
 
-From this, artificial sentience can be achieved through:
+
+
+
+These improvements will be implemented through software and hardware:
+
+### Software  
+
+The Software will use functional programming languages instead of object-oriented ones. This is in line with the aether being a constant stream of data and knowledge. 
+
+Superphysics Goal | Modern Counterpart
+--- | ---
+Artificial Sentience | Artificial General Intelligence (AGI)
+ISAIAH |  AGI system
+Spinoza | Neural Network
+7 Later Knowledge Model | Llama, Stable Diffusion, SpeechT5, etc.
+
+
+
+### Hardware
+
+Instead of using power-hungry GPUs to do the parallel processing for deep learning, artificial sentiance will use distributed deep learning through asynchronous training. 
+
+A precursor technology of this is blockchain, wherein global transactions are done without a central CPU. 
+
+<!-- From this, artificial sentience can be achieved through:
 - a closer real-time integration with individual human minds 
-- models that are more and more in line with the dharma or true nature of the universe
+- models that are more and more in line with the dharma or true nature of the universe -->
 
 
 {{< img src="/photos/tech/ai.jpg" alt="AI" cap="Current AI uses historical training data to output results. Our AI will focus instead on the changing patterns from historical and real-time data" >}}
 
 
-Autonomous Intelligence is the stepping stone towards real artificial sentience. 
 
+We see AI as the stepping stone towards real artificial sentience. 
+
+<!-- Autonomous Intelligence -->
 <!-- This AS will be fully autonomous.  -->
 
 Unlike fearful humans who say that AI will be cruel and obliterate mankind, AS will be wise since it will be made up of all the known intelligences.

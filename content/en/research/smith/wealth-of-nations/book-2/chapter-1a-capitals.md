@@ -67,7 +67,7 @@ This part may be very small in some while very great in others.
 - A shoemaker needs more expensive tools.
 - A weaver needs more expensive tools than a shoemaker.
 
-However, most of the capital of all such craftsmen are circulated in= 
+However, most of the capital of all such craftsmen are circulated in: 
 - the wages of their workers, or
 - the price of their materials
 
@@ -81,19 +81,28 @@ They are repaid with a profit by the price of the work.
 
 {{< s v="10" >}} A farmer's agricultural tools are a fixed capital. He earns from his tools by keeping them.
 
-The wages and maintenance of his labouring servants are a circulating capital. He parts with the wages that he gives to them and earns from their labour.
+The wages and maintenance of his labouring servants are a circulating capital.
+- He parts with the wages that he gives to them and earns from their labour.
 
-The price of his labouring cattle is a fixed capital. The farmer earns by keeping them.
+The price of his labouring cattle is a fixed capital. 
+- The farmer earns by keeping them.
 
-The maintenance of his cattle is a circulating capital. He profits by parting with their maintenance.
+The maintenance of his cattle is a circulating capital.
+- He profits by parting with their maintenance.
 
-Cattle, which are sold and not used for labour, are a circulating capital. The farmer profits by parting with them.
+Cattle, which are sold and not used for labour, are a circulating capital.
+- The farmer profits by parting with them.
 
-A flock of sheep or a herd of cattle used for wool and milk is a fixed capital. Profits are made by keeping them.
+A flock of sheep or a herd of cattle used for wool and milk is a fixed capital.
+- Profits are made by keeping them.
 
-Their food is a circulating capital. Profit is made by parting with it to feed them, to then produce wool and milk for sale.
+Their food is a circulating capital.
+- Profit is made by parting with it to feed them, to then produce wool and milk for sale.
 
-The whole value of the seed is a fixed capital. It goes backwards and forwards between the ground and the granary. But it never changes masters and does not circulate. The farmer profits by its increase, not by its sale.
+The whole value of the seed is a fixed capital. 
+- It goes backwards and forwards between the ground and the granary. 
+- But it never changes masters and does not circulate.
+- The farmer profits by its increase, not by its sale.
 
 
 {{< s v="11" >}} The general stock of any society is the same with that of all its inhabitants. It naturally divides itself into the same three portions, each with a distinct function.
