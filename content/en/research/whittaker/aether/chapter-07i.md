@@ -1,5 +1,5 @@
 ---
-title:  "Weber's Thepry"
+title:  "Weber's Theory"
 heading:  "Chapter 7b"
 weight: 68
 contributors: ['Whittaker']

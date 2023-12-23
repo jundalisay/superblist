@@ -1,10 +1,10 @@
 ---
-title:  "Thomson"
+title:  "W. Thomson"
 heading:  "Chapter 8b"
 weight: 72
 contributors: ['Whittaker']
 image:  "/covers/history.jpg"
-description: ""
+description: "Thomson had compared electric force to the displacement in an elastic solid"
 ---
 
 

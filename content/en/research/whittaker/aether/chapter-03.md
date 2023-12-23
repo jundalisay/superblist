@@ -29,11 +29,14 @@ One day in the latter part of the year 1780 he had, as he tells us,[2] “dissec
 
 So I, too, touched one or other of the crural nerves with the point of the scalpel, at the same time that one of those present drew a spark; and the same phenomenon was repeated exactly as before."[3]
 
-After this, Galvani conceived the idea of trying whether the electricity of thunderstorms would induce muscular contractions equally well with the electricity of the machine. Having successfully experimented with lightning, he “wished," as he writes,[4] “to try the effect of atmospheric electricity in calm weather. 
+After this, Galvani conceived the idea of trying whether the electricity of thunderstorms would induce muscular contractions equally well with the electricity of the machine. 
 
+Having successfully experimented with lightning, he wished[4] “to try the effect of atmospheric electricity in calm weather.
+
+{{< q a="Galvani" >}}
 My reason for this was an observation I had made, that frogs which had been suitably prepared for these experiments and fastened, by brass hooks in the spinal marrow, to the iron lattice round a certain hanging-garden at my house, exhibited convulsions not only during thunderstorms, but sometimes even when the sky was quite serene. 
 
-I suspected these effects to be due to the changes which take place during the day in the electric state of the atmosphere, and so, with some degree of confidence, I performed experiments to test the point; and at different hours for many days I watched frogs: which I had disposed for the purpose; but could not detect any motion in their muscles. 
+I suspected these effects to be due to the changes which take place during the day in the electric state of the atmosphere. I performed experiments to test the point; and at different hours for many days I watched frogs: which I had disposed for the purpose; but could not detect any motion in their muscles. 
 
 At length, weary of waiting in vain, I pressed the brass hooks, which were driven into the spinal marrow, against the iron lattice, in order to sec whether contractions could be excited by varying the incidental circumstances of the experiment. 
 
@@ -48,6 +51,8 @@ After this I tried various bodies which are not conductors of electricity, such 
 This suspicion was strengthened by the observation that a kind of circuit of subtle nervous fluid (resembling the electric circuit which is manifested in the Leyden jar experiment) is completed from the nerves to the muscles when the contractions are produced.
 
 "For, while I with one hand held the prepared frog by the hook fixed in its spinal marrow, so that it stood with its feet on a silver box, and with the other hand touched the lid of the box, or its sides, with any metallic body, I was surprised to see the frog become strongly convulsed every time that I applied this artifice."[5]
+{{< /q >}}
+
 
 Galvani thus ascertained that the limbs of the frog are convulsed whenever a connexion is made between the nerves and muscles by a metallic arc, generally formed of more than one kind of metal. 
 

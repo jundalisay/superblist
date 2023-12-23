@@ -1,10 +1,10 @@
 ---
-title:  "Lord Kelvin theory"
+title:  "Stoke's Test"
 heading:  "Chapter 5f"
 weight: 46
 contributors: ['Whittaker']
 image:  "/covers/history.jpg"
-description: "Lord Kelvin suggested that the aether may pervade the atoms of matter so as to occupy space jointly with them. Its interaction with them may consist in attractions and repulsions exercised throughout the regions interior to the atoms."
+description: "Around 1867, Stokes did a series of experiments to determine which of the two theories was most nearly conformable to facts"
 ---
 
 
@@ -23,6 +23,7 @@ where e denotes the displacement, n the rigidity, and (ρ1, ρ2, ρ3) the inerti
 The displacement e of the aethereal particles is not, however, accurately in the wave-front, as in Fresnel's theory, but is at right angles to the direction of the ray, in the plane passing through the ray and the wave-normal.[60]
 
 Having now traced the progress of the elastic-solid theory so far as it is concerned with the propagation of light in ordinary isotropic media and in crystals, we must consider the attempts which were made about this time to account for the optical properties of a more peculiar class of substances.
+
 
 In 1811[61], Arago found that the state of polarization of a beam of light is altered when the beam is passed through a plate of quartz along the optic axis. 
 

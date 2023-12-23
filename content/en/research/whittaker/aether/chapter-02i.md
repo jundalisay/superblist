@@ -32,7 +32,9 @@ For example, a well-known proposition of the theory of Attractions asserts that 
 
 It may thence be inferred that, if an electrified metallic conductor has the form of an ellipsoid, the charge will be distributed on it proportionally to the normal distance from the surface to an adjacent similar and similarly situated ellipsoid.
 
-Poisson went on to show that this result was by no means all that might with advantage be borrowed from the theory of + Attractions. Lagrange, in a memoir on the motion of gravitating bodies, had shown[77] that the components of the attractive force at any point can be simply expressed as the derivates of the function which is obtained by adding together the masses of all the particles of an attracting system, each divided by its distance from the point; and Laplace had shown[78] that this function V satisfies the equation
+Poisson went on to show that this result was by no means all that might with advantage be borrowed from the theory of + Attractions. 
+
+Lagrange, in a memoir on the motion of gravitating bodies, had shown[77] that the components of the attractive force at any point can be simply expressed as the derivates of the function which is obtained by adding together the masses of all the particles of an attracting system, each divided by its distance from the point; and Laplace had shown[78] that this function V satisfies the equation
 
 
 in space free from attracting matter. Poisson himself showed later, in 1813,[79] that when the point (x, y, z) is within the substance of the attracting body, this equation of Laplace must be replaced by

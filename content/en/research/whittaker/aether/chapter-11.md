@@ -4,7 +4,7 @@ heading:  "Chapter 11"
 weight: 102
 contributors: ['Whittaker']
 image:  "/covers/history.jpg"
-description: ""
+description: "Faraday made some experiments on this in 1835"
 ---
 
 

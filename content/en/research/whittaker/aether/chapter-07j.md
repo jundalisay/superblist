@@ -1,10 +1,10 @@
 ---
-title:  "Weber's Thepry"
+title:  "The Peltier Effect"
 heading:  "Chapter 7b"
 weight: 69
 contributors: ['Whittaker']
 image:  "/covers/history.jpg"
-description: ""
+description: "This Peltier effect, as it is called, is quite distinct from the ordinary Joulian liberation of heat"
 ---
 
 

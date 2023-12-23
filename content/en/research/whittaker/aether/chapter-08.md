@@ -4,7 +4,7 @@ heading:  "Chapter 8"
 weight: 70
 contributors: ['Whittaker']
 image:  "/covers/history.jpg"
-description: ""
+description: "James Clerk Maxwell, another young Cambridge man, was inspired to take up the matter a few years later"
 ---
 
 

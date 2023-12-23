@@ -4,8 +4,9 @@ heading:  "Chapter 8c"
 weight: 73
 contributors: ['Whittaker']
 image:  "/covers/history.jpg"
-description: ""
+description: "Maxwell taught that the dielectric between the coatings is the seat of a process"
 ---
+
 
 
 It was inevitable that a theory so novel and so capacious as that of Maxwell should involve conceptions which his contemporaries understood with difficulty and accepted with reluctance.

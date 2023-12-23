@@ -1,10 +1,10 @@
 ---
-title:  "FitzGerald's system"
-heading:  "Chapter 10b"
+title:  "John Henry Poynting"
+heading:  "Chapter 10c"
 weight: 94
 contributors: ['Whittaker']
 image:  "/covers/history.jpg"
-description: ""
+description: "John Henry Poynting discovered in 1884 a general theorem on the transfer of energy in the electromagnetic field"
 ---
 
 
