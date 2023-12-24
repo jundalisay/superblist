@@ -1,10 +1,10 @@
 ---
 heading: "Chapter 6"
-title: "The Nature of Feelings"
+title: "The Nature of Feelings and Emotions"
 date: 2020-12-15
 weight: 19
-image: /photos/psych/freedom.jpg
-description: "Active sensing is the foundation of critical thinking (as intellect), as well as critical feeling (as kindness and fellow-feeling)"
+image: /graphics/psych/feeling.jpg
+description: "Desire is a fundamental kind of feeling which we sense through our hearts"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -36,6 +36,24 @@ However, feelings cannot be universally represented by objects. For example, the
 We can say that feelings are primarily metaphysical. Thus:
 - the intellect is our built-in sensor for the physical domain 
 - the heart is our built-in sensor for the metaphysical domain
+
+
+## Feelings Versus Emotions
+
+The word "feeling" comes from the Old English "felan" which means "to touch or have a sensory experience of something". Since feelings are aethereal waves (Chapter 3), then feelings are waves going inwards to the mind. 
+
+Latin word "emovere" which is a combination of "e-" (variant of ex- ) meaning "out" and "movere", meaning "move". This implies an outward movement or expression. 
+
+We can think of emotions as feelings that have been processed by the perceiver according to his gravitational signature. Emotions are therefore subjectivized feelings just as knowledge is subjectified information and thoughts. 
+
+
+{{< img src="/graphics/psych/feelings.jpg" alt="Feelings into Emotion" cap="Feelings turn into personal emotion due to one's gravitational signature" >}}
+
+Emotions are more commonly seen in the items that we personalize, such as our clothes, computer desktop, office workspace, bedroom, personal vehicles, etc. These customizations express our gravitational signature to the outside world and validates our living existence. 
+
+
+{{< img src="/graphics/psych/feelings2.jpg" alt="Feelings into Emotion for Rocks and Water" cap="Feelings are expressed by non living objects in very limited ways. A rock shows its emotions on perceiving heat by turning more red, while water shows it by turning into steam" >}}
+
 
 Chapter 2 explained that the metapyhsical domain is superior to the physical domain. Therefore the heart is superior to the brain. 
 - This is proven by successful people having more (metaphysical) grit than people who had high grades in school. 
