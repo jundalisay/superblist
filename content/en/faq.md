@@ -292,7 +292,7 @@ Some people get filthy rich but lose their morals, :frowning: while others are s
 
 Spiritual people, on the other hand, give donations and service, often unsustainably while creating a culture of dependence and poverty. 
 
-Superphysics advocates a balance or a middle path.<!--  just like Buddhism advocates a middle path -->. 
+Superphysics advocates a balance or a middle path.<!--  just like Buddhism advocates a middle path -->
 {{< /l >}}
 
 {{< r a="Asker" >}}
