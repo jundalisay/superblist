@@ -3,7 +3,7 @@ heading: "Chapter 6"
 title: "The Nature of Feelings and Emotions"
 date: 2020-12-15
 weight: 19
-image: /graphics/psych/feeling.jpg
+image: /graphics/psych/feelings.jpg
 description: "Desire is a fundamental kind of feeling which we sense through our hearts"
 writer:
   name: Juan
@@ -52,6 +52,9 @@ We can think of emotions as feelings that have been processed by the perceiver a
 Emotions are more commonly seen in the items that we personalize, such as our clothes, computer desktop, office workspace, bedroom, personal vehicles, etc. These customizations express our gravitational signature to the outside world and validates our living existence. 
 
 
+Feelings pervade existence and are also 'felt' by non-living things, such as rocks and ice. A rock might turn redder when it meets a high amount of heat, while ice might melt and evaporate. We can say that the red color and the evaporation are the expressed emotions of the rock and ice, respectively. This will be explained more in Chapter 7.    
+
+
 {{< img src="/graphics/psych/feelings2.jpg" alt="Feelings into Emotion for Rocks and Water" cap="Feelings are expressed by non living objects in very limited ways. A rock shows its emotions on perceiving heat by turning more red, while water shows it by turning into steam" >}}
 
 
@@ -59,13 +62,16 @@ Chapter 2 explained that the metapyhsical domain is superior to the physical dom
 - This is proven by successful people having more (metaphysical) grit than people who had high grades in school. 
 - World leaders, such as Donald Trump and Kim Jong Un, are known for grit but not for intellect. 
 
-The intellect is just the connection of ideas. But it is the feelings that powers the desire, not only to connect ideas, but to expand the scope fo the intellect.  
+The intellect is just the connection of ideas. But it is the feelings that powers the desire, not only to connect ideas, but to expand the scope of the intellect.  
+
+Superphysics asserts that while non-living things do not show intellect, they do show emotion by the way they react to physical phenomena. Unlike living beings that use the heart to process emotions, non-living things use the Radiant Layer directly, as ELectromagnetism. THe most obvious feelings that non-living things react to are those of heat and cold. 
+
 
 
 
 ## Superphysics Closes the Gap Between Intellect and Feelings
 
-Our hearts leads us to errors because the Western educational system, spread globally through colonization, has focused on brain development and not on heart development.  This leads to:
+Human hearts lead us to errors because the Western educational system, spread globally through colonization, has focused on brain development and not on heart development. This leads to:
 - physicists using their intellect to create nuclear weapons
 - the recommendations of intelligent climate scientists being ignored
 - mathematicians using their intellect to game the stock market
