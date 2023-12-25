@@ -284,7 +284,7 @@ What does the Superphysics symbol mean?
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-The blue triangle represents the metapyhsical domain. The green triangle represents the physical domain. These go in opposite directions.
+The blue triangle represents the metaphysical domain. The green triangle represents the physical domain. These go in opposite directions.
 
 The yellow center is perception which balances both domains. :sunny:
 
@@ -316,7 +316,7 @@ Yes. This is now known as 'scientism' propagated by materialists.
 
 For example, alternative medicines that don't pass clinical trials are not classified as medicine even if they cure 10% of people but not all. Instead of canceling them as inconclusive, Bio Superphysics groups those 10% people into a **specific personality type** which is cured 100% by that alternative medicine. 
 
-Imagine talking to cavemen about the possibility of creating a agriculture, radio, antibiotics, and representative-goverments to improve their lives. Yet those very cavemen that you want to help laugh and call you crazy and force you to cancel research and go back to hunting deer like all other cavemen.
+Imagine talking to cavemen about the possibility of creating agriculture, radio, antibiotics, and representative-goverments to improve their lives. Yet those very cavemen laugh and call you crazy. They force you to cancel research and go back to hunting deer like all other cavemen.
 {{< /l >}}
 
 

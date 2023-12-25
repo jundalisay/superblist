@@ -4,46 +4,76 @@ weight: 6
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-image: "/covers/meno.png"
+image: "/covers/meno.jpg"
 description: "Cephalus, Adeimantus, Glaucon, Antiphon, Pythodorus, Socrates, Zeno, Parmenides, Aristoteles"
 icon: "/icons/socrates.png"
 ---
 
 
+{{< l a="Socrates" >}}
+A shape is the only thing which always follows colour.
 
-SOCRATES: Well, I will try and explain to you what figure is. What do you say to this answer?—Figure is the only thing which always follows colour. Will you be satisfied with it, as I am sure that I should be, if you would let me have a similar definition of virtue?
+I have a similar definition of virtue.
+{{< /l >}}
 
-MENO: But, Socrates, it is such a simple answer.
 
-SOCRATES: Why simple?
+{{< r a="Meno" >}}
+But, Socrates, it is such a simple answer.
 
-MENO: Because, according to you, figure is that which always follows colour.
+If shape always follows colour, then how would we answer a person who did not know colour?
+{{< /r >}}
 
-(SOCRATES: Granted.)
 
-MENO: But if a person were to say that he does not know what colour is, any more than what figure is—what sort of answer would you have given him?
+{{< l a="Socrates" >}}
+<!-- SOCRATES: I should have told him the truth. And if he were a philosopher of the eristic and antagonistic sort, I should say to him: You have my answer, and if I am wrong, your business is to take up the argument and refute me. But if we were friends, and were talking as you and I are now, I should reply in a milder strain and more in the  -->
 
-SOCRATES: I should have told him the truth. And if he were a philosopher of the eristic and antagonistic sort, I should say to him: You have my answer, and if I am wrong, your business is to take up the argument and refute me. But if we were friends, and were talking as you and I are now, I should reply in a milder strain and more in the dialectician's vein; that is to say, I should not only speak the truth, but I should make use of premises which the person interrogated would be willing to admit. And this is the way in which I shall endeavour to approach you. You will acknowledge, will you not, that there is such a thing as an end, or termination, or extremity?—all which words I use in the same sense, although I am aware that Prodicus might draw distinctions about them: but still you, I am sure, would speak of a thing as ended or terminated—that is all which I am saying—not anything very difficult.
+A dialectician would answer to speak the truth and use premises which the person interrogated would admit.
+
+There is such a thing as an end, or termination, or extremity?
+
+All these words I use in the same sense, although I am aware that Prodicus might draw distinctions about them: but still you, I am sure, would speak of a thing as ended or terminated—that is all which I am saying—not anything very difficult.
+{{< /l >}}
+
+
 
 MENO: Yes, I should; and I believe that I understand your meaning.
 
-SOCRATES: And you would speak of a surface and also of a solid, as for example in geometry.
+
+{{< l a="Socrates" >}}
+You would speak of a surface and also of a solid, as for example in geometry.
+{{< /l >}}
+
 
 MENO: Yes.
 
-SOCRATES: Well then, you are now in a condition to understand my definition of figure. I define figure to be that in which the solid ends; or, more concisely, the limit of solid.
+
+{{< l a="Socrates" >}}
+You are now in a condition to understand my definition of figure. I define figure to be that in which the solid ends; or, more concisely, the limit of solid.
+{{< /l >}}
+
 
 MENO: And now, Socrates, what is colour?
 
-SOCRATES: You are outrageous, Meno, in thus plaguing a poor old man to give you an answer, when you will not take the trouble of remembering what is Gorgias' definition of virtue.
+
+{{< l a="Socrates" >}}
+You are outrageous, Meno, in thus plaguing a poor old man to give you an answer, when you will not take the trouble of remembering what is Gorgias' definition of virtue.
+{{< /l >}}
+
 
 MENO: When you have told me what I ask, I will tell you, Socrates.
 
-SOCRATES: A man who was blindfolded has only to hear you talking, and he would know that you are a fair creature and have still many lovers.
+{{< l a="Socrates" >}}
+A man who was blindfolded has only to hear you talking, and he would know that you are a fair creature and have still many lovers.
+{{< /l >}}
+
 
 MENO: Why do you think so?
 
-SOCRATES: Why, because you always speak in imperatives: like all beauties when they are in their prime, you are tyrannical; and also, as I suspect, you have found out that I have weakness for the fair, and therefore to humour you I must answer.
+
+{{< l a="Socrates" >}}
+Why, because you always speak in imperatives: like all beauties when they are in their prime, you are tyrannical; and also, as I suspect, you have found out that I have weakness for the fair, and therefore to humour you I must answer.
+{{< /l >}}
+
 
 MENO: Please do.
 

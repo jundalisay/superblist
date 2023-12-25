@@ -4,13 +4,16 @@ weight: 10
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-image: "/covers/meno.png"
+image: "/covers/meno.jpg"
 description: "Cephalus, Adeimantus, Glaucon, Antiphon, Pythodorus, Socrates, Zeno, Parmenides, Aristoteles"
 icon: "/icons/socrates.png"
 ---
 
 
-SOCRATES: But if there are three feet this way and three feet that way, the whole space will be three times three feet?
+{{< l a="Socrates" >}}
+But if there are three feet this way and three feet that way, the whole space will be three times three feet?
+{{< /l >}}
+
 
 BOY: That is evident.
 
@@ -30,7 +33,11 @@ SOCRATES: But from what line?—tell me exactly; and if you would rather not rec
 
 BOY: Indeed, Socrates, I do not know.
 
-SOCRATES: Do you see, Meno, what advances he has made in his power of recollection? He did not know at first, and he does not know now, what is the side of a figure of eight feet: but then he thought that he knew, and answered confidently as if he knew, and had no difficulty; now he has a difficulty, and neither knows nor fancies that he knows.
+
+{{< l a="Socrates" >}}
+Do you see, Meno, what advances he has made in his power of recollection? He did not know at first, and he does not know now, what is the side of a figure of eight feet: but then he thought that he knew, and answered confidently as if he knew, and had no difficulty; now he has a difficulty, and neither knows nor fancies that he knows.
+{{< /l >}}
+
 
 MENO: True.
 
@@ -42,19 +49,35 @@ SOCRATES: If we have made him doubt, and given him the 'torpedo's shock,' have w
 
 MENO: I think not.
 
-SOCRATES: We have certainly, as would seem, assisted him in some degree to the discovery of the truth; and now he will wish to remedy his ignorance, but then he would have been ready to tell all the world again and again that the double space should have a double side.
+
+{{< l a="Socrates" >}}
+We have certainly, as would seem, assisted him in some degree to the discovery of the truth; and now he will wish to remedy his ignorance, but then he would have been ready to tell all the world again and again that the double space should have a double side.
+{{< /l >}}
+
 
 MENO: True.
 
-SOCRATES: But do you suppose that he would ever have enquired into or learned what he fancied that he knew, though he was really ignorant of it, until he had fallen into perplexity under the idea that he did not know, and had desired to know?
+
+{{< l a="Socrates" >}}
+But do you suppose that he would ever have enquired into or learned what he fancied that he knew, though he was really ignorant of it, until he had fallen into perplexity under the idea that he did not know, and had desired to know?
+{{< /l >}}
+
 
 MENO: I think not, Socrates.
 
-SOCRATES: Then he was the better for the torpedo's touch?
+
+{{< l a="Socrates" >}}
+Then he was the better for the torpedo's touch?
+{{< /l >}}
+
 
 MENO: I think so.
 
-SOCRATES: Mark now the farther development. I shall only ask him, and not teach him, and he shall share the enquiry with me: and do you watch and see if you find me telling or explaining anything to him, instead of eliciting his opinion. Tell me, boy, is not this a square of four feet which I have drawn?
+
+{{< l a="Socrates" >}}
+Mark now the farther development. I shall only ask him, and not teach him, and he shall share the enquiry with me: and do you watch and see if you find me telling or explaining anything to him, instead of eliciting his opinion. Tell me, boy, is not this a square of four feet which I have drawn?
+{{< /l >}}
+
 
 BOY: Yes.
 
@@ -158,7 +181,13 @@ SOCRATES: And this knowledge which he now has must he not either have acquired o
 
 MENO: Yes.
 
-SOCRATES: But if he always possessed this knowledge he would always have known; or if he has acquired the knowledge he could not have acquired it in this life, unless he has been taught geometry; for he may be made to do the same with all geometry and every other branch of knowledge. Now, has any one ever taught him all this? You must know about him, if, as you say, he was born and bred in your house.
+
+{{< l a="Socrates" >}}
+But if he always possessed this knowledge he would always have known; or if he has acquired the knowledge he could not have acquired it in this life, unless he has been taught geometry;
+
+He may be made to do the same with all geometry and every other branch of knowledge. Now, has any one ever taught him all this? You must know about him, if, as you say, he was born and bred in your house.
+{{< /l >}}
+
 
 MENO: And I am certain that no one ever did teach him.
 
@@ -174,15 +203,27 @@ SOCRATES: Which must have been the time when he was not a man?
 
 MENO: Yes.
 
-SOCRATES: And if there have been always true thoughts in him, both at the time when he was and was not a man, which only need to be awakened into knowledge by putting questions to him, his soul must have always possessed this knowledge, for he always either was or was not a man?
+
+{{< l a="Socrates" >}}
+If there have been always true thoughts in him, both at the time when he was and was not a man, which only need to be awakened into knowledge by putting questions to him, his soul must have always possessed this knowledge, for he always either was or was not a man?
+{{< /l >}}
+
 
 MENO: Obviously.
 
-SOCRATES: And if the truth of all things always existed in the soul, then the soul is immortal. Wherefore be of good cheer, and try to recollect what you do not know, or rather what you do not remember.
+
+{{< l a="Socrates" >}}
+If the truth of all things always existed in the soul, then the soul is immortal. Wherefore be of good cheer, and try to recollect what you do not know, or rather what you do not remember.
+{{< /l >}}
+
 
 MENO: I feel, somehow, that I like what you are saying.
 
-SOCRATES: And I, Meno, like what I am saying. Some things I have said of which I am not altogether confident. But that we shall be better and braver and less helpless if we think that we ought to enquire, than we should have been if we indulged in the idle fancy that there was no knowing and no use in seeking to know what we do not know;—that is a theme upon which I am ready to fight, in word and deed, to the utmost of my power.
+
+{{< l a="Socrates" >}}
+I, Meno, like what I am saying. Some things I have said of which I am not altogether confident. But that we shall be better and braver and less helpless if we think that we ought to enquire, than we should have been if we indulged in the idle fancy that there was no knowing and no use in seeking to know what we do not know;—that is a theme upon which I am ready to fight, in word and deed, to the utmost of my power.
+{{< /l >}}
+
 
 MENO: There again, Socrates, your words seem to me excellent.
 
