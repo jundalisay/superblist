@@ -3,8 +3,10 @@ title: "Introduction"
 heading: Part 1
 description: "We must seek the causes of the harmonic proportions in the divisions of a circle into equal aliquot parts, which are made geometrically"
 image: /covers/harmony.jpg
-weight: 2
-contributors: ['Kepler']
+weight: 3
+writer:
+  name: Johannes Kepler
+  url: https://en.wikipedia.org/wiki/Johannes_Kepler
 icon: /avatars/kepler.png
 ---
 

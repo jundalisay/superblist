@@ -1,7 +1,10 @@
 ---
+linkTitle: Alternate Currents
 title: "Experiments with Alternate Currents of High Potential and High Frequency"
 description: "Experiments with Alternate Currents of High Potential and High Frequency"
-author: Nikola Tesla
+writer:
+  name: Nikola Tesla
+  url: https://en.wikipedia.org/wiki/Nikola_Tesla
 image: "/covers/tesla.jpg"
 weight: 4
 ---
@@ -28,13 +31,20 @@ Mr. Tesla's native place was Smiljan, Lika, where his father was an eloquent cle
 
 His mother enjoyed great fame throughout the countryside for her skill and originality in needlework, and doubtless transmitted her ingenuity to Nikola; though it naturally took another and more masculine direction.
 
-The boy was early put to his books, and upon his father's removal to Gospic he spent four years in the public school, and later, three years in the Real School, as it is called. His escapades were such as most quick witted boys go through, although he varied the programme on one occasion by getting imprisoned in a remote mountain chapel rarely visited for service; and on another occasion by falling headlong into a huge kettle of boiling milk, just drawn from the paternal herds. A third curious episode was that connected with his efforts to fly when, attempting to navigate the air with the aid of an old umbrella, he had, as might be expected, a very bad fall, and was laid up for six weeks.
+The boy was early put to his books, and upon his father's removal to Gospic he spent four years in the public school, and later, three years in the Real School, as it is called. 
+
+His escapades were such as most quick witted boys go through, although he varied the programme on one occasion by getting imprisoned in a remote mountain chapel rarely visited for service; and on another occasion by falling headlong into a huge kettle of boiling milk, just drawn from the paternal herds. 
+
+A third curious episode was that connected with his efforts to fly when, attempting to navigate the air with the aid of an old umbrella, he had, as might be expected, a very bad fall, and was laid up for six weeks.
 
 About this period he began to take delight in arithmetic and physics. One queer notion he had was to work out everything by 3 or the power of 3. He was now sent to an aunt at Cartstatt, Croatia, to finish his studies in what is known as the Higher Real School. 
 
 It was there that, coming from the rural fastnesses, he saw a steam engine for the first time with a pleasure that he remembers to this day. 
 
-At Cartstatt he was so diligent as to compress the four years' course into three, and graduated in 1873. Returning home during an epidemic of cholera, he was stricken down by the disease and suffered so seriously from the consequences that his studies were interrupted for fully two years. But the time was not wasted, for he had become passionately fond of experimenting, and as much as his means and leisure permitted devoted his energies to electrical study and investigation.
+At Cartstatt he was so diligent as to compress the four years' course into three, and graduated in 1873. Returning home during an epidemic of cholera, he was stricken down by the disease and suffered so seriously from the consequences that his studies were interrupted for fully two years. 
+
+
+But the time was not wasted, for he had become passionately fond of experimenting, and as much as his means and leisure permitted devoted his energies to electrical study and investigation.
 
 Up to this period it had been his father's intention to make a priest of him, and the idea hung over the young physicist like a very sword of Damocles. Finally he prevailed upon his worthy but reluctant sire to send him to Gratz in Austria to finish his studies at the Polytechnic School, and to prepare for work as professor of mathematics and physics. At Gratz he saw and operated a Gramme machine for the first time, and was so struck with the objections to the use of commutators and brushes that he made up his mind there and then to remedy that defect in dynamo-electric machines. In the second year of his course he abandoned the intention of becoming a teacher and took up the engineering curriculum. After three years of absence he returned home, sadly, to see his father die; but, having resolved to settle down in Austria, and recognizing the value of linguistic acquirements, he went to Prague and then to Buda-Pesth with the view of mastering the languages he deemed necessary. Up to this time he had never realized the enormous sacrifices that his parents had made in promoting his education, but he now began to feel the pinch and to grow unfamiliar with the image of Francis Joseph I. There was considerable lag between his dispatches and the corresponding remittance from home; and when the mathematical expression for the value of the lag assumed the shape of an eight laid flat on its back, Mr. Tesla became a very fair example of high thinking and plain living, but he made up his mind to the struggle and determined to go through depending solely on his own resources. Not desiring the fame of a faster, he cast about for a livelihood, and through the help of friends he secured a berth as assistant in the engineering department of the government telegraphs. The salary was five dollars a week. This brought him into direct contact with practical electrical work and ideas, but it is needless to say that his means did not admit of much experimenting. By the time he had extracted several hundred thousand square and cube roots for the public benefit, the limitations, financial and otherwise, of the position had become painfully apparent, and he concluded that the best thing to do was to make a valuable invention. He proceeded at once to make inventions, but their value was visible only to the eye of faith, and they brought no grist to the mill. Just at this time the telephone made its appearance in Hungary, and the success of that great invention determined his career, hopeless as the profession had thus far seemed to him. He associated himself at once with telephonic work, and made various telephonic inventions, including an operative repeater; but it did not take him long to discover that, being so remote from the scenes of electrical activity, he was apt to spend time on aims and results already reached by others, and to lose touch. Longing for new opportunities and anxious for the development of which he felt himself possible, if once he could place himself within the genial and direct influences of the gulf streams of electrical thought, he broke away from the ties and traditions of the past, and in 1881 made his way to Paris. 
 

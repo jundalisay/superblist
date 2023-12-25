@@ -4,9 +4,8 @@ heading:  "Chapter 5b"
 weight: 38
 contributors: ['Whittaker']
 image:  "/covers/history.jpg"
-description: "The case of a vibration performed in the plane of incidence he discussed in the same way. It was found that Fresnel's tangent-law could be obtained by assuming that ex and the normal pressure across the interface have equal values in the two contiguous media."
+description: "A further objection to Cauchy's theories is that the relations between the constants do not have a simple physical interpretation"
 ---
-
 
 
 A further objection to Cauchy's theories is that the relations between the constants do not appear to admit of any simple physical interpretation, being evidently assumed for the sole purpose of forcing the formulae into some degree of conformity with the results of experiment. 

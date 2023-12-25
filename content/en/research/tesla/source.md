@@ -1,7 +1,9 @@
 ---
 title:  The Eternal Source of Energy of the Universe, Origin and Intensity of Cosmic Rays
 weight: 100
-contributors: ['Tesla']
+writer:
+  name: Nikola Tesla
+  url: https://en.wikipedia.org/wiki/Nikola_Tesla
 image:  "/photos/physics/quasar.jpg"
 description: "In the past, I considered the production of electricity by burning coal in a battery as the greatest achievement toward the advancing civilization"
 ---

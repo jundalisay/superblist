@@ -19,7 +19,9 @@ so that the longitudinal vibrations have zero velocity; and showed that if the a
 
 , where the axis of x is taken at right angles to the interface.[33] These are not the true boundary-conditions for general elastic solids; but in the particular case now under discussion, where the rigidity is the same in the two media, they yield the same equations as the conditions correctly given by Green.
 
-The aether of Cauchy's third theory of reflexion is well worthy of some further study. It is generally known as the contractile or labile[34] aether, the names being due to William Thomson (Lord Kelvin), who discussed it long afterwards.[35] It may be defined as an elastic medium of (negative) compressibility such as to make the velocity of the longitudinal wave zero: this implies that no work is required to be done in order to give the medium any small irrotational disturbance. An example is furnished by homogeneous foam free from air and held from collapse by adhesion to a containing vessel.
+The aether of Cauchy's third theory of reflexion is well worthy of some further study. 
+
+It is generally known as the contractile or labile[34] aether, the names being due to William Thomson (Lord Kelvin), who discussed it long afterwards.[35] It may be defined as an elastic medium of (negative) compressibility such as to make the velocity of the longitudinal wave zero: this implies that no work is required to be done in order to give the medium any small irrotational disturbance. An example is furnished by homogeneous foam free from air and held from collapse by adhesion to a containing vessel.
 
 Cauchy, as we have seen, did not attempt to refute Green's objection that such a medium would be unstable; but, as Thomson remarked, every possible infinitesimal motion of the medium is, in the elementary dynamics of the subject, proved to be resolvable into coexistent wave-motions. 
 
@@ -101,4 +103,3 @@ where q denotes its modulus of rigidity when unstrained, and α
 
 2
 , denote the proportions in which lines parallel to the axes of strain are altered; then if the solid be initially strained in a way defined by given values of α, β, γ, by forces applied to its surface, and if waves of distortion be superposed on this initial strain, the transmission of these waves will follow exactly the laws of Fresnel's theory of crystal-optics, the wave-surface being
-

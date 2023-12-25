@@ -4,7 +4,7 @@ heading:  "Chapter 10f"
 weight: 100
 contributors: ['Whittaker']
 image:  "/covers/history.jpg"
-description: ""
+description: "Hertz, after presenting the general content of Maxwell's theory for bodies at rest, proceeded to extend the equations"
 ---
 
 

@@ -1,3 +1,14 @@
+---
+title:  "Sir William Crookes"
+heading:  "Chapter 11c"
+weight: 105
+contributors: ['Whittaker']
+image:  "/covers/history.jpg"
+description: "The properties of highly rarefied gases were investigated by Sir William Crookes"
+---
+
+
+
 The advances which were effected in the last quarter of the 19th century in regard to the conduction of electricity through liquids, considerable though these advances were, may be regarded as the natural development of a theory which had long been before the world. 
 
 It was otherwise with the kindred problem of the conduction of electricity through gases: for although many generations of philosophers had studied the remarkable effects which are presented by the passage of a current through a rarefied gas, it was not until recent times that a satisfactory theory of the phenomena was discovered.
@@ -6,13 +17,17 @@ Some of the electricians of the earlier part of the eighteenth century performed
 
 But the first investigator of the continuous discharge through a rarefied gas seems to have been Watson,[36] who, by means of an electrical machine, sent a current through an exhausted glass tube three feet long and three inches in diameter. 
 
-He wrote: "It was a most delightful spectacle, when the room was darkened, to see the electricity in its passage; to be able to observe not, as in the open air, its brushes or pencils of rays an inch or two in length, but here the coruscations were of the whole length of the tube between the plates, 32 inches." 
+He wrote: 
+
+"It was a most delightful spectacle, when the room was darkened, to see the electricity in its passage; to be able to observe not, as in the open air, its brushes or pencils of rays an inch or two in length, but here the coruscations were of the whole length of the tube between the plates, 32 inches." 
 
 Its appearance he described as being on different occasions "of a bright silver hue," "resembling very much the most lively coruscations of the aurora borealis," and "forming a continued arch of lambent fame." 
 
 His theoretical explanation was that the electricity "is seen, without any preternatural force, pushing itself on through the vacuum by its own elasticity, in order to maintain the equilibrium in the machine"—a conception which follows naturally from the combination of Watson's one-fluid theory with the prevalent doctrine of electrical atmospheres.[37]
 
-A different explanation was put forward by Nollet, who performed electrical experiments in rarefied air at about the same time as Watson,[38] and saw in them a striking confirmation of his own hypothesis of efflux and afflux of electric matter.[39] According to Nollet, the particles of the effluent stream collide with those of the aflluent stream which is moving in the opposite direction; and being thus violently shaken, are excited to the point of emitting light.
+A different explanation was put forward by Nollet, who performed electrical experiments in rarefied air at about the same time as Watson,[38] and saw in them a striking confirmation of his own hypothesis of efflux and afflux of electric matter.[39] 
+
+According to Nollet, the particles of the effluent stream collide with those of the aflluent stream which is moving in the opposite direction; and being thus violently shaken, are excited to the point of emitting light.
 
 Almost a century elapsed before anything more was discovered regarding the discharge in vacuous spaces. 
 
@@ -24,7 +39,9 @@ But phenomena of this class are in general much more complex than might be suppo
 
 "The results connected with the different conditions of positive and negative discharge," he wrote,[42] "will have a far greater influence on the philosophy of electrical science than we at present imagine."
 
-Twenty more years, however, passed before another notable advance was made. That a subject so full of promise should progress so slowly may appear strange; but one reason at any rate is to be found in the incapacity of the air-pumps then in use to rarefy gases to the degree required for effective study of the negative glow. The invention of Geissler's mercurial air-pump in 1855 did much to remove this difficulty; and it was in Geissler's exhausted tubes that Julius Plücker,[43] of Bonn, studied the discharge three years later.
+Twenty more years, however, passed before another notable advance was made. That a subject so full of promise should progress so slowly may appear strange; but one reason at any rate is to be found in the incapacity of the air-pumps then in use to rarefy gases to the degree required for effective study of the negative glow. 
+
+The invention of Geissler's mercurial air-pump in 1855 did much to remove this difficulty; and it was in Geissler's exhausted tubes that Julius Plücker,[43] of Bonn, studied the discharge three years later.
 
 It had been shown by Sir Humphrey Davy in 1821[44] that one form of electric discharge—namely, the arc between carbon poles—is deflected when a magnet is brought near to it.
 

@@ -28,9 +28,10 @@ Zeeman's effect represents the influence of al external magnetic field on the fr
 where m denotes the mass and e the charge of the electron, r its distance from the centre of force, κ2r the restitutive force, E and H the electric and magnetic forces. When the electron performs forced oscillations under the influence of light of frequency n, this equation becomes
 
 
-The influence of the magnetic force on the motion of the electron is small compared with the influence of the electric force, i.e. the second term on the right is small compared with the first term; so in the second term we may replace r by its ​value as found from the first term, namely, eE/(κ2 – mn2). The equation thus becomes
+The influence of the magnetic force on the motion of the electron is small compared with the influence of the electric force, i.e. the second term on the right is small compared with the first term; so in the second term we may replace r by its value as found from the first term, namely, eE/(κ2 – mn2). The equation thus becomes
 
-If P denote[97] the electric moment per unit volume, we have
+If P denote the electric moment per unit volume, we have:
+
 
 P = er × the number of such systems in unit volume of the medium;
 
@@ -87,12 +88,17 @@ It was remarked in 1888 by J. J. Thomson,[106] who must be regarded as the found
 
 Thomson, therefore, proposed to regard the current in metals as a series of intermittent discharges, caused by the rearrangement of the constituents of molecular systems—a conception similar to that by which Grothuss[107] had pictured conduction in electrolytes. This view would, as he showed, lead to a general explanation of the connexion between thermal and electrical conductivities,
 
-Most of the later writers on metallic conduction have preferred to take the hypothesis of Arrhenius[108] rather than that of Grothuss as a pattern; and have therefore supposed the interstices between the molecules of the metal to be at all times swarming with electric charges in rapid motion. 11: 1898 E. Riecke[109] effected an important advance by examining the consequences of the assumption that the average velocity of this random motion of the charges is nearly proportional to the square root of the absolute temperature T. P. Drude[110] in 1900 replaced this by the more definite assumption that the kinetic energy of each moving charge is equal to the average kinetic energy of a molecule of a perfect gas at the same temperature, and may therefore be expressed in the form qT, where q denotes a universal constant.
+Most of the later writers on metallic conduction have preferred to take the hypothesis of Arrhenius[108] rather than that of Grothuss as a pattern; and have therefore supposed the interstices between the molecules of the metal to be at all times swarming with electric charges in rapid motion. 
 
-In the same year J. J. Thomson[111] remarked that it would accord with the conclusions drawn from the study of ionization in gases to suppose that the vitreous and resinous charges play different parts in the process of conduction. 
+11: 1898 E. Riecke[109] effected an important advance by examining the consequences of the assumption that the average velocity of this random motion of the charges is nearly proportional to the square root of the absolute temperature T. P. Drude in 1900 replaced this by the more definite assumption that the kinetic energy of each moving charge is equal to the average kinetic energy of a molecule of a perfect gas at the same temperature, and may therefore be expressed in the form qT, where q denotes a universal constant.
+
+In the same year J. J. Thomson remarked that it would accord with the conclusions drawn from the study of ionization in gases to suppose that the vitreous and resinous charges play different parts in the process of conduction. 
 
 The resinous charges may be conceived of as carried by simple negative corpuscles or electrons, such as constitute the cathode rays: they may be supposed to move about freely in the interstices between the atoms of the metal. The vitreous charges, on the other hand, may be regarded as more or less fixed in attachment to the metallic atoms. 
 
 According to this view the transport of electricity is due almost entirely to the motion of the negative charges.
 
-An experiment which was performed at this time by Riecke[112] lent some support to Thomson's hypothesis. A cylinder of aluminium was inserted between two cylinders of copper in a circuit, and a current was passed for such a time that the amount of copper deposited in an electrolytic arrangement would have amounted to over a kilogramme. The weight of each of the three cylinders, however, showed no measurable change; from which it appeared unlikely that metallic conduction is accompanied by the transport of metallic ions.
+An experiment which was performed at this time by Riecke[112] lent some support to Thomson's hypothesis. 
+
+A cylinder of aluminium was inserted between two cylinders of copper in a circuit, and a current was passed for such a time that the amount of copper deposited in an electrolytic arrangement would have amounted to over a kilogramme. The weight of each of the three cylinders, however, showed no measurable change; from which it appeared unlikely that metallic conduction is accompanied by the transport of metallic ions.
+ 

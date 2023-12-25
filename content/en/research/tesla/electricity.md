@@ -3,7 +3,9 @@ title: "Electricity"
 description: "Address during the Commemoration of the Introduction of Niagara Falls Power in Buffalo January 12, 1897."
 image: "/photos/physics/elec.jpg"
 # date: 1897-01-27
-author: Nikola Tesla
+writer:
+  name: Nikola Tesla
+  url: https://en.wikipedia.org/wiki/Nikola_Tesla
 weight: 4
 ---
 

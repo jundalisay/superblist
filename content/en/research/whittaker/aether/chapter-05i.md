@@ -4,7 +4,7 @@ heading:  "Chapter 5e"
 weight: 44
 contributors: ['Whittaker']
 image:  "/covers/history.jpg"
-description: "Lord Kelvin suggested that the aether may pervade the atoms of matter so as to occupy space jointly with them. Its interaction with them may consist in attractions and repulsions exercised throughout the regions interior to the atoms."
+description: "Lord Kelvin suggested that the aether may pervade the atoms of matter so as to occupy space jointly with them"
 ---
 
 

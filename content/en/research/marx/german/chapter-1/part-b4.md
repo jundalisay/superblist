@@ -54,9 +54,13 @@ The existence of revolutionary ideas in a particular period presupposes the exis
 
 > *Superphysics note: In social cycles model, this class is commonly either the worker or warrior class.
 
+
+
 If now in considering the course of history we detach the ideas of the ruling class from the ruling class itself and attribute to them an independent existence, if we confine ourselves to saying that these or those ideas were dominant at a given time, without bothering ourselves about the conditions of production and the producers of these ideas, if we thus ignore the individuals and world conditions which are the source of the ideas, we can say, for instance, that during the time that the aristocracy was dominant, the concepts honour, loyalty, etc. were dominant, during the dominance of the bourgeoisie the concepts freedom, equality, etc. 
 
-The ruling class itself on the whole imagines this to be so. This conception of history, which is common to all historians, particularly since the eighteenth century, will necessarily come up against the phenomenon that increasingly abstract ideas hold sway, i.e. ideas which increasingly take on the form of universality. 
+The ruling class itself on the whole imagines this to be so.
+
+This conception of history, which is common to all historians, particularly since the eighteenth century, will necessarily come up against the phenomenon that increasingly abstract ideas hold sway, i.e. ideas which increasingly take on the form of universality. 
 
 For each new class which puts itself in the place of one ruling before it, is compelled, merely in order to carry through its aim, to represent its interest as the common interest of all the members of society, that is, expressed in ideal form: it has to give its ideas the form of universality, and represent them as the only rational, universally valid ones. The class making a revolution appears from the very start, if only because it is opposed to a class, not as a class but as the representative of the whole of society; it appears as the whole mass of society confronting the one ruling class. —
 

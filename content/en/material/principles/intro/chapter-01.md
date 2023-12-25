@@ -35,13 +35,16 @@ Modern Physics came from Isaac Newton who came up with classical mechanics to ex
 
 1. Strong force to keep the apple's identity
 2. Gravitational force to make the apple fall
-3. Electromagnetism for the apple to repel the Earth and not fall through the soil  
+3. Electromagnetism for the apple to be seen and to repel the Earth so as to not fall through the soil  
 
 <!-- > *Newton's Principia is written in Latin, the language of the Roman Empire -->
 
 Newton was very good at math and so he naturally had little knowledge of metaphysics. This is because math deals with counting discrete identities and particles such as `1`, `2`, `3` whereas metaphysics deals with abstract waves such as the feelings of `peace`, `prosperity`, and `love`.
 
-This is why Socrates said that the mathematician cannot possibly discover how the universe works. Rather it is the dialectician who can.  
+
+Notice how, when thinking about `1`, `2`, `3`, your awareness goes to your brain. Whereas, with `peace`, `prosperity`, and `love`, your awareness shifts to your heart, or at least away from your brain and onto the outside world. 
+
+This is why Socrates said that the mathematician cannot possibly discover how the greater universe works. Rather, it is the dialectician who can.  
 
 {{< q a="Socrates" c="The Republic by Plato Simplified, Book 7" >}}
 Surely the skilled mathematician is not a dialectician.
@@ -64,6 +67,11 @@ The knowledge of metaphysics can be revealed by knowing the nature of the aether
 The operations of the mind for math and philosophy are very different. A good philosopher often is bad at math, just as an excellent mathematician is awful at philosophy. 
 
 Superphysicists are generally philosophers first, who use data science and computers to augment any deficiency in  mathematics or memorization. 
+
+
+## The Evolution of Physics from the Focus on Matter
+
+<!-- We can say that the dark ages are still in force. The bright spots were the Roman Empire Stoicism and the Enlightenment. Asia is also in its own dark ages, with the birght pots during the Buddhist and Taoist persiods and the the latter as Song Dynasty and   -->
 
 Modern Physics began with a matter-first paradigm and then jumped to the realm of electromagnetism. Over time, physicists classified forces into four:
 

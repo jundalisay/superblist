@@ -223,7 +223,7 @@ How could that new law-book be created?
 
 
 {{< l a="Social-Superphysics" >}}
-Ideally, Palestinians, Jews, and Arabs should get together and write it. Until then, a shortcut could be to use machine learning like ChatGPT or Bard to combine the Torah and the Quran for the sake of world peace (since both are text-data), as a proof of concept of the great uses of AI.
+Ideally, Palestinians, Jews, and Arabs should get together and write it. Until then, a shortcut could be to use machine learning like ChatGPT or Bard to combine the Torah and the Quran for the sake of world peace (since both are text-data). It would be a proof of concept of the great uses of AI -- using it to unite people instead of being [a danger to humanity](https://www.nytimes.com/2023/03/29/technology/ai-artificial-intelligence-musk-risks.html)
 {{< /l >}}
 
 

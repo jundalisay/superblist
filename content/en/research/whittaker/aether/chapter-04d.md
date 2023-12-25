@@ -114,6 +114,20 @@ A striking consequence of it was pointed out in 1832 by William Rowan Hamilton (
 
 Hamilton also showed that there are four planes, each of which touches the wave-surface in an infinite number of points, constituting a circle of contact: so that a corresponding ray incident externally should be divided within the crystal into an infinite number of refracted rays, again constituting a conical surface.
 
-These singular and unexpected consequences of the theory were shortly afterwards verified experimentally by Humphrey Lloyd,[57] and helped greatly to confirm belief in Fresnel's theory. It should, however, be observed that conical refraction only shows his form of the wave-surface to be correct in its general features, and is no test of its accuracy in all details. But it was shown experimentally by Stokes in 1872,[58] Glazebrook in 1879,[59] and Hastings in 1887,[60] that the construction of Huygens and Fresnel is certainly correct to a very high degree of approximation.
+These singular and unexpected consequences of the theory were shortly afterwards verified experimentally by Humphrey Lloyd,[57] and helped greatly to confirm belief in Fresnel's theory.
 
-Fresnel's final formulae have since been regarded as unassailable. The dynamical substructure on which he based them is, as we have seen, open to objection; but, as Stokes observed[61]: "If we reflect on the state of the subject as Fresnel found it, and as he left it, the wonder is, not that he failed to give a rigorous dynamical theory, but that a single mind was capable of effecting so much."
+However, conical refraction only shows his form of the wave-surface to be correct in its general features, and is no test of its accuracy in all details.
+
+But the following experiments showed that the construction of Huygens and Fresnel is very correct:
+- Stokes in 1872[58] 
+- Glazebrook in 1879[59]
+- Hastings in 1887,[60]
+
+Fresnel's final formulae have since been unassailable.
+
+The dynamical substructure on which he based them is open to objection.
+
+But, as Stokes observed[61]:
+
+"If we reflect on the state of the subject as Fresnel found it, and as he left it, the wonder is, not that he failed to give a rigorous dynamical theory, but that a single mind was capable of effecting so much."
+

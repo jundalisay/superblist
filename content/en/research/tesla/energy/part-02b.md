@@ -52,7 +52,9 @@ I became aware that also all my movements were prompted in the same way, and so,
 
 I remember only one or two cases in all my life in which I was unable to locate the first impression which prompted a movement or a thought, or even a dream. 
 
-FIG. 2. THE FIRST PRACTICAL TELAUTOMATON.
+FIG. 2. THE FIRST PRACTICAL TELAUTOMATON
+
+
 A machine having all the bodily or translatory movements and the operations of the interior mechanism controlled from a distance without wires. 
 
 The crewless boat shown in the photograph contains its own motive power, propelling and steering machinery, and numerous other accessories. All of these are controlled by transmitting from a distance, without wires, electrical oscillations to a circuit carried by the boat and adjusted to respond only to these oscillations.

@@ -28,7 +28,9 @@ This strengthens the fact that:
 
 For example, before a novel about a cat is written in a physical form, the idea for the novel must exist first.
 
-All philosophical debates on ultimate causes can thus be categorized as ‘chicken-versus-egg’ as:
+Therefore, the aethereal idea is superior and prior to its material form.  The material form is easy and obvious. The aethereal idea is abstract and hard to grasp.  This makes the material version of the idea as seemingly superior even if it is actually just the effect. 
+
+The dull and the sharp-minded people then argue on which came first or which is superior. All philosophical debates on ultimate causes can thus be categorized as ‘chicken-versus-egg’ as:
 
 - pro-metaphysicality as ideas, spirit, and Plato’s forms (this is the chicken)
   - In Hindu philosophy this manifests as Vedanta and Buddhism
