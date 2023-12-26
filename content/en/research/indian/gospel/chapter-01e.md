@@ -42,15 +42,21 @@ He found its burrow and called it. It came out of its hole and bowed before him.
 
 "The snake had developed the quality of sattva; it could not be angry with anyone. It had totally forgotten that the cowherd boys had almost killed it.
 
-The brahmachari said: 'It can't be mere want of food that has reduced you to this state. There must be some other reason. Think a little.' Then the snake remembered
-that the boys had dashed it against the ground. It said: 'Yes, revered sir, now I remember. The boys one day dashed me violently against the ground. They are
-ignorant, after all. They didn't realize what a great change had come over my mind.
+The brahmachari said: 'It can't be mere want of food that has reduced you to this state. There must be some other reason. Think a little.' 
 
-How could they know I wouldn't bite or harm anyone?' The brahmachari exclaimed:
+Then the snake remembered that the boys had dashed it against the ground. It said: 
+
+'Yes, revered sir, now I remember. The boys one day dashed me violently against the ground. They are ignorant, after all. They didn't realize what a great change had come over my mind. How could they know I wouldn't bite or harm anyone?' 
+
+The brahmachari exclaimed:
 
 'What a shame! You are such a fool! You don't know how to protect yourself. I asked you not to bite, but I didn't forbid you to hiss. Why didn't you scare them by hissing?'
-"So you must hiss at wicked people. You must frighten them lest they should do you harm. But never inject your venom into them. One must not injure others.
-"In this creation of God there is a variety of things: men, animals, trees, plants. 
+
+
+
+So you must hiss at wicked people. You must frighten them lest they should do you harm. But never inject your venom into them. One must not injure others.
+
+In this creation of God there is a variety of things: men, animals, trees, plants. 
 
 Among the animals some are good, some bad. There are ferocious animals like the tiger. Some trees bear fruit sweet as nectar, and others bear fruit that is poisonous. Likewise, among human beings, there are the good and the wicked, the holy and the unholy.
 
