@@ -34,6 +34,7 @@ Without the commission from God, a man becomes vain. He says to himself, 'I am t
 
 He alone is doing everything. I am doing nothing.' Man's sufferings and worries spring only from his persistent thought that he is the doer.
 
+
 ## Doing good to others
 
 You people speak of doing good to the world. Is the world such a small thing? And who are you, pray, to do good to the world? First realize God, see Him by means of spiritual discipline. If He imparts power, then you can do good to others; otherwise not." 
@@ -41,12 +42,20 @@ You people speak of doing good to the world. Is the world such a small thing? An
 
 A BRAHMO DEVOTEE: "Then, sir, we must give up our activities until we realize God?"
 
-MASTER: "No. Why should you? You must engage in such activities as contemplation, singing His praises, and other daily devotions."
+{{< l a="Ramakrishna" >}}
+No. Why should you? You must engage in such activities as contemplation, singing His praises, and other daily devotions."
+{{< /l >}}
+
 
 BRAHMO: "But what about our worldly duties-duties associated with our earning money, and so on?"
 
-MASTER: "Yes, you can perform them too, but only as much as you need for your livelihood. At the same time, you must pray to God in solitude, with tears in your eyes, that you may be able to perform those duties in an unselfish manner. You should say to Him: 'O God, make my worldly duties fewer and fewer; otherwise, O Lord, I find that I forget Thee when I am involved in too many activities. I may think I am doing unselfish work, but it turns out to be selfish.' People who carry to excess the giving of alms, or the distributing of food among the poor, fall victims to the desire of acquiring name and
+{{< l a="Ramakrishna" >}}
+Yes, you can perform them too, but only as much as you need for your livelihood. At the same time, you must pray to God in solitude, with tears in your eyes, that you may be able to perform those duties in an unselfish manner. 
+
+You should say to Him: 'O God, make my worldly duties fewer and fewer; otherwise, O Lord, I find that I forget Thee when I am involved in too many activities. I may think I am doing unselfish work, but it turns out to be selfish.' People who carry to excess the giving of alms, or the distributing of food among the poor, fall victims to the desire of acquiring name and
 fame. 
+{{< /l >}}
+
 
 "Sambhu Mallick once talked about establishing hospitals, dispensaries, and schools, making roads, digging public reservoirs, and so forth.
 
@@ -58,10 +67,12 @@ Therefore I said to Sambhu, 'Suppose God appears before you; then will you ask H
 
 Give me sincere and pure love for Thee.'
 
+
 ## Path of devotion most elective for Kaliyuga
 
-Karmayoga is very hard indeed. In the Kaliyuga it is extremely difficult to perform the rites enjoined in the scriptures. Nowadays man's life is centred on food alone. He cannot perform many scriptural rites. Suppose a man is laid up with fever. If you attempt a slow cure with the old-fashioned indigenous remedies, before long his life may
-be snuffed out.
+Karmayoga is very hard. In the Kaliyuga, it is extremely difficult to perform the rites enjoined in the scriptures.
+
+Nowadays man's life is centred on food alone. He cannot perform many scriptural rites. Suppose a man is laid up with fever. If you attempt a slow cure with the old-fashioned indigenous remedies, before long his life may be snuffed out.
 
 He can't stand much delay. Nowadays the drastic 'D Gupta' mixture is appropriate. In the Kaliyuga the best way is bhaktiyoga, the path of devotion-singing the praises of the Lord, and prayer.
 

@@ -10,27 +10,43 @@ writer:
 ---
 
 
+Philosophy alone can grasp what is interpreted. 
 
-
-All that should be interpreted can be grasped by philosophy alone. So the duty of the learned person is to interpret, and of the common people to take it literally, both in conception and in verification. The reason for the latter is that they cannot understand more. 
+This is why:
+- the duty of the learned person is to interpret
+- the duty of the common people is to take it literally, both in conception and in verification.
+  - This is because they cannot understand more. 
 
 A student of law sometimes finds interpretations which have a preference over others, in a general way by verification:[58] that is, the argument is more convincing with the interpretations than with the literal meanings. 
 
-These interpretations are common and it is possible for them to be admitted by any whose speculative faculties have been developed in controversy. 
+These interpretations are common. These can be admitted by anyone whose speculative faculties have been developed in controversy. 
 
-Some of the interpretations of the Asharites and the Mutazilites are of this type, though the arguments of the Mutazilites are generally the more weighty. 
+Some of the interpretations of the Asharites and the Mutazilites are of this type. 
+- The arguments of the Mutazilites are generally the more weighty. 
 
-But it is the duty of the common people who are not capable of understanding more than exhortation to take them exoterically. 
+But common people should take them exoterically.
+- It is not proper for them to know the interpretations at all.
+<!-- it is the duty of the  who are not capable of understanding more than exhortation to .  -->
 
-It is not proper for them to know the interpretations at all.
+Thus there are 3 groups of men :
 
-Thus there are three groups into which men have been divided: Those who are not included amongst those who should know the interpretations. These are common people who are guided by exhortation alone. They form a vast majority: for there is not a single rational being who cannot accept a result by this method. The second are dogmatic[59] interpreters. These are so, either by their nature only, or both by nature and habit. The third are those who can be definitely called interpreters. 
+1. Those who should not know the interpretations. 
 
-These are the philosophers, both by nature and by philosophical training. This kind of interpretation should not be discussed with the dogmatists, not to speak of the common people. If any of these interpretations are disclosed to those not fit to receive them—especially philosophical interpretations—these being far higher than common knowledge, they may be led to infidelity.
+These are common people who are guided by exhortation alone. They form a vast majority for there is not a single rational being who cannot accept a result by this method.
+
+2. The dogmatic[59] interpreters.
+
+These are so, either by their nature only, or both by nature and habit. 
+
+3. The interpreters. 
+
+These are the philosophers, both by nature and by philosophical training. 
+
+This kind of interpretation should not be discussed with the dogmatists, not to speak of the common people. If any of these interpretations are disclosed to those not fit to receive them—especially philosophical interpretations—these being far higher than common knowledge, they may be led to infidelity.
 
 For he wishes to nullify the exoteric meaning and to prove his interpretation. But if the exoteric meaning is shown to be false without the interpretation being established, he falls into infidelity, if this concerns the principles of the Law. So, the interpretations should not be disclosed to the common people, and ought not to be put into exhortative or doctrinal books—that is, books written with an expository purpose in view—as Abu Hamid has done.
 
-Hence, it is necessary that the common people should be told that those things which are exoteric, and yet cannot be understood easily, the interpretations of which it is impossible for them to understand, are parabolical, and that no one knows the interpretation thereof except God. We should stop at the following words of God: “None knoweth the interpretation thereof except God.”[18] 
+Hence, the common people should be told that those things which are exoteric, and yet cannot be understood easily, the interpretations of which it is impossible for them to understand, are parabolical, and that no one knows the interpretation thereof except God. We should stop at the following words of God: “None knoweth the interpretation thereof except God.”[18] 
 
 This is also the answer to the question about some of those abstruse problems which the common people cannot understand: “They will ask thee concerning the spirit: answer: The spirit was created at the command of my Lord, but ye have no knowledge given to you, except a little.”[19] 
 

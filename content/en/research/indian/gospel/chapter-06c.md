@@ -1,31 +1,51 @@
 ---
-title: "Seven Planes Of The Mind"
+title: "Seven Planes (Chakras) Of The Mind"
 image: "/covers/rama.jpg"
 heading: "Chapter 6b"
 weight: 29
-description: "It is necessary to seek the company of holy men and listen to the instruction of the guru"
+description: "The Vedas speak of 7 planes where the mind dwells"
 ---
 
 
-"The Vedas speak of seven planes where the mind dwells. When the mind is immersed in worldliness it dwells in the three lower planes- at the naval, the organ of generation, and the organ of evacuation. In that state the mind loses all its higher visions-it broods only on 'woman and gold'.
+The Vedas speak of 7 planes where the mind dwells. 
 
-The fourth plane of the mind is at the heart. When the mind dwells there, one has the first glimpse of spiritual consciousness. One sees light all around.
+When the mind is immersed in worldliness it dwells in the 3 lower planes:
+
+3. The nava
+2. The organ of generation
+1. The organ of evacuation.
+
+In that state the mind loses all its higher visions-it broods only on 'woman and gold'.
+
+4. The fourth plane of the mind is at the heart. 
+
+When the mind dwells there, one has the first glimpse of spiritual consciousness. One sees light all around.
 
 Such a man, perceiving the divine light, becomes speechless with wonder and says: 'Ah! What is this? What is this?' His mind does not go downward to the objects of the world.
 
-"The fifth plane of the mind is at the throat. When the mind reaches this, the aspirant becomes free from all ignorance and illusion. He does not enjoy talking or hearing about anything but God. If people talk about worldly things, he leaves the place at once. 
+5. The fifth plane of the mind is at the throat. 
 
-"The sixth plane is at the forehead. When the mind reaches it, the aspirant sees the form of God day and night. But even then a little trace of ego remains. At the sight of that incomparable beauty of God's form, one becomes intoxicated and rushes forth to touch and embrace it. But one doesn't succeed. It is like the light inside a lantern. 
+When the mind reaches this, the aspirant becomes free from all ignorance and illusion. He does not enjoy talking or hearing about anything but God. If people talk about worldly things, he leaves the place at once. 
+
+6. The sixth plane is at the forehead. 
+
+When the mind reaches it, the aspirant sees the form of God day and night. But even then a little trace of ego remains. At the sight of that incomparable beauty of God's form, one becomes intoxicated and rushes forth to touch and embrace it. But one doesn't succeed. It is like the light inside a lantern. 
 
 One feels as if one could touch the light, but one cannot on account of the pane of glass.
 
-In the top of the head is the seventh plane. When the mind rises there, one goes into samādhi. Then the Brahmajnani directly perceives Brahman. But in that state his body does not last many days. He remains unconscious of the outer world. If milk is poured into his mouth, it runs out. Dwelling on this plane of consciousness, he gives up his body in twenty-one days. That is the condition of the Brahmajnani. But yours is the path of devotion.
+7. In the top of the head is the seventh plane. 
+
+When the mind rises there, one goes into samādhi. Then the Brahmajnani directly perceives Brahman. 
+
+But in that state his body does not last many days. He remains unconscious of the outer world. If milk is poured into his mouth, it runs out. Dwelling on this plane of consciousness, he gives up his body in twenty-one days. That is the condition of the Brahmajnani. But yours is the path of devotion.
+
 
 That is a very good and easy path.
 
 "Once a man said to me, 'Sir, can you teach me quickly the thing you call samādhi?' 
 
 (All laugh.)
+
 
 ## Duties drop away with deepening of spiritual mood
 
@@ -34,6 +54,7 @@ After a man has attained samādhi all his actions drop away. All devotional acti
 (To Shivanath) As long as you were not here at the meeting, people talked a great deal about you and discussed your virtues. 
 
 But no sooner did you arrive here than all that stopped. Now the very sight of you makes everyone happy. People now simply say, 'Ah! Here is Shivanath Babu.' All other talk about you has stopped.
+
 
 ## What happens after samādhi
 
@@ -54,7 +75,9 @@ Therefore, at the beginning of religious life a man makes much ado about work,
 but as his mind dives deeper into God, he becomes less active. Last of all comes the
 renunciation of work, followed by samādhi.
 
-"Generally the body does not remain alive after the attainment of samādhi. The only exceptions are such sages as Narada, who keep their bodies alive in order to bring spiritual light to others. It is also true of Divine Incarnations, like Chaitanya. After the well is dug, one generally throws away the spade and the basket. But some keep them 167in order to help their neighbours. The great souls who retain their bodies after samādhi feel compassion for the suffering of others. They are not so selfish as to be satisfied with their own illumination. You are well aware of the nature of selfish people. If you ask them to spit at a particular place, they won't, lest it should do you good. If you ask them to bring a sweetmeat worth a cent from the store, they will perhaps lick it on the way back. 
+"Generally the body does not remain alive after the attainment of samādhi. The only exceptions are such sages as Narada, who keep their bodies alive in order to bring spiritual light to others. It is also true of Divine Incarnations, like Chaitanya. After the well is dug, one generally throws away the spade and the basket. But some keep them 167in order to help their neighbours. 
+
+The great souls who retain their bodies after samādhi feel compassion for the suffering of others. They are not so selfish as to be satisfied with their own illumination. You are well aware of the nature of selfish people. If you ask them to spit at a particular place, they won't, lest it should do you good. If you ask them to bring a sweetmeat worth a cent from the store, they will perhaps lick it on the way back. 
 
 (All laugh.)
 

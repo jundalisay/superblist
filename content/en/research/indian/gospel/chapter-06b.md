@@ -19,18 +19,15 @@ But there is a type of teacher who goes to the length of using force when he fin
 
 A BRAHMO DEVOTEE: "Sir, has God forms or has He none?"
 
-MASTER: "No one can say with finality that God is only 'this' and nothing else. He is formless, and again He has forms. For the bhakta He assumes forms. But He is
-formless for the jnani, that is, for him who looks on the world as a mere dream. The bhakta feels that he is one entity and the world another. Therefore God reveals Himself to him as a Person. 
+{{< l a="Ramakrishna" >}}
+No one can say with finality that God is only 'this' and nothing else. He is formless, and again He has forms. For the bhakta He assumes forms. But He is formless for the jnani, that is, for him who looks on the world as a mere dream. The bhakta feels that he is one entity and the world another. Therefore God reveals Himself to him as a Person. 
 
-But the jnani-the Vedantist, for instance-always reasons, applying the process of 'Not this, not this'. Through this discrimination he realizes, by his inner
-perception, that the ego and the universe are both illusory, like a dream. Then the jnani
-realizes Brahman in his own consciousness. He cannot describe what Brahman is.
+But the jnani-the Vedantist, for instance-always reasons, applying the process of 'Not this, not this'. Through this discrimination he realizes, by his inner perception, that the ego and the universe are both illusory, like a dream. Then the jnani realizes Brahman in his own consciousness. He cannot describe what Brahman is.
 
-"Do you know what I mean? Think of Brahman, Existence-Knowledge-Bliss Absolute, as a shoreless ocean. Through the cooling influence, as it were, of the bhakta's love, the
-water has frozen at places into blocks of ice. In other words, God now and then assumes various forms for His lovers and reveals Himself to them as a Person. But with
-the rising of the sun of Knowledge, the blocks of ice melt. Then one doesn't feel any
-more that God is a Person, nor does one see God's forms. What He is cannot be described. Who will describe Him? He who would do so disappears. He cannot find his
+"Do you know what I mean? Think of Brahman, Existence-Knowledge-Bliss Absolute, as a shoreless ocean. Through the cooling influence, as it were, of the bhakta's love, the water has frozen at places into blocks of ice. In other words, God now and then assumes various forms for His lovers and reveals Himself to them as a Person. But with the rising of the sun of Knowledge, the blocks of ice melt. Then one doesn't feel any more that God is a Person, nor does one see God's forms. What He is cannot be described. Who will describe Him? He who would do so disappears. He cannot find his
 'I' any more.
+{{< /l >}}
+
 
 ## Illusoriness of "I"
 
@@ -68,33 +65,41 @@ It is enough to feel that God is a Person who listens to our prayers, who create
 
 BRAHMO DEVOTEE: "Sir, is it possible for one to see God? If so, why can't we see Him?"
 
-MASTER: "Yes, He can surely be seen. One can see His forms, and His formless aspect
-as well. How can I explain that to you?"
+{{< l a="Ramakrishna" >}}
+Yes, He can surely be seen. One can see His forms, and His formless aspect as well. How can I explain that to you?"
+{{< /l >}}
+
 
 ## Intense longing enables one to see God
 
 BRAHMO DEVOTEE: "What are the means by which one can see God?"
 
-MASTER: "Can you weep for Him with intense longing of heart? Men shed a jugful of tears for the sake of their children, for their wives, or for money. But who weeps for
-God? 
+{{< l a="Ramakrishna" >}}
+Can you weep for Him with intense longing of heart? Men shed a jugful of tears for the sake of their children, for their wives, or for money. But who weeps for God? 
 
 So long as the child remains engrossed with its toys, the mother looks after her cooking and other household duties. But when the child no longer relishes the toys, it throws them aside and yells for its mother. Then the mother takes the rice-pot down from the hearth, runs in haste, and takes the child in her arms."
-164Why so much controversy about God?
+{{< /l >}}
+
+
+## Why so much controversy about God?
 
 BRAHMO DEVOTEE: "Sir, why are there so many different opinions about the nature of God? Some say that God has form, while others say that He is formless. Again, those
 who speak of God with form tell us about His different forms. Why all this controversy?"
 
-MASTER: "A devotee thinks of God as he sees Him. In reality there is no confusion about God. God explains all this to the devotee if the devotee only realizes Him
-somehow. You haven't set your foot in that direction. How can you expect to know all about God?
+{{< l a="Ramakrishna" >}}
+A devotee thinks of God as he sees Him. In reality there is no confusion about God. God explains all this to the devotee if the devotee only realizes Him somehow. You haven't set your foot in that direction. How can you expect to know all about God?
+{{< /l >}}
 
 
 ## Parable of the chameleon
 
-Once a man entered a wood and saw a small animal on a tree. He came back and told another man that he had seen a creature of a beautiful red colour on
-a certain tree. The second man replied: 'When I went into the wood, I also saw that
-animal. But why do you call it red? It is green.' 
+Once a man entered a wood and saw a small animal on a tree. He came back and told another man that he had seen a creature of a beautiful red colour on a certain tree. 
 
-Another man who was present contradicted them both and insisted that it was yellow. Presently others arrived and contended that it was grey, violet, blue, and so forth and so on. At last they started quarrelling among themselves. To settle the dispute they all went to the tree. They saw a man sitting under it. On being asked, he replied: 'Yes, I live under this tree and I know the animal very well. All your descriptions are true. Sometimes it appears red, sometimes yellow, and at other times blue, violet, grey, and so forth. It is a chameleon.
+The second man replied: 'When I went into the wood, I also saw that animal. But why do you call it red? It is green.' 
+
+Another man who was present contradicted them both and insisted that it was yellow. Presently others arrived and contended that it was grey, violet, blue, and so forth and so on. At last they started quarrelling among themselves. To settle the dispute they all went to the tree. They saw a man sitting under it. 
+
+On being asked, he replied: 'Yes, I live under this tree and I know the animal very well. All your descriptions are true. Sometimes it appears red, sometimes yellow, and at other times blue, violet, grey, and so forth. It is a chameleon.
 
 Sometimes it has no colour at all. Now it has a colour, and now it has none.'
 
@@ -103,6 +108,7 @@ Sometimes it has no colour at all. Now it has a colour, and now it has none.'
 "Kabir used to say, 'The formless Absolute is my Father, and God with form is my Mother.'
 
 "God reveals Himself in the form which His devotee loves most. His love for the devotee knows no bounds. It is written in the Purana that God assumed the form of Rama for His heroic devotee, Hanuman.
+
 
 ## Vedantic Non-dualism
 

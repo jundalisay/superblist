@@ -58,19 +58,32 @@ me. You will see a huge jar of wine there."
 
 M. related this to Sri Ramakrishna, who laughed about it. 
 
-The Master said: "The bliss of worship and communion with God is the true wine, the wine of ecstatic love. The goal of human life is to love God, Bhakti is the
-one essential thing. To know God through jnāna and reasoning is extremely difficult."
+The Master said: 
+
+{{< l a="Ramakrishna" >}}
+The bliss of worship and communion with God is the true wine, the wine of ecstatic love. 
+
+The goal of human life is to love God, Bhakti is the one essential thing. To know God through jnāna and reasoning is extremely difficult.
+{{< /l >}}
+
 
 Then the Master sang:
 
+{{< l a="Ramakrishna" >}}
 Who is there that can understand what Mother Kāli is?
 Even the six darsanas are powerless to reveal Her....
+{{< /l >}}
 
-The Master said, again: "The one goal of life is to cultivate love for God, the love that the milkmaids, the milkmen, and the cowherd boys of Vrindāvan felt for Krishna. When
-Krishna went away to Mathura, the cowherds roamed about weeping bitterly because of their separation from Him."
+The Master said, again: 
+
+{{< l a="Ramakrishna" >}}
+The one goal of life is to cultivate love for God, the love that the milkmaids, the milkmen, and the cowherd boys of Vrindāvan felt for Krishna. When Krishna went away to Mathura, the cowherds roamed about weeping bitterly because of their separation from Him.
+{{< /l >}}
+
 
 Saying this the Master sang, with his eyes turned upward:
 
+{{< l a="Ramakrishna" >}}
 Just now I saw a youthful cowherd With a young calf in his arms;
 
 There he stood, by one hand holding
@@ -79,5 +92,10 @@ The branch of a young tree.
 But "Kanai" scarcely could he utter;
 "Ka" was as much as he could say.
 He cried, "Where are You, Brother?"
+{{< /l >}}
+
 And his eyes were filled with tears.
+
 When M. heard this song of the Master's, laden with love, his eyes were moist with tears.
+
+
