@@ -11,19 +11,57 @@ image: "/covers/german.jpg"
 
 
 
-Feuerbach is deceiving himself when (Wigand’s Vierteljahrsschrift, 1845, Band 2) by virtue of the qualification “common man” he declares himself a communist,[26] transforms the latter into a predicate of “man,” and thereby thinks it possible to change the word “communist,” which in the real world means the follower of a definite revolutionary party, into a mere category. 
+ 
 
-Feuerbach’s whole deduction with regard to the relation of men to one another goes only so far as to prove that men need and always have needed each other. He wants to establish consciousness of this fact, that is to say, like the other theorists, merely to produce a correct consciousness about an existing fact; whereas for the real communist it is a question of overthrowing the existing state of things. We thoroughly appreciate, moreover, that Feuerbach, in endeavouring to produce consciousness of just this fact, is going as far as a theorist possibly can, without ceasing to be a theorist and philosopher...
+By virtue of the qualification “common man”, Feuerbach declares himself a communist (Wigand’s Vierteljahrsschrift, 1845, Band 2)[26].
 
-As an example of Feuerbach’s acceptance and at the same time misunderstanding of existing reality, which he still shares with our opponents, we recall the passage in the Philosophie der Zukunft where he develops the view that the existence of a thing or a man is at the same time its or his essence, that the conditions of existence, the mode of life and activity of an animal or human individual are those in which its “essence” feels itself satisfied. Here every exception is expressly conceived as an unhappy chance, as an abnormality which cannot be altered.
+But he is deceiving himself.
 
-Thus if millions of proletarians feel by no means contented with their living conditions, if their “existence” does not in the least correspond to their “essence,” then, according to the passage quoted, this is an unavoidable misfortune, which must be borne quietly. 
+Communist in the real world means the follower of a definite revolutionary party.
 
-The millions of proletarians and communists, however, think differently and will prove this in time, when they bring their “existence” into harmony with their “essence” in a practical way, by means of a revolution. Feuerbach, therefore, never speaks of the world of man in such cases, but always takes refuge in external nature, and moreover in nature which has not yet been subdued by men. But every new invention, every advance made by industry, detaches another piece from this domain, so that the ground which produces examples illustrating such Feuerbachian propositions is steadily shrinking.
+But he uses the word as a mere category. 
+
+<!-- He transforms the latter into a predicate of “man,” and thereby thinks it possible to change the word “communist,”  -->
+
+Feuerbach’s whole idea is based on men always needing each other.
+
+ <!-- deduction with regard to the relation of men to one another goes only so far as to prove that   -->
+
+<!-- He wants to establish consciousness of this fact, that is to say, like the other theorists, merely to produce a correct consciousness about an existing fact;  -->
+
+Whereas the idea of the real communist is to overthrow the existing state of things. 
+
+<!-- We thoroughly appreciate, moreover, that Feuerbach, in endeavouring to produce consciousness of just this fact, is going as far as a theorist possibly can, without ceasing to be a theorist and philosopher... -->
+
+ <!-- acceptance and at the same time -->
+
+An example of Feuerbach’s misunderstanding of the existing reality is his view that the existence of a thing or a man is at the same time its or his essence.
+- The conditions of existence, the mode of life and activity of an animal or human individual are those in which its “essence” feels itself satisfied. 
+
+<!-- , which he still shares with our opponents, we recall the passage in the Philosophie der Zukunft where he develops the  -->
+
+Here, dissatisfaction is an unhappy chance, as an abnormality which cannot be altered.
+
+Thus, if millions of proletarians are not contented with their living conditions then their “existence” does not correspond to their “essence”. 
+
+To him, this is an unavoidable misfortune, which must be borne quietly. 
+
+
+The millions of proletarians and communists, however, think differently.
+
+They bring their “existence” into harmony with their “essence” in a practical way, by means of a revolution. 
+
+Feuerbach, therefore, never speaks of the world of man in such cases, but always takes refuge in external nature, and moreover in nature which has not yet been subdued by men. 
+
+But every new invention, every advance made by industry, detaches another piece from this domain, so that the ground which produces examples illustrating such Feuerbachian propositions is steadily shrinking.
 
 The “essence” of the fish is its “being,” water – to go no further than this one proposition. The “essence” of the freshwater fish is the water of a river. But the latter ceases to be the “essence” of the fish and is no longer a suitable medium of existence as soon as the river is made to serve industry, as soon as it is polluted by dyes and other waste products and navigated by steamboats, or as soon as its water is diverted into canals where simple drainage can deprive the fish of its medium of existence.
 
-The explanation that all such contradictions are inevitable abnormalities does not essentially differ from the consolation which Saint Max Stirner offers to the discontented, saving that this contradiction is their own contradiction and this predicament their own predicament, whereupon then, should either set their minds at ease, keep their disgust to themselves, or revolt against it in some fantastic way. It differs just as little from Saint Bruno’s allegation that these unfortunate circumstances are due to the fact that those concerned are stuck in the muck of “substance,” have not advanced to “absolute self-consciousness and do not realise that these adverse conditions are spirit of their spirit.
+The explanation that all such contradictions are inevitable abnormalities does not essentially differ from the consolation which Saint Max Stirner offers to the discontented, saving that this contradiction is their own contradiction and this predicament their own predicament, whereupon then, should either set their minds at ease, keep their disgust to themselves, or revolt against it in some fantastic way. 
+
+It differs just as little from Saint Bruno’s allegation that these unfortunate circumstances are due to the fact that those concerned are stuck in the muck of “substance,” have not advanced to “absolute self-consciousness and do not realise that these adverse conditions are spirit of their spirit.
+
+
 
 ## II. 1. Preconditions of the Real Liberation of Man
 

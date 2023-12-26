@@ -10,23 +10,38 @@ description: "Chaitanya had several householders among his devotees, but they we
 
 When the song was over, the Master walked up and down the northeast verandah, where Hazra was seated with M. The Master sat down there. He asked a devotee, "Do you ever have dreams?"
 
-DEVOTEE: "Yes, sir. The other day I dreamt a strange dream. I saw the whole world enveloped in water. There was water on all sides. A few boats were visible, but suddenly huge waves appeared and sank them. I was about to board a ship with a few
-others, when we saw a brahmin walking over that expanse of water. I asked him, 'How
-can you walk over the deep?' 
+{{< r a="Devotee" >}}
+Yes, sir. The other day I dreamt a strange dream. I saw the whole world enveloped in water. There was water on all sides. A few boats were visible, but suddenly huge waves appeared and sank them. I was about to board a ship with a few others, when we saw a brahmin walking over that expanse of water. 
 
-The brahmin said with a smile: 'Oh, there is no difficulty about that. There is a bridge under the water.' I said to him, 'Where are you going?' 'To Bhawanipur, the city of the Divine Mother', he replied. 'Wait a little', I cried. 'I shall
-accompany you.' "
+I asked him, 'How can you walk over the deep?' 
+{{< /r >}}
 
-MASTER: "Oh. I am thrilled to hear the story!"
+{{< r a="Brahmin" >}}
+(smiling): 'Oh, there is no difficulty about that. There is a bridge under the water. I am going to Bhawanipur, the city of the Divine Mother
+{{< /r >}}
 
-DEVOTEE: "The brahmin said: 'I am in a hurry. It will take you some time to get out of the boat. Good-bye. Remember this path and come after me.
+{{< r a="Devotee" >}}
+Wait! I shall accompany you.
+{{< /r >}}
 
-MASTER: "Oh, my hair is standing on end! Please be initiated by a guru as soon as possible."
+
+{{< l a="Ramakrishna" >}}
+Oh. I am thrilled to hear the story!"
+{{< /l >}}
+
+
+{{< r a="Devotee" >}}
+The brahmin said: 'I am in a hurry. It will take you some time to get out of the boat. Good-bye. Remember this path and come after me.
+{{< /r >}}
+
+{{< l a="Ramakrishna" >}}
+My hair is standing on end! Please be initiated by a guru as soon as possible.
+{{< /l >}}
+
 
 Shortly before midnight Narendra and the other devotees lay down on a bed made on the floor of the Master's room.
 
-At dawn some of the devotees were up. They saw the Master, naked as a child, pacingup and down the room, repeating the names of the various gods and goddesses. His voice was sweet as nectar. Now he would look at the Ganges, now stop in front of the
-pictures hanging on the wall and bow down before them, chanting all the while the holy names in his sweet voice. He chanted: "Veda, Purana, Tantra; Gita, Gayatri; Bhagavata, Bhakta, Bhagavan." Referring to the Gita, he repeated many times, "Tagi, tagi, tagi."
+At dawn some of the devotees were up. They saw the Master, naked as a child, pacingup and down the room, repeating the names of the various gods and goddesses. His voice was sweet as nectar. Now he would look at the Ganges, now stop in front of the pictures hanging on the wall and bow down before them, chanting all the while the holy names in his sweet voice. He chanted: "Veda, Purana, Tantra; Gita, Gayatri; Bhagavata, Bhakta, Bhagavan." Referring to the Gita, he repeated many times, "Tagi, tagi, tagi."
 
 Now and then he would say: "O Mother, Thou art verily Brahman, and Thou art verily Śakti. Thou art Purusha and Thou art Prakriti. Thou art Virat. Thou art the Absolute, and Thou dost manifest Thyself as the Relative. Thou art verily the twenty-four cosmic principles."
 
@@ -40,38 +55,46 @@ With a sweet smile on his lips Sri Ramakrishna was standing on the northeast ver
 
 NARENDRA: "We noticed several sannyasis belonging to the sect of Nanak in the Panchavati."
 
-MASTER: "Yes, they arrived here yesterday. (To Narendra) I'd like to see you all sitting together on the mat."
+{{< l a="Ramakrishna" >}}
+Yes, they arrived here yesterday. (To Narendra) I'd like to see you all sitting together on the mat."
+{{< /l >}}
+
 
 As they sat there the Master looked at them with evident delight. He then began to talk with them. Narendra asked about spiritual discipline. 
 
-MASTER: "Bhakti, love of God, is the essence of all spiritual discipline. Through love one acquires renunciation and discrimination naturally."
+{{< l a="Ramakrishna" >}}
+Bhakti, love of God, is the essence of all spiritual discipline. Through love one acquires renunciation and discrimination naturally."
+{{< /l >}}
+
 
 ## Disciplines of Tantra
 
 NARENDRA: "Isn't it true that the Tantra prescribes spiritual discipline in the company of woman?"
 
-MASTER: "That is not desirable. It is a very difficult path and often causes the aspirant's downfall. There are three such kinds of discipline. One may regard woman as one's mistress or look on oneself as her handmaid or as her child. I look on woman as my mother. To look on oneself as her handmaid is also good; but it is extremely difficult to practise spiritual discipline looking on woman as one's mistress. To regard oneself as her child is a very pure attitude."
+{{< l a="Ramakrishna" >}}
+That is not desirable. It is a very difficult path and often causes the aspirant's downfall. There are three such kinds of discipline. One may regard woman as one's mistress or look on oneself as her handmaid or as her child. I look on woman as my mother. 
 
-The sannyasis belonging to the sect of Nanak entered the room and greeted the Master,
-saying, "Namo Narayanaya." Sri Ramakrishna asked them to sit down.
+To look on oneself as her handmaid is also good; but it is extremely difficult to practise spiritual discipline looking on woman as one's mistress. To regard oneself as her child is a very pure attitude."
+{{< /l >}}
+
+
+The sannyasis belonging to the sect of Nanak entered the room and greeted the Master, saying, "Namo Narayanaya." Sri Ramakrishna asked them to sit down.
+
 
 ## All is possible with God
 
-MASTFR: "Nothing is impossible for God. Nobody can describe His nature in words. Everything is possible for Him. There lived at a certain place two yogis who were practising spiritual discipline. The sage Narada was passing that way one day. Realizing
-who he was, one of the yogis said: 'You have just come from God Himself. What is He
-doing now?' Narada replied, 'Why, I saw Him making camels and elephants pass and
-repass through the eye of a needle.' At this the yogi said: 'Is that anything to wonder at?
-Everything is possible for God.' But the other yogi said: 'What? Making elephants pass
-through the eye of a needle - is that ever possible? You have never been to the Lord's
-dwelling-place.'
+{{< l a="Ramakrishna" >}}
+Nothing is impossible for God. Nobody can describe His nature in words. Everything is possible for Him. There lived at a certain place two yogis who were practising spiritual discipline. The sage Narada was passing that way one day. Realizing who he was, one of the yogis said: 'You have just come from God Himself. 
 
-At 9am, while the Master was still sitting in his room, Manomohan arrived from Konnagar with some members of his family. In answer to Sri Ramakrishna's kind inquiries, Manomohan explained that he was taking them to
-Calcutta. The Master said: "Today is the first day of the Bengali month, an inauspicious
-day for undertaking a journey. I hope everything will be well with you." With a smile he
-began to talk of other matters.
+What is He doing now?' Narada replied, 'Why, I saw Him making camels and elephants pass and repass through the eye of a needle.' At this the yogi said: 'Is that anything to wonder at? 
 
-When Narendra and his friends had finished bathing in the Ganges, the Master said to
-them earnestly: "Go to the Panchavati and meditate there under the banyan-tree. Shall
+Everything is possible for God.' But the other yogi said: 'What? Making elephants pass through the eye of a needle - is that ever possible? You have never been to the Lord's dwelling-place.'
+{{< /l >}}
+
+
+At 9am, while the Master was still sitting in his room, Manomohan arrived from Konnagar with some members of his family. In answer to Sri Ramakrishna's kind inquiries, Manomohan explained that he was taking them to Calcutta. The Master said: "Today is the first day of the Bengali month, an inauspicious day for undertaking a journey. I hope everything will be well with you." With a smile he began to talk of other matters.
+
+When Narendra and his friends had finished bathing in the Ganges, the Master said to them earnestly: "Go to the Panchavati and meditate there under the banyan-tree. Shall
 
 I give you something to sit on?"
 
@@ -84,7 +107,9 @@ After a while Sri Ramakrishna came to them. M., too, was present.
 The Master said to the Brahmo devotees: "In meditation one must be absorbed in God.
 By merely floating on the surface of the water, can you reach the gems lying at the
 bottom of the sea?"
+
 Then he sang:
+
 Taking the name of Kāli, dive deep down,
 O mind, Into the heart's fathomless depths,
 Where many a precious gem lies hid.
@@ -132,6 +157,8 @@ Confusion worse confounded.
 Day and night eleven bats
 Scream there incessantly.
 
+
+
 ## Purification of mind
 
 There is no use in merely making a noise if you want to establish the Deity in the shrine of your heart, if you want to realize God. First of all purify the mind. In the pure heart God takes His seat. One cannot bring the holy image into the temple if the droppings of bats are all around. The eleven bats are our eleven organs: five of action, five of perception, and the mind.
@@ -145,21 +172,27 @@ Having a sense of duty, he asked himself, "Do discrimination and dispassion mean
 
 M. (to the Master): "What should one do if one's wife says: 'You are neglecting me. I shall commit suicide?' "
 
-MASTER (in a serious tone): "Give up such a wife if she proves an obstacle in the way of spiritual life. Let her commit suicide or anything else she likes. The wife that hampers her husband's spiritual life is an ungodly wife."
+{{< l a="Ramakrishna" >}}
+(in a serious tone): "Give up such a wife if she proves an obstacle in the way of spiritual life. Let her commit suicide or anything else she likes. The wife that hampers her husband's spiritual life is an ungodly wife."
+{{< /l >}}
+
 
 Immersed in deep thought, M. stood leaning against the wall. 
 
 Narendra and the other devotees remained silent a few minutes. The Master exchanged several words with
 them; then, suddenly going to M., he whispered in his ear: "But if a man has sincere love for God, then all come under his control - the king, wicked persons, and his wife.
 
-139Sincere love of God on the husband's part may eventually help the wife to lead a spiritual life. If the husband is good, then through the grace of God the wife may also follow his example."
+Sincere love of God on the husband's part may eventually help the wife to lead a spiritual life. If the husband is good, then through the grace of God the wife may also follow his example."
 
 This had a most soothing effect on M.'s worried mind.
 thinking: "Let her commit suicide. What can I do?"
 All the while he had been
 M. (to the Master): "This world is a terrible place."
 
-MASTER (to the devotees): "That is the reason Chaitanya said to his companion Nityananda, 'Listen, brother, there is no hope of salvation for the worldly-minded.' " 
+
+{{< l a="Ramakrishna" >}}
+(to the devotees): "That is the reason Chaitanya said to his companion Nityananda, 'Listen, brother, there is no hope of salvation for the worldly-minded.' " 
+{{< /l >}}
 
 On another occasion the Master had said to M. privately: "Yes, there is no hope for a worldly man if he is not sincerely devoted to God. But he has nothing to fear if he remains in the world after realizing God. Nor need a man have any fear whatever of the world if he attains sincere devotion by practising spiritual discipline now and then in solitude. Chaitanya had several householders among his devotees, but they were householders in name only, for they lived unattached to the world."
 
@@ -183,18 +216,14 @@ M: "I heard there a very interesting interpretation of the Durga Puja."
 
 MASTER: "Please tell me all about it."
 
-M: "Keshab Sen held daily morning prayers in his house, lasting till ten or eleven.
-During these prayers he gave the inner meaning of the Durga Puja. He said that if
-anyone could realize the Divine Mother, that is to say, could install Mother Durga in the
-shrine of his heart, then Lakshmi, Sarasvati, Kartika, and Ganesa would come there of
-themselves. Lakshmi means wealth, Sarasvati knowledge, Kartika strength, and Ganesa success. By realizing the Divine Mother within one's heart, one gets all these without any effort whatever."
+M: "Keshab Sen held daily morning prayers in his house, lasting till 11.
+
+During these prayers he gave the inner meaning of the Durga Puja. He said that if anyone could realize the Divine Mother, that is to say, could install Mother Durga in the shrine of his heart, then Lakshmi, Sarasvati, Kartika, and Ganesa would come there of themselves. Lakshmi means wealth, Sarasvati knowledge, Kartika strength, and Ganesa success. By realizing the Divine Mother within one's heart, one gets all these without any effort whatever."
 
 Sri Ramakrishna listened to the description, questioning M. now and then about the prayers conducted by Keshab. At last he said to M.: "Don't go hither and thither. Come here alone. Those who belong to the inner circle of my devotees will come only here. Boys like Narendra, Bhavanath, and Rakhal are my very intimate disciples. They are not
 to be thought lightly of. Feed them one day. What do you think of Narendra?"
 
+
 M: "I think very highly of him, sir."
 
-MASTER: "Haven't you observed his many virtues? He is not only well versed in music,
-vocal and instrumental, but he is also very learned. Besides, he has controlled his
-passions and declares he will lead a celibate life. He has been devoted to God since his
-very boyhood.
+MASTER: "Haven't you observed his many virtues? He is not only well versed in music, vocal and instrumental, but he is also very learned. Besides, he has controlled his passions and declares he will lead a celibate life. He has been devoted to God since his very boyhood.

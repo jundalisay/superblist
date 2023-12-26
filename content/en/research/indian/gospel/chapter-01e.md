@@ -85,8 +85,7 @@ The ever-free are like clever fish that are never caught in the net.
 
 But most of the fish caught in the net cannot escape, nor do they make any effort to get out. 
 
-On the contrary, they burrow into the mud with the net in their mouths and lie there quietly, thinking, 'We need not fear any more; we are quite
-safe here.' 
+On the contrary, they burrow into the mud with the net in their mouths and lie there quietly, thinking, 'We need not fear any more; we are quite safe here.' 
 
 But the poor things do not know that the fishermen will drag them out with the net. These are like the men bound to the world.
 

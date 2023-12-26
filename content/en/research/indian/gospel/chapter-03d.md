@@ -40,58 +40,63 @@ Of little use are worship, oblations, or sacrifice.
 
 ## Growth of divine love lessens worldly duties
 
-"What is needed is absorption in God - loving Him intensely. The 'Nectar Lake' is the Lake of Immortality. A man sinking in It does not die, but becomes immortal. Some people believe that by thinking of God too much the mind becomes deranged; but that is not true. God is the Lake of Nectar, the Ocean of Immortality. 
+
+{{< l a="Ramakrishna" >}}
+What is needed is absorption in God - loving Him intensely. The 'Nectar Lake' is the Lake of Immortality. A man sinking in It does not die, but becomes immortal. 
+
+Some people believe that by thinking of God too much the mind becomes deranged, But that is not true. God is the Lake of Nectar, the Ocean of Immortality. 
 
 He is called the 'Immortal' in the Vedas. Sinking in It, one does not die, but verily transcends death. Of little use are worship, oblations, or sacrifice.
 
 If a man comes to love God, he need not trouble himself much about these activities.
 
 One needs a fan only as long as there is no breeze. The fan may be laid aside if the southern breeze blows. Then what need is there of a fan?
+{{< /l >}}
 
+
+{{< l a="Ramakrishna" >}}
 (To Vidyasagar) "The activities that you are engaged in are good. It is very good if you can perform them in a selfless spirit, renouncing egotism, giving up the idea that you are the doer. Through such action one develops love and devotion to God, and ultimately realizes Him.
 
 "The more you come to love God, the less you will be inclined to perform action. When the daughter-in-law is with child, her mother-in-law gives her less work to do. As time goes by she is given less and less work. When the time of delivery nears, she is not allowed to do any work at all, lest it should hurt the child or cause difficulty at the time of birth.
 
-"By these philanthropic activities you are really doing good to yourself. If you can do
-them disinterestedly, your mind will become pure and you will develop love of God. As
-soon as you have that love you will realize Him.
-"Man cannot really help the world. God alone does that - He who has created the sun
-and the moon, who has put love for their children in parents' hearts, endowed noble
-souls with compassion, and holy men and devotees with divine love. The man who
-works for others, without any selfish motive, really does good to himself.
-120"There is gold buried in your heart, but you
-thin layer of clay. Once you are aware of it,
-the birth of her child, the daughter-in-law
+"By these philanthropic activities you are really doing good to yourself. If you can do them disinterestedly, your mind will become pure and you will develop love of God. As soon as you have that love you will realize Him.
 
-Everything she does is only for the child.
-household duties.
+"Man cannot really help the world. God alone does that - He who has created the sun and the moon, who has put love for their children in parents' hearts, endowed noble souls with compassion, and holy men and devotees with divine love. The man who works for others, without any selfish motive, really does good to himself.
 
-are not yet aware of it. It is covered with a
-all these activities of yours will lessen. After
-in the family busies herself with it alone.
-Her mother-in-law doesn't let her do any
+"There is gold buried in your heart, but you thin layer of clay. Once you are aware of it, all these activities of yours will lessen. After the birth of her child, the daughter-in-law Everything she does is only for the child. Her mother-in-law doesn't let her do any household duties.
+{{< /l >}}
+
+
+<!-- are not yet aware of it. It is covered with a
+
+in the family busies herself with it alone. -->
+
 
 ## Parable of the wood-cutter
 
-"Go forward. A wood-cutter once entered a forest to gather wood. A brahmachari said
-to him, 'Go forward.' He obeyed the injunction and discovered some sandal-wood trees.
-After a few days he reflected, 'The holy man asked me to go forward. He didn't tell me
-to stop here.' So he went forward and found a silver-mine. After a few days he went still
-farther and discovered a gold-mine, and next, mines of diamonds and precious stones.
+"Go forward. A wood-cutter once entered a forest to gather wood. A brahmachari said to him, 'Go forward.' He obeyed the injunction and discovered some sandal-wood trees. 
+
+After a few days he reflected, 'The holy man asked me to go forward. He didn't tell me to stop here.' So he went forward and found a silver-mine. After a few days he went still farther and discovered a gold-mine, and next, mines of diamonds and precious stones. 
+
 With these he became immensely rich.
-"Through selfless work, love of God grows in the heart. Then, through His grace one
-realizes Him in course of time. God can be seen. One can talk to him as I am talking to
-you."
-In silent wonder they all sat listening to the Master's words. It seemed to them that the
-Goddess of Wisdom Herself, seated on Sri Ramakrishna's tongue was addressing these
-words not merely to Vidyasagar, but to all humanity for its good.
-It was nearly nine o'clock in the evening. The Master was about to leave.
-Master (to Vidyasagar, with a smile): "The words I have spoken are really superfluous.
-You know all this; you simply aren't conscious of it. There are countless gems in the
-coffers of Varuna. But he himself isn't aware of them."
+
+"Through selfless work, love of God grows in the heart. Then, through His grace one realizes Him in course of time. God can be seen. One can talk to him as I am talking to you."
+
+In silent wonder they all sat listening to the Master's words. It seemed to them that the Goddess of Wisdom Herself, seated on Sri Ramakrishna's tongue was addressing these words not merely to Vidyasagar, but to all humanity for its good.
+It was nearly nine o'clock in the evening. 
+
+The Master was about to leave.
+
+Master (to Vidyasagar, with a smile): "The words I have spoken are really superfluous. 
+
+You know all this; you simply aren't conscious of it. There are countless gems in the coffers of Varuna. But he himself isn't aware of them."
+
 VIDYASAGAR (with a smile): "You may say as you like."
 
-MASTER (smiling): "Oh yes. There are many wealthy people who don't know the names of all their servants, and are even unaware of many of the precious things in their houses."
+{{< l a="Ramakrishna" >}}
+(smiling): "Oh yes. There are many wealthy people who don't know the names of all their servants, and are even unaware of many of the precious things in their houses."
+{{< /l >}}
+
 
 (All laugh.)
 
@@ -115,6 +120,7 @@ aground on the way!" (All laugh.) But even a ship can go there at this season."
 VIDYASAGR (smiling): "Yes, this is the monsoon season." (All laugh.)
 
 M. said to himself: "This is indeed the monsoon season of newly awakened love. At such times one doesn't care for prestige or formalities."
+
 Sri Ramakrishna then took leave of Vidyasagar, who with his friends escorted the Master to the main gate, leading the way with a lighted candle in his hand. Before leaving the room, the Master prayed for the family's welfare, going into an ecstatic mood as he did so.
 
 As soon as the Master and the devotees reached the gate, they saw an unexpected sight and stood still. In front of them was a bearded gentleman of fair complexion, aged about thirty-six. He wore his clothes like a Bengali, but on his head was a white turban tied after the fashion of the Sikhs. No sooner did he see the Master than he fell prostrate before him, turban and all.
@@ -131,7 +137,4 @@ VIDYASAGAR (to M., softly): "Shall I pay the carriage hire?"
 
 M: "Oh, don't bother, please. It is taken care of."
 
-Vidyasagar and his friends bowed to Sri Ramakrishna, and the carriage started for
-Dakshineswar. But the little group, with the venerable Vidyasagar at their head holding
-the lighted candle, stood at the gate and gazed after the Master until he was out of sight.
-
+Vidyasagar and his friends bowed to Sri Ramakrishna, and the carriage started for Dakshineswar. But the little group, with the venerable Vidyasagar at their head holding the lighted candle, stood at the gate and gazed after the Master until he was out of sight.

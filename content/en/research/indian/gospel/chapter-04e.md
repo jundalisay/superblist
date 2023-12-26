@@ -13,66 +13,67 @@ How are you getting along with your meditation nowadays? What aspect of God appe
 
 M: "Sir, now I can't fix my mind on God with form. On the other hand, I can't concentrate steadily on God without form."
 
-MASTER: "Now you see that the mind cannot be fixed, all of a sudden, on the formless aspect of God. It is wise to think of God with form during the primary stages."
+{{< l a="Ramakrishna" >}}
+Now you see that the mind cannot be fixed, all of a sudden, on the formless aspect of God. It is wise to think of God with form during the primary stages.
+{{< /l >}}
 
 M: "Do you mean to suggest that one should meditate on clay images?"
 
-MASTER: "Why clay? These images are the embodiments of Consciousness."
+{{< l a="Ramakrishna" >}}
+Why clay? These images are the embodiments of Consciousness.
+{{< /l >}}
+
+
 
 M: "Even so, one must think of hands, feet, and the other parts of body. But again, I realize that the mind cannot be concentrated unless one meditates, in the beginning, on God with form. You have told me so. Well, God can easily assume different forms. May one meditate on the form of one's own mother?"
 
-MASTER: "Yes, the mother should be adored. Brahman."
+{{< l a="Ramakrishna" >}}
+Yes, the mother should be adored. Brahman."
+{{< /l >}}
 
-She is indeed an embodiment of M. sat in silence. After a few minutes he asked the Master: "What does one feel while
-thinking of God without form? Isn't it possible to describe it?" After some reflection, the
-Master said, "Do you know what it is like?" He remained silent a moment and then said a
-few words to M. about one's experiences at the time of the vision of God with and
+
+She is indeed an embodiment of M. sat in silence. After a few minutes he asked the Master: "What does one feel while thinking of God without form? Isn't it possible to describe it?" After some reflection, the Master said, "Do you know what it is like?" He remained silent a moment and then said a few words to M. about one's experiences at the time of the vision of God with and
 without form.
 
-MASTER: "You see, one must practise spiritual discipline to understand this correctly. Suppose, there are treasures in a room. If you want to see them and lay hold of them, you must take the trouble to get the key and unlock the door. After that you must take the treasures out.
+{{< l a="Ramakrishna" >}}
+You see, one must practise spiritual discipline to understand this correctly. Suppose, there are treasures in a room. If you want to see them and lay hold of them, you must take the trouble to get the key and unlock the door. After that you must take the treasures out.
 
 But suppose the room is locked, and standing outside the door you say to yourself: 'Here I have opened the door. Now I have broken the lock of the chest. Now I have taken out the treasure.' Such brooding near the door will not enable you to
 achieve anything. You must practise discipline.
-
+{{< /l >}}
 
 
 
 ## Brahman and Divine Incarnations
 
 The jnanis think of God without form. They don't accept the Divine Incarnation.
-Praising Sri Krishna, Arjuna said, 'Thou art Brahman Absolute.' Sri Krishna replied,
-'Follow Me, and you will know whether or not I am Brahman Absolute.' So saying, Sri
-Krishna led Arjuna to a certain place and asked him what he saw there. 'I see a huge
-tree,' said Arjuna, 'and on it I notice fruits hanging like clusters of blackberries.' Then
-Krishna said to Arjuna, 'Come nearer and you will find that these are not clusters of
-blackberries, but clusters of innumerable Krishnas like Me, hanging from the tree.' In
-other words, Divine Incarnations without number appear and disappear on the tree of
-the Absolute Brahman.
-"Kavirdas was strongly inclined to the formless God. At the mention of Krishna's name
-he would say: 'Why should I worship Him? The gopis would clap their hands while He
-performed a monkey dance.' (With a smile) But I accept God with form when I am in the
+
+Praising Sri Krishna, Arjuna said, 'Thou art Brahman Absolute.' Sri Krishna replied, 'Follow Me, and you will know whether or not I am Brahman Absolute.' So saying, Sri Krishna led Arjuna to a certain place and asked him what he saw there. 'I see a huge
+tree,' said Arjuna, 'and on it I notice fruits hanging like clusters of blackberries.' 
+
+Then Krishna said to Arjuna, 'Come nearer and you will find that these are not clusters of blackberries, but clusters of innumerable Krishnas like Me, hanging from the tree.' In other words, Divine Incarnations without number appear and disappear on the tree of the Absolute Brahman.
+
+"Kavirdas was strongly inclined to the formless God. At the mention of Krishna's name he would say: 'Why should I worship Him? The gopis would clap their hands while He performed a monkey dance.' (With a smile) But I accept God with form when I am in the
 company of people who believe in that ideal, and I also agree with those who believe in
 the formless God."
-M. (smiling): "You are as infinite as He of whom we have been talking. Truly, no one
-can fathom your depth."
-MASTER (smiling): "Ah! I see you have found it out. Let me tell you one thing. One
-should follow various paths. One should practise each creed for a time. In a game of
-satrancha a piece can't reach the centre square until it completes the circle; but once in
-the square it can't be overtaken by any other piece."
+
+M. (smiling): "You are as infinite as He of whom we have been talking. Truly, no one can fathom your depth."
+
+MASTER (smiling): "Ah! I see you have found it out. Let me tell you one thing. One should follow various paths. One should practise each creed for a time. In a game of satrancha a piece can't reach the centre square until it completes the circle; but once in the square it can't be overtaken by any other piece."
+
 M: "That is true, sir."
-MASTER: "There are two classes of. yogis: the bahudakas and the kutichakas. The
-bahudakas roam about visiting various holy places and have not yet found peace of
-mind. But the kutichakas, having visited all the sacred places, have quieted their
+
+MASTER: "There are two classes of. yogis: the bahudakas and the kutichakas. The bahudakas roam about visiting various holy places and have not yet found peace of mind. But the kutichakas, having visited all the sacred places, have quieted their
 minds. Feeling serene and peaceful, they settle down in one place and no longer move
 about. In that one place they are happy; they don't feel the need of going to any sacred
 place. If one of them ever visits a place of pilgrimage, it is only for the purpose of new
 inspiration.
-"I had to practise each religion for a time - Hinduism, Islam, Christianity. Furthermore, I
-followed the paths of the Saktas, Vaishnavas, and Vedantists. I realized that there is
-only one God toward whom all are travelling; but the paths are different.
+
+"I had to practise each religion for a time - Hinduism, Islam, Christianity. Furthermore, I followed the paths of the Saktas, Vaishnavas, and Vedantists. I realized that there is only one God toward whom all are travelling; but the paths are different.
 142"While visiting the holy places, I would sometimes suffer great agony. Once I went with
-Mathur to Raja Babu's drawing-room in Benares. I found that they talked there only of
-worldly matters - money, real estate, and the like. At this I burst into tears. I said to
+Mathur to Raja Babu's drawing-room in Benares. 
+
+I found that they talked there only of worldly matters - money, real estate, and the like. At this I burst into tears. I said to
 the Divine Mother, weeping: 'Mother! Where hast Thou brought me? I was much better
 off at Dakshineswar.' In Allahabad I noticed the same things that I saw elsewhere - the
 same ponds, the same grass, the same trees, the same tamarind-leaves.
@@ -88,10 +89,7 @@ Krishna? Where is my Krishna?'
 "I went to Syamakunda and Radhakunda in a palanquin and got out to visit the holy Mount Govardhan. At the very sight of the mount I was overpowered with divine emotion and ran to the top. I lost all consciousness of the world around me. The
 residents of the place helped me to come down.
 
-On my way to the sacred pools of Syamakunda and Radhakunda, when I saw the meadows, the trees, the shrubs, the
-birds, and the deer, I was overcome with ecstasy. My clothes became wet with tears. I
-said: 'O Krishna! Everything here is as it was in the olden days. You alone are absent.'
-Seated inside the palanquin I lost all power of speech. Hriday followed the palanquin.
+On my way to the sacred pools of Syamakunda and Radhakunda, when I saw the meadows, the trees, the shrubs, the birds, and the deer, I was overcome with ecstasy. My clothes became wet with tears. I said: 'O Krishna! Everything here is as it was in the olden days. You alone are absent.' Seated inside the palanquin I lost all power of speech. Hriday followed the palanquin.
 He had warned the bearers to be careful about me.
 
 Gangamayi became very fond of me in Vrindāvan. She was an old woman who lived all alone in a hut near the Nidhuvan. Referring to my spiritual condition and ecstasy, she said, 'He is the very embodiment of Radha.' She addressed me as 'Dulali'. When with
@@ -148,16 +146,14 @@ Kamarpukur in a bullock-cart, when a great storm arose. Some people gathered nea
 the cart. My companions said they were robbers. So I began to repeat the names of
 144God, calling sometimes on Kāli, sometimes on Rama, sometimes on Hanuman. What do
 you think of that?"
+
 Was the Master hinting that God is one but is addressed differently by different sects?
-MASTER (to Balaram): "Maya is nothing but 'woman and gold'. A man living in its midst
-gradually loses his spiritual alertness. He thinks all is well with him. The scavenger
-carries a tub of night-soil on his head, and in course of time loses his repulsion to it.
-One gradually acquires love of God through the practice of chanting God's name and
-glories. (To M.) One should not be ashamed of chanting God's holy name. As the
-saying goes, 'One does not succeed so long as one has these three: shame, hatred,
+
+MASTER (to Balaram): "Maya is nothing but 'woman and gold'. A man living in its midst gradually loses his spiritual alertness. He thinks all is well with him. The scavenger carries a tub of night-soil on his head, and in course of time loses his repulsion to it. 
+
+One gradually acquires love of God through the practice of chanting God's name and glories. (To M.) One should not be ashamed of chanting God's holy name. As the saying goes, 'One does not succeed so long as one has these three: shame, hatred,
 and fear.'
-"At Kamarpukur they sing kirtan very well.
-accompaniment of drums.
-The devotional music is sung to the
-(To Balaram) "Have you installed any image at Vrindāvan?"
+
+"At Kamarpukur they sing kirtan very well. accompaniment of drums.
+The devotional music is sung to the (To Balaram) "Have you installed any image at Vrindāvan?"
 BALARAM: "Yes, sir. We have a grove where Krishna is worshipped."

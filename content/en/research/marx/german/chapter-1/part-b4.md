@@ -55,35 +55,96 @@ The existence of revolutionary ideas in a particular period presupposes the exis
 > *Superphysics note: In social cycles model, this class is commonly either the worker or warrior class.
 
 
+In the course of history, the ruling class imposes the dominant ideas. 
+- When the aristocracy was dominant, the concepts honour, loyalty, etc. were dominant
+- When the bourgeoisie was dominant, the concepts freedom, equality, etc. were dominant
 
-If now in considering the course of history we detach the ideas of the ruling class from the ruling class itself and attribute to them an independent existence, if we confine ourselves to saying that these or those ideas were dominant at a given time, without bothering ourselves about the conditions of production and the producers of these ideas, if we thus ignore the individuals and world conditions which are the source of the ideas, we can say, for instance, that during the time that the aristocracy was dominant, the concepts honour, loyalty, etc. were dominant, during the dominance of the bourgeoisie the concepts freedom, equality, etc. 
+That is why, in my analysis of history, I detach the ideas of the ruling class. I thus ignore the individuals and world conditions which are the source of the ideas.
 
-The ruling class itself on the whole imagines this to be so.
+ <!-- from the ruling class itself and attribute to them an independent existence -->
 
-This conception of history, which is common to all historians, particularly since the eighteenth century, will necessarily come up against the phenomenon that increasingly abstract ideas hold sway, i.e. ideas which increasingly take on the form of universality. 
+<!-- , if we confine ourselves to saying that these or those ideas were dominant at a given time, without bothering ourselves about the conditions of production and the producers of these ideas,  -->
 
-For each new class which puts itself in the place of one ruling before it, is compelled, merely in order to carry through its aim, to represent its interest as the common interest of all the members of society, that is, expressed in ideal form: it has to give its ideas the form of universality, and represent them as the only rational, universally valid ones. The class making a revolution appears from the very start, if only because it is opposed to a class, not as a class but as the representative of the whole of society; it appears as the whole mass of society confronting the one ruling class. —
+<!-- The ruling class itself on the whole imagines this to be so. -->
 
-Marginal note by Marx: Universality corresponds to (1) the class versus the estate, (2) the competition, world-wide intercourse, etc., (3) the great numerical strength of the ruling class, (4) the illusion of the common interests (in the beginning this illusion is true), (5) the delusion of the ideologists and the division of labour.
+This conception of history is common to all historians, particularly since the 18th century.
 
-— It can do this because, to start with, its interest really is more connected with the common interest of all other non-ruling classes, because under the pressure of hitherto existing conditions its interest has not yet been able to develop as the particular interest of a particular class. Its victory, therefore, benefits also many individuals of the other classes which are not winning a dominant position, but only insofar as it now puts these individuals in a position to raise themselves into the ruling class. 
+<!-- , will necessarily come up against the phenomenon that increasingly abstract ideas hold sway, i.e. ideas which increasingly take on the form of universality.  -->
 
-When the French bourgeoisie overthrew the power of the aristocracy, it thereby made it possible for many proletarians to raise themselves above the proletariat, but only insofar as they become bourgeois. Every new class, therefore, achieves its hegemony only on a broader basis than that of the class ruling previously, whereas the opposition of the non-ruling class against the new ruling class later develops all the more sharply and profoundly. Both these things determine the fact that the struggle to be waged against this new ruling class, in its turn, aims at a more decided and radical negation of the previous conditions of society than could all previous classes which sought to rule.
+Each new ruling class is compelled to represent its interest as the common interest of all of society, so that achieve its goals. It has to:
+- give its ideas the form of universality, and
+- represent them as the only rational, universally valid ones. 
+<!-- it can carry through its aim. -->
+
+<!-- , that is, expressed in ideal form:  -->
+
+The class making a revolution appears to represent all of society only because it is opposed to the old ruling class. It appears as the whole mass of society confronting the one ruling class.
+
+<!--  from the very start, if , not as a class but as the representative of the whole of society; 
+
+ — -->
+
+
+{{< box >}}
+### Marginal note by Marx
+
+Universality corresponds to:
+
+1. The class versus the estate
+2. The competition, world-wide intercourse, etc.
+3. The great numerical strength of the ruling class
+4. The illusion of the common interests (in the beginning this illusion is true)
+5. The delusion of the ideologists and the division of labour.
+{{< /box >}}
+
+
+The class doing the revolution can do this because its interest really is more connected with the common interest of all other non-ruling classes.
+
+<!-- , because under the pressure of hitherto existing conditions its interest has not yet been able to develop as the particular interest of a particular class.  -->
+
+Its victory, therefore, benefits also many individuals of the other classes which are not winning a dominant position, but only insofar as it now puts these individuals in a position to raise themselves into the ruling class. 
+
+When the French bourgeoisie overthrew the aristocracy, it allowed many proletarians to raise themselves above the proletariat, but only insofar as they become bourgeois. 
+
+Every new class, therefore, achieves its hegemony only on a broader basis than that of the class ruling previously, whereas the opposition of the non-ruling class against the new ruling class later develops all the more sharply and profoundly. 
+
+Both these things determine the fact that the struggle to be waged against this new ruling class, in its turn, aims at a more decided and radical negation of the previous conditions of society than could all previous classes which sought to rule.
 
 This whole semblance, that the rule of a certain class is only the rule of certain ideas, comes to a natural end, of course, as soon as class rule in general ceases to be the form in which society is organised, that is to say, as soon as it is no longer necessary to represent a particular interest as general or the “general interest” as ruling.
 
-Once the ruling ideas have been separated from the ruling individuals and, above all, from the relationships which result from a given stage of the mode of production, and in this way the conclusion has been reached that history is always under the sway of ideas, it is very easy to abstract from these various ideas “the idea,” the notion, etc. as the dominant force in history, and thus to understand all these separate ideas and concepts as “forms of self-determination” on the part of the concept developing in history. It follows then naturally, too, that all the relationships of men can be derived from the concept of man, man as conceived, the essence of man, Man. This has been done by the speculative philosophers. Hegel himself confesses at the end of the Geschichtsphilosophie that he “has considered the progress of the concept only” and has represented in history the “true theodicy.” (p.446.) Now one can go back again to the producers of the “concept,” to the theorists, ideologists and philosophers, and one comes then to the conclusion that the philosophers, the thinkers as such, have at all times been dominant in history: a conclusion, as we see[27], already expressed by Hegel. The whole trick of proving the hegemony of the spirit in history (hierarchy Stirner calls it) is thus confined to the following three efforts.
+Once the ruling ideas have been separated from the ruling individuals and, above all, from the relationships which result from a given stage of the mode of production, and in this way the conclusion has been reached that history is always under the sway of ideas, it is very easy to abstract from these various ideas “the idea,” the notion, etc. as the dominant force in history, and thus to understand all these separate ideas and concepts as “forms of self-determination” on the part of the concept developing in history. 
 
-No. 1. One must separate the ideas of those ruling for empirical reasons, under empirical conditions and as empirical individuals, from these actual rulers, and thus recognise the rule of ideas or illusions in history.
+It follows then naturally, too, that all the relationships of men can be derived from the concept of man, man as conceived, the essence of man, Man. This has been done by the speculative philosophers. Hegel himself confesses at the end of the Geschichtsphilosophie that he “has considered the progress of the concept only” and has represented in history the “true theodicy.” (p.446.) 
 
-No. 2. One must bring an order into this rule of ideas, prove a mystical connection among the successive ruling ideas, which is managed by understanding them as “acts of self-determination on the part of the concept” (this is possible because by virtue of their empirical basis these ideas are really connected with one another and because, conceived as mere ideas, they become self-distinctions, distinctions made by thought).
+Now one can go back again to the producers of the “concept,” to the theorists, ideologists and philosophers, and one comes then to the conclusion that the philosophers, the thinkers as such, have at all times been dominant in history: a conclusion, as we see[27], already expressed by Hegel. 
 
-No. 3. To remove the mystical appearance of this “self-determining concept” it is changed into a person – “Self-Consciousness” – or, to appear thoroughly materialistic, into a series of persons, who represent the “concept” in history, into the “thinkers,” the “philosophers,” the ideologists, who again are understood as the manufacturers of history, as the “council of guardians,” as the rulers. Thus the whole body of materialistic elements has been removed from history and now full rein can be given to the speculative steed.
+The whole trick of proving the hegemony of the spirit in history (hierarchy Stirner calls it) is thus confined to the following 3 efforts.
+
+1. One must separate the ideas of those ruling for empirical reasons, under empirical conditions and as empirical individuals, from these actual rulers, and thus recognise the rule of ideas or illusions in history.
+
+2. One must bring an order into this rule of ideas, prove a mystical connection among the successive ruling ideas, which is managed by understanding them as “acts of self-determination on the part of the concept” 
+
+(this is possible because by virtue of their empirical basis these ideas are really connected with one another and because, conceived as mere ideas, they become self-distinctions, distinctions made by thought).
+
+3. One must remove the mystical appearance of this “self-determining concept” and change it into a person – “Self-Consciousness” 
+
+To be thoroughly materialistic he must convert it into a series of persons who represent the “concept” in history:
+- the “thinkers”
+- the “philosophers”
+- the ideologists (the manufacturers of history)
+- the “council of guardians” as the rulers. 
+
+Thus the whole body of materialistic elements has been removed from history and now full rein can be given to the speculative steed.
 
 Whilst in ordinary life every shopkeeper is very well able to distinguish between what somebody professes to be and what he really is, our historians have not yet won even this trivial insight. They take every epoch at its word and believe that everything it says and imagines about itself is true.
 
-This historical method which reigned in Germany, and especially the reason why, must be understood from its connection with the illusion of ideologists in general, e.g. the illusions of the jurist, politicians (of the practical statesmen among them, too), from the dogmatic dreamings and distortions of these fellows; this is explained perfectly easily from their practical position in life, their job, and the division of labour.
+This historical method reigned in Germany because of its connection with the illusion of ideologists in general.
 
+Example are:
+- the illusions of the jurist
+- the illusions of politicians from the dogmatic dreamings and distortions of these fellows
+
+<!-- This is explained perfectly easily from their practical position in life, their job, and the division of labour. -->
 
 ---
 
@@ -104,7 +165,6 @@ It is not the consciousness of men that determines their existence, but their so
 At a certain stage of development, the material productive forces of society come into conflict with the existing relations of production. 
 - This creates the property relations within the framework.  <!-- of which they have operated hitherto.  --> 
 - From forms of development of the productive forces, these relations turn into their fetters. 
-
 
 
 ## Social Revolution

@@ -48,20 +48,44 @@ This sum of productive forces, capital funds and social forms of intercourse, wh
 
 These conditions of life, which different generations find in existence, decide also whether or not the periodically recurring revolutionary convulsion will be strong enough to overthrow the basis of the entire existing system. 
 
-If these material elements of a complete revolution are not present (namely, on the one hand the existing productive forces, on the other the formation of a revolutionary mass, which revolts not only against separate conditions of society up till then, but against the very “production of life” till then, the “total activity” on which it was based), then, as far as practical development is concerned, it is absolutely immaterial whether the idea of this revolution has been expressed a hundred times already, as the history of communism proves.
+The material elements of a complete revolution are:
+- the existing productive forces
+- the formation of a revolutionary mass
+
+That revolutionary mass must revolt against:
+- the separate conditions of society up till then and
+- the very “production of life” till then, which is the basis of its “total activity”
+
+The history of communism proves that if these elements are missing, then it is practically useless even if the idea of this revolution has been expressed 100 times. 
+
 
 
 ## 8. The Inconsistency of the Idealist Conception of History in General, and of German Post-Hegelian Philosophy in Particular
 
-In the whole conception of history up to the present this real basis of history has either been totally neglected or else considered as a minor matter quite irrelevant to the course of history. History must, therefore, always be written according to an extraneous standard; the real production of life seems to be primeval history, while the truly historical appears to be separated from ordinary life, something extra-superterrestrial. With this the relation of man to nature is excluded from history and hence the antithesis of nature and history is created. 
+The real basis of history has either been totally neglected or considered as an irrelevant matter.
 
-The exponents of this conception of history have consequently only been able to see in history the political actions of princes and States, religious and all sorts of theoretical struggles, and in particular in each historical epoch have had to share the illusion of that epoch. For instance, if an epoch imagines itself to be actuated by purely “political” or “religious” motives, although “religion” and “politics” are only forms of its true motives, the historian accepts this opinion. The “idea,” the “conception” of the people in question about their real practice, is transformed into the sole determining, active force, which controls and determines their practice. When the crude form in which the division of labour appears with the Indians and Egyptians calls forth the caste-system in their State and religion, the historian believes that the caste-system is the power which has produced this crude social form.
+History must, therefore, always be written according to an extraneous standard.
 
-While the French and the English at least hold by the political illusion, which is moderately close to reality, the Germans move in the realm of the “pure spirit,” and make religious illusion the driving force of history. The Hegelian philosophy of history is the last consequence, reduced to its “finest expression,” of all this German historiography, for which it is not a question of real, nor even of political, interests, but of pure thoughts, which consequently must appear to Saint Bruno as a series of “thoughts” that devour one another and are finally swallowed up in “self-consciousness.” —
+The real production of life seems to be primeval history, while the truly historical appears to be separated from ordinary life, something extra-superterrestrial. With this the relation of man to nature is excluded from history and hence the antithesis of nature and history is created. 
 
-Marginal note by Marx: So-called objective historiography [23] consisted precisely, in treating the historical relations separately from activity. Reactionary character.
+The exponents of this conception of history have consequently only been able to see in history the political actions of princes and States, religious and all sorts of theoretical struggles, and in particular in each historical epoch have had to share the illusion of that epoch.
 
-— and even more consistently the course of history must appear to Saint Max Stirner, who knows not a thing about real history, as a mere “tale of knights, robbers and ghosts,”[24] from whose visions he can, of course, only save himself by “unholiness”. This conception is truly religious: it postulates religious man as the primitive man, the starting-point of history, and in its imagination puts the religious production of fancies in the place of the real production of the means of subsistence and of life itself.
+For instance, if an epoch imagines itself to be actuated by purely “political” or “religious” motives, although “religion” and “politics” are only forms of its true motives, the historian accepts this opinion. 
+
+The “idea,” the “conception” of the people in question about their real practice, is transformed into the sole determining, active force, which controls and determines their practice. 
+
+When the crude form in which the division of labour appears with the Indians and Egyptians calls forth the caste-system in their State and religion, the historian believes that the caste-system is the power which has produced this crude social form.
+
+While the French and the English at least hold by the political illusion, which is moderately close to reality, the Germans move in the realm of the “pure spirit,” and make religious illusion the driving force of history. 
+
+The Hegelian philosophy of history is the last consequence. It is reduced to its “finest expression,” of all this German historiography, for which it is not a question of real, nor even of political, interests, but of pure thoughts, which consequently must appear to Saint Bruno as a series of “thoughts” that devour one another and are finally swallowed up in “self-consciousness.” —
+
+
+> Marginal note by Marx: So-called objective historiography [23] consisted precisely, in treating the historical relations separately from activity. Reactionary character.
+
+— and even more consistently the course of history must appear to Saint Max Stirner, who knows not a thing about real history, as a mere “tale of knights, robbers and ghosts,”[24] from whose visions he can, of course, only save himself by “unholiness”. 
+
+This conception is truly religious. It postulates religious man as the primitive man, the starting-point of history. It puts the religious production of fancies in the place of the real production of the means of subsistence and of life itself.
 
 This whole conception of history, together with its dissolution and the scruples and qualms resulting from it, is a purely national affair of the Germans and has merely local interest for Germany, as for instance the important question which has been under discussion in recent times: how exactly one “passes from the realm of God to the realm of Man” [Ludwig Feuerbach, Ueber das Wesen des Christenthums] – as if this “realm of God” had ever existed anywhere save in the imagination, and the learned gentlemen, without being aware of it, were not constantly living in the “realm of Man” to which they are now seeking the way; and as if the learned pastime (for it is nothing more) of explaining the mystery of this theoretical bubble-blowing did not on the contrary lie in demonstrating its origin in actual earthly relations. For these Germans, it is altogether simply a matter of resolving the ready-made nonsense they find into some other freak, i.e., of presupposing that all this nonsense has a special sense which can be discovered; while really it is only a question of explaining these theoretical phrases from the actual existing relations. The real, practical dissolution of these phrases, the removal of these notions from the consciousness of men, will, as we have already said, be effected by altered circumstances, not by theoretical deductions. For the mass of men, i.e., the proletariat, these theoretical notions do not exist and hence do not require to be dissolved, and if this mass ever had any theoretical notions, e.g., religion, these have now long been dissolved by circumstances.
 
