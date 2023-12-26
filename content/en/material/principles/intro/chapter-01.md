@@ -137,10 +137,7 @@ Material | Earth, Pritvi, 金 (solid metal) | Strong | Nuclear force | Gluons (e
 
 These 5 layers classify Physical Reality neatly so that it can integrate perfectly with Metaphysical Reality which is made up of life, soul and identity. 
 
-
-{{< img src="/graphics/physics/layers.jpg" alt="5 Layers" >}}
-
-  <!-- mysteries of quantum physics (which is based on the radiant or electromagnetic layer) by extending human knowledge onto the higher gravitational (spatial) and aethereal layers.  -->
+<!-- mysteries of quantum physics (which is based on the radiant or electromagnetic layer) by extending human knowledge onto the higher gravitational (spatial) and aethereal layers.  -->
 
 
 {{< q a="Krishna" c="Bhagavad Gita" >}}
@@ -180,6 +177,9 @@ Western medicine is very good at material health problems that can be cured by p
 Each of these layers has a sound which represents the wave of that layer. This manifests as the five-tones of the Chinese and the 'diapente' of Pythagoras, as `Do Re Mi Sol La`.
 - Sol is the Greek Sol for the sun
 - La is Greek for 'milk' which became the name of the Milky Way galaxy, as their universe
+
+{{< img src="/graphics/physics/doremi.jpg" alt="Universal sounds" >}}
+
 
 The totality of the universe, combining the physical and metaphysical, have 8 tones as the octave of the Greeks and the Bagua of the Chinese.
 
