@@ -52,7 +52,7 @@ Notes | This requires a total refutation of Einstein, to be replaced by Lorentz-
 {{< img src="/graphics/physics/layers.jpg" alt="The 5 Elements" cap="Fundamental to Superphysics is the Classical 5 Elements which we rename as aethereal, spatial, radiant, transformative, and material. It is based on the mysterious, invisible-but-everywhere Aether (the spooky Actor from a distance) instead of being stuck with oh-so-obvious-but-limited Matter" >}}
 
 
-Materialists would say that all of this is pseudo-science. We would rather say it's Superphysics or [Dialectics](/superphysics/principles/chapter-11).
+Materialists would say that all of this is pseudo-science. We would rather say it's Superphysics or [Socratic Dialectics](/superphysics/principles/chapter-11).
 
 
 ## The Crisis Years as a Huge Opportunity
@@ -91,6 +91,7 @@ Contributors |
 --- | ---
 Juan | Juan, founder of Superphysics, likes to read and write about the works from the Enlightenment
 Lam | Lam writes about economics, business, and history
+Jose | Jose has been an alternative medicine practitioner since the 2000s, focusing on homeopathy and naturopathy, though he has tried doing Chinese medicine
 Jing | Jing likes to write about agriculture, data science, and the earth sciences
 Michael | Michael focuses on tech, with diverse topics such as blockchain, artificial intelligence   
 Brad | Brad contributes science articles occasionally

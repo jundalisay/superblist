@@ -1,47 +1,90 @@
 ---
 heading: "Chapter 5c"
-title: "The Elastic Theory of Gravity"
-date: 2023-02-20
-weight: 18
-image: "/graphics/physics/bands.jpg"
-description: "The Theory of Elastic Gravitational Bands is part of the details of the Theory Dynamism"
-icon: /icons/sp.png
+title: "Gravitational Territories"
+date: 2023-11-26
+image: "/graphics/physics/territories.jpg"
+description: "Gravitational Territories are the area of a gravitational signature"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+weight: 17
+icon: /icons/spmat.png
 ---
 
 
-Chapter 3 explained how the Law of Conservation of Idea gives every identity a unique dharma. This uniqueness gives it the property of movement and dynamism as it tries to preserve that uniqueness in the sea of creation. 
+The interaction between gravitational signatures naturally lead to gravitational territories which represent the space of an identity, as a particle, thing, person, place, etc.
 
-Chapter 4c explained the concept of gravitational signatures as notations of that dharma.
+<!-- Chapter 4c explained the concept of Gravitational Signatures which represent the inherent true nature of an identity -->
 
-Chapter 5 explained how the Two Forces create attraction and repulsion between identities as examples of such movement. 
+<!-- That signature is a purely metaphysical concept and has no direct physical manifestation. No one will be able to see or hear it. 
 
-Chapter 5b explained the concept of Gravitational Territories. 
-
-Combining these gives us 'The Elastic Theory' or the Theory of Elastic Gravitational Bands which is a consolidation of the theories from:
-- Socrates, as the relativity of the motions in the heavens
-- Kepler, as the links of kinship between planetary bodies
-- Descartes, as the aether powering all movement
-
-This theory explains the aethereal link that forms between two identites.  
+Its dynamics in the real world creates the idea of a gravitational territory which is the area where the gravitational signature can express itself and detect or interact with other signatures. -->
 
 
-It is applicable in many areas such as:
-- Economics as price movements
-- Sociology as international relations and cultural interaction
-- Relationships as marriage and divorce 
-- Physics as gravitation and magnetism
-- Medicine as disease and wellness
+Rene Descartes described these signatures as spinning vortices, each with its own strength and direction. 
+
+{{< q a="Descartes" c="The World, Chapter 8" >}}
+When the pure aether began to be divided, its division began in one part and spread out to all its parts as equally as it could. However, this equality of division could not be perfect because the division could not spread in a straight line since there was no void. Instead, each division happened as circular motions with different centers. This is because God gave each particle a different motion.
+{{< /q >}}
 
 
-<!-- which is the cause of all movement and change in the universe.
-
-All of this movement is caused by the creation or existence of other ideas, which manifest as entities in the physical domain. The rule on uniqueness makes those entities move away from each other. This leads to our Theory of Dynamism.  -->
+> *Quantum physics uses fields because it arose from electromagnetism which has magnetic fields. This is not useful in Superphysics because the aether is the most superior layer and we never think that feelings or minds have fields. Instead feelings and minds have layers -- there are deep and shallow minds, feelings, and ideas. Moreover, identities have territories or personal space, i.e. We say 'this is mine'.
 
 
-{{< youtube IMOftV0yfso >}}
+Each territory has parts, each with different properties:
+
+1. Inner
+2. Middle
+3. Outer
+4. Edge
 
 
-This is further explained in [Material Superphysics](/material/principles/part-2/chapter-04).
+{{< img alt="Gravitational Territories" src="/graphics/physics/territories.jpg" cap="" >}}
+
+
+## The Inner Area
+
+This is the safe zone for the identity.
+
+
+## The Middle Area
+
+This is the protective zone that helps nurture the safe zone.
+
+
+## The Outer Area
+
+This is the zone with a lot of clash from other identities.
+
+
+## The Edge
+
+This is the zone which has direct contact with other territories. 
+
+
+
+These have different manifestations depending on the type of identity. 
+
+Science | Inner | Middle | Outer | Edge
+--- | --- | --- | --- | --- 
+Star | Goldilocks Zone | Large Planets Zone | Oort Cloud | Stellar Halo 
+Person | Unconcsious | Subconscious | Conscious | Interactions 
+Society | Religion | Politics | Economy | Interactions 
+
+
+In human life, this territory is the aethereal aura that radiates from people.   
+
+Some people radiate a strong aura which manifest as a strong personality or X-factor, just as a large star or galaxy has a large gravitational field or influence.
+
+In Physics, a comet or asterod that enters a star's gravitational field will get a tendency to be attracted towards that star. 
+
+Likewise, when we see or come close to a person, we might get a tendency to talk to that person if we feel a curiosity or common interest with that person.
+
+Seeing or being that person is therefore being within that person's gravitational territory just as a body is attracted to a  bigger body that enters its gravitational field.
+
+<!-- This is explained in detail in Material Superphysics.  -->
+
+In other words, the quality of a vortex and its territory leads to attraction or repulsion movement, as explained by our Theory of Dynamism.
+
+This movement is the foundation of the Elastic Theory of Gravity, to be explained next. 
+

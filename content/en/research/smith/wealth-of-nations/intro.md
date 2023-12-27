@@ -9,6 +9,11 @@ icon: "/avatars/smith.png"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
+comments:
+  - name: Lam Nguyen
+    avatar: /avatars/lam.jpg
+    date: 2023-12-27
+    comment: "Thank you for this!"
 ---
 
 
@@ -32,12 +37,14 @@ Whatever a nation's soil, climate, location, or land area, its wealth depends on
 
 {{< s v="4" >}} Wealth depends more on the quality of work than the quantity.
 
-In savage nations of hunters, everyone hunts but their society stays miserably poor.
-In civilized nations, many people are unemployed.
-Yet the produce of the total work of their society is so great, that all are often abundantly supplied.
-The lowest worker, if frugal and industrious, may enjoy more necessaries and conveniencies than any savage.
+- In savage nations of hunters, everyone hunts but their society stays miserably poor.
+- In civilized nations, many people are unemployed. Yet the produce of the total work of their society is so great, that all are often abundantly supplied.
+
+The lowest worker, if frugal and industrious, can enjoy more necessaries and conveniencies than any savage.
+
 
 {{< s v="5" >}} The causes of the productivity and distribution of work within society are explained in Book 1.
+
 
 {{< s v="6" >}} The amount of work done depends on the proportion of useful and skilled labour employed to the labour not so employed.
 
@@ -51,21 +58,26 @@ Book 2, therefore, explains:
 - the amount of work the capital stock mobilizes according to the way it is used.
 
 
-{{< s v="7" >}} Civilized nations have followed very different plans in the direction of their nation's labour.
+{{< s v="7" >}} Civilized nations have followed very different plans in the direction of their nation's labour. Not all of these plans have been favourable to wealth.
 
-But these plans have not all been favourable to wealth.
-Some nations have greatly encouraged agriculture, while some have encouraged commerce and industrialization.
-Almost no nation has treated all industries equally and impartially.
+- Some nations have greatly encouraged agriculture.
+- Some have encouraged commerce and industrialization.
+
+**Almost no nation has treated all industries equally and impartially.**
+
 Since the fall of the Roman Empire, Europe has been more favourable to industry and commerce than to agriculture.
+
 The causes of this change are explained in Book 3.
 
 
 {{< s v="8" >}} Those different plans were perhaps created by vested interests without any regard to their consequences on society.
 
 They have created very different theories of economics.
-Some theories magnify the importance of industry.
-Some theories give importance to agriculture.
+- Some theories magnify the importance of industry.
+- Some theories give importance to agriculture.
+
 They have influenced intellectuals, policy makers, and world leaders.
+
 Those different theories and their effects are explained in Book 4.
 
 
@@ -73,10 +85,10 @@ Those different theories and their effects are explained in Book 4.
 
 Book 5 explains the revenue of government and:
 
-The necessary expences of government
-Which of those expenses should be defrayed by general taxes
-Which of those expenses should be defrayed by specific taxes targetting a particular segment of society
+- The necessary expences of government.
+  - Which of those expenses should be defrayed by general taxes.
+  - Which of those expenses should be defrayed by specific taxes targetting a particular segment of society.
+- The methods how the whole society can contribute towards defraying those expences.
+  - It includes the advantages and inconveniencies of each of those methods
+- The reasons and causes for government debt and their effects on the real wealth of society.
 
-The methods how the whole society can contribute towards defraying those expences.
-It includes the advantages and inconveniencies of each of those methods
-The reasons and causes for government debt and their effects on the real wealth of society.

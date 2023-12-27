@@ -15,9 +15,9 @@ icon: "/icons/descartes.png"
 
 I think of:
 - myself as a thing that thinks and is not extended
-- the stone as a thing that is extended and does not think so that the two conceptions differ enormously
+- the stone as a thing that is extended and does not think
 
-But they seem to have the classification ‘substance’ in common. 
+The two conceptions differ enormously. But they seem to have the classification ‘substance’ in common. 
 
 <!-- Again, I perceive that I now exist, and remember that I have existed for some time; moreover, I have various thoughts that I can count; it is in these ways that I acquire the ideas of duration and number that I can then transfer to other things. 
 

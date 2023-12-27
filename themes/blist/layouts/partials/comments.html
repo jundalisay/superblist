@@ -1,31 +1,64 @@
-{{ if .Site.Params.comments.system }}
-<div class="px-4 mb-2">
-  {{ if eq .Site.Params.comments.system "disqus" }}
-  {{ template "_internal/disqus.html" . }}
-  {{ else if eq .Site.Params.comments.system "giscus" }}
-  <script src="https://giscus.app/client.js"
-    data-repo="{{ .Site.Params.comments.repo }}"
-    data-repo-id="{{ .Site.Params.comments.repoid }}"
-    data-category="{{ .Site.Params.comments.category }}"
-    data-category-id="{{ .Site.Params.comments.categoryid }}"
-    data-mapping="{{ default "pathname" .Site.Params.comments.mapping }}"
-    data-strict="{{ default "0" .Site.Params.comments.strict }}"
-    data-reactions-enabled="{{ default "1" .Site.Params.comments.reactionsenabled }}"
-    data-emit-metadata="{{ default "0" .Site.Params.comments.emitmetadata }}"
-    data-input-position="{{ default "bottom" .Site.Params.comments.inputposition }}"
-    data-theme="{{ default "preferred_color_scheme" .Site.Params.comments.theme }}"
-    data-lang="{{ default "en" $.Site.Language.Lang }}"
-    crossorigin="anonymous"
-    async>
-  </script>
-  {{ else if eq .Site.Params.comments.system "utterances" }}
-  <script src="https://utteranc.es/client.js"
-    repo="{{ .Site.Params.comments.repo }}"
-    issue-term="{{ default "pathname" .Site.Params.comments.issueterm }}"
-    theme="{{ default "preferred_color_scheme" .Site.Params.comments.theme }}"
-    crossorigin="anonymous"
-    async>
-  </script>
-  {{ end }}
-</div>
-{{ end }}
+<section class="" id="contact">
+  <div class="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8 lg:py-20">
+    <div class="mb-4">
+      <div class="mb-6 max-w-3xl text-center sm:text-center md:mx-auto md:mb-12">
+          <p class="text-base font-semibold uppercase tracking-wide text-green-600 dark:text-green-200">
+             Any Comments? Post them below!
+          </p>
+      </div>
+    </div>
+    <form class="w-full" id="contact" action="https://hub.pantrypoints.com/api/email" method="post" target="_blank">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-4 items-center">
+            <div class="mx-0 mb-1 sm:mb-4">
+              <label for="name" class="pb-1 text-xs uppercase tracking-wider"></label>
+              <input type="text" id="name" autocomplete="given-name" placeholder="Your name" class="mb-2 w-full rounded-md border border-gray-400 py-2 pl-2 pr-4 shadow-md dark:text-gray-300 sm:mb-0" name="email[name]">
+            </div>
+            <div class="mx-0 mb-1 sm:mb-4">
+              <label for="email" class="pb-1 text-xs uppercase tracking-wider"></label>
+              <input type="email" id="email" autocomplete="email" placeholder="Your email (optional)" class="mb-2 w-full rounded-md border border-gray-400 py-2 pl-2 pr-4 shadow-md dark:text-gray-300 sm:mb-0" name="email[email]">
+            </div>
+            <div class="mx-0 mb-1 sm:mb-4">
+              <label for="email" class="pb-1 text-xs uppercase tracking-wider"></label>
+              <input type="text" id="avatar" placeholder="Your Avatar URL (optional)" class="mb-2 w-full rounded-md border border-gray-400 py-2 pl-2 pr-4 shadow-md dark:text-gray-300 sm:mb-0" name="">
+            </div>            
+        </div>
+        <div class="mx-0 mb-1 sm:mb-4">
+          <label for="textarea" class="pb-1 text-xs uppercase tracking-wider"></label><textarea id="textarea" name="email[content]" cols="30" rows="5" placeholder="Write your comment..." class="mb-2 w-full rounded-md border border-gray-400 py-2 pl-2 pr-4 shadow-md dark:text-gray-300 sm:mb-0"></textarea>
+        </div>
+
+        <input name="email[address]" id="source" type="hidden" value="{{ .Permalink }}" class="p-2">                        
+        <div class="text-center mb-5">
+          <button type="submit" class="w-full hover:bg-green-600 bg-green-800 text-white px-6 py-3 font-xl rounded-md sm:mb-0">Submit Comment</button>
+        </div>
+    </form>
+
+    {{ with .Params.Comments }}
+      {{- range . }}
+        <article class="p-6 text-base border rounded-lg my-1">
+            <div class="flex justify-between items-center mb-2">
+                <div class="flex items-center">
+                    <p class="inline-flex items-center mr-3 text-sm text-gray-900 dark:text-white font-semibold"><img
+                      class="mr-2 w-6 h-6 rounded-full"
+                      src="{{ .avatar }}"
+                      alt="{{ .name }}">{{ .name }}</p>
+                    <p class="text-sm text-gray-600 dark:text-gray-400">
+                      <time pubdate datetime="{{ .date }}" title="{{ .date }}">{{ .date }}</time>
+                    </p>
+                </div>
+            </div>
+            <p class="text-gray-500 dark:text-gray-400">{{ .comment }}</p>
+        </article>  
+      {{- end }}
+    {{ end }}    
+
+  </div>
+
+
+</section>
+
+
+
+
+
+
+

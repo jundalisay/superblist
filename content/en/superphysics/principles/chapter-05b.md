@@ -1,90 +1,71 @@
 ---
-heading: "Chapter 5c"
-title: "Gravitational Territories"
-date: 2023-11-26
-image: "/graphics/physics/territories.jpg"
-description: "Gravitational Territories are the area of a gravitational signature"
+heading: "Chapter 5b"
+title: "The 3 Influences or Gunas"
+date: 2023-12-27
+weight: 18
+image: "/graphics/physics/bands.jpg"
+description: "The Theory of Elastic Gravitational Bands is part of the details of the Theory Dynamism"
+icon: /icons/sp.png
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 17
-icon: /icons/spmat.png
 ---
 
 
-The interaction between gravitational signatures naturally lead to gravitational territories which represent the space of an identity, as a particle, thing, person, place, etc.
 
-<!-- Chapter 4c explained the concept of Gravitational Signatures which represent the inherent true nature of an identity -->
+The 2 Forces interact with each other creating waves with 3 parts:
 
-<!-- That signature is a purely metaphysical concept and has no direct physical manifestation. No one will be able to see or hear it. 
+1. Crest
+2. Origin, Rest, or Pause
+3. Trough
 
-Its dynamics in the real world creates the idea of a gravitational territory which is the area where the gravitational signature can express itself and detect or interact with other signatures. -->
+{{< img src="/graphics/physics/wave.jpg" alt="Wave" cap="A wave has crests and troughs" >}}
 
 
-Rene Descartes described these signatures as spinning vortices, each with its own strength and direction. 
+When applied on the circular journey from pre-existence to existence and back to pre-existence, the 3 parts created by the 2 Forces manifest as 3 Influences:
 
-{{< q a="Descartes" c="The World, Chapter 8" >}}
-When the pure aether began to be divided, its division began in one part and spread out to all its parts as equally as it could. However, this equality of division could not be perfect because the division could not spread in a straight line since there was no void. Instead, each division happened as circular motions with different centers. This is because God gave each particle a different motion.
+1. Crudifying
+
+This part crudifies the Supreme's metaphysical ideas in order to have physical existence.
+
+2. Transformative 
+
+This part part churns the created building blocks in order to create a diverse existence.
+
+3. Subtlifying
+
+This part makes the transformed substances more subtle in order to leave physical reality and enter metaphysical reality.  
+
+
+{{< img src="/graphics/meta/gunas.png" alt="Gunas" cap="The 2 Forces create 3 influences based on their mutual interaction: Crudifying, Transforming, and Subtlifying. These are also the parts of a wave as the crest, middle part, and trough. These are known as the 3 gunas as Tamasic, Rajasic, and Sattvic. Each layer has these influences, creating 3 sublayers within a layer." >}}
+
+
+These 3 influences is why each layer has 3 sublayers as:
+
+1. Higher
+
+Here, the Subtlifying Influence is stronger
+
+2. Middle
+
+Here, the Transforming Influence is stronger
+
+3. Lower
+
+Here, the Crudifying Influence is stronger
+
+
+In Hinduism, these 3 influences are known as the 3 Gunas. 
+
+
+{{< q a="Ramakrishna" >}}
+Under the spell of God's maya, man forgets his true nature.
+
+He forgets that he is heir to the infinite glories of his Father. This divine maya is made up of 3 gunas: 
+1. Sattva
+2. Rajas
+3. Tamas
 {{< /q >}}
 
 
-> *Quantum physics uses fields because it arose from electromagnetism which has magnetic fields. This is not useful in Superphysics because the aether is the most superior layer and we never think that feelings or minds have fields. Instead feelings and minds have layers -- there are deep and shallow minds, feelings, and ideas. Moreover, identities have territories or personal space, i.e. We say 'this is mine'.
-
-
-Each territory has parts, each with different properties:
-
-1. Inner
-2. Middle
-3. Outer
-4. Edge
-
-
-{{< img alt="Gravitational Territories" src="/graphics/physics/territories.jpg" cap="" >}}
-
-
-## The Inner Area
-
-This is the safe zone for the identity.
-
-
-## The Middle Area
-
-This is the protective zone that helps nurture the safe zone.
-
-
-## The Outer Area
-
-This is the zone with a lot of clash from other identities.
-
-
-## The Edge
-
-This is the zone which has direct contact with other territories. 
-
-
-
-These have different manifestations depending on the type of identity. 
-
-Science | Inner | Middle | Outer | Edge
---- | --- | --- | --- | --- 
-Star | Goldilocks Zone | Large Planets Zone | Oort Cloud | Stellar Halo 
-Person | Unconcsious | Subconscious | Conscious | Interactions 
-Society | Religion | Politics | Economy | Interactions 
-
-
-In human life, this territory is the aethereal aura that radiates from people.   
-
-Some people radiate a strong aura which manifest as a strong personality or X-factor, just as a large star or galaxy has a large gravitational field or influence.
-
-In Physics, a comet or asterod that enters a star's gravitational field will get a tendency to be attracted towards that star. 
-
-Likewise, when we see or come close to a person, we might get a tendency to talk to that person if we feel a curiosity or common interest with that person.
-
-Seeing or being that person is therefore being within that person's gravitational territory just as a body is attracted to a  bigger body that enters its gravitational field.
-
-<!-- This is explained in detail in Material Superphysics.  -->
-
-In other words, the quality of a vortex and its territory leads to attraction or repulsion movement, as explained by our Theory of Dynamism.
-
-This movement is the foundation of the Elastic Theory of Gravity, to be explained next. 
-
+These manifest most obviously in the Material Layer as the three colors of quarks. 

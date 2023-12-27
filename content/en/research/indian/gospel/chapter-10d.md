@@ -1,184 +1,114 @@
 ---
-title: "Spiritual Inspiration Comes from God"
+title: "Rabindranath Tagore"
 image: "/covers/rama.jpg"
-heading: "Chapter 10d"
-weight: 45
+heading: "Chapter 10b"
+weight: 43
 description: "Rabindranath Tagore and a few other members of the Tagore family were present"
 ---
 
 
-MASTER (to the devotees): "Both worldliness and liberation depend on God's will. It is God alone who has kept man in the world in a state of ignorance; and man will be free when God, of His own sweet will, calls him to Himself. It is like the mother calling the child at meal-time, when he is out playing. When the time comes for setting a man free, God makes him seek the company of holy men. Further, it is God who makes him restless for spiritual life."
+Wednesday, May 2, 1883
 
-A NEIGIHBOUR: "What kind of restlessness, sir?"
+About 5PM, Sri Ramakrishna arrived at the temple of the Brahmo Samaj in Nandanbagan, accompanied by M., Rakhal, and a few other devotees.
 
-MASTER: "Like the restlessness of a clerk who has lost his job. He makes the round of the offices daily and asks whether there is any vacancy. When that restlessness comes, man longs for God. A fop, seated comfortably with one leg over the other, chewing betel-leaf and twirling his moustaches-a carefree dandy-, cannot attain God.
+At first the Master sat in the drawing-room on the ground floor, where the Brahmo devotees
+gradually assembled. 
 
-NEIGHBOUR: "Can one get this longing for God through frequenting the company of holy men?"
+Rabindranath Tagore and a few other members of the Tagore family were present.
 
-MASTER: "Yes, it is possible. But not for a confirmed scoundrel. A sannyasi's kamandalu, made of bitter gourd, travels with him to the four great places of pilgrimage
-but still does not lose its bitterness." 
+Sri Ramakrishna was asked to go to the worship hall on the second floor. A dais had been built on the eastern side of the room. There were a few chairs and a piano in the hall. The Brahmo worship was to begin at dusk. 
 
-The kirtan began. The musician sang of Sri Krishna's life in Vrindāvan:
 
-RADHA: "Friend, I am about to die. Give me back my Krishna."
+"Narendra once asked me, 'What good is there in bowing before the Brahmo Samaj temple?' The sight of the temple recalls to my mind God alone; then God-Consciousness is kindled in my mind. God is present where people talk about Him. One feels there the presence of all the holy
+places. Places of worship recall God alone to my mind.
 
-FRIEND: "But, Radha; the cloud of Krishna was ready to burst into rain. It was yourself who blew it away with the strong wind of your pique. You are certainly not happy to see Krishna happy; or why were you piqued?"
+"Once a devotee was overwhelmed with ecstasy at the sight of a babla-tree. The idea flashed in his mind that the handle of the axe used in the garden of the temple of Radhakanta was made from the wood of the babla. Another devotee had such devotion for his guru that he would be overwhelmed with divine feeling at the sight of his guru's neighbours. Krishna-consciousness would be kindled in Radha's mind at the sight of a cloud, a blue dress, or a painting of Krishna. She would become restless and cry like a mad person, 'Krishna, where art Thou?'
 
-RADHA: "But this pride was not mine. My pride has gone away with Him who made me proud."
+GHOSAL: "But madness is not desirable."
 
-After the music Sri Ramakrishna conversed with the devotees.
+MASTER: "What do you mean? Was Radha's madness the madness that comes from brooding over worldly objects and makes one unconscious? One attains that madness by
+meditating on God. Haven't you heard of love-madness and knowledge-madness?"
 
-MASTER: "The gopis worshipped Katyayani in order to be united with Sri Krishna.
+A BRAHMO DEVOTEE: "How can one realize God?"
 
-Everyone is under the authority of the Divine Mother, Mahamaya, the Primal Energy.
+MASTER: "By directing your love to Him and constantly reasoning that God alone is real and the world illusory. The Aśwattha tree alone is permanent; its fruit is transitory."
+How to spiritualize the passions 
 
-Even the Incarnations of God accept the help of maya to fulfil their mission on earth.
+BRAHMO: "We have passions like anger and lust. What shall we do with these?"
 
-Therefore they worship the Primal Energy. Don't you see how bitterly Rama wept for Sita? 
+MASTER: "Direct the six passions to God. The impulse of lust should be turned into the desire to have intercourse with Ātman. Feel angry at those who stand in your way to God. Feel greedy for Him. If you must have the feeling of I and Mine, then associate it with God. Say, for instance, 'My Rama, my Krishna.' If you must have pride, then feel like Bibhishana, who said, 'I have touched the feet of Rama with my head; I will not bow this head before anyone else.'"
 
-'Brahman weeps, ensnared in the meshes of maya.'
+BRAHMO: "If it is God that makes me do everything, then I am not responsible for my sins."
 
-"Vishnu incarnated Himself as a sow in order to kill the demon Hiranyaksha. After killing the demon, the sow remained quite happy with her young ones. Forgetting her real nature, she was suckling them very contentedly. The gods in heaven could not persuade Vishnu to relinquish His sow's body and return to the celestial regions. He was absorbed in the happiness of His beast form. After consulting among themselves, the gods sent Śiva to the sow. 
+MASTER (with a smile): "Yes, Duryodhana also said that. 'O Krishna, I do what Thou, seated in my heart, makest me do.' If a man has the firm conviction that God alone is the Doer and he is His instrument, then he cannot do anything sinful. He who has learnt to dance correctly never makes a false step. One cannot even believe in the existence of God until one's heart becomes pure."
 
-Śiva asked the sow, 'Why have you forgotten yourself?' Vishnu replied through the sow's body, 'Why, I am quite happy here.' Thereupon with a stroke of his trident Śiva destroyed the sow's body, and Vishnu went back to heaven."
+Sri Ramakrishna looked at the devotees assembled in the worship hall and said: "It is very good to gather in this way, now and then, and think of God and sing His name and glories. But the worldly man's yearning for God is momentary. It lasts as long as a drop of water on a red-hot frying-pan."
 
+The worship was about to begin, and the big hall was filled with Brahmo devotees. Some of the Brahmo ladies sat on chairs, with music books in their hands. The songs of the Brahmo Samaj were sung to the accompaniment of harmonium and piano. Sri Ramakrishna's joy was unbounded. The invocation was followed by a prayer, and then
+the worship began. The acharyas, seated on the platform, recited from the Vedas:
 
-## Ramchandra Dutta
+Om. Thou art our Father. Give us right knowledge; do not destroy us! We bow to Thee.
 
-From Adhar's house Sri Ramakrishna went to Ram's house. Ramchandra Dutta, one of the chief householder disciples of the Master, lived in Calcutta. He had been one of the first to announce the Master as an Incarnation of God. The Master had visited his house a number of times and unstintingly praised the devotion and generosity of this beloved disciple. 
+The Brahmo devotees chanted in chorus with the acharyas:
 
-A few of the Master's disciples made Ram's house virtually their own dwelling-place.
+Om. Brahman is Truth, Knowledge, Infinity.
+It shines as Bliss and Immortality.
+Brahman is Peace, Blessedness, and the One without a Second;
+It is pure and unstained by sin.
+The acharyas chanted in praise of God:
+Om. O Reality, Cause of the Universe, we bow to Thee!
+Then the acharyas chanted their prayer together:
+From the unreal lead us to the Real;
+From darkness lead us to Light;
+From death lead us to Immortality.
+Reach us through and through,
+O Rudra, and protect us evermore with Thy Compassionate Face.
 
-Ram had arranged a special festival to celebrate the Master's visit. The small courtyard was nicely decorated. A kathak, seated on a raised platform, was reciting from the Bhagavata when the Master arrived. Ram greeted him respectfully and seated him near the reader. The disciple was extremely happy. The kathak was in the midst of the story of King Harischandra.
+As Sri Ramakrishna heard these hymns, he went into a spiritual mood. After this an Āchārya read a paper.
 
+The worship was over. Most of the devotees went downstairs or to the courtyard for fresh air while the refreshments were being made ready. It was about nine o'clock in the evening. The hosts were so engrossed with the other invited guests that they forgot to pay any attention to Sri Ramakrishna.
 
-## Story of Harishchandra
+MASTER (to Rakhal and the other devotees): "What's the matter? Nobody is paying any attention to us!"
 
-The great King Harischandra of the Purana was the embodiment of generosity. No one ever went away from him empty-handed. Now, the sage Viswamitra, wanting to test the extent of the king's charity, extracted from him a promise to grant any boon that he might ask. Then the sage asked for the gift of the sea-girt world, of which Harischandra was king. Without the slightest hesitation the king gave away his kingdom. Then Viswamitra demanded the auxiliary fee, which alone makes charity valid and
-meritorious. The kathak continued his recitation: 
+RAKHAL (angrily): "Sir, Let us leave here and go to Dakshineswar."
 
-Viswamitra said to the king: "O King, you have given away the entire world, which was your kingdom. It now belongs to me; you cannot claim any place here. 
+MASTER (with a smile): "Keep quiet! The carriage hire is 3 rupees and 2 ānnās. Who will pay that? Stubbornness won't get us anywhere. You haven't a penny, and you
+are making these empty threats! Besides, where shall we find food at this late hour of the night?"
 
-But you may live in Benares, which belongs to Śiva. I shall lead you there with your wife Saibya, and Rohitasva, your son. There you can procure the auxiliary fee that you owe me." The royal family, accompanied by the sage, reached Benares and visited the temple of Śiva.
+After a long time dinner was announced. The devotees were asked to take their seats.
 
-At the very mention of Śiva, the Master went into spiritual mood and repeated the holy name several times indistinctly.
-The kathak continued:
+The Master, with Rakhal and the others, followed the crowd to the second floor. 
 
-The king could not procure the fee and was compelled to sell Saibya, his royal consort, to a brahmin. With her went Prince Rohitasva. But since even that was not enough to redeem his pledge to the sage, Harischandra sold himself to an untouchable who kept a cremation ground. He was ordered to supervise the cremations. One day, while plucking flowers for his brahmin master, Prince Rohitasva was bitten by a venomous snake and that very night died. The cruel brahmin would not leave his bed to help the poor mother cremate the body. The night was dark and stormy. Lightning rent the black clouds. Saibya started for the cremation ground alone, carrying the body of her son in her arms. 
+No room could be found for him inside the hall. Finally, with great difficulty, a place was found for him in a dusty corner. A brahmin woman served some curry, but Sri Ramakrishna could not eat it. He ate luchi with salt and took some sweets. 
 
-Smitten with fear and overpowered with grief, the queen filled heaven and earth with her wailing. Arriving at the cremation ground, she did not recognize her
-husband, who demanded the usual fee for the cremation. Saibya was penniless and wept bitterly at her unending misfortunes. The impenetrable darkness was illumined
-only by the terrible flames of the cremation pyres. Above her the thunder roared, and before her the uncouth guardian of the cremation ground demanded his fee. 
+There was no limit to the Master's kindness. The hosts were mere youngsters; how could he be displeased with them, even though they did not show him proper respect?
 
-She who had once been queen of the world sat there with her only child dead and cold on her lap.
+Further, it would have been inauspicious for the household if a holy man had left the place without taking food. Finally the feast had been prepared in the name of God. 
 
-The devotees burst into tears and loudly lamented this tragic episode of a royal life. And
-what was the Master doing? He was listening to the recital with rapt attention. Tear-
-drops appeared in his eyes and he wiped them away.
-The kathak continued:
+Sri Ramakrishna got into a carriage: but who was to pay the hire? The hosts could not be found. Referring to this incident afterwards, the Master said to the devotees, jokingly: "The boys went to our hosts for the carriage hire. First they were put out, but at last they managed to get together three rupees. 
 
-When the queen, wailing bitterly, uttered the name of her husband, Harischandra at once recognized his wife and son. Then the two wept for the dead prince. Yet in all
-these misfortunes the king never once uttered a word of regret for his charity. 
+Our hosts refused to pay the extra 2 ānnās and said, 'No, that will do.' "
 
-Finally the sage Viswamitra appeared and told them that he had only wanted to put the king's charitable impulses to a crucial test. Then, through his spiritual power, the sage
-brought the prince back to life and returned to the king his lost kingdom.
 
-Story of Uddhava
+Sunday, May 13, 1883
 
-Sri Ramakrishna asked the kathak to recite the episode of Uddhava, the friend and devotee of Krishna.
+The Master paid a visit to the Hari-Bhakti-Pradayini-Sabha of Kansharipara, in Calcutta, on the anniversary day of that religious society. Kirtan and other forms of devotional music had been arranged for the occasion. The songs centred round the Vrindāvan episode of Sri Krishna's life. The theme was Radha's pique because of Sri Krishna's having visited Chandravali, another of the gopis of Vrindāvan. 
 
-At the request of Krishna, Uddhava had gone to Vrindāvan to console the cowherds and
-the gopis, who were sore at heart because of their separation from their beloved
-Krishna.
-The Kathak said:
+Radha's friends tried to console her and said to her: "Why are you piqued? It seems you are not thinking of Krishna's happiness, but only of your own." Radha said to them: "I am not angry at His going to Chandravali's grove. But why should He go there? She doesn't know how to take care of Him."
 
-When Uddhava arrived at Vrindāvan, the gopis and cowherd boys ran to him eagerly and asked him: "How is our Krishna? Has He forgotten us altogether? Doesn't He even speak
-our names?" So saying, some of them wept. Others accompanied him to various places in Vrindāvan still filled with Krishna's sweet memory. They said: "Here it was that
-250Krishna lifted up Mount Govardhan, and here He killed the demons sent by the evil-minded Kamśa. In this meadow He tended His cows; here on the bank of the Jamuna
-He sported with the gopis. Here
 
-He played with the cowherd boys, and here in these groves He met the gopis secretly."
+May 20,1883
 
-Uddhava said to them: "Why are you so grief-stricken at Krishna's absence? He resides in all beings as their indwelling Spirit. He is God Himself, and nothing can exist without God." 
+The following Sunday a kirtan was arranged at the house of Ram, one of the Master's householder devotees. Sri Ramakrishna graced the occasion with his presence. The
+musicians sang about Radha's pangs at her separation from Krishna: Radha said to her friends: "I have loved to see Krishna from my childhood. My finger-
+nails are worn off from counting the days on them till I shall see Him.
 
-"But", said the gopis, "we do not understand all that. We can neither read nor write. We know only our Krishna of Vrindāvan, who played with us here in so many ways." 
+Once He gave me a garland. Look, it has withered, but I have not yet thrown it away. Alas! Where has the Moon of Krishna risen now? Has that Moon gone away from my firmament, afraid of the Rahu of my pique? Alas! Shall I ever see Krishna again? O my beloved Krishna, I have never been able to look at You to my heart's complete satisfaction. 
 
-Uddhava said: "Krishna is God Himself. By meditating on Him, man escapes from birth and death in the world and attains liberation." The gopis said: "We do not understand big words like 'liberation'. We want to see the Krishna of our hearts."
+I have only one pair of eyes; they blink and so hinder my vision. And further, on account of streams of tears I could not see enough of my Beloved. The peacock feather on the crown of His head shines like arrested lightning. The peacocks, seeing Krishna's dark-cloud complexion, would dance in joy, spreading their tails. O friends, I shall not be able to keep my life-breath. After my death, place my body on a branch of the dark tamala tree
+and inscribe on my body Krishna's sweet name."
 
-The Master listened to the story from the Bhagavata with great attention and said at last, "Yes, the gopis were right."
+The Master said: "God and His name are identical; that is the reason Radha said that.
 
-Then he sang:
-
-Though I am never loath to grant salvation,
-I hesitate indeed, to grant pure love.
-Whoever wins pure love surpasses all;
-He is adored by men;
-He triumphs over the three worlds.
-Listen, Chandravali! I shall tell you of love:
-Mukti a man may gain, but rare is bhakti.
-Solely for pure love's sake did I become
-King Vali's door-keeper
-Down in his realm in the nether world.
-Alone in Vrindāvan can pure love be found;
-Its secret none but the gopas and gopis know.
-For pure love's sake I dwelt in Nanda's house;
-Taking him as My father,
-
-I carried his burdens on My head. 
-
-The Master said to the kathak: "The gopis had ecstatic love, unswerving and single-minded devotion to one ideal. Do you know the meaning of devotion that is not loyal to one ideal? 
-
-It is devotion tinged with intellectual knowledge. It makes one feel: 'Krishna has become all these. He alone is the Supreme Brahman. He is Rama, Śiva, and Śakti.'
-But this element of knowledge is not present in ecstatic love of God. Once Hanuman came to Dwaraka and wanted to see Sita and Rama. Krishna said to Rukmini, His
-queen, 'You had better assume the form of Sita; otherwise there will be no escape from the hands of Hanuman.'
-
-"Once the Pandava brothers performed the Rajasuya sacrifice. All the kings placed Yudhisthira on the royal throne and bowed low before him in homage. But Bibhishana,
-the King of Ceylon, said, 'I bow down to Narayana and to none else.' 
-
-At these words the Lord Krishna bowed down to Yudhisthira. Only then did Bibhishana prostrate himself,
-crown and all, before him.
-
-"Do you know what devotion to one ideal is like? It is like the attitude of a daughter-in- law in the family. She serves all the members of the family-her brothers-in-law, father-in-law, husband, and so forth-, bringing them water to wash their feet, fetching their
-towels, arranging their seats, and the like; but with her husband she has a special
-relationship.
-
-Characteristics of divine love
-
-"There are 2 elements in this ecstatic love:
-
-1. 'I-ness'
-2. 'my-ness'
-
-Yaśoda used to think: 'Who would look after Gopala if I did not? 
-
-He will fall ill if I do not serve Him.' She did not look on Krishna as God. The other element is 'my-ness'. It means to look on God as one's own-'my Gopala'. Uddhava said to Yaśoda: 'Mother, your Krishna is God Himself. He is the Lord of the Universe and not a common human being.' 'Oh!' exclaimed Yaśoda. 'I am not asking you about your Lord of the Universe. I want to know how my Gopala fares. Not the Lord of the Universe, but my Gopala.'
-
-"How faithful to Krishna the gopis were! After many entreaties to the door-keeper, the gopis entered the royal court in Mathura, where Krishna was seated as king. The door-
-keeper took them to Him; but at the sight of King Krishna wearing the royal turban, the gopis bent down their heads and said among themselves: 'Who is this man with a turban
-on his head? Should we violate our chaste love for Krishna by talking to him? Where is our beloved Krishna with the yellow robe and the bewitching crest with the peacock
-feather?'
-
-"Did you observe the single-minded love of the gopis for Krishna? The ideal of Vrindāvan
-is unique. I am told that the people of Dwaraka worship Krishna, the companion of
-Arjuna, but reject Radha."
-
-A DEVOTEE: "Which is the better, ecstatic love or love mixed with knowledge?"
-
-Parable of the three friends
-
-MASTER: "It is not possible to develop ecstatic love of God unless you love Him very
-deeply and regard Him as your very own.
-
-Once, 3 friends were going through a forest, when a tiger suddenly appeared before them. 'Brothers,' one of them exclaimed, 'we are lost!' 'Why
-should you say that?' said the second friend. 
-
-'Why should we be lost? Come, let us pray to God.' The third friend said: 'No. Why should we trouble God about it? Come, let us
-climb this tree.'
-
-The friend who said, 'We are lost!' did not know that there is a God who is our Protector. The friend who asked the others to pray to God was a jnani. He was aware
-that God is the Creator, Preserver, and Destroyer of the world. 
-
-The third friend, who didn't want to trouble God with prayers and suggested climbing the tree, had ecstatic love of God. It is the very nature of such love that it makes a man think himself stronger than his Beloved. He is always alert lest his Beloved should suffer. The one
-desire of his life is to keep his Beloved from even being pricked in the foot by a thorn."
-Ram served the Master and the devotees with delicious sweets.
+There is no difference between Rama and His holy name."
 

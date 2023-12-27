@@ -106,8 +106,10 @@ The Negative force splits the theoretical Absolute Entity into a dualistic Creat
 - The creation of tastiness also leads to the creation of blandness.
 
 
-{{< q a="Parmenides" >}}
-Since the One exists, then the Whole has the One and Existence as Its parts. Each of these parts have both the One and Existence as its parts and is at the least made up of two parts. The same principle goes on forever. Every part always has these two parts because existence always involves one, and one involves being, so that one is always disappearing, and becoming two. This makes the One infinite in multiplicity. The One has Existence and therefore exists, leading it to become many.<cite>Simplified Parmenides by Plato</cite>
+{{< q a="Parmenides" c="Parmenides Simplified by Plato" >}}
+Since the One exists, then the Whole has the One and Existence as Its parts. Each of these parts have both the One and Existence as its parts and is at the least made up of two parts. The same principle goes on forever. 
+
+Every part always has these two parts because existence always involves one, and one involves being, so that one is always disappearing, and becoming two. This makes the One infinite in multiplicity. The One has Existence and therefore exists, leading it to become many.
 {{< /q >}}
 
 
@@ -122,12 +124,9 @@ Thus:
 - The Positive Force unites and creates knowledge
 
 
-{{< q a="lao">}} 
+{{< q a="Lao-tzu" c="Part 6, The Tao Te Ching Simplified" >}} 
 The Great passes on in constant flow. Passing on, it becomes remote.  Having become remote, it returns.
-<cite>Part 6, The Tao Te Ching Simplified</cite>
 {{< /q >}} 
-
-
 
 
 The physicalized versions of metaphysical ideas are the physical expression of those ideas. <!-- Since ideas and feelings exist before their physical counterparts, we can say that the latter are expressions of such ideas.  --> For example, a tasty dish is an expression or manifestation of the idea of tastiness. 

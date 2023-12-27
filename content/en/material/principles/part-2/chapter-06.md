@@ -2,7 +2,7 @@
 heading: "Chapter 6"
 title: "Technologies from Qosts"
 date: 2020-01-31
-image: "/photos/physics/star.jpg"
+image: "/photos/physics/phoenix.jpg"
 description: "The practical use of qosts is to enable levitation and teleportation technologies"
 writer:
   name: Juan
@@ -12,7 +12,7 @@ icon: /icons/spmat.png
 ---
 
 
-Spacetime technologies are those that use the Spacetime Layer as its main mechanism. That mechanism uses invisible spacetime particles caled Qosts or Quanta of Space-Time.
+Spacetime technologies are those that use the Spacetime Layer as its main mechanism. That mechanism uses invisible spacetime particles caled 'qosts' or **q**uanta **o**f **s**pace-**t**ime.
 
 The practical use of qosts is to enable levitation and teleportation technologies that do not rely on lower layers such as the Radiant layer as electromagnetism (EM) or the Materal Layer as material combustion. This will lead to cheaper and faster spacetravel that is impossible with the current combustion-based technology as used by SpaceX and the Atlas rocket.
 

@@ -81,7 +81,7 @@ We call quarks as qom or quantum of matter, just as we called gravitons as qost 
 Ion | ? | Charged atoms
 
 
-No nneed for fermions 
+No need for fermions 
 
 Lepton Class | Pre-Radiants |   
 Electron | Qoe | Male Charge
