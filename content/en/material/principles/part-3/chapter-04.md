@@ -2,8 +2,8 @@
 heading: "Chapter 4"
 title: "Spin is the Reflective Ability of Particles"
 date: 2020-01-29
-image: /photos/physics/sparks.jpg
-# description: "New-Agers say that the universe is a reflection of one's own consicousness. This is half-true, because it is really based on one's feelings and volition"
+image: /graphics/physics/sparks.jpg
+description: "Physics is based on a materialistic interpretation of reality, which is opposite of the metaphysical interpretation by Superphysics."
 # . Here, we explain how reality reflects our feelings through the Physics concept of particle-spin
 writer:
   name: Juan
@@ -22,7 +22,35 @@ For example, physics prefers to view things as particles. This is consistent wit
 
 We continue this musical paradigm by using waves instead of particles. This is consistent with sound waves which manifest as the mantras which are so important to Hinduism and Buddhism.  
 
-A necessary consequence of thinking in particles is the creation of the concept of spin. This is referred to as the intrinsic angular momentum of particles in spacetime. This has two inherent qualities:
+
+## What the Heck is Particle Spin?
+
+A necessary consequence of thinking in particles is the creation of the concept of 'spin', which is referred to as the intrinsic angular momentum of particles.
+
+In Physics, the spin of a particle is determined only after it moves through a magnetic field. This field then deflects some into certain directions, while others are not affected.
+
+In the 1920s, it was observed that electrons have their own magnetic fields. And so that property was given a spin of 1/2.   
+
+This flawed analogy came from comparing such inherent magnetism to a planet's spin, which creates an inherent magnetism. 
+
+In reality, all magnetism is caused by spactime particles, called qosts, of the Spatial Layer operating under the limitations of electromagnetism of the Radiant Layer. 
+
+Both a planet and an electron create a magnetic field from 2 factors:
+
+1. Their spin-speed created by the qosts 
+2. The fact that the relationality of qosts and qor (electrons) 
+
+
+
+
+ energy on those particles. This imposition causes the particle to react and respond with its own interpretation of the magnitude and direction of that energy based on the nature of that particle. 
+
+<!-- Thus:
+- force-particles react with a spin of 1
+- matter-particles react with a spin of 1/2
+- elements react with a spin from 1/2 onwards -->
+
+This has two inherent qualities:
 
 1. Magnitude
 
@@ -36,16 +64,14 @@ A necessary consequence of thinking in particles is the creation of the concept 
 - Particles of the same charge must have opposite-handed spins while those of different charges can have the same-handed spins per energy level
 
 
-
 {{< youtube iWSu6U0Ujs8 >}}
 
 
-The spin of a particle is determined only after it goes through detectors which impose an energy on those particles. This imposition causes the particle to react and respond with its own interpretation of the magnitude and direction of that energy based on the nature of that partcile. Thus:
-- force-particles react with a spin of 1
-- matter-particles react with a spin of 1/2
-- elements react with a spin from 1/2 onwards
 
-We can therefore equate the idea of spin to the ability of particles to mirror the qualities of the detectors or **reflect the energies imposed on them**. We will call it more properly as "binary reflectivity*" instead of spin. A particle will react with an up or down reflectivity to a detector that measures an up or down direction, and a right or left one to a detector that measures a right or left direction.
+
+We can therefore equate the idea of spin to the ability of particles to mirror the qualities of the detectors or **reflect the energies imposed on them**. 
+
+We will call it more properly as "binary reflectivity*" instead of spin. A particle will react with an up or down reflectivity to a detector that measures an up or down direction, and a right or left one to a detector that measures a right or left direction.
 
 > *Wolfgang Pauli called it "Classically non-describable two valuedness"
 
