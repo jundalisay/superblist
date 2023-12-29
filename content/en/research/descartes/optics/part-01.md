@@ -111,11 +111,15 @@ It is necessary to distinguish between:
 - actual movement and
 - the inclination to move. 
 
-For one can well conceive that the parts of the wine, for example, those towards C, tend towards B, and simultaneously towards A, without being able to actually move towards these two sides at the same time; 
+The inclination to move is expressed as the grape juice at `C` **tending** towards `B` and `A` without actually moving towards them.
 
-and that they tend exactly in a straight line towards B and towards A, without being able to move so exactly towards the straight line, because of the grape clusters that are between them
+The actual movement is expressed as the grape juice at `C` **actually moving** towards `B` and `A` but are hindered by the grape clusters that are between them.
 
-and thus, thinking that it is not so much the movement of the luminous bodies that we must take for their light, but rather the action of these bodies, you must judge that the rays of this light are nothing else but the lines along which this action tends. In consequence, **** there are an infinity of such rays that come from all points of the luminous bodies, towards all points of those that they illuminate, just as you can imagine an infinity of straight lines, along which the actions that come from all points of the surface of the wine CDE tend towards A, and an infinity of others, along which the actions that come from the same points tend also towards B, without the ones hindering the others."
+In the same way, we are concerned with the actual movement of luminous bodies more than their theoretical movement. This is why you must thik of the rays of this light as mere lines along which this movement-action tends.
+
+It follows that there are an infinity of such rays that come from all points of the luminous bodies, towards all points which they illuminate.
+
+<!-- , just as you can imagine an infinity of straight lines, along which the actions that come from all points of the surface of the wine CDE tend towards A, and an infinity of others, along which the actions that come from the same points tend also towards B, without the ones hindering the others." -->
 
 , nor also by the resistance of the bunches which are in this tank, notwithstanding that these clusters, being supported one by the other, do not tend at all to descend through these holes A and B, like wine, and even that they can however be moved in several other ways by those who tread on them.
 
