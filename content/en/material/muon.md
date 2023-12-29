@@ -18,9 +18,14 @@ Einstein's Relativity explains that this is because the muon is travelling at ne
 
 But to Descartes' Physics, this is a sophistry. Space only SEEMS to contract to those that are in a different position.   
 
-To Descartes, the muon is a part of 'fire-aether', now called Electromagnetism by Phyiscs. It comes from outerspace which is called 'air aether'. It then dies or vanishes to return as pure aether upon interacting with the atmosphere or 'water-aether' which is now called 'Weak interaction'.
+To Descartes, the muon is a part of 'fire-aether', now called Electromagnetism by Physics. It comes from outerspace which is called 'air aether'. It then dies or vanishes to return as air-aether upon interacting with the atmosphere or 'water-aether' which is now called 'Weak interaction'*.
 
-{{< img src="/graphics/physics/muon.jpg" >}}
+
+> *This is more obvious in Saturn which has a neutron exosphere. In Superphysics, the neutron is the fundamental particle or substance of the Weak Force, just as the proton is the fundamental particle in the Material Layer, instead of quarks.
+
+
+{{< img src="/graphics/physics/muon.jpg" alt="Muon graphic" cap="To Einstein, speed is all-important. To Descartes, the nature of the object is all-important. Speed is just one of the effects of an object's nature, in relation to other objects and natures. We use the word 'relation' instead of 'relative' in order to stay away from Einstein's Relativity while staying close to 'relational databases' since our paradigm is that the universe is in one giant metaphysical Computer or Mind">}}
+
 
 The muon lasts longer because it travels in the atmosphere which has a mix of air-aether and water-aether. The percentage of the air-aether declines as the muon approaches the Earth. It then vanishes when most of the area has water-aether instead. It is the water-aether or weak force that facilitates the decay. 
 
@@ -38,5 +43,7 @@ Relativity is complicated and full of inconsistencies. Cartesian Physics is simp
 
 With these, we can safely remove Einstein's Relativity since everything from Classical to Quantum mechanics, from the quantum scale to the macro scale, is neatly and intuitively explained by Cartesian Physics.
 
-Instead, we replace it with the original Relativity of Lorentz which introduced the concept of space contraction. The difference is that its concepts only apply to the perspective of electromagnetism, and not to physical matter (earth aether or strong force). It is useful in deriving the characteristics of the air-aether (directly) and the pure aether (indirectly). 
+Instead, we replace it with the original Relativity of Lorentz which introduced the concept of space contraction. 
+
+The difference is that its concepts only apply to the perspective of electromagnetism, and not to physical matter (earth aether or strong force). It is useful in deriving the characteristics of the air-aether (directly) and the pure aether (indirectly). 
 

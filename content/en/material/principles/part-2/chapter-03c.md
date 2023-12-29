@@ -12,6 +12,11 @@ icon: /icons/spmat.png
 ---
 
 
+
+<!-- Galaxies and neutron stars rotate counterclockwise.
+Quasars and pulsars rotate clockwise.
+ -->
+
 A galaxy is the best representative body of the lower spatial layer in nature, as a galactic qost, just as lightning is the best representative of the lower radiant layer. 
 
 Galaxies themselves do not emit matter and energy (unless they are very young or very old as quasars). They instead hold the stars (stellar qosts) and planets. 

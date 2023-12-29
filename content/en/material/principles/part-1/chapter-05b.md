@@ -2,7 +2,7 @@
 heading: "Chapter 5b"
 title: "The Zeeman Effect and Descartes' Aether"
 date: 2023-10-30
-image: /photos/meta/yinyang.jpg
+image: /graphics/physics/zeeman.jpg
 description: "Bohr applies the aether to the Zeeman effect wherein light is affected by magnetism as to cause perturbations in the light"
 writer:
   name: Juan
@@ -26,6 +26,9 @@ Relativity says that the perturbations are caused by the relativity of the speed
 
 Bohr, however, says that Relativity is wrong because it does not account for all the effects. Instead, Bohr points to the aether and how it can cause changes to the angular momentum of light via magnetism as to explain the perturbations. 
 
+
+![Bohr versus Einstein](/graphics/physics/zeeman.jpg)
+
 Instead of the Relativity of speeds and reference frames, Bohr's mechanism is state-change and angular momentum by the aether. 
 
 This is exactly the mechanism of Descartes' Physics, wherein state-change and angular momentum or spin makes up his 1st and 3rd rule of movement respectively. 
@@ -48,9 +51,13 @@ This is why Socrates said that the Pythagoreans often stuck their ears onto thin
 
 Bohr seems to understand the aether effects on electromagnetism, as quantum mechanics. But he does not seem to discover how to manipulate the aether. 
 
-In fact, only 3 human civilizations have exhibited proof of the knowledge of how to tap the aether: The ancient Egyptians, Hindus, and Chinese. 
+In fact, only 3 human civilizations have exhibited proof of the knowledge of how to tap the aether: 
 
-The Egyptians show this in their pyramid construction. The Hindus and Chinese show this as levitating monks.
+1. Ancient Egyptians
+2. Hindus
+3. Chinese
+
+The Egyptians show this in their pyramid construction. The Hindus show this as levitating monks. The Chinese show this as 'chi'. 
 
 The proper understanding of how to manipulate the aether will lead to spacetime technology. Such a technology can "float" mining equipment to the moon to mine precious metals there. 
 

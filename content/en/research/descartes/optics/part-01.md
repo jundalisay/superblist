@@ -83,6 +83,8 @@ All the bodies which we perceive around us have several pores which are necessar
 
 Let us suppose a wooden vat of very mashed grapes and grape juice with 2 holes `A` and `B` through which the juice can flow.
 
+![Light as grape juice. Electrongs as crushed grapes](/graphics/physics/vat.jpg)
+
 The juice in the vat is that fire-aether. The crushed grapes, the coarser and less fluid parts, are the air-aether.
 
  <!-- and fire-aether. -->
@@ -98,10 +100,90 @@ Their juice-movements do not hinder the other juices. Nor are they hindered by t
 Those clusters support each other and do not go to holes `A` and `B`. Instead, they are moved in other ways by those feet that crush them.
 
 
+
+## The Linear Movement of Light
+
+These rays must be imagined as always being straight when they pass through a single transparent body that is uniform throughout.
+
+However, when they encounter other bodies, they are deflected or weakened by them. This is similar to how a ball thrown into the air is affected by the objects it encounters. Those encountered bodies can be either soft, hard, or liquid.
+
+- If they are soft, they completely stop and absorb its motion. 
+- If they are hard, they reflect it in various ways without stopping it.
+
+
+
+<!-- For their surface is either entirely:
+- flat and uniform or
+- rough and uneven -->
+
+<!-- It is not prevented from being exactly straight. This is precisely what these rays are. This is why there can be an infinity of them from each point of the luminous bodies. -->
+
+
+The surfaces of the bodies that they encounter are either:
+- flat and uniform or
+- curved in various ways
+
+These can consist of:
+- multiple diverse parts, each of which is enough to be united, or
+- multiple diverse angles or peaks
+- parts that are harder than others
+- parts that move in a thousand different ways. 
+
+Balls have 2 movements:
+
+1. One that takes it from point A to point B
+
+This is its simple and ordinary movement
+
+2. One that makes it rotate around its own center
+
+The speed of this rotational movement can have multiple different proportions with that of its simple movement.
+
+
+
+When multiple balls, coming from the same side, encounter
+- a flat body, they reflect equally and in the same order. They keep the same distance between them after bouncing off. 
+- a body that is curved inward or outward, they come closer or go farther away from each other according to this curvature.
+
+
+![Light bounces](/graphics/physics/lightbounce.png)
+
+The balls `A, B, C` encounter the surfaces of the bodies `D, E, F` and are reflected towards `G, H, I`.
+
+If these balls encounter an uneven surface, like `L` or `M`, they reflect towards diverse sides, each one according to the surface that it touches.
+
+
+
+
+Et elles ne changent rien que cela en la façon de leur mouvement, lorsque son inégalité ne consiste qu'en ce
+que ses parties sont courbées diversement. Mais elle peut aussi consister en
+plusieurs autres choses et faire, par ce moyen, que, si ces balles n'ont eu
+auparavant qu'un. simple mouvement droit, elles en perdent une partie, et en 
+
+acquièrent au lieu un circulaire, qui peut avoir diverse proportion avec ce
+qu'elles retiennent du droit, selon que la superficie du corps qu'elles rencon-
+trent peut être diversement disposée. Ce que ceux qui jouent à la paume
+éprouvent assez, lorsque leur balle rencontre de faux carreaux, ou bien qu'ils
+la touchent en biaisant de leur raquette, ce qu'ils nomment, ce me semble,
+couper ou friser 1. Enfin, considérez que, si une balle qui se meut rencontre
+obliquement la superficie d'un corps liquide, par lequel elle puisse passer plus
+ou moins facilement que par celui d'où elle sort, elle se détourne et change son
+cours en y entrant: comme, par exemple, si étant en l'air au point A, on la
+pousse vers B, elle va bien en ligne droite depuis A jusques à B, si ce n'est que
+sa pesanteur ou quelqu'autre cause particulière l'en empêche; mais, étant au
+point B où je suppose qu'elle rencontre la superficie de l'eau CBE, elle se
+détourne et prend son cours vers I, allant derechef en ligne droite depuis B
+jusques à I, ainsi qu'il est aisé à vérifier par l'expérience
+
+
+
+
+
+
 <!-- subtle matter -->
 Thus, all the parts of the fire-aether that are touched by the side of the Sun facing us tend in a straight line towards our eyes when we open them. The fire-aether matter does not hinder each other. They are not even hindered by the coarse parts of the air-aether (transparent bodies) between them. 
 
-without hindering one another, and even without being hindered by the  of  that are : whether 
+<!-- without hindering one another, and even without being hindered by the  of  that are : whether  -->
 
 The air-aether bodies move in other ways, similar to our physical air. They are almost always agitated by some wind.
 
@@ -119,7 +201,10 @@ In the same way, we are concerned with the actual movement of luminous bodies mo
 
 It follows that there are an infinity of such rays that come from all points of the luminous bodies, towards all points which they illuminate.
 
+
+
 <!-- , just as you can imagine an infinity of straight lines, along which the actions that come from all points of the surface of the wine CDE tend towards A, and an infinity of others, along which the actions that come from the same points tend also towards B, without the ones hindering the others." -->
+
 
 , nor also by the resistance of the bunches which are in this tank, notwithstanding that these clusters, being supported one by the other, do not tend at all to descend through these holes A and B, like wine, and even that they can however be moved in several other ways by those who tread on them.
 
@@ -129,6 +214,7 @@ Thus, all the parts of the fire-aether touched by the side of the sun which look
 These do not hinder each other. They are not even hindered by the grosser parts [electrons].
 
  <!-- and even without being hindered by the gross parts.  -->
+
 
 
 
@@ -151,12 +237,7 @@ So that there is an infinity of such rays which come from all the points of the 
 
 
 
-These rays must be imagined as always being straight when they pass through a single transparent body that is uniform throughout.
 
-However, when they encounter other bodies, they are deflected or weakened by them. This is similar to how a ball thrown into the air is affected by the objects it encounters. Those encountered bodies can be either soft, hard, or liquid.
-
-- If they are soft, they completely stop and absorb its motion. 
-- If they are hard, they reflect it in various ways without stopping it.
 
 
 

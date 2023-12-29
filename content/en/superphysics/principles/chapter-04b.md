@@ -115,7 +115,29 @@ Modern algebra has so many certain rules and formulas that it is full of confusi
 
 ### Decon Notation: Solving the Measurement Problem
 
-We can further simplify math by assigning qualities to our deconstructed equations since waves are more qualitative than quantitative in nature.   
+Material Superphysics will explain that the root cause in the limitations in Physics and consequently, in the technologies that humans can develop, is the limited ability of humans to perceive beyond the Electromagnetic layer. 
+
+<!-- The real cause of the absurdity is the scientific decree to make things measurable.  -->
+
+Objective measurements are based on electromagnetic layer which allows light which then gives us objective information through our eyes, as our light-detectors. 
+
+Beyond Electromagnetism are the Spacetime and Aether layers. The measurements here are naturally subjective. For example:
+- The distance from House A to House B can be denoted in meters, yards, feet, etc.
+- An idea can be important to some, but not important to others.  
+
+We say that such measurements are subjective and are more qualitative instead of quantitative. We can say that: 
+- Materiality and Electromagnetism focus on quantitative particles
+- Space, time, and feelings focus on qualitative waves
+
+<!--  wich c as the ghighest kind of ruler. The wohole big giat problem is that the aetehr is above spacetime whtih itselfis above lectromagentism. So The aether is not measurebale by sight or electronic eqiupement fof the electomagneic layer and is onlyindirectly measurable by the spacetime layer. 
+
+This neesd a whole new math which we call qualimath which measures chanigng aetereal qualities instead of discrete material quantities.  -->
+
+<!-- We can further simplify math by  -->
+
+We thus assign qualities to our deconstructed equations. 
+
+<!-- This is also because waves are more qualitative than quantitative in nature.    -->
 
 <!-- To get around this shortage, we will use *the qualitative aspects of waves* that combines its qualities such as amplitude, oscillation, vector, wavelength, etc.  -->
 
