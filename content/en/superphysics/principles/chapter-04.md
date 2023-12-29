@@ -13,12 +13,10 @@ writer:
 ---
 
 
+Chapter 3 explained that all motion in the universe is sourced from the the Law of Conservation of Idea. This law mandates the persistence and uniqueness of each identity. 
+- This uniqueness manifests as its dharma or gravitational signature. 
+- This persistence lets it last 'forever' in Existence, technically since its identity lives in the Aethereal Layer which is above the Spacetime Layer. This will be explained in Chapter 8. 
 
-The interaction between ideas and the dharma of those ideas create a reaction which arises when ideas are brought near, made to interact, or are added or introduced to each other. 
-
-This reaction manifests as:
-- 'movement' from the perspective of space
-- 'change' or 'evolution' from the perspective of time
 
 The dynamics of this movement or change is explained by our **Elastic Theory** in Chapter 5. 
 - In Material Superphysics, this is applied on physical movement
@@ -27,6 +25,21 @@ The dynamics of this movement or change is explained by our **Elastic Theory** i
   - The metaphysical movement of a society from peace to war, or from prosperity to poverty  
 
 This evolution is divided into the perceptions of cause and effect, just as movement is divided into starting location and ending location. 
+
+
+'Action and reaction' is a simpler way to view cause and effect. The interaction between ideas and the dharma of those ideas create a reaction which arises when ideas are brought near, made to interact, or are added or introduced to each other. 
+
+This reaction manifests as:
+- 'movement' from the perspective of space
+- 'change' or 'evolution' from the perspective of time
+
+
+There is always some reaction in the universe because Existence is 'filled' with ideas from the Supreme. This is known to the ancients as the universe not having any void.
+
+{{< q a="Descartes" c="La Dioptrique Simplified" >}}
+Almost all philosophers admit that there is no void in nature.
+{{< /q >}}
+
 
 
 ## Cause and Effect

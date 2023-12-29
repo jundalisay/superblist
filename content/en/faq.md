@@ -172,9 +172,12 @@ Can you give an example? How would Superphysics solve a headache?
 ## Bio Superphysics
 
 {{< l a="Bio-Superphysics" >}}
-By knowing the root cause of the headache. It could be diet, stress, congenital problem, bacteria, etc. The person might be doing something that is too stressful for his brain. 
+By knowing the root cause of the headache. It could be diet, stress, congenital problem, bacteria, etc. 
+<!-- The person might be doing something that is too stressful for his brain.  -->
 
-Medical science deals with the headache by masking its pain (usually via Paracetamol) and not really dealing with what is causing the pain. This is to process patients faster since the body has its own natural healing mechanism. However, this also means that the headache can come back. Moreover, the doctor can only work with the data that the patient gives. 
+Medical science deals with the headache by masking its pain (usually via Paracetamol) and not really dealing with the cause of the pain. This is to process patients faster since the body has its own natural healing mechanism. However, this also means that the headache can come back. 
+
+<!-- Moreover, the doctor can only work with the data that the patient gives.  -->
 
 Bio Superphysics gets all the data about the patient to find the pattern on which *layer* the cause is in. It then routes that patient to the proper specialist whether it be from Western medicine, yoga, Chinese medicine, homeopathy, etc. For chronic headache, you could try accupuncture.
 {{< /l >}}
@@ -230,17 +233,18 @@ Ideally, Palestinians, Jews, and Arabs should get together and write it. Until t
 ## Bigots
 
 {{< r a="Boomer" >}}
-But I'm a racist, materialist boomer. I don't like anything Asian and abstract like Brahma, Yin-Yang, human unity, circular economy blah blah blah. :shit: 
+I'm a racist, materialist boomer. I don't like anything Asian and abstract like Brahma, Yin-Yang, human unity, circular economy blah blah blah. :shit: 
 
-I want profits and wealth for myself. I drink my expensive coffee with plastic straws. I don't care about the turtles that will die from ingesting them. Sucks to be them. It's just survival of the fittest.
+I want profits and wealth for myself. I drink my expensive coffee with plastic straws. I don't care about the turtles that will die from ingesting them. Sucks to be them. Their death is just Nature choosing the strongest and destroying the weak and useless. 
 
 You are nuts to propose a one-state solution that unites Jews and Palestinians. All Muslims are terrorists! 
 
 The universe was created for us humans. After death, there is nothing. There is no evidence of God, the afterlife, reincarnation, or karma. So I say maximize pleasure while alive!
 
-So what if there's global warming? In the long-run, we're all dead! At least I've experienced a 5-star lifestyle. Heaven can be on earth, bought by :musical_notes: money money money in a rich man's world :musical_notes:. 
+So what if there's global warming? In the long-run, we're all dead! At least I've experienced a 5-star lifestyle. 'Me' 'myself' and 'I' are all that matters. 
 {{< /r >}}
 
+ <!-- Heaven can be on earth, bought by :musical_notes: money money money in a rich man's world :musical_notes:.  -->
 
 <!--  and don't care about the consequences, even on others! Go ahead and exhaust your brain theorizing wormholes and dark matter that will never exist, or quantitative easing that either bloats the debt and shuts down governments or causes stagflation. -->
 

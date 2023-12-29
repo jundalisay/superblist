@@ -54,13 +54,21 @@ This is why I will begin with the explanation of light and its rays. Then I will
 
 <!-- , and then, having noticed all the things that are capable of making it more perfect, I will teach how they can be there. added by the inventions I will describe. -->
 
-Now, having no other opportunity here to speak of light than to explain how its rays enter the eye, and how they can be diverted by the various bodies which they encounter, there is no need for me to undertake tell what its nature is, and I believe that it will be enough for me to use two or three comparisons which help to conceive it in the way that seems to me the most convenient to explain all those of its properties that experience makes us known, and then to deduce all the others which cannot so easily be noticed.
+Now, having no other opportunity here to speak of light than to explain how its rays enter the eye, and how they can be diverted by the various bodies which they encounter, there is no need for me to undertake tell what its nature is.
 
-The suppositions of astronomers are almost all false or uncertain. Nevertheless, they have made various observations. We can draw from them several very true and assured suppositions.
+It will be enough for me to use 3 comparisons to explain its properties, both the obvious and subtle. 
+
+<!-- that experience makes us known, and then to deduce all the others which cannot so easily be noticed. -->
+
+The suppositions of astronomers are almost all false or uncertain. 
+- We can draw from them several very true and assured suppositions based on their various observations.
+
+
+## Light as a Carrier
 
 While walking at night without a torch through difficult places, you might have had a stick to guide you. This allowed you to feel the various objects around you, distinguishing them as trees, stones, sand, water, grass, mud, or something similar. 
 
-This kind of feeling is a little confused and obscure in those who are not used to it. 
+This kind of feeling is a little confused and obscure in those who are not used to it.
 
 But those who are born blind have used it all their lives. 
 
@@ -68,17 +76,62 @@ You could say that their staff is their sixth sense organ given to them in the a
 
 Light is similar to this. Light is the carrier of a certain movement or a very prompt and lively action which passes towards our eyes from a luminous body, through the air and other bodies.
 
-A vat at harvest time is full of half-trodden grapes. In the bottom, it has a hole or two, like `A` and `B`[1], through which the sweet wine that it contains can flow. 
 
 Almost all philosophers admit that there is no void in nature. 
 
-All the bodies which we perceive around us have several pores which are necessarily filled with some very subtle and very fluid matter. This matter extends without interruption from the stars to us. 
+All the bodies which we perceive around us have several pores which are necessarily filled with some very subtle and very fluid matter, which I call the fire-aether. This fire-aether matter extends without interruption from the stars to us. 
 
-This subtle matter is like the wine of this vat. The less fluid or coarser parts both of the air and of the other transparent bodies with the bunches of grapes which are among them, you will easily hear that, as the parts of this vin, which are for example towards C, tend to descend in a straight line through hole A at the same instant that it is open, and together through hole B
+Let us suppose a wooden vat of very mashed grapes and grape juice with 2 holes `A` and `B` through which the juice can flow.
 
-Those which are towards D and towards E also tend at the same time to descend through these two holes without any of these actions being prevented by the others, nor also by the resistance of the bunches which are in this tank, notwithstanding that these clusters, being supported one by the other, do not tend at all to descend through these holes A and B, like wine, and even that they can however be moved in several other ways by those who tread on them.
+The juice in the vat is that fire-aether. The crushed grapes, the coarser and less fluid parts, are the air-aether.
 
-Thus, all the parts of subtle matter touched by the side of the sun which looks at us tend in a straight line towards our eyes at the same instant that they are open, without hindering each other and even without being hindered by the gross parts. 
+ <!-- and fire-aether. -->
+
+<!-- subtle matter -->
+
+ <!-- such as air and other transparent bodies, with the grape clusters that are among them:  -->
+
+The juice around `C D E`, tend to go in a straight line through the hole `A` and `B` when those holes are opened.
+
+Their juice-movements do not hinder the other juices. Nor are they hindered by the clusters of crushed grapes.  
+
+Those clusters support each other and do not go to holes `A` and `B`. Instead, they are moved in other ways by those feet that crush them.
+
+
+<!-- subtle matter -->
+Thus, all the parts of the fire-aether that are touched by the side of the Sun facing us tend in a straight line towards our eyes when we open them. The fire-aether matter does not hinder each other. They are not even hindered by the coarse parts of the air-aether (transparent bodies) between them. 
+
+without hindering one another, and even without being hindered by the  of  that are : whether 
+
+The air-aether bodies move in other ways, similar to our physical air. They are almost always agitated by some wind.
+
+Sometimes, they have no movement, such as glass or crystal.
+
+It is necessary to distinguish between:
+- actual movement and
+- the inclination to move. 
+
+For one can well conceive that the parts of the wine, for example, those towards C, tend towards B, and simultaneously towards A, without being able to actually move towards these two sides at the same time; 
+
+and that they tend exactly in a straight line towards B and towards A, without being able to move so exactly towards the straight line, because of the grape clusters that are between them
+
+and thus, thinking that it is not so much the movement of the luminous bodies that we must take for their light, but rather the action of these bodies, you must judge that the rays of this light are nothing else but the lines along which this action tends. In consequence, **** there are an infinity of such rays that come from all points of the luminous bodies, towards all points of those that they illuminate, just as you can imagine an infinity of straight lines, along which the actions that come from all points of the surface of the wine CDE tend towards A, and an infinity of others, along which the actions that come from the same points tend also towards B, without the ones hindering the others."
+
+, nor also by the resistance of the bunches which are in this tank, notwithstanding that these clusters, being supported one by the other, do not tend at all to descend through these holes A and B, like wine, and even that they can however be moved in several other ways by those who tread on them.
+
+<!-- subtle matter -->
+Thus, all the parts of the fire-aether touched by the side of the sun which looks at us tend in a straight line towards our eyes at the instant when they are open. 
+
+These do not hinder each other. They are not even hindered by the grosser parts [electrons].
+
+ <!-- and even without being hindered by the gross parts.  -->
+
+
+
+
+
+
+
 
 Transparent bodies that are in between: either these bodies move in other ways, like air, which is almost always agitated by some wind, or they are motionless, as glass or crystal can be . 
 
@@ -92,19 +145,17 @@ Thus, thinking that it is not so much the movement as the action of luminous bod
 
 So that there is an infinity of such rays which come from all the points of the luminous bodies towards all the points of those which they illuminate, just as you can imagine an infinity of straight lines, along which the actions which come from all the points of the surface of wine CDE tend towards A; and an infinity of others, according to which the actions which come from these same points also tend towards B without one preventing the other.
 
-These rays are always straight when they only pass through a transparent body which is everywhere equal to itself.
 
-But when they encounter some other bodies, they are deflected by them. Or they are deadened in the same way as a ball thrown through the air by those that it encounters.
 
-The action or inclination of light to move follows the same laws as movement. 
+These rays must be imagined as always being straight when they pass through a single transparent body that is uniform throughout.
 
-A bullet passing through the air passes through bodies that are either soft, or hard, or liquid.
+However, when they encounter other bodies, they are deflected or weakened by them. This is similar to how a ball thrown into the air is affected by the objects it encounters. Those encountered bodies can be either soft, hard, or liquid.
 
-If they are soft, they stop and completely deaden its movement.
+- If they are soft, they completely stop and absorb its motion. 
+- If they are hard, they reflect it in various ways without stopping it.
 
-Examples are canvas, sand, or mud.
 
-If they are hard, they send it back to another side in different ways without arresting it. Either their surface is all equal and united, or rough and unequal. 
+
 
 Again being equal, it is either flat or curved: and being unequal, or its inequality consists only in that it is composed of several parts variously curved, each of which is in itself sufficiently united; or else it consists, besides that, in having several different angles or points, or parts harder than the other, or which move, and this with varieties which can be imagined in a thousand kinds. 
 
