@@ -43,9 +43,23 @@ Surendra went up and took his seat. Bhavanath had his coat on. Surendra said to 
 {{< /l >}}
 
 
-SURENDRA: "On returning from the office, as I put away my coat and trousers, I say to the Divine Mother, 'O Mother, how tightly You have bound me to the world!'
+{{< r a="Surendra" >}}
+On returning from the office, as I put away my coat and trousers, I say to the Divine Mother, 'O Mother, how tightly You have bound me to the world!'
+{{< /r >}}
 
-MASTER: "There are eight fetters with which man is bound: shame; hatred, fear, pride of caste, hesitation, the desire to conceal, and so forth."
+
+{{< l a="Ramakrishna" >}}
+There are 8 fetters with which binds man:
+
+1. Shame
+2. Hatred
+3. Fear
+4. Pride of caste
+5. Hesitation
+6. The desire to conceal
+7. and so forth
+{{< /l >}}
+
 
 Sri Ramakrishna sang:
 
@@ -60,13 +74,9 @@ High up they soar on the wind of hope, held fast by māyā's string.
 Their frames are human skeletons, their sails of the three gunas made;
 But all their curious workmanship is merely for ornament.
 Upon the kite-strings Thou hast rubbed the manja-paste of worldliness,
-
 So as to make each straining strand all the more sharp and strong. 
-
-Out of a hundred thousand kites, at best but one or two break free;
-
+Out of 100,000 kites, at best but one or two break free;
 Thou dost laugh and clap Thy hands, O Mother, watching them!
-
 On favouring winds, says Ramprasad, the kites set loose will
 speedily Be borne away to the Infinite, across the sea of the world.
 
@@ -88,7 +98,10 @@ They are like 3 brothers: As long as sattva exists, it calls on rajas for help. 
 The 3 gunas are like robbers. 
 
 Tamas kills and rajas binds. Sattva releases man from his bondage by showing him the way to God. But it cannot take him to God.
+{{< /l >}}
 
+
+{{< l a="Ramakrishna" >}}
 'Woman and gold' is the cause of bondage. 'Woman and gold' alone constitutes samsara, the world. It is 'woman and gold' that keeps one from seeing God. 
 
 (Holding the towel in front of his face) Do you see my face any more? Of course not. The towel hides it. No sooner is the covering of 'woman and gold' removed than one attains Chidananca, Consciousness and Bliss.
@@ -117,7 +130,9 @@ You people have such imposing moustaches, and yet you too are involved in 'woman
 {{< /l >}}
 
 
-VIJAY: "Yes, it is true."
+{{< r a="Vijay" >}}
+Yes, it is true.
+{{< /r >}}
 
 Kedār remained silent.
 
@@ -141,12 +156,28 @@ A man possessed by a ghost does not know he is under the ghost's control. He thi
 {{< /l >}}
 
 
-VIJAY (smiling): "But he can be cured by an exorcist if he finds one."
+{{< r a="Vijay" >}}
+(smiling): "But he can be cured by an exorcist if he finds one."
+{{< /r >}}
+
 
 In answer to Vijay Sri Ramakrishna only said, "That depends on the will of God." Then he went on with his talk about women.
 
 {{< l a="Ramakrishna" >}}
-Everyone I talk to says, 'Yes, sir, my wife is good.' Nobody says that his wife is bad. (All laugh.) Those who constantly live with 'woman and gold' are so infatuated with it that they don't see things properly. Chess-players oftentimes cannot see the right move for their pieces on the board. But those who watch the game from a distance can understand the moves more accurately.
+Everyone I talk to says, 'Yes, sir, my wife is good.' Nobody says that his wife is bad. 
+{{< /l  >}}
 
-"Woman is the embodiment of māyā. In the course of his hymn to Rāma, Nārada said: 'O Rāma, all men are parts of Thee. All women are parts of Sita, the personification of Thy māyā. Please deign to grant that I may have pure love for Thy Lotus Feet and that I may not be deluded by Thy world bewitching māyā. I do not want any other favour than that.'
+
+(All laugh.) 
+
+{{< l a="Ramakrishna" >}}
+Those who constantly live with 'woman and gold' are so infatuated with it that they don't see things properly. 
+
+Chess-players often cannot see the right move for their pieces on the board. But those who watch the game from a distance can understand the moves more accurately.
+
+Woman is the embodiment of māyā. 
+
+In his hymn to Rāma, Nārada said: 'O Rāma, all men are parts of Thee. All women are parts of Sita, the personification of Thy māyā. 
+
+Please deign to grant that I may have pure love for Thy Lotus Feet and that I may not be deluded by Thy world bewitching māyā. I do not want any other favour than that.'
 {{< /l >}}

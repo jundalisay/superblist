@@ -5,6 +5,7 @@ image: /photos/physics/fires.jpg
 description: "Studying Geoscience is a multidisciplinary field that tackles various aspects of the Earth and its processes"
 contributors: ['Brad Mitchell']
 icon: /icons/spmat.png
+weight: 900
 ---
 
 

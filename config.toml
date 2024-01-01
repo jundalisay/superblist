@@ -1347,7 +1347,7 @@ paginate = 12
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2023 | <a href='https://www.pantrypoints.com'>Pantrypoints Technologies</a>"
+  copyright = "Copyright © 2024 | <a href='https://www.pantrypoints.com'>Pantrypoints Technologies</a>"
   favicon = "/icons/sp30.png"
 
   ascentColor = "bg-blue-100"

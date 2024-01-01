@@ -183,9 +183,28 @@
 .Umar {background-image: url(/icons/arab1.png) !important;}
 
 
-.g, .Glaucon, .Critobulus, .Neighbor, .Tsz-Chang, .Callias, .Demea, .kin, .Tsz-Kin, .Lin-Fang, .Echecrates, .Iamblichus, .Simon-Peter, .M {
+.g, .Glaucon, .Critobulus, .Neighbor, .Tsz-Chang, .Callias, .Demea, .kin, .Tsz-Kin, .Lin-Fang, .Echecrates, .Iamblichus, .Simon-Peter {
   background-image: url(/icons/g01.png);
 }
+
+
+.Narendra {
+  background-image: url(/icons/vivekananda.jpg);
+}
+
+
+.Surendra {
+  background-image: url(/icons/surendra.jpg);
+}
+
+
+.M {
+  background-image: url(/icons/m.jpg);
+}
+
+
+
+
 
 .ade, .Adeimantus, .Tsz-Hi, .Disciples, .Meno, .Phaedo, .Zeno, .zeno {background-image: url(/icons/g02.png);}
 

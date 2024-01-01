@@ -1,82 +1,71 @@
 ---
 heading: "Chapter 20b"
-title: "Characteristics of the Saturnian"
-description: "By reason of his love for digging and exploring in the earth, he has often found wells of oil, or mines of coal and minerals"
-weight: 108
-contributors: ['Benham']
+title: "The Qualities of a Saturnian"
+description: "The Saturnian is the represser"
+weight: 107
 image: "/covers/reading.png"
+contributors: ['Benham']
 ---
 
 
 
-Becayse of his love for digging and exploring in the earth, he has often found wells of oil, or mines of coal and minerals. 
+The Saturnian is a prudent, wise, sober necessity, greatly needed among the 7 types, but not the one to be chosen if in any excessive degree of development.
 
-This has led people to consider him lucky, and for this reason Saturn has become the Mount and type of Fate. 
+The Saturnian is the (See also No. 39.) represser. He lays his hand on the shoulder of enthusiasm and bids it take a view of the dark side before leaping. 
 
-The Saturnian has a love for all occult studies, and is proficient in them. He has a mystical streak that makes him extremely superstitious. 
+Other types are so endowed with health and ardor that there seems to be no cautious side to their natures. They become reckless and careless of results and the cost.
 
-He loves chemistry, for the compounding of drugs and elements has an air of mystery about it, and physics is also a congenial study. Higher mathematics and medicine are strong favorites, and in both these fields he is very successful. 
+The Saturnian's point of view is the gloomy one. Consequently, he brings that forward and causes the spontaneous types to pause and think. 
 
-The Saturnian is not a shallow fellow. He is deep and a true scientist.
+He is the man who can show you "how the other half lives," and thus makes you appreciate your own blessings. 
 
-While others are spending their time in gayety he is engrossed in study, has secluded himself from society, and, surrounded by his books, retorts, and figures, is working out difficult problems. He is eminently cautious and prudent. 
+Socially, he lacks the ability to enter into the spirit of the occasion. He is often called a "wet blanket".
 
-He is suspicious of both the fidelity and honesty of his fellows, and does not readily go into business enterprises with them. 
+He is the balance-wheel, a necessary evil that the world needs. 
 
-Real estate, farms, and buildings seem to him less risky than stocks, bonds, or mercantile enterprises, consequently these are the investments he chooses. He is, of course, a conservative person, and does not do anything hastily, for prudence and caution are his watchwords. 
+The Saturnian type, to bring out its better side, should be only slightly developed. 
 
-The Saturnian can be led, not driven. He instinctively dislikes to obey, but feels flattered at an attempt to induce him to do anything. 
+It is a bad type if found in excessive degree. It is not the happiest type even when present only in normal quantity. 
 
-He rebels if rubbed the wrong way, talks a great deal, what he says has weight because he has the reputation of being profound, so he often makes all kinds of trouble. His caution, however, enables him to get away and not get hurt in the upheavals he causes. 
+<!-- DISTINGUISHING MARKS ON THE MOUNT OF SATURN No. 98. DISTINGUISHING MARKS ON THE MOUNT OF SATURN. 
+ -->
 
-In all his surroundings he likes soberness, and gray, black, or brown will be apt to predominate in his apparel, nor will his home have any startling colors in it. His physical heat being under normal, he is not amorous. He shuns society rather than courts it, he repels the opposite sex rather than attracts. 
+<!-- A SATURNIAN HAND No. 99. A SATURNIAN HAND.  -->
 
-Thus the fervor of warm passions does not glow within him, and he does not care to marry. In fact, a pure Saturnian would not marry; the idea would be absolutely repugnant to him. 
+The typical Saturnian is the tallest of the 7 types.
 
-In handling the marriage question, for a subject strongly Saturnian, you will know that marriage is not likely, so absolutely plain indications must be found before you commit yourself on the subject. His prudence gives him another quality, - he is saving and even stingy and miserly. The stronger the Saturnian indications, the stronger these avaricious tendencies.
+His finger is the longest on the hand. He is gaunt, thin, and pale, his skin is yellow, rough, dry, and wrinkled, hanging in flabby folds, or else drawn tightly over the bones. 
 
-He is slow, - one so cautious could not be otherwise, - but is a patient, indefatigable worker. The Saturnian loves music and is often a fine performer and a composer, but his music has a tinge of sadness and melancholy and is severely classical. 
+He is the purely bilious type, and yellow is his distinctive color. His hair is thick and dark, often black, straight and harsh. 
 
-He is not a great lover of art, though he admires beauty. His favorite pictures will be landscapes and natural scenery, flowers, and the product of field and forest. He writes well, produces histories, fine treatises on scientific and occult subjects, books on chemistry, or short articles on agriculture. He sometimes writes excellent ghost stories or tales, in which morose heroes go into monasteries. 
+He loses it when quite young, adding baldness to his otherwise unprepossessing appearance. His face is long, commonly called " hatchet-shaped " from its thinness, his cheek bones are high and prominent, with the saffron-hued skin drawn tightly over them. The cheeks are sunken, with skin flabby and wrinkled.
 
-For amusement the Saturnian seeks his books and the studies which take him away from the haunts of men. He is opinionated, does not like to be contradicted, is independent, and dislikes restraint. Under the surface the Saturnian dislikes mankind. 
+The eyebrows are thick and stiff", growing together over the nose and turning up at the outer ends. The eyes are deep set and extremely black, with a sad, subdued expression which changes only when flashes of anger, suspicion, or eagerness stir his mind. Being bilious, the whites of his eyes show yellow color. His ears are large, and stand out from his head, often seeming to be actually heavy. 
 
-He is not beautiful or attractive, is less loved than others, and feels his ugliness, knows his ungainliness, and withdraws himself from his fellows, having in his heart jealousy and hatred of them. 
+His nose is long, straight, and thin, coming to a sharp point at the end. The nostrils do not dilate as he breathes, but are rigid and stiff. His mouth is large, the lips thin and pale, the lower jaw and lower lip quite prominent and firm. He has good teeth in his youth, but they are soft in texture and decay early. Neither are the gums healthy, having a pale, sickly, bloodless look. 
 
-This feeling is present even with a Saturnian who cannot be classed as belonging to the bad type. Dislike of mankind is a Saturnian quality developed in some degree even when the type is not pronounced. We may say truly this is a dangerous type at its best, and at its worst produces a poisoner and a malevolent wretch. 
+If the Saturnian has a beard it is dark, stiff, and straight, growing thickly on the chin and lip, but very sparse on the cheeks. The chin is prominent and large, the neck lean and long, with muscles showing prominently like cords, and the blue veins standing out under the shrunken and flabby skin. His Adam's apple is plainly in evidence. His chest is thin, the lungs seem cramped, as if operating in narrow, contracted quarters, and his voice as it comes through the thin lips is harsh and unpleasant. The shoulders are high and have a decided stoop, and the arms are long and hang in a lifeless manner at his sides. 
 
-When we see stooping shoulders, a hunched back, and the sapped vitality has produced a cripple, with perhaps crossed eyes added, scant, coarse hair, and leathery skin, you have a creature capable of the deeds of Mr. Hyde. This is the low, mean, jealous, surly, dishonest villain; a lower state of degradation than any other type can reach, except the Mer-curian, but vile enough for all. These malformed Saturnians will stick a dagger into your back, and gloat over your death agonies. No more malevolent creatures live. This, of course, is a picture so exaggerated as to be scarcely conceivable, but it is sometimes found. 
+His step has no spring, and his gait is a shambling one, seeming to proclaim a person who is miserable, bilious, and gloomy. The whole appearance of the Saturnian impresses you with its lack of nourishment, lack of healthy blood supply, and its lean gawkiness; the dark, sad eyes, stiff, black hair, narrow chest, stooping shoulders, and shuffling gait all combine to bear this out. 
 
-<!-- The Mount Of Saturn. Part 3  -->
+<!-- The Mount Of Saturn. Part 2  -->
 
-We have now followed the Saturnian from the sober "balance-wheel," through a series of developments and characteristics to the wretch just described. You can appreciate the gravity of this type, and the handling of the Mount must be done with great care. With a pronounced Saturnian development, use all your powers to learn how much of it is in the subject uncounteracted by other qualities. 
+He is a man to whom a bright side in life does not often appear, one whose life is lightened by no joy of exuberant spirits, filled with no animal vitality, no heat, warmth, and magnetism, but rather with yellow biliousness, mingled with white coldness. 
 
-Some Saturnian should be present, for the absence of any makes an unbalanced character, but the subject wants only just enough to give the balance needed. Any excess will make a morbid, melancholy, gloomy person, pessimistic and stingy. 
+The insufficient blood current, poisoned with bile, is weakly flowing through his body, pumped by a flabby heart, and reaches the outer skin with a diminished force, casting over his spirits the depressing effect of a bilious influence. This is the typical Saturnian. 
 
-The very strong Mount and finger, or, which occurs more often, all the fingers and apices leaning toward the finger of Saturn, will show the good type I have described, who is peculiar but not necessarily evil. The excessively grilled or crossed development of the Mount, bad Heart-line and with crooked, gnarled fingers and hard hand, will show the bad type.
+It is small wonder that, when the dashing Apollonians or Venusians, handsome, attractive, and magnetic, filled with the joy of living, meet him and try to fill him with their enthusiasm, the Saturnian cannot feel their joy, or share their enthusiasm, but shakes his head mournfully, and thinks of how much sorrow there is in this world. 
 
-Everything you know should be brought to bear on the case when a Saturnian is before you, in order to determine how strongly the qualities of the type are developed. 
+As the Saturnian is the represser, you will appreciate the wisdom of constructing him ugly, gloomy, and sad, in order that he might accomplish the purpose of his creation. If he were only wise and formed in the Apollonian mould of physical beauty, the love of gayety would run away with his wisdom. Mere wisdom, if he were beautiful, bright, strong, and healthy, could not hold in check the Apollonian enthusiasm. 
 
-In health matters there are certain diseases to which Saturnians are predisposed, and in a strongly Saturnian subject, with bad health showing on the Life line, it is nine chances to one that the trouble will be one of the diseases peculiar to the type; which one can be told by the nails, color, or some other health indication. 
+But the Saturnian is physically built so that he cannot be carried away with enthusiastic, joyous, or frivolous amusements. No matter how much he may want to be, he cannot, with his ugliness, have Venusian power of attraction; he cannot be other than the Saturnian that he is.
 
-First of all the Saturnian is the purely bilious type. His is not a temporary trouble of the liver, but a structural disease of the organ, hence the presence of bile poison in the blood. This makes the Saturnian yellow, which color will be found tinging his nails, palm, lines, and Mount.
+He is cynical, lacks veneration, and is a born doubter.
 
-All the troubles which yellow color indicates, both as to health and temperament, are to be attributed to the subject if that color is present. As bile in the blood creates intense nervousness, the Saturnian is troubled with this as one of his health difficulties.
+Instead of seeking the society of others he avoids it, and his tendency is to withdraw himself from the social world.
 
-If this nervousness goes far it causes danger of paralysis. The degree of nerve trouble is easy to determine from the nails, which should be carefully noted. 
+He prefers the country to the city, is often a student, and chooses agricultural pursuits, chemistry, and other laboratory occupations, which do not require him to come in contact with people. 
 
-Rheumatism is another trouble, also hemorrhoids and varicose veins; the tendency toward the two latter can be determined by noting how prominently the veins on the hands stand out, seeming as if filled with hard blood. The paralysis which threatens this type will probably attack his lower limbs, for there is his weak point. His teeth are delicate, and he is liable to ear trouble, which is indicated by dots or small islands on the line of Head under the Mount of Saturn. 
+He is not a "mixer," has not the faculty of attracting and holding friends, so does not succeed well in business where he has to depend upon genial ways or attractive manners. 
 
-With every Saturnian subject look for these health difficulties if any disturbance is seen on the line of Life. A grille or cross-bars on the Mount of Saturn will suggest health defects of the type, which can be easily located from nails, etc. In estimating the degree of strength of the type, bring to bear all your knowledge. Texture of the skin will show whether the subject is refined or coarse. 
-
-The finer the grade the less liability of the development of the evil side. Such a subject may be blue or despondent, but not necessarily a pessimist. The coarse texture of skin will make all the Saturnian qualities coarse. It will emphasize the hatred for mankind, will make an inciter of riot; one who wants complete liberty and rebels against restraint of any kind. Fine or medium texture is best. Flexibility of the hand will greatly modify the severity of the type. 
-
-The elastic mind will not so readily yield to gloom, despondency, or bad instincts as the unyielding mind, shown by the stiff hand. The Saturnian is naturally stingy, and the stiff hand adds greatly to this tendency, while the flexible hand takes away from it. A flexible hand will make the subject likely to enjoy the society of his fellow-men; a stiff hand will make him shun and hate mankind intensely. With the flexible hand look for a good type; with the stiff hand look out for a mean, unenlightened, selfish exhibition of bad qualities and tendencies.
-
-If his hand has flabby consistency, his laziness will make him useless. He will indulge all his morbid tendencies, for he will not work, and labor might throw off some of his bad side. Being lazy and still possessing the qualities of his type, he will talk a great deal, will rail at capital, trusts, and all things which are successful, and from this class of lazy Saturnians often come the anarchists who throw bombs. Soft hands will be a slight improvement over the flabby. This subject will not be quite so lazy and will have higher ideals. Elastic consistency is the best, for it will show a proper amount of energy, which will keep the liver more active and reduce the gloom and morbidity of the subject. He will have the elastic qualities of mind and method, the intelligent energy which will lift him out of much of his difficulty. Hard hands, again, coarsen the type and emphasize its bad qualities. This over-energy will cause him to push his already unpleasant views to excess; the stubborn brain will oppose progress and invention, and will clamor for a return of the "good old days." This fellow is the chronic opposer of everything. 
-
-No matter what it is, he is against it. He will be stingy, narrow, ignorant, and superstitious. The color of the hand is of much importance. Yellow is expected, for there is an excess of bile. 
-
-The yellower the hand the "yellower" the point of view of the subject. Gloom, melancholy, distorted views, rancor, irritability, intense nervousness, and even criminality will be found if yellow color is pronounced. White color is often found. This makes a subject cold, repellent, and unattractive. He will strongly incline to fly from the society of his fellows, will be shunned wherever he goes, and being sensitive, this will add to his hatred of men, while his cutting remarks will make him more disagreeable. He cannot succeed in anything where he must come in contact with the public. 
-
-A cold Saturnian is a picture of misery, and this subject is likely to be bad. Pink color will show a better state of health and a more cheerful and better Saturnian. To him all things will not be hopeless. The bright vivacity of pink color will lift and lighten the veil of gloom with which the Saturnian is enveloped, and there will be no such chance for a malevolent creature as with yellow or white color. Red is also good. It shows the increased ardor peculiar to the color, also indicating better health and strength, which reduces the gloom and brightens the subject. 
+His love of solitude makes farm life peculiarly attractive to him, and his penchant for earthy things makes him by nature a horticulturist, market gardener, florist, or a botanist. 
