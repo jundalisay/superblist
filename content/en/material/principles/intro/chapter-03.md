@@ -118,3 +118,12 @@ Material | `w = mg`  -->
 
 {{< img alt="Korean BTS quantum physics" src="https://sorasystem.sirv.com/photos/btsband.jpg" cap="Gravitational signatures explain why some people are attracted and gravitate towards KPop while others are repulsed by them. In theory, this means that peace and harmony can be achieved granularly by knowing the Gravitational signatures of everyone in order to reduce the repulsion of minds, and generally by imposing higher-layer ideas like virtue (this virtue-based socio-political system is then the job of Social Superphysics)" >}}
 
+
+## Leads to Technologies 
+
+In Material Superphysics, gravitational signatures lead to technology-solutions, just as they lead to social solutions in Social Superphysics and medical solutions in Bio Superhysics:
+
+- Fusion is solved by knowing the gravitational signature of hydrogen
+- Levitation is solved by knowing the gravitational signature of the object
+- Teleportation is solved by estimating the gravitational signature of the object at the other location 
+- Time travel is solved by the same estimation but with the additional factor of the object's past. This is why time travel to the past will be easier than a travel to the future. 

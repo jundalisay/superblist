@@ -118,7 +118,6 @@ However, when they encounter other bodies, they are deflected or weakened by the
 
 <!-- It is not prevented from being exactly straight. This is precisely what these rays are. This is why there can be an infinity of them from each point of the luminous bodies. -->
 
-
 The surfaces of the bodies that they encounter are either:
 - flat and uniform or
 - curved in various ways

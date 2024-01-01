@@ -13,6 +13,20 @@ icon: /icons/spmat.png
 ---
 
 
+<!-- According to Physics, gravity comes from mass which then comes from the Higgs Field. This leads to a matter-based singularity that exploded as a Big Bang that created the universe. 
+
+Because of this, physicists imagine that the insides of matter hold the secrets to the universe. This is why they keep on smashing subatomic particles, like a treasure-hunter digging the ground uselessly looking for hidden gold. 
+
+But Nature says otherwise, that the matter is the effect and not the cause of Creation. Digging into effects will lead to more effects and not the cause. 
+
+The reason for the physicists' confusion is that energy and mass are so tied together, like two sides of a coin. It makes them think that the effect is the cause. This traps them in the effect, making the cause impossible to discover. This trap then prevents a whole new class of technologies that could have solved so many problems.
+
+For example, physicists fail at fusion because they confine plasma with magnetism. This is despite the fact that the stars themselves show that their fusion is caused by gravity and not magnetism. So the solution is artificial gravity. The ancient Egyptians and Hindus already knew how artificial gravity works. But for some reason the East doesn't develop it and nor does the West don't tap into such knowledge.  -->
+
+
+
+
+
 The spatial layer is below the aethereal, as the 'container' of a universe in an existence made up of a multiverse. 
 
 It leads to spacetime and sets the speed of light, since it is superior to the the 3 lower Layers of:

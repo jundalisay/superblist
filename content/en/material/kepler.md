@@ -35,3 +35,7 @@ From Brahe's accurate observations he derived the three laws of planetary motion
 Little did I know that Kepler was born on December 27, 1571. Can his 450th birthday also lead to a rebirth of his ideas? 
 https://www.dw.com/en/astronomical-anniversary-johannes-keplers-legacy/a-60228130
 
+
+<!-- He called gravity as "kinships" and gravitational systems (solar system, galaxies, clusters) as "marriages" of "spheres" which have similarities to Schwarzchild radii. 
+
+He explained that there were four kinds of gravity-kinships. Newton discovered one, Einstein discovered two as special and general relativity, and "dark matter" is the fourth.  -->
