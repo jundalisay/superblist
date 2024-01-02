@@ -158,6 +158,9 @@ In our novel analogy, the novel came to life when the reader's mind started brow
 
 Desire is a kind of feeling which itself is a wave. Thus, desire is important in navigating reality and in making the story that you want.
 
+
+{{< img src="/graphics/psych/horse.jpg" cap="Nature, as the physical aspect of the Supreme, keeps on putting desire objects for the ego to chase" alt="horse" >}}
+
 In business and entrepreneurship, this desire is called *grit*. Successful businessman are known to have more grit than non-successful ones. 
 
 <!-- Investors invest in entrepreneurs that have the most grit. Superphysics can help the businessman, or any human that has a goal, to experience his goal by explaining the metaphysics of grit and desire.  -->

@@ -1,8 +1,8 @@
 ---
 heading: "Chapter 3c"
-title: "The Quantum-Force Classification"
+title: "The Quantum-Medium Classification"
 date: 2023-11-26
-image: "/graphics/physics/territories.jpg"
+image: "/graphics/physics/model.jpg"
 description: "Gravitational Territories are the area of a gravitational signature"
 writer:
   name: Juan
@@ -12,15 +12,23 @@ icon: /icons/spmat.png
 ---
 
 
-Physics was created from the lowest Material layer (Strong Force), working its way upwards to the Transformative (Weak Force) and then to the Radiant (Electromagnetic).
+Modern Physics was created from the lowest Material layer (Strong Force), working its way upwards to the Transformative (Weak Force) and then to the Radiant (Electromagnetic).
 
-Superphysics is created from the top Aethereal layer working downwards to the Material. This allows us to see all particles and forces from the highest viewpoint and reclassify them in a proper and intuitive way.
+In contrast, Superphysics is created from the top Aethereal layer working downwards to the Material. This allows us to see all particles and forces from the highest viewpoint and reclassify them in a proper and intuitive way.
 
 Instead of the messy classification of Fermions, Bosons, Hadrons, Baryons, Mesons, Leptons, etc., we use base the name on the Layer that the particle or force operates from. 
 
-Everything in the universe is either a Force or a Substance, metaphysically as a desire and the actual idea that is desired. 
+Everything in the universe is either a Medium or a Substance.
+- Medium is where force works through.
+- Substance is the discrete identity that reacts to the force. 
+
+All forces such as gravity, electromagnetism, contact forces are manifestations of the 2 Forces, which are aethereal in nature. We use:
+- the word medium to denote the medium
+- the word quantum to denote substance
+
+<!-- , metaphysically as a desire and the actual idea that is desired. 
 - Instead of desire, we use **force**
-- Instead of substance, we use **quanta**
+- Instead of substance, we use **quanta** -->
 
 
 {{< q a="Descartes" c="Meditations Simplified, Part 6">}}
@@ -35,21 +43,26 @@ I think of myself as a thing that thinks and is not extended. I also think of th
 
 
 
-Layer | Superphysics Force Name | Common Name | Physics 'Boson' Name
---- | --- | --- | ---
-Aethereal | Foa | Impact | ?
-Spatial | Fost | Gravity | Graviton
-Radiant | For  | Brightness | Photon
-Transformative | Fot | Changeability | W Z Bosons
-Material | Fom | Rigidity | Gluons
+These media and quanta are then applied to the 5 Layers.
 
-Layer | Superphysics Quanta Name | Common Name | Physics Particle Name
---- | --- | ---
-Aethereal | Qoa | Idea | ? 
-Spatial | Qost | Space and Time | ?
-Radiant | Qor  | Electron | Electron
-Transformative | Qot | Neutron | Quark
-Material | Qom | Proton | Quark
+{{< img src="/graphics/physics/model.jpg" alt="Superphysics 5 Layer Model" cap="Superphysics uses a simpler naming convention for particles" >}}
+
+
+Layer | Superphysics Medium | Common Name | Physics 'Boson' Name
+--- | --- | --- | ---
+Aethereal | moa (Medium of Aether) | Impact | ?
+Spatial | most (Medium of Space-Time) | Gravity | Graviton
+Radiant | mor (Medium of Radiance) | Brightness | Photon
+Transformative | mot (Medium of Transformation) | Changeability | W Z Bosons
+Material | mom (Medium of Matter) | Rigidity | Gluons
+
+Layer | Superphysics Quanta | Common Name
+--- | --- | --- 
+Aethereal | qoa (Quantum of Aether) | ?
+Spatial | qost (Quantum of Space-Time) | Graviton?
+Radiant | qor (Quantum of Radiance) | Electron 
+Transformative | qot (Quantum of Transformation) | Neutron 
+Material | qom (Quantum of Matter) | Proton 
 
 The differences between the Physics model and the Superphysics one are:
 - Neutrons and Protons are an essential substance or quanta even if it is not a fundamental particle in Physics
