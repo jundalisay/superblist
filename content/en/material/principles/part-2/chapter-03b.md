@@ -15,15 +15,6 @@ icon: /icons/spmat.png
 Qosts manifest invisibly as spacetime particles, the smallest of which are of the Planck length. These have only the minimum energy and idea-complexity that are required for physical reality. 
 
 
-There are 3 types of qosts just as there are 3 types of leptons in the Radiant Layer and 3 color charges in the Material Layer:
-
-Sublayer | Qost Type 
---- | ---
-Upper | Spacetime Particles
-Middle | Galaxies and Quasars
-Lower | Stars, Planets, Moons, Material Things
-
-
 Since the Spatial Layer is superior to the other 3 Layers, we can classify the qosts according to the 4 Layers:
 
 <!-- The qosts with more energy and idea-complexity become heavenly bodies and are classified below: -->

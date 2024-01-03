@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 2"
-title: "The Upper and Lower Sublayers"
+title: "The Upper, Middle, and Lower Sublayers"
 # Theoretical Organization of the 5 Layers
 date: 2023-11-02
 image: /graphics/super/layers.jpg
@@ -17,23 +17,29 @@ Chapter 1 divided reality into 5 Layers.
 
 ## The Hierarchy of the Layers and Sublayers
 
-This chapter divides each layer into 3 sublayers, a higher, middle, and a lower part. Energy and the 2 Forces manifest differently in the 5 layers and each of the sublayers.
+This chapter divides each layer into 3 sublayers, a higher, middle, and a lower part. This matches the 3 Influences or Gunas.
 
-Layer | Sublayer | Quanta | Force or Energy | 2 Forces
---- | --- | --- | --- | ---
-Aethereal | Upper | Minds  | Sound | Existence or Nonexistence
-. | Mid | Qoa (Ideas) | Sound | Consonance or Dissonance
-. | Lower | Thoughts | Sound | Consonance or Dissonance
-Spacetime | Upper | Multiverses | ? | ? 
-. | Mid | Metaqost | Metafost (Metaphysical space and time) | Fast or slow
-. | Lower | Qost | Fost (Physical space and time) | Gravity or Anti-gravity
-Radiant | Upper | Tau | Fol (Photons) | Bright or Dark
-. | Mid | Muon |  | 
-. | Lower | Qoe (Electron) | Heat | Magnetism
-Transformative | Upper | W+ Boson | Radioactivity | Persistence or Decay  
-. | Mid | W- Boson |  |
-. | Lower | Z Boson | |
-Material | Upper/Mid/Lower | Color Charge Quark qom | Persistence | Color Charges
+Energy and the 2 Forces manifest via Media differently in the 5 layers and each of the sublayers.
+
+Sublayer | Quantum | Media | 2 Forces
+--- | --- | --- | ---
+Upper Aethereal | Mind  | Sound | Existence or Nonexistence
+Middle Aethereal | Qoa (Idea) | Sound | Consonance or Dissonance
+Lower Aethereal | Thought | Sound | Consonance or Dissonance
+Upper Spatial | Metaphysical Spacetime (Multiverses) |  |  
+Middle Spatial | Galactic Qost | Universe | Fast or slow
+Lower Spatial | Qost | Space and time within a universe | Gravity or Anti-gravity
+Upper Radiant | Muon | Mor1 (Infrared) | Bright or Dark
+Middle Radiant | Electron | Mor2 (Visible Light) | Energetic or non-energetic
+Lower Radiant | Tau | Mor3 (UV Light) | Magnetic or Nonmagnetic
+Upper Transformative | Z Boson |  |  
+Middle Transformative | W- Boson | Radioactivity | Persistence or Decay
+Lower Transformative | W+ Boson |  | 
+Upper Material | Up Quark | Gas | Persistence | Blue Charge
+Middle Material | Down Quark | Liquid | Persistence | Green Charge
+Lower Material | Strange Quark | Solid | Persistence | Red Charge
+
+
 <!-- . | Mid | Color Charge Quark qom | Stability or Instability
 . | Lower | Color Charge Quark qom | Identity or Change -->
 
