@@ -31,6 +31,8 @@ Newton was unable to think of probabilistic paths because he ascribed the cause 
 
 In reality, gravity is pushing force from the invisible aether that directs things towards mass. <!-- This manifests as the -->
 
-Rule 3 is important because it has relativity baked in, leading to gravitational lensing and wave-particle duality. This removes the need for Einstein's fabric, tensors, and c. It restores gravity as a force and demotes spacetime as an illusory effect of gravitation instead of being its cause.
+Rule 3 is important because it has relativity baked in as relationality. 
+
+This leads to gravitational lensing and wave-particle duality. This also removes the need for Einstein's fabric, tensors, and c. It restores gravity as a force and demotes spacetime as an illusory effect of gravitation instead of being its cause.
 
 <!-- Superhysics uses the 3 Rules of Movement from Descartes instead of the Law of Motion from Isaac Newton. This is because Newton's laws are already included in the Rules of Descartes.   -->

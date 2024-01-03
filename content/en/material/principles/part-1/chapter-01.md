@@ -72,7 +72,6 @@ This limitation renders science unable to solve chronic problems which are ultim
 
 
 
-
 ## The Aether: Breaking Free From Material Limitation
 
 Rather than start from the bottom and claw its way up blindly, Superphysics starts at the top and goes down to explain phenomena, matching it with science which is clawing its way up. 

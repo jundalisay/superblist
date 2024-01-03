@@ -118,10 +118,14 @@ paginate = 12
       title = "The Alternative to General Relativity"
       sub = "The Metaphysics of Spacetime"
     [languages.en.params.tricon2.items.c]
-      url= "/material/principles/part-2/chapter-04/"
-      img = "/photos/physics/quasar.jpg"
-      title = "The Elastic Theory of Gravity"
-      sub = "We bring back the theory of gravity from Kepler and Descartes"
+      url= "/material/principles/intro/chapter-03c/"
+      img = "/graphics/physics/model.jpg"
+      title = "The Substance-Quantum-Medium Naming Convention"
+      sub = "Are you confused with hadrons, baryons, fermions, leptons, etc. We propose a simpler naming convention"
+      # url= "/material/principles/part-2/chapter-04/"
+      # img = "/photos/physics/quasar.jpg"
+      # title = "The Elastic Theory of Gravity"
+      # sub = "We bring back the theory of gravity from Kepler and Descartes"
     [languages.en.params.tricon2.items.d]
       url = "/material/solutions/fusion/"
       img= "/photos/physics/elec.jpg"

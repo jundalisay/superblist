@@ -25,19 +25,51 @@ It follows that there are 3 kinds of movement:
 - of quantity
 - of place. 
 
-There is no movement in respect of substance (because there is nothing contrary to substance), nor of relation (for it is possible that if one of two things in relation changes, the relative term which was true of the other thing ceases to be true, though this other does not change at all,-so that their movement is accidental), nor of agent and patient, or mover and moved, because there is no movement of movement nor generation of generation, nor, in general, change of change. For there might be movement of movement in two senses;
+There is no movement in respect of substance (because there is nothing contrary to substance), nor of relation (for it is possible that if one of two things in relation changes, the relative term which was true of the other thing ceases to be true, though this other does not change at all,-so that their movement is accidental), nor of agent and patient, or mover and moved, because there is no movement of movement nor generation of generation, nor, in general, change of change. 
 
-1. movement might be the subject moved, as a man is moved because he changes from pale to dark,-so that on this showing movement, too, may be either heated or cooled or change its place or increase. But this is impossible; for change is not a subject.
+For there might be movement of movement in 2 senses:
 
-2. some other subject might change from change into some other form of existence (e.g. a man from disease into health). But this also is not possible except incidentally. For every movement is change from something into something. (And so are generation and destruction; only, these are changes into things opposed in certain ways while the other, movement, is into things opposed in another way.) A thing changes, then, at the same time from health into illness, and from this change itself into another. 
+1. Movement might be the subject moved
 
-If it has become ill, it will have changed into whatever may be the other change concerned (though it may be at rest), and, further, into a determinate change each time; and that new change will be from something definite into some other definite thing; therefore it will be the opposite change, that of growing well. 
+For example, a man is moved because he changes from pale to dark.
 
-We answer that this happens only incidentally; e.g. there is a change from the process of recollection to that of forgetting, only because that to which the process attaches is changing, now into a state of knowledge, now into one of ignorance.
+So that on this showing movement, too, may be either heated or cooled or change its place or increase. But this is impossible; for change is not a subject.
 
-The process will go on to infinity, if there is to be change of change and coming to be of coming to be. What is true of the later, then, must be true of the earlier; e.g. if the simple coming to be was once coming to be, that which comes to be something was also once coming to be; therefore that which simply comes to be something was not yet in existence, but something which was coming to be coming to be something was already in existence. And this was once coming to be, so that at that time it was not yet coming to be something else. 
+2. Some other subject might change from change into some other form of existence 
 
-Now since of an infinite number of terms there is not a first, the first in this series will not exist, and therefore no following term exist. Nothing, then, can either come term wi to be or move or change. Further, that which is capable of a movement is also capable of the contrary movement and rest, and that which comes to be also ceases to be. 
+For example, a man might change from disease into health. 
+
+But this also is impossible except incidentally. 
+
+Every movement is change from something into something. 
+
+An example is the movement from generation to destruction. 
+
+These are changes into things opposed in certain ways while the other, movement, is into things opposed in another way. 
+
+A thing changes, then, at the same time from health into illness, and from this change itself into another. 
+
+If it has become ill, it will have changed into whatever may be the other change concerned (though it may be at rest), and, further, into a determinate change each time. 
+
+New change will be from something definite into some other definite thing; therefore it will be the opposite change, that of growing well. 
+
+We answer that this happens only incidentally.
+
+For example, there is a change from the process of recollection to that of forgetting, only because that to which the process attaches is changing, now into a state of knowledge, now into one of ignorance.
+
+The process will go on to infinity, if there is to be change of change and coming to be of coming to be. 
+
+What is true of the later, then, must be true of the earlier; e.g. if the simple coming to be was once coming to be, that which comes to be something was also once coming to be; therefore that which simply comes to be something was not yet in existence, but something which was coming to be coming to be something was already in existence. 
+
+This was once coming to be, so that at that time it was not yet coming to be something else. 
+
+In an infinite number of terms there is not a first. The first in this series will not exist. 
+
+Therefore, no following term exist. 
+
+Nothing, then, can either come term wi to be or move or change. 
+
+Further, that which is capable of a movement is also capable of the contrary movement and rest, and that which comes to be also ceases to be. 
 
 Therefore that which is coming to be is ceasing to be when it has come to be coming to be; for it cannot cease to be as soon as it is coming to be coming to be, nor after it has come to be; for that which is ceasing to be must be. Further, there must be a matter underlying that which comes to be and changes. 
 
@@ -55,6 +87,8 @@ Things which are in one proximate place are together in place, and things which 
 
 That which is most distant in a straight line is contrary in place. That is successive which is after the beginning (the order being determined by position or form or in some other way) and has nothing of the same class between it and that which it succeeds, e.g. lines in the case of a line, units in that of a unit, or a house in that of a house. (There is nothing to prevent a thing of some other class from being between.) 
 
-For the successive succeeds something and is something later; 'one' does not succeed 'two', nor the first day of the month the second. That which, being successive, touches, is contiguous. (Since all change is between opposites, and these are either contraries or contradictories, and there is no middle term for contradictories, clearly that which is between is between contraries.) The continuous is a species of the contiguous. I call two things continuous when the limits of each, with which they touch and by which they are kept together, become one and the same, so that plainly the continuous is found in the things out of which a unity naturally arises in virtue of their contact. 
+For the successive succeeds something and is something later; 'one' does not succeed 'two', nor the first day of the month the second. 
+
+That which, being successive, touches, is contiguous. (Since all change is between opposites, and these are either contraries or contradictories, and there is no middle term for contradictories, clearly that which is between is between contraries.) The continuous is a species of the contiguous. I call two things continuous when the limits of each, with which they touch and by which they are kept together, become one and the same, so that plainly the continuous is found in the things out of which a unity naturally arises in virtue of their contact. 
 
 Plainly the successive is the first of these concepts (for the successive does not necessarily touch, but that which touches is successive; and if a thing is continuous, it touches, but if it touches, it is not necessarily continuous; and in things in which there is no touching, there is no organic unity); therefore a point is not the same as a unit; for contact belongs to points, but not to units, which have only succession; and there is something between two of the former, but not between two of the latter.

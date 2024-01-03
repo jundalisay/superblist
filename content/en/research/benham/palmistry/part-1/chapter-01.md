@@ -46,6 +46,8 @@ The Mounts' names are astrological. They are just traditional. <!--   sense, but
 
 I use these names because they are easy to remember, though any other names would do. They have no reference to the planets. <!-- are not used because it is considered that planetary influences are necessary, or play any part, in our science. -->
 
+I have used the masculine pronoun with all the Mounts only for convenience and brevity.
+
 
 ## The Seven Types of People
 

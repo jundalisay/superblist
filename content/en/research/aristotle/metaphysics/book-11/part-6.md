@@ -55,9 +55,13 @@ For to maintain the view we are opposing is just like maintaining that the thing
 This is because when we pursue the truth, we must start from the things that are always in the same state and never change. Examples are  the heavenly bodies. They do not appear to be now of one nature and again of another, but are manifestly always the same and share in no change.
 
 
-If there is movement, there is also something moved, and everything is moved out of something and into something; it follows that that that which is moved must first be in that out of which it is to be moved, and then not be in it, and move into the other and come to be in it, and that the contradictory statements are not true at the same time, as these thinkers assert they are.
+If there is movement, there is also something moved, and everything is moved out of something and into something.
 
-If the things of this earth continuously flow and move in respect of quantity-if one were to suppose this, although it is not true-why should they not endure in respect of quality? For the assertion of contradictory statements about the same thing seems to have arisen largely from the belief that the quantity of bodies does not endure, which, our opponents hold, justifies them in saying that the same thing both is and is not four cubits long. But essence depends on quality, and this is of determinate nature, though quantity is of indeterminate.
+It follows that that that which is moved must first be in that out of which it is to be moved, and then not be in it, and move into the other and come to be in it, and that the contradictory statements are not true at the same time, as these thinkers assert they are.
+
+If the things of this earth continuously flow and move in respect of quantity-if one were to suppose this, although it is not true-why should they not endure in respect of quality? 
+
+For the assertion of contradictory statements about the same thing seems to have arisen largely from the belief that the quantity of bodies does not endure, which, our opponents hold, justifies them in saying that the same thing both is and is not four cubits long. But essence depends on quality, and this is of determinate nature, though quantity is of indeterminate.
 
 When the doctor orders people to take some particular food, why do they take it? In what respect is 'this is bread' truer than 'this is not bread'? 
 
@@ -78,4 +82,3 @@ It is wrong to accept the views of Heraclitus or Anaxagoras.
 It would mean that contraries would be predicated of the same subject. When Anaxagoras says that in everything there is a part of everything, he says nothing is sweet any more than it is bitter, and so with any other pair of contraries, since in everything everything is present not potentially only, but actually and separately. 
 
 Similarly all statements cannot be false nor all true, both because of many other difficulties which might be adduced as arising from this position, and because if all are false it will not be true to say even this, and if all are true it will not be false to say all are false.
-

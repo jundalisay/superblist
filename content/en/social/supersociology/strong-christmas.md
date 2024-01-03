@@ -45,7 +45,9 @@ According to the model, that spark would cause a long, drawn out global stagflat
 
 After the crisis years are over, then things become happier than before the crisis years, since the job of the crisis years was to remove the prevailing human dogmas that caused so much suffering not only for humans but also for plants and animals. This is similar to how the European Union came about from the horrors of World War II. 
 
-![Prediction](/graphics/prediction.jpg)
+{{< img src="/graphics/social/predict.jpg" cap="Original Prediction" alt="Original Prediction" >}}
+
+{{< img src="/graphics/social/predict2023.jpg" cap="Actual from 2023" alt="Actual from 2023" >}}
 
 This pattern is distinctly a European one that was spread onto the world through colonization. China and Taiwan largely escaped colonization and kept their own mentality and are consequently not so affected by Covid.
 
@@ -56,7 +58,7 @@ The arrival of Omicron isn't surprising because it proves the universe works as 
 
 The dialectical solution to Covid is to stop the war against the Amazon rainforest through two major policies: 
 
-1. An embargo the Amazon rainforest and later those in Indonesia and Africa
+1. An embargo the Amazon rainforest, and later, those in Indonesia and Africa
 2. A super-massive reforestation global as reparations for the damage done, as well as to reverse climate change
 
 This solves two problems -- Covid and global warming -- at the same time. This solution is sourced not from intellect, which is what the West excels in, but from fellow-feeling with the suffering of Nature, which is what Asia excels in. 
@@ -73,7 +75,9 @@ The problem is that such a scientific model probably came from [measles or small
 
 So the scientific solution is to keep on vaccinating 90% of the total global population every 6 months or so, or with every new variant. Through this, they hope that the virus stop mutating by lessening the viral load and reducing the chance of virus replication.
 
-Vaccines prolong the virus by giving a false solution*. People then divert their policies, funding, and energy into it and away from the real solution stated above. According to our model, Covid could have ended by Q3 2020 if the solution were implemented. this is around the same length of time that it took for SARS and MERS to disappear.  
+Vaccines prolong the virus by giving a false solution*. People then divert their policies, funding, and energy into it and away from the real solution stated above. 
+
+According to our model, Covid could have ended by Q3 2020 if the solution were implemented. this is around the same length of time that it took for SARS and MERS to disappear.  
 
 
 > *A shallow reader might think that Superphysics is anti-vaccination. In reality, Superphysics is pro-vaccination just as it is pro-alternative medicine. The issue here is the excessive dependence on a certain tool, similar to a person who uses a calculator to add simple numbers instead of using his own brain.  

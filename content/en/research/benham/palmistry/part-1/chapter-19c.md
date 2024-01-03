@@ -18,13 +18,45 @@ clubbed, spatulate, square, conic, paddle-shaped, broad, or refined.
 
 Then see how much will there is by the length of the will phalanx. See if reason and logic are strong by length of the second phalanx, see what kind of reason by the shape of this phalanx, then see if will is stronger than reason, evenly balanced with it, or deficient. 
 
-From these examinations you can tell whether good sense and determination will make the Jupiterian ambitions succeed or whether lack of these qualities will ruin them. No matter what the ambitions, there must be will and reason to bring them to anything. No matter how strong the Jupiterian, he must have a good thumb to make him what he was built to be, a commander and leader. Now by discovering the type of the subject, you know what sphere in life he was created to fill. 
+From these examinations you can tell whether good sense and determination will make the Jupiterian ambitions succeed or whether lack of these qualities will ruin them. 
 
-You can picture what the pure type looks like. His characteristics, his health difficulties and dangers, his faults and virtues, have been shown; whether he is refined or coarse (texture), has an elastic or stiff mind (flexibility), energy or laziness (consistency), is cold, warm, bilious, or congested (color), is nervous, has heart disease, consumption, bronchitis, is robust or weak, honest, cranky, or critical (nails), is full of vital energy (hair), lives in the mental, abstract, or material worlds (hand as a whole) what side his peculiar type qualities will take (phalanges of finger), whether artistic, practical, active, or original ideas will govern (tips), whether reason and analysis will rule (knotty fingers), whether inspiration will guide him (smooth fingers), whether minutiae and detail, or quick thought and action and generalities, will be his modes of procedure (long and short fingers), and whether will and reason will push all these qualities to a successful conclusion (thumb). Intelligent application of this information will enable you to read a subject accurately and thoroughly. Unfortunately, we cannot have all good Jupiterians, but find the bad type so often that it must be fully considered.
+No matter what the ambitions, there must be will and reason to bring them to anything. No matter how strong the Jupiterian, he must have a good thumb to make him what he was built to be, a commander and leader. Now by discovering the type of the subject, you know what sphere in life he was created to fill. 
+
+You can picture what the pure type looks like -- his:
+- characteristics
+- health difficulties and dangers
+- faults and virtues
+
+The following can be determined from the characteristics of the hand:
+
+Characteristic | Personal Quality
+--- | ---
+Texture of hand | Is he refined or coarse?
+Flexibility of hand | Does he have an elastic or stiff mind?
+Consistency of hand | Does he have energy or laziness?
+Color of hand | Is he cold, warm, bilious, or congested?
+Nails | Is he nervous, robust or weak, honest, cranky, or critical? Does he have heart disease, consumption, bronchitis?
+Hair | Is he full of vital energy?
+Hand as a whole | Does he live in the mental, abstract, or material worlds?
+Phalanges of finger | What side will his peculiar type qualities take?
+Tips of finger | Is he artistic, practical, active? Will original ideas govern?
+Smooth fingers | Will inspiration guide him?
+Knotty fingers | Will reason and analysis rule?
+Long and short fingers | Will minutiae and detail, or quick thought and action and generalities be his modes of procedure?
+Thumb | Will will and reason push all these qualities towards success. 
+
+<!-- Intelligent application of this information will enable you to read a subject accurately and thoroughly.  -->
+
+Unfortunately, we find the bad type of Jupiterian so often that these must be fully considered.
+
+
+## The Bad Jupiterian
 
 In this bad type the appearance is changed, the life, beauty, and strength diminished, and in place there is an undersized man, not commanding in appearance, eyes in which kindliness is lacking, a bad skin without the healthy glow of the good type, straight, stiff hair, a poorly shaped nose, mouth very large, full and sensual, with long, dark teeth.
 
-This Jupiterian is forbidding and unattractive, and no crowd follows in his steps. The bad type has all the Jupiterian love of command, but no power of enforcing it except upon those weak and unable to resist him. He is the tyrant and despot at heart, but frequently finds only his family upon whom to exercise these qualities. Thus in his home he is a person of overbearing pettiness. He is grossly extravagant, but in spending his money he furthers only his own pleasure and gratifies only his own appetite. He is a sensualist, selfish in the extreme, and a debauchee. His family are subjected to indignities and forced to submit to a tyrannical will. 
+This Jupiterian is forbidding and unattractive, and no crowd follows in his steps. The bad type has all the Jupiterian love of command, but no power of enforcing it except upon those weak and unable to resist him. He is the tyrant and despot at heart, but frequently finds only his family upon whom to exercise these qualities. Thus in his home he is a person of overbearing pettiness. 
+
+He is grossly extravagant, but in spending his money he furthers only his own pleasure and gratifies only his own appetite. He is a sensualist, selfish in the extreme, and a debauchee. His family are subjected to indignities and forced to submit to a tyrannical will. 
 
 
 <!-- The Mount Of Jupiter. Part 6 -->
@@ -53,4 +85,8 @@ This is the way to decide upon occupations. It is absolutely accurate in determi
 
 The Jupiterian seldom commits suicide. When he does it is the result of disappointed ambition or wounded vanity. As a general rule, when he reaches the stage of discouragement that is supposed to cause men to take life, the Jupiterian takes to drink and drowns his sorrows in the" flowing bowl." Jupiterians who commit suicide have short fingers and act upon impulse. 
 
-Thus in a sudden disappointment they may on the spur of the moment jump from a high place or use a revolver. Long-fingered or knotty-fingered Jupiterians do not take their own lives. Give a Jupiterian time to think it out and he will never do so. The drink habit is a danger which all Jupiterians have to encounter, and this is especially a danger if the color of the hands, lines, and nails be red. These high-spirited subjects find a great temptation to indulge their appetite for stimulants. If the Life line shows great vigor of constitution by its depth and color this is a positive menace to a Jupiterian.
+Thus in a sudden disappointment they may on the spur of the moment jump from a high place or use a revolver. Long-fingered or knotty-fingered Jupiterians do not take their own lives.
+
+Give a Jupiterian time to think it out and he will never do so. The drink habit is a danger which all Jupiterians have to encounter, and this is especially a danger if the color of the hands, lines, and nails be red. 
+
+These high-spirited subjects find a great temptation to indulge their appetite for stimulants. If the Life line shows great vigor of constitution by its depth and color this is a positive menace to a Jupiterian.

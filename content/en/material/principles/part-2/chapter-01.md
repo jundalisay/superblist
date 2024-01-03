@@ -25,11 +25,21 @@ For example, physicists fail at fusion because they confine plasma with magnetis
 
 
 
-
-
 The spatial layer is below the aethereal, as the 'container' of a universe in an existence made up of a multiverse. 
 
-It leads to spacetime and sets the speed of light, since it is superior to the the 3 lower Layers of:
+
+Spatial Layer | Name | Physics Counterpart
+--- | --- | ---
+Traditional Name | Air | Spacetime
+Substance | Sost | Black Holes 
+Medium | Most | Span (Distance, Timespan, Speed) 
+Quanta | Qost | Graviton
+
+
+It is purely kinetic energy and has no static forms. Rather, the static forms of spacetime manifest as the lower layers. 
+- Parts that have low kinetic energy manifest as empty space or a vacuum. 
+
+The spatial layer leads to spacetime and sets the speed of light, since it is superior to the the 3 lower Layers of:
 - Electromagnetism
 - Weak Force
 - Strong Force
@@ -61,19 +71,13 @@ Descartes classifies this aether into two:
 <!-- A unit example is a human mind.  -->
 
 
-Name | Traditional Name | Force | Particle | Quantum
---- | --- | --- | --- | --- 
-Spatial | Air | Gravitation | 'Graviton' | Quantum of Spacetime (Qos)
-
-
-
 ## Space and Time
 
 <!-- ## The Errors of Einstein Spacetime -->
 
 The current concept of spacetime in Physics came from Einstein who believed that it is a fabric that warps wherever there is gravity. 
 
-Superphysics spacetime is different in the sense that we define it as the material that splits perceptions into 2 components:
+Superphysics Spacetime is different in the sense that we define it as the thing that splits perceptions into 2 components:
 
 1. Space
 
@@ -83,7 +87,8 @@ This is the particle part or crudified part or physical part of the perception.
 
 This is the wave part or subtle part or metaphysical part of the perception.
 
-Current Physics sees spacetime as 3 dimensions as spatial length, width, height and 1 dimension of time. This arises from a matter-first perspective. This is because a material thing, like a rock, has length, width, height. Its rolling movement from location A to location B then takes time. 
+
+Current Physics sees spacetime as 3 dimensions as spatial length, width, height and 1 dimension of time. This arises from a matter-first perspective. This is because a material thing, like a rock, has length, width, height. Its rolling movement from location A to location B then takes time.
 
 In contrast, our spacetime is seen from the aether-first perspective, as a result of perception or observation.
 
@@ -100,5 +105,3 @@ Metaphysical | Aethereal | Mental Time | Experience | Coordinate Time (Einstein)
 Physical | Radiant | Electromagnetic Time | Atomic Clock | Proper Time (Einstein)
 Physical | Transformative | Radioactive Time | Radioactive Decay Clock |
 Physical | Material | Material Time | Sand Clock | Absolute Time (Newton)
-
-

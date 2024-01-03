@@ -38,9 +38,7 @@ Edge    | has highest energy levels
 These 4 zones match the:
 - 4 Energy Levels or Electron Shells of Electrons
 - 4 orbits of solar systems 
-  - Goldilicks zone
+  - Goldilocks zone
   - Large Planet zone
   - Oort Cloud
   - Stellar Halo
-
-

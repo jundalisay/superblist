@@ -85,7 +85,9 @@ It is not possible to keep out all alloy, however, even in this type, for there 
 
 The type has its faults, but the one above described is the Jupiterian as he was planned and intended to be. The natural build of the type makes these people self-confident. 
 
-They are conscious of their strength, and this gives them reliance in their ability. They depend upon themselves, work out their own plans, and thus do not have the habit of asking advice. They are inclined to bluster and talk loud, not in a quarrelsome way, it is true, but in a manner full of self-confidence and self-assertion. They are aware of the influence they exert, and it naturally makes them vain. This vanity knows the power of the rich, musical voice in swaying men, and they like to hear the sound of this voice as well as to see it shaping the views of others. Leadership is always uppermost in their minds. 
+They are conscious of their strength, and this gives them reliance in their ability. They depend upon themselves, work out their own plans, and thus do not have the habit of asking advice. They are inclined to bluster and talk loud, not in a quarrelsome way, it is true, but in a manner full of self-confidence and self-assertion.
+
+They are aware of the influence they exert, and it naturally makes them vain. This vanity knows the power of the rich, musical voice in swaying men, and they like to hear the sound of this voice as well as to see it shaping the views of others. Leadership is always uppermost in their minds. 
 
 <!-- The Mount Of Jupiter. Part 2  -->
 
@@ -123,6 +125,31 @@ This pride is but natural; it is not a fault, and for its possession he should n
 
 In his marriage relations the Jupiterian is very ambitious. He matures early in life, and marries when young one of whom he believes he can feel proud. His ambitious desire to have the helpmate shine before the world is not always realized, for a Jupiterian, as well as any other person, may be deceived, so is often unhappily wedded. He is predisposed to marry, and, knowing this, you will not need as strong confirmations of marriage with this type as are needed with some of the other types. 
 
-In health matters the Jupiterian is predisposed to certain disorders. He is a great eater, and in this regard is somewhat of a sensualist. He eats highly seasoned, strong food, is fond of wine, and is addicted to smoking. He is a high liver and his danger is from being an over-eater. Thus he injures his digestion, has vertigo, or fainting fits, as his first warning, and these attacks increase in violence until apoplexy ends the story. He has gout and stomach trouble, and these produce impure blood which often affects his lungs, making them weak. Disordered stomach, indigestion, vertigo, apoplexy, gout, and sometimes lung trouble are his peculiar health dangers. In this description I have used the pronoun he, and considered the Jupiterian as a masculine type. There are, however, just as many feminine Jupiterians. On recognizing a strong Mount and finger in a woman, leadership, ambition, pride, honor, and all the Jupiterian attributes belong to her. I have used the masculine pronoun with all the Mounts only as a matter of convenience and brevity. With this idea of the Jupiterian character and attributes, it remains to find how they are distributed, and how they will probably be expended. On recognizing strong Jupiterian traits, locate the apex of the Mount. If it is distinctly in the centre of the Mount, the qualities will be evenly distributed. 
+In health matters, the Jupiterian is predisposed to certain disorders.
 
-If leaning over toward Saturn, the sobriety, sadness, and wisdom of that Mount will hold down the Jupiterian ambition and make it safer, for Jupiter will be guided by Saturn. If the apex leans or is marked on the outer edge of the hand opposite Saturn, the Jupiterian qualities will be directed to seeking purely selfish, personal advancement. If the apex lies near the Heart line, the ambition and pride will be for those loved, and if near the line of Head, the ambition will be for intellectual success. 
+He is a great eater, and in this regard is somewhat of a sensualist. He:
+- eats highly seasoned, strong food
+- is fond of wine
+- is addicted to smoking. 
+
+He is a high liver. His danger is from overeating.
+
+Thus, he injures his digestion, has vertigo, or fainting fits, as his first warning. 
+
+These attacks increase in violence until apoplexy ends the story. 
+
+He has gout and stomach trouble. These produce impure blood which often affects his lungs, making them weak. 
+
+Disordered stomach, indigestion, vertigo, apoplexy, gout, and sometimes lung trouble are his peculiar health dangers. 
+
+I have considered the Jupiterian as a masculine type. There are, however, just as many feminine Jupiterians. 
+
+A Jupiterian woman would have leadership, ambition, pride, honor, and all the Jupiterian attributes. 
+
+With this idea of the Jupiterian character and attributes, it remains to find how they are distributed, and how they will probably be expended.
+
+On recognizing strong Jupiterian traits, locate the apex of the Mount. If it is distinctly in the centre of the Mount, the qualities will be evenly distributed. 
+
+If leaning over toward Saturn, the sobriety, sadness, and wisdom of that Mount will hold down the Jupiterian ambition and make it safer, for Jupiter will be guided by Saturn. 
+
+If the apex leans or is marked on the outer edge of the hand opposite Saturn, the Jupiterian qualities will be directed to seeking purely selfish, personal advancement. If the apex lies near the Heart line, the ambition and pride will be for those loved, and if near the line of Head, the ambition will be for intellectual success. 

@@ -12,6 +12,7 @@ icon: /icons/spmat.png
 ---
 
 
+
 The Quantum of Aether or Qoa is the basic unit or substance in the aethereal layer. It manifests as idea.  
 
 In ancient natural philosophy, the aether was called the 'substance' that filled all of Existence. 

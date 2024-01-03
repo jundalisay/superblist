@@ -31,5 +31,3 @@ Radiant | Positive or Negative Charge | Male or Female Charge | Attract or Repel
 Transformative | Left Hand or Right Hand Chirality | Clockwise or Anticlockwise Rotation | Transform or Not Transform
 Material | Left Hand or Right Hand Chirality | Clockwise or Anticlockwise Rotation | Materialize or Dematerialize 
 
-
-The Positive 

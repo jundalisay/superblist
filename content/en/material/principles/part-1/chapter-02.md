@@ -14,6 +14,7 @@ icon: /icons/spmat.png
 
 In the metaphysical domain exists the aetheral layer, which we divide into 3 sublayers:
 
+
 Sublayer | Example
 --- | ---
 Upper | The soul of a dog-identity, the soul of a society-identity 
@@ -63,16 +64,16 @@ The aethereal Cartesian plane follows the same pattern by visualizing the data d
 ## Force Versus Effort
 
 These two planes then separate the two causes of motion:
-- External Physical Force (F)
-- Internal Aethereal Effort (E)
+- External Physical Force (`F`)
+- Internal Aethereal Effort (`E`)
 
-We can say that F is Newtonian, while E is Asian. For example:
-- the Force F needed to push a box 10 meters might be 10 Newton
-  - F depends on the gravitational signature of the box and that of the Earth
-- the effort needed to move a permit application to the next step in a government bureaucracy A might be 5 Effort, but only 3 Effort in government B
-  - E depends on the gravitational signature of the permit (its contents and nature) and that of the government officer
+We can say that `F` is Newtonian, while `E` is Asian. For example:
+- the Force `F` needed to push a box 10 meters might be 10 Newton
+  - `F` depends on the gravitational signature of the box and that of the Earth
+- the effort needed to move a permit application to the next step in a government bureaucracy `A` might be 5 Effort, but only 3 Effort in government `B`
+  - `E` depends on the gravitational signature of the permit (its contents and nature) and that of the government officer
 
-Of course, we can push the box without deriving the gravitational signature of the box, since its weight already signifies it. Thus, in this case, we have no need for the aethereal Cartesian plane. 
+Of course, we can push the box without deriving the gravitational signature of the box, since its weight already signifies it. Thus, in this case, we have no need for the aethereal Cartesian plane.
 
 Likewise, a physical Cartesian plane might not be so useful in helping us get permits rushed in governments. But a real-time visualization of the aethereal Cartesian plane of two governments will help us figure out which one to approach and when, since it squeezes in more information. 
 

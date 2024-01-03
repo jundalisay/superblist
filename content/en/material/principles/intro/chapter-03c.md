@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 3c"
-title: "The Quantum-Medium Classification"
+title: "The Substance-Quantum-Medium Classification"
 date: 2023-11-26
 image: "/graphics/physics/model.jpg"
 description: "Gravitational Territories are the area of a gravitational signature"
@@ -20,11 +20,16 @@ Instead of the messy classification of Fermions, Bosons, Hadrons, Baryons, Meson
 
 Everything in the universe is either a Medium or a Substance.
 - Medium is where force works through.
-- Substance is the discrete identity that reacts to the force. 
+- Substance is the discrete identity that reacts to the force.
+- Quantum is the smallest perceivable unit of Substance.
 
-All forces such as gravity, electromagnetism, contact forces are manifestations of the 2 Forces, which are aethereal in nature. We use:
+
+All forces such as gravity, electromagnetism, contact forces are manifestations of the 2 Forces, which are aethereal in nature. 
+
+<!-- We use:
 - the word medium to denote the medium
-- the word quantum to denote substance
+
+- the word quantum to denote substance -->
 
 <!-- , metaphysically as a desire and the actual idea that is desired. 
 - Instead of desire, we use **force**
@@ -43,7 +48,7 @@ I think of myself as a thing that thinks and is not extended. I also think of th
 
 
 
-These media and quanta are then applied to the 5 Layers.
+These media, substance, and quanta are then applied to the 5 Layers.
 
 {{< img src="/graphics/physics/model.jpg" alt="Superphysics 5 Layer Model" cap="Superphysics uses a simpler naming convention for particles" >}}
 
@@ -51,20 +56,31 @@ These media and quanta are then applied to the 5 Layers.
 Layer | Superphysics Medium | Common Name | Physics 'Boson' Name
 --- | --- | --- | ---
 Aethereal | moa (Medium of Aether) | Impact | ?
-Spatial | most (Medium of Space-Time) | Gravity | Graviton
+Spatial | most (Medium of Space-Time) | Span | Graviton
 Radiant | mor (Medium of Radiance) | Brightness | Photon
 Transformative | mot (Medium of Transformation) | Changeability | W Z Bosons
 Material | mom (Medium of Matter) | Rigidity | Gluons
 
+
+Layer | Superphysics Substance | Common Name
+--- | --- | --- 
+Aethereal | soa (Substance of Aether) | Macro Abstract Mind
+Spatial | sost (Substance of Spacetime) | Black Hole
+Radiant | sor (Substance of Radiance) | Electricity
+Transformative | sot (Substance of Transformation) | Neutron 
+Material | som (Substance of Matter) | Proton 
+
+
 Layer | Superphysics Quanta | Common Name
 --- | --- | --- 
-Aethereal | qoa (Quantum of Aether) | ?
-Spatial | qost (Quantum of Space-Time) | Graviton?
-Radiant | qor (Quantum of Radiance) | Electron 
-Transformative | qot (Quantum of Transformation) | Neutron 
-Material | qom (Quantum of Matter) | Proton 
+Aethereal | qoa (Quantum of Aether) | Micro Abstract Mind
+Spatial | qost (Quantum of Spacetime) | Spacetime Particles
+Radiant | qor (Quantum of Radiance) | Electron
+Transformative | qot (Quantum of Transformation) | Neutrino 
+Material | qom (Quantum of Matter) | Quark
 
-The differences between the Physics model and the Superphysics one are:
+
+<!-- The differences between the Physics model and the Superphysics one are:
 - Neutrons and Protons are an essential substance or quanta even if it is not a fundamental particle in Physics
 - In Superphysics, quark 'colors' are merely representations of the 3 Influences of Crudifying, Transforming, and Subtlifying   
-- The Superphysics model extends all the way to the Aethereal
+- The Superphysics model extends all the way to the Aethereal -->

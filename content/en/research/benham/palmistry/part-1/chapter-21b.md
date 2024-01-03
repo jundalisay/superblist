@@ -69,9 +69,15 @@ They are attractive, however, and have many friends for they do not have energy 
 
 He is successful in business for he brings intelligent energy to bear on these pursuits and turns his brilliancy to account. The hard hand belongs to a coarse Apollonian, who talks much and lacks the refinement belonging to the higher development of the type. Flexibility will show elasticity added to an already brilliant mind. If the flexibility is great and the Apollonian type strongly marked, it will show the most versatile, brilliant person imaginable. 
 
-Too much so in fact, for he will fly to extremes and will constantly shoot over the heads of the inhabitants of earth. Every impression and emotion find quick expression with him, and he enjoys and suffers much, so delicately is he organized. This is the brilliant artist who works by fits and starts producing only a few things in a lifetime but each of them a gem. This subject is very extravagant. The medium flexibility will be best for the subject, for no additional mental elasticity is needed by a pure Apollonian. This will make a subject well balanced, even tempered, and self contained; one who will not easily fly off at a tangent, and in both the worlds of art and business, he will, by being more conservative, be more successful. The stiff hand will show that the stiff-brain qualities have taken away some of the versatility of the subject. 
+Too much so in fact, for he will fly to extremes and will constantly shoot over the heads of the inhabitants of earth. Every impression and emotion find quick expression with him, and he enjoys and suffers much, so delicately is he organized. This is the brilliant artist who works by fits and starts producing only a few things in a lifetime but each of them a gem. This subject is very extravagant.
 
-He will be less likely to scatter his energies, and more inclined to confine himself to a definite occupation. He will be less brilliant, as the typical Apollonian qualities are much reduced. Pink or red color we expect to find in the Apollonian for the healthy type must have one of the healthy colors. Pink will lend vivacity and cheer to the already happy subject, and is the color par excellence. Red will show strong, healthy blood supply, but it should not be too pronounced for heart trouble is a difficulty of the type. If found, look at nails and Heart line to see how much pressure the heart is sustaining. 
+The medium flexibility will be best for the subject, for no additional mental elasticity is needed by a pure Apollonian. 
+
+This will make a subject well balanced, even tempered, and self contained; one who will not easily fly off at a tangent, and in both the worlds of art and business, he will, by being more conservative, be more successful. The stiff hand will show that the stiff-brain qualities have taken away some of the versatility of the subject. 
+
+He will be less likely to scatter his energies, and more inclined to confine himself to a definite occupation. He will be less brilliant, as the typical Apollonian qualities are much reduced. Pink or red color we expect to find in the Apollonian for the healthy type must have one of the healthy colors. 
+
+Pink will lend vivacity and cheer to the already happy subject, and is the color par excellence. Red will show strong, healthy blood supply, but it should not be too pronounced for heart trouble is a difficulty of the type. If found, look at nails and Heart line to see how much pressure the heart is sustaining. 
 
 White color is not expected, for Apollonians are not cold, if present it will pull down the attractiveness and health of the subject, showing a weak heart, and this is dangerous, for it is the health defect of the type. Here again look well to nails and Heart line. With white color, there will be no such success as belongs to the natural type, and when found, it will tell of the probable spoiling of the best qualities of the subject. Yellow color is rare with the pure type of Apollonian. Saturnian or Mercurian types may be found to be secondary, in which case yellow color may be present, but it is not expected with the Apollonian type, and is a great defect when found. 
 
@@ -83,7 +89,16 @@ The nails will tell by their size, whether the general health is strong or delic
 
 Through all the nervous formations it can be judged what degree of trouble is present. Bulbous nails add tubercular trouble, either of lungs or spine. Short, critical nails will give argumentative force to a person already fond of talking, and he will push his view with vigor. Heart-disease nails will show structural defect in the Apollonian's weak spot. A finely textured, pink-colored, smooth, open nail is what we expect to find, which will tell of brightness, spontaneity, and honesty. 
 
-Hair on the hands tells of the vigor of the constitution. Blond hair is expected and must be distinguished from yellow or silver color; and to be the typical Apollonian blond must be of a brilliant golden hue. There is more fire and snap to this hair, which approaches black than when it is a dull, straw color. Black hair makes the subject quicker and more vivacious, adding to the sparkle of an already sparkling character. It also lends to the subject a dash of the fire belonging to black color, and makes him unusually sharp and keen. he Mount Of Apollo. Part 5 The more hair found on the hand the more vitality the subject has. The hand as a whole, will tell in which world the subject moves. If the fingers predominate in length over the palm, then mind will rule, and either in literature, art, poetry, drawing, architecture, or kindred subjects will he find his proper vocation. If the middle world is best developed he will be the man for business. 
+Hair on the hands tells of the vigor of the constitution. Blond hair is expected and must be distinguished from yellow or silver color; and to be the typical Apollonian blond must be of a brilliant golden hue. There is more fire and snap to this hair, which approaches black than when it is a dull, straw color. Black hair makes the subject quicker and more vivacious, adding to the sparkle of an already sparkling character. 
+
+It also lends to the subject a dash of the fire belonging to black color, and makes him unusually sharp and keen. 
+
+
+<!-- ## Part 5 -->
+
+The more hair found on the hand the more vitality the subject has. The hand as a whole, will tell in which world the subject moves.
+
+If the fingers predominate in length over the palm, then mind will rule, and either in literature, art, poetry, drawing, architecture, or kindred subjects will he find his proper vocation. If the middle world is best developed he will be the man for business. 
 
 He will organize syndicates, indulge in large speculations, head great companies, and be a brilliant figure in the commercial world. If the lower third of the hand be strongest he will be ruled by baser instincts, commoner in his tastes, and fond of show. This is especially marked if the third phalanx of the finger of Apollo is thick. 
 
@@ -95,7 +110,11 @@ If Apollo is longer than Saturn, he will be the foolhardy gambler, unable to res
 
 The first phalanx longest indicates the artist, the writer, the poet, and the subject who will be given to these pursuits. With the second phalanx longest the business side prevails. When the third phalanx is longest, the subject is not destined for art; he will be fond of display and will have common tastes and love flashy colors.
 
-If the first and second phalanges are equal in length, then the artistic talents can be made to yield money, as the business and artistic worlds are combined. If the business world is short, the Apollonian may achieve a reputation, but will make little money. If the second and third phalanges are equally long, and the first short, there will only be a desire for money-making, and no artistic quality. This subject will wear flashy clothing and incline to be "shoddy." In judging the phalanges, see which is shortest, and which has gained length at its expense. 
+If the first and second phalanges are equal in length, then the artistic talents can be made to yield money, as the business and artistic worlds are combined. 
+
+If the business world is short, the Apollonian may achieve a reputation, but will make little money. If the second and third phalanges are equally long, and the first short, there will only be a desire for money-making, and no artistic quality. 
+
+This subject will wear flashy clothing and incline to be "shoddy." In judging the phalanges, see which is shortest, and which has gained length at its expense. 
 
 Estimate what has been taken out of the subject, and what has been furnished in increased supply. The finger tips will add their qualities to the finger and the character. Conic tips will make the subject more artistic and, with the first phalanx longest, add to its qualities the artistic conic qualities. Square tips make them practical and regular in habits, spatulate tips very active and original. With a long first phalanx the square tip will almost equal the presence of a long second phalanx. 
 

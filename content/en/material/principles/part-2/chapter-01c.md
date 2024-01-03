@@ -135,8 +135,6 @@ This is to compensate for the 1 coordinate millisecond taken by the perspective 
 
 
 
-
-
 <!-- Physicists are unable to find a [WIMP of dark energy](https://www.forbes.com/sites/startswithabang/2019/02/22/the-wimp-miracle-is-dead-as-dark-matter-experiments-come-up-empty-again/#95053e86dbc6) because space isn't a thing that fills gaps between objects. Rather, it's just an effect of observation and is the same reason behind quantum non-locality.
 
 Space-time depends totally on perception. Rather than say that it is infinite, it is more correct to call it as totally abitrary. A particle, when imposed on (since its 'spin' reflects reality), can therefore arbitrarily change its location and 'defy' gravity and locality.

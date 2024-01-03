@@ -22,8 +22,8 @@ Layer | Energy | Manifestation
 --- | --- | ---
 Aethereal | Strength of idea or feeling | Sound
 Spatial | Strength of a vortex (black hole) | Gravity
-Radiant | Energy in a photon or electron | Heat and Light
-Transformative | Energy in a W Z boson | Stability
+Radiant | Energy in a photon or electron | Heat, Light, Electricity
+Transformative | Energy in a W Z boson | Change
 Material | Energy in an atomic nucleus | Identity
 
 
@@ -41,7 +41,7 @@ We rename this as the Aethereal, Spatial, Radiant, Tranformative, and Material L
 - In the Transformative layer, it manifests as stability 
 - In the Material layer, it manifests as identity -->
 
-Everything in existence therefore has varying degrees of identifiability, stability, visuality, temperature, and audibility. The layers work in a hierarchy, with the aether being most superior, and matter being the most inferior. 
+Everything in existence therefore has varying degrees of identifiability, changeability, visuality, temperature, and audibility. The layers work in a hierarchy, with the aether being most superior, and matter being the most inferior. 
 
 
 ## Unity or Disunity Instead of Order or Disorder
@@ -75,3 +75,4 @@ For example, the 2 Forces manifests in 10 ways, depending on the Layer that they
 - In the Radiant layer, they manifest as waves versus particles
 - In the Transformative layer, they manifest as right-hand versus left-hand spin
 - In the Material layer, they manifest as negative versus positive charges
+
