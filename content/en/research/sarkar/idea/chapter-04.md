@@ -5,6 +5,9 @@ heading: "Chapter 4 "
 weight: 20
 description: "By division and decimation, solids get metamorphosed into subtler layers. This creates the unit mind."
 image: "/covers/ideology.jpg"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 icon: "/icons/sarkar.png"
 ---
 

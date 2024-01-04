@@ -128,21 +128,33 @@ I realized it's because the Essassani are already unified and based on 4th densi
 
 ## The Essassani Formula
 
-1. Act on your Excitement, your Passion - whatever is most exciting to you - in the moment.  Do this every moment that you can.
+1. Act on your HIGHEST Excitement, your Passion
 
-2. Do this to the best of your ability. Take it as far as you can go - until you can not take it any further.(Make sure your beliefs are not causing you to dampen your excitement ahead of time.)
+This is whatever is most exciting to you at the moment, in the highest* sense.  Do this every moment that you can.
 
-3. Act on your Excitement/Passion with absolutely no insistence or assumption or expectation of what the outcome should be. Very often the ideal outcome will not be what you expect or intend. Your Higher Self knows the ideal outcome, but your physical mind can not really know that in advance.
+> *Superphysics note: Highest here means dharmic. Unfortunately, the channel does not know Sanskrit and so the best English word is 'highest'. However, 'highest' does not automatically imply spirituality. This is the drawback of using that word. 
 
-4. Choose to remain in a positive state - regardless of what happens.  
 
-If something undesireable happens, by remaining in a positive state even then, you are able to gain some positive benefit from that situation.
 
-If you remain in a positive state, you can discover HOW it can serve you in a beneficial manner.
+2. Do this to the best of your ability. 
+
+Take it as far as you can go until you can not take it any further. Make sure your beliefs are not causing you to dampen your excitement ahead of time.
+
+3. Absolutely have no insistence or assumption or expectation of what the outcome should be.
+
+Very often the ideal outcome will not be what your lower mind expect or intend. Only your Higher Self knows the ideal outcome. If you expect, then you let the lower mind overrule the higher.
+
+4. Choose to remain in a positive state regardless of what happens.  
+
+Stay in a positive state, but take perceptions neutrally. If you remain in a positive state, you can discover HOW it can serve you in a beneficial manner.
+
+<!-- If something undesireable happens, by remaining in a positive state even then, you are able to gain some positive benefit from that situation. -->
 
 Any circumstance is actually neutral, with no built-in meaning. You determine whether it has a positive or negative effect, based on the MEANING that you PROJECT into that fundamentally-neutral situation.
 
-5. Constantly investigate your belief systems , and release & replace the unpreferred beliefs:
+5. Constantly investigate your belief systems.
+
+Release & replace the unpreferred beliefs:
 - The fear-based beliefs you might have.
 - The beliefs that are not in alignement with who you prefer to be.
 

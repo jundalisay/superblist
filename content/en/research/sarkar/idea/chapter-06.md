@@ -5,6 +5,9 @@ weight: 28
 description: "In subtlification at the different stages of the unit mind, the Macrocosmic Nucleus"
 image: "/covers/ideology.jpg"
 icon: "/icons/sarkar.png"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 ---
 
 

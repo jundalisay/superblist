@@ -5,6 +5,9 @@ heading: "Chapter 11"
 weight: 48
 description: "Spirituality should lead human beings to the one Cosmic truth from which they have derived their selves,(1) and which is the ultimate destiny"
 image: "/covers/ideology.jpg"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 icon: "/icons/sarkar.png"
 aliases:
   /research/indian/idea/chapter-11

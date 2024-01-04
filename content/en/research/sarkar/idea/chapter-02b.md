@@ -4,6 +4,9 @@ heading: "Chapter 2b "
 weight: 14
 description: "In plant and animal life, mind is underdeveloped and the vital energy and mind are controlled by the Supreme Mind"
 image: "/covers/ideology.jpg"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 icon: "/icons/sarkar.png"
 ---
 

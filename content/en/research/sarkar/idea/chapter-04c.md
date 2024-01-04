@@ -5,7 +5,9 @@ weight: 24
 description: "To find expression, the mind adopts certain propensities of love, hatred, fear, etc."
 image: "/covers/ideology.jpg"
 icon: "/icons/sarkar.png"
-author: PR Sarkar
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 ---
 
 

@@ -5,6 +5,9 @@ heading: Chapter 1c
 weight: 6
 description: "Mind is the collective name of the Identity-Layer, Ego-Layer, and mind-stuff"
 image: "/covers/ideology.jpg"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 icon: "/icons/sarkar.png"
 ---
 

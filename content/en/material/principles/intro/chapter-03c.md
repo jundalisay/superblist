@@ -1,86 +1,44 @@
 ---
 heading: "Chapter 3c"
-title: "The Substance-Quantum-Medium Classification"
+title: "Gravitational Territories"
 date: 2023-11-26
-image: "/graphics/physics/model.jpg"
+image: "/graphics/physics/territories.jpg"
 description: "Gravitational Territories are the area of a gravitational signature"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 12
+weight: 10
 icon: /icons/spmat.png
 ---
 
 
-Modern Physics was created from the lowest Material layer (Strong Force), working its way upwards to the Transformative (Weak Force) and then to the Radiant (Electromagnetic).
+The interaction between gravitational signatures naturally lead to gravitational territories which represent the space of the identity. In Physics, this is known as 'gravitational fields'.
 
-In contrast, Superphysics is created from the top Aethereal layer working downwards to the Material. This allows us to see all particles and forces from the highest viewpoint and reclassify them in a proper and intuitive way.
+Rene Descartes described these signatures as spinning vortices, each with its own strength and direction. 
 
-Instead of the messy classification of Fermions, Bosons, Hadrons, Baryons, Mesons, Leptons, etc., we use base the name on the Layer that the particle or force operates from. 
-
-Everything in the universe is either a Medium or a Substance.
-- Medium is where force works through.
-- Substance is the discrete identity that reacts to the force.
-- Quantum is the smallest perceivable unit of Substance.
-
-
-All forces such as gravity, electromagnetism, contact forces are manifestations of the 2 Forces, which are aethereal in nature. 
-
-<!-- We use:
-- the word medium to denote the medium
-
-- the word quantum to denote substance -->
-
-<!-- , metaphysically as a desire and the actual idea that is desired. 
-- Instead of desire, we use **force**
-- Instead of substance, we use **quanta** -->
-
-
-{{< q a="Descartes" c="Meditations Simplified, Part 6">}}
-Sensory ideas must be produced by some substance other than me. This substance actually has all the reality that is represented in the ideas that it produces. This substance is either a body, or it is God.
-{{< /q >}}
-
-<br>
-
-{{< q a="Descartes" c="Meditations Simplified, Part 3">}}
-I think of myself as a thing that thinks and is not extended. I also think of the stone as a thing that is extended and does not think. The two conceptions differ enormously. But they seem to have the classification ‘substance’ in common. 
+{{< q a="Descartes" c="The World, Chapter 8" >}}
+When the pure aether began to be divided, its division began in one part and spread out to all its parts as equally as it could. However, this equality of division could not be perfect because the division could not spread in a straight line since there was no void. Instead, each division happened as circular motions with different centers. This is because God gave each particle a different motion.
 {{< /q >}}
 
 
-
-These media, substance, and quanta are then applied to the 5 Layers.
-
-{{< img src="/graphics/physics/model.jpg" alt="Superphysics 5 Layer Model" cap="Superphysics uses a simpler naming convention for particles" >}}
+> *Quantum physics uses fields because it arose from electromagnetism which has magnetic fields. This is not useful in Superphysics because the aether is the most superior layer and we never think that feelings or minds have fields. Instead feelings and minds have layers -- there are deep and shallow minds, feelings, and ideas. Moreover, identities have territories or personal space, i.e. We say 'this is mine'.
 
 
-Layer | Superphysics Medium | Common Name | Physics 'Boson' Name
---- | --- | --- | ---
-Aethereal | moa (Medium of Aether) | Impact | ?
-Spatial | most (Medium of Space-Time) | Span | Graviton
-Radiant | mor (Medium of Radiance) | Brightness | Photon
-Transformative | mot (Medium of Transformation) | Changeability | W Z Bosons
-Material | mom (Medium of Matter) | Rigidity | Gluons
+Each territory has parts or zones, each with different properties:
 
+Zone | Properties
+--- | ---
+Inner   | has the most stability 
+Middle  | protects the stability 
+Outer   | has the most space 
+Edge    | has highest energy levels
 
-Layer | Superphysics Substance | Common Name
---- | --- | --- 
-Aethereal | soa (Substance of Aether) | Macro Abstract Mind
-Spatial | sost (Substance of Spacetime) | Black Hole
-Radiant | sor (Substance of Radiance) | Electricity
-Transformative | sot (Substance of Transformation) | Neutron 
-Material | som (Substance of Matter) | Proton 
+{{< img alt="Gravitational Territories" src="/graphics/physics/territories.jpg" cap="" >}}
 
-
-Layer | Superphysics Quanta | Common Name
---- | --- | --- 
-Aethereal | qoa (Quantum of Aether) | Micro Abstract Mind
-Spatial | qost (Quantum of Spacetime) | Spacetime Particles
-Radiant | qor (Quantum of Radiance) | Electron
-Transformative | qot (Quantum of Transformation) | Neutrino 
-Material | qom (Quantum of Matter) | Quark
-
-
-<!-- The differences between the Physics model and the Superphysics one are:
-- Neutrons and Protons are an essential substance or quanta even if it is not a fundamental particle in Physics
-- In Superphysics, quark 'colors' are merely representations of the 3 Influences of Crudifying, Transforming, and Subtlifying   
-- The Superphysics model extends all the way to the Aethereal -->
+These 4 zones match the:
+- 4 Energy Levels or Electron Shells of Electrons
+- 4 orbits of solar systems 
+  - Goldilocks zone
+  - Large Planet zone
+  - Oort Cloud
+  - Stellar Halo

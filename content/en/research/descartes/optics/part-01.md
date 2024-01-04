@@ -154,7 +154,7 @@ If these balls encounter an uneven surface, like `L` or `M`, they reflect toward
 
 
 
-Et elles ne changent rien que cela en la façon de leur mouvement, lorsque son inégalité ne consiste qu'en ce
+<!-- Et elles ne changent rien que cela en la façon de leur mouvement, lorsque son inégalité ne consiste qu'en ce
 que ses parties sont courbées diversement. Mais elle peut aussi consister en
 plusieurs autres choses et faire, par ce moyen, que, si ces balles n'ont eu
 auparavant qu'un. simple mouvement droit, elles en perdent une partie, et en 
@@ -172,9 +172,7 @@ pousse vers B, elle va bien en ligne droite depuis A jusques à B, si ce n'est q
 sa pesanteur ou quelqu'autre cause particulière l'en empêche; mais, étant au
 point B où je suppose qu'elle rencontre la superficie de l'eau CBE, elle se
 détourne et prend son cours vers I, allant derechef en ligne droite depuis B
-jusques à I, ainsi qu'il est aisé à vérifier par l'expérience
-
-
+jusques à I, ainsi qu'il est aisé à vérifier par l'expérience -->
 
 
 

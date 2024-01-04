@@ -32,6 +32,10 @@ Since there is a science of being qua being and capable of existing apart, we mu
 
 Therefore about that which can exist apart and is unmovable there is a science different from both of these, if there is a substance of this nature (I mean separable and unmovable), as we shall try to prove there is. 
 
-If there is such a kind of thing in the world, here must surely be the divine, and this must be the first and most dominant principle. Evidently, then, there are three kinds of theoretical sciences-physics, mathematics, theology. The class of theoretical sciences is the best, and of these themselves the last named is best; for it deals with the highest of existing things, and each science is called better or worse in virtue of its proper object.
+If there is such a kind of thing in the world, here must surely be the divine, and this must be the first and most dominant principle.
 
-"One might raise the question whether the science of being qua being is to be regarded as universal or not. Each of the mathematical sciences deals with some one determinate class of things, but universal mathematics applies alike to all. Now if natural substances are the first of existing things, physics must be the first of sciences; but if there is another entity and substance, separable and unmovable, the knowledge of it must be different and prior to physics and universal because it is prior.
+Evidently, then, there are three kinds of theoretical sciences-physics, mathematics, theology. The class of theoretical sciences is the best, and of these themselves the last named is best; for it deals with the highest of existing things, and each science is called better or worse in virtue of its proper object.
+
+Is the science of being universal? 
+
+Each of the mathematical sciences deals with some one determinate class of things, but universal mathematics applies alike to all. Now if natural substances are the first of existing things, physics must be the first of sciences; but if there is another entity and substance, separable and unmovable, the knowledge of it must be different and prior to physics and universal because it is prior.

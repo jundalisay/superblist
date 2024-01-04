@@ -1,10 +1,10 @@
 ---
-heading: "Chapter 3"
+heading: "Chapter 3b"
 title: "Pre-Existence"
 date: 2023-12-27
 weight: 9
-image: "/photos/objects/apples.jpg"
-description: "Why you only have 1 idea at a time"
+image: "/photos/physics/neutronstar.jpg" 
+description: "Pre-existence is a theoretical concept and not real"
 icon: /icons/sp.png
 writer:
   name: Juan

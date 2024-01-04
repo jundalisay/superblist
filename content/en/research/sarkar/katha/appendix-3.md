@@ -1,17 +1,24 @@
-Appendix Three
+---
+title: "Some Clarifications on Taraka Brahma"
+heading: Appendix 3
+weight: 204
+description: "An Editor’s note in Prajina Bharati October 1983"
+image: "/covers/katha.png"
+author: Nagina
+---
+
 
 
 [Published in Prajina Bharati April 1984]
+
 Respected Mr. Editor,
 
-It is very nice that certain points of Ananda Katha have provoked interesting
-discussions. Ac. Hari Shankarji’s letter on Nagina da’s clarification has stirred thoughts
-in my humble psychic world and I wish to share them with others.
+It is very nice that certain points of Ananda Katha have provoked interesting discussions. Ac. Hari Shankarji’s letter on Nagina da’s clarification has stirred thoughts in my humble psychic world and I wish to share them with others.
 
 I can not say how far my words will satisfy the curiosity of inquisitive souls but I would
 like to pen for critical appreciation the answer I find within me.
-Since I am taking the liberty to express my views on a matter related to Nagina da’s
-writings, I offer my sincerest apology to him.
+
+Since I am taking the liberty to express my views on a matter related to Nagina da’s writings, I offer my sincerest apology to him.
 
 It is evident Naginada has reproduced Baba’s words in Ananda Katha. It is also clear
 he didn’t feel it necessary to question Baba on the points that are agitating the mind of
@@ -32,11 +39,10 @@ who aim at moksa where sadhana is the complete surrender of self into that (Nirg
 Brahma), get out of this Brahma Cakra by a tangential touch. At this point of tangential
 touch is the abode of Taraka Brahma (who resides within the scope of both Nirguna
 and Saguna Brahma)
-This means it is a particular position and state of consciousness, which we call Taraka
-Brahma just as we call Nirguna and Saguna due to their distinctive state of
-consciousness. We can not say then that this entity has a separate existence from the
-supreme and that it holds a particular position independent of the supreme. Its has
-become supreme and as such is Supreme in its new status. Take for example water of
+
+This means it is a particular position and state of consciousness, which we call Taraka Brahma just as we call Nirguna and Saguna due to their distinctive state of consciousness. 
+
+We can not say then that this entity has a separate existence from the supreme and that it holds a particular position independent of the supreme. Its has become supreme and as such is Supreme in its new status. Take for example water of
 well, pond and ocean. After due purification when they are mixed together, no trace of
 the distinctive characteristics of well, pond or ocean could be found. What we find is
 just water. All distinctions have vanished since the factors creating distinctions exist no
@@ -53,13 +59,16 @@ the Supreme Lord, the goal of all creatures and objects. But then the moot point
 when He takes a samkalpa to assume human form for the welfare of the world in the
 most critical circumstances, how does it materialise? Sine he has no previous life, how
 to get a physical medium for expression?
+
 There can be no abrupt appearance of a physical structure for Taraka Brahma
 Everything has to follow the law of creating and evolution. Else, what is the need at all
 of being born from the womb of a woman? He can just materialize a fully-grown up
 body, a well-developed human personality, to serve as his medium and start his work
 all at once instead of associating himself with a family, with mother father, brother,
 sisters etc. But it doesn’t happen like that as this will be the negation of the laws of
-prakrti. It will be unnatural. What does he do then? He wants to take a human form and
+prakrti. 
+
+It will be unnatural. What does he do then? He wants to take a human form and
 assign a role for himself. At that moment he chooses a medium whose all samskaras
 have been exhausted and therefore free from the qualification of unit entity. Obviously
 this medium can be any unit who has reached that supreme state since all are same at
@@ -80,15 +89,15 @@ merely to state the narrative. Quite obviously the body is presently the medium 
 expression of Taraka Brahma, but since, in the evolutionary flow of the cosmos it is
 related to Shri Upadhyaya Baba has been used in both the senses according to the
 context.
-Another relevant point to be mentioned here is that Taraka Brahma is an Infinite,
-formless. Abstract entity. How can he have a physical body, which is bound by the
-imperfection of limitations? It is therefore absurd to debate on the point that Taraka
+
+Another relevant point to be mentioned here is that Taraka Brahma is an Infinite, formless. Abstract entity. How can he have a physical body, which is bound by the imperfection of limitations? It is therefore absurd to debate on the point that Taraka
 Brahma created an altogether a different and special body which doesn’t have to pass
 through saincara and pratisaincara. Such a proposition will be totally illogical and
 philosophically unsound. And precisely for this reason the theory of avatarvada is not
 supported b ‘Ananda Marga philosophy.
-Taraka Brahma is an entity and not a body. He chooses a body for his expression
-which he deems best. The form is not He, resident of the form is He.
+
+Taraka Brahma is an entity and not a body. He chooses a body for his expression which he deems best. The form is not He, resident of the form is He. 
+
 In his discourse on Tantra and Indo-Aryan civilization (see the book Abhimata) Baba
 has said: “the question as to who between Shiva Krsna is superior does not arise. All
 Brahma-knowing entities are same. They are all Brahma.” By using the expression
@@ -141,4 +150,3 @@ May the Compassionate One forgive this impertinence of this ignorant child.
 
 Yours sincerely,
 Santosananda Avadhuta
-

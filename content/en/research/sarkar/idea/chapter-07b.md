@@ -4,6 +4,9 @@ heading: "Chapter 7b"
 weight: 36
 description: "Saḿskára is the effect of action in the past stages. It gives momentum to the unit mind"
 image: "/covers/ideology.jpg"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 icon: "/icons/sarkar.png"
 ---
 

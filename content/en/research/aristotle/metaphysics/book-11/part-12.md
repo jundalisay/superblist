@@ -11,7 +11,6 @@ icon: "/icons/aris.png"
 ---
 
 
-
 The categories are classified as:
 - substance
 - quality
@@ -81,7 +80,9 @@ There can be no learning of learning, and therefore no becoming of becoming. Sin
 
 By quality I mean not that which is in the substance (for even the differentia is a quality), but the passive quality, in virtue of which a thing is said to be acted on or to be incapable of being acted on. 
 
-The immobile is either that which is wholly incapable of being moved, or that which is moved with difficulty in a long time or begins slowly, or that which is of a nature to be moved and can be moved but is not moved when and where and as it would naturally be moved. This alone among immobiles I describe as being at rest; for rest is contrary to movement, so that it must be a privation in that which is receptive of movement.
+The immobile is either that which is wholly incapable of being moved, or that which is moved with difficulty in a long time or begins slowly, or that which is of a nature to be moved and can be moved but is not moved when and where and as it would naturally be moved. 
+
+This alone among immobiles I describe as being at rest; for rest is contrary to movement, so that it must be a privation in that which is receptive of movement.
 
 Things which are in one proximate place are together in place, and things which are in different places are apart= things whose extremes are together touch: that at which a changing thing, if it changes continuously according to its nature, naturally arrives before it arrives at the extreme into which it is changing, is between. 
 
@@ -89,6 +90,10 @@ That which is most distant in a straight line is contrary in place. That is succ
 
 For the successive succeeds something and is something later; 'one' does not succeed 'two', nor the first day of the month the second. 
 
-That which, being successive, touches, is contiguous. (Since all change is between opposites, and these are either contraries or contradictories, and there is no middle term for contradictories, clearly that which is between is between contraries.) The continuous is a species of the contiguous. I call two things continuous when the limits of each, with which they touch and by which they are kept together, become one and the same, so that plainly the continuous is found in the things out of which a unity naturally arises in virtue of their contact. 
+That which, being successive, touches, is contiguous. (Since all change is between opposites, and these are either contraries or contradictories, and there is no middle term for contradictories, clearly that which is between is between contraries.) The continuous is a species of the contiguous. 
 
-Plainly the successive is the first of these concepts (for the successive does not necessarily touch, but that which touches is successive; and if a thing is continuous, it touches, but if it touches, it is not necessarily continuous; and in things in which there is no touching, there is no organic unity); therefore a point is not the same as a unit; for contact belongs to points, but not to units, which have only succession; and there is something between two of the former, but not between two of the latter.
+I call two things continuous when the limits of each, with which they touch and by which they are kept together, become one and the same, so that plainly the continuous is found in the things out of which a unity naturally arises in virtue of their contact. 
+
+Plainly, the successive is the first of these concepts (for the successive does not necessarily touch, but that which touches is successive; and if a thing is continuous, it touches, but if it touches, it is not necessarily continuous; and in things in which there is no touching, there is no organic unity); 
+
+Therefore, a point is not the same as a unit. This is because contact belongs to points, but not to units, which have only succession; and there is something between two of the former, but not between two of the latter.

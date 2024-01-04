@@ -1,6 +1,6 @@
 ---
 heading: "Part 11"
-title: "Change"
+title: "Change as Movement"
 weight: 19
 image: "/covers/meta.jpg"
 description: "Some things change in an accidental sense, like that in which 'the musical' may be said to walk"
@@ -14,13 +14,34 @@ icon: "/icons/aris.png"
 
 Some things change in an accidental sense, like that in which 'the musical' may be said to walk. 
 
-Others <!-- without qualification, to --> change because something in them changes, i.e. the things that change in parts; the body becomes healthy, because the eye does. 
+Others <!-- without qualification, to --> change because something in them changes, such as their parts. 
+- The body becomes healthy because the eye does. 
 
-But there is something which is by its own nature moved directly, and this is the essentially movable. The same distinction is found in the case of the mover; for it causes movement either in an accidental sense or in respect of a part of itself or essentially. 
+But there is something which moves directly by its own nature. We call this the 'essentially movable'. 
 
-There is something that directly causes movement; and there is something that is moved, also the time in which it is moved, and that from which and that into which it is moved. 
+The same is true for the mover. It causes movement either:
+- essentially, or
+- accidentally, or
+- as a part of itself.
 
-But the forms and the affections and the place, which are the terminals of the movement of moving things, are unmovable, e.g. knowledge or heat; it is not heat that is a movement, but heating. Change which is not accidental is found not in all things, but between contraries, and their intermediates, and between contradictories. We may convince ourselves of this by induction.
+In movement, there is:
+- something directly causing it
+- something being moved
+- timespan for this movement
+- an origin and a destination. 
+
+But the forms, affections, and origin and destination are unmovable.
+
+<!-- knowledge or -->
+In heat, heating is a movement, not the heat. 
+
+<!-- ; it is not heat that is a movement, but heating.  -->
+
+Accidental change is not found in all things, but:
+- between contraries and their intermediates
+- between contradictories. 
+
+We may convince ourselves of this by induction.
 
 That which changes changes either:
 - from positive into positive,
@@ -38,7 +59,9 @@ Therefore, there must be 3 changes.
 
 3. The change from positive to negative is destruction-absolute change absolute destruction, and partial change partial destruction. 
 
-If, then, 'that which is not' has several senses, and movement can attach neither to that which implies putting together or separating, nor to that which implies potency and is opposed to that which is in the full sense (true, the not-white or not-good can be moved incidentally, for the not-white might be a man; but that which is not a particular thing at all can in no wise be moved), that which is not cannot be moved (and if this is so, generation cannot be movement; for that which is not is generated; for even if we admit to the full that its generation is accidental, yet it is true to say that 'not-being' is predicable of that which is generated absolutely). 
+If, then, 'that which is not' has several senses. 
+
+Movement can attach neither to that which implies putting together or separating, nor to that which implies potency and is opposed to that which is in the full sense (true, the not-white or not-good can be moved incidentally, for the not-white might be a man; but that which is not a particular thing at all can in no wise be moved), that which is not cannot be moved (and if this is so, generation cannot be movement; for that which is not is generated; for even if we admit to the full that its generation is accidental, yet it is true to say that 'not-being' is predicable of that which is generated absolutely). 
 
 Similarly, rest cannot belong to that which is not. 
 
@@ -47,3 +70,4 @@ These consequences, then, turn out to be awkward. Everything that is moved is in
 Nor is destruction movement; for the contrary of movement is rest, but the contrary of destruction is generation. Since every movement is a change, and the kinds of change are the three named above, and of these those in the way of generation and destruction are not movements, and these are the changes from a thing to its contradictory, it follows that only the change from positive into positive is movement. 
 
 The positives are either contrary or intermediate (for even privation must be regarded as contrary), and are expressed by an affirmative term, e.g. 'naked' or 'toothless' or 'black'.
+

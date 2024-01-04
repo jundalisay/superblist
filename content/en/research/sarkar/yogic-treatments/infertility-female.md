@@ -4,7 +4,7 @@ weight: 40
 author: "PR Sarkar"
 icon: "/icons/sarkar.png"
 description: "Many people think that infertility can occur due to leucorrhoea or displacement of the uterus. But this impression is not entirely correct"
-image: "/photos/jealous.jpg"
+image: "/photos/psych/jealous.jpg"
 ---
 
 
@@ -15,7 +15,7 @@ image: "/photos/jealous.jpg"
 
 But often it is caused by the sterility of the male partner.
 
-![Jealous woman](/photos/jealous.jpg)
+![Jealous woman](/photos/psych/jealous.jpg)
 
 
 ## Causes of Female Sterility And Infertility

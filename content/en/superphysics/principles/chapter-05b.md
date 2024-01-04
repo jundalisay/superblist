@@ -3,7 +3,7 @@ heading: "Chapter 5b"
 title: "The 3 Influences or Gunas"
 date: 2023-12-27
 weight: 18
-image: "/graphics/physics/bands.jpg"
+image: "/graphics/physics/wave.jpg"
 description: "The Theory of Elastic Gravitational Bands is part of the details of the Theory Dynamism"
 icon: /icons/sp.png
 writer:

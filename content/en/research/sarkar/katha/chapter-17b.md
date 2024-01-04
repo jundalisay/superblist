@@ -1,6 +1,6 @@
 ---
 title: "Hari Hari"
-heading: Chapter 18
+heading: Chapter 17b
 weight: 34
 description: "Then I heard Baba chanting, Hari, Hari"
 image: "/covers/katha.png"

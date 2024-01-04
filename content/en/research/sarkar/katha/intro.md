@@ -1,4 +1,12 @@
-INTRODUCTION
+---
+title: "Introduction"
+heading: Introduction 1
+weight: 2
+description: "Baba undertook the task of initiating some people in yogic sadhana"
+image: "/covers/katha.png"
+author: Nagina
+---
+
 
 World War 2 was over and the British were compelled to leave India.
 

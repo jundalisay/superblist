@@ -24,7 +24,7 @@ Everything either is always and of necessity
 
 Necessity here is not in the sense of violence, but that which we appeal to in demonstrations. 
 
-, or is for the most part, or is neither for the most part, nor always and of necessity, but merely as it chances.
+<!-- , or is for the most part, or is neither for the most part, nor always and of necessity, but merely as it chances. -->
 
 For example, There might be cold in the dogdays. 
 - But this does not occurs always or most often, though it might happen sometimes.
@@ -50,23 +50,42 @@ If A is when B is, and B is when C is, and if C exists not by chance but of nece
 
 Therefore all things will be of necessity, and chance and the possibility of a thing's either occurring or not occurring are removed entirely from the range of events. 
 
-If the cause be supposed not to exist but to be coming to be, the same results will follow; everything will occur of necessity. For to-morrow's eclipse will occur if A occurs, and A if B occurs, and B if C occurs; and in this way if we subtract time from the limited time between now and to-morrow we shall come sometime to the already existing condition. Therefore since this exists, everything after this will occur of necessity, so that all things occur of necessity.
+If the cause be supposed not to exist but to be coming to be, the same results will follow; everything will occur of necessity. 
 
-"As to that which 'is' in the sense of being true or of being by accident, the former depends on a combination in thought and is an affection of thought (which is the reason why it is the principles, not of that which 'is' in this sense, but of that which is outside and can exist apart, that are sought); and the latter is not necessary but indeterminate (I mean the accidental); and of such a thing the causes are unordered and indefinite.
+Tomorrow's eclipse will occur if `A` occurs, and `A` if `B` occurs, and `B` if `C` occurs.
+
+In this way, if we subtract time from the limited time between now and to-morrow we shall come sometime to the already existing condition. Therefore since this exists, everything after this will occur of necessity, so that all things occur of necessity.
+
+
+As to that which 'is' in the sense of being true or of being by accident, the former depends on a combination in thought and is an affection of thought (which is the reason why it is the principles, not of that which 'is' in this sense, but of that which is outside and can exist apart, that are sought); and the latter is not necessary but indeterminate (I mean the accidental); and of such a thing the causes are unordered and indefinite.
 
 
 ## Luck
 
 Adaptation to an end is found in events that happen by nature or as the result of thought. 
 
-
-It is 'luck' when one of these events happens by accident. For as a thing may exist, so it may be a cause, either by its own nature or by accident. 
+It is 'luck' when one of these events happens by accident. For as a thing may exist, so it may be a cause, either by its own nature or by accident.
 
 Luck is an accidental cause at work in such events adapted to an end as are usually effected in accordance with purpose. 
 
 And so, luck and thought are concerned with the same sphere. This is because purpose cannot exist without thought. 
 
-The causes from which lucky results might happen are indeterminate; and so luck is obscure to human calculation and is a cause by accident, but in the unqualified sense a cause of nothing. It is good or bad luck when the result is good or evil; and prosperity or misfortune when the scale of the results is large.
+The causes from which lucky results might happen are indeterminate.
 
-"Since nothing accidental is prior to the essential, neither are accidental causes prior. If, then, luck or spontaneity is a cause of the material universe, reason and nature are causes before it.
+<!-- > *Superphysics Note: This proves that Aristotle is unenlightened -->
+
+
+And so luck is obscure to human calculation and is a cause by accident, but in the unqualified sense, a cause of nothing. 
+
+It is:
+- good or bad luck when the result is good or evil
+- prosperity or misfortune when the results are large.
+
+<!-- Since nothing accidental is prior to the essential,  -->
+
+Accidents come after essence. And so accidents are not causes. 
+
+<!-- neither are accidental causes prior.  -->
+
+Therefore, if luck or spontaneity caused the material universe, then reason and nature are causes before luck.
 

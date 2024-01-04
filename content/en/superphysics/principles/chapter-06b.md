@@ -1,9 +1,9 @@
 ---
 title: "What is Morality?"
-heading: "Chapter 5c"
+heading: "Chapter 6b"
 date: 2020-01-02
 weight: 20
-image: /photos/meta/yinyang.jpg
+image: /photos/psych/jealous.jpg
 description: "In our universe however, the Positive Force is slightly stronger than the Negative. This leads to the concept of morality as a check against negativity"
 icon: /icons/sp.png
 writer:

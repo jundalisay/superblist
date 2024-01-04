@@ -2,8 +2,11 @@
 title: "Vital Energy (Pranah)"
 heading: Chapter 1e
 weight: 10
-description: "In Sanskrit, vital energy is always plural because it is a collection of 10 important forces (váyus) with 5 working internally, and 5 working externally of the physical structure"
+description: "In Sanskrit, vital energy is always plural because it is a collection of 10 important forces (váyus) with 5 working internally, and 5 working externally"
 image: "/covers/ideology.jpg"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 icon: "/icons/sarkar.png"
 ---
 

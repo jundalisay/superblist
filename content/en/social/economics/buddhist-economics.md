@@ -134,7 +134,8 @@ Every follower of the Buddha should plant a tree every few years and look after 
 - **The Buddhist economist can easily show that the universal implementation of this rule would result in a high rate of genuine economic development independent of any foreign aid**.
 - Much of the economic decay of southeast Asia (as of many other parts of the world) is undoubtedly due to a heedless and shameful neglect of trees.
 
-![Flood](/photos/flood.jpg)
+![Flood](/photos/physics/flood.jpg)
+
 
 Modern economics does not distinguish between renewable and non-renewable materials **because its very method is to equalise and quantify everything through a money price.** *
 - Modern Economics sees fossil fuels and renewables both in their cost per unit. 

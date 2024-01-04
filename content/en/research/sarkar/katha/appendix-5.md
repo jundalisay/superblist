@@ -1,21 +1,29 @@
-Appendix Five
+---
+title: "Three Alternatives"
+heading: Appendix 5
+weight: 208
+description: "An Editor’s note in Prajina Bharati October 1983"
+image: "/covers/katha.png"
+author: Nagina
+---
+
+
 [Published in Prajina Bharati January 1985]
+
 To The Editor
+
 Dear Sir,
-th
-Only on 6 instant I could go through the letter of Revered Acarya Shri
-Santoshanandaji Avadhuta appearing in Prajina Bharati for October 1984.
-His letter is more amusing and interesting than that of Reverend Acarya Shri Hari
-Shankarji and I feel very much obliged for this.
-During your last visit to Muzaffarpur you personally gave me several copies of Prajina
-Bharati of July 84 for sale. In this issue my letter addressed to the editor was published
-against the comments of Revered Acarya Shri Hari Shankarji. After going through that
-letter in Prajina Bharati I found it to be amended to some extent at your end and I
-requested you to issue a corrigendum to it which could never be published.
-So far I could know that Reverend Baba always remained very busy but never knew
-that He is unapproachable even for consultation on important issues. But now it is a
-revelation to me for which I am very much grateful to Revered Acarya Shri
+
+
+Only on 6 instant I could go through the letter of Revered Acarya Shri Santoshanandaji Avadhuta appearing in Prajina Bharati for October 1984.
+
+His letter is more amusing and interesting than that of Reverend Acarya Shri Hari Shankarji and I feel very much obliged for this.
+
+During your last visit to Muzaffarpur you personally gave me several copies of Prajina Bharati of July 84 for sale. In this issue my letter addressed to the editor was published against the comments of Revered Acarya Shri Hari Shankarji. After going through that letter in Prajina Bharati I found it to be amended to some extent at your end and I requested you to issue a corrigendum to it which could never be published. 
+
+So far I could know that Reverend Baba always remained very busy but never knew that He is unapproachable even for consultation on important issues. But now it is a revelation to me for which I am very much grateful to Revered Acarya Shri
 Santoshanandaji Avadhuta.
+
 Till now, neither the stock of Ananda Katha not my zeal to write it further had
 exhausted but of course the letter of the learned and Revered Acarya ShriSantoshanandaji Avadhuta appearing in Prajina Bharati of October 84 has completely
 dampened my spirit and zeal. Now, I really feel exhausted with the result I have totally
