@@ -7,7 +7,7 @@ description: "The Upper Radiant is the realm of the multiverse."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 10
+weight: 6
 icon: /icons/spmat.png
 ---
 

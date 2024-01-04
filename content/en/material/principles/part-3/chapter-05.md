@@ -2,8 +2,8 @@
 title: "Gravitational Lensing"
 heading: Chapter 5
 date: 2023-05-27
-image: /photos/physics/lensing.jpg
-description: "In Cartesian Physics, there are 3 kinds of refraction of starlight (gravitational lensing)"
+image: /graphics/physics/lensing.jpg
+description: "In Cartesian Physics, there are 2 kinds of refraction of starlight (gravitational lensing)"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -15,7 +15,6 @@ icon: /icons/spmat.png
 <!-- The quanta of radiance is  -->
 
 Descartes explained that these are caused by the gravitational territories of stars and galaxies, and not by their mass or the matter within them.
-
 
 
 In Cartesian Physics, there are 2 kinds of refraction of starlight (gravitational lensing):
@@ -38,3 +37,4 @@ Galactic gravitational lensing are the more common ones such as galaxy cluster A
 
 
 This is why Cartesian Physics predicts that there is none or insignificant lensing in planets (as material lensing).
+

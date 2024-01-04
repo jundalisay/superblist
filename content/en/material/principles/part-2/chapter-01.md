@@ -88,7 +88,11 @@ This is the particle part or crudified part or physical part of the perception.
 This is the wave part or subtle part or metaphysical part of the perception.
 
 
-Current Physics sees spacetime as 3 dimensions as spatial length, width, height and 1 dimension of time. This arises from a matter-first perspective. This is because a material thing, like a rock, has length, width, height. Its rolling movement from location A to location B then takes time.
+Current Physics sees spacetime as:
+- 3 dimensions as spatial length, width, height
+- 1 dimension of time
+
+This arises from a matter-first perspective. This is because a material thing, like a rock, has length, width, height. Its rolling movement from location A to location B then takes time.
 
 In contrast, our spacetime is seen from the aether-first perspective, as a result of perception or observation.
 
@@ -105,3 +109,4 @@ Metaphysical | Aethereal | Mental Time | Experience | Coordinate Time (Einstein)
 Physical | Radiant | Electromagnetic Time | Atomic Clock | Proper Time (Einstein)
 Physical | Transformative | Radioactive Time | Radioactive Decay Clock |
 Physical | Material | Material Time | Sand Clock | Absolute Time (Newton)
+

@@ -2,12 +2,12 @@
 heading: "Chapter 4e"
 title: "Male and Female Charges"
 date: 2020-01-29
-image: /photos/physics/light.jpg
+image: /photos/social/family.jpg
 description: "In Superphysics, electrons have a positive or masculine charge while protons have a negative or feminine charge"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 6
+weight: 16
 icon: /icons/spmat.png
 ---
 
@@ -22,8 +22,8 @@ The setting of electrons are negatively charged came from [Benjamin Franklin](ht
 
 Rather than confuse everyone by calling the negative as positive, we would rather call:
 - the negative as 'feminine charge'
-- the positive as a 'masculine charge', and
-- the neutral as a 'bisexual charge'.
+- the positive as a 'masculine charge'
+- the neutral as a 'bisexual charge'
 
 
 {{< img src="/graphics/physics/elec.jpg" alt="Superphysics Electron" cap="In Superphysics, electrons have a masculine charge" >}}
@@ -36,36 +36,27 @@ We shall use the word "Feminine" in the place of "Negative" in speaking of that 
 
 ## Male and Female
 
-The attraction between protons, electrons, and neutrons intuitively follow this naming convention, just as Shiva is male and Shakti is female. 
+The attraction between protons, electrons, and neutrons intuitively follow this naming convention, just as Shiva is male and Shakti is female.
 
 Likewise, charges can change from positive to negative and vice versa just a male can choose to become a female, though far less common.
 
-We call quarks as qom or quantum of matter, just as we called gravitons as qost or quantum of spacetime. So far, the common fundamental particles are:
 
 
-### Quarks (Qoms)
+### Qors (Electrons)
 
-| Physics Name | Superphysics Name | Spin | Physics Charge | Mass | Description |
-| --- | --- | --- | --- | --- | --- |
-| Up Quark | Light boy qom | 1/2 | +2/3 | 2.2 MeV/c2 | The lightest quark. <br>Forms neutrons with 2 down quarks and<br> protons with 2 up and 1 down |
-| Charm Quark | Woman qom | 1/2 | +2/3 | 1.275 GeV |  |
-| Top Quark | Heavy woman qom | 1/2 | +2/3 |  |  |
-| Down Quark | Light boy qom | 1/2 | -1/3 | 4.7 MeV/c2 |  |
-| Strange Quark | Boy qom | 1/2 | -1/3 | 95 MeV/c2 |  |
-| Bottom Quark | Heavy boy qom | 1/2 | -1/3 | 4.18 GeV/c2 |  |
+Quantum or Medium | Spin | Physics Charge | Mass | Description
+--- | --- | --- | --- | --- | ---
+qor1 (muon) | 1/2 | -1 | | 
+qor2 (electron) | 1/2 | -1 | | 
+qor3 (tau) | 1/2 | -1 | 1776.86 MeV/c2 | Heavy electron
+mor (photon) | 0 | none | none |  
 
 
-### Electrons (Qoes)
-
-| Physics Name | Superphysics Name | Spin | Physics Charge | Mass | Description |
-| --- | --- | --- | --- | --- | --- |
-| Electron | qoe | 1/2 | -1 |  |  |
-| Muon |  | 1/2 | -1 |  | |
-| Tau |  | 1/2 | -1 | 1776.86 MeV/c2 | Heavy electron |
-| Neutrino | |  | none |  |  |
+<!-- | Neutrino | |  | none |  |  |
 | Muon Neutrino | |  | none |  |  |
-| Tau Neutrino | |  | none |  |  |
-| Photon | qol | 0 | none | none |  |
+| Tau Neutrino | |  | none |  |  | -->
+
+
 
 
 ### Weak Bosons (Qots)

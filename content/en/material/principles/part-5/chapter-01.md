@@ -43,3 +43,17 @@ Material | Earth | Strong | Gluon | Quantum of matter or Qom
 <!-- The conversion from dormant mind into active mind then takes place in stars. In this way, both matter (dormant mind) and life (active mind) come from the explosion of stars as the expression or crossing-over of the metaphysical ideas of the Supreme Entity onto physical reality.  -->
 
 
+
+We call quarks as qom or quantum of matter, just as we called gravitons as qost or quantum of spacetime. So far, the common fundamental material particles are:
+
+
+### Quarks (Qoms)
+
+| Physics Name | Superphysics Name | Spin | Physics Charge | Mass | Description |
+| --- | --- | --- | --- | --- | --- |
+| Up Quark | Light boy qom | 1/2 | +2/3 | 2.2 MeV/c2 | The lightest quark. <br>Forms neutrons with 2 down quarks and<br> protons with 2 up and 1 down |
+| Charm Quark | Woman qom | 1/2 | +2/3 | 1.275 GeV |  |
+| Top Quark | Heavy woman qom | 1/2 | +2/3 |  |  |
+| Down Quark | Light boy qom | 1/2 | -1/3 | 4.7 MeV/c2 |  |
+| Strange Quark | Boy qom | 1/2 | -1/3 | 95 MeV/c2 |  |
+| Bottom Quark | Heavy boy qom | 1/2 | -1/3 | 4.18 GeV/c2 |  |

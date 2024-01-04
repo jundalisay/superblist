@@ -29,6 +29,18 @@ Transformative | Planetary Qost | Planetary Core
 Material | Material Qost | Center of Gravity
 
 
+In terms of the 3 influences or gunas, qosts can be classified into:
+
+ <!-- 3 There are 3 types of qosts just as there are 3 types of leptons in the Radiant Layer and 3 color charges in the Material Layer: -->
+
+Sublayer | Qost Type 
+--- | ---
+Upper | Metaphysical qosts
+Middle | Galaxies and Quasars
+Lower | Stars, Planets, Moons, Material Things
+
+
+
 ## Detection and Size
 
 The properties of qosts are detected through the reaction of light and particles from the lower layers. 

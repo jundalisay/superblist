@@ -126,9 +126,10 @@ Chapter | Topic
 1 | Intro
 2 | Upper Lower + Energy and Forces
 3 | Identity Particle or Substance
-4 | Gravity Bands or Force
-5 | Properties 
-6 | Technologies
+4 | Duality or Symmetry
+5 | Gravity Bands or Force
+6 | Properties 
+7 | Technologies
 
 <!-- 3 qost
   types

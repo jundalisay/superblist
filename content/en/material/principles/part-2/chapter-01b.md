@@ -18,9 +18,13 @@ We define:
 
 Superphysics divides reality into the Physical and Metaphysical Domains. 
 
-Accordingly, the space in the Physical Domain is called Physical Space. The one in the Metaphysical  Domain is Metaphysical Space. 
-- Physical space is detected by the physical eyes and touch. 
-- Metaphysical space is detected by thought and intuition (a 6th sense feeling).
+Accordingly, the space in the Physical Domain is called Physical Space. The one in the Metaphysical Domain is Metaphysical Space. 
+
+- Physical space is detected by the physical eyes and touch. This is in the Middle and Lower Spatial Layer. 
+- Metaphysical space is detected by thought and intuition (a 6th sense feeling). This is in the Upper Spatial Layer. 
+
+The division between physical and metaphysical space and time is therefore between the Upper and Middle Spatial Layer. We call this the Inter-Spatial Boundary.   
+
 
 For example, a kid might be obsessed with playing a certain video game the whole day, and only thinks about playing it. He sacrifices his studies, food, and sleep to play. In that case, we say that:
 - the idea of the video game occupies most of the space in his abstract mind. 
