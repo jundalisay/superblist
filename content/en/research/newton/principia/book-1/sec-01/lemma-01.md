@@ -7,12 +7,12 @@ image: "/covers/principia.jpg"
 
 
 
-## LEMMA 1
+## Lemma 1
 
 Quantities, and the ratios of quantities, which continually converge to equality eventually become equal. 
 
 
-## LEMMA 2
+## Lemma 2
 
 If any figure AacE, terminated by the right lines A a. AE, and the curve acE, there be inscribed any number of parallelograms Ab, Be, Cd, etc. comprehended under equal bases AB, BC, CD, etc., and the sides, Bb, Cc, Dd, etc., parallel to one side Aa of the figure.
 
@@ -27,7 +27,7 @@ But this rectangle, because its width AB is supposed diminished infinitely, beco
 
 Therefore, by Lem. 1, the figures inscribed and circumscribed become ultimately equal one to the other; and much more will the intermediate curvilinear figure be ultimately equal to either.
 
-## LEMMA 3
+## Lemma 3
 
 The same ultimate ratios are also ratios of equality, when the breadths AB, BC, DC, etc of the parallelograms are unequal, and are all diminished in infinitum.
 
@@ -62,7 +62,7 @@ under the tangents of the same arcs.
 COR. 4 And therefore these ultimate figures (as to their perimeters acE)
 are not rectilinear, but curvilinear limi s of rectilinear figures.
 
-## LEMMA 4
+## Lemma 4
 
 inscribe (as before)
 If in two figures AacE, PprT, you
@@ -116,7 +116,7 @@ ultimate ratio of any part of the one quantity to the correspondent part of
 ;
 the other.
 
-## LEMMA 5
+## Lemma 5
 
 of homologous sides, whether curvilinear or
 ratio
@@ -125,7 +125,7 @@ In similar figures,
 all sorts
 of the homologous sides.
 
-## LEMMA 6
+## Lemma 6
 
 snb- _j
 If any arc ACB, given in position, is

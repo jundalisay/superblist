@@ -9,7 +9,7 @@ linkftext= "Index"
 icon= "/icons/newton.png"
 +++
 
-## LEMMA 27
+## Lemma 27
 
 A trapezium given in kind, the angles whereof may be in placed, respect of four right lines given by position, that are neither all paralhl among themselves, nor converge to one common point,  describe
 ,

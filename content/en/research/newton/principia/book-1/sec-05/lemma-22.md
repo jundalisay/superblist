@@ -183,7 +183,7 @@ neither do
 sake, I
 omit any farther demonstration of them.
 
-## LEMMA 22
+## Lemma 22
 
 To transform figures into other figures of the
 is to be
@@ -580,7 +580,7 @@ O
 inverse operation of Lem. XXII into the first figure, and there we shall
 have the two points through which the trajectory is to be described. But
 through those points that trajectory may be described by Prop. XVII.
-LEMMA
+Lemma
 If two right
 lines,
 as AC,
@@ -716,7 +716,7 @@ will
 have given ratios
 to
 each other.
-LEMMA
+Lemma
 XXIV.
 If three right lines, two whereof are parallel, and given by position, touch
 any conic section ; I say, that the semi-diameter of the section wkiJt
@@ -810,7 +810,7 @@ COR.
 P
 and G,
 F
-LEMMA XXV.
+Lemma XXV.
 If four sides of
 a parallelogram indefinitely produced touch any conic
 and
@@ -1181,7 +1181,7 @@ arid
 havin^
 hasten to things of
 greater use.
-LEMMA
+Lemma
 To
 place 1ht
 tude,
@@ -1428,7 +1428,7 @@ Draw
 the trajectory, similar and equal to the curve
 DEF.
 Q.E.F.
-LEMMA
+Lemma
 To
 XXVII.
 a trapezium given in kind, the angles whereof may be

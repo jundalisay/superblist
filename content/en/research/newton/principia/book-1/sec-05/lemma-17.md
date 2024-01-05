@@ -9,7 +9,7 @@ linkftext= "Index"
 icon= "/icons/newton.png"
 +++
 
-## LEMMA 17
+## Lemma 17
 
 If from any point of a given conic section, to the four produced sides AB, CD, AC, DB, of any trapezium ABDC inscribed in that section, as many right lines PQ, PR, PS, PT are drawn in given ang ei, each line to each side ; the rectangle PQ, X PR of those on the opposite sides AB, CD, will be to the rectangle PS X PT of those on tie other two opposite sides AC, BD, in a given ratio.
 

@@ -10,7 +10,7 @@ icon= "/icons/newton.png"
 draft= true
 +++
 
-### LEMMA 4
+### Lemma 4
 
 The comets are higher than the moon and in the regions of the planets.
 

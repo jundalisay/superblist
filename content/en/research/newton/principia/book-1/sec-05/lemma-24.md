@@ -9,7 +9,7 @@ linkftext= "Index"
 icon= "/icons/newton.png"
 +++
 
-## LEMMA 24
+## Lemma 24
 
 If three right lines, two whereof are parallel, and given by position, touch any conic section ; I say, that the semi-diameter of the section which is parallel to those two
 is a mean proportional between the segments of those two that are intercepted between the points of contact and the.
@@ -97,7 +97,7 @@ P
 and G,
 F
 
-## LEMMA 25
+## Lemma 25
 
 If four sides of
 a parallelogram indefinitely produced touch any conic
@@ -470,7 +470,7 @@ arid
 havin^
 hasten to things of
 greater use.
-LEMMA
+Lemma
 To
 place 1ht
 tude,

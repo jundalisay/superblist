@@ -10,6 +10,7 @@ icon= "/icons/newton.png"
 draft= true
 +++
 
+
 ## Proposition 22 Theorem 18
 
 All the motions of the ?noon, and all the inequalities of those motions, the which we have laid down.

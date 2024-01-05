@@ -10,7 +10,7 @@ draft: true
 
 
 
-The circumjovial planets, by radii drawn to Jupiter s centre, describe areas proportional to the times of description.  
+The circumjovial planets, by radii drawn to Jupiter's centre, describe areas proportional to the times of description.  
 
 Their periodic times, with the fixed stars at rest, are in the sesquiplicate proportion of their distances from its centre.
 

@@ -148,7 +148,7 @@ The time may be found in which the body has described any assigned arc AP.
 Join AP, and on its middle point erect a perpendicular meeting the right line GH in H
 
 
-### LEMMA 28 
+### Lemma 28 
 
 There is no oval shape whose area, cut off by right lines at pleasure, can, be universally found by means of equations of any number of finite terms and dimensions.
 

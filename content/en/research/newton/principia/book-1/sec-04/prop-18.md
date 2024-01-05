@@ -10,7 +10,7 @@ icon= "/icons/newton.png"
 +++
 
 
-## LEMMA 15
+## Lemma 15
 
 If from the two foci S, H, of any ellipsis or hyberbola, we draw to any third point V the right lines SV, HV, where one HV is equal to the principal axis of the shape (the axis in which the foci are situated, the other SV is bisected in T by the perpendicular TR that falls on it. That perpendicular TR will touch the conic section somwhere. Vice versa, if it does touch it, HV will be equal to the principal axis of the shape. 
 

@@ -9,6 +9,8 @@ linkftext= "Index"
 icon= "/icons/newton.png"
 +++
 
+
+
 ## Proposition 25 Problem 27
 
 Draw a trajectory that shall pass through two given points, and touch three right lines given by position.
@@ -145,7 +147,7 @@ O
 inverse operation of Lem. XXII into the first figure, and there we shall
 have the two points through which the trajectory is to be described. But
 through those points that trajectory may be described by Prop. XVII.
-LEMMA
+Lemma
 If two right
 lines,
 as AC,

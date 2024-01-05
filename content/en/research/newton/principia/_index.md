@@ -1,5 +1,8 @@
-+++
-title= "Principia Mathematica Simplified "
-description= "We simplify Principia Mathematica by Isaac Newton."
-image= "/covers/principia.jpg"
-+++
+---
+title: "Principia Mathematica Simplified"
+image: "/covers/principia.jpg"
+description: "We simplify Principlia Mathematica"
+icon: "/icons/newton.png"
+weight: 1
+---
+

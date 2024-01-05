@@ -163,7 +163,7 @@ YI) reciprocally as the centripetal force.
 SY
 ;
 
-### LEMMA 12
+### Lemma 12
 
 All parallelograms circumscribed about any conjugate diameters of a
 given ellipsis or hyperbola are equal among themselves.

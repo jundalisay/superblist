@@ -3,7 +3,6 @@ title: "Propositions 1-8"
 image: "/covers/principia.jpg"
 description: "The forces that keeps the planets in their orbits comes from Jupiter's center."
 icon: "/icons/newton.png"
-draft: true
 ---
 
 

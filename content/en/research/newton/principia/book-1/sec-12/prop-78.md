@@ -69,7 +69,7 @@ method
 It
 as follows.
 
-## LEMMA 29
+## Lemma 29
 
 be described any circle as AEB, and about the
 ff about the centre S there

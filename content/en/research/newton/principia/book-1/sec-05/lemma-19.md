@@ -9,7 +9,7 @@ linkftext= "Index"
 icon= "/icons/newton.png"
 +++
 
-### LEMMA 19
+### Lemma 19
 
 Find a point P from which if four right lines PQ, PR, PS, PT an  drawn to as many other right lines AB, CD, AC, BD, given by posi tion, each to each, at given angles, the rectangle PQ X PR, under any two of the lines drawn, shall be to the rectangle PS X PT, under the other
 tivo.

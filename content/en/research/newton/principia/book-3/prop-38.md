@@ -38,7 +38,7 @@ I.
 being im
 mediately drawn back, and converted again towards the earth.
 
-### LEMMA 1
+### Lemma 1
 
 The Earth is represented by `APEp` with the centre C.  
 
@@ -171,7 +171,7 @@ QR
 as in that of the equator.
 
 
-### LEMMA 2
+### Lemma 2
 
 The same things in the second place, that the total
 supposed, or all the situated force poiver of particles
@@ -430,7 +430,7 @@ many AC
 CX + 3CX
 to as
 
-### LEMMA 3
+### Lemma 3
 
 The motion of the whole earth about the axis above-named arising from the motions of all the particles, will be to the motion of the aforesaid ring
 about the same axis in a, proportion compounded of the proportion of ; and the proportion

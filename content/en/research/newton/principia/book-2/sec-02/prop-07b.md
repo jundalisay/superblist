@@ -10,7 +10,7 @@ icon= "/icons/newton.png"
 draft= true
 +++
 
-## LEMMA 2
+## Lemma 2
 
 The moment of any genitum is equal to the moments of each of the generatinrr sides drawn into the indices of the powers of those sides, and
 into their co-efficients continually.

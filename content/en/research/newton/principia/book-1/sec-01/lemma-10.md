@@ -9,7 +9,7 @@ image: "/covers/principia.jpg"
 
 
 
-## LEMMA 10
+## Lemma 10
 
 The spaces which a bodij describes by any finite force urging it, whether that force is determined and immutable, or is continually augmented or continually diminished, are in the very beginning of the motion one to the other in the duplicate ratio of the times.
 
@@ -84,7 +84,7 @@ and
 C
 arc one to the other in a given ratio.
 
-## LEMMA 11
+## Lemma 11
 
 The evanescent subtense of the angle of contact, in all curves which at the point of contact have a finite curvature, is ultimately in the duplicate rati ) of the subtense of the conterminate arc.
 

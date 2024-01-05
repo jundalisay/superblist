@@ -9,7 +9,7 @@ image: "/covers/principia.jpg"
 
 
 
-## LEMMA 7
+## Lemma 7
 
 The ultimate ratio of the arc, chord, and tangent, any one to any other, is the ratio of equality. 
 
@@ -85,7 +85,7 @@ COR. 3. And therefore in all our reasoning about ultimate
 may freely use any one of those lines for any other.
 
 
-## LEMMA 8 
+## Lemma 8 
 
 ratios, we
 and
@@ -140,7 +140,7 @@ any
 triangles for any other.
 
 
-## LEMMA 9 
+## Lemma 9 
 
 If a ngnt line AE. and a curve tine ABC, both given by position, cut
 each other in a given angle, A

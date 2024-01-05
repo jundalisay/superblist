@@ -1,5 +1,7 @@
-+++
-title= "Axioms or Laws of Motion"
-image= "/covers/principia.jpg"
-description= "We simplify the Laws of Motion by Isaac Newton."
-+++
+---
+heading: Axioms
+title: "The Laws of Motion"
+description: "We simplify The Laws of Motion of Principia Mathematica by Isaac Newton"
+weight: 2
+image: "/covers/principia.jpg"
+---

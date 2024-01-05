@@ -1,5 +1,8 @@
-+++
-title= "Book 2"
-image= "/covers/principia.jpg"
-description= "We simplify Book 2 of Principia Mathematica by Isaac Newton."
-+++
+---
+heading: Book 2
+title: "Gravity"
+description: "We simplify Book 1 of  Principia Mathematica by Isaac Newton"
+weight: 8
+image: "/covers/principia.jpg"
+---
+

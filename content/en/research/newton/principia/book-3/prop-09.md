@@ -1,14 +1,10 @@
-+++
-title= "Propositions 9-12"
-image= "/covers/principia.jpg"
-description= "Gravity, as a downward pull of a planet, decreases nearly in the proportion of the distances from their centres"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+title: "Propositions 9-12"
+image: "/covers/principia.jpg"
+description: "Gravity, as a downward pull of a planet, decreases nearly in the proportion of the distances from their centres"
+icon: "/icons/newton.png"
+---
+
 
 
 
@@ -18,8 +14,7 @@ Gravity, as a downward pull of a planet, decreases nearly in the proportion of t
 
 If the matter of the planet were of an uniform density, this Proposition would be accurately true (by Prop. LXXIII. Book I).
 
-The error no greater than what therefore, can be
-may arise from the inequality of the density.
+The error no greater than what therefore, can be may arise from the inequality of the density.
 
 
 ### Proposition 10 Theorem 10

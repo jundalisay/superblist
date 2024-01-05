@@ -187,7 +187,7 @@ neither do
 sake, I
 omit any farther demonstration of them.
 
-## LEMMA 22
+## Lemma 22
 
 To transform figures into other figures of the
 is to be

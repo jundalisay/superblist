@@ -10,7 +10,7 @@ icon= "/icons/newton.png"
 draft= true
 +++
 
-## LEMMA 3
+## Lemma 3
 
 Let PQR be a spiral cutting all the radii SP, SO, SR, etc. in equal angles. Draw the right line PT touching the spiral in any point P, and cutting the radius SQ in T. Draw PO, QO perpendicular to the spiral, and meeting in, O, and join SO. If the points P and Q approach and coincide, the angle PSO will become a right angle and the ultimate ratio of the rectangle TQ x 2PS to PQ2 will be the ratio of equality
 

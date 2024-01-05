@@ -1,8 +1,9 @@
 ---
 title: "Preface"
 image: "/covers/principia.jpg"
-description: "Pappus tells us that the ancients made a great account of the science of mechanics in investigating natural things. The moderns laid aside the substantial forms and occult qualities and instead have subjected Nature to the laws of mathematics"
+description: "Pappus tells us that the ancients made a great account of the science of mechanics in investigating natural things"
 icon: "/icons/newton.png"
+weight: 2
 ---
 
 

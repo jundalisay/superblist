@@ -9,7 +9,7 @@ linkftext= "Index"
 icon= "/icons/newton.png"
 +++
 
-### LEMMA 20
+### Lemma 20
 
 If the two opposite touch any conic angular points A and P of any parallelogram ASPQ
 and the sides AQ, AS
@@ -215,7 +215,7 @@ PR is to PT as Pq to PT whence PR and Pq are equal one to the other,
 :
 against the supposition.
 
-### LEMMA 21
+### Lemma 21
 
 CM
 drawn through given

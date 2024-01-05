@@ -10,7 +10,7 @@ icon= "/icons/newton.png"
 draft= true
 +++
 
-### LEMMA 18
+### Lemma 18
 
 PQ X PR
 s niL things supposed, if the rectangle

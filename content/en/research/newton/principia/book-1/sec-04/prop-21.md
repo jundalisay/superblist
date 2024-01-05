@@ -10,7 +10,7 @@ icon= "/icons/newton.png"
 draft= true
 +++
 
-## LEMMA 16
+## Lemma 16
 
 From 3 given points, draw to afonrth point that is not given three right lines whose differences shall be either given, or none at all.
 

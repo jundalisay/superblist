@@ -10,6 +10,8 @@ icon= "/icons/newton.png"
 draft= true
 +++
 
+
+
 ## Proposition 20 Problem 4
 
 Find and compare the weights of bodies in the different regions of our earth

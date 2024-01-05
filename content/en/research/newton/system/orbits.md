@@ -5205,7 +5205,7 @@ The method of fh*
 whole computation
 is this.
 
-LEMMA I.
+Lemma I.
 
 To cut two right lines OR, TP, given in, position, by a third right line
 RP, so as TRP may be a right angle ; and, if another right line SP
@@ -5435,7 +5435,7 @@ more
 arithmetic, without those perplexed computations and resolutions of affected
 equations which hitherto have been in use.
 
-LEMMA II.
+Lemma II.
 
 cut three right lines given in position by a fourth right line that
 shall pass through a point assigned in any of the three, and so as its
@@ -5482,7 +5482,7 @@ CD
 ;
 GF
 BE
-LEMMA 3
+Lemma 3
 
 Find and represent hy a linear description the hourly motion of
 to any given time.
@@ -5548,7 +5548,7 @@ and the longitude^ taken when the comet jnoves
 with the greatest velocity for thus the errors of the observation \s will
 bear a less proportion to the differences of the longitudes.
 of eight or twelve days,
-LEMMA
+Lemma
 To find
 It is
 to
@@ -5570,7 +5570,7 @@ the distances Rr, Rp, proportional
 The way of working by
 Tr, Tp.
 manifest.
-LEMMA
+Lemma
 To find
 V.
 the latitudes.

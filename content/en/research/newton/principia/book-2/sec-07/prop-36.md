@@ -753,7 +753,7 @@ little
 circle
 PQ,, very
 nearly.
-LEMMA
+Lemma
 If a cylinder move uniformly forward
 resistance
 made

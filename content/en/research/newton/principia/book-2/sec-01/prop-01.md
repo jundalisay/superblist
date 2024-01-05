@@ -24,7 +24,7 @@ beginning, and also the motion remaining after some part of the way is gone over
 For that space will be to the space now described as the whole force only in free spaces, motion at the beginning
 is to the part lost of that motion.
 
-## LEMMA 1 
+## Lemma 1 
 
 Quantities proportional to their differences are continually proportional.
 B as B to B

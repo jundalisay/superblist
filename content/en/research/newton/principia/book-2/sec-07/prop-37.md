@@ -500,7 +500,7 @@ to this force in the ratio of
 2
 to 3, at the
 least.
-LEMMA
+Lemma
 V.
 If a cylinder, a sphere, and a spheroid, of equal breadths be placed suc
 cessively in the middle of a cylindric canal, so that their axes may
@@ -525,7 +525,7 @@ fluidity is not necessary to make the passage of
 the water the quickest possible, is congealed, as was explained above in Cer
 7,
 Prop.
-XXXVI.LEMMA
+XXXVI.Lemma
 The same
 343
 OF NATURAL PHILOSOPHY
@@ -543,7 +543,7 @@ Jlowin g through
 by
 This appears by Lein. V and the third Law. For
 bodies act upon each other mutually and equally.
-LEMMA
+Lemma
 tht water
 and the
 VIL

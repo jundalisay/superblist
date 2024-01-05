@@ -107,7 +107,7 @@ greater in the subduplicate of the same proportion reciprocally.
 
 
 
-## LEMMA 5
+## Lemma 5
 
 Find a parabola which shall pass through any given number of points.
 
@@ -318,7 +318,7 @@ but the parabola can be always squared geometrically by methods
 vulgarly known.
 
 
-### LEMMA 6
+### Lemma 6
 
 Certain observed places of a comet being&quot; given, to find the place of the same, to any inter mediate given time.
 
@@ -359,7 +359,7 @@ if the differences are greater, as of
 five
 observations ought to be used.
 
-### LEMMA 7
+### Lemma 7
 
 Through a given point P, draw a right line BC, rvhose parts PB, PC, AC, given in position, may be one to the
 cut off by two right lines AB,
@@ -392,7 +392,7 @@ parallel to A D.
 to PD.
 as
 PE
-LEMMA
+Lemma
 ABC
 Let
 be

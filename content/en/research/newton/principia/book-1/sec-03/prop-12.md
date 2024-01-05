@@ -215,13 +215,13 @@ move in the conjugate hy
 tripetal changed into a centrifugal force, will
 perbola.
 
-### LEMMA 13
+### Lemma 13
 
 The latus rectum of a parabola belonging to
 the distance of that vertex from the focus of the shape. 
 
 
-### LEMMA 14
+### Lemma 14
 
 Let the perpendicular fall from the focus of a parabola on its tangent, is the. distances
 of the focus from the poini

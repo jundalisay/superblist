@@ -10,7 +10,7 @@ icon= "/icons/newton.png"
 draft= true
 +++
 
-### LEMMA 8
+### Lemma 8
 
 Let:
 
@@ -153,13 +153,13 @@ AC,
 B
 point p.
 
-### LEMMA 9 
+### Lemma 9 
 
 The right lines Iu and uM and the length ? are equal among themselves. 
 
 For 4Su is the latus rectum of the parabola belonging to the vertex u
 
-### LEMMA 10
+### Lemma 10
 
 Produce Su to N and P, so as uN may be 1/3 of uI and SP may be to SN as SN to Su, and in the time that a comet would describe the arc AuC, if it was supposed to move always forwards with the ve
 hath in a height equal to SP, it would describe a length the arc AjuC. if
@@ -225,7 +225,7 @@ S/x + f I,, would in the same time describe the chord AC nearly.
 velocity, are in the
 in the tangent, they
 
-## LEMMA 11
+## Lemma 11
 
 If a comet void of all motion was let to fall from the height SN or S + Iu towards the sun, and was still impelled to the sun by the same force uniformly
 that 
