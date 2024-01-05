@@ -47,7 +47,9 @@ Superstitious narrations of sorceries, witchcrafts, dreams, divinations, and the
 {{< /q >}}
 
 {{< l a="Superphysics" >}}
-**Socratic Dialectics** makes up the core of this 'super' upgrade as part of the process of data gathering, probing, and experimenting that adds the 6th sense of intuition or higher mind which Socrates called the 'higher principle'. You could say that the 5 senses detect visible particles and objects, while the 6th sense detects invisible waves and patterns. Most people only use the 5 senses. A very few use all 6 senses. Of those very few, only a handful have the intellect to connect everything. 
+**Socratic Dialectics** makes up the core of this 'super' upgrade as part of the process of data gathering, probing, and experimenting that adds the 6th sense of intuition or higher mind which Socrates called the 'higher principle'. 
+
+You could say that the 5 senses detect visible particles and objects, while the 6th sense detects invisible waves and patterns. Most people only use the 5 senses. A very few use all 6 senses. Of those very few, only a handful have the intellect to connect everything. 
 {{< /l >}}
 
 
@@ -136,9 +138,9 @@ Ah, the real-time creation is the same idea in the movie "The Matrix".
 {{< youtube OKpHHMi3yZU >}}
 
 {{< l a="Superphysics" >}}
-Yes. It's more commonly known as theories that say that we exist in a simulation. Knowing how this simulation is sustained allows the possibility to tap into that inexhaustible creative or sustaining mechanism. 
+Yes. It's more commonly known as theories that say that [we exist in a simulation\(https://www.wired.com/story/living-in-a-simulation/). Knowing how this simulation is sustained allows the possibility to tap into that inexhaustible creative or sustaining mechanism. 
 
-It means existence was not meant to be suffered. In our case, we use this knowledge to solve all problems.
+**It means existence was not meant to be suffered**. If you are suffering then it's your fault, not of 'God' or Nature. In our case, we use this knowledge to solve all problems.
 
 In the beginning, we used it to solve the personal problems of others. In time, we saw everyone having the same pattern of problems. So we organized everything into Superphysics principles to make problem-solving more efficient. We saw that David Hume, in his Treatise of Human Nature, was already ahead in this regard. So we organized our principles into three (Material, Bio, and Social) to match his three books. This also matches the categorization by Descartes.  
 {{< /l >}}
