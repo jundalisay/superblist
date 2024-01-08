@@ -2,13 +2,13 @@
 title= "Section 9= The circular motion of fluids"
 image= "/covers/principia.jpg"
 description= ""
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
 icon= "/icons/newton.png"
 draft= true
 +++
+
+
+
+
 
 ## Hypothesis
 

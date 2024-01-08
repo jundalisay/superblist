@@ -14,58 +14,73 @@ icons: /avatars/smith.png
 {{< s v="19" >}} People say that:
 
 {{< q >}}
-Consumable commodities are soon destroyed, but gold and silver are more durable. If not continually exported, gold and silver might be accumulated for ages to increase the country's real wealth. 
+Consumable commodities are soon destroyed, but gold and silver are more durable. If not continually exported, gold and silver could be accumulated for ages to increase the country's real wealth. 
 
-It is most disadvantageous for any country to trade such lasting commodities for such perishable ones. However, the exchange of English hardware for French wines is not disadvantageous, even if hardware is a very durable commodity. 
-
-If English hardware were not continually exported, it might accumulate for ages and incredibly increase England's pots and pans.
+It is most disadvantageous for any country to trade such lasting commodities for such perishable ones.
 {{< /q >}}
 
 
-But the number of such pots in every country is limited by the need for them. It would be absurd to have more pots and pans than necessary for cooking food. If the quantity of food increased, the number of pots and pans would increase with it. The additional food would maintain more workers who made those additional pots and pans. The quantity of gold and silver in every country is limited by the need for those metals.
+However, those people do not say that the exchange of English hardware for French wines is disadvantageous, even if hardware is also a very durable commodity . 
 
-They are used;
+If English hardware were not continually exported, it might accumulate for ages and incredibly increase England's pots and pans.
+
+In reality, the number of such pots in every country is limited by the need for them. It would be absurd to have more pots and pans than necessary for cooking food. 
+- If the quantity of food increased, the number of pots and pans would increase with it.
+- The additional food would maintain more workers who made those additional pots and pans. 
+
+The quantity of gold and silver in every country is likewise limited by the need for those metals.
+
+They are used:
 - as coin money which circulate commodities
 - as plates used as furniture
 
 **The quantity of coin in every country is regulated by the value of the commodities circulated by it.**
+- Increase the value of commodities and some of those commodities will be immediately be sent abroad to buy more coins to circulate them.
 
-Increase the value of commodities and some of those commodities will be immediately be sent abroad to buy more coins to circulate them.
-The quantity of plate is regulated by the number and wealth of those families who indulge them.
+The quantity of plate is regulated by the number and wealth of those families who use them.
+- Increase the number and wealth of such families, and this increased wealth will probably be used to buy more plates.
 
-Increase the number and wealth of such families, and this increased wealth will probably be used to buy more plates.
-Increasing the wealth of any country by introducing or detaining an unnecessary amount of gold and silver, is as absurd as increasing the good cheer of private families by obliging them to keep an unnecessary number of kitchen plates.
+Increasing the wealth of any country by introducing or detaining an unnecessary amount of gold and silver is as absurd as increasing the happiness of private families by obliging them to keep unnecessary kitchen plates.
+- The expence of buying those unnecessary plates would reduce the amount and goodness of the family's food.
 
-The expence of buying those unnecessary plates would reduce the amount and goodness of the family's food.
-The expence of buying an unnecessary quantity of gold and silver must reduce the wealth which feeds, clothes, lodges, maintains, and employs the people in every country.
+Likewise, the expence of buying an unnecessary quantity of gold and silver reduces the wealth which feeds, clothes, lodges, maintains, and employs the people in every country*.
 
-It must be remembered that gold and silver, whether in coin or plate, are utensils like the utensils of the kitchen.
-Increase the consumable goods to be circulated, managed, and prepared by gold and silver, and you will infallibly increase the use and amout of gold and silver
 
-But if you unnaturally increase the amount of gold and silver, you will infallibly reduce the use and amout of gold and silver
+> *Superphysics Note: This is why the increase in the market size, capitalization, and employment in the financial industry during a country's boom times necessarily makes the country insensibly poorer, culminating in a bust or downturn   
+
+
+**It must be remembered that gold and silver, whether in coin or plate, are utensils like the utensils of the kitchen.**
+- Increase the consumable goods to be circulated, managed, and prepared by gold and silver, and you will infallibly increase the use and amout of gold and silver
+- But if you unnaturally increase the amount of gold and silver, you will infallibly reduce the use and amout of gold and silver
+
 If gold and silver were accumulated beyond the amount needed, no law could prevent them from being immediately sent out of the country because:
 - their transportation is so easy
 - the loss in their lying unemployed is so great
 
 
 {{< s v="20" >}} It is not always necessary to accumulate gold and silver to carry on foreign wars and maintain fleets and armies in distant countries.
+- Fleets and armies are maintained with consumable goods, not with gold and silver*.
 
-Fleets and armies are maintained with consumable goods, not with gold and silver.
+> *Superphysics Note: This is why the financial sanctions against Russia invading Ukraine does little to limit Russia's ability to continue that war
+
+
 The nation which has more than sufficient domestic industry can maintain foreign wars in distant countries because it has the means to buy consumable goods in those distant countries.
 
 
-{{< s v="21" >}} A nation may purchase the pay and provisions of an army in a distant country by sending abroad= 
+{{< s v="21" >}} A nation may purchase the pay and provisions of an army in a distant country by sending abroad, some of its: 
+- accumulated gold and silver
+- manufactures
+- raw produce
 
-Some of its accumulated gold and silver
-Some of its manufactures
-Some of its rude produce
 
+{{< s v="22" >}} The gold and silver stored up in any country may be distinguished into 3 parts:
 
-{{< s v="22" >}} The gold and silver stored up in any country may be distinguished into three parts= 
+1. Circulating money
 
-The circulating money
-The plate of private families
-The money collected by many years parsimony and laid up in the prince's treasury
+2. The plate of private families
+
+3. The prince's own treasury, collected by many years parsimony
+
 
 
 ### The Circulating Money

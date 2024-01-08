@@ -85,7 +85,9 @@ Unfortunately, we must record that there are bad 'Venusians. Even this good type
 
 They are short in stature, stout in figure, with prominent abdomens, and all the grace and beauty eliminated from them. No finely curved lines are left, no elastic step, no bright eye. 
 
-The hair becomes red, the nose upturned, and the eyes bloodshot. Excess is stamped in every place, and bad desires and appetites have the upper hand. The lips are thick, red, and sensual; the face has a coarse skin, and the neck, body, and hands are marked as belonging to the lower world of base desires. The bad Venusian hand is very thick, especially the third phalanges of the fingers, the base of the hand, and the Mount of Venus, which is very prominent, hard, and red. 
+The hair becomes red, the nose upturned, and the eyes bloodshot. Excess is stamped in every place, and bad desires and appetites have the upper hand. The lips are thick, red, and sensual; the face has a coarse skin, and the neck, body, and hands are marked as belonging to the lower world of base desires. 
+
+The bad Venusian hand is very thick, especially the third phalanges of the fingers, the base of the hand, and the Mount of Venus, which is very prominent, hard, and red. 
 
 The fingers are short and smooth, with the first phalanges deficient. The skin is coarse in texture, red in color, and the hand inelastic. 
 
@@ -119,9 +121,15 @@ The idleness of flabby hands gives too much time for thoughts of mere pleasure-s
 
 No better, happier, brighter, healthier type exists than the elastic-handed Venusian, for, while full of fire, the energy works out these fires in better ways than in the indulgence of low appetites. Hard hands show unintelligent energy directing the Venusian qualities, consequently this subject will be common, less refined, and ignorantly ardent. He will have strong desires, and will gratify them in an unintelligent way with the energy of hard hands, and these subjects are found as heads of families among the poor, where there are many children. With this subject, love, sympathy, and generosity are subjugated to desire. 
 
-Flexible hands show the elastic mind. This makes a very intelligent, highly strung, gifted subject, but he is preliable to be an extremist, versatile, and too fond of admiration and pleasure. Flexible-handed Venusians need good balance-wheels to hold them in check. They are attractive, have many admirers and temptations, and often have their "heads turned." In such subjects look for clear, deep, well-marked and colored Head lines and good thumbs. These will be needed to keep them from wasting their lives and energies in a round of pleasure. The normally flexible hand is better balanced, more inclined to self-control, and to be self-contained. 
+Flexible hands show the elastic mind.
 
-These subjects may have as strong Venusiau traits, but will not be so frequently carried away by them, nor so liable to be mere pleasure hunters. These are the subjects, especially if they have elastic consistency, who accomplish a great deal in the battle of life, which, by reason of their attractive personality, is not to them so severe a struggle. First judge whether the Mount be a sensual one, an excessive one, or merely a smooth and normal development. Behind whatever kind you see, the normal balancing qualities of the normally flexible hand must be placed, and the result estimated. The stiff hand will show a stiff mind and the lack of elasticity of the nature. This subject is immeasurably more apt to be sensual and low in ideas and appetites, which he will indulge freely. 
+This makes a very intelligent, highly strung, gifted subject, but he is preliable to be an extremist, versatile, and too fond of admiration and pleasure. Flexible-handed Venusians need good balance-wheels to hold them in check. They are attractive, have many admirers and temptations, and often have their "heads turned." 
+
+In such subjects look for clear, deep, well-marked and colored Head lines and good thumbs. These will be needed to keep them from wasting their lives and energies in a round of pleasure. The normally flexible hand is better balanced, more inclined to self-control, and to be self-contained. 
+
+These subjects may have as strong Venusiau traits, but will not be so frequently carried away by them, nor so liable to be mere pleasure hunters. 
+
+These are the subjects, especially if they have elastic consistency, who accomplish a great deal in the battle of life, which, by reason of their attractive personality, is not to them so severe a struggle. First judge whether the Mount be a sensual one, an excessive one, or merely a smooth and normal development. Behind whatever kind you see, the normal balancing qualities of the normally flexible hand must be placed, and the result estimated. The stiff hand will show a stiff mind and the lack of elasticity of the nature. This subject is immeasurably more apt to be sensual and low in ideas and appetites, which he will indulge freely. 
 
 He has no such sympathy or generosity, no such love of music, flowers, or the beauties of nature, as has his flexible-handed brother. He is full of lower desires, coarse in every way, unprogressive, and borders closely on stinginess and selfishness. In this subject there is a failure to complete the type; he has its low side and narrow views, minus the elevating qualities of a higher specimen of the same type. The color of the hands is important. 
 

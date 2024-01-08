@@ -15,9 +15,13 @@ Bulbous nails shows throat, bronchial, or pulmonary trouble.
 
 Note this peculiar fact in these cases, that the consumptive Venusian has his sexual desires increased tremendously. This seems to be a symptom of this disease, especially in the middle stages. Hair on the hands, if black, will show the increased vitality peculiar to that color. 
 
-If it be plentiful, it also shows increased muscular strength. Black color, showing plentiful supplies of iron, adds to the ardor of the type, and the subject is vigorous, energetic, and volatile. If the Mount be a strong one, black hair must be considered as an addition to its strength. Red hair adds its flashing excitability to the subject, making him preliable to quick temper and sudden changes of mood. In both these colors I suppose the hair to be fine in quality. 
+If it is plentiful, it also shows increased muscular strength. Black color, showing plentiful supplies of iron, adds to the ardor of the type, and the subject is vigorous, energetic, and volatile. If the Mount be a strong one, black hair must be considered as an addition to its strength.
 
-If coarse, it will show all the indications of color, but in a coarse degree. This coarse black or red hair with a large Mount, grilled, will make the subject very susceptible to sexual attraction, where physical instead of mental charms are the moving power. Red or black hair, fine in quality, shows volatility in refined degrees. Gray or white hair is often seen on Venusians even when young. 
+Red hair adds its flashing excitability to the subject, making him preliable to quick temper and sudden changes of mood. In both these colors I suppose the hair to be fine in quality. 
+
+If coarse, it will show all the indications of color, but in a coarse degree. This coarse black or red hair with a large Mount, grilled, will make the subject very susceptible to sexual attraction, where physical instead of mental charms are the moving power.
+
+Red or black hair, fine in quality, shows volatility in refined degrees. Gray or white hair is often seen on Venusians even when young. 
 
 In these cases if the depleted vitality shown by this color comes from exhausted powers due to excess, the flabby much-grilled Mount will be seen. Blond color is normal, and gives its typical qualities. If straw color, it is not the Venusian blond, which must have a tinge of auburn or red to be normal. 
 
@@ -52,20 +56,41 @@ Short fingers, with their quickness of thought and impulsiveness of action, are 
 
 Note carefully whether they are too short, for the impulsiveness of this type needs nothing to increase it. The natural distaste of the Venusian for detail emphasizes his short-fingered qualities, and increases the impulsive-ness and desire for quickness in thought and execution. Thus, when short fingers are seen, place short-fingered quickness and liability to carelessness back of the Venusian qualities and you will get the proper result. The thumb will be largely the key to your subject. 
 
-If small or pointed, or both, you know the character is weak and vacillating. The desires will rule and be gratified, the subject will be easily led by others, and, with his natural pleasure-loving proclivities, will be led away by whoever obtains an influence over him. The natural laziness of the type will be increased, and determination lacking. You must compare the two phalanges to see if will or reason is greater. If will be stronger, determination will be exercised without good judgment, and this subject is determined by fits and starts. If the will phalanx be pointed, the impressionability is increased and the will weakened. 
+If small or pointed, or both, you know the character is weak and vacillating. The desires will rule and be gratified, the subject will be easily led by others, and, with his natural pleasure-loving proclivities, will be led away by whoever obtains an influence over him. 
+
+The natural laziness of the type will be increased, and determination lacking. You must compare the two phalanges to see if will or reason is greater. If will be stronger, determination will be exercised without good judgment, and this subject is determined by fits and starts. If the will phalanx be pointed, the impressionability is increased and the will weakened. 
 
 If it be square, the will is stronger, common-sense, and practical. If it be spatulate, the will becomes very strong per se, but if unsupported by a good second phalanx and a good Head line will not be brought into operation. The clubbed formation is not often seen on this type, and is not normal. 
 
-There is no fierceness nor bloodthirsty desire for murder in the good Venusian. When he kills, it is in a fit of jealousy or thwarted passion, and it is a low specimen of the type who does it. Refined, high-class Venusians never commit murder - there is too much kindness and sympathy in them. On low type Venusians you will always find a strong secondary type present, nearly as strong as the Venusian, and it is from this secondary type that they get the nerve and brutality to commit murder. 
+There is no fierceness nor bloodthirsty desire for murder in the good Venusian. When he kills, it is in a fit of jealousy or thwarted passion, and it is a low specimen of the type who does it. 
+
+Refined, high-class Venusians never commit murder. There is too much kindness and sympathy in them. On low type Venusians you will always find a strong secondary type present, nearly as strong as the Venusian, and it is from this secondary type that they get the nerve and brutality to commit murder. 
 
 The Venusian type supplies the passion and jealousy, the secondary type the instinct to kill. 
 
-If the clubbed thumb be seen on a refined Venusian subject, you will find that the brutal tendencies are inherited, sometimes from generations back, and often never display themselves. The paddle-shaped will phalanx is an excellent one to find on this type, for the tendencies of the type are so strong that it needs all the restraints possible .to hold them in check, and strong, evenly balanced will power is one of the best possible restraining elements. 
+If the clubbed thumb be seen on a refined Venusian subject, you will find that the brutal tendencies are inherited, sometimes from generations back, and often never display themselves. 
+
+The paddle-shaped will phalanx is an excellent one to find on this type, for the tendencies of the type are so strong that it needs all the restraints possible .to hold them in check, and strong, evenly balanced will power is one of the best possible restraining elements. 
 
 The second phalanx must be long and well balanced to get the best results, for reason and good judgment are needed to keep the subject level. If this is deficient, he becomes a prey to his emotions, impulses, and desires, and lacks the good sense and judgment to restrain them, even if he has a will strong enough to do it. 
 
-In this case, will is in operation, but is not backed by judgment. The best formation of the second phalanx is the waist-like, for tact is then indicated, and the subject does not offend by brusqueness. Thus, on a Venusian, the large thumb, giving good judgment and determination, will hold in check any amount of strong desires. 
+In this case, will is in operation, but is not backed by judgment. 
+
+The best formation of the second phalanx is the waist-like, for tact is then indicated, and the subject does not offend by brusqueness. Thus, on a Venusian, the large thumb, giving good judgment and determination, will hold in check any amount of strong desires. 
 
 In the chapter on the Thumb we said that this digit shows will, reason, and love, the three great moral forces of the universe. Thus the Venusian, in a perfect state, combines all these. 
 
-The Head line must be clear, well cut, well colored, and unbroken, to give the best results, for the Venusian needs self-control and clear judgment to steer him from pitfalls. These elements he gets from such a Head line, which is a fine adjunct to a good thumb. Of the seven types the one which lightens the world with love, charms with beauty, attracts with health, sympathizes in sorrow, and relieves distress is the Venusian, and while we can by no means say that he is faultless, we must recognize that his good qualities are so predominant that his faults are forgotten.
+The Head line must be clear, well cut, well colored, and unbroken, to give the best results. 
+
+The Venusian needs self-control and clear judgment to steer him from pitfalls. 
+- These elements he gets from such a Head line, which is a fine adjunct to a good thumb. 
+
+
+Of the 7 types, the Venusian:
+- lightens the world with love
+- charms with beauty
+- attracts with health
+- sympathizes in sorrow
+- relieves distress
+
+His good qualities are so predominant that his faults are forgotten.

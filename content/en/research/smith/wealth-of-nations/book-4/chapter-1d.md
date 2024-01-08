@@ -20,7 +20,7 @@ icons: /avatars/smith.png
 
 Foreign trade gives a value to their nations' superfluities by exchanging them for something else.
 
-The narrowness of the home market limits a country's division of labour. This hindrance is removed by foreign trade. By opening a wider market for their surplus produce, they are encouraged to increase= 
+The narrowness of the home market limits a country's division of labour. This hindrance is removed by foreign trade. By opening a wider market for their surplus produce, they are encouraged to increase: 
 - their produce and
 - their society's real wealth.
 
@@ -82,7 +82,7 @@ Mexico and Peru were the only American nations superior to savages.
 - These two nations were destroyed almost as soon as they were discovered.
   - The rest were mere savages.
 
-But the empires of China, India, Japan, and several others in the East Indies= 
+But the empires of China, India, Japan, and several others in the East Indies: 
 - had no richer mines of gold or silver,
 - were much richer and better cultivated, and
 - were more advanced in all arts and manufactures than Mexico or Peru.
@@ -156,10 +156,10 @@ This was due to the following ideas:
 - Wealth consisted in gold and silver
 Those metals could be brought into a country only through the balance of trade or by exporting a bigger value of rude produce than it imported.
 
-It thus became necessary for the political economy to= 
+It thus became necessary for the political economy to: 
 reduce foreign imports for home consumption as much as possible
 increase the domestic exports as much as possible
-Its two great engines for enriching the country were= 
+Its two great engines for enriching the country were: 
 Restraints on importation
 Encouragements to exportation
 
@@ -192,11 +192,11 @@ When foreign goods liable to a duty were imported to be exported again, all or a
 
 {{< s v="44" >}} The commercial system proposes to increase the amount of gold and silver in any country by turning the balance of trade in its favour, through 6 principal means:
 
-1. Import Restraint 1=  Ordinary (Chapter 2)
-2. Import Restraint 2=  Extraordinary (Chapter 3)
-3. Export Encouragement 1=  Drawbacks (Chapter 4)
-4. Export Encouragement 2=  Bounties (Chapter 5)
-5. Export Encouragement 3=  Commercial Treaties (Chapter 6)
-6. Export Encouragement 4=  Colonies (Chapter 7)
+1. Import Restraint 1:  Ordinary (Chapter 2)
+2. Import Restraint 2:  Extraordinary (Chapter 3)
+3. Export Encouragement 1:  Drawbacks (Chapter 4)
+4. Export Encouragement 2:  Bounties (Chapter 5)
+5. Export Encouragement 3:  Commercial Treaties (Chapter 6)
+6. Export Encouragement 4:  Colonies (Chapter 7)
 
 I will examine how these affect the country's real wealth. I will not examine how they bring money into the country.

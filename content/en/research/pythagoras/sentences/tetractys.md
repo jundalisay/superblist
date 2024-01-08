@@ -11,31 +11,34 @@ icon: /icons/spmat.png
 
 
 
-The tetrad was called by the Pythagoreans every number, because it comprehends in itself all the numbers as far as to the decad, and the decad itself. The sum of 1, 2, 3, and 4, is 10. 
+The Pythagoreans called every number as the tetrad. 
 
-Hence they called both the decad and the tetrad as every number. 
+This was because the tetrad comprehends in itself all the numbers as far as to the decad, and the decad itself. 
+- The sum of `1`, `2`, `3`, and `4`, is `10`. 
 
-The decad was a number in energy, but the tetrad was a number in capacity. 
+Hence, they called both the decad and the tetrad as every number. 
 
-The sum of these four numbers 1, 2, 3, 4 made up the tetractys, in which all harmonic ratios are included. 
+**The decad was a number in energy, but the tetrad was a number in capacity.** 
 
-- 4 to 1 is a quadruple ratio. It forms the symphony bisdiapason.
-- 3 to 2 is a sesquialter ratio. It forms the symphony diapente.
-- 4 to 329 3 is a sesquitertian ratio. If forms the symphony diatessaron.
-- 2 to 1 is a duple ratio. It forms the diapason.
+The sum of these four numbers `1`, `2`, `3`, `4` made up the tetractys, in which all harmonic ratios are included. 
 
-The Pythagoreans greatly venerated the the tetractys. 
+- `4` to `1` is a quadruple ratio. It forms the symphony *bisdiapason*.
+- `3` to `2` is a sesquialter ratio. It forms the symphony *diapente*.
+- `4` to `3` is a sesquitertian ratio. If forms the symphony *diatessaron*.
+- `2` to `1` is a duple ratio. It forms the diapason.
 
-Theo of Smyrna,[106] showed how many tetractys there are. He said:
+The Pythagoreans greatly venerated the tetractys. 
+
+Theo of Smyrna, showed how many tetractys there are. He said:
 
 {{< q >}}
-"The tetractys was principally honored by the Pythagoreans because all symphonies are found to exist within it, and also because it appears to contain the nature of all things.” 
+The tetractys was principally honored by the Pythagoreans because all symphonies are found within it, and also because it appears to contain the nature of all things.
 {{< /q >}}
 
 Hence their oath was:
 
 {{< q >}}
-“Not by Pythagoras who <!-- delivered to our soul --> invented the tetractys, which contains the fountain and root of everlasting nature.” 
+“Not by Pythagoras who invented the tetractys, which contains the fountain and root of everlasting nature.” 
 {{< /q >}}
 
 <!-- But by him who delivered the tetractys they mean ; for the doctrine concerning it appears to have been his invention.  -->
